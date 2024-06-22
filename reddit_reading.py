@@ -2,6 +2,7 @@ import json
 import praw
 import random
 import os
+import shutil
 
 # Replace these with your own credentials
 CLIENT_ID = '39ZflIZLYQso2iFg9GqW2g'
@@ -76,8 +77,8 @@ def gen_many_humanities_reddit_json():
     if not os.path.exists(new_dir_path):
         os.makedirs(new_dir_path)
     
-    # for subreddit in subreddits:
-    #     gen_single_reddit_json(subreddit, new_dir_path + "/" + subreddit + ".json")
+    for subreddit in subreddits:
+        gen_single_reddit_json(subreddit, new_dir_path + "/" + subreddit + ".json")
         
     dir_path = "./reddit_humanities_data"
     if not os.path.exists(dir_path):
@@ -89,10 +90,8 @@ def gen_many_humanities_reddit_json():
     
     if overide == "y":
         ## remove the dir in dir_path and replace with new_dir_path in windows
-        os.system("rmdir " + dir_path)
-        os.system("move " + new_dir_path + " " + dir_path)
-        # os.system("rm -rf " + dir_path)
-        # os.system("mv " + new_dir_path + " " + dir_path)
+        shutil.rmtree(dir_path)
+        os.rename(new_dir_path, dir_path)
     
     print("Data collection complete.")
     return
