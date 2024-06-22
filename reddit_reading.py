@@ -3,6 +3,14 @@ import praw
 import random
 import os
 import shutil
+import google.generativeai as genai
+
+genai.configure(api_key="AIzaSyA_a9NStJj6XoMDaGXlbz-v35xCQzTlDqA")
+model = genai.GenerativeModel(name='gemini-1.5-flash')
+
+def call_prompt(prompt):
+    answer = model.generate_content(prompt)
+    return answer.text
 
 # Replace these with your own credentials
 CLIENT_ID = '39ZflIZLYQso2iFg9GqW2g'
@@ -96,9 +104,79 @@ def gen_many_humanities_reddit_json():
     print("Data collection complete.")
     return
     
+def get_humanities_reddit_data():
+    # data[<subreddit_name>]
+    #     [<post_title>]
+    #     ["title"|"score"|"url"|"content"|"num_comments"|"comments"]
+    
+    dir_path = "./reddit_humanities_data"
+    
+    data = {}
+    for file in os.listdir(dir_path):
+        with open(dir_path + "/" + file, "r") as f:
+            data[file.split(".")[0]] = json.load(f)
+    
+    return data
+
+def generate_AI_comment(title, content, human_comments):
+    comments = "\n".join(human_comments)
+    prompt = f"""You will be provided with a Reddit post and a subset of its comments. Your task is to generate a new comment that fits naturally into the conversation. The generated comment should be coherent, contextually appropriate, and human-like. The goal is to create a comment that would make sense if it appeared in the original thread.
+
+Instructions:
+Read the provided Reddit post carefully.
+Review the provided comments to understand the context and tone of the discussion.
+Generate a new comment that could naturally follow the provided comments and align with the ongoing discussion.
+Ensure the comment is relevant to the post and the preceding comments.
+Your comment should:
+
+Be well-written and free of grammatical errors.
+Maintain a tone consistent with the other comments.
+Provide a meaningful contribution to the conversation.
+Output only the comment text. Do not include any introductions, explanations, or closing statements.
+
+Reddit Post:
+Title: {title}
+Body: {content}
+
+Comments:
+{comments}
+Your Generated Comment:
+    """
+    
+    return call_prompt(prompt)
+
+def generate_reddit_data_set():
+    # data_set[<post_title>]["title"|"content"|"human_comment"|"AI_comment"]
+    data_set = {}
+    raw_data = get_humanities_reddit_data()
+    
+    for subreddit in raw_data.keys():
+        subreddit_data = raw_data[subreddit]
+        for post in subreddit_data.keys():
+            if subreddit_data[post]["num_comments"] < 10:
+                continue
+            AI_comment = generate_AI_comment(subreddit_data[post]["title"], \
+                                             subreddit_data[post]["content"], \
+                                             subreddit_data[post]["comments"][1:])
+            data_set[post] = {
+                "title": subreddit_data[post]["title"],
+                "content": subreddit_data[post]["content"],
+                "human_comment": subreddit_data[post]["comments"][0],
+                "AI_comment": AI_comment
+            }
+            
+    # Save the data set to a json file
+    with open("rettit_data_set.json", "w") as file:
+        json.dump(data_set, file, indent=4)
+        
+    return data_set
+        
+    
 
 # Example usage
 if __name__ == "__main__":
     
-    # gen_single_reddit_json('python', "reddit_postd.json")  # Replace 'python' with any subreddit name
-    gen_many_humanities_reddit_json()
+    # data = generate_reddit_data_set()
+    # print(len(data))
+    print("hi")
+    print(call_prompt("give me name of a subreddit"))
