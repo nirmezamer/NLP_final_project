@@ -6,17 +6,21 @@ import shutil
 import google.generativeai as genai
 from tqdm import tqdm
 
-genai.configure(api_key="AIzaSyA_a9NStJj6XoMDaGXlbz-v35xCQzTlDqA")
-model = genai.GenerativeModel('gemini-1.5-flash')
+# genai.configure(api_key="AIzaSyA_a9NStJj6XoMDaGXlbz-v35xCQzTlDqA")
+# model = genai.GenerativeModel('gemini-1.5-flash')
 
-def call_prompt(prompt):
-    answer = model.generate_content(prompt)
-    return answer
+# def call_prompt(prompt):
+#     answer = model.generate_content(prompt)
+#     return answer
 
 # Replace these with your own credentials
 CLIENT_ID = '39ZflIZLYQso2iFg9GqW2g'
 CLIENT_SECRET = 'OnT4P7VFwU4gP6-Zz4Ke8y42FkcunQ'
 USER_AGENT = 'your_user_agent'
+
+reddit = praw.Reddit(client_id=CLIENT_ID,
+                        client_secret=CLIENT_SECRET,
+                        user_agent=USER_AGENT)
 
 def get_subreddits_list():
     subreddits = [
@@ -56,14 +60,8 @@ def get_subreddits_list():
 
     return subreddits
 
-def gen_single_reddit_json(subreddit_name, file_name):
-    reddit = praw.Reddit(client_id=CLIENT_ID,
-                         client_secret=CLIENT_SECRET,
-                         user_agent=USER_AGENT)
+def gen_single_reddit_json(subreddit, file_name, num_posts=5):
 
-    subreddit = reddit.subreddit(subreddit_name)
-    
-    num_posts = 20
     posts = list(subreddit.hot(limit=num_posts)) 
     
     posts_dict = {}
@@ -79,17 +77,22 @@ def gen_single_reddit_json(subreddit_name, file_name):
     with open(file_name, "w") as file:
         json.dump(posts_dict, file, indent=4)
 
-def gen_many_humanities_reddit_json():
+def generate_many_humanities_reddit_json():
     
     subreddits = get_subreddits_list()
-    new_dir_path = "./reddit_humanities_data_new"
+    subreddits = reddit.subreddits.popular(limit=2000)
+    new_dir_path = "./reddit/reddit_humanities_data_new"
     if not os.path.exists(new_dir_path):
         os.makedirs(new_dir_path)
     
-    for subreddit in subreddits:
-        gen_single_reddit_json(subreddit, new_dir_path + "/" + subreddit + ".json")
+    for i, subreddit in tqdm(enumerate(subreddits)):
+        subreddit_name = subreddit.display_name
+        json_file_name = new_dir_path + "/" + subreddit_name + ".json"
+        if os.path.exists(json_file_name):
+            continue
+        gen_single_reddit_json(subreddit, json_file_name)
         
-    dir_path = "./reddit_humanities_data"
+    dir_path = "./reddit/reddit_humanities_data"
     if not os.path.exists(dir_path):
         os.makedirs(dir_path)
     
@@ -110,7 +113,7 @@ def get_humanities_reddit_data():
     #     [<post_title>]
     #     ["title"|"score"|"url"|"content"|"num_comments"|"comments"]
     
-    dir_path = "./reddit_humanities_data"
+    dir_path = "./reddit/reddit_humanities_data"
     
     data = {}
     for file in os.listdir(dir_path):
@@ -149,7 +152,6 @@ Your Generated Comment:
     except Exception as e:
         return ""
 
-
 def generate_reddit_data_set():
     # data_set[<post_title>]["title"|"content"|"human_comment"|"AI_comment"]
     data_set = {}
@@ -173,7 +175,7 @@ def generate_reddit_data_set():
             }
             
     # Save the data set to a json file
-    with open("rettit_data_set.json", "w") as file:
+    with open("reddit/reddit_data_set.json", "w") as file:
         json.dump(data_set, file, indent=4)
         
     return data_set
@@ -183,5 +185,7 @@ def generate_reddit_data_set():
 # Example usage
 if __name__ == "__main__":
     
-    data = generate_reddit_data_set()
-    print(len(data))
+    # data = generate_reddit_data_set()
+    # print(len(data))
+
+    generate_many_humanities_reddit_json()
