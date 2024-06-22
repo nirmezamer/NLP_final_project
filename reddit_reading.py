@@ -4,13 +4,14 @@ import random
 import os
 import shutil
 import google.generativeai as genai
+from tqdm import tqdm
 
 genai.configure(api_key="AIzaSyA_a9NStJj6XoMDaGXlbz-v35xCQzTlDqA")
-model = genai.GenerativeModel(name='gemini-1.5-flash')
+model = genai.GenerativeModel('gemini-1.5-flash')
 
 def call_prompt(prompt):
     answer = model.generate_content(prompt)
-    return answer.text
+    return answer
 
 # Replace these with your own credentials
 CLIENT_ID = '39ZflIZLYQso2iFg9GqW2g'
@@ -142,22 +143,28 @@ Comments:
 {comments}
 Your Generated Comment:
     """
-    
-    return call_prompt(prompt)
+    try:
+        answer = call_prompt(prompt)
+        return answer.text
+    except Exception as e:
+        return ""
+
 
 def generate_reddit_data_set():
     # data_set[<post_title>]["title"|"content"|"human_comment"|"AI_comment"]
     data_set = {}
     raw_data = get_humanities_reddit_data()
     
-    for subreddit in raw_data.keys():
+    for i, subreddit in tqdm(enumerate(raw_data.keys())):
         subreddit_data = raw_data[subreddit]
-        for post in subreddit_data.keys():
+        for j, post in tqdm(enumerate(subreddit_data.keys())):
             if subreddit_data[post]["num_comments"] < 10:
                 continue
             AI_comment = generate_AI_comment(subreddit_data[post]["title"], \
                                              subreddit_data[post]["content"], \
-                                             subreddit_data[post]["comments"][1:])
+                                             subreddit_data[post]["comments"][1:5])
+            if AI_comment == "":
+                continue
             data_set[post] = {
                 "title": subreddit_data[post]["title"],
                 "content": subreddit_data[post]["content"],
@@ -176,7 +183,5 @@ def generate_reddit_data_set():
 # Example usage
 if __name__ == "__main__":
     
-    # data = generate_reddit_data_set()
-    # print(len(data))
-    print("hi")
-    print(call_prompt("give me name of a subreddit"))
+    data = generate_reddit_data_set()
+    print(len(data))
