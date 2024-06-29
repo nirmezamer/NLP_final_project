@@ -61,24 +61,44 @@ def call_prompt_with_retry(msg, retries=5, backoff_factor=1):
                 return ""
     return ""
 
-def create_AI_paper(title):
-    prompt = """Please generate a short newspaper content for a given title. 
-The newspaper content should be brief, informative, neutral in tone, and written in a newspaper style. 
-Ensure the newspaper content includes quotes and sources, proffetional style and a short conclusion such as the topic's significance. 
-The information should sound clarity and conciseness and include specific details like dates, names, and places. 
-Write the newspaper content in your own words, avoiding direct copying from existing newspapers. 
-The newspaper content should be concise, typically around 3-5 sentences, and should closely resemble the style and length of actual Wikipedia summaries. 
-The title will be provided, and the generated summary should align closely with the title's topic.
+def create_AI_paper(title, content):
+    prompt = f"""Please generate a short newspaper article based on the provided title and content.
+The article should be between 100-150 words, brief, informative, and written in a neutral tone. 
+It should adhere to a professional newspaper style, ensuring clarity and conciseness, and include specific details like dates, names, and places.
+Incorporate quotes and sources where appropriate, and conclude with a short statement highlighting the topic's significance. 
+The article must be original, written in your own words, and should closely align with the provided title and content.
 
-The Title is:
+The Title is: {title}
+
+The Content is: {content}
+
+Please recreate the newspaper article accordingly and provide me only the article content.
 """
-    prompt += title
+
     try:
         answer = call_prompt_with_retry(prompt)
         return answer
     except Exception as e:
         return ""
 
+def create_AI_generated_paper(papers):
+    # papers is a dictionary with title and content
+    # papers['title'] = 'content'
+    generated_papers = {}
+    for title, content in papers.items():
+        generated_paper = create_AI_paper(title, content)
+        if generated_paper == "":
+            logger.error(f"Error generating content for {title}")
+        else:
+            generated_papers[title] = generated_paper
+    
+    # Save the generated papers to a JSON file
+    file_name = "AI_generated_papers.json"
+    with open(file_name, "w") as file:
+        json.dump(generated_papers, file, indent=4)
+        
+    return generated_papers
+    
 def main():
     # Example website to try
     website = 'http://bbc.com'
