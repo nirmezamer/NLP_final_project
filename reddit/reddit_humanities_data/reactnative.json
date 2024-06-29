@@ -1,0 +1,74 @@
+{
+    "Show Your Work Thread": {
+        "title": "Show Your Work Thread",
+        "score": 3,
+        "url": "https://www.reddit.com/r/reactnative/comments/1dqk3oq/show_your_work_thread/",
+        "content": "Did you make something using React Native and do you want to show it off, gather opinions or start a discussion about your work? Please post a comment in this thread.\n\nIf you have specific questions about bugs or improvements in your work, you are allowed to create a separate post. If you are unsure, please contact u/xrpinsider.\n\nNew comments appear on top and this thread is refreshed on a weekly bases.",
+        "num_comments": 3,
+        "comments": [
+            "I made a react native youtube video. Does that count?\n\nIf so, I'd be happy if you guys would check it out.\n\nIt is a tutorial of how you would create a turbo module for ios [https://youtu.be/Xn1fzgRSHPo](https://youtu.be/Xn1fzgRSHPo)\n\nI am planning to do an Android version. As well as get to c++ turbo modules",
+            "I just launched HealthMode: Fitness for Free\n\nA 100% free fitness app with no premium subscriptions on Product Hunt today!\n\nMore information here: https://www.producthunt.com/posts/healthmode-fitness-for-free"
+        ]
+    },
+    "Just finished creating a time-lapse app using Expo, Firebase, and FFMPEG. Looking for feedback on the app and design.": {
+        "title": "Just finished creating a time-lapse app using Expo, Firebase, and FFMPEG. Looking for feedback on the app and design.",
+        "score": 26,
+        "url": "https://v.redd.it/c3yc96z8sd9d1",
+        "content": "",
+        "num_comments": 11,
+        "comments": [
+            "Link to the app:\n\n* iOS: [https://apps.apple.com/us/app/ptl-camera-plant-timelapse/id6476889599](https://apps.apple.com/us/app/ptl-camera-plant-timelapse/id6476889599)\n* Android: [https://play.google.com/store/apps/details?id=com.arrygoo.ptlcamera](https://play.google.com/store/apps/details?id=com.arrygoo.ptlcamera)\n* Web: [www.ptl.camera](http://www.ptl.camera)\n\n  \nIn terms of architecture, I'm using expo49, and firebase for auth, database, and storage. I store all images on the server, and use FFMPEG to stitch them together and apply various options like fps, speed, deflicker, etc.\n\nFeel free to ask any questions!",
+            "This looks neat, nice work! My app has somewhat similar functionality where I stitch many photos together and create a video using ffmpeg. I\u2019d be interested to see the ffmpeg code just to compare the approach.",
+            "Bro looking great!\n\nIf there also file upload from within app? If so checkout react native compressor (not mine)\n\nOne advice i would give is the modals, maybe a black overlay opacity or a blur would be nice to separate the rhe modal from the background",
+            "It's Amazing and looks clean, never knew there's a library for this, so you are just stitching the images and making a time lapse? Did you manually add FPS and speed rate or is it provided by FFMPEG?",
+            "Oh cool! what's your app about?\n\nI'm using node and fluent-ffmpeg. It's super simple stuff so far, things like\n\n    ffmpeg()\n        .addInput(`/tmp/ptl/${inputFolder}/%04d.jpg`)\n        .inputFPS(fps)\n\nfor merging images,\n\nFor rotation:\n\n        const command = ffmpeg(inputPath)\n          .videoFilters(`rotate=${rotationAngle}*PI/180`)\n\nfor speed:\n\n       const command = ffmpeg(inputPath)\n          .videoFilters(`setpts=${setptsValue}*PTS`)\n\n\n\nHow about you? What's your stack?",
+            "Yes, from the app! Thanks, going to look into that package. And thanks for the UI advice, that makes sense",
+            "It\u2019s provided by FFMPEG. Apparently FFMPEG is the main library for editing video via cli, and many applications use it",
+            "Ah, neat! My app is a local media library / camera. The user can select a bunch of photos from their device (or generates selections from a given time range) and the app stitches them together into a slideshow.  [The result looks like this.](https://imgur.com/a/z07Nr7c)\n\nI do it all on device without any back end \u2014 basically it goes like this:\n\n\u2022\t\u2060put all the images into a ScrollView  \n\u2022\t\u2060programmatically scroll through the list and capture a screenshot at each index  \n\u2022\t\u2060write a temp file with each screenshot\u2019s local URI and duration (playback speed is a piece of local state)  \n\u2022\t\u2060execute ffmpeg\u2019s concat command on the temp file  \n\u2022\t\u2060save the output video to the local library\n\nI might eventually implement a server, but it\u2019s been a fun challenge to keep it entirely on-device.",
+            "Oh nice! I tried doing it on the phone, but with timelapse there are so many frames it kept crashing on the phone.",
+            "Interesting, I started getting crashes from this feature when I tried updating to Expo 51, which has kept me from doing so (I\u2019m using 50 right now.) How many images are you working with in a timelapse?"
+        ]
+    },
+    "Guide: Securing Your React Native App: Best Practices and Strategies": {
+        "title": "Guide: Securing Your React Native App: Best Practices and Strategies",
+        "score": 6,
+        "url": "https://www.reddit.com/r/reactnative/comments/1dr4sku/guide_securing_your_react_native_app_best/",
+        "content": "Here\u2019s a helpful guide on securing your React Native app, great reminders of best practices for experienced developers or a good introduction for new developers: https://www.themorrow.digital/blog/securing-your-react-native-app-best-practices-and-strategies ",
+        "num_comments": 1,
+        "comments": [
+            "Thanks. Are you OP? I would be interested in learning more about biometrics security especially detection of changes in fingerprint / faceID detection"
+        ]
+    },
+    "Frustrated by Google Play's New 20 Testers Policy ?": {
+        "title": "Frustrated by Google Play's New 20 Testers Policy ?",
+        "score": 6,
+        "url": "https://www.reddit.com/r/reactnative/comments/1dr3ps2/frustrated_by_google_plays_new_20_testers_policy/",
+        "content": "Hey ReactNative developers, especially those just starting out! I'm facing the same hurdle as you \u2013 the new Play Store policy requiring a closed beta test with\u00a0**20 testers for 14 days**. I built a simple app to solve a personal problem, but I think it could be helpful for others too. The problem? Launching it as a new dev (post-November 13th, 2023) requires this test, and paid services seem expensive or unreliable, with some even using automated testing that might violate Google's policy.\n\nHere's my idea: a community of developers who can\u00a0**test each other's apps**! This would not only fulfill the 20-tester requirement but also provide valuable feedback from developers who understand our struggles.\n\n**Does this sound good?**\n\n**I have identified, a community like this already exists!**\u00a0Check out\u00a0[Android Closed Testing Community](https://chat.whatsapp.com/JGqRGOO48ka69JkRrmv8d3).\n\nPlease let me know if you find it helpful.\n\nTogether, we can help each other with this new policy and launch our apps to the playstore.",
+        "num_comments": 4,
+        "comments": [
+            "Does the group exist outside of Whatsapp? Is there a discord? A reddit?",
+            "r/androidclosedtesting",
+            "WhatsApp as far as I know",
+            "There's an awful lot of IP infringement going on in that one. I would be very wary about an associated account ban because you helped someone out testing their \"Redbull\" watch face.\n\nNot saying it will happen but that it could, should be enough to scare the heck out of you, it does me.\n\nI'm sure there are a lot of legitimate people who need help but there's probably a metric shit tonne of people setting up new accounts to skirt bans or try their luck"
+        ]
+    },
+    "I Made a 100% Free Alternative to Blinkist / Shortform with React Native!": {
+        "title": "I Made a 100% Free Alternative to Blinkist / Shortform with React Native!",
+        "score": 25,
+        "url": "https://www.reddit.com/gallery/1dqr715",
+        "content": "",
+        "num_comments": 13,
+        "comments": [
+            "I've made a completely free alternative to Blinkist/Shortform for reading non-fiction book summaries in under 15 minutes. It's currently available on web and ios, and I'm recruiting beta testers for the Android app!\n\n[https://www.summrize.com/](https://www.summrize.com/)",
+            "This is impressive. I like that the website provides a sample of the app's functionality.\n\nHow do you plan to monetize this?\n\nEdit: The categories page seems to have numbers that are much bigger than the number of books listed for the category? For example, the [AI category](https://www.summrize.com/categories) says \"40\" but when I click it [I see only 2 results](https://www.summrize.com/categories/Artificial%20Intelligence)?",
+            "Looks like we both made 100% free alternatives today lmao",
+            "Well done - looks really good and functions well.",
+            "Looking dope!",
+            "Hey looking good! Saw that you are looking for beta testers for android. If you want, I could test your app and you could test mine. I am currently looking for these 20 testers for the PlayStore",
+            "I believe this is illegal but nice work from a coding standpoint",
+            "Bro that good. But the main question, from where are you getting the data? Books?\n\nIts is not legit, it doesn't make sense to call it a free alternative, since it will eventually be flagged for malpractice.",
+            "I'm in for Android",
+            "It\u2019s based on the number of books and snippets !"
+        ]
+    }
+}

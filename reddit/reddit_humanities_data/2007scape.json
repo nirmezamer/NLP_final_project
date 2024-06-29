@@ -1,0 +1,97 @@
+{
+    "Have a question about the game or the subreddit? Ask away!": {
+        "title": "Have a question about the game or the subreddit? Ask away!",
+        "score": 4,
+        "url": "https://www.reddit.com/r/2007scape/comments/1dlig09/have_a_question_about_the_game_or_the_subreddit/",
+        "content": "# Welcome to the daily /r/2007scape question thread!\n\nYou can ask anything about Old School RuneScape here. They are designated for you to ask anything you like that is relevant to the game or this subreddit. Remain respectful to your fellow 'scapers when answering questions; there are stupid questions, but it does not mean you should not be respectful whilst answering them.\n\nKeep in mind that this is not a developer Q&A thread - questions for the game developers should be posted in the weekly developer Q&A posts.\n\nClick [here](https://reddit.com/r/2007scape/search?q=author%3AAutoModerator&restrict_sr=on&sort=new&feature=legacy_search) to view the archive of /r/2007scape \"ask anything\" threads.",
+        "num_comments": 39,
+        "comments": [
+            "How do you guys organize having odd-numbers of swaps?\n\nA lot of setups I'll see for content has two 8 way swaps, but then the one 6 way swap, how do you keep yourself organized and wearing the proper things?\n\nI find if I'm not doing 1:1 swaps for clothing, I'll end up getting garbled.",
+            "Is the soulreaper axe worth it after the buff? I've got enough to buy it if I sell some niche gear that rarely gets used like acb and spectral. [Here's my relevant gear that I'd keep](https://i.imgur.com/xOjmTvA.png), Im at the point where I could do a megarare rebuild but I value having good gear to do a variety of content. I'd use the axe for slayer bossing, probably vard and duke, want to learn tob and colosseum. Any other places its good at since it got buffed?",
+            "What is the current meta Ironman guide? (If it\u2019s out of date, what are some considerations I should be aware of?)",
+            "So I tried the blood spell setup for the song of the elves final boss, and it seems to be good but not enough to cover the damage. Managed to get the boss to around 200 health before I had to teleport out due to lack of food. (18 Pineapple Pizzas)\n\nI think it's part skill issue due to overeating and playing it a bit safe, but don't think it be enough to actually beat the rest of it as the 3rd phase is quite long if you use blood spells on the crystals. While I only gave it one attempt I don't really have the funds to keep trying so think i'll just give up and come back with better gear and stats, mostly unlocking Blood Blitz as it also saves a inventory slot due to costing 2 different runes instead of 3.\n\nHonestly did not expect to get this far as a new player lol.\n\nAm going to go back to doing quests by release date, meaning unlocking barrows gloves and such as well, planning to do mage training arena because I want to train magic, unlock gear, but keep my hp level low.\n\nIf there is any niche gear or such that could help as a ironman I love to know.",
+            "Am I missing out on a lot if I just don't do shield of arrav and its associated questline?",
+            "For the 4th boss in the DT2 final battle, is it feasible to just ignore the portals and attack the boss?\u00a0\n\n\nI'm using a Dragon Crossbow with Dragon Diamond bolts and getting overwhelmed. Max hit is a 31, praying EE since no Rigour.\u00a0\n\n\nWas using Blowpipe before (with Amethyst darts) but had more luck with the DCB.",
+            "I saw a post just scrolling about dmm all stars and was wondering what is that and is there vods of it I can watch?",
+            "Hespori: the wiki still suggests slash melee as the main way to fight him. But what about his 100% fire weakness? Wouldnt it be at least a viable option?\n\nI'm really curious how it is with as high magic level as 126 but with such a weakness? What would matter more? :)",
+            "I've seen some of the promos talking about DMM Apocalypse's \"rewards\" but I can't find any info on them. Have they not been announced yet? Do they not exist? There's a real cash prize pool but I have no interest in that.",
+            "Did we lose the ability to recolor individual pieces of graceful at the Brimhaven Agility Arena? Or was that never an option?"
+        ]
+    },
+    "Hallowed Sepulchre Instances & More": {
+        "title": "Hallowed Sepulchre Instances & More",
+        "score": 306,
+        "url": "https://secure.runescape.com/m=news/hallowed-sepulchre-instances--more?oldschool=1",
+        "content": "",
+        "num_comments": 467,
+        "comments": [
+            "* Fixed a bug that falsely claimed players had obtained a Clue Scroll every time they opened a Reward Casket with a Master Clue in their possession.\n\nExcellent, no I don't have to feel as guilty about the master clue that's sat in my bank that has an RC level that I don't have.",
+            "Any update on the inquisitor\u2019s armor not giving correct damage for an incomplete set with the mace? Would love a statement on this issue.",
+            "FYI /u/JagexBlossom the news link in game takes you to the previous update page for the pride event, not this one https://secure.runescape.com/m=news/a=13/pride-2024?oldschool=1",
+            "Just throwing this in here after reporting it in-game a while ago.\n\n[On May 23rd an update was made to change normal-mode ToB Verzik p2 to scale for solo play](https://secure.runescape.com/m=news/minigame-tweaks-skilling-adjustments--more?oldschool=1). Basically two changes if there's only one player still alive.\n\n1. Only one red crab spawns (instead of two). This makes it possible to out-dps Verzik's healing.\n\n2. The zap damage is capped from ~50 down to 14. This makes tick-eating zaps not always necessary.\n\n\\#1 works properly but #2 is bugged. In a solo ToB it functions properly, but if the raid was not initially a solo, it doesn't scale down. The zap continues to hit between 45-50 even with only one player still alive.\n\nThis actually makes duo tobs where one player dies on Verzik *harder* than solos, because you still have to kill Verzik by yourself, but through all of p2 you also have to deal with zaps taking 50% of your hp with no counterplay. Unless your 2nd player dies right at the end of p2.5, it's basically impossible to clear since people don't typically bring sweets for non-solo ToBs and the only real option you have is to tick eat with brews, which are both a limited resource and massively drop your dps. So while the changes properly made solos less annoying, they didn't actually improve the situation where someone in a duo dies, making Verzik entirely uncompletable.\n\nTo reproduce this, do a duo and have one player die during p2 Verzik. Note that the zap is still hitting 45-50 damage. This does not occur when doing a solo ToB.",
+            "When do you plan on addressing the bug with the Inquisitor set? Currently, you have to wear all 3 armor pieces to get the 2.5% bonus per piece. If I use the mace for Slayer, I think I only receive .5% bonus per piece for the top and bottom. I believe it was polled so that each inquisitor piece would give its bonus to the mace independently.",
+            "The Fishing Trawler change confuses me a bit. Wouldn\u2019t divvying it up based on the players present at the end make more sense? The way they describe makes it seem like folks who log out will still get rewarded or something. \u00a0\u00a0\n\nPerhaps someone can it explain it because I don\u2019t get it.",
+            "Still no fix for Inquisitor's set not working like the updated blog said it should. Sad day. Really wish we could get any kind of answer on this.",
+            "Please put game status in the launcher",
+            "> In other skilling news, the Carpenters\u2019 Clothing has been buffed! Budding Construction workers will enjoy a slight boost to XP rates when wearing individual items, with a +2.5% boost for the full set.\n\nThe wiki has [claimed](https://oldschool.runescape.wiki/w/Carpenter%27s_outfit?oldid=13217034) since the release of the outfit that you get 2.5% for the full set. Was this incorrect or am I misunderstanding what this changes does?\n\nEdit: Reading it back. The items themselves provide more % themselves with no bonus for the full set?\n\nEdit2: Okay, so the actual change is hidden in the Changelog with the blog post being slightly confusing:\n> Carpenters\u2019 Clothing now boosts XP when completing Mahogany Homes Construction contracts, with a 2.5% boost when wearing the full set.",
+            "Sepulchre instances sound great! Would be nice to get some word on improved Colosseum hitboxes though, red clicking the air where Sol's spear used to be shouldn't be a thing..."
+        ]
+    },
+    "DMM Allstars all Teams final Setups": {
+        "title": "DMM Allstars all Teams final Setups",
+        "score": 1183,
+        "url": "https://www.reddit.com/gallery/1dlja80",
+        "content": "",
+        "num_comments": 582,
+        "comments": [
+            "The knife and teak log in JCW inventory made me smile.",
+            "Skilly bringing along the full DH set is so true to his character lolll love that man",
+            "2 DH sets from team burgers. B0aty really is content maxing this event lol",
+            "interesting how only Faux team has blood furys",
+            "JCB is a king haha really enjoyed him during the week. \n\nLove to see this become a yearly thing to hype up DMM, take on the feedback from participants and go again next year was really fun following it all week especially as someone who works night shift too, was 24/7 top notch osrs.\n\nThink it will be a big fumble by Dinos team to not win it tbh well rounded team and great gear.",
+            "Im gonna fucking lose it if Skill Specs gets a DH bomb kill. Especially if it's on Torvesta\n\nThat's all I want from this finale",
+            "I see that infernal cape switch and I respect it.",
+            "Coxie, Muts, Torvesta, and Mammal with the doors and Skilly with the DH. This is going to be good",
+            "Jcw is a funny guy man. The B0aty burgers have been straight content all week",
+            "Jcw is going to win"
+        ]
+    },
+    "When I was 9 years old, I once planned a trip from Varrock to Port Sarim over the course of an entire school week with a friend. ": {
+        "title": "When I was 9 years old, I once planned a trip from Varrock to Port Sarim over the course of an entire school week with a friend. ",
+        "score": 1108,
+        "url": "https://www.reddit.com/r/2007scape/comments/1dljk9p/when_i_was_9_years_old_i_once_planned_a_trip_from/",
+        "content": "My friend from school and I played RuneScape pretty regularly together. We were familiar with the castle of Lumbridge, the path past dark wizards into Varrock, and some of Varrock itself (mainly the town center and the West Bank). \n\nWe had heard from other players that there were ships that could take you all across RuneScape at Port Sarim, and after looking at the map, we decided we should wait until the weekend because it looked like \u2018an incredibly long trip.\u2019 We spent our allotted play time during the school week fishing and cooking the best food we could and ensured we packed our best armor in case we came across any monsters on our perilous endeavor. \n\nThe weekend came, and off we went. We managed to make it. It was a glorious adventure. \n\nWe ended up finding the charter ship and quickly realized the boat rides cost more than we had in our banks. We teleported back to lumbridge via home teleport and resumed killing men around the castle. Pretty sure that account was hacked like two weeks later. \n\nTl;dr RuneScape as a child was such a magical experience. ",
+        "num_comments": 97,
+        "comments": [
+            "It\u2019s crazy to me that home teleport has been out since 2006, and that I distinctly remember runescape pre home teleport\u2026",
+            "My brother and I did a very similar trip to the end of the wilderness circa 2005. And I smithed us both sets of bronze armor and when we made it to the fence together it was so exciting. \n\nWalked back into varrock like champions chanting \n\u201cWe are the first noobs to make it to the end of the fence!\u201d\n\nBut agreed that it was such a magical time to play.",
+            "Great story. Thanks for sharing. I'm not sure how to feel about your name and flair, though",
+            "Reminds me of the time my friend took me to Taverly Dungeon. I'd been to Taverly before but had no idea there was such a huge dungeon underneath it. \n\nAs a kid it really seemed like such a dangerous place, especially running past the dragons etc. The Black Demons blew my mind and he told me that you could get a Dragon Med helm from them. \n\nOne weekend I slept over his house and we pulled an all-nighter safespotting the Black Demons with a Rune Halberd. The kills took so long you'd log out from inactivity if you didn't move the camera lol.",
+            "It was a different time wasn\u2019t it\u2026.I remember when a friend in our RS group got 70 wcing and we all were just thinking of how much money we were going to be bringing in that we started making plans like \u201cI\u2019m going to buy all of Varrock!\u201d",
+            "An incredibly long trip I\u2019ll never forget was trudging from Varrock east bank to the barrows with my buddy Ramsey. \n\nNo digsite pendant, no lumberyard tele, no ring of the elements, no fairy ring, no kharyll house portal, hell - we were too dumb to take the boat shortcut, or to have access to the resistance hideout shortcut. \n\nJust, walking, with no stamina potions, waiting at the gate next to the homie Ulizius for 100 run before we braved the swamp, praying to Jagex for a Guthans Warspear. \n\nBack when my total level was closer to my age than the current year, simpler days.",
+            "My best friend when I was 9 was a kid I met in class. At that age, he had 99 magic and a fire cape. He actually still plays and maxed an iron man account a few years ago. Meanwhile, 9-year-old me was out there telling people my password and getting scammed.",
+            "My home life was shit so when I was 11 years old I would wake up at like 7 am on a sat/sun and go to the nearby university and spend the entire day there playing rsc until 8pm when they closed. It was a computer lab for pre-med students so the computers were high end and they never kicked me out; probably assumed I was someone's child. True story.",
+            "I used to do expeditions into Morytania and Karamja and never came back alive.",
+            "My first day playing I was 8, and I thought the guy I was talking to to  start Ernest the chicken was a real player"
+        ]
+    },
+    "Mobile UIM inferno": {
+        "title": "Mobile UIM inferno",
+        "score": 301,
+        "url": "https://v.redd.it/wkil0r41w18d1",
+        "content": "",
+        "num_comments": 45,
+        "comments": [
+            "Awesome mate! I am also mobile and learning inferno. When is the best time to drop the runes to show safespots?",
+            "I'm picturing some dude laying on a couch looking at his phone just sweating profusely. Good fuckin job matey.",
+            "Bruh, is this on tablet or phone?\n\nI can\u2019t phatom doing this on a phone",
+            "I fucking suck at this game",
+            "We're friends in game!\nBig gz man that's amazing.",
+            "Teach me your ways\u2026 farthest I\u2019ve made it is wave 57 and it was by sheer luck.",
+            "Sick",
+            "nah, absolute god gamer, I'm always amazed by how good some people are on mobile. I'm curious, are you able 1t flick on mobile? Were you using a tablet or a phone and do you use a stylus? Besides tile markers, which I heard are coming to mobile soon, what would be the best improvement to end game content like inferno?",
+            "Big gz. I would have picked up those runes on the ground and died lol",
+            "Thats pretty sick man gz"
+        ]
+    }
+}

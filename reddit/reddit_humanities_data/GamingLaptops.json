@@ -1,0 +1,80 @@
+{
+    "r/GamingLaptops Discord Server Status Update, June 2024": {
+        "title": "r/GamingLaptops Discord Server Status Update, June 2024",
+        "score": 8,
+        "url": "https://www.reddit.com/r/GamingLaptops/comments/1dfzq9m/rgaminglaptops_discord_server_status_update_june/",
+        "content": "Howdy r/GamingLaptops community,\n\nI'm excited to announce that we're working hard on launching our official Discord server! The release date is expected to be later this month or early July. However, if unforeseen circumstances arise, there might be a slight delay. Rest assured, the server will be coming extremely soon its just a matter of bot & server related structuring.\n\nOur goal is to create a beneficial and streamlined server for all users. We're experimenting with our own bot, Buzz, adding innovative functionalities, and ensuring the community has a say in the direction we take. Toxic meming culture will be discouraged; we focus on activity, knowledge, good sportsmanship, and fostering great community attributes.\n\nThere will be no paid roles or donation links or focused financial incentives. We value genuine engagement, activity, and contribution. However, we may only add supporter roles in the future if we achieve the goals set.\n\nIf you have questions ask them in the comments!\n\nThank you for your patience!\n\nBest, Melm",
+        "num_comments": 5,
+        "comments": [
+            "And yes, I know we've told you before that our server is releasing soon \\*cough months ago. However, real-life stuff happens out of nowhere so you can't plan everything precisely.",
+            "Excellent to see, better to refine the server than set dates in stone and rush things.",
+            "Great news!",
+            "NICE!! :D"
+        ]
+    },
+    "Got a brand new laptop, should I charge it to 100% or drain it first? HELP": {
+        "title": "Got a brand new laptop, should I charge it to 100% or drain it first? HELP",
+        "score": 27,
+        "url": "https://i.redd.it/oghj0gnrq38d1.jpeg",
+        "content": "It's my first laptop (G14 2024), I've read around the internet a bunch of tips on how to handle laptop batteries on its first boot up...\n\nNow I'm confused! Should I drain it 'til it shuts down or charge it to 100% at least once then limit next charges to 85 to 90% and never let it drain?\n\nThank you everyone!",
+        "num_comments": 25,
+        "comments": [
+            "That\u2019s an old myth.",
+            "New laptops have battery management programs that help you get the most out of your battery. The most common settings will be 80% charging while running of wall power. There\u2019s a lot of old information about batteries that come from the days when batteries had nickel in them and would develop problems due to battery memory. The new lithium polymer batteries don\u2019t have the same issues.",
+            "Oh no. You should do neither. Only let it charge to 100% when you\u2019re going out\n\nLet me explain: when the battery is perfectly balanced at 50%. Between two sides, both sides are perfectly content at staying that way. But let\u2019s say it\u2019s at 0% or 100%. Then you risk battery damage because the charge on one side is significantly higher than the other. Hence  one side desperately wants to move to the other side. And the other side desperately wants to gain some from the higher charge side.\n\n(Sorry for any mistakes I made, it\u2019s been a while since I\u2019ve done any explaining on this)\n\nSo. The best charge at all times is a perfect 50%. 50% full. Or 50% empty. Plus since you\u2019re always gonna keep it plugged it when gaming, It\u2019s going to continually be taking in power. So go to your control center and set the battery cap to 50%. And only too 100% when you go out.",
+            "Using the MyASUS app limit the charge to 80%\n\nOr use GHelper and set it to 70% thats while on use. If you are gaming while it\u2019s charging it\u2019s better to limit the charge to avoid battery degradation",
+            "I see you have a G14 there, install G-Helper from Github and set the charge limit to 50% when you're using wall charging. Only charge it to 100% when you're going out and not expect a wall plug to be available for an extended period. The G14 has excellent battery life anyway so I wouldn't worry about that, just focus on preserving your battery and getting the most out of it.",
+            "not required. just remove  the bloat you get on windows. and enjoy your new laptop.",
+            "On a brand new machine, I always do a couple of full cycles. Charge 100% and drain until shut off. It helps bed in the cells and then windows also has an idea of battery potential.\n\nAfter than I leave it on the safe charging settings of about 80% and do a full cycle every month or so since it stays plugged in most of the time anyway.\n\nThey normally suggest keeping it between 20-80% for general cycles since it wears the battery less. On the other hand I was told my battery specialists that if you keep it plugged in most of the time at 80%, its important to do full cycles to keep its capacity and output.\n\nDepends what you read and where, over the past few years battery tech and treatment of them keeps changing.",
+            "It's an old myth. Btw Nice laptop man, can you tell me the full specs?",
+            "I think G14 ryzen comes with undervolted GPU",
+            "For the love of everything good, please don't smother your laptop's bottom vents by putting them flat on the bed. Those internal cooling fans will be gasping for air. This has been a common cause for overheating and system failures."
+        ]
+    },
+    "Finally got it\u2026": {
+        "title": "Finally got it\u2026",
+        "score": 152,
+        "url": "https://i.redd.it/d79yxshyvy7d1.jpeg",
+        "content": "Dell G15 5535 Ryzen\u2122 7 7840HS RTX\u2122 4060 16gb RAM",
+        "num_comments": 72,
+        "comments": [
+            "People here will hate Dell laptops but congrats man. That's a nice one. \n\nNext up should be some better peripherals to really finish off the experience",
+            "Grats",
+            "What's the screen on it?  Nice setup btw",
+            "That's a crusty pair of headphones",
+            "congrats bro. some descent gadgets and ur good to go.",
+            "How much did it cost?",
+            "Enjoy gaming!",
+            "Mousepad is the best accesory - complements the setup well",
+            "What game are you playing there?",
+            "congrats! got the same exact specs in my laptop. the performance is amazing!"
+        ]
+    },
+    "How to turn off?": {
+        "title": "How to turn off?",
+        "score": 12,
+        "url": "https://i.redd.it/oy98ofzwu28d1.jpeg",
+        "content": "Hello everyone!\nI really hope you're all doing well!\nPlease, I would like to request your help to solve my \"problem\".\nI've recently bought a Predator Helios Neo 16 and I would love to know how turn off this white LED. It's too strong.\nCould you please help me to find a solution besides break, tape or disconnect the LED?\nThank you very much!\nI really appreciate your time, patience and effort to help me.",
+        "num_comments": 10,
+        "comments": [
+            "You cannot turn that off. The button is for switching modes.",
+            "If there isn't a software that can turn off the light, than black electrical tape will do the job",
+            "Press and hold that blue button for 5 seconds /s",
+            "If I were you I'd tape around it, framing it perfectly, then get a sharpie and colour it in. Remove the tape so you got clean lines.\n\nThe button's brightness will be very dull yet still visible. \n\nIf you're not keen on colouring it in, buy a black sticker and cut it to size to cover the light.\n\nLuckily for me, Asus 2024 models allow you to turn the status and power button LED's off via BIOS. ;3",
+            "U can turn down the brightness of the keyboard lights by holding the Fn button and pressing F11, OR use the settings in the Predator Sense app. Press the button above your Num Pad that has the symbol matching the symbol below your screen to launch the Predator Sense app.",
+            "Not related to the post but does your helios have advanced optimus?",
+            "Check bios or advanced bios if it has a setting for it. You'd have to look it up in the user manual.",
+            "Unfortunately, that white LED to change modes doesn't respond to these commands, mate. \ud83d\ude2d",
+            "i have the same model and it has one.",
+            "Try tape, preferably black electrical tape."
+        ]
+    },
+    "Just baught a smart heater.": {
+        "title": "Just baught a smart heater.",
+        "score": 4,
+        "url": "https://i.redd.it/5fc2owrcu38d1.jpeg",
+        "content": "",
+        "num_comments": 0,
+        "comments": []
+    }
+}

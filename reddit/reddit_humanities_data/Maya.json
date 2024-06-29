@@ -1,0 +1,79 @@
+{
+    "Please provide screenshots when asking for help ! It will go a long way.": {
+        "title": "Please provide screenshots when asking for help ! It will go a long way.",
+        "score": 184,
+        "url": "https://www.reddit.com/r/Maya/comments/u78q63/please_provide_screenshots_when_asking_for_help/",
+        "content": "You'll save a lot of time !\n\n^^^^preferably ^^^^screenshots ^^^^not ^^^^taken ^^^^from ^^^^your ^^^^phone",
+        "num_comments": 7,
+        "comments": [
+            "Emphasis on please don't photograph your screen.",
+            "100 percent.",
+            "To make it even better, I love using this simple screen to gif app to record your screen and convert it to a gif instantly [https://www.screentogif.com](https://www.screentogif.com)"
+        ]
+    },
+    "Topology Megathread": {
+        "title": "Topology Megathread",
+        "score": 35,
+        "url": "https://www.reddit.com/r/Maya/comments/1dlkxpr/topology_megathread/",
+        "content": "Topology is the geometric structure of a polygonal mesh.  It is the layout of the edges and vertices which define the shape of a mesh. A particular shape can be represented by many different topologies.\n\n**Mesh topolgy can never be considered  without context. It is necessary to consider how a mesh will be used and modified in the future in order to say anything true about the suitability of its topology.**\n\nThere are no hard rules when it comes to topology. Some people will say n-gons (polygons with more than 4 sides) are always bad. Some will say triangles are always bad. Some will say that non-manifold geometry is always bad, or that meshes with holes in them are always bad.\n\nNone of these are true, because mesh topology serves a purpose, or multiple purposes. It is not a goal in and of itself. If the purpose(s) is/are served by some particular topology, then that topology is good, whether or not it is itself aesthetically and technically appealing.\n\nOften users are advised to avoid triangles or ngons when building topology--to keep to quads.  This is good practice, because quads are easier to work with, easier to edit, easier to create UV projections for, they subdivide more predictably, and, most importantly, easier to produce aesthetically appealing deformations from.\n\nHowever. If a mesh will not need to deform, then there is far less pressure to keep to quads. If the mesh will not be subdivided, even less. If the shape is well-represented by the topology, and it either already has a good UV projection or will not be needing one, then quads and ngons don't matter, unless the mesh will be altered in the future.\n\nIt is much harder to modify a mesh which isn't quads than one which is. Especially if you want to alter topology. However, altering shape, to a small extent, usually is not sensitive to topology. It's also generally easier to do UV projection and alteration of quad topology than triangle/ngon topology.\n\nIt is still important to point out that having SOME non-quad (especially triangles) in your deforming, high performance mesh which may be altered and have UVs applied, is still just fine in many circumstances.  If the trangle won't interfere with these things--then it DOES NOT MATTER and you should spend time on other things. Same with n-gons, although those have a higher chance of causing technical issues.\n\nRegarding non-manifold geometry: it is generally a bad thing. Many, MANY operations and programs will not function correctly when passed non-manifold meshes. However, if your mesh is serving all your purposes, and you don't see those purposes changing, then non-manifold geometry doesn't matter. The circumstances where this might be true, however, are extremely rare, and it is best to avoid it.\n\nRegarding holes in the mesh: again, context matters.  Some advanced simulation or mesh operations require \"watertight\" meshes.  Most don't, and it doesn't matter.  Context and circumstance will dictate what's appropriate.\n\nMesh weight matters, as well. There's generally not much call for more geometric detail than your mesh needs to create the shapes you need, either statically or deformed, and it is best to keep poly counts as low as possible while not compromising on these things.  However, this must be balanced with the effort it requires to reduce detail. If you have a poly budget of 100k triangles for an object, and it's 50k but a lot of those are not necessary, it's still not worth the time to reduce it further. People hours are worth more than computer hours.\n\nWhere topology really starts to matter a lot is in efficient hard surface modeling, especially where the asset will be subdivided.  Not having your edge flows follow surface details will make life difficult, and having too much mesh detail will make modification increasingly difficult.\n\nThe point here is that every situation is different, and no real determination of acceptable mesh topology can be made without all this context. If you look at an image of a mesh and don't know anything about what it will be used for or how it might be modified, you can't say anything true about the quality of topology.  These and other questions **must** have answers, in order to judge \\*overall\\* topology:  \n\n\n1. Will it deform?\n2. If so, how?\n3. Will it need to be edited in the future?\n4. If so, how?\n5. Will it be subdivided?\n6. Does it have or will it need a UV projection?\n7. Will the UVs need to change?\n8. If so, how?\n9. Will it need to be exported into another application?\n10. Will it be used in any type of simulation?\n11. Does it meet performance (budget) requirements?\n\nThese questions must have answers in order to come up with useful conclusions about how good the topology is or is not.  And again, there are no hard rules.  Topology is not a goal, it is a tool to help reach other goals. If a triangle doesn't affect those goals, there's no point spending energy removing it.  \n\n\n\\--------------------------------------------------------------------\n\nOriginal post:\n\nThis thread will be a clearinghouse for information about topology, both in general, and specific to Maya.  It will be ***heavily curated*** and updated as I encounter more/better information on the subject.\n\nEventually it will be turned into another wiki and be the redirect for the majority of topology threads we get here, in order to avoid repetition.\n\nIf you are a subject matter expert, please post images, videos, links, or your thoughts here.  Feel free to copy parts of old comments or posts you have made.",
+        "num_comments": 8,
+        "comments": [
+            "My 2 cents regarding topology of hard surface assets for games that won't have any deformation for animation: Good edge flow isn't really important here. What's important is maintaining the silhouette. 2 small caveats:  try to avoid too many edges connecting to any 1 vert, and try to avoid having super long, thin triangles. Otherwise, eliminate pretty much every edge/ vert that isn't contributing to the silhouette. As long as your vertex normals are set up well (hard/soft edges,  smoothing groups), it's fine. Here's a [recent video](https://youtu.be/_nsOpEnXyH4?si=VIb_J1vc7Nuodzkr) I did that mostly talks about vertex normals, but it shows a good example of what I'm talking about",
+            "https://www.artstation.com/artwork/0n93EV",
+            "https://www.humus.name/index.php?page=News&ID=228",
+            "I would add a caveat here: this will be less true the more likely it is that the asset will require modification in the future.  Ngons and triangles are inherently more difficult than quads to work with when making topologic modifications, and to a lesser extent shape modifications.  It's not black and white for sure, but it's worth keepining this in mind.  If you only need to optimise an asset's density, it's often worthwhile to maintain a non-decimated version to come back to, and always use this as the basis of the published production asset.",
+            "Thank you so much for this video. It's one of those things I didn't even know I needed but was the exact thing I was searching for. Can I ask a question if you don't mind. Is this (selecting vertices in vertex faces mode and using 'set vertex normals' ) proper operating procedure for professionals? I'm asking because I'm a beginner. It just feels overwhelming correcting each vertex like that. Especially organic shapes if for some reason you find yourselves having lots of shading problems.",
+            "That is a great resource.",
+            "I concur",
+            "Honestly, it's something you'll probably use very rarely, depending on what you're doing. There's a set of scripts that I found that allows you to copy and paste vertex normals, which would greatly speed this process up. They're in the description of [this video](https://youtu.be/0xB7nb0E448?si=LbOZRpPZGvUGKfKd)\nMost people get by with just using Maya's auto-softening of edges, and manually hardening/softening edges alone. As I mentioned in the video, this can lead to your normal map having harsh gradients to compensate for poor shading on your low poly, but that may or may not be a problem, depending on your project's limitations. \n\nAnd for organic shapes, the hope is that you do have good edge flow, so shading would naturally look correct. But I find that while modeling, vertex normals can get really screwy, so I always recommend, when you're done modeling, and before doing UVs, unlock your normals, then set to face, (fresh sleight), and then soften/harden edges according to what the model needs."
+        ]
+    },
+    "Animated - Let me know what you think.": {
+        "title": "Animated - Let me know what you think.",
+        "score": 141,
+        "url": "https://v.redd.it/zr049l29ub9d1",
+        "content": "",
+        "num_comments": 65,
+        "comments": [
+            "Least thirsty rigger",
+            "her tits move more than her facial features.",
+            "Tits are too small\u00a0",
+            "Nice ball bounce animation buddy \ud83d\udc4d",
+            "The arms feel a little stiff and a little too far out from the body.",
+            "I always love seeing how most 3D porn animators are 10 years ahead of big budget animation studios. The dedication.\n\nEDIT: To be clear, this is a half-joke. I just mean to say it's amazing what people will do when they're horny",
+            "![gif](giphy|2GpEHyn2k5119bSBA5|downsized)",
+            "As a man who's dedicated his life to dating and now being married to a busty woman, I've spent a fair amount of time studying jiggle physics. \n\nI don't think animators make breasts as heavy or as dense as they are. There's also the physical restraint of clothing that limits movement. \n\nWith a tight sports top like this model, the breasts would move more like this if she was jogging. The walking gait isn't as energetic.",
+            "How did you do the jiggle?  Is that bone-free?",
+            "Your bank account \ud83d\udcc8"
+        ]
+    },
+    "Atelier in Paris ": {
+        "title": "Atelier in Paris ",
+        "score": 53,
+        "url": "https://www.reddit.com/gallery/1dqnxqy",
+        "content": "2 months of work, made for portfolio, rendered in Arnold, the 2nd pic is the reference photo",
+        "num_comments": 9,
+        "comments": [
+            "It\u2019s one thing to execute realism well, it\u2019s another thing to be almost indistinguishable from your reference photo, especially with how complex the scene is. Incredible work",
+            "You can't just upload the same photo twice man...\n\nAmazing work!!!! Clay render or wireframe?",
+            "I\u2019m honestly quite doubtful of this one, care to show some wireframes, viewport screenshots or other camera angles?",
+            "This is insane. I\u2019m inspired",
+            "Thank you so much \ud83d\ude4f\ud83c\udffbduring this practice I realized that how important lighting is, and it's good to choose photo with many materials involved to practice with!!",
+            "Thank you!! I uploaded the clay one in the other comment, sorry I didn't upload it at first coz my mobile doesn't have it",
+            "https://preview.redd.it/olzavkyfye9d1.jpeg?width=2365&format=pjpg&auto=webp&s=8a58d2eb65da3e3d73ce530fb73c553fb1b63dbf\n\n  \nIts my honor to be doubted on this one so no worries :) here is the clay one, also I uploaded time lapse on IG\n\n[Time lapse](https://www.instagram.com/reel/C8UM9-Wvig7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)",
+            "glad to be proven wrong.\n\nImpressive work, congratulations!",
+            "Thank you :D"
+        ]
+    },
+    "Updated version of the walk cycle I posted last time. Right now I'm experimenting to find the right personality for the character. (Thanks also to those who had given me valuable advice).": {
+        "title": "Updated version of the walk cycle I posted last time. Right now I'm experimenting to find the right personality for the character. (Thanks also to those who had given me valuable advice).",
+        "score": 10,
+        "url": "https://v.redd.it/7h678c4vbe9d1",
+        "content": "",
+        "num_comments": 2,
+        "comments": [
+            "Its lookin good, only thing I noticed were the feet. If you look his feet they are perfectly straight. If you see any reference you'll notice feet are usually rotated out or in but not straight. If you rotate the feet remember knees usually faces the direction the feet. Just something to keep in mind. Good luck keep up the good work.",
+            "Thank you! They are rotated, but maybe needs a more evident rotation. :)"
+        ]
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "iThinkYouGuysWillAppreciateThis": {
+        "title": "iThinkYouGuysWillAppreciateThis",
+        "score": 159,
+        "url": "https://i.redd.it/rnxrbvrz248d1.jpeg",
+        "content": "",
+        "num_comments": 18,
+        "comments": [
+            "I can count the pixels :/",
+            "u/pixel-counter-bot",
+            "This is correct. I'm actually upset that I can't find a stupid (not smart) TV anymore.",
+            "I'd appreciate it more if I get more pixels.",
+            "This is so true. I have a hole in my wall where the smart ipad thing was when I moved in. My phone is 7 years old; the only new technology I have is pc parts but I don't count that",
+            "Did you just screenshot it from that other post, make it somehow even worse quality and then post it here?",
+            "[Better image](https://www.reddit.com/r/memes/s/oC8wdg4UQ0)",
+            "Ever heard of hand drill and smartphone?",
+            "Haha, that's a classic programmer joke! Made my day",
+            "It is around 1024 \\* 768"
+        ]
+    },
+    "whoSaidPythonIsNotConfusing": {
+        "title": "whoSaidPythonIsNotConfusing",
+        "score": 461,
+        "url": "https://i.redd.it/3xtxjtwhc28d1.jpeg",
+        "content": "",
+        "num_comments": 36,
+        "comments": [
+            "You or the one junjor who did it, chose it be to confusing",
+            "\u201cHaha, look at this confusing thing I did\u201d",
+            "Umm I'm not a phyton programmer but this seems like you did this to yourself",
+            "This is the same as saying \"C++ is so complicated!!! Look at this code I wrote!!!\"\n\nThe code:\n\n    int my_string = 25;\n    string my_int = \"Hello\";",
+            "```python\nfrom pandas import *\nfrom numpy import *\n```\n\nHehehehe",
+            "it's gonna be a slow day today on this sub, I can just tell with, what this in my feed.",
+            "Sounds like a personal problem, ngl.",
+            "how about `import json as xml` and `import html.parser as json`?",
+            "Import statements with 2 letter abbreviations being standard practice when using Python libraries is something that irritates me in a way that I have trouble articulating.",
+            "That\u2019s like saying Lisp is confusing because you can do this:\n\n    ;; Redefine `if` to behave like `while`\n    (defmacro if (test then &optional else)\n      `(loop while ,test do ,then finally (return ,else)))\n\n    ;; Redefine `while` to behave like `if`\n    (defmacro while (test body)\n      `(if ,test\n           (progn ,body)\n           nil))"
+        ]
+    },
+    "willPayYouAfterTheGameBecomesPopular": {
+        "title": "willPayYouAfterTheGameBecomesPopular",
+        "score": 174,
+        "url": "https://i.redd.it/ucsqczxdp38d1.gif",
+        "content": "",
+        "num_comments": 13,
+        "comments": [
+            "Actually me when I obtained a copy of 3D Game Studio back in the days. Well not an MMO but I wanted to make a really complex life sim. This maybe was even before The Sims saw the light of day. I ended up never doing anything serious with 3DGS, though \ud83d\ude05",
+            "I have a 40+ page for a design document for a Sandbox MMO.\n\n\nBut a really short summary;\n\nLaw System (player made rules in player made zones), Task System (player made quest), Wrapped World (if you move in one direction you come back to the same point), Analytic based Event triggers (If a large PvP battle has taken place a few days later, skeletons may roam the area).\n\nClassless, Craftable spells / abilities, dynamic generated resources (player discoverable resources)\n\nAnd a few more things, I know I can't make this without a huge budget, I know my limits and that's why it's only a design document, but it is my dream MMO, meanwhile I'll continue making small games..",
+            "Don't listen to the haters, this game will become even more popular than the skyrimsims and the worlds of craft. In fact for all the non believers, I even have a [proof of concept](https://ibb.co/ryfCSrP). Take that haters \ud83d\ude0e\ud83d\ude0e\ud83d\ude0e\ud83d\ude0e",
+            "One of my favorite parts of scrolling through some of the gaming subs is watching the 16-24 year-olds who watched 5 minutes of a Python tutorial video and still haven't gotten HelloWorld.py to run speaking with absolute authority about game (or really any form of) development.",
+            "Put it on Kickstarter and people will throw millions at you",
+            "I wish people would take it slow with programing, its like you don't take one piano lesson and then try performing for a concert. It seems like game development is one of the few skills where people feel super overconfident about their abilities despite knowing almost nothing. It's also kinda sad how some people completely give up trying to learn game development after learning that you can't just build a triple a game in a month, if they could just take it slow and reinforce their skills over time these people could actually turn their ideas into reality.",
+            "I remember was using also 3DGS 15/20 years ago, not know what I was thinking, I was young with dreams and ambitions, plus videogames addict. I think so many time on this tool (beside RPG Maker, Game Maker) for nothing after all. At least we was pioneers as learning by struggling from raw documentations before the Internet era and the amount of free stuff for making games easily.",
+            "If I were you, I would work on it very hard for 3 days straight, then not touch it for 3 months",
+            ">I have a 40+ page for a design document for a Sandbox MMO.\n\nThat actually sounds pretty interesting, could you show these documents? Only if you want to of course.",
+            "![gif](giphy|Y07F3fs9Is5byj4zK8)"
+        ]
+    },
+    "justBigCompaniesThings": {
+        "title": "justBigCompaniesThings",
+        "score": 997,
+        "url": "https://i.redd.it/m86z74avg08d1.png",
+        "content": "",
+        "num_comments": 24,
+        "comments": [
+            "\u201cYou\u2019re already maintaining it for free? Why would we start paying you?\u201d \u2014 big company",
+            "Let those companies get your library super embedded in their pipelines. Then slowly slow it down and eventually break it entirely.",
+            "Just develop all updates under a new license. After a while they have the choice between hiring one guy per company to fix the old one or paying you 10k per year for the updates.\n\nGuess what is cheaper from their perspective.",
+            "And then he will make this library inject call for funding in all web pages/screens. He may not get funding, but he will get memes.",
+            "\"comapnies\"",
+            "Why would they do that? They'll just use someone else's that is free.\n\nThere are many positives of open source and free software, but the downside has always been that it undercuts your ability to charge, if others can simply make the same thing and give it away for free.\n\nIf you want to make money off your development, don't give your work away for free. Sell your labor, code, or a license to use it from the start.",
+            "homebrew vibe",
+            "Hi.\n\nI'm a corporate employee with a 20% assignment to the scala compiler.\n\nYes - I've pushed features we wanted - but fundamentally that times up yo me and the other contributors.",
+            "Charidee ware",
+            "https://x.com/jeffwilcox/status/1801794149815095495"
+        ]
+    },
+    "myChromebookWorksFasterNow": {
+        "title": "myChromebookWorksFasterNow",
+        "score": 116,
+        "url": "https://i.redd.it/4foqjaqzm38d1.jpeg",
+        "content": "",
+        "num_comments": 15,
+        "comments": [
+            "Why not put a negative number in sleep so it works even faster?",
+            "nice hand bro",
+            "This algo can be improved by setting a default name in line 3. Stupid oversight!",
+            "Why not take a screenshot",
+            "People named  :",
+            "You know, it would be faster if you just ditch chrome and use book.",
+            "Time travel creates very nasty race condition bugs",
+            "Does that mean I\u2019ll have a Nasa PC then? \ud83e\udd2f why no one had told me this? Was I leaving under a rock until now?\n\n/s",
+            "[deleted]",
+            "names are for normies anyway"
+        ]
+    }
+}

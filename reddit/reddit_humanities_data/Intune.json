@@ -1,0 +1,89 @@
+{
+    "is Intune ever not going to take forever to update windows endpoints?": {
+        "title": "is Intune ever not going to take forever to update windows endpoints?",
+        "score": 50,
+        "url": "https://www.reddit.com/r/Intune/comments/1dqk0rk/is_intune_ever_not_going_to_take_forever_to/",
+        "content": "Been trying really, really hard to make the leap and prep to get our clients away from hybrid...  but Intune is just so SO still half-baked (unless it's just me, but I'm not getting that sense from my searching and reading).\n\nMuch of what we want to accomplish (which honestly shouldn't be that big a lift) takes forever to apply (if at all).  I wipe a profile to test things out again and nothing in my hkcu-oriented remediation fires off on the first login.  OK, let's reboot.  And again.  And again.  And again.  And force syncs.  Again.  And Again.  And force run the remediation which evidently is supposed to be an answer for lagging BS like this.  Go for a walk for over an hour.  Come back and it's still \"run remediation pending...\"\n\nHow the heck are people getting machines prepped in a reasonable amount of time - and how are they doing end-user-driven autopilot?  \"OK, unbox the laptop and go through the setup and sign in and mfa and then you'll be in windows but you need to open Teams and Outlook and click through the defaults - then reboot.  And reboot again.  And 3x for good measure (three times man, you always tell me to reboot three times).  Then call the helpdesk.\"\n\nWould love to leave our gpos behind, but JFC they just work...",
+        "num_comments": 79,
+        "comments": [
+            "It\u2019s just not going to be as reliable as old school imaging. We are at the mercy of Microsoft. I have a lab set up just for Intune and all computers tested are on Ethernet connections. Wipes, config deployments, app deployments, etc take random times. I can\u2019t even tell my leadership an ETA on deployments because they can be so random. And the times it takes more than hour it\u2019s really sad.",
+            "Sounds like you need to pour yourself a cup of coffee and sit back and relax a bit. Learn to embrace the world of \"MS Time\". ;)",
+            "I've learned patience is key with Intune.",
+            "They just released Config Refresh in the catalog.  I\u2019m hoping that\u2019ll help. Just setting it up now to test.",
+            "Check this out: https://techcommunity.microsoft.com/t5/windows-it-pro-blog/intro-to-config-refresh-a-refreshingly-new-mdm-feature/ba-p/4176921",
+            "Don\u2019t think you will ever really off the huge benefits of an RMM along side intune for a very long time",
+            "Intune is still a half baked solution that we sell to our clients as modern device management. It\u2019s horrible for most things. Good for something else. \n\nThey\u2019ve released autopilot v2 when v1 worked perfectly fine but still haven\u2019t fixed application and config deployments.\n\nBut still I love it.",
+            "We worked around it. We use PDQ Connect for application deployment and computer/software inventory. Deployments are instant, you get feedback/logs/status updates immediately in the PDQ portal. Plus their whole package library and automatic updates of common software like Chrome, Adobe Reader, etc., similar to the new Intune offering (and a lot cheaper).\n\nBut for application deployment, I absolutely cannot rely on Intune or anything based on it like PatchMyPC or Scappman due to the issues you mentioned.\n\nMost config that is pretty static and doesn't change goes into Intune configuration profiles, but if I need to roll out a registry key or quick script fix immediately, that goes into a Remediation script set to an hourly schedule or as a PDQ package.",
+            "The s in Intune is for SPEED",
+            "My only real complaint with Intune is the reporting. I wish it was sooner than the 8 hours or whatever the cycle time is.\n\nNow the big question is, are your users ever going to restart their devices so that the update can finalize? My org allows them to defer the restart and we don't force auto shutdowns for some reason."
+        ]
+    },
+    "Ransomware Recovery & Strengthening Logins: Is Windows Hello for Business & Passwordless a Good Fit?": {
+        "title": "Ransomware Recovery & Strengthening Logins: Is Windows Hello for Business & Passwordless a Good Fit?",
+        "score": 3,
+        "url": "https://www.reddit.com/r/Intune/comments/1dr0eal/ransomware_recovery_strengthening_logins_is/",
+        "content": "Hello everyone,\n\nMy new organization was recently hit by a ransomware attack. In response, they started resetting passwords for a few users and are now enforcing stricter requirements (longer, more complex passwords). This is a crucial step. However, I'm concerned about the burden of remembering and entering these new complex passwords for Windows login, VPN (SSO), applications, etc. Most of the users are working remotely, and devices are joined to the domain (HAADJ).\n\nI'm wondering if deploying Windows Hello for Business + passwordless login with MS Authenticator or FIDO2 security keys alongside a broad password reset would be a win-win solution. We would require a more complex passwords but would mitigate it by going passwordless.\n\nWould love to hear your thoughts! Should we prioritize a rapid and broad password reset and then followed by a gradual rollout of WHfB and then phone/FIDO2 login options? \n\nThanks in advance for your insights!",
+        "num_comments": 5,
+        "comments": [
+            "Yes, all three of those options are passwordless and multi-factor.  \n\nWHfB - pin/biometric + Windows device\n\nAuthenticator app - pin/biometric + mobile device \n\nFIDO Key - pin/biometric + FIDO key \n\nAll are much better forms of authentication over long complex often changing passwords",
+            "We are so heavily into WHfB with face, pin or FIDO2 being the only login methods (along with number matching push auth) that people are forgetting their passwords because they so rarely use them. \n\nIt\u2019s a good thing.",
+            "To add to this; set complex passwords, forget them, set passwords to never expire and start using TAP.\n\nO, and move away from that silly hybrid join stuff ...",
+            "How were you randomed?  When it happened to me it was a bad link that infected a pc then took the creds of a help desk person in the SAM file",
+            "Good idea to reset the passwords and just provide TAP if a user gets a new phone and needs to register the Authenticator app. That\u2019s what I am planning to do in case they saved their password somewhere insecure.\u00a0"
+        ]
+    },
+    "Pause Office Updates for A Small Subset of Users": {
+        "title": "Pause Office Updates for A Small Subset of Users",
+        "score": 6,
+        "url": "https://www.reddit.com/r/Intune/comments/1dqs5d2/pause_office_updates_for_a_small_subset_of_users/",
+        "content": "I was recently informed that Version 2406 (Build 17726.20090) breaks an Office plugin that a small subset of our users regularly utilize. The developer of the plugin has advised pausing Office updates as a temporary workaround. \r  \n\n\nOur usual Intune sysadmin is on vacation, and I'm not super up to date on the best way to handle this, so advice would be appreciated.\r  \n\n\nThe approach I am currently considering is creating a group with the subset of users, then exclude that group from our main Windows Update Ring. Then create a new update ring targeting that same group that blocks Microsoft product updates.\r  \n\n\nAppreciate any advice offered.",
+        "num_comments": 12,
+        "comments": [
+            "How are the updates currently managed?  Are you using cloud update, or is office simply left to auto update on its own?  Pausing a windows update ring will do nothing for Office updates on C2R.",
+            "Your approach will work",
+            "If you are using M365 Apps then you should look into the pause feature of cloud update\n\nhttps://learn.microsoft.com/en-us/deployoffice/admincenter/cloud-update",
+            "What is the plugin? Org Chart? If so, I ran into this.. My workaround is push two device configurations, \u201cUpdate version: (Device)\u201d and \u201cTarget Version,\u201d then scripted proactive remediation to force the update office task scheduler to roll back these users to version 16.0.16731.20600. This policy prevents us from updating the office to the latest version. Take a look at this post: https://www.reddit.com/r/Intune/s/70ZI7oosNQ\n\nHowever, it looks like it is addressed on the latest version for Semi Channel \n\nhttps://learn.microsoft.com/en-us/officeupdates/semi-annual-enterprise-channel#version-2308-june-11",
+            "Config.office.com start here",
+            "This. I maintain a group I just throw devices in that disables auto updates for CTR.",
+            "Only if OP is using msi versions of office (which I doubt): https://learn.microsoft.com/en-us/windows/deployment/update/update-other-microsoft-products",
+            "The plugin is PerfectIT.",
+            "We deploy Click-to-Run",
+            "Ok. You can try the workaround I described."
+        ]
+    },
+    "Push unique certs to windows machines?": {
+        "title": "Push unique certs to windows machines?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/Intune/comments/1dr1chw/push_unique_certs_to_windows_machines/",
+        "content": "Is this possible via intune?   Given a group of uniquely named machines, each needing its own certificate, is there a conceivable way to dynamically push  (e.g, based on hostname)?\n\nAppreciate any insight!",
+        "num_comments": 7,
+        "comments": [
+            "Are you talking about pushing a cert that has already been created or generating and installing a computer certificate from a Windows CA?",
+            "You can use Intune SCEP. But Intune only works based on UPN, so those machines must be enrolled as such, not hostname based.\n\nOtherwise you are stuck with free solutions such as Smallstep, EJBCA, SCEPman etc, or paid commercial solutions such as KeyFactor, KeyTalk, AppViewX, or Venafi",
+            "https://learn.microsoft.com/en-us/mem/intune/protect/microsoft-cloud-pki-overview",
+            "Yes, that sounds about right.\n\nEdit:  The second thing is the whole picture yes, but my question is more about the deployment piece.",
+            "If your goal is to use a Windows CA, the InTune Certificate Connector or Cloud PKI are likely your best options.",
+            "With Intune you CAN push certs + private key, however it only works for S/MIME for userdevices as far as I know. \n\nOtherwise you can only use SCEP, ie CSR gets generated on the device and only a cert is pushed back to the machine. Again this only works with user devices, as Intune currently only does UPN based enrollment",
+            "Only works for network authentication : https://learn.microsoft.com/en-us/mem/intune/protect/certificates-pfx-configure"
+        ]
+    },
+    "Intune Auto-Enrollment Hurdle ": {
+        "title": "Intune Auto-Enrollment Hurdle ",
+        "score": 5,
+        "url": "https://www.reddit.com/r/Intune/comments/1dqqztm/intune_autoenrollment_hurdle/",
+        "content": "Hello.  Seeking experience from someone who has built an InTune Environment from scratch.  I created a security group in Active Directory.  I then created a GPO and pointed it to the active directory group.  I have three machines in the group.  One is my own which is Windows 11.  The other two are Windows 10 on older Dell Latitudes.  In InTune under Devices > Windows Devices, my device is displaying fully checked in inside of Microsoft Entra as far as Compliance goes.  The other two are shown as Not Evaluated with no values.  I have read and watched endless videos and seem to end up in the same place at the end.  Thank you in advance!",
+        "num_comments": 12,
+        "comments": [
+            "Did you go through the official troubleshooting doc? https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-enrollment/troubleshoot-windows-auto-enrollment",
+            "Have you configured Intune enrollment, MDM scopes in Entra etc?",
+            "Try the command 'dsregcmd /status' on the computers to see if that gives you more info.",
+            "there should be a scheduled task on the machine if it was setup to enroll via gpo.  If that isn't there, do general Group Policy troubleshooting to make sure they are even getting the GPO.",
+            "How long have you waited? + have the machine been apart of something like SCCM before? \n\nIf they have, run a CCMClean and see what happens. \nThere is also a power shell tool in the Powershell gallery that checks all the basics for you like certificates and services. \n\nWe\u2019re mid migration and the same things occur with us, most of the time it\u2019s a waiting game.\n\nThis blog has a load of good troubleshooting guides on for this kinda thing and has helps me a bunch https://call4cloud.nl/ \n\n\nIf devices are showing up in the entra and intune console your gpo is working :)",
+            "Are you doing co-management already?",
+            "Just nuke the enrollment on the machines and re-enroll.\n\nOpen cmd and do a dsregcmd /leave (from system level cmd use psexec)\nDelete registry keys under HKLM\\software\\microsoft\\enrollment and enrollments (you'll get an error just hit ok) \n\nReboot the PC then do dsregcmd /join /degug (from system level cmd us psexec)",
+            "No scope tags.  Everything I have read or watched did not mention them.  Now that I'm digging in I am seeing more and more on it.",
+            "That command has been my bread and butter.  Thank you for the post!",
+            "I'm going to log back in tonight and check the Group Policy.  I will be sure to check the task scheduler as well.  Thanks!"
+        ]
+    }
+}

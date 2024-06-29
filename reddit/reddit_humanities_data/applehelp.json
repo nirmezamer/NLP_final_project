@@ -1,0 +1,81 @@
+{
+    "Please Read! /r/AppleHelp Rules & Guidelines": {
+        "title": "Please Read! /r/AppleHelp Rules & Guidelines",
+        "score": 292,
+        "url": "https://www.reddit.com/r/applehelp/comments/3eyerb/please_read_rapplehelp_rules_guidelines/",
+        "content": "Welcome to /r/AppleHelp, a place to share technical tips, information, and questions related to Apple hardware and software!\n\nWe have a few guidelines in place to provide a better experience for both askers and readers, so please take a moment to familiarize yourself with them before participating!\n\n*****\n\n##Guidelines for Askers\n\n###1. Follow up after receiving answers.\n\nReaders attempting to help you deserve thank-you's and upvotes! Also, after finding a solution, please make sure to mark your post using the \"edit solved status\" (or \"flair\") button.\n\n###2. Questions must be within the bounds of Apple\u2019s EULA.\n\nCertain subjects are not appropriate for /r/AppleHelp, including:\n\n* [Developer Previews and AppleSeed Betas](http://www.reddit.com/r/applehelp/comments/2ccsog/apples_nda_yosemite_and_ios_8_rapplehelps/). If you are running a beta or developer preview, head over to /r/AppleHelp_Betas.\n* Jailbroken devices.\n* Hackintoshes.\n* Piracy.\n* [Bypassing an Activation Lock or firmware password.](http://www.reddit.com/r/applehelp/wiki/activation_lock)\n\n###3. Include as many details as possible.\n\nCertain information may be crucial for solving issues. Please make sure to include the following:\n\n* Your model of [Mac](https://www.ifixit.com/Info/ID-your-Mac), [iPhone](https://Support.apple.com/HT201296), [iPad](https://support.apple.com/HT201471), [iPod](https://support.apple.com/HT204217), etcetera.\n* Your version of [iOS](https://support.apple.com/en-us/HT201685) or [Mac OS X](https://support.apple.com/en-us/HT201260).\n* Screenshots of the issue [Mac](https://support.apple.com/en-us/HT201361) or [iOS device](https://support.apple.com/en-us/HT200289).\n* If posting a log or crash report, [upload it to Gist](https://gist.github.com).\n* If posting the same question in multiple places, links to the other threads.\n\n###4. Please stay calm!\n\nWe're here to help, and this is the easiest way for us to do that. Fixing problems over the internet is incredibly difficult!\n\n*****\n\n##Guidelines for Readers\n\n###5. Be polite and kind at all times.\n\nRudeness will not be tolerated! Suggesting someone \"Google it\" is a good example of this. People come here for help, so please don't shove them right back out the door. These posts will be deleted.\n\n###6. Answers must be within the bounds of Apple\u2019s EULA.\n\nFor a list of subjects inappropriate for /r/AppleHelp, see Guideline 2 above.\n\n###7. Do not downvote questions. Do upvote interesting questions and helpful answers.\n\nDownvoting questions you feel are annoying or repetitive is counterproductive. However, if a response is rude, irrelevant, or harmful, please *report it*.\n\n*****\n\nThanks for reading! Looking forward to seeing you around,\n\n*\u2013 The /r/AppleHelp Moderation Team*",
+        "num_comments": 77,
+        "comments": [
+            "How does one submit a question they need help on? The + to post is missing. QuQ I am in great need of assistance.",
+            "How do I get help here my posts keep getting declined",
+            "Also another free tool that can help some mac's, 'Malwarebytes for Mac'.\n\nIf your mac is getting slower, has another homepage in your web-browser at start, or your search-engine has changed. It is possible that -unknowingly- adware/malware was installed on your mac.\n\nMalwarebytes is a program that can identify all kinds of adware and malware software. If Malwarebytes finds mal or ad-ware it offers the option to remove this unwanted software. Sometimes a restart is required.\n\n\nhttps://www.malwarebytes.com/\n\n\nWhat also can be helpful, a tool called 'etrecheck'.\n\nEtrecheck is a kind of system diagnostics on steroids. It generates a report that contains an overview of all installed hard and software, KEXT's, startup-items, hostfile modifications. But also lists and flags outdated software or software/drivers that failed to install. It generates a very extended \"diagnostic\" report.\n\nYou can export the report and its free.\n\nhttp://www.etresoft.com/etrecheck\n\nPerhaps this could be the first action in step 3.\n\nNew edit:\n\nThere is also a new tool available that flags changes to system software. Its a kind of little snitch for system software changes and can flag if (malicious) software is installed. Its called blockblock. More information here:\n\nhttps://objective-see.com/products/blockblock.html\n\nThere is also a list available of all Mac OSX processes that can run on a mac on any given time, some of them can be malicious. (flagged in this list)\n\nhttp://triviaware.com/macprocess/all\n\nhth\n\n\n\n",
+            "Hi, how do I get help? I\u2019ve written 2 posts and neither were ever posted nor returned with feedback. I desperately need help asap.",
+            "Why can\u2019t we say help in the post titles?",
+            "Hey guys a quick question. I brought a 10.99 in app purchase two days ago. It shows in my Apple purchase history however my debit card has not been charged yet and still doesn\u2019t show that the money has been taken from my bank account. I got the in app purchase instantly. What happens from here? Will I be charged in future? Tia.",
+            "Thanks everyone for helping!",
+            "Says community requires attachment to post but also says community doesn\u2019t allow attachments\u2026. what?",
+            "Anybody know what\u2019s going on here? I transferred photos from my ipad to a usb drive via my mac, there are .jpg and .dng files. When I then plug the usb into a pc only the .dnc files are actually visible. The rest appear as 4kb files. I then tried to convert the jpg to png, but those also won\u2019t show up on windows. Is it a pc problem that can be fixed, or is it something on my end? Thx!",
+            "I get it, you want to protest, but the NSFW is a royal pain in the ass.  So, I am out...  Good luck with your protest."
+        ]
+    },
+    "I\u2019m use a iPhone 11 pro (64 gb) and constantly deal with storage issues because 35 gb of my storage is taken up by system data, how should I deal with this?": {
+        "title": "I\u2019m use a iPhone 11 pro (64 gb) and constantly deal with storage issues because 35 gb of my storage is taken up by system data, how should I deal with this?",
+        "score": 45,
+        "url": "https://i.redd.it/9yo8lpwq4qib1.jpg",
+        "content": "I keep my storage use to a minimum by offloading any app I can, backing up photos, and deleting imessage attachments but I still run into storage issues frequently. I plan on upgrading to the iPhone 15 when it releases, but is there anything I can do until then?",
+        "num_comments": 54,
+        "comments": [
+            "My first attempt to fix this would be to make a local backup to your pc/mac , reset the phone and restore from the backup. I never had this problem so I have no idea if this would fix this 100%",
+            "You need to erase the iPhone and setup as new.  iCloud information will return but the pesky \"system data\" will not.  It's just like misc cached info that doesn't know where to go.  \n\nMake sure you have a backup before doing this",
+            "I\u2019d find out why system data is so large.\n\n**What version of iOS is it running?**\n\n (certain earlier versions of iOS had caching bug where old caches weren\u2019t being cleared correctly, causing System data to balloon)\n\n**What iCloud services are enabled and what iCloud storage look like?**\n\n(Full iCloud will cause sync sessions to fail with data being cached\u2026 also causing System Data to ballon)",
+            "Enable all iCloud syncing including iMessages in the Cloud as well as iCloud Photo Library and let all your content sync and upload once it's done, restore your iPhone using your computer and set it up as new and signing into your Apple ID and ensure those services are all enabled again. You won't lose anything if you do it right.\n\niCloud Backup is only useful if you're trying to maintain the way your phone was setup (as in Home Screen layout, etc.) but otherwise syncing is a much better, reliable and cleaner method of backing up your information.",
+            "I haven't seen anyone mention it here yet, so try closing any tabs in safari, chrome, etc",
+            "I had this problem before, head to settings then change the date till a month or two in the future, close settings, reopen it and reactivate the auto time/date detection.",
+            "Id factory reset the device",
+            "Back up important stuff (ideally not in a \"backup\" proper, sync it int the individual iCloud whatever or other accounts) and Erase all contents and settings and put it back.\n\nThough that can also be a chunk of something that is trying to sync and reserving storage, but then it doesn't have enough space so it just kind of abandons the half-downloaded files and they become System/Other (on older versions)\n\nIf that is the case then signing back into the app (or restoring it and your keychain off a backup) might just start the sync process again and immediately flood the phone",
+            "There is a bit of a misconception with how iPhones, iPads, Macs etc. calculate the specific categories of storage.\n\nSystem Data/Other CAN contain data that are not just allocated to the system, but data that the phone struggles to categorize properly. This is very common especially with files that involve some sort of sync process. Turning on services like Optimized iPhone Storage in iCloud Photos can cause this, but it's expected behavior. As the phone dumps some image data to save space, the photo file itself can be hard for the phone to recognize as a photo, so it puts it into the System Data/Other category.\n\nI'd check how much data is being used in iCloud first. because this tend to be the issue. Your phone will try to push as much data over to the cloud as possible, and keep as little as possible on the phone, if necessary, but there is a limit to how much the phone can do in this way. At one point you will be full up regardless.",
+            "There is only one good answer to this. iCloud service"
+        ]
+    },
+    "I want to change my phone number but I am scared. I\u2019m going to get locked out. What happens when you change it?": {
+        "title": "I want to change my phone number but I am scared. I\u2019m going to get locked out. What happens when you change it?",
+        "score": 3,
+        "url": "https://www.reddit.com/r/applehelp/comments/1dr3l3g/i_want_to_change_my_phone_number_but_i_am_scared/",
+        "content": "I remember sometime last year I changed my number and for some reason I got locked out of my Apple account for five days. I don\u2019t remember why but I do remember it was a hassle to regain access to it. \n\nI\u2019m gonna need to change my number again however, I am afraid of being locked out permanently. Does anybody have any stories of how their number change went? And if they ran into any problems? ",
+        "num_comments": 5,
+        "comments": [
+            "Settings > [name] > Sign-In & Security > Two-Factor Authentication > Edit (beside Trusted Phone Numbers) > Add a Trusted Phone Number - follow prompts to add your new phone number \n\nTwo-Factor Authentication (2FA) requires both the Apple ID password **and** a verification code sent to a trusted device *or* trusted number. Without a trusted device, you can use your trusted number. Without either, you would need to go through Account Recovery to update the trusted phone number. Follow the steps above to add your new number as a trusted number & you'll be able to sign in.",
+            "Why do you need a new number?  Did you break the old one?\n\nI've had the same number for 49 years, and it still works.  Maybe I take better care of my things.",
+            "that doesn\u2019t answer the question at all lol and a little invasive.",
+            "How the fuck do you take care of a number ? The most stupid comment of the week.",
+            "Have you ever been the target of harassment?  Has a stalker ever made your life hell? Have you ever considered that your lived experience could be different than someone else\u2019s?"
+        ]
+    },
+    "my iphone 15 pro max\u2019s battery health is 88% after 7 months uses": {
+        "title": "my iphone 15 pro max\u2019s battery health is 88% after 7 months uses",
+        "score": 9,
+        "url": "https://i.redd.it/zdiuq81zzd9d1.jpeg",
+        "content": "is this normal? i\u2019ve been to london convent garden store to asked them can i change to a new battery, they told me they can\u2019t make it, if i still want to change to a new battery i can pay it myself\u2026.\nthis is very strange to me, cuz i\u2019ve changed my iphone every new generation and this is first time i just used this for 7 months and the battery health is 88%\u2026.\nanother thing is the phone is overheating most of the time, like when i was charging my phone or play some games.\ncan you guys give me some solutions?\nthanks ;)",
+        "num_comments": 28,
+        "comments": [
+            "Considering cycle counts, this is normal. Heat while charging and playing games is also normal.\n\n\nTl;dr, there\u2019s no problem.",
+            "You have effectively discharged your phone from 100% to 0% and charged it back to 100% TWICE. EVERY DAY you have had the phone. That's an insane amount of use. No wonder the battery health is dropping.",
+            "Now watch it to stay there for as long as you have active warranty.",
+            "This also happened to me, but i think it\u2019s because im using the fast charging port one(from my ipad) and yes it\u2019s fast, but my battery health also drain fast\ud83e\udd72\nI use the slow charger now, and wanna see how it goes",
+            ">london convent garden store\n\nAll the employees at this store are nuns.",
+            "Normal if you are like me never turning off screen automatically",
+            "I wish Apple would remove or bury this feature.",
+            "What kind of chargers are you using?\n\nI\u2019m at 331 cycles, first use was September 2023, and am 97% capacity. I almost always use the 80% charge limit, and charge with apples MagSafe charger. Occasionally using a 65W charger.",
+            "327 in 9+ months on my 15 pro max",
+            "After 215 cycles on my iPhone 15 Pro Max I\u2019m at 94% battery health. Tbh, recently I\u2019ve noticed that the phone overheat and the BH significantly dropped, loosing about 5% BH for month and a half."
+        ]
+    },
+    "I wonder why Apple Books is taking too much space": {
+        "title": "I wonder why Apple Books is taking too much space",
+        "score": 2,
+        "url": "https://www.reddit.com/r/applehelp/comments/1dr2fuy/i_wonder_why_apple_books_is_taking_too_much_space/",
+        "content": "So I have quite a few books on my iPad but i\u2019m sure it\u2019s just a couple hundred megabytes in total. However, in storage it says books take up 2.5GB. I was wondering if this is because of cache build up or something hidden. I don\u2019t use iCloud sync or anything. \n\nThanks!\n",
+        "num_comments": 0,
+        "comments": []
+    }
+}

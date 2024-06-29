@@ -1,0 +1,78 @@
+{
+    "Open Call for r/Electrical Input and Feedback!": {
+        "title": "Open Call for r/Electrical Input and Feedback!",
+        "score": 3,
+        "url": "https://www.reddit.com/r/electrical/comments/1d81hn4/open_call_for_relectrical_input_and_feedback/",
+        "content": "Hey team!\n\nIt's been a long time since we've put a suggestions/discussion thread up and now that the community has grown to be absolutely massive, it's probably a good time to get feedback from our members.\n\nFeel free to include recommendations, suggestions, feature additions, etc.  Also ask any questions you have of the mods (put MODS in bold if you can, or tag me, u/Jason3211). Complaints, criticism, and snide remarks are also on the table, so have at it!\n\n**Topic starter ideas:**\n\n* What do you want to see more of/less of on r/electrical?\n* Are there any rules/enforcement you think would be helpful?\n* Ideas for better organizing posts/tags/user flairs?\n* Are there any weekly/monthly megathreads you'd like to see? Maybe a \"Dumb Questions I'm Afraid to Ask,\" \"Ask About Careers,\" or something similar\n* We've always been quick to remove *overtly* vulgar or attacking comments, but other than those, SPAM, and any deadly recommendation comments that get mass reported or a mod happens to see, we've mostly let the community self-organize. Is that working?\n* Do you prefer a fun/entertaining/light-hearted vibe in the sub, or do you want a more serious and no-frills approach?",
+        "num_comments": 7,
+        "comments": [
+            "A WIKI and quick reference tables would be great.",
+            "sub chapters.  Don't need to scroll through so much to find what i'm looking for.\n\nex: Panels,,Generators,,Tools,,Lighting,,....",
+            "Hey team! How about a weekly \"EVSE Tech Talk\" thread?",
+            "I'm just thankful you're here to ask questions!!",
+            "Great idea! What kinds of reference tables would you like to see included?",
+            "u/Jason3211 I second this... Maybe a \"General TOC\" with Panels, Gens, switches, outlets...etc",
+            "Wire gauge per amperage, number of wires per conduit size, wire size need for longer distances, etc."
+        ]
+    },
+    "Did my new oven arrive wired wrong?": {
+        "title": "Did my new oven arrive wired wrong?",
+        "score": 15,
+        "url": "https://www.reddit.com/gallery/1dr00m6",
+        "content": "The breaker tripped when I tried to plug it in. Then looked at installation guide and back panel. ",
+        "num_comments": 34,
+        "comments": [
+            "It looks to be that way. They also missed the connector that protects the wire in the metal hole it comes thru. Who did this?",
+            "Yeah, isn't that a hot going straight to ground? Someone was drunk on the job.",
+            "1. Install cord clamp\n2. Remove neutral-ground bonding strap\n3. Swap red and white",
+            "I think the CORD is wired wrong, and was done by an idiot.  The cord should match the colors of the wires above, left to right, black - red - white.  As someone else said, the bonding strap should be removed as well if you are using a 4 wire cord and plug, and there should be a strain relief in the knockout.",
+            "This installer sucks.  Better confirm that the anti-tip bracket was installed.  In fact go ahead and read that entire installation manual and check on every bit of it.",
+            "I\u2019d take this whole unit back and dump it in their front step. God knows what else they screwed up",
+            "Couldn't even match wire colors.",
+            "Definitely.\n\nSwap red and white.\n\nRemove the metal bit connecting the middle terminal to the green screw.\n\nAdd a strain relief thing to the metal hole that the wire bundle goes through.",
+            "Best Buy ? Or maybe Lowe\u2019s \u201cinstallers\u201d",
+            "I think you wired that cord and are trying to ask for verification of your shoddy work without asking for verification on your shoddy work\u2026"
+        ]
+    },
+    "Quick Question. What is the wire marked in red? Trying to settle a debate.": {
+        "title": "Quick Question. What is the wire marked in red? Trying to settle a debate.",
+        "score": 61,
+        "url": "https://i.redd.it/4qx7wiqmza9d1.jpeg",
+        "content": "",
+        "num_comments": 44,
+        "comments": [
+            "Neutral in a main service panel",
+            "The grounded conductor, commonly called the neutral",
+            "Identified conductor",
+            "That would be the Grounded Conductor, aka Neutral.",
+            "Neutral",
+            "GROUNDED CONDUCTOR. It\u2019s identified in this case to separate it from the ungrounded conductors.",
+            "neutral white from the service pole. this neutral wire is connected to the neutral/ground bus bar.\n\n  \nthis whole panel is the main electrical panel for the house.",
+            "Who won the debate?",
+            "Is this a \u201cgrounded\u201d vs. \u201cgrounding\u201d thing?",
+            "The grounded conductor commonly known as the neutral."
+        ]
+    },
+    "What kind of connector is this? I need a male for it": {
+        "title": "What kind of connector is this? I need a male for it",
+        "score": 2,
+        "url": "https://i.redd.it/xut45y1j3g9d1.jpeg",
+        "content": "",
+        "num_comments": 5,
+        "comments": [
+            "I\u2019m free tomorrow and I\u2019m make.",
+            "Is that on a car? Most automotive plugs are proprietary and you might have luck finding an aftermarket part, but sometimes, you need to get it from a dealership.",
+            "You could get an aftermarket male and female and replace it if you can\u2019t find the oem part.",
+            "You\u2019re gonna make what? A cake?! I like cake. Come on over.",
+            "It\u2019s on a Seadoo Spark. I could try checking with them"
+        ]
+    },
+    "Electrical fire and flickering lights": {
+        "title": "Electrical fire and flickering lights",
+        "score": 1,
+        "url": "https://www.reddit.com/r/electrical/comments/1dr6cvt/electrical_fire_and_flickering_lights/",
+        "content": "I live in an older apartment. Not quite sure how old it is exactly but everything in my area is historic. A couple of weeks ago, an apartment two floors down from me caught fire. There is a video showing the breaker box smoking and little balls of fire falling from it. We\u2019ve been told it could\u2019ve been caused by an overloaded outlet or exposed wires touching in the wall. The fire spread to all four apartments below us and now we\u2019re the only ones left in the building. I heard from a neighbor in the building next to us that the head of maintenance asked them to feel their breaker box once in a while to see if it\u2019s getting hot. I don\u2019t know how anything electrical works in buildings so I have no clue what to even make of that. I noticed when we moved in that the lights would flicker when I use my bathroom outlet. I know hair dryers can have some issues with flipping breakers and making lights flicker but the strange part to me is it isn\u2019t just from plugging it in. It flickers when I move the hair dryer (or whatever is plugged in) around. Besides when Im plugging it in, it doesn\u2019t flicker unless I\u2019m moving it. As I was plugging in my tv just now in my bedroom I noticed the lights flickered when I plugged it in, which I hadn\u2019t noticed before but I started unplugging everything every time I left my apartment after the fire happened. I guess this is the first time I\u2019ve plugged it in since then. An electrician came and inspected our beaker box. He said he didn\u2019t see anything serious but had pictures he needed to send with a report to maintenance. This was a few days ago and I haven\u2019t heard anything since. I\u2019m going to let maintenance know but it\u2019s Saturday so I don\u2019t want to bother them with something that may not be a problem. I\u2019m really worried and stressed about the safety of my pets while I\u2019m away. Is this something I should take seriously? ",
+        "num_comments": 0,
+        "comments": []
+    }
+}

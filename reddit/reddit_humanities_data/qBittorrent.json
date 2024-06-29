@@ -1,0 +1,53 @@
+{
+    "FAQ / Sticky help post": {
+        "title": "FAQ / Sticky help post",
+        "score": 7,
+        "url": "https://www.reddit.com/r/qBittorrent/comments/1b1eyx8/faq_sticky_help_post/",
+        "content": "( This is a work in progress. )\n\n**Q: How could I protect myself against ISP letters and anti-piracy laws?**\n\nPiracy posts are out of scope of this sub.\n\nHowever, you have a few options:\n\n**VPN with port forward** : \\[ 4/5 \\]. Not every VPN provider supports port forwarding. Check (or ask) before you purchase.\n\nUsing a VPN on your host PC might be cumbersome because all traffic will go through that. Yes, there are providers that offer \"Split Tunneling\" but personally, I never had much luck with that. Of course you can always run a Virtual Machine with a VPN inside - but then it will consume extra resources. Not only that, transferring files in-out or shared files is a chore and some anti-cheats will kick you for a VM in the background.\n\nNote 1: Use interface binding in Advanced Settings. If you don't see your VPN's interface in the list, change protocols in settings. OpenVPN usually supports this, so switch to that if all else fails.\n\nPros: You can use qBittorrent like normal.Cons: You may lose some speed. It can be cumbersome, esp. if you can't route all traffic through.\n\n**Seedbox** : \\[ 4/5 \\]. You can just Google \"seedbox provider\" and find tons. It's like a remote server which you can use to download and also seed. To get your files, you have to transfer them to your PC via protocols such as FTP, SFTP, etc.\n\nPros: Great speed, great ratio keeping, sometimes you get PLEX/Jellyfin too, great way to seed. Doesn't take up any local storage.Cons: Have to transfer whatever you need by hand.\n\n**SOCKS5 proxy** : \\[ 3/5 \\]. Some VPN providers offer this option with their VPN subscription.\n\nPros: Only qBittorrent will go through this tunnel. So no mess with other applications, games, etc. No need to run third-party applications.Cons: No port forward, so seeding won't be easy. The connection is not encrypted, but this is usually not an issue. It depends on the config file, so it may get disabled during an upgrade, or if anything happens to your config file. Some trackers don't like it and you may get some trouble with the Staff.\n\n**Q: My issue is not listed yet I require some help.**\n\nI'd heavily recommend asking Bing, ChatGPT or Gemini first. Of course you are free to make a post about it here but \"AI\" has gotten so good, it can even help with very specific problems. Sometimes it might offer an instant solution.\n\n**Q: I encounter these Chinese clients like Xunlei and they just waste my upload?!**\n\nFeel free to use the unofficial Enhanced Edition.[https://github.com/c0re100/qBittorrent-Enhanced-Edition/](https://github.com/c0re100/qBittorrent-Enhanced-Edition/)\n\nIt has features to counter this behavior. DO NOT report bugs on the official tracker if you use this client. Report them on THEIR tracker.\n\n&#x200B;\n\nv1, last updated 2/27/2024",
+        "num_comments": 0,
+        "comments": []
+    },
+    "Finally got my fiber drop. After a decade as a leech its time to repay my debts.  One-day results on a Pi 4 with qBT + WireGuard.": {
+        "title": "Finally got my fiber drop. After a decade as a leech its time to repay my debts.  One-day results on a Pi 4 with qBT + WireGuard.",
+        "score": 17,
+        "url": "https://i.redd.it/qycrot7j8to61.jpg",
+        "content": "",
+        "num_comments": 5,
+        "comments": [
+            "Thank you for your service!",
+            "i dream of getting a connection like this, and helping as much people as possible",
+            "How do i view this?",
+            "I wish I could do this but randomly hard links will fail and I can\u2019t have that storage just keep building so I\u2019ve set my share ratio to 5 or 1 month, whatever comes first. \n\n\nI\u2019ll try to troubleshoot why hard links will randomly fail so I can set it to infinity eventually, but until then, at least I\u2019m doing something",
+            "How do you manage a VPN drop and the torrents going out un protected is it a matter of just binding to the wire guard interface"
+        ]
+    },
+    "(debian) How do I stop qbittorrent from autostarting and make it terminate on SIGTERM?": {
+        "title": "(debian) How do I stop qbittorrent from autostarting and make it terminate on SIGTERM?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/qBittorrent/comments/1dr5tgc/debian_how_do_i_stop_qbittorrent_from/",
+        "content": "Its really dangerous that it won't terminate when you close and and that it autostarts because it puts me at risk of torrenting without vpn. I don't want to know how many hours I've accidentally torrented with my VPN off because it kept running in the background without me knowing. There don't seem to be any options for this in the settings menu at all.",
+        "num_comments": 1,
+        "comments": [
+            "idk what SIGTERM is but you can disable autostart on qB\n\nAlt+O, Desktop, uncheck Start qBittorrent on start up"
+        ]
+    },
+    "can someone please explain where do i find my passkey? PLEASE": {
+        "title": "can someone please explain where do i find my passkey? PLEASE",
+        "score": 0,
+        "url": "https://www.reddit.com/r/qBittorrent/comments/1dr2jpq/can_someone_please_explain_where_do_i_find_my/",
+        "content": "im trying to change it using the passkey-replace program and i cant find my previous passkey to make a new one.\n\nthere is literally no answer to this on the internet please help im desperate ",
+        "num_comments": 0,
+        "comments": []
+    },
+    "Mixed up downloads list, how to get it properly organized?": {
+        "title": "Mixed up downloads list, how to get it properly organized?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/qBittorrent/comments/1dr2a3l/mixed_up_downloads_list_how_to_get_it_properly/",
+        "content": "So I was clicking a queued torrent to initiate \" force resume \", fumbled my mouse a little, and suddenly the whole queued list, seeding, downloading and completed is all disorganized and mixed up where it used to be all of one in a list, the next listed, etc, so you had a full band of green, a full band of blue and a band all teal or whatever that color is...  How do I get that back? I can find nothing to sort it in settings/options... Thanks in advance!",
+        "num_comments": 2,
+        "comments": [
+            "Choose which column you want to be sorted, for example I sort mine by \"completed date\"; and click on the column title till it is sorted the way you want.",
+            "Thank you. But what I'm trying to get back to is where I had \" all \" selected and I had all the items  \" downloading \" as a separate green band from all the \" seeding \" as a separate blue band, and all the queued a separate teal band. Now with \" all \" selected, these are a mixed up mess. All because my finger slipped while doing a \" force resume \" Aw man, now it's even worse, all the category colors are gone, it's all teal colored now Edit: ok at this point what I need to do is return to default view. I can't find anything like that in options/settings.. Anyone?"
+        ]
+    }
+}

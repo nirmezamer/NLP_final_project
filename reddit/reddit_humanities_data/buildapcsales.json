@@ -1,0 +1,88 @@
+{
+    "Post Flairs Update & Scam Listings Enforcement": {
+        "title": "Post Flairs Update & Scam Listings Enforcement",
+        "score": 260,
+        "url": "https://www.reddit.com/r/buildapcsales/comments/1af5mo7/post_flairs_update_scam_listings_enforcement/",
+        "content": "Hello again! Apologies for the influx of mod posts recently - we have been making changes to improve the user experience.\n\nThe sub's post flairs have been overhauled today. The list of changes is as follows:\n\n* Headset, HTPC, Miscellaneous, Mouse Pad, Optical Drive, OS, Printer, and Router have been removed due to infrequent use and/or redundancy\n* Flash Drive has been renamed to External Storage to be more broad; this includes external HDDs and SSDs, flash drives, SD / microSD cards, drive enclosures including NAS, etc.\n* Mic has been renamed to Microphone\n* TV has been added separate from Monitor due to high post volume\n\nIf you have any further suggestions for changes to the flair system, feel free to leave a comment on this thread or [send us modmail](https://www.reddit.com/message/compose?to=/r/buildapcsales). \n\nThese changes do affect Reddit's search functionality; any previous posts with the old flairs can still be searched by name. They should be reflected accurately in Discord; if you notice any issues, please let us know.\n\nIn addition, as a result of continued posting of scam listings following [last week's stickied mod post](https://www.reddit.com/r/buildapcsales/comments/19cohqf/scam_listings_title_formatting/), we are now enforcing this rule with **24 hour bans** for every post in violation. Please refer to the linked post or the stickied comment on marketplace posts on how to determine if a listing on these websites is legitimate or not.",
+        "num_comments": 66,
+        "comments": [
+            "Will the `old.reddit` sidebar be updated with search links for new flairs?",
+            "There should be an infraction counter for posting those scam links if such a thing is possible with increasing penalties. This is just my humble opinion, but perhaps it should be a 24-hour ban, 1-week ban (2nd offense), and on as the person posts more malicious links. There are too many people here that have fallen for those scams.",
+            "Glad to see no more OS sales. The rules for only mod-approved commenting on OS posts got me scammed out of $40 on Woot, and presumably plenty more people, too. I wasn't even able to get a refund on mine after the key didn't work - they just delayed long enough until I found another way to get a key, and then sent a \"replacement\" key I didn't need and couldn't even try.\n\nMost people see $40 for a Windows key from a site they otherwise trust and flock to upvote it. An actual, fully legit key for that price **would** be a great deal, but you don't find out how scammy it is until they send you a \"tracking number\" that's supposed to be input as your Windows key. Comments were flooded with warnings nobody could see because they required mod approval and each time, it took mods many hours to get around to it. I personally saw that whole thing happen twice, and of course, on the second instance when I knew to warn others, my warning took mods too long to approve so it didn't help.",
+            "Is this it Chief?\n\nIn for 4",
+            "So does that mean we can no longer post any headset, htpc, miscellaneous, mouse pads, optical drives OS, or printer nor router sales?",
+            ">TV has been added separate from Monitor due to high post volume\n\nThank god, TVs are not monitors. Never have been.",
+            ">Flash Drive has been renamed to External Storage to be more broad; this includes **external HDDs** and SSDs, flash drives, SD / microSD cards, **drive enclosures including NAS**, etc.\n\nSo is \"HDD\" only for *internal*, no-shuck-needed mechanical HDDs?\n\nIt seems to me that people looking for a spinner would likely want to see all the spinners, internal or otherwise.\n\nAlso, people looking for a portable storage device, flash or otherwise, would probably *not* want to see 3.5\" external HDDs that require a power brick plugged into a wall outlet.\n\nAnd a NAS is an entire computer.",
+            "Have flairs disappeared altogether now?  I used to see it on the right navigation pane, but now I can't see them at all.",
+            "Can we get a quick rundown on the nonsense that happened with win11 and woot? I\u2019m just stunned that woot \u2014 an Amazon outlet and heretofore reputable company \u2014 was selling bogus keys.",
+            "Thanks Chief"
+        ]
+    },
+    "Ban on Future OS Deals": {
+        "title": "Ban on Future OS Deals",
+        "score": 855,
+        "url": "https://www.reddit.com/r/buildapcsales/comments/1aegupz/ban_on_future_os_deals/",
+        "content": "Following issues with Woot selling invalid Windows keys and problematic comments relating to piracy, we have made the decision to ban all future OS deals. The OS flair has seen near zero use in the past 5 years excluding these deals.\n\nWe are working on removing the OS flair entirely and simplifying the current flairs system in the near future.",
+        "num_comments": 2,
+        "comments": [
+            "Any questions or concerns should be directed to modmail. Comments have been locked as staff will not be monitoring comments under this thread. Thank you in advance for any input submitted through modmail. \n\nThis decision is currently final and is the result of multiple rounds of discussion among the staff team and rounds of reviewing comments (which you may have noticed do not show immediately) under OS flaired posts."
+        ]
+    },
+    "[Monitor] Dell U2723QE 27\" 16:9 4K UHD HDR IPS Monitor with USB Type-C Docking - $110 ($599.99-$489.99) + shipping ": {
+        "title": "[Monitor] Dell U2723QE 27\" 16:9 4K UHD HDR IPS Monitor with USB Type-C Docking - $110 ($599.99-$489.99) + shipping ",
+        "score": 104,
+        "url": "https://www.bhphotovideo.com/c/product/1696165-REG/dell_u2723qe_27_4k_uhd_lcd.html",
+        "content": "",
+        "num_comments": 77,
+        "comments": [
+            "It has been noticed by B&H. I got my order canceled after placing it roughly 30 seconds ago.",
+            "is this a pricing mistake? I dont need a monitor but this seem like good deal",
+            "In for a cancellation email :)\n\nBut seriously... if these ship, this seems like an insane deal.",
+            "https://b.thumbs.redditmedia.com/wix26SemAIqmwAcs0LwbbEV8BSfZnpQmoO7A_nN4VOM.png",
+            "$18.51 shipping to California",
+            "Price matched at Bestbuy!",
+            "100% should be -$110 instead of -$489.99. But do they cancel mistake price order like Newegg?",
+            "Deal has been taken down. My order got canceled",
+            "Definitely a sidebar Pikachu moment",
+            "Insane"
+        ]
+    },
+    "[GPU] ASRock RX 6800 OC - Used (Like New) sold by ASRock USA - $299.99, Free Shipping with/ Prime": {
+        "title": "[GPU] ASRock RX 6800 OC - Used (Like New) sold by ASRock USA - $299.99, Free Shipping with/ Prime",
+        "score": 76,
+        "url": "https://www.amazon.com/dp/B08Q7D4M98?ref=cm_sw_r_cso_cp_apin_dp_7830W66QTBW7CA9RABRQ&ref_=cm_sw_r_cso_cp_apin_dp_7830W66QTBW7CA9RABRQ&social_share=cm_sw_r_cso_cp_apin_dp_7830W66QTBW7CA9RABRQ&starsLeft=1&skipTwisterOG=1",
+        "content": "",
+        "num_comments": 33,
+        "comments": [
+            "Be mindful of listings from suspicious third-party sellers on marketplaces such as Amazon, eBay, Newegg, and Walmart. These \"deals\" have a high likelihood of not shipping; use due diligence in reviewing deals.\n\n* Use common sense - if the deal seems too good to be true, it probably is.\n* Check seller profiles for signs that the sale may be fraudulent:\n    * The seller is new or has few reviews. \n    * The seller has largely negative reviews (on Amazon, sellers can remove negative reviews from their visible ratings)\n    * The seller is using a previously dormant account (likely the account was hacked and is now being used fraudulently).\n\nIf you suspect a deal is fraudulent, please report the post. Moderators can take action based on these reports. We encourage leaving a comment to warn others.\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/buildapcsales) if you have any questions or concerns.*",
+            "Highest tier standard 6800 from ASRock for sale by ASRock USA. I\u2019ve bought one of these and two 6900 XTs from them before, things to note:\n\n- Typically comes in a white unmarked box with anti-static wrap and good foam.\n\n- Some models come with cosmetic blemishes, though most of mine have been flawless. Some have even come with plastic still on the fans and logos.\n\n- ASRock USA does NOT offer a warranty on these items beyond the 30 day return (confirmed by phone and text chat with ASRock USA). Treat this like any other used purchase, albeit from a reputable source.\n\nI\u2019ve had great experience with this card. Probably the cheapest way to get 16GB of VRAM. Good luck!",
+            "lot of gpu for $300, pretty awesome deal considering 6700/6750xt's go for around this much",
+            "In for one.  Thanks OP.",
+            "Worth risking if I'm upgrading from a 6650xt?",
+            "They have a 6700xt listed for $240 as well.",
+            "Thanks god it\u2019s gone",
+            "Imho, if you absolutely need a capable gpu now to wait for next gen. This is as good as it gets.",
+            "Is this it chief?",
+            "Jesus, that's a good deal. Rdna2 has been a beacon of hope in these dark times"
+        ]
+    },
+    "[CASE] SAMA IM01 Black Steel Mesh mATX Case - $54.99 Free Shipping ": {
+        "title": "[CASE] SAMA IM01 Black Steel Mesh mATX Case - $54.99 Free Shipping ",
+        "score": 37,
+        "url": "https://www.newegg.com/black-sama-im01-micro-atx-mini-itx/p/2AM-009W-00034?Item=9SIB41TJWF0977",
+        "content": "",
+        "num_comments": 13,
+        "comments": [
+            "Be mindful of listings from suspicious third-party sellers on marketplaces such as Amazon, eBay, Newegg, and Walmart. These \"deals\" have a high likelihood of not shipping; use due diligence in reviewing deals.\n\n* Use common sense - if the deal seems too good to be true, it probably is.\n* Check seller profiles for signs that the sale may be fraudulent:\n    * The seller is new or has few reviews. \n    * The seller has largely negative reviews (on Amazon, sellers can remove negative reviews from their visible ratings)\n    * The seller is using a previously dormant account (likely the account was hacked and is now being used fraudulently).\n\nIf you suspect a deal is fraudulent, please report the post. Moderators can take action based on these reports. We encourage leaving a comment to warn others.\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/buildapcsales) if you have any questions or concerns.*",
+            "Kinda cool that you can do an inverted build to have all the heat from the GPU come out the top.",
+            "This is the best mATX case imo, all things considered. 22L, while mini-ITX cases like the NR200P are 18L. You get a very small form factor without the $100+ mini-ITX tax.\u00a0",
+            "Real bargain",
+            "Same price for white: https://www.newegg.com/white-sama-im01-pro-micro-atx-tower/p/2AM-009W-00039?Item=9SIB41TJWF1169",
+            "This seems to be the Pro case which is a tad bigger than the regular IM01. Really easy to build in. Removable fan brackets if you want to install a lot of fans or an AIO",
+            "Glass white/black $64.99 also.",
+            "This is the Pro, so it's more like 26L, iirc, and more like 30L with the extension",
+            "Agree completely. I recently built a workshop PC in one and it was fun to build in. Some space constraints, but I was able to fit a h97m mobo, 16GB ram, 1231v3, thermalright ps120se, evga gtx 970 ftw and a 512gb 2.5\" SSD in there.\n\nVery solid little case.",
+            "Where\u2019s USB-C if it is the \u201cbest\u201d?"
+        ]
+    }
+}

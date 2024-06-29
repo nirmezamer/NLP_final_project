@@ -1,0 +1,86 @@
+{
+    "All the Mods 10 (Which pack should you play)": {
+        "title": "All the Mods 10 (Which pack should you play)",
+        "score": 85,
+        "url": "https://www.reddit.com/r/allthemods/comments/1dkc07e/all_the_mods_10_which_pack_should_you_play/",
+        "content": "An early beta of ATM10 will be out very soon. We just only now started sharing it with our Discord subscribers. Right now, it's only 97 mods but growing quickly. There is a lot missing, and more mods will be added over time. The pack is only for people who want to test out early 1.21 mods on Neoforge. \n\n&nbsp;\n\nATM9/NF is still in active development and will be getting updates about once a month. \n\nATM9 TTS is also in active development.\n\nGravitas 2 is also an option if you want to try something new.\n\n&nbsp;\n\n**TLDR:** If you want to play a long term pack with friends and have a good time play ATM9/NF/TTS/G2. If you want to help beta test and watch the pack grow from the beginning play ATM10 once it comes out.",
+        "num_comments": 21,
+        "comments": [
+            "Thanks for clarifying and thanks for the work you do! You've given me so many hours of entertainment!",
+            "Glad to hear atm9 is still getting work. Any thoughts on adding ice and fire to the pack? Lots of good mid-game quests and dragon steel has potential for atm star material if need be",
+            "Thank you!",
+            "Super excited to test the new pack and see it grow \ud83d\ude01",
+            "I think u should give more hints and tricks about silentgear mod in your modpacks.",
+            "what's ATM9NF? Did they make a neofroge version of ATM9 or?",
+            "I\u2019m just hoping mana and artifice makes the cut this time.",
+            "Just yesterday I started a server with ATM9 to play with some friends and we missed some mods like Immersive aircrafts or Mana and Artifice.",
+            "Maybe add a better terrain mod like tectonic. Normal terrain generation is too boring compared to the cool building and unique block mods.",
+            "Any plan on add Minecolonies to ATM9 TTS?"
+        ]
+    },
+    "Started feeling heavy lag, had no idea what it was, went to check on my MA farm. 120,000 items...": {
+        "title": "Started feeling heavy lag, had no idea what it was, went to check on my MA farm. 120,000 items...",
+        "score": 224,
+        "url": "https://i.redd.it/gsoc4j9d1z7d1.png",
+        "content": "",
+        "num_comments": 40,
+        "comments": [
+            "Use advanced item collector remove all the absorption hoppers.",
+            "As others have stated, absorption hoppers are terrible. Use vacuum module, backpack with magnet upgrade or advanced item collector instead",
+            "Welp, if life give you nether stars...",
+            "This is why I use a harvester pylon and not a scythe. Don't wanna crash the MP server \ud83d\ude02",
+            "OH MY GOD.",
+            "Well I guess it's your lucky day ! Game or server didn't crash.\n\nBackpack is awesome and can void some items (says the guys who use harvester pylons with ender chest) .\n\n Failsafe like a netherite chest (or cheaper) with tons of storage / void upgrade can save some trouble.\n\nI think my friend used absorption hopper for a mob spawner and some of his loot were appearing in my base out of nowhere like 1500 blocks away. I was obviously the one lagging the server ...",
+            "backpack and magnet upgrade is my go to solution",
+            "I keep using a the harvester and an ender chest over lillypads.",
+            "now there's your problem.",
+            "That's a nice powerpoint XD"
+        ]
+    },
+    "Super Factory Manager Question": {
+        "title": "Super Factory Manager Question",
+        "score": 7,
+        "url": "https://www.reddit.com/r/allthemods/comments/1dlrpzv/super_factory_manager_question/",
+        "content": "If I wanted to transfer items in distinct quantities from chest A to chest B, how would I do that?\n\nFor instance A has 3 Cobblestone, 12 Stone, 5 Basalt, and 1 Diorite.\n\nWhat I would want is transfer exactly 4 of each type that has 4 or more.  So, B would end up with 4 Stone, 4 Basalt after the first iteration, 8 Stone, 4 Basalt after the second, and finally 12 Stone and 4 Basalt after the third iteration.\n\nIs this possible?\n\nThanks!",
+        "num_comments": 4,
+        "comments": [
+            "Input retain 4 from A\nOutput 4 to B",
+            "Join the Discord. The mod dev is super helpful",
+            "[deleted]",
+            "That will allow combination of types to be grouped together, i.e. it can transfer 2 cobble and 2 stone.\n\nI thought input 4 EACH retain 4 | Output 4 to B  would have forced it to gather the 4 from only one type",
+            "lol, the post is about super factory manager."
+        ]
+    },
+    "ATM9 time to beat ": {
+        "title": "ATM9 time to beat ",
+        "score": 20,
+        "url": "https://www.reddit.com/r/allthemods/comments/1dlm5pf/atm9_time_to_beat/",
+        "content": "I\u2019ve seen 200 hours is that fast or slow how long is an average time to just get the star like 500 hours?",
+        "num_comments": 9,
+        "comments": [
+            "I mean Alfredgg the quest dev for atm9 did a speed run of atm9 in I think 27 hours on YT, going to be hard to top that",
+            "There\u2019s nothing really difficult about the ATM star. You either know the mods or you don\u2019t. You can make a star in 40 hours, or you can enjoy building and making factories and automating the Greg star for 500 hours.",
+            "Depends. Are you solo or in a group. Do you count offline time while the quarry was mining for resources, or the autocrafters doing their thing. Will you use Greg... \n\nIf you're looking to play it and want to know how long it takes, then chances are, you will likely lose the motivation to finish it before reaching the star. But every small step towards it will still be fun nonetheless.\n\nImho 200 hours is slow, but my endgame playtime mostly consisted of joining the server once in a while to set-up autocrafting of the next thing. While my MA farm and quarry were doing their thing 24/7",
+            "It really depends on how you play and what you do in your world. It took me around 127 hours to complete the star, but I also did other things like build a decent base and make op armor and weapons. However I could easily see myself doing a play-through for much longer.",
+            "It depends on how you want to handle your star-making. I set out from the beginning to build a nice area for each of the mods that were required for parts of the star, and use that space to not only make the parts, but automate them (as much as possible). Even for things like Mj\u00f6llnir that can\u2019t easily be entirely automated, I tried to make it as easy as possible to make 18 of them in quick succession (9 for each block, to convert a bee and for its flower).\n\nIt took me around 250 hours for my first star, but I ended up with a base I was proud of, even if it wasn\u2019t actually that impressive. Plus, because I focused on bulk crafting since the beginning, I had enough stars to make the starry bee and have it produce more stars, less than an hour after I crafted my first star. That set me up with infinite energy and the like, plus with all the other automated resources, making things for the Greg star become a lot easier. I\u2019m not done with that yet, but I\u2019m at least 350 hours in now and in the insane voltage age (ah, chemical reactors\u2026).\n\nBut like another comment said, AlfredGG (a pack/quest dev) did it much faster, not bothering to automate things, using better/more time-efficient strategies, and focusing on one star rather than 18 (which is quite a large difference). If only all of my stinky classes weren\u2019t so demanding, heh. I\u2019ll get the degree eventually, maybe then I\u2019ll have time for the Greg star, in ATM 11 or something. \ud83e\udd37\u200d\u2642\ufe0f",
+            "Finished ATM9 to the sky 2 days ago, didn't really count hours, but if felt pretty easy and fast, a lot faster then most of the other modpacks I've played",
+            "It took me like 250 hrs with help in botania and bloodmagic",
+            "Over 9000.",
+            "guys it's like the meme from the internet you don't get it"
+        ]
+    },
+    "New Here, Basic Question, Sorry": {
+        "title": "New Here, Basic Question, Sorry",
+        "score": 7,
+        "url": "https://www.reddit.com/r/allthemods/comments/1dlofij/new_here_basic_question_sorry/",
+        "content": "I have been playing for just a few days; I took my boat out and found a shipwreck; I stole all the stuff, then I started dying (it turns out is was a \"chemical accident\" or something like that.) I respawned and went out to unlock my stuff, once it was back on my, I started dying again, so I ditched everything I could from the shipwreck, and I stopped at a half heart. Then, when I was getting home I stepped on a pricker bush and died. Like, wtf?",
+        "num_comments": 5,
+        "comments": [
+            "My guess is you picked up a specific gregtech ore. Some are radioactive and will harm you when they're in your inventory.",
+            "Yeah, that\u2019s what I figured. There was a glowing green ingot and a glowing yellow ingot. I saw them and was like yup looks cool gimme gimme. hahaha. There was also quite a bit of steel, brass or bronze ingots and armor, and some obsidian. I need to play more carefully (or read up, but that\u2019s not as fun).",
+            "They usually have a red warning in their description that tells you if it's hazardous. Not all of gregtech ores do it.",
+            "I have a feeling that all of the items were radioactive, from proximity to the deadly ones",
+            "Interesting. I haven't come across anything like that before so I'm not too sure what it could be."
+        ]
+    }
+}

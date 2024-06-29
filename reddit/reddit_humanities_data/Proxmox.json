@@ -1,0 +1,55 @@
+{
+    "run NAS VM on a node of proxmox cluster": {
+        "title": "run NAS VM on a node of proxmox cluster",
+        "score": 2,
+        "url": "https://www.reddit.com/r/Proxmox/comments/1dr5z3x/run_nas_vm_on_a_node_of_proxmox_cluster/",
+        "content": "Hi everyone, I am a newbie and still on a learning phase. Currently I created a cluster of 3 Proxmox nodes and setup TrueNAS VM on one Node. \n\nWhen I turn on TrueNas, proxmox force me to turn on other node to get quorum. Is there anyway that I can set that node (having TrueNas) work alone permanently but it still can join cluster anytime other node turn on ?\n\nThank you so much for your help!",
+        "num_comments": 0,
+        "comments": []
+    },
+    "Comparing Veeam and PBS(Proxmox backup server)": {
+        "title": "Comparing Veeam and PBS(Proxmox backup server)",
+        "score": 1,
+        "url": "https://www.reddit.com/r/Proxmox/comments/1dr69cf/comparing_veeam_and_pbsproxmox_backup_server/",
+        "content": "Hi all. We(Organization) \n going to move all our physical servers to virtual infrastructure using Prxomox .\nNow for the backup what is the best suited one?. \n\nVeeam or PBS?.\n\nWe need to adopt 3-2-1 backup strategies.\nAnyone running Proxmox in a big organisation can suggest please. \n\nAlso the backup mechanism u r using in ur organisation.",
+        "num_comments": 0,
+        "comments": []
+    },
+    "Windows DHCP issues 1 IP to all Linux VMs": {
+        "title": "Windows DHCP issues 1 IP to all Linux VMs",
+        "score": 7,
+        "url": "https://www.reddit.com/r/Proxmox/comments/1dqubkh/windows_dhcp_issues_1_ip_to_all_linux_vms/",
+        "content": "First post, but seasoned IT guy playing with ProxMox.\n\nI have a private lab environment currently using Windows DHCP/DNS. I'm experimenting with cloud-init images following Techno Tim's video. The first  clone from that template picks up an IP from the Windows DHCP server. If I clone template again to create a second Linux host, it comes up with the exact same IP as the first.\n\nThe MAC addresses are different, I'm using an Ubuntu cloud image.\n\nWindows clones have no problem and pick up subsequent IPs.\n\nI have rebuilt the image, restarted the Windows server.\n\nI have no idea what's going on at this point.\n\nUPDATE: I had actually thought that this was a Windows DHCP anomaly. On both instances, I changed the Bridge to another network, with a different *linux* based DHCP server, and have the exact same problem. Same IP is issued to both instances- but in a different network. So, it's clear it's something in the clone/template actions.\n\nArgh.",
+        "num_comments": 22,
+        "comments": [
+            "Same machine id?",
+            "Can you do a packet captures and check how the transaction went down? And what do the logs show in the DHCP server?",
+            "Is the first clone still running when you start the second?\n\nAlso check your dhcp servers logs.",
+            "Add dhcp-identifier: Mac to your netplan config and reboot.",
+            "Different hostnames?",
+            "If you reboot the linux host does it get a new IP or is it still the same?",
+            "Be careful and check the real mac address in the OS - mit the proxmox UI.",
+            "Only time you would run into IP conflicts like this is if the MAC address is cloned or if the vendorID strings being pulled in to DHCP for the likes of EFI/BIOS booting over PXE are the same. When you clone from template are you getting a new GUID as well as ensuring the the NICs are regenerated? You will need to start pcaping between your DHCP client and server and see what the actual DHCP request looks like at this point.",
+            "Did you turn on the cloud-init Ubuntu VM before turning it into a template?",
+            "Stored lease on the device you're not cleaning up?"
+        ]
+    },
+    "Mounting a SMB share changes permissions/owner and group after reboot": {
+        "title": "Mounting a SMB share changes permissions/owner and group after reboot",
+        "score": 2,
+        "url": "https://www.reddit.com/r/Proxmox/comments/1dqytyf/mounting_a_smb_share_changes_permissionsowner_and/",
+        "content": "I've installed the Turnkey Fileserver. Working ok at the moment.\n\nI've also setup a Debian VM, where I want to mount these SMB shares.\n\nMy fstab:  \n[`//192.168.3.61/data`](//192.168.3.61/data) `/mnt/Data cifs rw,vers=3.0,credentials=/root/.filesrv_smbcredentials,dir_mode=0770,file_mode=0660,uid=1000,gid=100,x-systemd.automount,_netdev 0 0`\n\n  \nMy folder-dir unmounted:  \n`drwxr-xr-x  5 root    root  4096 Jun 28 19:36 .`  \n`drwxr-xr-x 18 root    root  4096 Jun 15 20:54 ..`  \n`drwxrwx---  2 patrice users    0 Jun 28 19:54 Data`  \n`drwxrwx---  2 patrice users    0 Jun 28 20:08 D_Data`  \n`drwxrwx---  2 patrice users    0 Jun 28 20:11 Media`\n\nRunning:  \n`sudo systemctl daemon-reload`  \n`sudo mount -a`\n\nI get (I was testing on only 1 directory):  \n`drwxrwx---  2 patrice users 4096 Jun 28 19:38 Data`\n\nBut after a reboot (I added fstab entries for all three the directories):  \n`drwxr-xr-x  5 root root 4096 Jun 28 19:36 .`  \n`drwxr-xr-x 18 root root 4096 Jun 15 20:54 ..`  \n`drwxr-xr-x  2 root root    0 Jun 28 20:21 Data`  \n`drwxr-xr-x  2 root root    0 Jun 28 20:21 D_Data`  \n`drwxr-xr-x  2 root root    0 Jun 28 20:21 Media`\n\nAdditional info, the credentials file contains the SMB user \"media\" with its password to login to the SMB Shares. I've also created this user on the VM and has user ID 1002. I tested all the thing above with this user ID also and the directory Data was mounted as \"drwxrwx--- media:users\". But neither this sticked after a reboot. The users patrice and media have the same permissions, also both are in the users group.  \nMy guess is that if everything works with a manual mount (like above on the Data directory), my SMB config on the server is ok. All three the shares have the exact same config and permissions.\n\nMy goal at the end is to have the media user only full access to the Media and D\\_Data (for the docker containers) and patrice full access to all 3 the shares.\n\nIs there anything that I'm missing here?  \nWhat is the difference between mounting the SMB's manually vs a reboot?  \nI thought there wouldn't be any difference, since both do the mounting according the fstab...right!?!\n\nThanks for the help all.",
+        "num_comments": 0,
+        "comments": []
+    },
+    "Trying to install ontop of Debian 12 . Dependency issue": {
+        "title": "Trying to install ontop of Debian 12 . Dependency issue",
+        "score": 1,
+        "url": "https://www.reddit.com/r/Proxmox/comments/1dr2pvd/trying_to_install_ontop_of_debian_12_dependency/",
+        "content": "Set up Debian 12 earlier today and tried installing proxmox\n\ni ran through steps from [HERE](https://pve.proxmox.com/wiki/Install_Proxmox_VE_on_Debian_12_Bookworm) till i get to the\n\n# Install the Proxmox VE packages\n\n    apt install proxmox-ve postfix open-iscsi chrony\n\nthen i get the following error\n\n    Reading package lists... Done\n    Building dependency tree... Done\n    Reading state information... Done\n    Some packages could not be installed. This may mean that you have\n    requested an impossible situation or if you are using the unstable\n    distribution that some required packages have not yet been created\n    or been moved out of Incoming.\n    The following information may help to resolve the situation:\n    \n    The following packages have unmet dependencies:\n     libdw1 : Depends: libelf1 (= 0.188-2.1) but 0.191-1~bpo12+1 is to be installed\n     libgnutls-dane0 : Depends: libgnutls30 (= 3.7.9-2+deb12u2) but 3.7.9-2+deb12u3 is to be installed\n     libgnutlsxx30 : Depends: libgnutls30 (= 3.7.9-2+deb12u2) but 3.7.9-2+deb12u3 is to be installed\n    E: Unable to correct problems, you have held broken packages.\n\nAny help?\n\n    Source List \n    deb http://ftp.debian.org/debian bookworm main contrib\n    deb http://ftp.debian.org/debian bookworm-updates main contrib\n    \n    # Proxmox VE pve-no-subscription repository provided by proxmox.com,\n    # NOT recommended for production use\n    deb http://download.proxmox.com/debian/pve bookworm pve-no-subscription\n    \n    # security updates\n    deb http://security.debian.org/debian-security bookworm-security main contrib",
+        "num_comments": 1,
+        "comments": [
+            " Seems you're running Debian 12.2. Comment out the pve-no-subscription repo and run ```apt update && apt dist-upgrade``` to upgrade to the latest Debian point release. Reboot and then uncomment the pve-no-subscription repo and try again.\n\nLatest version is 12.5 - [https://www.debian.org/News/2024/20240210](https://www.debian.org/News/2024/20240210)"
+        ]
+    }
+}

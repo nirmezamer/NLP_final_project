@@ -1,0 +1,73 @@
+{
+    "I did a thing owo": {
+        "title": "I did a thing owo",
+        "score": 25,
+        "url": "https://i.redd.it/cdbkl3ey9g9d1.jpeg",
+        "content": "",
+        "num_comments": 2,
+        "comments": [
+            "Lenuwu",
+            "Leno what?"
+        ]
+    },
+    "My little x250 hackintosh": {
+        "title": "My little x250 hackintosh",
+        "score": 91,
+        "url": "https://i.redd.it/cidfvgfaqd9d1.jpeg",
+        "content": "I have dual boot with windows 10 too",
+        "num_comments": 12,
+        "comments": [
+            "Noice! Does everything with including sleep and airdrop?",
+            "Is it hard to install? Is it original or \"cracked\" version?",
+            "How\u2019s the battery",
+            "That\u2019s cool!\n\nGot a URL you can share with instructions?",
+            "such cute! how is the performance for day-to-day tasks?",
+            "AirDrop doesn\u2019t work, because the WiFi Bluetooth intel is not supported, needs a Broadcom one (can buy on Ali express and install on this x250 and airdrops gonna work) sleep working perfectly",
+            "well installing macos is quiet hard and it also their aitnt a verifed method to install macos on a non apple hardware",
+            "Same question",
+            "My battery have some age but I got same performance of windows 2-3 hours",
+            "Dortania guide and GitHub you find for any model of thinkpad, just follow the steps"
+        ]
+    },
+    "Making a custom boot screen": {
+        "title": "Making a custom boot screen",
+        "score": 16,
+        "url": "https://i.redd.it/1qo50vxazf9d1.jpeg",
+        "content": "I kinda like this rebus design, but I\u2019m having trouble arranging the ThinkPad logo. I guess the easiest way to do it is to replace the Lenovo logo with the rebus, leaving out the ThinkPad logo. What do you think? Or should I go diagonal like the old badge design?",
+        "num_comments": 3,
+        "comments": [
+            "Looks cool - how do you replace the logo?",
+            "Smort",
+            "[https://ittutorials.net/tutorials/computer-repair/change-bios-boot-screen-logo-image-lenovo-laptops/](https://ittutorials.net/tutorials/computer-repair/change-bios-boot-screen-logo-image-lenovo-laptops/)"
+        ]
+    },
+    "Rescued an old X61s from the recycling - new battery, ssd + Fedora 40 installed and it's being put to good use in the lab :)": {
+        "title": "Rescued an old X61s from the recycling - new battery, ssd + Fedora 40 installed and it's being put to good use in the lab :)",
+        "score": 45,
+        "url": "https://i.redd.it/qz34vugh3e9d1.jpeg",
+        "content": "",
+        "num_comments": 9,
+        "comments": [
+            "How do you all get old pads for free I need that stuff",
+            "Looks like it is now a data entry terminal for google sheet?",
+            "got the thicc boy battery as well",
+            "One of my favorites.",
+            "Imagine this thing is  revive with an i7 3615qe ,an ips panel..damn perfect",
+            "One thing I haven't been able to get working well yet is onedrive. Anyone know of a linux client (preferably with GUI) that does that files-on-demand kind of syncing? I.e all files are visible but only downloaded when you try to access them.",
+            "survivorship bias - you don't see posts talking about how someone **didn't** get anything for free",
+            "I knew there was a cleaning day at the office, so I kept an eye on the IT recycling bins in the cellar. You never know what might turn up, keep looking :)",
+            "Yup! That's exactly what it's been doing. I keep track of what I've sampled throughout the sediment cores on the table there, we're studying some intricacies of radiocarbon dating marine organisms."
+        ]
+    },
+    "Can I join the cult- I mean club too?": {
+        "title": "Can I join the cult- I mean club too?",
+        "score": 11,
+        "url": "https://i.redd.it/v71n0ohucg9d1.jpeg",
+        "content": "Left is a T42 with a factory restore of Windows XP and on the right is a T470s running macOS Monterey. Can I join the cult now pls?",
+        "num_comments": 2,
+        "comments": [
+            "Ho did you install macos on thinkpad?",
+            "<rolls up left trouser leg>\n\"Why yes, fellow thinkpadder!\"\n\n\n<makes arcane gesture using the nubbin>"
+        ]
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "How to Fix Your Inventory After A Player Force-Injects Illegal Items": {
+        "title": "How to Fix Your Inventory After A Player Force-Injects Illegal Items",
+        "score": 467,
+        "url": "https://www.reddit.com/r/DarkSouls2/comments/1c22d7b/how_to_fix_your_inventory_after_a_player/",
+        "content": "Margaret (u/GreatStarryWisdom), a community member from the dark souls discord server and Blue Acolyte beta-tester, just made this [clutch steam guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3219839402). Please favorite it so it gets more views. I\u2019ll also be pasting the text here.\n\n\n\u201cThere is currently a player force-injecting illegal items into people's inventories, causing the game to crash.\n\nFirst, I would recommend anyone reading this install the \"Blue Acolyte\" mod off of the Nexus page, or the github fork. I will provide a link to the Nexus page at the end of this post. This mod protects you from malicious cheats such as crashes and save bricking. You should *always* be using Blue Acolyte, and you leave your save at risk if you don't.\n\nMAKE SURE YOU ARE OFFLINE BEFORE FOLLOWING THIS GUIDE. This can be done by navigating to the top left of the steam client, clicking \"Steam\" > \"GO OFFLINE\". To go back online, simply repeat these steps.\n\nIt appears that the only way to remove these items currently is to use the public Cheat Engine table, which can be acquired from GitHub which I will also link at the end of this post. I do not recommend downloading tables found through Google searches, as these are most likely to contain malicious code that could damage your system or game files. \n\nMake sure you have the current build of Cheat Engine installed (version 7.4 as of 4/12/2024). To remove the items, launch Dark Souls II: Scholar of the First Sin, and load the affected character. Next, open the Cheat Engine table(DS2_SotFS_Bob_Edition.CT), and it will automatically link to your active instance of Dark Souls II: Scholar of the First Sin. In the lower section, click \"Open - Table v4.7.4\" > \"Scripts\" > \"Misc\" > \"+14 Crash Protection\". Once this is enabled, this will prevent the game from crashing due to the +14 Bleed Daggers in your inventory. From here, you should now be able to go in and remove them. To hasten the process, select one of the items, and hit \"Discard Selected\", and you can mass select the items to be discarded.\n\nIf this does not work, feel free to message me and we can work on another solution.\n\nDS2_SotFS_Bob_Edition.CT GitHub Fork\nhttps://github.com/boblord14/Dark-Souls-2-SotFS-CT-Bob-Edition\n\nBlue Acolyte\nhttps://www.nexusmods.com/darksouls2/mods/998?tab=description\n\nIF YOU ENCOUNTER THIS PLAYER AGAIN, OR ANY PLAYERS COMMITTING SIMILAR ACTS, PLEASE REACH OUT TO ME.\u201d\n\nThe player doing this is now on Blue Acolyte\u2019s global block list.",
+        "num_comments": 128,
+        "comments": [
+            "Had 200 +15 bleed daggers added to my inventory by a guy and when i booted up my game from crashing he joined and gave me another 200. Maybe if im lucky ill get up to 600. Anywho thank you for the post",
+            "My gf was watching me and all of a sudden I fly in the air and have 200+ bleeding daggers inserted in my inventory and die by an invader named \u201cTest\u201d. She goes \u201cgood thing you\u2019re running a fist build\u201d\ud83d\ude02",
+            "If you block the person on Steam can they still join your game?",
+            "Damn malicious hackers, ds2 deserves respect dammit.",
+            "Well i dont know english very well (writing especific but reading i'm fine) I having this problem and for some reason that i dont know, discord is not letting me talk in the server for some error related in my phone number  \nI have to say thank you for the help, i will try solve this matter until them, i m researching about how to use this kind of thing (cheat table and install de mod, i m not used to install mods)  \nNeed the cheater steam nick ?",
+            "This worked perfectly, and also easy to do. Now I have Blue Acolyte as well because I knew for a fact that a depressing hacker would just invade again, and in fact he did, but now he got kicked immediately, with a huge middle finger, pathetic, but I do have a question, how does the 'kicking' works? Does it affect the soft-ban multiplayer of the game like whenever players disconnect from invasions?",
+            "You guys are the best. Thank you.",
+            "i was gonna just quit because i'm so unfamiliar with modding, but i gave this a shot and it worked in minutes. thank you :\\]",
+            "Thanks for posting this guideline. Shame that hackers have nothing better to do",
+            "Margaret the Blue Acolyte is here to extinguish thy flame, BloodDaggerGuy69420."
+        ]
+    },
+    "DS1 Players: Bed of Chaos is the worst designed Dark Souls boss ever, the boss run is way too long! Meanwhile Frigid Outskirts:": {
+        "title": "DS1 Players: Bed of Chaos is the worst designed Dark Souls boss ever, the boss run is way too long! Meanwhile Frigid Outskirts:",
+        "score": 111,
+        "url": "https://v.redd.it/gc515gf3gf9d1",
+        "content": "",
+        "num_comments": 19,
+        "comments": [
+            "Many great clubs, greatshields, and a handful of other weapons have attack motions with a pancake/knockdown effect. Try them on the horses.",
+            "I think bee lining from building to building is kinda safer?\n\nI killed the reindeers everytime. I think they were a total of 9 or 12 and they stopped respawning until a bonfire usage. (Or maybe they stopped respawning for good since it definitely must've taken me more than 12 tries)\n\nI used Warmth to heal since I was roleplaying as a hexy pyro dexterity pirate.\n\nHaven't done it with Company of Champions though, so Venny (it was Vengarl iirc?) was my summon. We ended up killing the boss.",
+            "At least when i make it to the two cats there's a chance I can win, not a chance if I can miss the swipes into cornhole game BoC likes to play",
+            "The reason for that is because not many people play this area. It's an optional area in an optional DLC, and we all despise and try to avoid it for the most part lol. You'd be surprised of how many people don't play the DLC of these games. Most seem to just want to \"beat dark souls\" to say that they did and then move on to another game. Bed of Chaos is a mandatory boss unlike this one, so everybody needs to fight that one no matter what. \n\nThis theory also explains why O&S were considered the hardest Fromsoft boss for so long. They are hard but bosses like Manus or Fume Knight are arguably much harder. And I'm not talking about my experience or yours in your first playthrough. Just compare the damage they do, the health pool they have and the complex moveset they have and it's easy to see that those 2 will give more problems to most builds than O&S. But they are in a DLC. Now think how many \"mandatory\" bosses in DS2 are harder than O&S?",
+            "I always cheat in this area, and I don't feel bad about it. What were they thinking with these areas? All the dlcs have one of these, 2nd has 2. I understand that they wanted players to summon people to traverse these areas, but solo players have it rough",
+            "This was such a nooby runback lol",
+            "This argument would be valid if it wasn't for the fact its an optional boss in one of three dlcs. Don't get me wrong I agree entirely, but bed of chaos was a mandatory gimic boss in an unfinished area of the game. In retrospect there are quite a few God awful souls bosses for many different reasons so it's quite hard to pin down the worst with such large and varied types of badness. This is definitely up there tho.",
+            "Iron Passage, Cave of the Dead & Frigid Outskirts are designed exclusively for playing in co-op. The summonable NPCs have their hps and defences adjusted if one has to play offline.\n\nAdditionally, these were also intended as a \"trial\" thing for those who had not bought the dlcs.\n\nAlso, Frigid Outskirts is a whole level in itself. DeS, DS1, DS2, BB actually had levels to play in. DS3 is just a glorified boss-rush game with a combat even shallow than DS1, and that entire crowd now always looks for the \"bosses\" instead of the levels.\n\nAlso also, Bed of Chaos has a pretty short runback from the hidden bonfire. But players insist by themselves to always use the Daughters of Chaos bonfire and then complain about the high damage titanite demon and the boring long runback.\n\nAlso also also, co-op is not some abnormal thing to use in a game which provides 2 different soapstones for it. It is people like OP, because of whom people now rarely engage in co-op or pvp, leading to even more thinning of the online activity.",
+            "This is the only boss I broke my no summoning rule to beat. One of my runs Manhunter O'Harrah miraculously made it all the way to the fog gate and we beat the boss pretty easily. Before that I had a run where I went in solo, got the last cat to enrage hp threshold, but lost because I started the fight with only four estus flasks. All I can say is, never again.",
+            "The main difference is that ds1 was not designed to have shitty runbacks so bad of chaos stood out.\n\nDs2 is known for having shitty runbacks (runback is harder than the boss itself almost with all bosses) so this is just another shitty runback amongy sea of shitty runbacks."
+        ]
+    },
+    "Does this helmet make me look like an asshole?": {
+        "title": "Does this helmet make me look like an asshole?",
+        "score": 60,
+        "url": "https://i.redd.it/mpywvc5rzf9d1.jpeg",
+        "content": "",
+        "num_comments": 10,
+        "comments": [
+            "Everything reminds me of her",
+            "Yes it does. Omg!",
+            "\ud83e\udd41\ud83e\ude99",
+            "We all look like assholes.",
+            "I feel so stylish.",
+            "Horny asshole. Lol",
+            "Yeah, you're face only slightly resembles a rectum.",
+            "yes, a horny one",
+            "Mine is better!"
+        ]
+    },
+    "Top 3 locations you chose in polls. Opinion?": {
+        "title": "Top 3 locations you chose in polls. Opinion?",
+        "score": 235,
+        "url": "https://i.redd.it/vl9p5bsy6d9d1.jpeg",
+        "content": "",
+        "num_comments": 51,
+        "comments": [
+            "Drangleic Castle Sure, but Frozen Eleum Loyce is also wundersch\u00f6n.",
+            "Majula all the way",
+            "Heide goin undrafted's crazy\ud83d\ude4f",
+            "Shrine of Amana looks wayy more beautiful.",
+            "Shrine of Amana\n\nFor aesthetic",
+            "I'd personally put Iron Keep instead of Castle, but facts",
+            "Lost Bastille supremacy",
+            "Sunken city. Majula. Drangleic castle.",
+            "1. Majula - The music, the warm sun, its just a place i wanne visit.\n\n2. Dragon Aearie - Such a great view and atmosphere with all the Dragons flying above you.\n\n3. Shulva - It feels realy unique, not your typical Castle, Woods or Swamps.",
+            "No frigit outskirts? No good list"
+        ]
+    },
+    "It\u2019s been years since I booted ds2 ., my God the atmosphere and designs are creepy in these old souls games ": {
+        "title": "It\u2019s been years since I booted ds2 ., my God the atmosphere and designs are creepy in these old souls games ",
+        "score": 273,
+        "url": "https://i.redd.it/l057ab4etc9d1.jpeg",
+        "content": "The character designs have sure changed as the game franchise has matured and following . ",
+        "num_comments": 20,
+        "comments": [
+            "i think they did make more gorey horrifying bosses in following games but shulva itself is nightmare fuel, i was on my nerves going through the area",
+            "Shulva is peak atmosphere, I LOVE the tension of exploring a forgotten city with danger in every corner!",
+            "I realized that too when i met \" the rotten\" while playing ds2 again after some years",
+            "This is what I wanted from Elden Ring, I really loved the dark, \u201cgothic\u201d setting that the Souls titles had.",
+            "Idk I think all of the games have had something creepy in them.\n\nStarted playing Elden Ring for the first time this week and the Cemetery Shade was creepy af when I ran into it.",
+            "oh shit Elana = Malenia confirmed?",
+            "This picture looks like the cover art for an Incantation  album",
+            "Demon's souls flesh tower is peak design",
+            "Have you played demons souls or the remake? Highly recommend, the jail with the mindflayers was terrifying to me, incredible atmosphere",
+            "You need to install the lighting mod and go back.  That mod overhauls the lighting to such an extent that it visually feels like a different game."
+        ]
+    }
+}

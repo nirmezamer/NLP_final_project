@@ -1,0 +1,83 @@
+{
+    "Help yourself to a Godot Plush!": {
+        "title": "Help yourself to a Godot Plush!",
+        "score": 263,
+        "url": "https://www.reddit.com/r/godot/comments/1dl7iwq/help_yourself_to_a_godot_plush/",
+        "content": "The world may not be ready for its cuteness, but here it is:  \n[https://www.makeship.com/products/godot-robot-plush](https://www.makeship.com/products/godot-robot-plush)\n\nHelp yourself to a cuddly coding companion \u2728, and help the Godot Foundation at the same time!\n\nAll revenue made on our end will directly benefit the Godot Development Fund.\n\n[Godot Robot Plushie, Limited Edition, Godot Game Engine x Makeship](https://preview.redd.it/gd8v5yf76y7d1.png?width=2000&format=png&auto=webp&s=cfad215afce8f122d16d609e375e4fec0ae1ca43)\n\n",
+        "num_comments": 31,
+        "comments": [
+            "IT GOT FUNDED\nTOO FAST\nIN UNDER 15 MINUTES",
+            "can someone get them to post an image of the plush waving so we can make the club penguin dance with it? thanks",
+            "Bought one. Will try to make a game with it using Mesh2D and Skeleton2D. I did that before with my son's Dratini plush and it was hilarious.\n\nAlso was about time for a new profile picture.",
+            "how big is it?",
+            "Purchased! Adorable and helps godot :)",
+            "looks like whoever made/edited the images may have forgor to check dark mode lol \n\n&#x200B;\n\nthe dark part here of what is supposed to be white is in the first image and is completely transparent\n\nhttps://preview.redd.it/na8mwfw0628d1.png?width=1690&format=png&auto=webp&s=f9f4ca2b58570d1a51ca278882ca90e944304997",
+            "Lets go\nidk if I\u2019ll buy it",
+            "Pardon my skepticism, but how do we know this benefits the godot foundation? I haven\u2019t seen anything from the foundation itself. Anything you can point to?",
+            "Has there been any other Godot merch?",
+            "bought one so damn fast lol"
+        ]
+    },
+    "[Megathread] Welcome new subredditors!": {
+        "title": "[Megathread] Welcome new subredditors!",
+        "score": 32,
+        "url": "https://www.reddit.com/r/godot/comments/1dfy17t/megathread_welcome_new_subredditors/",
+        "content": "Looking to get started with the Godot Engine? Or here to meet new people?\n\nUse this post to introduce yourself, discuss strategy with each other, or to ask your burning non-tech-support questions!",
+        "num_comments": 33,
+        "comments": [
+            "Welcome! This Megathread can be used to chat about \"getting started\" topics that aren't allowed as seperate posts, like asking about the types of games that are made in Godot, looking for tutorials and resources, or getting advice on your first project idea. If you're new, say hello!",
+            "Hey there, I'm Eric a student from CITM-UPC. I'm interestedd in learn more about game dev in godot!",
+            "Hi! I've been active here for a week now or so, but still very new to game development, starting from zero. I'm learning Godot in C# for now.\n\nThe thing that still causes me the most headache is communication between nodes... what is the best way to get a reference to a different node, how to modify or pass variables between nodes, casts etc.\n\nI'm trying to learn at least one new thing every day and that's enough for now. I hope I can share progress on my game here eventually, even if it won't be for a while!",
+            "Hello! I am brand new to the world of game development, I've only recently embarked on understanding the ins and outs of this hobby, but I feel a deep satisfaction from every bit I learn. I've been working with Godot for about 3 weeks and have just finished the first goal I set for myself of creating a scene with a player, an environment with collision, and a functioning camera. \n\nI've also decided to start learning:\n\n* How to code in C#/Learn GDScript\n* Learn how to use Blender for 3D modeling and Importing to Godot\n* Refreshing my 2D Drawing skills for concept art creation\n\nIt should go without saying that I am feeling pretty overwhelmed, but honestly, I am also having so much fun! I've realized this hobby involves a lot of reading here, on Github, and watching a lot of youtube videos. I want to get good enough to do game jams and my ultimate goal is to make a fun game. \n\nI want to make a 3D life sim game with a day/night cycle in the vein of Persona 5/Animal Crossing. Can I achieve this in Godot?\n\nAny advice is greatly appreciated, have a great weekend !",
+            "Hello all! Current CS Student halfway to their associates and always had a dream of making video games one day. I just completed this tutorial on YoutTube for my first experience with the Godot game engine ([LEVEL UP Your Game Design Toolkit (Godot for Beginners) (youtube.com)](https://www.youtube.com/watch?v=zL__a0Ei6Vs) ) and it was a bit frustrating but overall a fun learning experience. I'm not too experienced of a coder and I'm pretty lame with coding/game development in general but I am already gaining a passion for this. So hopefully next month I'll be showing off what I do know and asking questions here about stuff I'm striving to learn. Good luck to you all!",
+            "Hello Everyone! \n\nI had made a post or two before but hadn't introduced myself before. I am NakedSalmon, and I have been now learning Godot for the last 1 year, I am working towards developing my game: A space tower defence story! I come from a non-programming background so it's been a journey. \n\nI do it in my free time! Good progress lately though!",
+            "Hello all! I'm just a humble web developer by day but in my spare time over the last few months I've been rekindling my creative side working on games with Godot, and it's been quite a rewarding journey so far although I still have plenty to learn too.\n\nWhile I've had fun tinkering around with a few different areas including VR, I've made the most progress recently on a little project trying to make it easy to build multiplayer games with phone/browser controls via Websockets. In fact, I'm getting pretty close to releasing my first game with it! It's admittedly small but I'm still proud of how far it's come along, but also appreciative since none of it would have been possible without the amazing work people have put into Godot.",
+            "Hi \ud83d\udc4b \nI'm a sw engineer looking for a simulation platform that can run both c# and c++ code.\n\nIs it possible to debug through both c# and c++ code and mix both languages in the same project? On Ubuntu.",
+            "Greetings. I\u2019ve recently started using Godot for both work and hobby projects and I\u2019m absolutely loving how convenient and intuitive working in Godot has been so far.\n\nThe work project is a bit like a floor planning software which utilises shaders to calculate and display a type of heatmap. I\u2019m not sure if it\u2019s the best way to do it, but I\u2019ve been storing the data (resources) separate and updating the 2D/3D scenes when the data changes via signals.\n\nMy first game project I'm working on is a top-down shooter that takes inspiration from the old Wizard of WOR game on the C64.",
+            "Hello there! I'm a developer from Russia. I have a lot of projects made using Godot:\n\n1. I defended my thesis on developing a web virtual tour of a sewing workshop: [https://drive.google.com/file/d/14WovpsFJ8I0OQ\\_XaQX6sRYPbTY-pgku4/view?usp=sharing](https://drive.google.com/file/d/14WovpsFJ8I0OQ_XaQX6sRYPbTY-pgku4/view?usp=sharing)\n\n2. Rhythm Bullet Hell Demo (Vulkan required): [https://drive.google.com/file/d/1rrwZsPe1jP0EJicg9gvDNsiwpLdX7q6L/view?usp=sharing](https://drive.google.com/file/d/1rrwZsPe1jP0EJicg9gvDNsiwpLdX7q6L/view?usp=sharing)\n\n3. LSB Steganography: [https://drive.google.com/file/d/1GjAYh8rZoRyg5t6pRqe9pmb9EdFGJxTE/view?usp=sharing](https://drive.google.com/file/d/1GjAYh8rZoRyg5t6pRqe9pmb9EdFGJxTE/view?usp=sharing)\n\n4. GodoRef (Analogue of PureRef): [https://drive.google.com/file/d/1YPCEdMYBJoT8tWm-AepCt2UOM9cWazHP/view?usp=sharing](https://drive.google.com/file/d/1YPCEdMYBJoT8tWm-AepCt2UOM9cWazHP/view?usp=sharing)\n\n5. PixelPlace (Analogue of r/Place, the server is not working right now): [https://www.reddit.com/r/godot/comments/uunhem/i\\_made\\_pixelplace\\_analogue\\_rplace/](https://www.reddit.com/r/godot/comments/uunhem/i_made_pixelplace_analogue_rplace/)\n\nSorry that my some applications only have russian, these are alpha versions. I'll add english later.\n\nI'm currently developing a FNAF Plus (fan remake) with Godot.\n\nhttps://preview.redd.it/8roj7kag7r6d1.jpeg?width=1920&format=pjpg&auto=webp&s=d9b175b2e851c5c76555bfba5ae9fb62099d8b55"
+        ]
+    },
+    "Electric, fuel, and temperature systems in my colony sim Outpostia": {
+        "title": "Electric, fuel, and temperature systems in my colony sim Outpostia",
+        "score": 25,
+        "url": "https://v.redd.it/w5zougqkt38d1",
+        "content": "",
+        "num_comments": 3,
+        "comments": [
+            "If you are interested, [here](https://www.reddit.com/r/Outpostia/) is the Outpostia subreddit",
+            "rimworld",
+            "https://preview.redd.it/ic11430uw38d1.png?width=629&format=png&auto=webp&s=1d4cd69ed8ab3c76f6acfbe49f239f9ff3c91faf"
+        ]
+    },
+    "How to make a smooth physics-based rope in Godot 4 in three steps": {
+        "title": "How to make a smooth physics-based rope in Godot 4 in three steps",
+        "score": 254,
+        "url": "https://v.redd.it/q8pt5hmtyz7d1",
+        "content": "",
+        "num_comments": 13,
+        "comments": [
+            "URL in video redirects to https://gist.github.com/JoelBesada/8cb4508dfbcd4e23f639476fd89b1952",
+            "thank you! this will be helpful for me in the future.",
+            "That's really nice! Thanks for sharing!",
+            "Awesome, thanks!",
+            "Does this work for 3d do you think?",
+            "Awesome!  Well done.",
+            "Thank you! really useful video.",
+            "wow learned a lot  \ud83d\udc4d",
+            "This is what video tutorials should be like.",
+            "Great video. Exactly the content we need to recreate it. Thank you!!"
+        ]
+    },
+    "I recently launched my first Godot game \"Away From Home\" on Steam": {
+        "title": "I recently launched my first Godot game \"Away From Home\" on Steam",
+        "score": 48,
+        "url": "https://v.redd.it/vm0rwzgio18d1",
+        "content": "",
+        "num_comments": 3,
+        "comments": [
+            "this looks super cool!!",
+            "This looks awesome!  \nLove the Colors  \nBtw Make it **Released Now** though also the game seems to be free to play so change it to **Play Now for Free**",
+            "Thank you."
+        ]
+    }
+}

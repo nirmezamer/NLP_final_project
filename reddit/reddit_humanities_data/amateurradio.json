@@ -1,0 +1,80 @@
+{
+    "Weekly Information / Mentor / New License Thread": {
+        "title": "Weekly Information / Mentor / New License Thread",
+        "score": 2,
+        "url": "https://www.reddit.com/r/amateurradio/comments/1dncwhr/weekly_information_mentor_new_license_thread/",
+        "content": " This thread is used for those who  just passed their tests to introduce themselves,  a place to ask  questions that you think don't deserve its own thread and a place to  brag!\n\nPosts will be sorted by new!\n\nBefore posting, please make sure to read our [Rules](https://www.reddit.com/r/amateurradio/wiki/index/rules), [FAQs](https://www.reddit.com/r/amateurradio/wiki/faq), and look over our [Wiki Page](https://www.reddit.com/r/amateurradio/wiki/index) as your question might have already been answered. Also, check out our [guidelines about posting personal information](https://www.reddit.com/r/amateurradio/wiki/personalinfo).\n\n&#x200B;\n\nWeekly Nets And Chat Rooms:\n\n* DMR  Net: 0000 UTC Tuesday (Monday night US, 8pm Eastern). No net control.  Brandmeister TG 98003. Also linked via echolink. More info can be found [here](https://www.reddit.com/r/amateurradio/comments/8qb74c/tonight_at_0000z_8pm_eastern_5pm_pacific/).\n* HF Net: 01:30 UTC Monday Morning (Sunday night US). Coordinate via IRC, no net control. Information can be found [here](https://www.reddit.com/r/amateurradio/wiki/hfnet)\n* CW Noob Net: 02:30 UTC Saturday Morning (Friday night US). Coordinate via IRC, no net control. Information can be found [here](https://www.reddit.com/r/amateurradio/wiki/cwnet)\n* Official IRC Channel - #amateurradio on Geekshed. Link to web-based client is [here](https://kiwiirc.com/client/irc.geekshed.net/#amateurradio) but feel free to use whatever client you like.\n* Official Discord Server - /r/amateurradio is on discord. Click [here](https://discord.gg/YjbFrUJVRF) to join\n* Collegiate Ham Radio Groupme is [here](https://web.groupme.com/join_group/26113544/7DQnOj)\n* [Young Amateurs Communications Ham Team EchoLink Net](http://yacht.younghams.org/nets) 19:00 Central Saturday Night\n* /r/amateurradio group on the Brandmeister network - TG 98003 - [Listen Live](https://hose.brandmeister.network/group/98003) \\- This talkgroup is bridged to AllStarLink node 48224 and Echolink node W5RI-L and on D-Star via XLX216 Module E\n* North American Traffic and Awards Net Nightly at 22:30Z on 7.185.\n* If you'd like to join a weekly net for new and returning amateurs, check out the details at [http://ftroop.vk6flab.com](http://ftroop.vk6flab.com/),  the net runs every week on Saturday, from 00:00 to 01:00 UTC on  Echolink, IRLP, AllStar Link and 2m FM via various repeaters. You can  also listen via the brandmeister hoseline! Link on homepage.",
+        "num_comments": 0,
+        "comments": []
+    },
+    "Garage sale score!": {
+        "title": "Garage sale score!",
+        "score": 190,
+        "url": "https://i.redd.it/0yotvepsyd9d1.jpeg",
+        "content": "Plus a big box of cabling, a speaker, inverter, and random bits. I\u2019m not familiar with this radio\u2026 it has some sort of GPS module plugged into the head unit?",
+        "num_comments": 66,
+        "comments": [
+            "Congrats but also fuck you.\n\nThat's a kenwood tm-710 with gps receiver, goes for ~500-650 on the zed and is the gold standard for 2m/440 rigs with APRS",
+            "Hello, police?\n\nI'd like to report a robbery!\n\nDamn, dude! Nice score!",
+            "That is an awesome rig. I have two of them because the first one was so impressive.\n\nCongratulations!\ud83d\ude0a",
+            "Does it function though?",
+            "Is that $15 ?",
+            "You robbed them, what a score!",
+            "I have one of these. You can't buy them anymore. You could literally get people to fight over one if you put it out on a table at a hamfest. They go for north of $500 used.\n\nStill the best 2m-70cm APRS radio around. Nice score.",
+            "Nice rig! True V/V and U/U operation. Welcome to the high end equipment game for VHF & UHF.",
+            "Well, somebody in the right place at the right time. I\u2019m glad it went to somebody. That\u2019s actually a ham radio operator.",
+            "Was the seller clearing out her ex-husband\u2019s stuff?"
+        ]
+    },
+    "Ham shack progress": {
+        "title": "Ham shack progress",
+        "score": 68,
+        "url": "https://i.redd.it/zkir2haa7d9d1.jpeg",
+        "content": "Hi everyone finally got hamclock up and running in the shack, using a raspberry pi 3 and a spare tv. So far loving the functions and info this gives you. Would have loved to jump on tonight but I have a massive migraine. ",
+        "num_comments": 13,
+        "comments": [
+            "Great job buddy! Keep it up!\n\nHave fun!",
+            "I'd probably change that switching power supply, or make sure you can effectively suppress any RFI",
+            "I'm really enjoying these updates. Keep them coming",
+            "[deleted]",
+            "This is so cool!!!! I love it!!!!\u00a0",
+            "Nice! \u00a0I like the monitor placement.\u00a0",
+            "Nice! What app is running on the right screen?",
+            "good start looks good",
+            "Is the G90 really enough? It\u2019s like 20W or something right? What contacts do you get with it?",
+            "Switch mode power supplies have come a long way. Out on my fairly RF quiet back porch, I can't tell the difference in noise between a switcher and a battery. Its the cheap Meanwell knockoffs you gotta watch out for."
+        ]
+    },
+    "Separate Battery for Vehicle Radios": {
+        "title": "Separate Battery for Vehicle Radios",
+        "score": 4,
+        "url": "https://www.reddit.com/r/amateurradio/comments/1dr062s/separate_battery_for_vehicle_radios/",
+        "content": "Hey folks-\n\nAside from the obvious downsides, are there major caveats or considerations one might consider? \n\nLifePo4 Chemistry.\n\nMain goals 1) easy install 2) portable away from the vehicle easily.\n\nrc325",
+        "num_comments": 7,
+        "comments": [
+            "I have a heavy wire run from the + battery terminal (fused right near the battery) to the cab of my truck that terminates at a high amperage Anderson powerpole.  Ground from that powerpole goes to the nearby floor of the cab (not back to the battery).   I also have a 100Ah LiFePO4 \"loose\" battery (fused on both leads) that I also have terminated with a high amperage Anderson powerpole.  I just put it on floor of back seat and have a strap to tie it down.\n\nThe radio power input leads are Anderson terminated so I can easily swap from the truck battery to the LiFePO4 battery as needed...basically, if the engine is running, I typically use the truck power, but if I am parked for POTA or any other use, I use the LiFePO4.  I rarely use the radio when \"driving\" though, mostly when parked.\n\nMy radio is an IC-7000 (with AH-4 tuner) which is a bit of a power hog.  This allows me to move radios to my pontoon boat, truck, home etc when desired.  I absolutely love the flexibility it provides.  I will also be using 2xLiFePO4 batteries as emergency power for home too (run furnace off an inverter etc).\n\nThe radio will run for hours on the 100Ah battery so I rarely have to charge it...even with the power hungry radio.\n\nI see no downside...",
+            "Not really, honestly. You\u2019ll eventually get tired of having to charge it and wire your rig to the car battery, but it would work and there are no special considerations.",
+            "Maybe keep the LFP circuit separate from the vehicle? Charge via solar perhaps? LFPs like 14.4 volts for charging (typically), and won't get a full charge from your car's system at 13.8v. Some charging systems will give greater than 13.8 (Chevrolet for example), but not sure if that will fully charge your radio battery if tied into the alternator circuit.",
+            "Honestly, the way I would personally rig it would be:\n\nIgnition switched vehicle power >  charger > radio battery > radio\n\nThat way you're isolating the radio totally, and don't have to worry about it depleting your car's battery... and it will be easy to use powerpole connections like someone else recommended, to be able to disconnect your battery pack and take it out and do whatever.\n\nI had a separate battery and actually separate alternator for all of my electronic accessories on my old blazer, but that was dual alternators from the factory and I just reconfigured things to use a marine 1-2-both-off switcfh. I also ran all of my aux lighting and other stuff like inverter, cooler, usb chargers and stereo off the secondary system to isolate the primary stuff.",
+            "I have a 30aH paralleled with 8aH bioenno in a ammo box in the trunk. Attached to the box I put a west mountain radio epic pwrgate, and a rigrunner downstream. I have two methods of keeping the battery topped off. Primary is roof solar panel via the pwrgate. Second is cugarette lighter to the epic pwrgate. So my three radios are always running off my bioenno battery bank, which is constantly topped off by solar or when alternator is running.",
+            "I believe there are gadgets you can get for RVs that will charge a second battery from the vehicle's alternator but not let whatever load is on that circuit draw down the main battery.",
+            "This is what I have setup in my truck. It\u2019s called a battery isolator. My radio is actually wired into a marine deep cycle battery that is under the hood and charge off the main battery, but when the truck is off, the main battery is disconnected via a solenoid. But I don\u2019t think that is what OP is concerned about."
+        ]
+    },
+    "Building an antenna mast for around $150. Am I going down the right path?": {
+        "title": "Building an antenna mast for around $150. Am I going down the right path?",
+        "score": 3,
+        "url": "https://www.reddit.com/r/amateurradio/comments/1dr196x/building_an_antenna_mast_for_around_150_am_i/",
+        "content": "I'm a new Technician and wanted to see what people thought about this build as a first entry into antenna masts without going too crazy and something that could be finished on a nice sunny weekend. I will be working 2m and 70cm for now.\n\n* 20' sectional aluminum flag pole with self tapping screws at each joint. \n* ANT-7900D quad band antenna mounted on the top (using a SO-239 female to connect to PL259 cable)\n* 25' PL259 RG58 cable going inside the flag pole\n* Proxicast Lightning Arrester with gas tube  SO-239 Female \n* 4' grounding rod connecting to the lightning arrester\n* 25' PL259 RG58 connected the lighting arrester getting me into my garage where my mobile is\n* Pole antenna mast would be mounted on a 4x4 post of my fence within 5 feet of the garage using pipe strap clamps. Bottom and top of pole will be sealed and the bottom of the pole will be about a foot off the ground giving the cable enough area to prevent a hard bend on it. \n\n*the antenna was zero cost to me so it's not included in the price of the build.* \n\nI believe the antenna length is half wave for 2 meters at 100cm or close to it? Maybe somebody could help me with the right answer for that.  (about 39 inches / 3 feet 3 inches)\n\n  \nWhat does everyone think?\n\n  \n",
+        "num_comments": 7,
+        "comments": [
+            "Hi, thank you for your question submission.  Please be aware that there is a [wiki](https://www.reddit.com/r/amateurradio/wiki/) and a [FAQ](https://www.reddit.com/r/amateurradio/wiki/faq) that may address your question.  For Baofeng-related information see the [Baofeng FAQ](https://www.reddit.com/r/amateurradio/wiki/baofeng) and /r/baofeng. Also, please note that downvotes don't indicate an unvalued question submission. There appear to be bots that downvote all posts initially. 73\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/amateurradio) if you have any questions or concerns.*",
+            "Shave off as much as you can on the 2nd length of coax. At VHF/UHF frequencies, you'll be getting noticably lossy at 50ft of RG-58. LMR-400 would be more appropriate, but the shorter the better. \n\nGood luck with your project, and have fun!",
+            "Beware of high flagpole leverage on you fence post. The typical fence post base may not be large enough to handle it.",
+            "I would go with LMR400 from the antenna down to the arrestor then rg58x from the arrestor inside.\n\nI sunk a chain link fence post 3.5-4 feet in the ground with a 10 foot chain link top rail as the mast for my Diamond X50A. The post and top rail are joined with an MFJ Mast to Mast mount. I have 18 feet of LMR400 from the top down, then 12 feet of RG58X to get me in the apartment via the air conditioner sleeve.\n\nThe barrel connector is wrapped with silicone coax seal then wrapped again with Scotch 88. An arrestor and ground rod will be added soon. The feed line lies on the ground so maintenance can maneuver around to do what they need to do (mostly put the AC covers on and off twice a year).\n\nThe only restrictions I had were 1-keep it off the grass, 2-no holes through the building or mounts attached to the building, 3-cannot be permanent. There were no heoght restrictions, but because i couldn't add a brace to the building, I kept the mast height to 10 feet. The base is filled with packed sand to make it removable and took an hour or 2 with a post hole digger cutting through densely packed clay post rain. After a couple days for the ground to dry and the sand to settle, the mast and antenna went up in 90-120 minutes (including breaks because I'm old and things take longer now).\n\n[photo 1](https://drive.google.com/file/d/1a-DdGLD4lqF-Y6iOtWXhiFbSBEgzTBas/view?usp=drivesdk)\n\n[photo 2](https://drive.google.com/file/d/1a01ZXVyW7Xm_oVy7JFKZK3vPLS50C-AG/view?usp=drivesdk)",
+            "> going inside the flag pole\n\nWatch out for strain at the top of the unsupported length. And for \"harbor sound\" if the mast sways in wind.",
+            "If the ANT-7900D is what I think it is, (multi-band mobile antenna) you should get a ground plane kit for it, they're cheap enough on eBay and you can save the expense of a 20 ft flagpole kit by getting 2 ten foot chain link fence top rails (about 15-20$ each) I bought an Annin flagpole kit to use as a stealth vertical with an auto tuner a bit over 10 years ago at Home Depot and it was over $100 then.\n\nI have two 20ft top rail masts, one with a Tram 1411 Discone, and the other has a Tram 1480 8ft 2m/70cm.",
+            "100% agree with this, this will become much more noticeable at 70cm. LMR-400 is more expensive, but look at [W4RP\u2019s coax attenuation chart](https://www.w4rp.com/ref/coax.html) and compare prices. \n\nAlso, you may want to not fight gravity and put the pole bottom on the ground. If you are running coax internal to the pole drill an access hole. \n\nThis is a solid plan. Just remember that you will run into \u201coops I didn\u2019t think of that\u201d moments and just breathe and adapt. Good luck!"
+        ]
+    }
+}

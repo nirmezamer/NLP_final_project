@@ -1,0 +1,97 @@
+{
+    "Announcing the /r/gmod Discord server!": {
+        "title": "Announcing the /r/gmod Discord server!",
+        "score": 384,
+        "url": "https://www.reddit.com/r/gmod/comments/4ttbqd/announcing_the_rgmod_discord_server/",
+        "content": "Hello everyone!  I'm happy to announce the /r/gmod Discord server!  If you're looking to connect with new people, or just have a chat with fellow players, please feel free to join us!\n\nIn order to join, please download and install [Discord](https://discordapp.com/) for free!  You may then [click here](https://discord.gg/JkP48kZ) or the link on the sidebar to join.  You can even install Discord on your phone or tablet!\n\nCheck us out!\n\n~ /r/gmod moderation team",
+        "num_comments": 54,
+        "comments": [
+            "Y'know, this is terrible.",
+            "Is this primarily for gameplay or will there be a channel for animation/screenshots?",
+            "Hello",
+            "I forgot to mention, there's also ~~a coding room to discuss GLua and whatnot, as well as~~ a help room for technical assistance.\n\nand credit to /u/TFW_NO_MEMES for the idea, by the way.  Thanks!",
+            "[deleted]",
+            "will never understand why this discord still exists, considering how an official discord gmod server already exists now",
+            "It doesn't work. The link is expired or something. ",
+            "[removed]",
+            "[removed]",
+            "[removed]"
+        ]
+    },
+    "No your game isn't broken, and no you didn't do anything wrong": {
+        "title": "No your game isn't broken, and no you didn't do anything wrong",
+        "score": 1291,
+        "url": "https://www.reddit.com/r/gmod/comments/3xwjat/no_your_game_isnt_broken_and_no_you_didnt_do/",
+        "content": "TL;DR:\n\nIf your game [looks like this](https://i.imgur.com/5l9rR6w.png) then [buy this](http://store.steampowered.com/app/240/) or [follow this](http://steamcommunity.com/sharedfiles/filedetails/?id=284329110), alternatively here's [a video if you prefer](https://www.youtube.com/watch?v=D6fg5-rq4cE).\n\n***\nYou probably just bought Gmod and joined a server only to be greeted by [something like this](https://i.imgur.com/5l9rR6w.png), am I right?\n\nDon't worry, there's actually nothing wrong. I know it looks bad but that's pretty normal, (if you plan on playing Gmod, or any Source Engine game for that matter, you'll run into this a lot) and easy to fix. The most common reason why you're seeing this is that you don't own/have Counter-Strike: Source installed and mounted to Garry's Mod.\n\nIf you don't already own [Counter Strike: Source](http://store.steampowered.com/app/240/) then I'd recommend buying it while it's on sale for the holidays, however, if you don't want to buy and install a game you'll probably never play then you can follow [this guide to get the models and textures for free](http://steamcommunity.com/sharedfiles/filedetails/?id=284329110). Alternatively, if you prefer [following along with a video](https://www.youtube.com/watch?v=D6fg5-rq4cE) here's one that shows step by step what to do.\n\nA user on our Discord made [a very handy little tool](https://github.com/ITS-NIGHTOWL/CSSource-Texture-Installer/) that will extract the CSS content you need using SteamCMD for you. I highly recommend using it if you're having trouble doing it manually.\n\nIf, however, you already own CSS then:\n\n* Install it\n\n* Open up the game from your Steam Library and play it (At least til you get to the start menu)\n\n* Exit out of the game and open up Garry's Mod",
+        "num_comments": 112,
+        "comments": [
+            "It may have taken 10 moderators but at least someone eventually thought to post this!",
+            "Why not someone make a workshop add on that has all the CSS stuff in it so that we don\u2019t have this issue anymore",
+            "And if that doesn't work, buy, install, and mount the Orange Box.",
+            "if we want to play ttt do we have to have css installed ",
+            "When I try to do the app_update step on the no-buying CSS guide, it says this:\n\nError! App '232330' state is 0x202 after update job.\n\nCan someone help me?",
+            "Installed cs source, got goatse",
+            "Glad I don't actually have to buy CS. I was so enraged to find out that I needed CS in order for my eyes to not have a epileptic fit. This might cool me down a bit if it works.",
+            "This guide is completely outdated and none of the methods work properly anymore. Please update.",
+            "I bought the valve complete pack so I should be good. I did forget to buy Gmod when I only had $5 left. Thank god it was only $2.50 or I would have been pissed if I forgot the game I wanted",
+            "[deleted]"
+        ]
+    },
+    "just got this game is it good?": {
+        "title": "just got this game is it good?",
+        "score": 835,
+        "url": "https://i.redd.it/b89uorjpeb9d1.png",
+        "content": "",
+        "num_comments": 164,
+        "comments": [
+            "In my 1.3k hours all I have to say is..\n\n***\"Sometimes, I dream about cheese.\"***",
+            "if your pc is low end don\u2019t download too many addons",
+            "Youre on the games subreddit tf you want us to tell you of course its good",
+            "you just got it why don't you find out for yourself",
+            "never EVER get into scenebuilding\n\nHEED MY WARNING TRAVELLER! KEEP YOUR SOCIAL LIFE INTACT!!",
+            "Its optimisation is pretty outdated and multiplayer with addons can be extremely buggy but other than that it's fantastic, really can't tell how old it is by gameplay and graphics.",
+            "you're asking the gmod subreddit if gmod is good, what do you expect the answer to be?",
+            "Jo, je to good k\u00e1mo",
+            "You should be asking this before buying something...",
+            "It is as long you dont make the fatal flaw kid me did of not mounting cs source"
+        ]
+    },
+    "poster for my upcoming gmod short film, The Nightmare Project.": {
+        "title": "poster for my upcoming gmod short film, The Nightmare Project.",
+        "score": 147,
+        "url": "https://i.redd.it/63bj8c7g8d9d1.png",
+        "content": "",
+        "num_comments": 13,
+        "comments": [
+            "Ooo!! This looks so professional!! I can\u2019t wait to see the trailer drop!!",
+            "it's a story I've been tinkering with in my head for years, but finally decided to actually create. I've got 40+ minutes fully filmed and edited, nearing completion soon. it's a post-apocalyptic sci-fi mystery thriller, taking inspiration from the classics of kitty0706. of course I did not create any of the models, maps, mods or music used in this project - I'll be putting a disclaimer stating that at the beginning, and properly crediting all of the assets used.\n\nexpect a trailer sometime within the next couple of months :)",
+            "I love this, you managed to jampack Mr bean, postal dude and the fat Kurdish guy in one image and it's a masterpiece.",
+            "looks awesome",
+            "look at that fatass god damn",
+            "Oh hell yeah. Any ETA on when we can expect to enjoy it?",
+            "is that bugleberry or whatever his name is\ud83d\ude2d",
+            "I regret nothing",
+            "thank you!",
+            "thanks!"
+        ]
+    },
+    "Uh is this real!?": {
+        "title": "Uh is this real!?",
+        "score": 519,
+        "url": "https://i.redd.it/fpu1n3y34b9d1.png",
+        "content": "",
+        "num_comments": 65,
+        "comments": [
+            "Bought this exact deal years ago. No regrets.",
+            "you should buy the whole bundle\n\nNOW\n\nhttps://preview.redd.it/t8eytt13cb9d1.jpeg?width=500&format=pjpg&auto=webp&s=4fef48e7c514b7e41f63a6799a5ebd638832f101",
+            "i think this is the best day",
+            "Basically steam sale",
+            "bro thats so cheap! \ud83d\ude31\ud83d\ude4f\n\nbtw its lower than 1 euro in europe",
+            "The Valve Complete Pack feels like a rite of passage--can't imagine not owning it",
+            "what is that currency, im actually curious",
+            "ill buy them when my dad gets home",
+            "Half Life Episode 2? Yes",
+            "this happens literally every sale"
+        ]
+    }
+}

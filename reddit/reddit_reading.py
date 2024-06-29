@@ -6,12 +6,12 @@ import shutil
 import google.generativeai as genai
 from tqdm import tqdm
 
-# genai.configure(api_key="AIzaSyA_a9NStJj6XoMDaGXlbz-v35xCQzTlDqA")
-# model = genai.GenerativeModel('gemini-1.5-flash')
+genai.configure(api_key="AIzaSyA_a9NStJj6XoMDaGXlbz-v35xCQzTlDqA")
+model = genai.GenerativeModel('gemini-1.5-flash')
 
-# def call_prompt(prompt):
-#     answer = model.generate_content(prompt)
-#     return answer
+def call_prompt(prompt):
+    answer = model.generate_content(prompt)
+    return answer
 
 # Replace these with your own credentials
 CLIENT_ID = '39ZflIZLYQso2iFg9GqW2g'
@@ -166,6 +166,9 @@ def generate_reddit_data_set():
                                              subreddit_data[post]["content"], \
                                              subreddit_data[post]["comments"][1:5])
             if AI_comment == "":
+                # Save the data set to a json file
+                with open("reddit/reddit_data_set.json", "w") as file:
+                    json.dump(data_set, file, indent=4)
                 continue
             data_set[post] = {
                 "title": subreddit_data[post]["title"],
@@ -180,12 +183,23 @@ def generate_reddit_data_set():
         
     return data_set
         
-    
+def clean_up_jsons():
+    dir_path = "./reddit/reddit_humanities_data_new"
+    for file in os.listdir(dir_path):
+        with open(dir_path + "/" + file, "r") as f:
+            data = json.load(f)
+        for post in data.keys():
+            if len(data[post]["comments"]) > 10:
+                data[post]["comments"] = data[post]["comments"][:10]
+        with open(dir_path + "/" + file, "w") as f:
+            json.dump(data, f, indent=4)
+    return
 
 # Example usage
 if __name__ == "__main__":
     
-    # data = generate_reddit_data_set()
-    # print(len(data))
+    data = generate_reddit_data_set()
+    print(len(data))
 
-    generate_many_humanities_reddit_json()
+    # generate_many_humanities_reddit_json()
+    # clean_up_jsons()

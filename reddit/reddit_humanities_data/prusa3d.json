@@ -1,0 +1,82 @@
+{
+    "Assembled MK4 Special Summer Deal - Free Shipping and 1 Year Extended Warranty, Enclosure Bundles - Original Prusa 3D Printers": {
+        "title": "Assembled MK4 Special Summer Deal - Free Shipping and 1 Year Extended Warranty, Enclosure Bundles - Original Prusa 3D Printers",
+        "score": 21,
+        "url": "https://blog.prusa3d.com/assembled-mk4-summer-sale-free-shipping-and-1-year-extended-warranty-enclosure-bundles_98668/",
+        "content": "Free shipping on assembled MK4, $100 voucher with kit MK4",
+        "num_comments": 5,
+        "comments": [
+            "Bummer that this doesn't include the XL. I've been considering one for a few weeks, and free shipping or a gift card might have been enough to push me over the edge.",
+            "Ah can I get this retroactively?",
+            "In North America printedsolid.com is selling the Prusa products (since I guess Prusa owns them). \n\nHowever their price is $1299 shipped for an assembled MK3 and Prusa is selling it for $1099 with free shipping now. \n\nWhy would I buy from them rather than direct?",
+            "No idea. I just finished assembling mine. Hoping we can get something. Have you reached out to prusa yet?",
+            "They are geared more towards the commercial and educational market. Many business and schools require any purchase be made from a company that at minimum has a US presence. Their price is higher to reflect the shipping costs. Institutional sales are generally also much more time and labor intensive than a sale to a retail customer. No forms to fill out in triplicate and such."
+        ]
+    },
+    "New HT90 so how fast is it?": {
+        "title": "New HT90 so how fast is it?",
+        "score": 30,
+        "url": "https://i.redd.it/tsa5dx6jba9d1.jpeg",
+        "content": "The new HT90 seems to be a rebrand of there Trilab delta but how fast is this thing? A KP3S Pro v2 does 20k accelerations so can we get some performance from prusa this time round? ",
+        "num_comments": 55,
+        "comments": [
+            "Fast is nice but it\u2019s the temperatures it can reach allowing you to print engineering filaments that is its primary selling point.",
+            "It's not as fast as the speed of the money going from my wallet to Prusa's bank if I buy this",
+            "Faster than doing it by had I predict",
+            "Fast enough to take $10k from your wallet before you know what happened.",
+            "Deltas are notoriously fast. My Flsun claims speeds the filaments don\u2019t. Increasing temps beyond their limit with some junk pla or PETG hit 600 but there is a setting for 1200. I had a trilab2 it was too small. The Pro is not same chassis at all. I have the big delta to print 384mm tall Radar clamps. Made 3 sold 2. On test this summer. If the item takes off I\u2019d buy a pro. I\u2019m building a Doron Velta an April Fools joke but 60 days later it\u2019s a kit. Well 30 kits world wide. The Dorons brain power makes it a leading Delta instantly, a huge weakness in Flsun $15.00 cpu",
+            "Movement? Fucking fast, its a delta with klipper after all. \n\nHotend? Not so much, the motion and cooling is capable of more, its a revo high temp. 22mm3/s with a 0,4mm nozzle, 30 to maybe 35mm3/s on a 0,6mm. Prusa themselves claim 1kg of filament per 8hours, with a density of 1,25g/cm3 this is about 28mm3/s, nozzle size unknown. Flow numbers are for the regular revo, revo high temp should have higher numbers at the same set temperature due to the different arrangement of thermistor, nozzle and heating element, revo high temp has the same component arrangement as a old v6. \n\nThese flow numbers are also only up to 300c, above you have to use the high temp nozzles (copper plus steel tip), obxidian hf and brass hf are only rated for 300c, diamondback nozzles aren't avaliable as high flow and also aren't rated for above 300c.\n\nTo have a comparison, a standard phaetus rapido or volcano both achieve 25mm3/s with a standard 0,4mm nozzle without cht technology.",
+            "I'm more curious about the pricetag",
+            "If anybody was wondering I got a quote for one of these for my work and it\u2019s about $10k all in. Priced pretty reasonably considering its speed and ability to print high temp materials like ultem",
+            "Now that there is a Prusa with Klipper.. wonder when the XL will get it!",
+            "Prusa is honestly the laughingstock of 3d printing and they always have been, putting 3d printed parts in their machines and charging ridiculous prices, you people are getting played for absolute fools and it\u2019s embarrassing."
+        ]
+    },
+    "Overhauling Of MK3s+": {
+        "title": "Overhauling Of MK3s+",
+        "score": 1,
+        "url": "https://www.reddit.com/r/prusa3d/comments/1dr19y4/overhauling_of_mk3s/",
+        "content": "I\u2019m planning to do an overhaul of my mk3s+. Reprinting of parts, change of heatbreak etc. Any suggestions on what i should do or improve?\n\nI\u2019m planning to keep it stock but open to change the bearings , heatbreak, nozzle , Bondtech gears etc.\n\n",
+        "num_comments": 3,
+        "comments": [
+            "Buy the 3.5 upgrade.",
+            "Tell you my story.. I loved my mk3s+, I was thinking what upgrade to get, to 3.5/3.9 or 4...  wondering for a long time.. Eventually, I sold it, put some money on top (less than the 3.5 upgrade) and I bought a Bambu lab p1s.. best thing I could have done and I would recommend to do the same... I love prusa but they are running behind BL at the moment. Regards!",
+            "I\u2019m saving up currently for it. Planning upgrade at the end of the year"
+        ]
+    },
+    "Mini having trouble with overhangs": {
+        "title": "Mini having trouble with overhangs",
+        "score": 1,
+        "url": "https://www.reddit.com/gallery/1dr0ybc",
+        "content": "I\u2019m trying to print these dinosaur eggs and the bottoms aren\u2019t printing good. The overhang isn\u2019t that severe so I\u2019m not sure why it\u2019s messing up so much. I\u2019ve tried lowering my speed, lowering the temp, and increasing the fan speed. ",
+        "num_comments": 10,
+        "comments": [
+            "afaik there's a variable layer height option you can try just for this",
+            "it's hard to see what's going on from your photos. Have you tried using supports?",
+            "Is your first layer perfect? I would think some of the problem is first layer calibration.",
+            "Lower the layer height? Those are small features for those layers, you can check the overlap in the sliced file.",
+            "It\u2019s an \ud83e\udd5aand only the bottom is messing up from the slight overhang. But it\u2019s so slight it shouldn\u2019t be happening. Using supports would just make it worse in the end",
+            "First layer looks good, it\u2019s just the slight overhang from the egg at the beginning that looks bad",
+            "I\u2019m doing .15 rn, should I lower it more? I almost exclusively print on .15",
+            "Maybe post a picture of first layer?",
+            "If you slice an egg and drop the layer preview down to the areas that have issues, you can see how much of the outer wall lines are printing in the air. \n\nIf you drop the layer height, that unsupported line area goes down",
+            "Will do tomorrow, not home currently"
+        ]
+    },
+    "Holy heck, one of the most useful tutorials I've seen. Here's a trick for selective, partial brimming of a single model using Prusa Slicer. With this, you can only brim the problem areas, saving plastic, time, and get a generally nicer edge on the rest of the model.": {
+        "title": "Holy heck, one of the most useful tutorials I've seen. Here's a trick for selective, partial brimming of a single model using Prusa Slicer. With this, you can only brim the problem areas, saving plastic, time, and get a generally nicer edge on the rest of the model.",
+        "score": 34,
+        "url": "https://www.youtube.com/watch?v=dhsbMmosbLU",
+        "content": "",
+        "num_comments": 7,
+        "comments": [
+            "this is a really great tip. up till now i've just been throwing helper discs/squares on problem spots but then you lose the perimeters when you cut them away. i'm absolutely adding this method to my arsenal of problem solvers",
+            "Sorry to be that person, but is there a tl;dw? 30 mins seem way too much for a quick brim guide.",
+            "I like the idea of a handle - it can be a PITA to grab these sometimes.  I can't figure out how to make the \"handle\" not actually *print,* though.\n\n<can we still not paste images in replies in this sub?? ugh.>\n\n[https://imgur.com/a/m49fmLJ](https://imgur.com/a/m49fmLJ)",
+            "Can you squeeze a couple more clickbaits in that thumbnail please I wasn't quite tempted enough",
+            "If you order the helper disc *first* in the part list (and set its perimeter count high), the part and the disc will each get their own perimeters so you can just tear the discs off. https://imgur.com/a/oPceecv",
+            "I normally hate long YouTube videos, but he gives the complete steps in the first 3 minutes. Maybe the rest of the video has more nuance and tricks, but I was up and running with that.\n\nBasically make a shape, and that shape has 3 elements: volume, negative volume, and a \"handle\" volume to make scooting it around the plate more easy. Size the volumes appropriately (as per video. I tried it out of sync and it didn't work). Then, you give the shape the brim options, and then do \"inside only\" brim. If the volumes are the right size, then it creates a brim element on your bed within the shape, but not elsewhere.",
+            "Ask the dude that made it.\n\nI was just stuck printing a flexi dragon model for my kid that had very limited, but annoying, adhesion problem zones. So, found out Prusa Slicer doesn't support this, googled a bit, found the vid and went \"holy shit, this is useful. I can't be the only one who needs this trick\""
+        ]
+    }
+}

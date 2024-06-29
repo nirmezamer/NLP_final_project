@@ -1,0 +1,75 @@
+{
+    "Important Info (read before posting)": {
+        "title": "Important Info (read before posting)",
+        "score": 252,
+        "url": "https://www.reddit.com/r/MinecraftCommands/comments/eoidzv/important_info_read_before_posting/",
+        "content": "I know you're here to get quick help with your command problems or to show off your cool work. Please read these few lines to get to know how to use this subreddit optimally:\n\n# Asking for help\n\n1. **FAQ?** Before you post, please check out the [common questions](https://minecraftcommands.github.io/wiki/questions) (including answers) that we have as a subreddit. These consist of the most common problems, and maybe your problem is already covered there in detail?\n2. **Titles:** Please put a summary/short version of your problem into the title of your post, don't just put \"I need help\" or \"help me plz\". Instead put for example \"how do I summon a zombie\" or \"unable to summon entity error\" and then provide more context on the post itself. This subreddit often shows up on google when people search for command related questions and we should really help them find the questions you might already have asked. Also, we likely know that you need help anyways, no need to put it in the title.\n3. **Flairs:** We have a wide array of flairs that you should attach to your post to make sure people know what the purpose of your thread is. It is *especially important* if you're asking for help, to flair your post with the appropriate minecraft version (for those who don't know: OG Minecraft is `Java` Version, everything else that has commands (Xbox, PE, PS4, Switch, Win10, etc) is `Bedrock`).\n4. **Version:** Whether you're helping or asking for help, *please pay attention to the stated version/state the version you're in!* You can do that through the previously mentioned Flairs, but also in addition can put it into the description of your post.\n5. **Search/Scroll down:** I know that reddit search is not the best one out there, but maybe someone else had a similar problem to yours in recent history. Try going to the new tab and scrolling down a bit or using the reddit search function to see if there might already be an answer to a question you have. *We're not going to close your thread for asking the same question someone else asked a year ago, we're not StackOverflow. But please at least take 30 seconds to look for it first.*\n6. **Upvote**: If you find an answer to a post helpful, please upvote it. This is less as a \"reward\" for the answering person but more as a way to automatically move the best answer to the top, for others that might have the same problem. Don't downvote an answer just because their attempts didn't work for you unless it's completely wrong or off topic / doesn't add anything to the conversation.\n\n# Creations\n\nPosting about your own creations is very much encouraged, but please remember the [10:1 guidelines of reddit](https://www.reddit.com/wiki/selfpromotion).\n\n# Discord\n\nWe have a big Discord Server for our community with lots of channels, ranging from dedicated help chats over general command related chats to non-command related chats. So if you want to join an active community of command and mapmaking enthusiasts and/or want to get quick help where communication is less slow *(Sometimes the devs stop by as well ;))*, click on the link and join our community discord:  \n[https://discord.gg/9wNcfsH](https://discord.gg/9wNcfsH)  \nMake sure you read the #welcome channel for the rule of the discord.",
+        "num_comments": 1,
+        "comments": []
+    },
+    "In anticipation of 1.20.5's changes to items, we added !itemcomponents to the automod.": {
+        "title": "In anticipation of 1.20.5's changes to items, we added !itemcomponents to the automod.",
+        "score": 46,
+        "url": "https://www.reddit.com/r/MinecraftCommands/comments/1bn83tn/in_anticipation_of_1205s_changes_to_items_we/",
+        "content": "With their introduction in [24w09a](https://www.minecraft.net/en-us/article/minecraft-snapshot-24w09a), item components promise to revolutionize how we work with items. However, in this process they'll break almost every existing item related command, loot table, predicate etc. We're expecting a bunch of posts pouring in with confusion about these changes. And because nobody likes to repeat themselves over and over, we set up automod to do the repeating for us, just like we did for the 1.19.50 bedrock execute changes.\n\nPutting\n\n    !itemcomponents\n\nsomewhere into your comment will summon automod with some helpful info on these changes.\n\nLet us know what you think about this, the comment itself, or if you have any other suggestions for how to improve the subreddit. We're happy to hear it.",
+        "num_comments": 26,
+        "comments": [
+            "Looks like you fell victim to the new !itemcomponents.",
+            "[deleted]",
+            "I hope more stuff comes to bedrock commands like more then \"can destroy\" \"can be placed on\" and \"keep on death\"",
+            "Im assuming this will be java only like everything else?",
+            "Let me try that !itemcomponents",
+            "!itemcomponents",
+            "[deleted]",
+            "[deleted]",
+            "Why did they replace nbt tags with !itemcomponents instead of making nbt tags better? Like with custom crafting, they could just introduce a field to put nbt in instead of entirely changing the system.",
+            "The \"!\" in there looked like the exclusion mark(the one in for example !component-id or type=!entity\\_id/tag) so I thought the item components were being blocked from this subreddit."
+        ]
+    },
+    "All the info is on the image. Help": {
+        "title": "All the info is on the image. Help",
+        "score": 17,
+        "url": "https://i.redd.it/01137i6m4f9d1.jpeg",
+        "content": "",
+        "num_comments": 6,
+        "comments": [
+            "There is unfortunately not currently a way to have a dynamically moving or fading sound. The common way I've seen it done is having whatever song you want to play broken up into a bunch of smaller and shorter sound files, and playing them one after the other, while updating the location. It's not a perfect solution for the obvious reasons of jank and lag, but it's the best one we have right now, as far as I'm aware.",
+            "You can\u2019t move the source of a sound once it\u2019s started playing, so the song really wouldn\u2019t work. \n\nWhat you could try instead is to have a heartbeat sound that gets louder and louder when the seeker is near.",
+            "As other comments have said you can't move music. But you can use [Open Note Block Studio](https://opennbs.org/) to create music from note block sounds, and it also allows you to convert .midi files. And this program can create a datapack with MIDI music for you, and all you have to do is edit the datapack a little so that all players nearby can hear the music.\n\n&#x200B;\n\nP.S. Very cool image :)",
+            "dead by daylight terror radius?",
+            "Terror radius ahh",
+            "You can use selectors in the /playsound command.\nIt should go something like this(for seeker):\nexecute at @e[tag=seeker] run playsound @s{music name goes here} music 1 15 15\n\nAnd for runner just changr thr @s to @a[distance=..x] and the volume and minVolume for 15 - x. However, you will need 15 command blocks for this to work. Hope that helps"
+        ]
+    },
+    "How to sense a full block of water?": {
+        "title": "How to sense a full block of water?",
+        "score": 5,
+        "url": "https://www.reddit.com/r/MinecraftCommands/comments/1dqzjq2/how_to_sense_a_full_block_of_water/",
+        "content": "I'm making a One Piece map, and I want the characters with devil fruits not be able to swim.\n\nI know that you can use an execute if block command to detect if water is beneath you, but is there a way to detect if the water is a full block? i.e. not only a few pixels tall?\n\n  \nI just don't want them to get all the negative effects from water that's not waist deep.\n\nhttps://preview.redd.it/7y8lpvmjwe9d1.png?width=957&format=png&auto=webp&s=fd1df3cc107d1f56b7fb7f0db7631c97b3c78410\n\n",
+        "num_comments": 6,
+        "comments": [
+            "Id=water is a full block Id=flowing_water is any other level of water, try that but if that doesn\u2019t work you can use block states\u00a0",
+            "Ok, I figured it out. Using the \"if blocks\" feature in /execute, you can detect this. \n\nPlace a command block like in the image, with a water source block above it\n\nhttps://preview.redd.it/2qhowiib0f9d1.png?width=645&format=png&auto=webp&s=e22c974f83a6a61665803c9f4afe19f9e1a6a886\n\nIn it, write\n\n    /execute as @a[tag=<tag>] at @s if blocks ~~~ ~~~ <coords of block above command> all run <command>\n\n  \nBasically, how this works is that it tests if the block the player is standing in is the same as the one as the coords, it runs a command, so if you make it a water source, if the player stands in a block like it, then it will run a command. I have tested it, and for me it works and doesn't detect the flowing water.",
+            "From what I know 'water_flowing' can be very unreliable, so you'll probably have to use block states",
+            "/testforblock <location> water [\"liquid_depth\"=0]\nJust tested it and it worked. Should work but I'm not 100% sure",
+            "ima be honest I forgot the \"liquid\\_depth\" block state existed lol but my solution also works I guess",
+            "Can't you just keep the \\~ \\~ \\~ or something and make it sense only the level of water?  \nI have little to no experience with Bedrock, but it seems like this one isn't too different?\n\n    /execute as @a[tag=<tag>] at @s if blocks ~ ~ ~ all run <CHOOSE COMMAND>"
+        ]
+    },
+    "Question on structure blocks and the order I should run some command blocks": {
+        "title": "Question on structure blocks and the order I should run some command blocks",
+        "score": 2,
+        "url": "https://www.reddit.com/r/MinecraftCommands/comments/1dr32lv/question_on_structure_blocks_and_the_order_i/",
+        "content": "So this is a 2 part question. Im still a little new to commands and writing them and this is my first time ever working with structure blocks. So what I\u2019m trying to do is when a player joins my realm, they can press a button and it\u2019ll give them a shulker box full of various items. My intention is to structure load said gift box near said button. But only 1gift box per player.\n\n my first question is why can\u2019t my structure block see the shulker box I intend to copy. When I narrow it down, the box is invisible.\n\nMy second question will come into play when I fix the first. So I know I want to add a tag to a player when they first hit the button. Then the box generates. Then it takes away the first tag and adds another tag that basically says their box has already been received. But I am too new to this to figure out what the order is and how to use chain command blocks or impulse blocks. \n\nThank you guys for your help! \n\n ",
+        "num_comments": 7,
+        "comments": [
+            "1.) just drop the box, use the following guide:\n\n1.    \u2060Give yourself a strcuture block using /give @s structure_block\n2.    \u2060Place down the structure block\n3.    \u2060Use it and set the size to: x1, y1, z1. Set the offset to: x0, y1, z0. This will set the size of the bounding box to 1 block that is above the structure block\n4.    Turn both \u201cInclude Entities\u201d and \u201cRemove Blocks\u201d to on.\n5.    \u2060Do whatever you need to do to the item\n6.    \u2060Throw the item into the bounding box.\n7.    \u2060Wait 3 or so seconds for faster pickup\n8.    \u2060Give the structure a name, then press save\n9.    \u2060You can load the item at the player by doing:\n\n/execute at <player> run structure load <name> ~~.125~\n\n2.) you don\u2019t need 2 tags, just tag them after loading the box only if they don\u2019t have a tag, ex:\n\n```\nIUNE0:\nexecute as @p unless entity @s[tag=hasKit] at @s run structure load <name> ~~.125~\n\nCUAA0:\ntag @p add hasKit",
+            "Thank you for your help. But I\u2019m still learning I have questions. Does <player> refer to a player name? Or can I use @p? Or is it just as it is written. \n\nAnd I\u2019m unfamiliar with what IUNE0: and CUAA0: are. Thank you once again!",
+            "1.) <player> is just because the last step specified player\n\nIn the actual syntax it\u2019s just a target selection sequence which could also be a username, in short: yes you can use @p as I said in the second part\n\n2.) IUNE0: Impulse Unconditional Needs Redstone 0 tick\n\nIt\u2019s just settings for the command block",
+            "So the reason I\u2019m doing multiple tags, is due to the command blocks being in a separate permanent ticking area, and to make sure if other people are on the player can still get their box. Would this effect any of the command blocks you have already provided?",
+            "I think you are misunderstanding how tickingareas and tags work. I suggest you go read about them on the wiki\n\nBut for a short explanation: tickingareas are just loading specific areas as if they were within simulation distance of a player. Tags are just something we assign to a player, think of it as a name tag that you can detect and put multiple of.",
+            "Yes. I\u2019m aware. The ticking area isn\u2019t local so everyone who hasn\u2019t pressed the button would get a box. I do not wish to auto grant everyone the box upon loggin in if new. The player would only get the box if they press a button in a certain locationI thank you so much for helping me understand. But I don\u2019t see how it would stop another player who hasn\u2019t pushed the button from receiving a box.",
+            "Just put the command blocks at the button. It\u2019ll only be used when a player is nearby meaning you will not need a tickingarea for the command blocks"
+        ]
+    }
+}

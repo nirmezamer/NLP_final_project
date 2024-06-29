@@ -1,0 +1,93 @@
+{
+    "How to Archive: A guide": {
+        "title": "How to Archive: A guide",
+        "score": 131,
+        "url": "https://www.reddit.com/r/KotakuInAction/comments/1bwf86q/how_to_archive_a_guide/",
+        "content": "How to archive:\n\n1. Copy the web address of the page that you wish to archive\n\n2. Go to an archive website. https://Archive.md https://Archive.is https://archive.ph or one of the of the other similar alternatives\n\n3. Paste the url of the webpage you want to save in the top field (in the red) and then click save. \n\n4. The page will either start running a script that you just leave running until it has completed the archive. You will know its finished when the url in the address bar goes from archive.whatever/wip/(random numbers and letters) to archive.whatever/(random numbers and letters)\n\n5. You have now archived the site. The new url at the top of the page is the archive snapshot of the page you wanted to save. \n\nArchiving websites, social media posts and news articles is important especially nowadays with many of these avenues of information having the ability to stealth edit or delete the article. Its important to archive these sources as that captures them so that that information as it was released will be forever accessible. \n\nThe ethics of stealth edits and corrections without disclosure is questionable and something that has resulted in us putting outlets in the blacklist which you can view the list of [here](https://www.reddit.com/r/KotakuInAction/wiki/index/lists#wiki_blacklisted_sites) or in the sidebar. Posts that are not archived from these sites maybe removed as these sites have a history of stealth edits, article title changes, deletions, etc. without disclosure and have had issues with journalism ethics in the past.\n\nIf you do post an article please try and post an archive of the article as a comment so if something ever happens to the original we do have the archive to refer back to in posterity. A lot of sites attempt to memory hole information so keeping receipts is always important.",
+        "num_comments": 19,
+        "comments": [
+            "https://archive.md/zvhKy\n\nArchive of post",
+            "Before you do step 3, paste the URL in the bottom field to see if there\u2019s already an archive of the page.",
+            "A few things to note:\n\n- https://archive.today is the \"main\" url, it will redirect you to whichever alt-domain is currently preferred (useful if one of them goes down again)\n- archive.today doesn't save everything, e.g. videos aren't saved. youtube _looks_ like it saves properly, but the play button does nothing\n- there have been some problems with twitter not saving properly (the page is a different \"logged out\" version which is purposefully trash in order to convince you to sign up... gotta boost those numbers somehow \ud83e\udd23) only really useful for archiving specific single tweets\n- you may wish to check if the page has already been archived first, if there's a recent archive and nothing has changed then there's not much point in another archive\n- if archive.today doesn't get by a paywall, https://12ft.io/ usually works",
+            "Is it just me or is [archive.today](http://archive.today) not archiving anything? Used to work fine until now. It seems to be stuck in a loop where it can't actually properly archive any tweets.",
+            "ALL THREE OF THEM ARE INACCESSIBLE. WHY YOU'RE SUGGESTING STES THAT DOESN'T WORK?",
+            "Another important point to add is that since the archive only takes a snapshot of the page and not the links it directs to, occasionally a few more steps are required:\n\n* for articles spread across several pages (such as articles on Film Threat which require to click previous/ext for each page), also archive each page individually\n\n* for Reddit or Twitter threads with a picture that is too small to be read on the snapshot and requires to be open in a new tab, also archive each tab/picture individually",
+            "Also mentioning https://ghostarchive.org/ as an option, since \"archive\" often simply doesn't work for quite a few people.",
+            "this is helpful, thank you :)",
+            "is this subreddit pro anti woke",
+            "This is unnecessary on archive.today . If the url has already been archived it will redirect you to the archive, and ask you if you want to archive it again or not. On web.archive.org and ghostarchive.org , though, this is correct."
+        ]
+    },
+    "Mod Hiring and Monthly General Discussion Thread June 2024": {
+        "title": "Mod Hiring and Monthly General Discussion Thread June 2024",
+        "score": 32,
+        "url": "https://www.reddit.com/r/KotakuInAction/comments/1d62dda/mod_hiring_and_monthly_general_discussion_thread/",
+        "content": "We are looking for a few new moderators to join the team to help keep working the mod queue. There are no specific requirements regarding timeslots or knowledge(regarding CSS or automod).\n\nRequirements:\n\nUse of Discord for communication. Only text-chat is required.\n\nUse of the r/toolbox plugin(there are options to achieve this on mobile)\n\nHave at least three months of KiA user history, in generally good standing. Having a previous ban/warning on record is not a disqualifier, we will however take into consideration why the warning/ban happened and some egregious cases might be denied due to such a history\n\nBe able to enforce arbitrary rules you disagree with to keep the sub on good standing on the site. Admin interpretations of what is considered acceptable has become more.... interesting over time and staying ahead of their removals is required.\n\nTo apply send a short modmail detailing why you are applying and why we should take you.\n\nAlso:\n\nIf you have anything that is not directly related to KiA but just want to chat about it, post it here.\n\nRule 3 does not apply as this will be just comments, though the other subreddit rules and sitewide rules obviously will still apply.",
+        "num_comments": 47,
+        "comments": [
+            "i would just like to say thanks for keeping the sub running.\n\nI would like a less strict rule enforcment in general, which as you yourself state seems to have increased over the last years. (albeit i understand if htat is not possible)\n\neither way i wish you a good day",
+            "Am I the only one who has a problem with people who keep posting screenshots to Tweets instead of actually posting archived links to them? \n\nIs there no way to archive Tweets? If I look at a screenshot of a Tweet, I can't confirm who the Tweet belongs to, and there's no way I can confirm if a Tweet is real or just photshopped ragebait.",
+            "\"Hiring\" implies employment, i.e. payment. Jannies do it for free lol",
+            "Katsuhiro Harada still  being baffled by waffle house fights and overall american customer vs employee restaurant fights amuses the fuck out of me.\n\n[https://twitter.com/Harada\\_TEKKEN/status/1774023083764199566](https://twitter.com/Harada_TEKKEN/status/1774023083764199566)\n\n[https://x.com/Harada\\_TEKKEN/status/1797420500081357019](https://x.com/Harada_TEKKEN/status/1797420500081357019)",
+            "Holy shit, the dragon age sub has become insufferable to browse. It reads like an echo chamber for middle aged, blue haired, ultra woke, man hating degens.\n\n\nAt the time of typing this, that front page features :\n\n\n- 'Art' of the main, male antagonist (who happens to be a millenia old elf demigod) writhing in pain due to \"period cramps\"\u00a0\n\n\n- Another thread, where users praise a twitter reply from a Veilguard writer gloating about one of the upcoming male companions she wrote, calling him a \"bisexual mess\". As usual, these people are obsessed with sexual orientation, that's literally the first thing being revealed about this character... And instead of calling that stuff out for how stupid it is, the whole DA sub thinks that's the best thing ever.\u00a0\n\n\n- Endless praise for a game that just spent 10 years in dev hell, from a company whose latest 2 titles were utter woke trash. 0 criticism in sight, even though the first 2 trailers were dogawful. Shittiest art direction and voice acting I've seen in years.\u00a0\n\n\nI'm sure there's a decent amount of astroturfed \"engagement\" in there, but still. Seeing such a formerly great IP, now devolved into this... How a once badass, gritty fantasy game series appealing to LOTR fans could turn into a product attracting a similar target audience as She-Hulk blows my fucking mind.\u00a0",
+            "I just wanted to say THANKS to the creator, mods, and members of this subreddit! Keep fighting the good fight, everyone!\n\n\nReposted from one of my recent replies:\n\n\"By the way, how is a subreddit like KotakuInAction allowed to exist? I am fairly new here, and its so refreshing to read so many like-minded comments.\u00a0\n\nNormally, my topics & replies are deleted without reasons given or I am downvoted into oblivion. I am not used to having freedom of speech on Reddit.\"\n\nP.S. I don't want anymore run-ins with Mnemosyne Reborn; I will be sure to post my gushing over cool non-woke indie game titles here in the future.\u00a0 :)",
+            "**Searching for Non-woke Communities.** Preferably outside of reddit. Hoping to find:\n\n* A place for a weeb to discuss Anime/Manga/LNs/Japanese Games, being able to talk about shitty localizations and censorship practices without crazy people jumping at your throat for wanting a proper translation.\n\n* TTRPG discords/communities that don't cater to the alphabet brigade. Preferably for pen-and-papers that are more combat focused like D&D, Pathfinder, OSR. Would be great if they had regular looking-for-group posts.\n\n* Book-clubs focused on older fantasy fiction or new books that aren't a bloated overwritten mess pandering to mentally-ill. A community that openly criticizes illogical 'diversity' in a medieval setting is a plus.\n\nThey can be in *English*, *German* or *Polish*. You can recommend me anything that is explicitly non-woke/anti-woke that doesn't fit the above too.",
+            "What\u2019s up with the overaggressive moderation of pride marketing from gaming companies? I\u2019ve had my posts which had well over 500 upvotes removed and I\u2019ve seen others\u2019 posts removed as well. If we can\u2019t discuss the crazy social justice garbage being promoted in gaming, what\u2019s even the point of this subreddit?",
+            "I know this is not about gaming, but the general discussion is kinda offtopic-ish. On the other hand, this also has something to do with the political pendulum effect\n\nFor the time being, the results in the european election are very favourable towards the extreme right wing parties. In Germany, the kinda hugo bossy party is the second most voted at the time being. And Le Pen has had an extreme success in France\n\nAlso, Macron has called for elections in light of this. The date is June 30th",
+            "An update on the subs metrics for the month of May:\n  \n\n  \n6.6m views  \n35.5k daily uniques on average  \n1.7k subscribed users  \n698 unsubscribed users\n    \n636 Posts published  \n449 Posts removed  \n556 Posts reported  \n\n  \n47.0k comments published  \n8.2k comments removed (unsure of this number as it on 7th of May it is reporting Admins removed 3079 alone, none of the comments were recent so possibly were old comments and threads or nothing data when they did a script update)  \n1.1k comments reported\n  \n\n  \nModerator metrics for the month:\n    \n5799 total actions  \n113 user bans  \n2642 comment approvals  \n2897 comment removals  \n247 post approvals  \n352 posts removed"
+        ]
+    },
+    "Trails Through Daybreak...yeah....": {
+        "title": "Trails Through Daybreak...yeah....",
+        "score": 162,
+        "url": "https://i.redd.it/7b3ahlic4g9d1.jpeg",
+        "content": "",
+        "num_comments": 46,
+        "comments": [
+            "Dam. Lolcoelizers strike again. I hate these parasites more than i hate game journos",
+            "This is more a NISA problem than a Falcom problem IMO. I wonder sometimes if the original Japanese developers and companies understand this sort of thing at all.",
+            "Bad translations like these will continue to be why Japanese games are held back, compared to Western games. Do they think the wokest western games have this cringe of dialogue? I'm gonna bet Star Wars Outlaws won't even set a pinky into two characters awkwardly asking about pronouns in dialogue. There is no way Yasuke will ask the female protag what her pronouns are or vice versa. People simply do not communicate that methodically in any English speaking country, unless they're forcing themselves to.",
+            "Damn I just stared collecting these games\u2026",
+            "God please don't let them ruin Ys too.\n\nThis is so frustrating, because I love Falcom and I know they would never involve themselves in this shit, but as English-speakers we're stuck with this trash from the activist localizers.",
+            "Damn localizers...",
+            "Don't know what game this is, but I'm avoiding it.\n\nLocalizers like that get the cold shoulder.",
+            "Well, I guess I'm stopping at Cold Steel 4.",
+            "Japanese companies should be braver to cut ties with woke localization companies, because they're actively degrading the quality of their original products. And I'm pretty sure there are based localizers who would enjoy the extra work.",
+            "I miss XSEED"
+        ]
+    },
+    "BBC Refuses To Acknowledge Terrible 'Doctor Who' Ratings, Instead Boasts That Series Is Their \"Top Drama For Under-35s This Year\"": {
+        "title": "BBC Refuses To Acknowledge Terrible 'Doctor Who' Ratings, Instead Boasts That Series Is Their \"Top Drama For Under-35s This Year\"",
+        "score": 66,
+        "url": "https://boundingintocomics.com/2024/06/28/bbc-refuses-to-acknowledge-terrible-doctor-who-ratings-instead-boasts-that-series-is-their-top-drama-for-under-35s-this-year/",
+        "content": "",
+        "num_comments": 6,
+        "comments": [
+            "Considering how bad BBC has become I belive they are telling the truth.",
+            "They are just making the jokes and memes by themselves now.",
+            "What was it some-one once said, put enough qualifiers in front of anything and it can be claimed to be a hit? \n\nSo it's BBC produced, Drama, and under 35. Looking through the BBC Drama section and the ones put out this year it's pretty slim pickings to start with. \n\nNext even then the PR spin and clarifying statements are really carefully and slyly worded.\n\n>Doctor Who remains one of the most watched programmes on iPlayer and is the BBC\u2019s top drama for under-35s this year, making it one of the biggest programmes for the demographic across all streamers and broadcasters\n\nNote that the previous statement he clarified this series numbers. Note how in this statement the BBC spoke person says the show not this series.\n\nBBC Iplayer in the UK has 40 series of Doctor Who available to stream. 26 classics series and 14 new .\n\nPretty easy for some fans of the show who weren't even born at the time to be going back and watching some of the classic episodes and the BBC can then still count these as views for the Doctor Who shows as a whole.",
+            "we are divided by gender, race, age, what next?",
+            ">Instead Boasts That Series Is Their \"Top Drama For Under-35s This Year\"\n\nSad thing is, that's probably not a lie.\n\nAlways remember in a garden full of dog shit, one pile of dog shit has to be the tastiest...... Because tastiest isn't the same thing as tasty, for the same reason top drama is not the same thing as an entertaining drama.",
+            "You forgot sexuality, relegion and political aligment (it's more leftists versus everyone else in that case)"
+        ]
+    },
+    "'Captain America: Brave New World' Reshoots Reportedly Balloon Budget To $375 Million: \"It's Like They're Shooting A Brand New Movie\"": {
+        "title": "'Captain America: Brave New World' Reshoots Reportedly Balloon Budget To $375 Million: \"It's Like They're Shooting A Brand New Movie\"",
+        "score": 526,
+        "url": "https://boundingintocomics.com/2024/06/28/captain-america-brave-new-world-reshoots-reportedly-balloon-budget-to-375-million-its-like-theyre-shooting-a-brand-new-movie/",
+        "content": "",
+        "num_comments": 167,
+        "comments": [
+            "The amount of money they're going to lose on this movie will be astronomical. Nobody gives a shit about Marvel any more, what haven't they just consigned it to the same black hole as Batwoman?\n\nEdit - Batgirl not batwoman",
+            "Literally how is Disney this incompetent? Like where is all this money going?",
+            "I'm morbidly curioius to watch the original version of this Blacktain America movie. Apparantly it was so terrible that test audiences walked out of test screenings with a limp after being rammed with 'the message' for two hours.\n\nThe orignal subtitle was: New World Order",
+            "\"We just finished filming the reshoots of the reshoots, so you know it's going to be one of the best movies of all time!\"",
+            "A brand new movie no one will watch. \n\nSurely this can't be their fault. No, it's clearly ours. Be better racists.",
+            "Keep bumping that number up, Marvel. It's going to be spectacular when it flops.",
+            "With these insane budgets is it even mathematically possible for these movies to turn a profit even if they are good?",
+            "If they put more woke stuff in it, I will be happy if they up it to $500m.",
+            "So they almost need a billion dollars to break even?",
+            "The Avengers had a production budget of 225 million dollars,  or about 308 million dollars in 2024 money.\n\nIn 2024 dollars, the box office was 2.18 billion dollars."
+        ]
+    }
+}

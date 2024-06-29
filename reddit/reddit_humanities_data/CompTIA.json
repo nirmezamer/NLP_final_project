@@ -1,0 +1,91 @@
+{
+    "Sharing copyrighted materials. Permaban.": {
+        "title": "Sharing copyrighted materials. Permaban.",
+        "score": 239,
+        "url": "https://www.reddit.com/r/CompTIA/comments/1bupv0b/sharing_copyrighted_materials_permaban/",
+        "content": "This sub is not for piracy. Trainers work hard to make an honest living. James Messer, in particular has offered the Industry decades of priceless value for free. He has nurtured an ever evolving workforce and wouldn't have been able to do it without paid offerings. Which are an extreme value for the dollar.\n\nThis will include any and all sketch links to personal storage, torrents, usenet, quizlet, etc.",
+        "num_comments": 128,
+        "comments": [
+            "I want to mention also - if this is a cost issue for some people - a lot of local libraries have copies of Sybex study books for the A+ and Network+ that you can check out (less so at the higher levels, although if you request through Interlibrary Loan, you may get lucky) and access to LinkedIn Learning. Lots of free LEGAL study resources out there to take advantage of.",
+            "When everyone steals what James Messer creates, and he quits making them because he\u2019s not making enough money to keep doing it, who will people steal from then??? \n\nSupport creators of high quality training content. Otherwise, they\u2019ll stop creating it. Simple as that. \n\nThank you, mods, for protecting our content.",
+            "heres some free advice for anybody trying to accomplish anything ever: \n\ndon't pay for shit you can get for free; be resourceful. your future employers do not give a fuck about how you acquired your knowledge they just care that you can use it to benefit their business.",
+            "Yeah, it\u2019s sad that this has to be said. Professor Messer is freaking awesome because all his courses are free. Every time I\u2019ve passed a CERT it was solely because of his material after every test I pass. I make sure I drop him a Benjamin because it\u2019s the least I can do.",
+            "Oh absolutely. Messer's videos are the gold standard as are the course study materials from trainers like Jason Dion. There are other very good trainers that make helpful courses on Udemy etc. \n\nPiracy would be doing these folks a terrible injustice. Please support and encourage them with your $.",
+            "Quizlet isn't bad though.",
+            "Let's not hold these trainers up as anything more than they are: people trying to make money by offering free resources. It's just a model of distribution and a way they think they can make more money. It's like saying that free games that offer microtransactions should be praised for offering it free. They know they can make more money that way and have a wider reach. If it wasn't for Messer, there would be other people offering something for free with comparable quality.\n\nI'm not saying anybody should pirate anything. People can make their own decision about that. However, I do understand that on this forum it is not allowed to post anything copyrighted.",
+            "They work hard on that. Dont steal. They dont get paid enough already. They make less than you think.",
+            "Just a reminder, your local municipal or school library most likely has free, no pirated, study material.",
+            "Exactly, I have 2-3 people dming me about sending Prof Messer's notebooks to them. Bro just buy them its like 20$"
+        ]
+    },
+    "Network+ new version": {
+        "title": "Network+ new version",
+        "score": 8,
+        "url": "https://www.reddit.com/r/CompTIA/comments/1dop0sp/network_new_version/",
+        "content": "I see that N10-009 released on the 20th. I have been studying and practicing using N10-008 courses/material. Can I still buy a voucher for N10-008 or do I have to take N10-009. Is there a major difference that I should be concerned about? \nThanks. ",
+        "num_comments": 6,
+        "comments": [
+            "[Here's the long post I made about it](https://www.reddit.com/r/ITCareerGuide/comments/1d65jbm/should_i_take_the_old_network_n10008_or_the_new/), but TL;DR:\n\n* you have until Dec 20th this year (2024) to take the old 008 exam\n* there is a 69% overlap from the new 009 objectives to the old 008 objectives\n* of the remaining 31%, most of those differences are an emphasis on troubleshooting. The core technologies are still basically the same\n* the only section on the new 009 certification that discusses completely new technologies and concepts is[ Objective 1.8](https://partners.comptia.org/docs/default-source/resources/comptia-network-n10-009-exam-objectives-(4-0))\n\nHope that helps!",
+            "The vast majority of the time, there is an 85%-90% overlap from one version to the next.  Network+ has been discussing the same ports, protocols, OSI model, IEEE wireless standards, copper wire standards, fiber optic standards, network topologies, etc. for a very long time.  There are things in the new version of the exam that haven't changed at all in the last five or six versions of the exam.  It wouldn't take much work to shift from the previous version to the new version.  Just get copies of the exam objectives for both and study the new topics on the new exam.\n\nOr you could take the previous version, which can be scheduled until December 20, 2024.\n\nYour cert doesn't have the version number on it.  It just has the date you passed and the expiration date.",
+            "you can take n10-008 exam till Dec 20th {2024} **ITExamslab.'** *N10*-*008*\u00a0exam questions are designed and verified by experience and qualified CompTIA Network+ Certification Exam\u00a0*N10*-*008*\u00a0exam\u00a0I Got My Certification From Here",
+            "[https://examsdigest.com/comptia-network-n10-008-vs-n10-009-official-exam-comparison/](https://examsdigest.com/comptia-network-n10-008-vs-n10-009-official-exam-comparison/)",
+            "Thank you! This should be pinned at the top of the sub so people can stop asking \n\nu/friscotec",
+            "Stickied this post. \ud83d\udc4d"
+        ]
+    },
+    "IT Pros how much home labbing do you do? And what are you labbing?": {
+        "title": "IT Pros how much home labbing do you do? And what are you labbing?",
+        "score": 27,
+        "url": "https://www.reddit.com/r/CompTIA/comments/1dqywpf/it_pros_how_much_home_labbing_do_you_do_and_what/",
+        "content": "I'm currently labbing Windows Server 2019. With 8 total years of IT experience an employer will expect me to have this obvious skill so I'm in the lab this summer. You can learn so much from labbing as opposed to simply watching videos by themselves. ",
+        "num_comments": 9,
+        "comments": [
+            "**My Home Lab 0.1**\n\nI started out running the free version of ESXi in VMware Player on my desktop. I gave it 1 TB and 36 GB RAM. It worked ok ish, but having the underlying Windows 10 Pro needing to update & restart got old.\n\n**My Home Lab 0.5**\n\nI got a refurbished HP server with 16 CPU cores, 4 NICs, 2x PSUs, and 128 GB RAM. I slapped a 1 TB SSD in it and only spent about $300 total. I put the free version of ESXi on it.\n\nThe problem with that ESXi is that it only included PowerCLI in read only mode, so you couldn't easily auto provision VMs. It lacked central management as well. It turned out to be a moot point thanks to Broadcom.\n\n**My Home Lab 1.0**\n\nI got a second HP server, same specs but with 192 GB RAM. I put Windows Server 2019 on it, joined the domain, and ran the Hyper-V role. It now hosts most of my VMs.\n\nI wiped the first server and put Hyper-V Server 2019 on it. I then live migrated some VMs to it, namely two of my 4 DCs.\n\nThe two servers share a cheap, desk tall rack. The entire setup was about $1,000 total and all the software is free :D\n\n**So what does this run?**\n\nHybrid AD (4 DCs and member servers running Entra Connect, Entra Cloud Sync, Exchange, Windows Event Collector, and random stuff like one running a Windows Server 2025 Preview), the Domain Users are synced to Entra ID. I have one P2 license and one M365 license on my kid's account (she's a Global Admin, Domain Admin, and her mere user account is synced).\n\nI needed M365 so I could screw around with Intune. I set her up a \"travel system\" that's Entra ID joined and managed via Intune. Everything else is 'on prem' and managed via Group Policy.\n\nThe licenses run me about $30 a month, but I don't have cable and only 1 streaming service, so I see it as a cheap hobby.\n\n**What I'm up to currently**\n\nI IaCed the lab setup for TCM's PEH course and I'm going through the course with it, and troubleshooting my setup as I go. I rarely \\[ok, never\\] write perfect code from the get go. If it's on my GitHub it means I already tested it out and de-bugged it.\n\n**How it's come in handy**\n\n* I go back and check my own cheatsheets all the time.\n* I learned a TON about how to do my actual job by screwing with stuff at home.\n* I basically wrote my Masters Capstone about something I'd done in the lab\n* I cited myself in my Bachelors and Masters Capstone\n\n**Want to know more?**  \n\n\nI have a GitHub and a Medium where I post IaC, queries, howtos, cheatsheets, TryHackMe walkthroughs, etc.",
+            "I honestly can't give a super decent answer to this because I don't keep track. Often the things I'm \"labbing\" I need a use for in my home to bring myself to learn it so it feels less like labbing and more like an enjoyable thing to do in my free time lol. A quick example is I couldn't bring myself to just spin up AD for no reason other than to learn it, so I researched how I could make it useful in a home setting. Central authentication was the answer to that. Might not be the most practical for home use but it's the middle ground I work around lol. \n\nAD, GNS3, PiHole, TrueNAS all in Proxmox is currently what I have. I do plan on incorporating some automation with Ansible soon. One thing I emphasize on a resume isn't so much what I lab but the practices I keep in mind with it. Good documentation, backup schedules, stuff like that since all that seems equally if not more important than the technical background to a lot of companies.",
+            "How can I start what equipment would i need",
+            "I did the windows server thing last week as well. I\u2019m not sure what else to do.",
+            "None at all.",
+            "Would you be willing to share your GitHub? I\u2019d love to learn more about designing a lab and what you could do with it.",
+            "The equipment you have now! r/homelab is a wealth of information but it's easy to get distracted by the people with racks and all that. My homelab is mostly stuff I got for free or eventually found dirt cheap. If you have a spare laptop or PC spinup Proxmox on it and start playing around.  \n\nYou can spin up individual VMs on your PC/laptop, setup a network emulator like GNS3 or EVE-NG on any hardware you have laying around etc. Doesn't need to be fancy.\n\n As time goes on and your brain itches for more you can do more. If you want to buy stuff and not spend a ton, find 3 identical PCs or use raspberry Pis and do a Proxmox cluster. That should keep you busy for a while. Proxmox if you aren't aware is a virtual environment that lets you spin up VMs/Containers and incorporate everything together. That's a real simple explanation and the rabbit hole is deep.  \n\nMy personal rule is I try not to buy or get equipment just cause unless I have a reason to get it. Either to solve a problem I'm having or to learn. So don't just buy a fancy router and 48-port switch if you don't know why you need it as an example.",
+            "Group Policy is kicking my ass.",
+            "How is that?"
+        ]
+    },
+    "I passed my CompTIA networking with 754 points!!!!": {
+        "title": "I passed my CompTIA networking with 754 points!!!!",
+        "score": 39,
+        "url": "https://www.reddit.com/r/CompTIA/comments/1dqtx3o/i_passed_my_comptia_networking_with_754_points/",
+        "content": "It was my third attempt.Please never give up on yourself!!!!",
+        "num_comments": 8,
+        "comments": [
+            "Nice! What would you say you struggled with most?",
+            "I just passed mine this morning with 724 lmao. Oh well a pass is a pass...",
+            "Hi, /u/Ok_School5090! From everyone at /r/CompTIA, Congratulations on Passing. [Claps](http://www.reactiongifs.com/wp-content/uploads/2013/06/barney-confetti.gif)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CompTIA) if you have any questions or concerns.*",
+            "GOOD JOB!!! \ud83d\udc4f",
+            "I had 5 pbqs on all my exams !It was nerve-wracking",
+            "I just failed yesterday on my first attempt with a 700. I felt like I understood the concepts well enough and most of the MCQs were easily answered with the amount of studying I did. I also got 5 PBQs and we're pretty much WTF on every single one. I was really getting short on time and trying to figure out what the hell they were asking for was aggravating.",
+            "What were the pbqs about ?",
+            "[deleted]",
+            "using dump sites like that can get your certification revoked"
+        ]
+    },
+    "Should we report comptia and pearsonvue?": {
+        "title": "Should we report comptia and pearsonvue?",
+        "score": 36,
+        "url": "https://www.reddit.com/r/CompTIA/comments/1dqrlov/should_we_report_comptia_and_pearsonvue/",
+        "content": "I find waiting times of more than an hour before starting test is unacceptable. \n\nThat is mentally exhausting and can negatively influence in the final result \n\nI  mean the exams are expensive, they should hire more employees. They also say that the rules start from that moment, meaning that you must stay like a stone for an hour or more waiting for your turn. It is unacceptable, what do you think?",
+        "num_comments": 64,
+        "comments": [
+            "Report to who? Everyone in the industry already knows these problems. Do you envision that there is some authority that would hold them accountable and make them improve? If so, I'm totally with you. I'll file a report, myself. But I don't know with what agency it would be filed.",
+            "Your report has been noted.\n\n- From the official IT complaint dept",
+            "Go to a testing center.\n\nGo to a testing center.\n\nGo. To. A. Testing. Center.",
+            "I\u2019ve never had to wait while onsite for testing",
+            "Waiting where? At a testing center?\n\nMore context is needed",
+            "What is there to report? Who would we even report it to? There is a reason you have testing centers as an option.",
+            "I had this problem a few days ago with my exam. Had to wait nearly 3 hours",
+            "The more complaints I see about online testing, the more I realize how many people don't read the rules or the instructions.  If you have an excessively long wait time in the queue, you can exit the meeting and request CompTIA send you a new voucher so that you can reschedule the exam.  One time, it said there were over 100 people waiting in the queue, so I exited and sent a message to CompTIA informing them of the situation.  A few days later, they issued me a new voucher and I was able to reschedule with no problem.  \n\nFYI, the exams aren't expensive compared to most exams.  EC-Council, ISACA, ISC2, Cisco, GIAC, and OffSec exams are much more expensive than any CompTIA exam.",
+            "Take the exam in person, even if this requires extra expense to travel.  Find the location in person days before your scheduled exam. \n\nIntroduce yourself to the proctor and tell them that you wanted to locate the exam center ahead of the test date so that all goes well on the date of the test.  Ask them a question, such as what they recommend to have a smooth experience.  Remember their names in case they are working the day off the exam.\n\nShow up early.  Be professional, courteous, and be prepared. \n\nPlan to take all exams only once.  Develop effective study skills and \"over-study\" so that you can breeze through the multiple choice questions quickly and confidently.  This will give you extra time to complete some or all of the pbq's.",
+            "This is why I drive 3 hours one way to an onsite testing center. Really sucks, but def less stressful."
+        ]
+    }
+}

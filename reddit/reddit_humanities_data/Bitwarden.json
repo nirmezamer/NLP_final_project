@@ -1,0 +1,68 @@
+{
+    "TOTP autofill query - Am I doing something wrong": {
+        "title": "TOTP autofill query - Am I doing something wrong",
+        "score": 0,
+        "url": "https://www.reddit.com/r/Bitwarden/comments/1dr05uw/totp_autofill_query_am_i_doing_something_wrong/",
+        "content": "Hi Guys, On the browser (Chrome latest version) the TOTP verification codes don't autofill for me. I have to go to the Bitwarden app and copy it manually every time. \n\n\n\nI have just moved from Dashlane to Bitwarden and am not sure if something hasn't been set-up correctly for my browser. On Dashane the TOTP code field would get automatically detected and the latest code would come up on single click. Please help!",
+        "num_comments": 8,
+        "comments": [
+            "So when you invoke autofill (ctrl-shift-L) for a login page, if you have a premium subscription (you may need to log out and in again if you just upgraded), and the autofilled vault entry has a TOTP key, then the current TOTP token is placed on the system clipboard.\n\nOn the TOTP web form, just paste (ctrl-V).",
+            "To the people calling for \"past\" is the way : you are not that right because it doesn't work flawless nor well, and pasting the code doesn't work on every field (1p, zoho vault, dashlane, iCloud don't past but provide characters 1 by 1 what ever the field and it works that way the same as a single user using a keyboard and that is flawless).",
+            "Thanks for the quick response. Yes, I have the premium subscription and I have logged out and logged back in to activate it within the extension. On the login form the fields username and password gets the Bitwarden extension icon and I can quickly choose the values with a single click. \n\nHowever, for the TOTP field the Bitwarden extension doesn't show up and I need to go to the extension manually --> copy the verification code and paste it into the form on the browser which is a lot of steps. Is this the only way to populate TOTP?",
+            "No, once you get to the TOTP field you ought to be able to simply click on that field and then paste. There is no \u201cautofill\u201d here. Bitwarden merely puts the current token on your clipboard, and then you paste it at the right time and place.",
+            "> However, for the TOTP field the Bitwarden extension doesn't show up and I need to go to the extension manually --> copy the verification code and paste it into the form on the browser which is a lot of steps. \n\n1. Right-click the TOTP field;\n\n2. Select \"Paste\".\n\nThis has the same number of steps as what you want:\n\n1. Left-click the TOTP field (or the Bitwarden icon in the TOTP field);\n\n2. Select the account to auto-fill for.\n\nThe former method works; the latter method is not yet available in Bitwarden for TOTP fields.",
+            "Ahh bummer...Dashlane has the feature of recognising TOTP field and presents the extension within the field. Hopefully Bitwarden will add this in the future...glad to know that I am not facing an issue here...thanks for your time!",
+            "I think the problem is it can sometimes be difficult to recognize the TOTP field. PayPal and others have SIX fields, others have a single text field, and there is no standard for naming. It is safer to just have the user wait and then press ctrl-V at the right time.\n\nRemember, Bitwarden is a very small company with limited developer resources. This approach requires less exception programming for different websites.",
+            "> Ahh bummer...Dashlane has the feature of recognising TOTP field and presents the extension within the field.\n\nBitwarden _does_ have a feature that recognizes TOTP fields, and allows you to auto-fill them using the `Ctrl+Shift+L` keyboard shortcut (or using **Right-Click > Bitwarden > Auto-fill Login**, or by left-clicking the vault item in the browser extension pop-up or sidebar).  Unfortunately, this feature is relatively new, and therefore does not work on all websites.\n\nFurthermore, the inline auto-fill menus do not yet support auto-filling of TOTP fields (unless, perhaps, the TOTP input field is on the same page as the username or password field).  This was discussed briefly in a [thread on the Community Forum](https://community.bitwarden.com/t/just-released-new-inline-auto-fill/61436/16); evidently, to date, no one has made an [official Feature Request](https://community.bitwarden.com/c/feature-requests/pm-feature-requests/55), though."
+        ]
+    },
+    "Best Practices?  Pre-Config?": {
+        "title": "Best Practices?  Pre-Config?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/Bitwarden/comments/1dqy8ti/best_practices_preconfig/",
+        "content": "Hello everyone!\n\nDoes anyone have, or know of, a respected \"Best Practices\" document or the like?  This would have settings, \"Check this on, Check that off, set the lock timeout to 'xyz'\" that sort of thing.\n\nAlso,  \nI'm able to deploy the browser extension via Intune Device Config but I still have to go in and configure the various individual settings for each user, after the fact.  Does anyone know of a way to deploy preset settings beyond what can be set in the admin console?  Registry, JSON, etc?  \nThanks!",
+        "num_comments": 2,
+        "comments": [
+            "/u/cryoprof has an excellent work in progress user guide:\n\nhttps://www.reddit.com/r/Bitwarden/s/KrpUuXPUwd\n\nThere may be a few things to be added as time goes on.\n\n> for each user\n\nThis sounds like something that Bitwarden Customer Support might have experience with. I\u2019m afraid most of us are individual users; we don\u2019t deploy the password manager to dozens of friends or family \ud83e\udd2a",
+            ">Does anyone know of a way to deploy preset settings beyond what can be set in the admin console? Registry, JSON, etc?\n\nThere is no officially supported way to do this, as far as I'm aware.  However, the settings configuration for each app & user is stored in a JSON structure that is bundled with the vault cache in the [local data folder](https://bitwarden.com/help/data-storage/#on-your-local-machine).  You will not be able to simply copy this information (as each user evidently has a unique identifier that is used in the JSON field names), but you may be able to write a script to automate the creation of new JSON based on a gold standard version."
+        ]
+    },
+    "Checking if an account exists for an email account.": {
+        "title": "Checking if an account exists for an email account.",
+        "score": 6,
+        "url": "https://www.reddit.com/r/Bitwarden/comments/1dqlvyc/checking_if_an_account_exists_for_an_email_account/",
+        "content": "If it's not a security vulnerability, would it be possible for me to check if an account exists for an email account? I had a previous email account that I had bitwarden for and now have lost both that email and that bitwarden and I may have had some data inside the bitwarden. Now I do have backups for the password to bitwarden but I have none to that email, and also all my password records for bitwarden don't go through. So I'm suspecting that I might have deleted it after realizing I didn't need it.\n\nIt could be a security issue to be sure, but I do have previous passwords, which could possibly be re PBKDF'd to verify, but security is important here and it might not be safe with the policy to do as such.\n\n",
+        "num_comments": 4,
+        "comments": [
+            "I think it is possible, yes. If you go to the web vault and try to sign up for an account that already exists, I suspect you will be immediately informed. I will try myself in a bit.",
+            "Just try to register for a new account using that email address, at [https://vault.bitwarden.com/#/register](https://vault.bitwarden.com/#/register) (if the previously existing account was created _after_ July 25, 2023, then you will also want to try this on the [EU server](https://vault.bitwarden.eu/#/register)).\n\nIf an account with that email address already exists, then you will get an error message.  Obviously, if you are able to create the new account, then the old account was deleted (and you now need to delete the new account you just created).",
+            "Yes. The system informs me that [xxx@xxx.xxx](mailto:xxx@xxx.xxx) is already taken.",
+            "If you don't have the correct master password (and 2FA, if applicable) for that Bitwarden account, and if you no longer have access to the email account that was used as the Bitwarden username, then there is no way to delete or recover the Bitwarden vault."
+        ]
+    },
+    "Opera problem": {
+        "title": "Opera problem",
+        "score": 0,
+        "url": "https://www.reddit.com/r/Bitwarden/comments/1dqu3ud/opera_problem/",
+        "content": "I can use the bitwarden extension perfectly fine, but somehow I can log in to the web vault. Anyone know the fix?",
+        "num_comments": 6,
+        "comments": [
+            "Hello! Just so we can troubleshoot this further - is this accessing the web app on Opera? What error message are you seeing?",
+            "I would suggest that you [contact support](https://bitwarden.com/contact/), because there appear to have been a few reports of such experiences on the subreddit, and if it is a real issue that is affecting multiple users, then the support team needs to hear about it.\n\nHowever, first, double check that the \"Server\" setting at the bottom of the email address input form is set to the server (`bitwarden.com` or `bitwarden.eu`) where your account is registered.",
+            "It was accessed via the web vault through the link. And the message showed the password or username is incorrect even though I used the same login info for the extension and mobile.",
+            "I see. I thought I\u2019m the only one because I started to have this issue after resetting my Opera settings. Thank you.",
+            "Could be a coincidence, but it won't hurt to contact support.   Did you already check that you are connecting to the correct server?",
+            "Yea I did."
+        ]
+    },
+    "Autofill credit cards google chrome with bitwarden password manager.": {
+        "title": "Autofill credit cards google chrome with bitwarden password manager.",
+        "score": 0,
+        "url": "https://www.reddit.com/r/Bitwarden/comments/1dqu0s7/autofill_credit_cards_google_chrome_with/",
+        "content": "I used the virtual amex feature intergrated in google chrome. [https://www.americanexpress.com/en-us/credit-cards/features-benefits/digital-wallets/virtual-card-number/](https://www.americanexpress.com/en-us/credit-cards/features-benefits/digital-wallets/virtual-card-number/)\n\nI miss this feature and still want to use it at the same time as bitwarden. Is this possible to have both enabled. Googling and research has led me to believe that it is not possible, but I would like to know if anyone here happened to figure it out? Thanks! I really need bitwarden passwords to just be integrated into the chrome autofill feature, like a password sync, that would be great so I could still use the chrome autofill, which I found to be much more effective.",
+        "num_comments": 1,
+        "comments": [
+            "If you wish, you should be able to use Chrome autofill for credit cards and Bitwarden for passwords only.   Go to **Settings > Auto-fill**, and disable \"Make Bitwarden your default password manager\".  Then go to `chrome://settings/payments` in your browser, and enable \"Save and fill payment methods\"."
+        ]
+    }
+}

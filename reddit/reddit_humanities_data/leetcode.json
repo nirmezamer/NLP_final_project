@@ -1,0 +1,91 @@
+{
+    "How do you guys get good at DP?": {
+        "title": "How do you guys get good at DP?",
+        "score": 1108,
+        "url": "https://www.reddit.com/r/leetcode/comments/sv82tg/how_do_you_guys_get_good_at_dp/",
+        "content": "I'm really struggling with grasping DP techniques. I tried to solve/remember the common easy-medium problems on leetcode but still get stuck on new problems, especially the state transition function part really killed me.\n\nJust wondering if it's because I'm doing it the wrong way by missing some specific techniques or I just need to keep practicing until finishing all the DP problems on leetcode in order to get better on this?\n\n&#x200B;\n\n\\------------------------------------------------------- updated on 26 Jan, 2023--------------------------------------------------\n\nWow, it's been close to a year since I first posted this, and I'm amazed by all the comments and suggestions I received from the community.\n\nJust to share some updates from my end as my appreciation to everyone.\n\nI landed a job in early May 2022, \u22483 months after I posted this, and I stopped grinding leetcode aggressively 2 months later, but still practice it on a casual basis.\n\n&#x200B;\n\nThe approach I eventually took for DP prep was(after reading through all the suggestions here):\n\n\\- The DP video from Coderbyte on YouTube. This was the most helpful one for me, personally. Alvin did an amazing job on explaining the common DP problems through live coding and tons of animated illustrations. This was also suggested by a few ppl in the comments.\n\n\\- Grinding leetcode using this list [https://leetcode.com/discuss/study-guide/662866/DP-for-Beginners-Problems-or-Patterns-or-Sample-Solutions](https://leetcode.com/discuss/study-guide/662866/DP-for-Beginners-Problems-or-Patterns-or-Sample-Solutions), thanks to [**Lost\\_Extrovert**](https://www.reddit.com/user/Lost_Extrovert/) for sharing this. It was really helpful for me to build up my confidence by solving the problems on the list one after another(I didn't finish them all before I got my offer, but I learned a lot from the practice). There are some other lists which I think quite useful too:\n\n\\* [https://designgurus.org/course/grokking-dynamic-programming](https://designgurus.org/course/grokking-dynamic-programming) by [**branden947**](https://www.reddit.com/user/branden947/) \n\n\\* [https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns) by [**Revolutionary\\_Soup15**](https://www.reddit.com/user/Revolutionary_Soup15/)\n\n\\- Practice, practice, practice(as many of you suggested)\n\n\\- A shout-out to [**kinng9679**](https://www.reddit.com/user/kinng9679/)'s mental modal, it's helpful for someone new to DP\n\nSince this is not a topic about interview prep, I won't share too much about my interview exp here, but all the information I shared above really helped me land a few decent offers in 3 months.\n\n&#x200B;\n\nHope everyone all the best in 2023.",
+        "num_comments": 208,
+        "comments": [
+            "I think just doing more problems will help.  Everything takes time.  A lot of it has to do with doing so many problems that you start memorizing different tricks/patterns.",
+            "One thing that helped me was coming up with a recursive solution to the problem, then take a look at the parameters you are passing to the recursive function. \nThen check which parameters change between calls, those are likely the coordinate in your dp array/matrix.\n\nUnderstand how the recursive call generates its answer from the sub recursive calls, try to put that into an equation, like currentRes = f(subRes). That would be your DP build up equation.\n\nLastly find the exit case of the recursive function, that is the base case that you need to built up from in DP.\n\nHope this helps.",
+            "Prctaiec.\nPrcatiec.\nPractiec.\nPractice.",
+            "While the advice on solving more questions is correct, it is also important to dissect each problem you solve successfully so that you fully understand how DP was exploited to solve it. Spend lot of time on each problem, till you have a complete understanding of what is going on. If you move to other problems with a superficial understanding of current one, your understanding will not deepen.",
+            "Leetcode published an explore card about DP 3-4 months ago\n\nhttps://leetcode.com/explore/learn/card/dynamic-programming/",
+            "I was definitely in your position some time ago - I can relate. I found this post useful on the subpatterns of dp (done most of it): \n\n[https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns). \n\nAs others mentioned, typically you want to start with the top down approach (memoization) and see if you can convert it to bottom up approach. In few / several cases, it may be easier to come up with bottom up approach and then convert it to top down just for fun. Definitely the difficulty in dp problems is formulating what are the states and what is the recurrence relation. But keep practicing, it'll sink it.\n\nAs a data point, I have done close to 140 dp problems; Again want to emphasize the number of problems you do is irrelevant and may vary between person to person, it's quality and understanding, so it's important to revise some problems to ensure it sinks in. But for me, I felt like things started to click and saw the patterns easily once I did close to 70 dp problems. Just for reference, I didn't come from a computer science background though did take data structures and algorithm course.",
+            "Two things you have to develop the intuition for are the state variables and the recurrence relationship.\n\nThis blog has a very good write up about dp: https://codeforces.com/blog/entry/43256",
+            "If you've got money to spare, get grokking the dynamic programming interview.",
+            "I am not an expert but I am able to solve decent number of medium level DP problems. \nMy approach to DP is finding the solution for extreme values (base case) and recursively solve the problem.\nAfter creating the recursive DP solution (Memoization), I convert it do an iterative one, i.e., bottom-up approach since recursion is slow due to overhead.\n\nAlthough, you can solve a problem either bottom-up op top-down, it depends on the problem which one could be faster.\n\nAll the best.",
+            "1.\tfigure out a shitty recursive solution \n2.\tslap a `@functools.cache` on it \n3.\tcongrats, you now have a top-down DP solution\n\nI\u2019m still pretty terrible at deriving bottom-up solutions but I find that I rarely need to in practice (~600 problems solved)."
+        ]
+    },
+    "Finally achieved a daily streak of 300!": {
+        "title": "Finally achieved a daily streak of 300!",
+        "score": 82,
+        "url": "https://www.reddit.com/gallery/1dlp9dp",
+        "content": "",
+        "num_comments": 18,
+        "comments": [
+            "Amazing rating. My goal is to get to Knight just like you have. Can you send your profile if too private maybe through DM and any tips to improve?",
+            "How to start ?",
+            "Does the 3819 mean that's the total number of problems on leetcode?",
+            "Awesome job bro! Consistency is king!",
+            "Congratulations. I recently started doing this. I am at 16 but want to maintain this streak forever. I feel like this is building my consistency.",
+            "At what ratings did you get the knight badge ??",
+            "I just started with Leetcode. May I ask how you go about obtaining badges?",
+            "Check dm bro",
+            "Start with the easies from topics like string, arrays, etc. Then move onto mediums after a while. I would recommend solving atleast one question daily. It would be even better that one question is the daily challenge. Ofcourse, you can solve more daily if you want to.",
+            "Yes"
+        ]
+    },
+    "Amazon Behavioral Tests are just ridiculous": {
+        "title": "Amazon Behavioral Tests are just ridiculous",
+        "score": 184,
+        "url": "https://i.redd.it/byo2x2d7c08d1.png",
+        "content": "",
+        "num_comments": 41,
+        "comments": [
+            "After all of that struggle with often hard algorithm questions(even for interns) they now  insist on having these behavioral questions for couple hours....What kind of guys even allowed all of these psychological pseudo science bs to get so deep into industry",
+            "This is most effective for culling bozos. The smaller they can make the interview pool the higher they \"raise the bar\"",
+            "As an ex-Amazonian reading this shit gave me slight anxiety \ud83d\ude25",
+            "This is all part of training an AI to replace programmers.",
+            "Unpopular opinion: this test is bullshit",
+            "Lol, they must have data that shows it works for them, but you know this initiative was someone\u2019s VP promotion push or something so the data is probably sort of bs too",
+            "Rather have this than think of some script to recite to someone in a video call about what my personal weakness is. But yeah this is bs. A couple questions, 10 minutes wouldn\u2019t be to bad but an hour long quiz is terrible",
+            "As someone who has worked there as a dev, trust me, you don\u2019t want to work there. unless your goal is to have a FANG on your resume and leverage it into a better job. That\u2019s just my opinion.",
+            "Walk in the park compared to their coding questions",
+            "is there a guide or something on how to answer these? how can you map the correct answer to the leadership principles (or vice versa)?"
+        ]
+    },
+    "Bruteforce -> optimized ": {
+        "title": "Bruteforce -> optimized ",
+        "score": 214,
+        "url": "https://i.redd.it/7rf3wrsm2z7d1.png",
+        "content": "https://www.reddit.com/r/ProgrammerHumor/s/K7AJi1vHmJ",
+        "num_comments": 7,
+        "comments": [
+            "I have once coded a O(2^n!)",
+            "Let me just throw in @lru_cache(none) and resubmit again.",
+            "At least it works............",
+            "Lmao",
+            "Were you solving world hunger or what?",
+            "we don't know yet it is still checking",
+            "P != NP"
+        ]
+    },
+    "Received referral from Meta": {
+        "title": "Received referral from Meta",
+        "score": 54,
+        "url": "https://www.reddit.com/r/leetcode/comments/1dlk2kn/received_referral_from_meta/",
+        "content": "A friend just referred me. The email said to complete the referral form within 30 days. How long does it normally take from referral to (assuming successful) screening interview? I'm only 40/150 in neetcode 150  and 25/75 in Blind 75, don't feel even nearly ready - I might be able to solve a Medium on my own but it'll take me 30+ minutes and with many retries, I understand I need to be in a position to get an optimal working solution in less than 20 minutes at first try. I see myself far away from that.\n\nMaybe I could be ready in 3 months, given that I can't practice more than 3 hours a day - have a job and 2 kids. I'm a seasoned engineer ( +10 years exp ) but I've never had to go through leetcode style interviews before. Would it be possible to fill the referral form in 30 days and aim to do the screening round at a later date?",
+        "num_comments": 7,
+        "comments": [
+            "Sorry to say this but getting a referral does not guarantee an interview these days. I have been referred by my spouse at a FAANG company as well but still haven\u2019t been contacted by a recruiter. Go ahead and complete the form and cross your fingers. It\u2019s brutal out there.",
+            "Referrals work at meta. A recruiter reached out to me 2 weeks after I applied with a referral. But at that time they were not hiring for E4 roles.",
+            "Sorry to spoil this for you.I recieved a referral from Google and Amazon, got rejected on the application phase only. Even after being a knight.",
+            "No need to apologize :) - I understand there\u2019s no guarantee, which is why I wrote assuming the referral is successful. Worst case is no interview, but what about best case?",
+            "Same. Got refferal, then rejected after 3 days and the e4 role is no longer there.\u00a0",
+            "Best case is you get hired, work there for years, eventually get promoted to CTO. Once Mark retires, he promotes you to take over as the CEO of Meta.",
+            "\u2b06\ufe0fBro took the question to it\u2019s literal meaning"
+        ]
+    }
+}

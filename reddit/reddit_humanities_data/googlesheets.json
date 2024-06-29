@@ -1,0 +1,53 @@
+{
+    "Help coming up with a cell formula - Find all the times a value appears in column A, count  adjacent cells that are not empty ": {
+        "title": "Help coming up with a cell formula - Find all the times a value appears in column A, count  adjacent cells that are not empty ",
+        "score": 1,
+        "url": "https://www.reddit.com/r/googlesheets/comments/1dr5kj0/help_coming_up_with_a_cell_formula_find_all_the/",
+        "content": "Hello, trying to grasp how to do this:  \n\n\nA | B  \nAlice | Cat  \nAlice |  \nAlice | Dog  \nBob | Horse  \nBob | Deer  \n\n\nAlice | X  \nBob | Y\n\nX and Y should both return 2, since there are 2 non blanks next to alice and 2 non blanks next to bob\n\nI can COUNTA(B1:B5) for the whole column, I guess I want an IF (A1:A5, A7) or something? or a MATCH?\n\n  \nThanks for any help.\n\n",
+        "num_comments": 1,
+        "comments": [
+            "    =countifs(A:A,\"Alice\",B:B,\"<>\")"
+        ]
+    },
+    "extract full address from link, after using 15+ extensions free/paid. i found instant data scraper the best(for my needs). i tried many functions to extract address, but not luck, what do you suggest?": {
+        "title": "extract full address from link, after using 15+ extensions free/paid. i found instant data scraper the best(for my needs). i tried many functions to extract address, but not luck, what do you suggest?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/googlesheets/comments/1dr4tjt/extract_full_address_from_link_after_using_15/",
+        "content": "https://preview.redd.it/h05co4jro79d1.png?width=1184&format=png&auto=webp&s=f2b1083310cb24d30c1265fe6f5b467e4cedec51\n\nthese are convenience stores in a state and want to know the city but the extension only took the street address.",
+        "num_comments": 0,
+        "comments": []
+    },
+    "Daily Sleep Efficiency Calculator": {
+        "title": "Daily Sleep Efficiency Calculator",
+        "score": 2,
+        "url": "https://www.reddit.com/r/googlesheets/comments/1dqwgbj/daily_sleep_efficiency_calculator/",
+        "content": "I'm trying to create a google sheet that calculates my sleep efficiency and represents it as a percentage.\n\n(Sleep efficiency is the amount of time actually sleeping divided by the total amount of time spent laying down).\n\nI've done the math/formulas and the formatting which was all very easy and it works - which is great.\n\nHowever I'd like to eliminate typing in and displaying the date every day - I'll be doing this on my phone more often than not and I'll be building a daily tracker for this to see my day to day progress, so the less I have to input the better.\n\nI've played around with several formatting attempts and other formula arrangements, but I haven't been able to get the formula to work properly, with formatting that only requires the input of times.\n\nI'm not sure if there's a way to pre-set cells as a specific date that would then calculate off the input times? Or if there's another way to format or write the formula. Or maybe I'm sol and just need to type the date every day.\n\nAll suggestions welcome.\n\nThank you!\n\nhttps://preview.redd.it/7s0nqenk5e9d1.png?width=548&format=png&auto=webp&s=e934a91f9276425b9af984bee43060aab8ad1f0e\n\n",
+        "num_comments": 1,
+        "comments": [
+            "Posting your data can make it easier for others to help you, but it looks like your submission doesn't include any. If this is the case and data would help, you can read how to include it in the [submission guide](https://www.reddit.com/r/googlesheets/wiki/postguide#wiki_posting_your_data). You can also use this tool created by a Reddit community member to [create a blank Google Sheets document](https://docs.google.com/forms/d/e/1FAIpQLSeprZS3Al0n7JiVQIEiCi_Ad9FRXbpgB7x1-Wq6iAfdmVbWiA/viewform) that isn't connected to your account. Thank you.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/googlesheets) if you have any questions or concerns.*"
+        ]
+    },
+    "Conditional Formatting using strikethrough and two different columns": {
+        "title": "Conditional Formatting using strikethrough and two different columns",
+        "score": 1,
+        "url": "https://www.reddit.com/r/googlesheets/comments/1dqz513/conditional_formatting_using_strikethrough_and/",
+        "content": "I have 2 columns, one with phone numbers and one with either yes or no. I am wondering  if it is possible to do if column b2 is no, then column a2 is strikethrough font. Would this be possible? I'm not sure how to do it, since there is already data (phone numbers) in one, and not sure how to put it in an if/then statement either. ",
+        "num_comments": 4,
+        "comments": [
+            "Assuming your data starts in row 2, apply a conditional formatting rule to the range A2:A using the custom formula (\"Custom formula is\" on the \"Format cells if\" menu) `=$B2=\"no\"`",
+            "Posting your data can make it easier for others to help you, but it looks like your submission doesn't include any. If this is the case and data would help, you can read how to include it in the [submission guide](https://www.reddit.com/r/googlesheets/wiki/postguide#wiki_posting_your_data). You can also use this tool created by a Reddit community member to [create a blank Google Sheets document](https://docs.google.com/forms/d/e/1FAIpQLSeprZS3Al0n7JiVQIEiCi_Ad9FRXbpgB7x1-Wq6iAfdmVbWiA/viewform) that isn't connected to your account. Thank you.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/googlesheets) if you have any questions or concerns.*",
+            "Great I will try that, Thank you!",
+            "REMEMBER: If your original question has been resolved, please **tap the three dots below the most helpful comment** and select `Mark Solution Verified`. This will award a point to the solution author and mark the post as solved, as required by our subreddit [rules](https://www.reddit.com/r/googlesheets/about/rules) (see rule #6: Marking Your Post as Solved).\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/googlesheets) if you have any questions or concerns.*"
+        ]
+    },
+    "Quickly/efficiently inserting images into cells?": {
+        "title": "Quickly/efficiently inserting images into cells?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/googlesheets/comments/1dqxi41/quicklyefficiently_inserting_images_into_cells/",
+        "content": "I'm looking to find a way to insert several images into cells quickly (that's several cells with 1 image per cell). Whether its highlighting a group of cells and adding images to them at once or any way significantly more efficient than slowly and tediously doing I -> G -. I and pasting a link or uploading a file. I've tried extensions that allow you to insert multiple images at once but they only let you upload multiple in 1 individual cell, and I've tried drag & drop extensions but they didn't work at all. Is there any way to speed this up?",
+        "num_comments": 1,
+        "comments": [
+            "Posting your data can make it easier for others to help you, but it looks like your submission doesn't include any. If this is the case and data would help, you can read how to include it in the [submission guide](https://www.reddit.com/r/googlesheets/wiki/postguide#wiki_posting_your_data). You can also use this tool created by a Reddit community member to [create a blank Google Sheets document](https://docs.google.com/forms/d/e/1FAIpQLSeprZS3Al0n7JiVQIEiCi_Ad9FRXbpgB7x1-Wq6iAfdmVbWiA/viewform) that isn't connected to your account. Thank you.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/googlesheets) if you have any questions or concerns.*"
+        ]
+    }
+}
