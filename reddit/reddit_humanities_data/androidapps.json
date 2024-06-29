@@ -1,0 +1,70 @@
+{
+    "Which abandoned apps do you all still use (which don't have any alternative) ?": {
+        "title": "Which abandoned apps do you all still use (which don't have any alternative) ?",
+        "score": 79,
+        "url": "https://www.reddit.com/r/androidapps/comments/1dqi21f/which_abandoned_apps_do_you_all_still_use_which/",
+        "content": "For me it is andro search , index based search app more useful than sesame search",
+        "num_comments": 115,
+        "comments": [
+            "I'm down to one device that can still use ES File Explorer 2.5, and it also has Wallpaper Changer that let's me change wallpaper to my preferences - though it can't do different ones on different screens.\n\nI was just telling my son the other day that at least in my experience, updates tend to break functionality more than they add useful features.\n\nI used to love having random logon screens I could customize in Linux. As well, the ability to have all those cool compiz effects. Compiz now ain't near as robust, cool stuff wise.",
+            "**Iconzy**, a search-only icon pack, it'll index all icons from all installed icon packs so you can search them by name. Useful if you want to mix-match icons, especially to cover the ones not available in other icon packs. Though the only launcher so far that support Iconzy and treat it as an \"Icon Pack\" is Nova Launcher lol.\n\n**App Dialer**, when opened it'll present you with T9 style keyboard where you can type app name (or just the number with that app's letter) and it'll present the matching apps. There's newer one AppDialer 11 by same developer, a bit pricey though, but since the old one still works, I won't buy the latest one yet.",
+            "Historial of purchased apps at the play store \n\n[Purchased Apps](https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=735419&key=6b867fcaa71db053018122563cd3e5a03546f418)\n\nNot avaliable anymore at the play store.",
+            "Reddit is Fun",
+            " Titanium Backup Pro and Link2SD Plus on my rooted Samsung Galaxy J3 Pro (China Telecom version), I have been able to use my phone with 16GB of internal memory for over 6 years because of them!",
+            "I used to use an app called S Converter all the time until I got a new phone and can't find it anymore. It was a free unit conversion app, super clean UI, material design, all of the units in a particular group of measurement would update as you were typing with no extra pop up windows for input or confirmation buttons before getting results. If you wanted measurements for distance, you could just type a 1 into meters and you'd get an instant conversion to every other distance measurement they had. It was so nice. \n\nTechnically there are alternatives but they all take so much longer to get results. You have to navigate several menus just to get to an input, then you have to select the desired units you want to convert to, confirm your inputs, repeat the process for every other conversion. They simply don't compare\n\nHere's a promo video for it\n\nhttps://youtu.be/wTtyOcZQEkc?si=6QU93Eqb2R3ghPZJ",
+            "Better open with, because I'm still on android 10",
+            "Calibre Companion. Calibre Sync is 90% there (and has some features CC lacks) for regular use, but Calibre Companion is much more usable on e-ink.",
+            "Appdialer Pro.\n\nI'm still using the depreciated version,  you can pry it out if my cold dead hands. I've not looked but I'm sure the dev made a newer version and charging the big bucks for it but I'm sticking with the old one that works.",
+            "[Flyperlink](https://www.apkmirror.com/apk/flyperinc/flyperlink/): An app that opens web pages as individual, floating bubbles, without interrupt my workflow. \nBesides, I can read those pages at my convenience, and easily switching different pages between them with a click on each bubble."
+        ]
+    },
+    "ISO screensaver app": {
+        "title": "ISO screensaver app",
+        "score": 2,
+        "url": "https://www.reddit.com/r/androidapps/comments/1dr3tdh/iso_screensaver_app/",
+        "content": "Just like an old school screensaver i want something that starts when idle and stops on touch. I know newer devices can do that but i am looking for an app so i can add it on a custom android 11. Please and thank you",
+        "num_comments": 2,
+        "comments": []
+    },
+    "Any good hentai streaming app?": {
+        "title": "Any good hentai streaming app?",
+        "score": 0,
+        "url": "https://www.reddit.com/r/androidapps/comments/1dr5zta/any_good_hentai_streaming_app/",
+        "content": "",
+        "num_comments": 1,
+        "comments": [
+            "... Firefox?"
+        ]
+    },
+    "More apps like chromite": {
+        "title": "More apps like chromite",
+        "score": 0,
+        "url": "https://www.reddit.com/r/androidapps/comments/1dr2yd2/more_apps_like_chromite/",
+        "content": "There is that chrome like app, chromite which has great adblocker and is better overall than chrome. Is there same alternative to reddit, and.youtube which has great adblocker. ",
+        "num_comments": 6,
+        "comments": [
+            ">Is there same alternative to reddit, and.youtube\n\nRevanced. It's an app that can add patches other apps, YouTube and Reddit are one of those apps. Those patches include removing ads and for YouTube, there's also a bunch of customization. You need MicroG if you want to login with your Google account.\n\nCheck out r/RevancedApp for a guide.",
+            "Hermit would be a option too",
+            "Yes, ReVanced",
+            "Infinity for reddit, Brave , firefox or its forks like fennec with extensions.",
+            "How can I use it with sizuku and not root",
+            "You don't need Shizuku, or root. You need to download the apk from APKMirror, and either uninstall or disable the YouTube app. You would also need to uninstall Reddit."
+        ]
+    },
+    "Alternative to Sound Assistant - pixel": {
+        "title": "Alternative to Sound Assistant - pixel",
+        "score": 3,
+        "url": "https://www.reddit.com/r/androidapps/comments/1dqv86v/alternative_to_sound_assistant_pixel/",
+        "content": "Pixel doesn't allow individual app volume control. \nAre there any alternatives that could be recommended to me?",
+        "num_comments": 7,
+        "comments": [
+            "Maybe try Sound Assistant [https://www.apkmirror.com/apk/samsung-electronics-co-ltd/soundassistant/](https://www.apkmirror.com/apk/samsung-electronics-co-ltd/soundassistant/) from Samsung and see if it works on your device.",
+            "https://github.com/legendsayantan/ShizuTools\nThe \"Sound master\" tool.\n\nCould try this one, I don't know if root is required or not, but probably some ADB commands. \n\nIt's not as straightforward and the UI isn't the best. It also doesn't seem to work for Spotify. \n\nUsing Pixel 7 Pro A14.",
+            "Would permanently silencing certain apps help wit this?  I found this discussion [https://support.google.com/pixelphone/thread/247203554/permanently-silencing-sounds-from-individual-apps?hl=en](https://support.google.com/pixelphone/thread/247203554/permanently-silencing-sounds-from-individual-apps?hl=en) which discussed that very thing.  I know its not exactly what you want but maybe it would narrow down the problem a bit.  \n\nHere is another discussion from xda [https://xdaforums.com/t/per-app-volume.4573445/](https://xdaforums.com/t/per-app-volume.4573445/) but it seems to not work for everyone using MacroDroid or Tasker.    Good luck .  I hope you find a workable solution.\n\nMaybe you could check one of the Pixel sections [https://xdaforums.com/f/google-pixel-6.12311/](https://xdaforums.com/f/google-pixel-6.12311/) at XDA and put the work in to use a different ROM if it is that important to you.  It seems Google really is turning into Apple 2.0 in not wanting you to control the devices you own.",
+            "Nah it doesn't work, I wished it did though.",
+            "Root isn't required, the app works based on Shizuku :)",
+            "Yeah I got this phone, as it was a cheaper alternative to Samsung's that I've used for many years. But I thought, it's android so it will be customisable to what I want, and it's as rigid as my wife's iPhone, I'm done with it. But I can't justify buying a new phone so I'm trying to learn to live with it.\n\nI'll check those out, thanks for your response",
+            "One thing I noticed in researching your question was inexpensive Motorola phones support this feature.  The Moto G Stylus 2023 has been on special a lot lately as the 2024 version is coming out.  If it were me I would buy one of these and plan on it being my device for the next 4 years or so or until you find something better.  It is cheaper than a Pixel and if you watch for sales you can save a lot of money on an already inexpensive device.  Anyway just some food for thought..."
+        ]
+    }
+}

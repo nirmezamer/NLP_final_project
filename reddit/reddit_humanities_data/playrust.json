@@ -1,0 +1,93 @@
+{
+    "Devblog - Seismic Sensor": {
+        "title": "Devblog - Seismic Sensor",
+        "score": 65,
+        "url": "https://rust.facepunch.com/news/seismicshift",
+        "content": "",
+        "num_comments": 74,
+        "comments": [
+            "If you're setting your phone to wake you up in the middle of the night because your video game base is being attacked it's time to take a step back.",
+            "Can you please add a Handbrake to Cars, be great to not have Newman's push a huge armored car into a twig doorframe and destroy the car by closing the door. Maybe have a time delay or mini game to then turn off the handbrake",
+            "Overall, the vast majority of these changes are great and very useful. Obviously the fishing community is upset but I don't partake in that much, so I can't comment. \n\nAppreciate all of your hard work devs!",
+            "Blocking explosives, powder and ores from TCs will improve quality of life immensely.",
+            "So no nexus system?",
+            "Pretty sweet update. Though it does seem there is some nerf creep with the fishing village changes. Add this to the safe zone recycler nerf last force wipe, and people who genuinely suck at PVP despite their best efforts are the ones who are going to be punished the most. I know quite a few people who play on PVP servers but rarely PVP, and instead run a shop or provide some other type of service (farming, art, hotel, etc). If you make the grind too difficult for them, they're probably going to switch to PVE or stop playing all together, removing some of the diversity that makes PVP servers interesting.",
+            "Fish traps got a huge buff, are we forgetting that?",
+            "holy qol! this is awesome!",
+            "What an update!",
+            "ruined fishing imo"
+        ]
+    },
+    "Bug Reporting Megathread - Seismic Shift": {
+        "title": "Bug Reporting Megathread - Seismic Shift",
+        "score": 17,
+        "url": "https://www.reddit.com/r/playrust/comments/1d9oe8b/bug_reporting_megathread_seismic_shift/",
+        "content": "Please help the developers by reporting any bugs, using the following points:\n\nYou can report bugs in-game by pressing F7.\n\n**[BUG]** Something game-breaking that shouldn't happen.\n\n**[QoL]** Quality of Life change that doesn't necessarily break the game, but would be nice to fix.\n\nPlease try to include helpful evidence related to the bug, such as screenshots, videos, or GIFs.",
+        "num_comments": 120,
+        "comments": [
+            "https://preview.redd.it/nktvki7ff85d1.png?width=815&format=png&auto=webp&s=f5abf0f7554fa4ece06837b9798fa6e6b99dbdfc\n\nThe build on the Mac is completely f### up. The debug/build files got published to steam instead of the actual game.\n\n*Ps. It's about time to also release the ARM native version. EAC is about to release their native version and Unity has support for it for many years.*",
+            "[BUG/QOL] (Oversight?)\nSince both Backpack and Oxygen tank occupy the backpack slot, one would expect similar behaviour. Yet the Oxygen tank kicks off whatever one is wearing in the outer upper clothing slot (e.g. poncho, jacket) while the backpack peacefully coexists with all clothing.\n\nEither Oxygen tank should be in jacket slot or it should ignore clothing.",
+            "\\[BUG\\] / \\[QOL\\] I'm not sure if this is intended because it isn't mentioned anywhere but deep water is insanely murky / cloudy right now. I literally cannot see sharks anymore. I dive for my scrap and since the patch I am not even able to fight the sharks anymore because the visibility is like 5 meters down there. Before the patch this was not an issue, I've been diving for years.",
+            "\\*\\*\\[BUG\\]\\*\\* I saw someone else already mention not being able to launch the game on MacOS, but I am having the same issue. Fresh install of game, trying to launch it from steam opens [rust.app](http://rust.app) with the blue bear icon, then you get an error saying it can't find the game's binary. \n\n[RustClient.app](http://RustClient.app) is incomplete. If you open it RustClient>Contents there is no folder MacOS where it is looking for the game.\n\nThere are also two folders outside of [RustClient.app](http://RustClient.app) in common>Rust with names \"Rust\\_BurstDebugInformation\\_DoNotShip\" and \"RustClient\\_BackUpThisFolder\\_ButDontShipItWithYourGame\". I don't know if the wrong version of the game is available on Steam for MacOS right now, but either way it is not currently playable.\n\nhttps://preview.redd.it/mpwlsi19b85d1.png?width=1552&format=png&auto=webp&s=330823efcbb8a221f29e8743c9e01d092455f42b",
+            "[BUG] \n\nThe text/font of number of gathered resources (stone/wood) appears to be inconsistent in size. \n\nFirst thing this wipe it was smaller than the size of the text for the resource name but it later was the correct size. \n\nI then again noticed it was smaller. \n\nVery minor but I did notice it",
+            "Thanks a bunch for all the lovely QoL features in the past updates. This devblog was amazing.\n\n**[QoL]** Since forever now, weapon reload animations finish faster than the actual reload event happens. Improving this would make gunplay feel a lot more modern and snappy.",
+            "[BUG][ Spotlights are not outputting light to the environment.](https://imgur.com/BBFewAo)",
+            "I get an error when trying to launch Rust on Mac:\n\nLaunch Error:   \nCould not locate the game binary: '/Users/\\*MYNAMEHERE\\*/Library/Application Support/Steam/steamapps/common/Rust/RustClient.app/Contents/MacOS/Rust'\n\nHave tried restarting and verifying files. Base is going to decay :(",
+            "**[BUG]** [The vendor at Fishing Village is not showing a menu, so you can't buy fishing gear](https://clips.twitch.tv/LongMushyMonkeyYee-0IAOCX8S0tbjYfsp).",
+            "\\[BUG\\[ I really hope this was not intentional but underwater visibility with the diving mask took a big hit. I don't know how you would ever be able to kill sharks, you can barely see anything when you look through the window in moonpool and players have to be really close to see them."
+        ]
+    },
+    "Day 7. Double the helix, double the fun": {
+        "title": "Day 7. Double the helix, double the fun",
+        "score": 42,
+        "url": "https://v.redd.it/ouceoxlrx28d1",
+        "content": "",
+        "num_comments": 6,
+        "comments": [
+            "My brain is not braining.",
+            "And here I thought the previous one was a banger \u2764\ufe0f",
+            "How are you doing this? Do you have video?",
+            "egg timer",
+            "Brother, make a flower of life pattern pls.",
+            "I do. Head on to r/rustrician for a how to video."
+        ]
+    },
+    "Warning About Rust Gambling Site (Rustclash)": {
+        "title": "Warning About Rust Gambling Site (Rustclash)",
+        "score": 79,
+        "url": "https://www.reddit.com/r/playrust/comments/1dln4xr/warning_about_rust_gambling_site_rustclash/",
+        "content": "I see this site advertised EVERYWHERE and have even played there myself quite a bit over the years (as of today I am level 175\\~).\n\nToday, I was banned for \"reward abuse\" which an admin (Apollo) explained was due to my having not played plinko (or other games/risks/etc) long enough before withdrawing rewards. He specified that I \"do not have to play with it until I lose\" but that I can't just collect it, clear the wager requirement, and withdraw. I apologized and said, having been informed of that, that I would refrain from doing that again and asked about what wager amount/type of wager/etc. I need to comply with the rules. \n\nFast forward like 6 hours later and I am banned all over again. In the 6\\~ hours leading up to this 2nd ban I had not played/deposited/withdrew whatsoever. I work from home and don't play during \"working hours\" (though I do claim rains and bonus codes if I see them pop up on my 2nd monitor).   \n  \nThis time, a new moderator (Obscurity) decided to reply after making me wait over an hour and said that \"Apollo clearly stated that what I was doing was wrong\" and that the ban was legitimate and permanent before inviting me to make a new account to start over as a level 1.\n\nI don't know about the rest of the community here but this is insanely unscrupulous and shady behavior in my book. Not expecting to get unbanned (being insulated from such a place is probably for the best anyway) but I hope that some people at least see this and have a chance to avoid being taken advantage of/admin abused.\n\n  \nScreenshots of the original chat with Apollo: [https://imgur.com/a/RyAgdcg](https://imgur.com/a/RyAgdcg)\n\nI don't have the link for the transcript with the moderator because I haven't received an email of it yet and I closed out of the page because I was pretty sure he was intentionally being snarky with me to get a rise out of me at that point. I will add it if I wind up receiving that transcript though.",
+        "num_comments": 69,
+        "comments": [
+            "I can't believe predatory gambling website has questionable ethics \n\nShocking really",
+            "I'm shocked, SHOCKED!, to find that gambling is going on in here.\n\nThese sites are all shady af online casinos.  What kind of integrity were you expecting?  Please don't ever use any of these sites ever again.",
+            "Not surprised they banned you, farming rewards, never depositing, how are they going to make money from you.\n\nBan yourself from all of them, its not worth it in the long run.",
+            "They shouldnt punish you for behavior their system allows. That is their problem.",
+            "Any site that asks you to deposit to extract winning is scamming",
+            "OP, as some commenters correctly pointed out it is illegal to withhold account balance from the respectful owner. \nAfter you get a perma ban or account closure by an online casino, they are supposed to send the remainder of your account balance to the credit card which you used for depositing.\nIf they keep denying you your money, file a complaint to the issueer of their gambling license if they have a legit one; Otherwise contact the Cyber Police or Electronic Crime department of your country.",
+            "You got scammed bro.\u00a0",
+            "What games were you playing to warrant the first interaction?  The warning makes sense if you're playing games where you're able to control the wins a bit like mines or dice. Real casinos do the same thing with card counters. It's not illegal to count cards, but a casino will happily ban you if you are.\n\nThe 2nd interaction is straight bullshit. If you didn't play anything, and you've received one warning, there's no reason for them to perm your account. They just wanted your rake back bonus reset (if that's how levels work on clash).\n\nEdit: read the picture and you're in the negatives. Yeah they're just fucking your rake back. Pretty low.",
+            "Don't gamble",
+            "You played in an illegal casino and got hit with illegal practices. Shocking!"
+        ]
+    },
+    "It's almost that time again \ud83c\udf0e (and for new drops)": {
+        "title": "It's almost that time again \ud83c\udf0e (and for new drops)",
+        "score": 217,
+        "url": "https://v.redd.it/1wmfpy2aqy7d1",
+        "content": "",
+        "num_comments": 57,
+        "comments": [
+            "Knew the earth was flat.",
+            "WHY IS EUROPE SO EMPTY THAT'S JUST INSULTING\n\nOXUMS DOME AND SATELITE DISH??? \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+            "I'm walling off the whole map.  See you all on the battlefield.",
+            "I hope Spoonkid gets in. :(",
+            "Where can I get these maps?",
+            "How does one join the media team for this event asking for a friend....",
+            "Wait, more drops are coming already?",
+            "Would love to see the drops I know fancy is great at picking them",
+            "any links to anything official?",
+            "Can\u2019t wait to see the atrocities and war crimes committed in this upcoming world civilization event!"
+        ]
+    }
+}

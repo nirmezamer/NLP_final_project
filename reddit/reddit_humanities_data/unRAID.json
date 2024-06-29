@@ -1,0 +1,89 @@
+{
+    "Unraid 6.12.10 Now Available": {
+        "title": "Unraid 6.12.10 Now Available",
+        "score": 150,
+        "url": "https://docs.unraid.net/unraid-os/release-notes/6.12.10/",
+        "content": "This release reverts to an earlier version of the Linux kernel to resolve two issues being reported in 6.12.9. It also includes a 'curl' security update and corner case bug fix.\n\nNote: Unraid OS v6.12.x and all earlier versions are not vulnerable to the xz backdoor CVE-2024-3094.",
+        "num_comments": 123,
+        "comments": [
+            "Just did the update from 6.12.9. No problem.",
+            "https://forums.unraid.net/topic/160471-unraid-os-version-61210-available/",
+            "Upgraded from 6.12.4 without issue.",
+            "Works well for me. I was having some UI weirdness with 6.12.9. This is much better.",
+            "This fixed some weirdness I had after the 6.12.9 upgrade where Plex library scans would result in movies and tv episodes disappearing and new stuff wouldn't show up even doing the \"Plex dance\" to try and get them to show. After updating Unraid to 6.12.10 and running another scan, 50 \"new\" movies came back.",
+            "Lol. So many drama queens in this thread. Upgrade asap on patch releases, use caution on major releases.",
+            "Split level manual no longer works with this upgrade",
+            "Does anyone knows if it fix the macvlan related kernel panics ? Thx\nI'll upgrade in any cases btw",
+            "It seems like there's a lot of confusion on the versioning terminology. As u/Solverz said: [semantic versioning ](https://www.geeksforgeeks.org/introduction-semantic-versioning/)structures updates as Major.Minor.Patch.\n\n  \nMajor updates are for breaking changes. Minor updates are for new features/changes that are backwards compatible. And patches are for fixes and stuff that is also backwards compatible with that major version.\n\n  \nSo appropriately this is a *patch* update which should have the lowest \"risk\" of breaking anything out of the version types. Annoying that I just upgraded from 6.12.8 the other day, yeah, because I would have otherwise skipped a rollback but I appreciate the prompt fixes.",
+            "Worth doing the update if on 6.12.8?"
+        ]
+    },
+    "Unraid April Digest": {
+        "title": "Unraid April Digest",
+        "score": 30,
+        "url": "https://newsletter.unraid.net/p/unraid-april-digest-014e",
+        "content": "All Things Unraid for April 2024",
+        "num_comments": 32,
+        "comments": [
+            "Anyone have thoughts on the integrated proxy manager? I'm new to unraid and just got Nginx working, would be curious to see if the integrated one is worth the switch.",
+            "Looking forward to first party support for backing up VMs.\n\nIt would also be nice if they improved the GUI so that it doesn't override custom changes in the VM XML.",
+            "When will 6.13 come? They said soon this month. Its almost end of the month.",
+            "Today watched May Digest, so many improvements will be in Unraid 7 for ZFS when I decided to use only xfs for array and btrfs for cache \ud83e\udd23",
+            "I wonder if it will be similar to Synology's which was pretty barebones.\n\nI ended up going with traefik on my unRAID and have it all integrated with my other containers, LetsEncrypt, and Cloudflare subdomains.",
+            "I can\u2019t get Nginx working. Hopefully the integrated one works for me. I\u2019m going to set up OPNsense and run ACME and HAproxy that way but if the integrated one works I\u2019ll try that",
+            "I have a good feeling about next week.",
+            "HAProxy kinda sucks compared to Nginx Proxy Manager. What couldn't you get working?",
+            "any updates? its june already?",
+            "What about next week? Still good feelings?"
+        ]
+    },
+    "Unraid vs Windows Server": {
+        "title": "Unraid vs Windows Server",
+        "score": 3,
+        "url": "https://www.reddit.com/r/unRAID/comments/1dls829/unraid_vs_windows_server/",
+        "content": "I have an Unraid server with 4 20tb drives and a 2TB cache drive, 16gb of memory, i9-9900k.\n\nPlanning on installing a 10G nic in the unraid server and create a peer to peer network with my workstation- TR 7090. ",
+        "num_comments": 7,
+        "comments": [
+            "Don't go with Windows server. Aside from licensing, it's very unlikely to be the best choice for you. The thing that makes Windows good are the domain services. If you have AD DS setup, then yeah, use Windows Server for your file server. \n\nSince I'm guessing that's not the case, you should probably be looking at TrueNAS or Unraid. Or, if you want to dive deeper, setting up shares on a headless Linux distro (Debian, Ubuntu, etc), setting up Proxmox, etc.",
+            "Forgot to mention, I\u2019m looking for some guidance. If I go with the 10g nic< should I do rj45 or melanocyte connection. I will be using the unraid server for production type work",
+            "What are you doing, videos? Might want to consider bigger or array cache drives... That way you can use the full 10g, otherwise you'll fill up your cache and the spinning drives will max out super fast.",
+            "RJ45 is good for 30m with cat5e/cat6 as long as you have a decent cable. \nHowever. It's best to buy a network card with SFP+ as you can change the connection type as you please. Plenty of second hand network cards available",
+            "Honestly, you\u2019re using spinning drives. Unless you\u2019re pulling to/from the nvme drive at max capacity that 10g isn\u2019t going to help you any. But to keep things simpler, heat way down, I went with the qnap Qhora 322 router as an all-in-one and kept it rj45.  I\u2019d definitely jump for more than 1g but going for 10g, at least in my case, doesn\u2019t serve any purpose when I\u2019m WAY limited by IO of the drives.",
+            "Thanks for info.  If I went with a sub $300 setup - 10t nic with sfp+, do you have any recommendations/. I have a threadripper TRX50 motherboard that has 2.5 and 10G networking. Does it make sense to go with SFP_",
+            "Oh, if you have it built in then you're fine. \nI was only recommending SFP+ if you needed to buy an add in card. \nJust use what you have unless you need to do over 30m cable run off course, then you will need fibre."
+        ]
+    },
+    "Turning old PC into server (noob here)": {
+        "title": "Turning old PC into server (noob here)",
+        "score": 2,
+        "url": "https://www.reddit.com/r/unRAID/comments/1dltrqu/turning_old_pc_into_server_noob_here/",
+        "content": "Hi everyone,\n\nI want to turn my old PC into a server for Plex, storage and a Minecraft (private) server. The parts I already own are:\n\n* Intel Core i7 4790K\n* MSI Z87-G45 Gaming motherboard\n* Kingston HyperX Fury 2x8GB DDR3 1866 MHz\n* 16 TB Seagate Ironwolf PRO ST16000NT001\n* 2x8 TB Seagate Ironwolf NAS ST8000VN004\n* 3 TB Seagate Barracuda ST3000DM001\n* GPU ASUS R9 290X 4GB (if needed)\n* Corsair Carbide Series 200R case\n\nWhat I plan to buy:\n\n* Samsung 970 Evo plus (to use with an ASUS Hyper M.2 expansion card) (BIOS flashed to work with NVME)\n* PSU (haven't decided yet probably a Seasonic \\~500W)\n* Noctua NH-L9i CPU cooler\n\nDoes this setup make sense? How would you configure the harddrives? I need one HDD for parity and backup, right? I've never build a server before so any suggestions are very welcome. ",
+        "num_comments": 5,
+        "comments": [
+            "Yes, you need one HDD for parity, but not backup. Backup should be somewhere else. You must choose 16tb as parity because other disks cannot be larger than your parity disk.",
+            "Yes those parts are all fine. I'd suggest reading some Unraid guides or the many videos for installing fresh, esp from SpaceInvaderOne channel, just to get an idea.\n\nUnraid uses the largest drive as parity - the thing is any extra space on it will go to waste.\n\ne.g. if you want to use your current drives you must use the 16TB one as parity but then 8TB of it goes to waste. If you happen to buy another 16TB drive (maybe a refurb one on sale) then you can use that as a data drive, have it fully protected as well. \n\nMake sure your motherboard and case have enough SATA ports and slots to fit all the drives you need.",
+            "Thanks for the feedback. Does that leave the other 3 HDDs for storage then?",
+            "Thanks for the comment and suggestion. I'll definitely be expanding with a 16 TB drive at some point but that will also mean a new case. Checking out SpaceInvaderOne right now and it's just what I need!",
+            "Yes"
+        ]
+    },
+    "Where is unRaid 7/6.13?  ": {
+        "title": "Where is unRaid 7/6.13?  ",
+        "score": 29,
+        "url": "https://www.reddit.com/r/unRAID/comments/1dlcjh9/where_is_unraid_7613/",
+        "content": "Does anyone know what is going on with the release of unRaid 7/6.13?  u/unraidOfficial ?\n\nThere hasn't been much talk since the April Digest thread about when this release is coming out (which turned out to not be the case).   There was no May Digest thread, even though June is 3/4s over now.\n\nI hope the silence is just them being heads down trying to iron out all the bugs, but I worry that something else might be happening.   I've seen this happen when a merger or sale occurs and the company goes silent until it's announced.\n\nI just want Intel Arc support!   ZFS stuff would be cool too, I guess.",
+        "num_comments": 95,
+        "comments": [
+            "I want VM snapshots",
+            "Of course they could have a public roadmap, but I'm fine for them being silent as long: 1. Security problems are taken care ASAP and 2. The overall quality of releases is good.\n\nThe only wish I have is if they could release the latest stable [kernel](https://kernel.org/) once in a while that is not bound to a fixed/frozen release, so that people can at least use newer hardware on the spot.",
+            "Unraid 7 has been teased by spaceinvader one over the last while. And has been in closed beta for a while now. \n\nI have no issue with the wait. It'll be the same people who are rushing the release that will complain about it being rushed when it has bugs",
+            "Two weeks. (TM)",
+            "They won\u2019t admit it, but they\u2019ve been dropping the ball for a while now on communication. \n\nThe marketplace Unraid operates in is getting more contested and Unraid needs to do better, much better. \n\n-TrueNAS scale, a free and open source platform, is switching to docker at its core. \n\n-CasaOS is getting traction and attention, and is again, free and open source. \n\n-HexOS, which is apparently made by some ex Unraid devs, partially funded by Linus from LinusTechTips fame is working to have a low barrier to entry middleware based upon TrueNAS.\n\nUnraid is the \u201cpremium\u201d product from a price perspective but is let down by a poor community management team, which is sad to see happen to an app built on the considerable effort of it\u2019s community developers.",
+            "As far as I know, they don't commit to release dates. It'll be out when it's ready.",
+            "I'd rather Unraid wait until it's ready than push it out in a rush and end up causing issues. There are a lot of ZFS changes coming, so not really a surprise they are taking their time.",
+            "What I need is a NAS that will support \"Intel ARC A380\", I don't care who they are at this point. I bought the parts for a DIY NAS so I can move my Plex server over to it, so I can do transcoding on the fly.",
+            "Where are the promised 'faster updates and new features' ??\n\nThey doubled the price, got millions in sales, and its been complete silence. \n\nthe last interview with the founders promised only ZFS features. I don't want ZFS, its completely pointless for home users. I want them to fix the slow speeds, fix bugs and keep it simple.",
+            "It's kinda comical how many times they've said beta is \"coming soon\" at this point"
+        ]
+    }
+}

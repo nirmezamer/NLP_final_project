@@ -1,0 +1,83 @@
+{
+    "IMPORTANT: Beware of the scams!": {
+        "title": "IMPORTANT: Beware of the scams!",
+        "score": 735,
+        "url": "https://www.reddit.com/r/flipperzero/comments/y27qi4/important_beware_of_the_scams/",
+        "content": "Hi everyone!  \n\n\nWe've recently started seeing a lot of scam accounts on different social networks that claim that they are official Flipper Zero store accounts. We're actively working on removing them, but please remember that **the only official stores for Flipper Zero are listed here:** [**https://flipperzero.one/how-to-buy**](https://flipperzero.one/how-to-buy)**.**\n\nAll the sales are done through store webpages, **if you have to DM someone to buy the device from us - you're getting scammed.** All our social accounts are listed at the bottom of [our website](https://flipperzero.one), anything that's not present there (e.g. \"regional\" Instagram accounts) are in no way related to us.   \n\n\nTLDR: If someone with a Flipper profile pic/username wants you to DM them to buy a Flipper Zero - that's not us, that's a scam.",
+        "num_comments": 372,
+        "comments": [
+            "Happy to see that Joom is your new partner just bought one from there",
+            "So the joom thing isn\u2019t a scam?  It says that the store is temporarily closed when I clicked on it.",
+            "Please dm, call, knock at my fuckin door, whatever you gotta do too let me know when I can buy one in the USA. Been searching for a week now and starting to get depressed",
+            "Joom appears sort of scammy themselves. Like, throwing around 10% vouchers for new customers, even 20% on singles day - and then letting you know you get only 1%(!) when the egg is in the basket.   \nFeeling screwed. Will not buy anything else from them.",
+            "I live in the US/MX border. Will probably order one to my friend's house in MX although I wish I could just order directly to the US",
+            "Got a PM on Instagram from \"topflipperzero\" account. Most probably it's a scam messaging everyone subscribed to the official Flipper account, I hope nobody buys anything from these scammers and please try to take down this account. Screenshot: https://imgur.com/a/4kvrNtB",
+            "How to report scam sites",
+            "Are there any plans to have UK stock rather than shipping from outside the UK as VAT adds on an extra $40 or so.",
+            "**Adding the following link to the scams list:**\n\n[https://logzrus.myshopify.com/products/flipper-zero](https://logzrus.myshopify.com/products/flipper-zero)\n\nThe owner of the logzrus shop claims to have dozens of Flippers he's selling for well below original price. See the following posts where he makes various claims, promises to post photographs to prove ownership, then posts pictures he's stolen from the internet which are easily proved via reverse-image search:\n\n[https://www.reddit.com/r/flipperzero/comments/109f0bo/to\\_everyone\\_that\\_didnt\\_believe\\_me\\_i\\_am\\_reposting/](https://www.reddit.com/r/flipperzero/comments/109f0bo/to_everyone_that_didnt_believe_me_i_am_reposting/)\n\n[https://www.reddit.com/r/flipperzero/comments/109fodc/once\\_again\\_shout\\_out\\_to\\_ujddddddddd\\_but\\_i\\_am\\_for/](https://www.reddit.com/r/flipperzero/comments/109fodc/once_again_shout_out_to_ujddddddddd_but_i_am_for/)",
+            "**Beware of eBay price gougers and scammers!**\n\nI see a FlipperZero listed on eBay right now for $300 (\"Buy It Now\") and others similarly priced all the time.   I asked the seller why so high a price when anyone can buy it on the manufacturer's website for $165.  The response:  \"*Well first if you buy it from the website it\u2019s $200 after tax and shipping, second takes over a month to get to you and even then they get seized all the time. It\u2019s extremely hard getting these.*\"  I say horse crap to that.  I bought mine from Flipper Devices Inc and got it for $169 (plus tax and shipping (shipping was less than $10)) and it shipped in about two weeks."
+        ]
+    },
+    "Amiibos to blank NFC NTag215": {
+        "title": "Amiibos to blank NFC NTag215",
+        "score": 4,
+        "url": "https://www.reddit.com/r/flipperzero/comments/1dqyic7/amiibos_to_blank_nfc_ntag215/",
+        "content": "Sup y'all! I've been playing with my F0 and the switch with no issues to emulate the Amiibos, I tried to write some on blank NFC tags and the switch doesn't read it, just give me the \"no no\" sound. When I can the NFC tag with another app like Amiibo Vault on the phone, it's detected properly and shows me the correct Amiibo.\n\nAnyone had the same issue? Thanks!",
+        "num_comments": 2,
+        "comments": [
+            "you cannot currently write amiibo files to ntag215s correctly. amiibos being encoded into ntag215s requires the password and other data fields to be diversified based on the tags UID and lock bits needs to be set, this functionality has not yet been added to the flipper and is why you're facing this problem.",
+            "Use AmiiBoss\ud83d\ude4f\ud83c\udffc"
+        ]
+    },
+    "Parking gate opening protocol": {
+        "title": "Parking gate opening protocol",
+        "score": 21,
+        "url": "https://www.reddit.com/gallery/1dqjs9q",
+        "content": "Hi, how can I figure out what kind of communication does my office parking is using? To emulate the parking card with flipper. \n\nThe way it works:\nYou drive with the car into dedicated spot (I assume it activates the reader). \nThen I point the card (2nd photo) to the reader (1st photo) and the gates open. \n3rd photo - bearly bisible conture of the coil inside the card. \n\nI tried reading card as nfc and rfid with flipper - no results. \n\nPlease advise what kind of comunicatiin protocol this is, and how can I emulate it with flipper. \n \n\n",
+        "num_comments": 22,
+        "comments": [
+            "It's UHF. You can't.",
+            "This is UHF. You will need to build a module using a YRM100 for the flipper. You'd be better off trying to copy your card with one of these:\r\nhttps://a.aliexpress.com/_mMCpcpa\nIt comes with much better software.",
+            "Looks like UHF, [this](https://github.com/frux-c/uhf_rfid) might help.",
+            "If you don't own it don't try and hack it!",
+            "UHF reader",
+            "Ask the person that gives you the cards...",
+            "Flipper can\u2019t read that , u need a different antenna with 300 megahertz and 3 gigahertz. I don\u2019t know if someone make an extension for that",
+            "Did you scan the card reader?",
+            "uhf rfid",
+            "This is what many new people on the sub miss. If it isn\u2019t yours it\u2019s illegal to hack it."
+        ]
+    },
+    "Sentry safe": {
+        "title": "Sentry safe",
+        "score": 13,
+        "url": "https://www.reddit.com/gallery/1dql3zy",
+        "content": "Hello, I purchased this safe on marketplace because it didn\u2019t have the code for it. I\u2019ve been attempting to use the sentry safe app on the flipper to open it. However I haven\u2019t had much luck so far. Every video I have seen about this the keypad has only two connectors. Mine has three. I\u2019m assuming the green and yellow wire are the ones I\u2019m supposed to be going for. I\u2019m just curious if the vulnerability is possible still on this model? I haven\u2019t found much info searching online besides one YouTube comment ",
+        "num_comments": 6,
+        "comments": [
+            "I made a YT video on this - the bypass isn't applicable for these models.",
+            "\"This is the Lockpicking Lawyer, and today I have for you...\"",
+            "Thank you for letting me know, I wanted to make sure it wasn\u2019t possible before I kept attempting to",
+            "And you read it in his voice too \ud83d\ude02",
+            "Here's the link, should anyone be interested:\nhttps://youtu.be/uPeYRFRiYo4",
+            "\"...in any case, that's all I have for you today...\""
+        ]
+    },
+    "Cant Crack Mifare Classic 1k": {
+        "title": "Cant Crack Mifare Classic 1k",
+        "score": 6,
+        "url": "https://www.reddit.com/r/flipperzero/comments/1dqlrqy/cant_crack_mifare_classic_1k/",
+        "content": "do not link me to [https://docs.flipper.net/nfc](https://docs.flipper.net/nfc)\n\ni have read it back to front\n\nI'm having an issue with a fob that i'm trying to crack, i can emulate it, but i want to dupe it. However i did a dict attack, and its found 0/32 keys on all 16 sectors\n\n  \nI tried doing an ~~attack~~ detect reader, but i didnt collect any nonces at all, i cant even use a FlipperNested attack, as that requires atleaset 1x nonce.\n\n  \nIs there anything else i can do, is there a bigger dictionary i can use? or can i use my PC's power to crack /brute the sectors with my CPU.\n\n  \nThanks",
+        "num_comments": 8,
+        "comments": [
+            "If you cannot collect nonces from the reader, it is possible that your card is a dual technology card (every MIFARE Classic reader is vulnerable to Mfkey32). Shine a bright light through your card and ensure that it's not using two different technologies: https://www.asiarfid.com/wp-content/uploads/2020/05/RFID-smart-card-02.jpg. If it is, you'll need a dual tech card, because the reader is not authenticating with the high frequency chip in the card.\n\nMy guess is LF+HF or UHF+HF.",
+            "Been looking for a nice comparison pic, thanks for that link.",
+            "I cant do this, as it isnt a card, its a fob. Looks like:\n\n[https://www.came.com/entrotec/sites/entrotec/files/styles/image\\_1000x667/public/2022-03/eTag-S.jpg?itok=b4cDsoj5](https://www.came.com/entrotec/sites/entrotec/files/styles/image_1000x667/public/2022-03/eTag-S.jpg?itok=b4cDsoj5)",
+            "Looks like, or **is** that fob? eTag-S isn't advertised as HF.\n\nDo yourself a favor and get [this app](https://lab.flipper.net/apps/nfc_rfid_detector) on your Flipper Zero and hold it up to the reader. What does it say? If it doesn't say NFC, you're wasting your time attacking it as an NFC fob.",
+            "IS that fob",
+            "Okay. It most likely isn't reading the fob as MIFARE Classic then, follow the step I shared above for detecting whether the reader is using NFC or LF RFID.",
+            "comes back as NFC - 13.56",
+            "Interesting. So it's possible that you have a HF-UWB tag. That or the Flipper isn't talking to the reader (make sure you have updated your firmware to get the latest NFC stack).\n\nEdit: This question was solved on the Discord. The tag is MIFARE Classic using UID \"auth\", there are no nonces from Detect Reader because there's effectively zero security on tag."
+        ]
+    }
+}

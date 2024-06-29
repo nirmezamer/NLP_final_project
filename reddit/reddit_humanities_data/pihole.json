@@ -1,0 +1,73 @@
+{
+    "Frequently Asked Questions": {
+        "title": "Frequently Asked Questions",
+        "score": 714,
+        "url": "https://www.reddit.com/r/pihole/comments/frum61/frequently_asked_questions/",
+        "content": "There are frequent repeated questions on this subReddit, and this sticky is intended to help you find an answer before you post.\n\nFirst, search this subReddit using the search tools provided, and your question and answers may lie here.  If so, you will likely find some discussion of interest and many times a link to the Discourse FAQs (Discourse is our official support site).\n\nFor a listing of all the Discourse FAQs sorted by most viewed, see [here](https://discourse.pi-hole.net/c/faqs?order=views), however here are a few choice selections\n\n#### FAQs most frequently encountered on Reddit.\n\n---\n - **Q**: **How do I block YouTube ads? (short answer - Not with Pi-hole)** \n - **A**: https://discourse.pi-hole.net/t/how-do-i-block-ads-on-youtube/253\n\n---\n - **Q**: **Why am I seeing strange requests in my query log?**\n - **Q**: **e.g `9d8ejfsdsdf9`**\n - **A**: It's usually Chrome. https://support.umbrella.com/hc/en-us/articles/115005876643-Unusual-DNS-queries-showing-in-reports\n\n---\n - **Q**: **Why am I seeing ads, or why can I not load the content I want to load?**\n - **A**: https://discourse.pi-hole.net/t/how-do-i-determine-what-domain-an-ad-is-coming-from/1522\n\n---\n - **Q**: **How do I configure devices to use Pi-hole?**\n - **A**: https://discourse.pi-hole.net/t/how-do-i-configure-my-devices-to-use-pi-hole-as-their-dns-server/245\n\n---\n - **Q**: **My router won\u2019t let me assign DNS.  What other options do I have to get Pi-hole on the network?**\n - **A1**: https://discourse.pi-hole.net/t/how-do-i-use-pi-holes-built-in-dhcp-server-and-why-would-i-want-to/3026\n - **A2**: https://discourse.pi-hole.net/t/why-wont-pi-hole-work-with-dns-rebind-protection-enabled/3142\n\n---\n - **Q**: **Why do all my DNS queries appear to come from my router, and not from individual clients?**\n - **A**: https://discourse.pi-hole.net/t/why-do-i-only-see-my-routers-ip-address-instead-of-individual-devices-in-the-top-clients-section-and-query-log/3653\n\n---\n - **Q**: **I see that some users have a second DNS assigned in addition to Pi-hole.  Why is this not recommended?**\n - **A1**: https://discourse.pi-hole.net/t/why-should-pi-hole-be-my-only-dns-server/3376\n - **A2**: https://discourse.pi-hole.net/t/primary-vs-secondary-dns/1536\n\n---\n - **Q**: **How can I bypass Pi-hole for some of my clients on the network?**\n - **A**: https://discourse.pi-hole.net/t/how-can-i-use-pi-hole-for-all-my-devices-except-one-or-more/3372\n - *nb. this FAQ is current for V4.x, V5 will have built in per-client blocking).*\n\n---\n - **Q**: **Is it OK to run other software alongside Pi-hole?**\n - **A**: https://discourse.pi-hole.net/t/can-i-run-other-software-along-side-pi-hole/8684\n\n---\n - **Q**: **How do I add blocklists to Pi-hole?**\n - **A**: https://discourse.pi-hole.net/t/how-do-i-add-additional-block-lists-to-pi-hole/259\n\n---\n - **Q**: **How do I revert to the original blocklists offered by Pi-hole at installation?**\n - **A**: https://discourse.pi-hole.net/t/restoring-default-pi-hole-adlists/32323\n\n---\n - **Q**: **I want to access my Pi-hole remotely.  Should I open port 53?**\n - **A**: https://discourse.pi-hole.net/t/accessing-pi-hole-outside-of-my-lan/13705\n\n---\n - **Q**: **Where is a good guide for each of these?**\n - **A - Unbound**: https://docs.pi-hole.net/guides/unbound/\n - **A - Cloudflare DoH**: https://docs.pi-hole.net/guides/dns-over-https/\n - **A - VPN for using Pi-hole from Home**: https://docs.pi-hole.net/guides/vpn/overview/\n\n---",
+        "num_comments": 4,
+        "comments": [
+            "[removed]",
+            "[removed]",
+            "[removed]"
+        ]
+    },
+    "Pi-hole Core v5.18 released to fix an Authenticated Arbitrary File Read with root privileges vulnerability": {
+        "title": "Pi-hole Core v5.18 released to fix an Authenticated Arbitrary File Read with root privileges vulnerability",
+        "score": 82,
+        "url": "https://pi-hole.net/blog/2024/03/27/pi-hole-core-v5-18-released-to-fix-an-authenticated-arbitrary-file-read-with-root-privileges-vulnerability/",
+        "content": "",
+        "num_comments": 8,
+        "comments": [
+            "v5.18.1 released to allow proper comparison.",
+            "Docker image: `2024.03.1` (containing Pi-hole core v5.18.1)",
+            "Hello pihole team, for a dumbass like me, can you explain in simple words what it does and how you fixed it?",
+            "good job\ud83e\udd18\ud83c\udffb",
+            "I'm having an issue updating from 5.17.3 to this latest one.\n\nI keep getting this error:\n\n> [i] Checking for updates...\nerror: inflate: data stream error (invalid code lengths set)\nfatal: packed object 974bba4a45427e628165e6e229984b810dcec2de (stored in .git/objects/pack/pack-89c2de7ea253cd07c1244f247d3ae4e7766bf986.pack) is corrupt\nfatal: the remote end hung up unexpectedly\n\nand then nothing updates. Any help?",
+            "Small note, on my pi-hole web interface it does not show me that an update is available. does this take some time or?",
+            "You could add a `file:///` in as an ad list and Pi-hole would read the contents of the file. If the contents were not domains then the non-used lines were printed to the terminal to show a sample of what lines were not being used, exposing the contents of the file. Now any files being used for lists need to be world-readable so sensitive files can not be accessed.\n\nYou would need admin access to exploit this, you'd have to be able to add a local file as an adlist and then view the output from `gravity` but it was not a good situation. It also only really became an issue when we added in the process to display a sample of unused lines from list sources. \n\nPossible solution was to remove the display of unused lines but that would remove what some users found to be a good thing, the better solution was to just limit what can be seen by Pi-hole/FTL.",
+            "The remote update check does not happen immediately, you'll eventually see the notice but it could take up to 24 hours. You can update at any time and you will get the newest version."
+        ]
+    },
+    "Pegboard and older tech = stats screen": {
+        "title": "Pegboard and older tech = stats screen",
+        "score": 25,
+        "url": "https://www.reddit.com/r/pihole/comments/1dqhp3h/pegboard_and_older_tech_stats_screen/",
+        "content": "[Stats](https://preview.redd.it/5qicv6mjva9d1.jpg?width=4080&format=pjpg&auto=webp&s=dbfda9201090f7ee51537031d8f53ef68f423e5c)\n\nUsing an old Lenovo Yagobook Win 11 tablet, some Skadis pegboard realestate and a fullscreen Chrome window, here's a nice Pi-Hole stats monitor. It also shows a screensaver clock but this will be a nice addition.",
+        "num_comments": 2,
+        "comments": [
+            "I'm a sucker for repurposing old tablets into displays for things like this around the house.  Looks great!",
+            "That\u2019s clever!"
+        ]
+    },
+    "Chrome/Brave Font Issue - What could be causing this?": {
+        "title": "Chrome/Brave Font Issue - What could be causing this?",
+        "score": 9,
+        "url": "https://i.redd.it/g66tb6fjtb9d1.png",
+        "content": "",
+        "num_comments": 8,
+        "comments": [
+            "You need to add \"fonts.gstatic.com\" to your whitelist",
+            "You need to provide more information.\n\nWhat is the Operating System? Browser version? Do you see any error or warning message related to fonts in your browser's Console (developer tools)?\n\n**EDIT:**\n\nOne more question: Do you have the font *\"Source Sans Pro\"* locally installed in your machine? If you do, that's probably an issue with your local font. Uninstalling the font should fix the issue.",
+            "When I load the page via Firefox, Edge or Safari it looks fine but in Chrome/Brave it comes up like this. Multiple instances too. Thoughts?",
+            "If you open it up in Chrome on another computer, does it also do that? And have you tried deleting the browser cache?",
+            "You not using Firefox causes this.",
+            "This is the issue. I\u2019m not sure why some blocklists include this.\u00a0",
+            "The web interface fonts are served from Pi-hole itself.",
+            "The computer i'm accessing the console through is not going through PiHole though..."
+        ]
+    },
+    "Will pi-hole work across the whole network if it's only hooked up to an AP within the network? ": {
+        "title": "Will pi-hole work across the whole network if it's only hooked up to an AP within the network? ",
+        "score": 0,
+        "url": "https://www.reddit.com/r/pihole/comments/1dqytc7/will_pihole_work_across_the_whole_network_if_its/",
+        "content": "Hi, so I set up a pi-hole yesterday but I only hooked it up to the access point within my home office but not on the router that feeds all the APs around the house. Can I still use pi-hole as my DNS server across all the other APs and the main router or is it limited to just this one AP I have it hooked up to? \n\nMy limited knowledge on networking tells me that the answer is yes, but I needed to know for sure. ",
+        "num_comments": 5,
+        "comments": [
+            "Should be able to, just be aware all of your networks DNS traffic will then be routed through that AP.  Traffic is lightweight so that generally isn't an issue as much as reliability (if it's wifi connected).",
+            "Either the PC or the router gets configured with the DNS server address, or both.  So, whoever uses the DNS server address uses the pihole and it's features.  The AP itself isn't handing out the DNS server, unless you specified that somewhere, but they don't usually do that.  APs just provide access to the network.  But the router will hand out the DNS server address, and you can still specify on the machine a DNS server to use or bu default it will generally use what is configured on the router.",
+            "Can the devices on all of your networks ping the Pi-Hole and port 53 hasn't been blocked? If so, it should still work if the Pi-Hole is set as their DNS.",
+            "So it would be more suitable if the pi-hole was hooked up to the house's main router right? The same router feeding all the other APs?",
+            "Yes, though it shouldn't necessarily be a requirement.  Usually an AP provides a wifi layer to your home LAN, so it can be connected directly to the router, or through an access point and still receive DHCP from the same central router.\n\nWhat is important is that you configure the DNS server address that your router hands out to the rest of the client on your network to be the local address of the pihole.  That way everyone is directly to that machine.  If you do a wifi DNS server, whenever that wifi has issues all of your network might experience DNS issues.  So yes ideally using a wired connection is recommended."
+        ]
+    }
+}

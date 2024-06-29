@@ -1,0 +1,69 @@
+{
+    "[DDR5 2x16GB] [8000mhz] [32-45-45-35-40-75 115ns] [1T/GDM disabled] @ 1.69v": {
+        "title": "[DDR5 2x16GB] [8000mhz] [32-45-45-35-40-75 115ns] [1T/GDM disabled] @ 1.69v",
+        "score": 5,
+        "url": "https://www.reddit.com/r/overclocking/comments/1dltvnf/ddr5_2x16gb_8000mhz_324545354075_115ns_1tgdm/",
+        "content": "https://preview.redd.it/oyhtf328148d1.png?width=1228&format=png&auto=webp&s=cf8eac4d252a74713af23763b2705c53e537f472\n\nhttps://preview.redd.it/sy15gew8148d1.png?width=1159&format=png&auto=webp&s=54440305e245262dc84f5410882f2d9aeee243c1\n\nI had an 8200 kit that cost me more than this kit, so, IMO, just a reminder that when it comes to a-die, probably best to roll the silicon lottery on a cheaper kit rather than paying more if you're going to OC. I got this kit from AliExpress for \u00a365 in a sale.\n\nMy 8200 kit had tRP stuck at 43 at 8000, used 1.75v for tCL32 and tRFC was at 120.\n\nThis kit took a bit more tuning to match tPHYRDL at 8000, liking more VDDP than the other kit and I used 2/2/2 on the phaseshifts.\n\nAnd yes, it needed 1.69v VDD. Didn't just do it for memes. 1.68v brought an error an hour and something in.\n\nhttps://preview.redd.it/2xapawdo148d1.png?width=2150&format=png&auto=webp&s=561c61e786a2446cb957c16f256bc29e3b7e33f9\n\nI've played a bit with tCL30, but it's needing like 1.92v and it's really just the read bandwidth being pumped a bit more at this point. 11.125w max pumping through each DIMM \ud83d\ude02\n\nEven on water, I'll stick with tCL32 \ud83d\udc4d",
+        "num_comments": 2,
+        "comments": [
+            "That read bandwidth is marginally better despite a 0.23v increase in RAM VDD. At 8000 MT/s and up, lowering tCL that low is more about shoving voltage into it than it is a worthy performance increase.\n\nNevertheless, seeing tCL 30 at 8000 MT/s is impressive even if nearly 2v.",
+            "Latency would probably be better as well if the CPU wasn't the limiting factor at this point. I don't have the best 7950x3D and AIDA can become quite CPU sensitive with latency when pushing this hard.\n\nBut yeah, tCL dropping on its own is just about eating voltage now. Nothing else really scales with voltage at this level. tRP is a much more beneficial timing when it comes to read speed/Karhu speed."
+        ]
+    },
+    "9000 MHz ddr5 imc max bootable speed (user request ) Mc 90 14900ks": {
+        "title": "9000 MHz ddr5 imc max bootable speed (user request ) Mc 90 14900ks",
+        "score": 2,
+        "url": "https://i.redd.it/rttvr3gg348d1.jpeg",
+        "content": "my max ddr5 spped I can post and use \n( not vst stable ) user request *\n8600 c36 is my 24/7 \n\nddr5 9000 cl 40 primaries set , evrything else is auto not touched ",
+        "num_comments": 5,
+        "comments": [
+            "You should see what it could do on that new asrock lightning board",
+            "It's not usable but it's still cool to see. Wonder if they camm2 will make this easier to achieve.",
+            "was thinking the same , you would think slightly less since the apex is higher end but you never know maybe it has better training ect .",
+            "it is usable .I said in the post it's not vst stable buddy just wanted to see it on adia 64",
+            "yeah no doubt 9000-10000 \ud83d\ude35"
+        ]
+    },
+    "Do I need OC my RAM with X3D CPU?": {
+        "title": "Do I need OC my RAM with X3D CPU?",
+        "score": 5,
+        "url": "https://www.reddit.com/r/overclocking/comments/1dloc51/do_i_need_oc_my_ram_with_x3d_cpu/",
+        "content": "After changing my CPU to 5700X3D from 5600x (which used to work with 3600 CL14) and latest BIOS update which reset BIOS to default I didn't touch memory since then, just JDEC 2133 Mhz, tried few games and then tuned memory to 3733 CL16 and run this games again (Valorant, cyberpunk) and seems there's no benefit from it. Should I really try to improve something on memory side or just leave it as it is now? Maybe some other games or applications can improve performance with better tuned ram?",
+        "num_comments": 13,
+        "comments": [
+            "the 3d cache makes faster ram less necessary (impactful) but it's still better to have faster/tighter than not, since it'll still bring up the bottom end of your frames.",
+            "should be able to measure a difference in fps between 2133 and 3733, that's an interesting result unless you're gpu limited. what gpu do you have?",
+            "X3D CPUs are far less memory dependent: https://youtu.be/XW2rubC5oCY?t=426\n\nJust use XMP and leave it there. Stability will be far more beneficial",
+            "It can let you squeeze out a few more percent in performance.",
+            "In Cyberpunk there's no difference, exactly same results, but I'm pretty sure I'm gpu limited there. My GPU is 3070.",
+            "They still benefit quite a bit from increase 1% lows.",
+            "Test games that aren\u2019t GPU limited..",
+            "You're gpu limited a lot.",
+            "* 3.1% between XMP 6000 and tuned 6000 on the 1% on 7950X3D\n* 12.12% between XMP 6000 and tuned 6000 on the 1% on 7700X\n\nFeel free to give that your own subjective label. I'd call it more than margin of error, less than significant.",
+            "Yeah Valorant isn't, but as I said it's the same"
+        ]
+    },
+    "4x8gb 1.42v STABLE (karhu,tm5,ycruncher,corecycler,NOWHEA) Any recommendations? (see comment)": {
+        "title": "4x8gb 1.42v STABLE (karhu,tm5,ycruncher,corecycler,NOWHEA) Any recommendations? (see comment)",
+        "score": 1,
+        "url": "https://i.redd.it/a1ye64vyk48d1.png",
+        "content": "",
+        "num_comments": 1,
+        "comments": [
+            "22/06/2024 notes: Will be tightening tRC tonight when I can benchmark overnight with karhu.\n\n15,8,16,13 Cannot be tightened more with current voltage.\n\nTemperatures for DAILY operation are preventing me from running higher voltage due to temperature instability."
+        ]
+    },
+    "Watercooling pour i5-13600KF/i5-13600KF OC et i5-14600KF/i5-14600KF OC": {
+        "title": "Watercooling pour i5-13600KF/i5-13600KF OC et i5-14600KF/i5-14600KF OC",
+        "score": 1,
+        "url": "https://www.reddit.com/r/overclocking/comments/1dls8ki/watercooling_pour_i513600kfi513600kf_oc_et/",
+        "content": "Hello,\n\nI'm going to build a PC and I'm looking for a watercooling.\n\nFor the moment, I'd like to take an i5-13600KF that I intend to overclock, but I'm thinking of giving it to a colleague to upgrade to a 14th that I'd like to overclock if possible.\n\nAt first, I was going for a Corsair Link H150i because I love the \"no cables\" connection system and also because I'm taking a 5000D airflow and Corsair ram. But the price (250 euro) really puts me off.\n\nSo, I'm thinking of getting the Thermalright Frozen Notte 360 and I'd like to know, firstly, if it's enough for each of my configurations and, secondly, in which one it's going to be enough but short on margin.\n\nThen, if it's not enough, what watercooling would you recommend for each of these configurations?\n\nIn the event that the Thermalright Frozen Notte 360 is large enough for my use cases, I've heard someone say that they've modified the ventilation curve and I'd like to know how to do it because there's no software. I'm going to take an MSI Z790 Gaming Plus WiFi.\n\nThanks in advance\n\nPS: If you have anything to alert me about the Thermalright Frozen Notte 360 (noise, fan problem, rgb, pump,etc..) let me know.",
+        "num_comments": 4,
+        "comments": [
+            "If you want help you might use English",
+            "Few things here, if you\u2019re looking for a 360 AIO the Arctic Liquid Freezer III is basically the best performing AIO for under $250 here in the US (it\u2019s around $120 here). Since the company is German I also *think* you can get that for around \u20ac125 or less and avoid the huge markup a lot of computer components have in Europe, so it\u2019s an even better deal there. The Thermalright should also be fine because\u2026\n\nSecond, there\u2019s no real need for a 360 AIO for a 13/14600KF. I have a 13600KF running on a < $40 air cooler (Frost Spirit 140), and undervolted/overclocked by 300MHz on the P-cores and 200MHz on E-cores it never touches 70\u00b0 unless running something like Cinebench or y-cruncher (only pulls 155W). You would only need a 360 liquid cooling setup for more extreme overclocking, at which point why not buy a more powerful CPU than an i5?\n\nThird, do you already have a 13600KF? If so I wouldn\u2019t waste money to upgrade from a 13600KF to 14600KF. The performance increase is less than 5% and the 14600KF is already clocked 200MHz higher stock. Once you overclock both of them the difference is going to be even smaller. Even a 14700K is only going to give maybe 10% better performance. Of course it\u2019s your money so spend it how you want, but I\u2019m trying to understand your situation better to make a good recommendation versus just saying, \u201cspend a lot of money for no reason.\u201d",
+            "My bad, I forgot that it was an english channel. Thx",
+            "Thanks for your advice, I'm going to take a look at the Arctic Liquid Freezer III even though I've heard a many  negative feedback about the problems with its pump.\n\nI don't have an i5-13600KF, I wanted to say that I was hesitating between the 13th and the 14th generation and that I was going to test the first one and in case it doesn't suit me I'll change it with the other one.\n\nAs for taking a more powerful one (i7/i9), I'm not against the idea but knowing that I'll be playing in 1440P with a rx 7900xtx, I'm not sure it's really necessary, is it?"
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "Open Source AI Definition \u2013 Weekly update June 24": {
+        "title": "Open Source AI Definition \u2013 Weekly update June 24",
+        "score": 3,
+        "url": "https://opensource.org/blog/open-source-ai-definition-weekly-update-june-24",
+        "content": "",
+        "num_comments": 0,
+        "comments": []
+    },
+    "Recommend Open-source eBook Reader for Windows.": {
+        "title": "Recommend Open-source eBook Reader for Windows.",
+        "score": 5,
+        "url": "https://www.reddit.com/r/opensource/comments/1dr2qb2/recommend_opensource_ebook_reader_for_windows/",
+        "content": "I was searching for a good FOSS ebook reader for windows to read epub, mobi files but couldn't find any.  \nI love foliate but it's not available for windows.  \nRecommend something like foliate for windows.",
+        "num_comments": 6,
+        "comments": [
+            "https://librumreader.com",
+            "calibre - https://calibre-ebook.com/",
+            "My favourite is [Koodo Reader](https://www.koodoreader.com).",
+            "[Sumatra](https://www.sumatrapdfreader.org/free-pdf-reader)",
+            "Thorium is open-source!",
+            "You are correct. I don't understand why you're getting downvoted. Reddit folks are dumb."
+        ]
+    },
+    "OpenLoco version 24.06 released": {
+        "title": "OpenLoco version 24.06 released",
+        "score": 24,
+        "url": "https://openloco.io/news/2024/06/openloco-v24.06.html",
+        "content": "",
+        "num_comments": 3,
+        "comments": [
+            "Interesting. Never knew this before.\n\nIs OpenLoco somehow connected to OpenTTD?",
+            "Looking forward to the release that has 100% FOSS code.",
+            "No https://openloco.io/about/"
+        ]
+    },
+    "Any open source audio/vocal separator": {
+        "title": "Any open source audio/vocal separator",
+        "score": 2,
+        "url": "https://www.reddit.com/r/opensource/comments/1dqz4t7/any_open_source_audiovocal_separator/",
+        "content": "Bonus points if it is written in python or nodejs(ik highly unlikely) but still ",
+        "num_comments": 0,
+        "comments": []
+    },
+    "ejabberd 24.06 / ProcessOne \u2013 Erlang Jabber/XMPP/Matrix Server \u2013 Communication": {
+        "title": "ejabberd 24.06 / ProcessOne \u2013 Erlang Jabber/XMPP/Matrix Server \u2013 Communication",
+        "score": 1,
+        "url": "https://www.process-one.net/blog/ejabberd-24-06/",
+        "content": "",
+        "num_comments": 0,
+        "comments": []
+    }
+}

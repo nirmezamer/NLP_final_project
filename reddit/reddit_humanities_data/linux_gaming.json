@@ -1,0 +1,96 @@
+{
+    "Frequently Asked Questions 2.0": {
+        "title": "Frequently Asked Questions 2.0",
+        "score": 51,
+        "url": "https://www.reddit.com/r/linux_gaming/wiki/faq",
+        "content": "",
+        "num_comments": 44,
+        "comments": [
+            "Here you go: \n\n# [Frequently Asked Questions 2.0](https://old.reddit.com/r/linux_gaming/wiki/faq) \n\n\u2026expanded from the previous incarnation and wikified for convenience. \n\nStill a work in progress, naturally\u2026 thinking about putting up some \u201cunder construction\u201d GIFs. \n\n**This thread isn\u2019t meant for asking questions!** (though it\u2019s always possible someone might respond)\n\nSuggestions? Please post them here! \u2193\u2193\u2193",
+            "Steam doesn't create proton prefix for some games in the ./local/share/steam/steamapps/compatdata/ directory\n\nFor example Disco elysium appid 548430 folder is non existent in that directory and steam doesn't even launch the game, it just stops after 2 seconds.\n\nDeep rock galactic works fine and has a folder 548430 in the above directory.\n\nAny ideas how to force steam to generate the prefix files?\n\nTried reinstalling the game, moving it to different drive, different proton versions, some launch command I found googling and nothing works.\n\nI can run the Disco elyisum exe thought Wine command and it launches fine.\n\n  \nEdit: In case anyone is having the same issue. Solution was that the other drive weren't EXT4 type. When I formatted the SSD to that type, proton worked as usual.",
+            "Game closes within 1 sec as I hit play in lutris, what to do, using wine 7.2",
+            "I just got nvidia drivers working on Fedora 40 Plasma 6 using the rpmfusion guide.\nTheres a lot of flickering in apps etc, when can i expect any kind of update to help this?\n\nWill it be Fedora updates or Nvidia updates i should watch out for?\n\nAlso any fixes?",
+            "Is there an explanation why some game runs better on linux? I tried Alan Wake 2 on windows, encounter frequent texture popping switching between mind place, map, real world. Viewing notes or opening supply cache, I have to wait for the textures to properly load for few seconds. Sometimes, the textures simply won't load properly.\n\nBut on Linux, I didn't encounter this problem. The game load time also faster. The character dialogues during cutscene/loading screen is in sync perfectly - on windows the dialogues somehow was out of sync. Running on Fedora 40, RX7600.",
+            "I tried very hard but just can't understand this part of FAQ 2.0:\n\n>Java  \n  \nJava exists.",
+            "How do I combine the offline installer game files on gog to make the exe file game in linux? what tools will I need? I have wine, lutris, and nvidia proprietary drivers properly installed on fedora gnome.",
+            "whats the difference between official/gnome/KDE versions of nobara? what do those even mean?",
+            "how does EAC and all that realy work on linux. I get that its using a native EAC client but that deosnt work as good as the real one ofc, because it doesnt reach kernel level if im correct. So if i say im hwid banned on Fortnite by an example i would get kicked out of the game but if i install linux and go play there will i still get kicked by the same error as on windows? or can i play as usual again?",
+            "Baldur's Gate 3 crashes within about a minute on wayland, but runs fine on x11, anyone got any clues?"
+        ]
+    },
+    "Getting started: The monthly-ish distro/desktop thread!": {
+        "title": "Getting started: The monthly-ish distro/desktop thread!",
+        "score": 17,
+        "url": "https://www.reddit.com/r/linux_gaming/comments/1ddap0j/getting_started_the_monthlyish_distrodesktop/",
+        "content": "Welcome to the newbie advice thread!\n\n If you\u2019ve read the FAQ and still have questions like \u201cShould I switch to Linux?\u201d, \n\u201cWhich distro should I install?\u201d, or \u201cWhich desktop environment is best for gaming?\u201d \u2014 this is where to ask them.\n\nPlease sort by \u201cnew\u201d so new questions can get a chance to be seen.",
+        "num_comments": 51,
+        "comments": [
+            "installing Bazzite this weekend on my desktop. pretty confident, but I'm curious if people have a checklist or something that they like to run thru to make sure that a fresh install is working properly and try to catch any issues early on instead of in the middle of actually using it.\n\ncompletely unrelated to gaming, but any RDP client suggestions? that's the piece of the puzzle that I'm the least sure about. I'd be okay with keeping a Windows partition for just that purpose if needed since it only comes up a handful of times per year at my current job.\n\n**EDIT:** still haven't attempted RDP yet, but gaming on Bazzite has been nearly flawless right out of the box. super impressed so far. still need to tweak and tune KDE, but I think I'll shed the Windows dual boot as soon as those new nvidia drivers are official (assuming that fixes Discord screen sharing).",
+            "Absolutely done with microsoft so I'm gonna dive straight into linux. I've prepared everything and I feel completely ready to switch, but I'm still not too sure how to. I've got two PCs with VERY different use cases so I'd assume I would need different distros but some people have recommended to use the same for both? \n\nMy desktop is where I usually game but I do some video rendering/audio editing on it every now and then because of it's beefy cpu/gpu (amd). I've been thinking of installing either Bazzite or Nobara as I've heard those are pretty good. \n\nWhile it has a really good 13th gen i7, I mostly use my laptop to read articles, watch videos and write notes, not that much really. I've seen that mint is usually recommended for cases like this, specially because I'm not a programmer.\n\nDo these seem like good distros to pick? Or should I just do something like mint on both? Maybe once I know more about linux I'll give arch a try too, but I don't think it'd be the best idea right now.",
+            "I'm considering switching to Linux, but I have a couple of concerns:  \n1- Is there a lot of messing around to try and get games to work, practically speaking? I wanna be able to just play whatever game in my steam library.  \n2- I heard having an Nvidia GPU isn't great for Linux. Is that better now? I have a 3050, and I'm curious whether people have figured out the drivers for the card already if Nvidia hasn't cooperated yet.",
+            "Not sure this belongs here, but. Just upgraded from Fedora 38 to Fedora 40. Booted up Overwatch 2 installed via Steam from a flatpak. Before, it worked fine. Now, it is extremely laggy - 30s FPS at best, teens when there is action, and what feels like huge input lag. Any idea what this might be, or how to diagnose or fix it?\n\nI thought it might be cached shaders, so i tried \"clear download cache\" in Steam, but that didn't help. I'm not sure this actually clears cached shaders though. I haven't seen fossilize_replay running at any point.\n\nI'm on a Thinkpad with discrete graphics, and i've configured it to always use them, never the integrated graphics. glxinfo tells me \"OpenGL renderer string: NVIDIA GeForce GTX 1650 Ti with Max-Q Design/PCIe/SSE2\". I'm using Cinnamon for a desktop; XDG_SESSION_TYPE is x11.\n\nEDIT: Not sure this is gaming specific. Just using a browser feels sluggish. For my own reference, in Firefox:\n\n* [Speedometer 3.0](https://browserbench.org/Speedometer3.0/): 8.78 \u00b1 1.1\n* [MotionMark 1.3](https://browserbench.org/MotionMark1.3/): 235.46 \u00b1 9.70% @ 60fps\n\nMeanwhile, on my Pixel 7a, in Firefox for Android:\n\n* Speedometer 3.0: 6.93 \u00b1 0.39\n* MotionMark 1.3: 443.99 \u00b1 19.77% @ 60 fps\n\nI would say that is pretty sus.\n\nHowever:\n\n* Unigine Heaven 4.0: [62.41 fps](https://openbenchmarking.org/result/2406190-NE-PHORONIXT84)\n\nIf i'm reading their stats right, that's bang in line with a couple of other GTX 1650 results (although those aren't GTX 1650 Ti).\n\nRunning the benchmarks on the same hardware, but booted into Ubuntu 20.04.6:\n\n* Speedometer 3.0: 3.80 \u00b1 0.25\n* MotionMark 1.3: 706.38 \u00b1 3.02% @ 60fps\n* Unigine Heaven 4.0: [62.4649 \u00b1 0.35% fps](https://openbenchmarking.org/result/2406203-NE-UNIGINEHE96)\n\nOffice desktop (Ubuntu 22.04.4, beefy hardware, running in a half-screen window):\n\n* Speedometer 3.0: 4.62 \u00b1 0.22\n* MotionMark 1.3: 692.31 \u00b1 3.38% @ 60fps\n* Unigine Heaven 4.0: [29.4049 \u00b1 0.88% fps](https://openbenchmarking.org/result/2406207-NE-FILE5720098)",
+            "i am currently using ubuntu 23.10 as my main OS, but its getting to to point where i should probably do a clean install and im thinking about maybe swapping to a different distro. i have had a tinker around with endeavor and it does seem interesting. so what distro would you recommend to a intermediate skill level user for gaming and day to day usage",
+            "I run a RTX 3080, and plan on gaming on a 4k TV @ 60FPS with Vsync (or Fast sync, if that's available?) \n\n1. I've heard CachyOS is the \"best\" in terms of performance/optimization/input lag. Would it be completely foolish to jump into CachyOS, with no experience in Arch or Arch-based distros? \n\n2. How tedious is it to take a base distribution, such as Fedora or Debian, and optimize it for gaming? If I install a custom kernel, how difficult/annoying is it to keep the kernel up-to-date, and set as the default? And could it lead to system breakage when the distro updates?\n\n3. If I want to use Wayland, should I wait for the 555 drivers to go into stable?\n\nThanks for any help.",
+            "I used to daily drive Linux between about 2006 - 2014, usually Kubuntu, after which I mostly switched to W7 tho I kept using some Linux and BSD distros in a VM. Not for a while tho, since I've not had a PC of my own for the last few years. Occasionally using Termux on Android.\n\nMy favourite DEs were KDE3/Trinity and LXDE, usually with OpenBox tacked on. I don't like using cli if I can avoid it, tho it's fine when I need something specific. I like the layout style of Win9x with important stuff in the corners and in the bottom. The less transparency and tacky effects, the better. I just want to use stuff without much tinkering or distractions, but still want to set up stuff my way.\n\nI've not kept in touch. I don't quite understand what docker is or what installation method is preferred these days. I keep hearing about flatpaks and how the opinion on them varies.\n\nI used to use Wine extensively, incl. maintaining some apps. But I see that the Wine site hasn't changed in 20 years, not quite sure what state development is at... I hear Proton is all the rage these days? I'm not too obsessed with PC gaming, but I'd like to revisit some of my oldies, up to 2010-ish. In particular I wouldn't mind using a steering wheel (haven't picked up one yet) for racing.\n\nAlso, I don't and won't use Steam or anything with DRM. Will use my discs or stuff from Gog.\n\nSo where do I begin again? I hear Fedora is the most popular, but it seems a tad different from Ubuntu (tho I'm sure that has changed a lot in the last decade). And what about the other developments I've missed?\n\nEd: Also, what's the preferred boot manager these days, still GRUB? Is there any major difference between distros when it comes to hardware compatibility? And just wondering, how's FreeBSD/OpenBSD, is anyone using those as a user system?\n\nThanks.",
+            "Which distribution do you recommend for primarily playing games on Steam and _treasure from sailing the high seas_?",
+            "What's the best distro for an old laptop with some old i3 processor and integrated intel graphics that's too slow for modern windows? I want to play some older games on it at lower settings, and do stuff like Youtube",
+            "I have a Steam Deck, and would like to give Linux a try on my Desktop PC, Steam-specific customizations aside what Distro will be closest to the Steam Deck Desktop mode, so that things I learn to do in one machine (mostly) work on the other? I'm thinking Endeavour OS with KDE"
+        ]
+    },
+    "Any linux game recommendations for a 40mhz 486 machine with 28megs of ram ?": {
+        "title": "Any linux game recommendations for a 40mhz 486 machine with 28megs of ram ?",
+        "score": 84,
+        "url": "https://www.youtube.com/watch?v=BvlpdACNTUU",
+        "content": "",
+        "num_comments": 80,
+        "comments": [
+            "doom",
+            "28mb of RAM?\n\nWhat would you even DO with all that memory?!?!",
+            "Rogue\n\nAs in \"Roguelike\"",
+            "Nethack",
+            "Doom, nethack, rogue",
+            "Doom, Doom 2 and Quake 1 compiled against SVGAlib since no way in hell you're running display server on that thing.",
+            "supaplex!",
+            "Zork",
+            "Neofetch",
+            "Tetris \u2764\ufe0f\nbut what kind of tetris..."
+        ]
+    },
+    "Shadows: Awakening free on GOG( it's Gold on Proton)": {
+        "title": "Shadows: Awakening free on GOG( it's Gold on Proton)",
+        "score": 75,
+        "url": "https://www.gog.com/en/game/shadows_awakening",
+        "content": "",
+        "num_comments": 9,
+        "comments": [
+            "Cheers!",
+            "Marvellous game too. Tom Baker's voice acting is excellent!",
+            "Yeah, they're an interesting studio.  Their story guy is also interesting, haha.  Like the indie Chris Avellone.\n\nChris Bateman:\nhttps://onlyagame.typepad.com/\nhttps://blog.ihobo.com/\n\nI've been meaning to find time to make my way through Kult: Heretic Kingdoms before I tackle Shadows: Awakening though.",
+            "Thanks mate.",
+            "Thank you!",
+            "Good looks, I collect ARPGs like rare trinkets",
+            "r/suddenlycaralho ?",
+            "You're welcome!",
+            "No problem!"
+        ]
+    },
+    "Linux gaming on the high end is frustrating": {
+        "title": "Linux gaming on the high end is frustrating",
+        "score": 24,
+        "url": "https://www.reddit.com/r/linux_gaming/comments/1dlkymg/linux_gaming_on_the_high_end_is_frustrating/",
+        "content": "A bit of a rant but nothing that's not been said here many times before. I've been PC gaming on computers for over 40 years, Windows PC for over 30 and ran my first Linux setup in 1997. I love PCs and PC gaming. \n\nBuilt my current main rig originally in January 2023 with a Linux drive in tow (currently Garuda) and have been running a Linux distro since the day I built it at least a couple of times a week with Windows 11 being the main host.\n\nI've been dealing constantly with the \"bUt MuH hARDware\" problem from the beginning with this rig like I have many times over the years with Linux on various devices. This past Tuesday I added second OLED QHD wing monitor to my main 4k screen, and under Garuda it was a disaster. Enabling HDR on both monitors consistently crashes the ENTIRE OS! \n\nThe most ironic thing about all of this is that I can ger PLENTY to games to work under Linux, even VR stuff. And it'll perform amazingly on this hardware. But then so much just flat out doesn't work easily, reliably or at all. Not that everything is perfect under Windows but at least the OLED HDR works?\n\nOf all of the hardware I've used over the years on PCs with both Linux and Windows, I am a bit shocked that something that's not even proprietary like HDR support has been so problematic on Linux for this long. I couldn't care less about anti-cheat working on Linux. But yeah, I'd like the $900 monitor I just bought to not crash the OS. \n\n",
+        "num_comments": 133,
+        "comments": [
+            "Isn't HDR on Linux still experimental and relatively new?",
+            "I understanding the frustration. I usually check the compatibility before buying my hardware.\n\nLike, a friend bought a HDR Samsung monitor to play a few games. If he sets Windows 11 with HDR, all the colors are washed out.\n\nIf he tries to boot with the HDR still set, both of his monitors stay black at the login screen...\n\nCompatibility is a bitch sometimes.\n\nSo, for my part I am just skipping HDR right now. \n\nGood luck with it. If you find a solution to your problem, tell us?",
+            "Keep in mind HDR is news on Linux just now and the KDE implementation is currently in beta and will probably stay beta until 2025, so that might be the reason for such a bad experience.\n\nVR is also not as good as Windows even with ALVR, but Valve is constantly working on getting things a lot better.",
+            "I\u2019m not saying it will 100% fix your issues. But I have ran Arch for months now. I have a 5600X (currently) and a 7900 XTX. Arch works beautifully. There was an issue this month where I had to reinstall Plasma, but with the way Arch is built it was as simple as reinstalling and having it drop back into place, all configs and apps still present. I also have a HDR monitor, it works fine with what I want it to but I agree it\u2019s very very finicky and experimental right now. You also need the VK_HDR_LAYER or something like that for video games and you need to enable it with commands and stuff. With plasma 6.1 there should be more support for hdr even in apps that don\u2019t support it iirc.\n\nThe reason I say this is because the crashing appears to be more exclusive to Garuda. Why? My partner runs it, and recently there was an update so bad they needed to reinstall the entire OS. Same crashing issue and I saw someone even post about it. (I forgot about snapshots at the time). My arch install just didn\u2019t experience it. There\u2019s a lot of things that get preinstalled that may cause problems. Honestly it\u2019s up to the person to decide what\u2019s best.",
+            "It sounds like you are trying to do cutting edge and experimental things.  Why are you not on Fedora?",
+            "Jeez Luiz, just use whatever suits you. Who cares if it's Windows or Linux. Life's way too short.\n\nIf you don't want telemetry or ads or whatever Windows is throwing these days there are plenty of tools to disable those things, one that I know of is Chris Titus Debloat or something.",
+            "Linux users know that they have to wait before to use latest high tech hardware someone write drivers. Did you verify your hardware was supported on Linux before buying it? Is Linux an OS that answers your needs? If not, use Windows.",
+            "I got a 3440 x 1440 oled with HDR. I'm using a display port cable on AmD for both gpu and cpu. I think the only game I play constantly with HDR support is Ow2. I can see a minor difference. \n\nU using display port cable and what gpu you using ?",
+            "Can't repro the crash.\n\n- 7900 XTX\n- 7800X 3D\n- VA panel with HDR enabled on KDE\n- Display port",
+            "How do I unsubscribe from your blog?"
+        ]
+    }
+}

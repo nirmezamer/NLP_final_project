@@ -1,0 +1,84 @@
+{
+    "Reminder: Please do not submit tech support or build questions to /r/hardware": {
+        "title": "Reminder: Please do not submit tech support or build questions to /r/hardware",
+        "score": 243,
+        "url": "https://www.reddit.com/r/hardware/comments/3n9tky/reminder_please_do_not_submit_tech_support_or/",
+        "content": "For the newer members in our community, please take a moment to review our rules in the sidebar. If you are looking for tech support, want help building a computer, or have questions about what you should buy please don't post here. Instead try /r/buildapc or /r/techsupport, subreddits dedicated to building and supporting computers, or consider if another of our related subreddits might be a better fit:\n\n* /r/AMD (/r/AMDHelp for support)\n* /r/battlestations\n* /r/buildapc\n* /r/buildapcsales\n* /r/computing\n* /r/datacenter\n* /r/hardwareswap\n* /r/intel\n* /r/mechanicalkeyboards\n* /r/monitors\n* /r/nvidia\n* /r/programming\n* /r/suggestalaptop\n* /r/tech\n* /r/techsupport\n\nEDIT: And for a full list of rules, click here: https://www.reddit.com/r/hardware/about/rules\n\nThanks from the /r/Hardware Mod Team!",
+        "num_comments": 19,
+        "comments": [
+            "Lots of those subreddits aren't appropriate places for questions and help either.\n\n* /r/programming \n* /r/datacenter\n* /r/battlestations is for pictures of PC setups.\n* /r/buildapcsales is for links to good deals on PC components and peripherals.\n* /r/tech is for news articles and \"informative [...] self-posts\" about technological advancements\n* /r/hardwareswap is an informal marketplace for used hardware\n",
+            "/r/AMD does not accept techsupport questions. Use /r/AMDHelp for that.",
+            "Hmm, some of those subreddits refer to r/hardware though for tech support lol",
+            "Are all new posts blocked pending moderator approval? Sorting the subreddit by \"new\" puts a 15-hour-old thread above a 12-hour old thread.",
+            "Where should we go for random product recommendations? Just small random things like mice, keyboard, sound cards, general hardware.. etc. \n\n/r/buildapc ??\n",
+            "/r/pcsupport is also an option for tech support. ",
+            "This post isn't just referring to questions and help.\n\n>or consider if another of our related subreddits might be a better fit:\n\nThis covers the subreddits you're talking about.",
+            "Mods here are informing noobs to not post tech support questions....\n\n...advices to post in other subreddits that also don't want tech support questions.\n\nNice job mods.",
+            "Added to the list, thanks!",
+            "Which ones? We'll contact them."
+        ]
+    },
+    "AI titans Microsoft and Nvidia reportedly had a standoff over Microsoft's use of B200 AI GPUs in its own server rooms": {
+        "title": "AI titans Microsoft and Nvidia reportedly had a standoff over Microsoft's use of B200 AI GPUs in its own server rooms",
+        "score": 202,
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-titans-microsoft-and-nvidia-reportedly-had-a-standoff-over-use-of-microsofts-b200-ai-gpus-in-its-own-server-rooms",
+        "content": "",
+        "num_comments": 55,
+        "comments": [
+            ">Previously, the customer was responsible for buying and building appropriate server racks to house the hardware. Now, Nvidia is pushing customers to buy individual racks and even entire SuperPods \u2014 all coming direct from Nvidia. Nvidia claims this will boost GPU performance, and there's merit to such talk considering all the interlinks between the various GPUs, servers, racks, and even SuperPods. But there's also a lot of dollar bills changing hands when you're building data centers at scale.  \n>  \n>Nvidia's smaller customers might be ok with the company's offerings, but Microsoft wasn't. VP of Nvidia Andrew Bell reportedly asked Microsoft to buy a server rack design specifically for its new B200 GPUs that boasted a form factor a few inches different from Microsoft's existing server racks that are actively used in its data centers.  \n>  \n>Microsoft pushed back on Nvidia's recommendation, revealing that the new server racks would prevent Microsoft from easily switching between Nvidia's AI GPUs and competing offerings such as AMD's MI300X GPUs. Nvidia eventually backed down and allowed Microsoft to design its own custom server racks for its B200 AI GPUs, but it's probably not the last such disagreement we'll see between the two megacorps.",
+            "Nvidia being Nvidia as per the norm.",
+            "Big techs beefing with each other over AI is honestly very entertaining",
+            "Microsoft standing up against vendor lock-in?\n\nExcuse me while I care about literally anything else.",
+            "Nvidia is so cartoonishly evil (for lack of a letter word) that this is funny. I love it.",
+            "Lol Jensen thinks data center guys are like the gamers. Who would eat this shit up.\n\nGamers love Nvidia vendor lock ins. Data center guys aren't this stupid however. Particularly Microsoft, they invented the vendor lock in.",
+            "Will this AI diarrhea bubble pop already.",
+            "Like how? MS as an enterprise vendor bought 10 pallets full of those GPUs which are primarily used for ML purpose, then exchanged it for cash loaded onto the same pallets, then started using them for their intended purposes and nvidia started screaming \u201cyou can\u2019t do that\u201d",
+            "Let them bleed each other dry in legal fees for all I care. \nWould be ironic if Microsoft were to complain about anti-competitive behavior from Nvidia.",
+            "If you read the article, it says MSFT was not happy about the **form factor** of the racks. \nIt is 100% not intentional from nividia, that would want to be compatible to most current datacenter to sell more, more easily.\n\nThe entire B200 rack is vendor lockin already, they do not need the form factor to be as well."
+        ]
+    },
+    "HUB - When Are Next-Gen GPUs Launching? Buy Now or Wait? - June GPU Pricing Update": {
+        "title": "HUB - When Are Next-Gen GPUs Launching? Buy Now or Wait? - June GPU Pricing Update",
+        "score": 13,
+        "url": "https://youtu.be/ZnjO1spYcxg",
+        "content": "",
+        "num_comments": 6,
+        "comments": [
+            "High end gpu monopoly yay :))",
+            "My personal instinct is to wait for RDNA 4 at least.",
+            "new gpus can launch tomorrow and the 60 series still be a year or more away, people that have money to spend in a 90 series now have money to spend in another 90 series whenever it shows up\n\ntheres no real debate here, get one now if you need it, if you dont need it or dont care, then dont get one. Simple as that",
+            "Perhaps. Though I wager not many would have those cards other than those with more money than sense. The high middle is more than you will ever need.",
+            "Obviously you should wait for competing products if they are released in a similar timeframe. I would even wait for Battlemage. Would be nice if they all release in Q1/25.",
+            "Rumor has it we might see RDNA 4 around october.\n\nI'm not going for Battlemage, Arc is promising but it still needs at least another gen to cook if it's to be good for me."
+        ]
+    },
+    "[2kliksphilip] Snapdragon X Elite - Still Waiting for Benchmarks": {
+        "title": "[2kliksphilip] Snapdragon X Elite - Still Waiting for Benchmarks",
+        "score": 10,
+        "url": "https://www.youtube.com/watch?v=XuwFxIsuMpA",
+        "content": "",
+        "num_comments": 1,
+        "comments": [
+            "The Hardware is ready, Software isn't. The GPU (drivers) has issues and the applications that use some GPU acceleration are not using it just yet.\n\nPricing wise that is up to OEMs, the QC chip itself is being sold to OEMs at 50% price of a comparable Intel Chip"
+        ]
+    },
+    "AMD Ryzen AI 9 365 Zen5 APU tested ahead of launch: IPC uplift measured": {
+        "title": "AMD Ryzen AI 9 365 Zen5 APU tested ahead of launch: IPC uplift measured",
+        "score": 84,
+        "url": "https://videocardz.com/newz/amd-ryzen-ai-9-365-zen5-apu-tested-ahead-of-launch-ipc-uplift-measured",
+        "content": "",
+        "num_comments": 84,
+        "comments": [
+            "Link to the source by David Huang: [Detailed look (Chinese)](https://blog.hjc.im/zen5-preliminary-review.html) He discusses the uArch that AMD barely went over during Computex compared to Intel, and cache/memory latency etc.",
+            "10% in SPECint. 15% in Geekbench 6.",
+            "What a horrible name for a CPU",
+            "No idea how this performs in terms of power efficiency but it appears that Intel might have a fairly decisve lead in multithreaded and roughly equal in single threaded applications (this is just speculation though). \n\nThe gains intel achieved on their little cores this general are fantastic. Each little skymont core will be equal to or faster than the Zen5c cores while probably taking up less area. And Intels big cores are on par or better than AMDs. So looking pretty solid for intel right now.",
+            "8 ipc throughout L2 is really impressive, is there a caveat?",
+            "The overall picture for Zen 5 is not great. It appears to be doubling down on HT at just the wrong time, at the cost of ST performance. Somehow AMD has managed to jack up its public image and deploy Bulldozer 2.0 in the same month. My god. My tendies!",
+            "Remember, this is not the 370 HX (higher tier APU)",
+            "In the blog there are some bombshells: \"Compared with the full version of Zen 5 for desktop/server, its maximum frequency is reduced from 5.7 GHz to 5.1 GHz, SIMD throughput is halved, and the corresponding L1 vector load bandwidth is also halved\"",
+            "Maybe hotchip for amd?",
+            ">10% in SPEC.\n\nPutting 10% SPECint on the IPC claim chart would've been too lame so the marketing team replaced it with Far Cry 6.\n\nThe most negative part of Huang's review is that he couldn't get the 54W TDP laptop to hold single-thread turbo in SPEC tests at stock clocks and had to downclock to 4.8GHz."
+        ]
+    }
+}

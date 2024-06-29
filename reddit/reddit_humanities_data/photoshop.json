@@ -1,0 +1,58 @@
+{
+    "Installing is not working": {
+        "title": "Installing is not working",
+        "score": 2,
+        "url": "https://www.reddit.com/r/photoshop/comments/1dr5sz1/installing_is_not_working/",
+        "content": "Hello, I just bought a subscription to adobe creative cloud all apps. I am trying to download photoshop but it wont allow me. I get error code \"120\" each time I try to download. I searched it up and this code means I don't have enough storage/disk space. So I go to clear some room only to realize that I have about 400 gb of storage. I go download premiere pro and it downloaded perfectly fine with no issues. Why may this be? Maybe because I tried downloading photoshop earlier on the website instead of the creative could app? It also says that \\\\adobeTemp already exists in the error summary, but when I try searching it up to delete it, I cannot find that file. Another thing, when I go to the microsoft store, it says installed, but when I go to my apps I can't find Adobe Photoshop anywhere. I can't find any trace of a Photoshop file or anything. Please help. Maybe a firewall issue? \n\nUPDATE: Now I'm having the same issue with installing Illustrator. I think it's a firewall issue because it says in my notifications that Creative cloud services are blocked. Please check your firewall settings. Now how would I do that?",
+        "num_comments": 0,
+        "comments": []
+    },
+    "had to create collage art for school this is what i came up with if i can add anything or if somethings not right please tell me!! and also give it a rating from 1 to 10": {
+        "title": "had to create collage art for school this is what i came up with if i can add anything or if somethings not right please tell me!! and also give it a rating from 1 to 10",
+        "score": 39,
+        "url": "https://i.redd.it/ws95f1s82c9d1.png",
+        "content": "",
+        "num_comments": 12,
+        "comments": [
+            "Pretty cool. \nI don't like that the eye cutout doesn't fit the size of the head though.\nAlso, add a layer with a bit of grain or texture to tie it all together.",
+            "9 really cool",
+            "Add some electricity to the tesla coil. 9/10",
+            "The weirdest thing on that collage is a plant with 'eyeballs' on it. Everything else looks pretty solid. The theme was a Tesla?",
+            "As an ex tattoo shop worker, I give it a solid 8, people love these kind of stuff",
+            "8! Great job blending together the elements. Personally I think the concept and some of the source material is uninspired. But it\u2019s very nicely constructed and attractive.",
+            "Tesla nice",
+            "Really cool",
+            "i made the eye cutout smaller to fit the head and added some more texture thanks for the advice!!",
+            "thank youu"
+        ]
+    },
+    "Never had this happen before in PS express on iPhone. How can I bypass?": {
+        "title": "Never had this happen before in PS express on iPhone. How can I bypass?",
+        "score": 3,
+        "url": "https://i.redd.it/dinsjtf6lf9d1.jpeg",
+        "content": "",
+        "num_comments": 1,
+        "comments": [
+            "it\u2019s probably because the image canvas is too large"
+        ]
+    },
+    "how would one go about removing names from jerseys?": {
+        "title": "how would one go about removing names from jerseys?",
+        "score": 1,
+        "url": "https://i.redd.it/l9cvjn5wtg9d1.jpeg",
+        "content": "photo for reference",
+        "num_comments": 0,
+        "comments": []
+    },
+    "How do I plugin the lighting effect on photoshop?": {
+        "title": "How do I plugin the lighting effect on photoshop?",
+        "score": 1,
+        "url": "https://i.redd.it/nnym7o2xng9d1.jpeg",
+        "content": "I\u2019m doing a rock texture background by following a YouTube video but for whatever reason the photoshop I have doesn\u2019t have this filter? How do I install or plug it in on my photoshop? ",
+        "num_comments": 2,
+        "comments": [
+            "Adobe no longer supports 3D engine which Lighting Effects uses. PS 22.2 is the last version to support Lighting Effects.",
+            "Thank you \ud83d\ude4f \nSolve"
+        ]
+    }
+}

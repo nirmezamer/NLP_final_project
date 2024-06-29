@@ -1,0 +1,72 @@
+{
+    "Kleine w\u00f6chentliche Fragen Thread - KW 25": {
+        "title": "Kleine w\u00f6chentliche Fragen Thread - KW 25",
+        "score": 1,
+        "url": "https://www.reddit.com/r/de_EDV/comments/1dhml7n/kleine_w\u00f6chentliche_fragen_thread_kw_25/",
+        "content": "Du hast eine kleine Frage?\n\n>Es gibt keine dummen Fragen, nur dumme Antworten. Wer nicht fragt, bleibt dumm. Wer fragt, ist ein Narr f\u00fcr eine Minute. Wer nicht fragt, ist ein Narr sein Leben lang.\n\nPoste hier deine Fragen, die dir zu lang f\u00fcr einen ganzen Thread erscheinen oder du nur eine kurze Antwort erwartest. Dabei gibt es auch in der Technik-Welt viele Dinge die nicht jeder wissen kann.\n\nDieser Thread ist nach neuen Posts sortiert. [Archiv](https://www.reddit.com/r/de_EDV/search?q=flair%3Ader%2Bkleine%2BFragen%2Bthread&restrict_sr=on&sort=new&t=all)\n\nAlternativ steht euch auch das [Discord](https://discord.gg/G3HKS3tBnf) zur Verf\u00fcgung.",
+        "num_comments": 0,
+        "comments": []
+    },
+    "Woher kommt dieses schwarze Symbol mit ungebrochenem Kreis in der Ecke?": {
+        "title": "Woher kommt dieses schwarze Symbol mit ungebrochenem Kreis in der Ecke?",
+        "score": 4,
+        "url": "https://i.redd.it/pwo3vp21b48d1.jpeg",
+        "content": "Ist seit zwei Tagen da. L\u00e4sst sich nicht Screenshoten. Passt nicht zu den im tray gestarteten Tools. Es gibt auch keine mir unbekannten Sachen im Autostart. Es erscheint direkt nach dem Start von Windows nachdem alles geladen wurde. Kennt das jemand?",
+        "num_comments": 9,
+        "comments": [
+            "dr\u00fcck mal shift+z, da sollte sich nvidia geforce overlay \u00f6ffnen.\n\ndu hast shadow recording aktiviert, da nimmt der im Hintergrund die ganze zeit auf damit du jederzeit \"save\" dr\u00fccken kannst und die letzten paar Minuten speicherst",
+            "GeForce Experience. In die Einstellungen davon kommst du mit Alt-Z",
+            "Vielleicht von Nvidia ShadowPlay. Unter GeForce Experience oder Alt + Z findest du das Overlay. Vielleicht ist dort etwas aktiviert.",
+            "Das sieht nach Shadowplay (also das Aufnahmeprogramm in Geforce Experience) aus. Standardm\u00e4\u00dfig kannst du mit ALT+Z das Men\u00fc \u00f6ffnen und irgendwo da sollte man die Desktopaufnahme deaktivieren k\u00f6nnen.",
+            "Sieht nach NVIDIA Shadowplay aus. Schau mal im Internet nach der Tastenkombi zum \u00f6ffnen des men\u00fc's und schalte die Aufnahmefunktion komplett aus",
+            "HAb das Symbol irgendwo schon mal in Geforce Experience gesehen",
+            "Vielleicht kommt das Symbol nicht vom PC sondern vom Monitor-UI. Das w\u00fcrde auch erkl\u00e4ren warum man es nicht via Screenshot aufzeichnen kann",
+            "Das war es. Danke",
+            "Wenn du es in games anlassen willst kansnt du auch utner Datenschutz die Desktop auszeichung unterbinden. Ansonsten in Overlay das ausmachen"
+        ]
+    },
+    "Neues Rechenzentrum in M\u00fcnchen: Eine Stunde am Quantencomputer kostet 1800 Euro": {
+        "title": "Neues Rechenzentrum in M\u00fcnchen: Eine Stunde am Quantencomputer kostet 1800 Euro",
+        "score": 160,
+        "url": "https://www.stuttgarter-zeitung.de/inhalt.neues-rechenzentrum-in-muenchen-eine-stunde-am-quantencomputer-kostet-1800-euro.28575624-efe5-44bc-ac1f-44ccedd08106.html",
+        "content": "",
+        "num_comments": 75,
+        "comments": [
+            "Also fast wie AWS?",
+            " Find ich jetzt nicht brutal viel",
+            "Ich habe mal auf einem Quanten Computer was laufen lassen und man muss da (soweit ich wei\u00df) in anderen Gr\u00f6\u00dfenordnungen rechnen. Wir hatten 8 Minuten zur Verf\u00fcgung und haben nur einen winzigen Bruchteil davon verbraucht. Daher erscheint mir 1 h sehr viel Zeit zu sein in der man eine Menge runs starten kann. Verglichen mit machine learning Aufgaben auf klassischen Rechnern oder GPUs funktionieren Quanten Algorithmen grundlegend anders. Man vernetzt quasi Elemente und wartet darauf, dass diese sich in ein equilibrium versetzen, was dann die L\u00f6sung kodiert. Das vernetzen der Elemente ist das schwierige, aber das erreichen des ~L\u00f6sungszustandes dauert nur wenige Bruchteile einer Sekunde. Schwer zu beschreiben, ich kann es selbst noch nicht ganz verstehen f\u00fcrchte ich ^^",
+            "Randy Marsh w\u00fcrde das bezahlen. Kann man da auch nur so, sagen wir mal, 3 Minuten Abschnitte buchen? Frage f\u00fcr einen Freund.",
+            "Und? Wie viele Qubit haben die? Weil bei IBM kannste jeden Monat 10 min Rechenzeit mit 127 qubits kostenfrei bekommen",
+            "L\u00e4uft da pihole drauf?",
+            "Ok, nehmen wir mal an ich hab 1800\u20ac \u00fcber und Langeweile und denke mir \"Hey probiere ich doch mal dieses Quantendings aus!\" Was w\u00e4re 'ne coole Sache die ich da anstellen k\u00f6nnte?,",
+            "Wieviele bitcoins kann ich da in einer Stunde minen?\n\nFrage f\u00fcr einen Freund",
+            "But can it run Crysis?",
+            "ich nutze meine Stunde um zu berechnen, wie viel zwei Stunden kosten"
+        ]
+    },
+    "Welchen Anschluss f\u00fcr 4080 super? Mehr Infos in den Bildunterschriften": {
+        "title": "Welchen Anschluss f\u00fcr 4080 super? Mehr Infos in den Bildunterschriften",
+        "score": 2,
+        "url": "https://www.reddit.com/gallery/1dluxu7",
+        "content": "Dieses 3-auf-1-Kabel wurde mit der GPU mitgeliefert. Daran kann man entsprechend 3 PCIe Kabel zum Netzteil f\u00fchren. Beim Netzteil selber wurde ein 600W Kabel beigelegt. Das w\u00fcrde auch auch die GPU passen und das andere Ende w\u00fcrde am +12VHPWR beim Netzteil passen. Ist es somit egal welches Kabel ich nehme, oder wird eines der beiden Varianten bevorzugt?",
+        "num_comments": 5,
+        "comments": [
+            "Nimm das original Kabel vom Netzteil! Einfach weil der Adapter zum einen kacke aussieht, zum anderen einen weiteren \u00dcbergangswiderstand hat (Stecker).",
+            "Mir geht\u2019s tats\u00e4chlich nicht um die Optik. Aber danke f\u00fcr den Widerstandshinweis.",
+            "Dein Netzteil sieht qualitativ hochwertig aus und wird dementsprechend wohl auch gen\u00fcgend Leitungsreserven haben. Erkenne das Label leider nicht aber sch\u00e4tze das hat wohl mindestens 750 Watt. Das mitgelieferte 12vhpwr Kabel wird ein 600 Watt Kabel sein - ich kenne keinen Hersteller, der native einen 12vhpwr Anschluss hat und tats\u00e4chlich differenzierte 12vhpwr Kabel nutzt (auch wenn geringere Werte auf dem Kabel stehen). Ich w\u00fcrde, wie gesagt, das originale Kabel vom Netzteil benutzen. Es wurde genau daf\u00fcr hergestellt..\n\n\nUnd btw. Viel Spa\u00df mit dem fractal torrent. Mega case! :D",
+            "Dann nehme ich mal das PSU-Kabel. Ist \u00fcbrigens ein  1000W MSI MPG A1000G Netzteil. Hab mir auch sehr bewusst das Fractual Torrent geholt, das Teil hat von Haus aus grandiose L\u00fcfter verbaut und super air flow. Sehr sportlich, dass du es erkannt hast :D",
+            "Bei der ganzen Thematik die die 4090 hatte, frage ich mich warum man \u00fcberhaupt \u00fcberlegt. Der NVIDIA Adapter ist und bleibt f\u00fcr die Tonne."
+        ]
+    },
+    "Vodafone / Connect Box / Kabelanschluss ": {
+        "title": "Vodafone / Connect Box / Kabelanschluss ",
+        "score": 2,
+        "url": "https://i.redd.it/b0kgkcgs648d1.jpeg",
+        "content": "Hallo Leute,\n\nich habe von Kabel / Vodafone keine Ahnung. \nDie Connect Box funktioniert aus irgend einem Grund nicht in dem folgenden Hauswirtschaftsraum. Nimmt man die Kabel Dose im Wohnzimmer bekommt sie allerdings eine Verbindung. \n\nWoran k\u00f6nnte das liegen? Ich w\u00fcrde annehmen das auch diese Connect Box dort in den Schrank geh\u00f6rt wie z.B. auch ONT/Speedport der Telekom. \n",
+        "num_comments": 2,
+        "comments": [
+            "Wenn der Schrank aus Metall ist geht dort kein WLAN. Also eine eher doofe Position f\u00fcr einen Router mit WLAN. Wohnzimmer ist da besser geeignet, weniger W\u00e4nde mit Metall dazwischen.\n\nDas Koax Kabel muss nicht unbedingt dahin gehen wo Du es erwartest. Kann man mitunter manuell verfolgen.",
+            "Geht erst einmal nicht um WLAN sondern generell um eine Internet Verbindung an diesem Koax Kabel in diesem Schrank. \n\nAnderes Koax + Connect Box im Wohnzimmer funktioniert."
+        ]
+    }
+}

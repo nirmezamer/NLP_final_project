@@ -1,0 +1,57 @@
+{
+    "Revised Rules + MJ Room for Reddit Hangout!": {
+        "title": "Revised Rules + MJ Room for Reddit Hangout!",
+        "score": 7,
+        "url": "https://www.reddit.com/r/midjourney/comments/1dak5u9/revised_rules_mj_room_for_reddit_hangout/",
+        "content": "Hey Midjourney Redditors!\n\nGuess what? We\u2019ve spruced up the rules for our subreddit, and you can check them out on the sidebar. Don't worry, nothing major has changed; we've just clarified a few points and made some new rules to keep things crystal clear. For instance, we used to handle a lot of request posts under the no spam rule, but now \u201cno requests\u201d is its own rule since we got tons of questions about it. Hopefully, this tweak makes everything smoother. Let us know if you have any ideas for improvements!\n\nAlso, exciting news! We've created a private room on the Midjourney site just for you all to hang out in! [Here's the link to join](https://www.midjourney.com/rooms/1629f728-8132-4465-845e-a8f58501b4d6), and the password is: myspace.\n\nTo join, make sure you've created at least 100 images with Midjourney (you can check your count using /info on Discord) and have an active subscription. Just a heads up, mobile isn't supported yet, and let\u2019s keep things SFW! We can't wait to hear what you think about the new room and are super excited to hang out, chat, and create together. Have fun, y'all!",
+        "num_comments": 5,
+        "comments": [
+            "Can you turn on images in comments in this subreddit?  I think it would help a lot for collabing.",
+            "Good work on the new rules :) I've seen a lot of posts I would have reported under the old rules but it wasn't clear which rule if any applied. Especially 3, 4, 5 and 9.",
+            "Yeah I second this. Maybe pin a poll about it at the very least to see what the community thinks.\n\nDalle subreddit currently allows this and it\u2019s the best part about the sub. Facilitates a lot of creativity and doesn\u2019t make the comments look cluttered or anything.\n\nI think most members would want this",
+            "Didn't even know it was turned off. On now.",
+            "Wow, thanks a bunch"
+        ]
+    },
+    "Announcement: V6 is out": {
+        "title": "Announcement: V6 is out",
+        "score": 185,
+        "url": "https://www.reddit.com/r/midjourney/comments/18nfyck/announcement_v6_is_out/",
+        "content": "If you missed the announcements channel ping in the Discord:\n\n\"We're gonna let the community test an alpha-version of our V6 model over the winter break, starting tonight (i mean now) **To turn it on** select \n\n    V6\n\nfrom the dropdown menu under \n\n    /settings\n\nor type \n\n    --v 6\n\nafter your prompt **What's new with the V6 base model?** \n\n* Much more accurate prompt following as well as longer prompts\n* Improved coherence, and model knowledge\n* Improved image prompting and remix\n* Minor text drawing ability (you must write your text in \"quotations\" and  --style raw  \n or lower --stylize  \n values may help)\n\n&#8203;\n\n    /imagine a photo of the text \"Hello World!\" written with a marker on a sticky note --ar 16:9 --v 6\n\n* Improved upscalers, with both 'subtle  \n' and 'creative  \n' modes (increases resolution by 2x)\n\n(you'll see buttons for these under your images after clicking U1/U2/U3/U4) **The following features / arguements are supported at launch:**  \n\n    --ar\n    --chaos\n    --weird\n    --tile\n    --stylize\n    --style raw \n    Vary (subtle)\n    Vary (strong) \n    Remix\n    /blend\n    /describe (just the v5 version)\n\n**These features are not** ***yet*** **supported, but should come over the coming month:** \n\n    Pan\n    Zoom\n    Vary (region)\n    /tune\n    /describe (a new v6 version)\n\n**Style and prompting for V6** \n\n* Prompting with V6 is **significantly** different than V5. **You will need to 'relearn' how to prompt.**\n* V6 is **MUCH** more sensitive to your prompt. Avoid 'junk' like \"award winning, photorealistic, 4k, 8k\"\n* Be explicit about what you want. It may be less vibey but if you are explicit it's now MUCH better at understanding you.\n* If you want something more photographic / less opinionated / more literal you should probably default to using --style raw\n* Lower values of --stylize  \n (default 100) may have better prompt understanding while higher values (up to 1000) may have better aesthetics\n* Please chat with each other in **\u2060#prompt-chat** channel to figure out how to use v6.\n\n**Please note** \n\n* This is an **alpha test**. Things will change frequently and without notice.\n* DO NOT rely on this exact model being available in the future. It will significantly change as we take V6 to full release.\n* Speed, Image quality, coherence, prompt following, and text accuracy should improve over the next few weeks\n* V6 is slower / more expensive vs V5, but will get faster as we optimize. Relax mode is supported! (it's about 1 gpu/min per imagine and 2 gpu/min per upscale)\n\n**Community Standards:** \n\n* This model can generate much more realistic imagery than anything we've released before.\n* We\u2019ve turned up the moderation systems, and will be enforcing our community standards with increased strictness and rigor. Don't be a jerk or create images to cause drama.\n\n**More about V6:** \n\n* V6 is our third model trained from scratch on our AI superclusters. It's been in the works for 9 months.\n* V6 isn't the final step, but we hope you all feel the progression of something profound that deeply intertwines with the powers of our collective imaginations\n\nShow us your images in **\u2060#v6-showcase channel** or let us know what you think in #**\u2060ideas-and-features channel.**  **Please use these incredible powers with joy, wonder, responsibility and respect.**  Have fun and happy holidays!\"",
+        "num_comments": 0,
+        "comments": []
+    },
+    "Dark mechanical scifi characters ": {
+        "title": "Dark mechanical scifi characters ",
+        "score": 64,
+        "url": "https://www.reddit.com/gallery/1dlr25v",
+        "content": "",
+        "num_comments": 8,
+        "comments": [
+            "Prompt:\n\ngoth scifi horror, full shot, digital art by hajime sorayama and katsuhiro otomo, detailed background --chaos 10 --ar 4:7 --style raw --personalize htumdg8 --stylize 200",
+            "2nd one has a similar vibe to Adam Smasher.",
+            "Second is the adjutant from StarCraft.",
+            "Some of those characters could have their place in Blame!",
+            "The first one is insane",
+            "Superb, thanks for sharing.",
+            "The first one looks very much like Legion from Mass Effect.",
+            "sci-fi Griffith"
+        ]
+    },
+    "Victory March into Alexandria": {
+        "title": "Victory March into Alexandria",
+        "score": 31,
+        "url": "https://v.redd.it/v8cpgkkv348d1",
+        "content": "",
+        "num_comments": 0,
+        "comments": []
+    },
+    "Mediterranean Sunset (Midjourney + Luma)": {
+        "title": "Mediterranean Sunset (Midjourney + Luma)",
+        "score": 39,
+        "url": "https://v.redd.it/dgitl2bmy38d1",
+        "content": "",
+        "num_comments": 0,
+        "comments": []
+    }
+}

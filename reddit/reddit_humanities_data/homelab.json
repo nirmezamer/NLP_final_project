@@ -1,0 +1,88 @@
+{
+    "The Post Formerly Known as Anything Friday - June 2024 Edition": {
+        "title": "The Post Formerly Known as Anything Friday - June 2024 Edition",
+        "score": 4,
+        "url": "https://www.reddit.com/r/homelab/comments/1d59y77/the_post_formerly_known_as_anything_friday_june/",
+        "content": "# Post anything.\n\n* Want to discuss something?\n* Want to have a moan?\n* Want to show something off?\n\nDo it here.\n\n[**View all previous megaposts here!**](https://www.reddit.com/r/homelab/wiki/megaposts)",
+        "num_comments": 21,
+        "comments": [
+            "I built a AI chat server. Nothing fancy but it works great. https://noted.lol/ollama-openwebui/",
+            "I sometimes wonder how much cheese I can fit in my R720 before it stops working. \ud83e\udd14",
+            "Why is this thread known as \"the post formerly known as ...\" but it doesn't have a new name?",
+            "Uptime kuma has a really great python package for API. Much easier to bulk add everything that way",
+            "Just spent half an hour going progressively more insane trying to get postgres auth to work. No matter what I set the auth fails.\n\n...turns out I've got more than one VM with hostname \"postgres\" on the network. fuuuuuu",
+            "I am planing on cobbling together a basic server using old PC parts.\n\nBuilding the machine is not a problem.\n\nWhat I am looking for is a way to connect other devices to it wireless.\n\nHow would I achieve this?",
+            "Can I put a Cover panel on top of shelf in a  rack?",
+            "I'm moving to a new house so that's means another 1000ft of ethernet to run to all the rooms.\n\nHelp me decide.  Blue or black ethernet cables?  This is important.",
+            "CCNA = $$$$",
+            "So I have a Dell PowerEdge R730xd running docker and plex with lots of storage for plex. im trying to think of new things to spin up in docker. What do you all use in your homelabs? Note: Im trying to avoid using reverse proxies as I dont want to expose my router like that, i use Cloudflare Tunnels instead."
+        ]
+    },
+    "Mod: UptimeRobot Monitor Giveaway": {
+        "title": "Mod: UptimeRobot Monitor Giveaway",
+        "score": 0,
+        "url": "https://www.reddit.com/r/homelab/comments/1dk5gie/mod_uptimerobot_monitor_giveaway/",
+        "content": "The awesome team over at /u/UptimeRobot has contacted us about giving away some free upgrades in order to celebrate the release of their new web app!\n\n## Prizes\nIf you would like to toss your hat in the ring, **tell us about a time where monitoring helped you resolve a difficult situation**.\n\nThe top 10 most upvoted responses will receive 50 monitors for a year.\n\n## I want in\nReply to this post once. Do not reply to another post. Do not reply to a cross-post. Do not reply more than once, including with alts. If you can't figure it out, we can't help you.\n\n## Selection process/rules\n1. One entry per person. Using alt accounts will result in a ban. New accounts are not eligible.\n2. Thread is open through **Friday, June 28th 11:59 PM UTC**. We'll let you figure out when that is in your own time zones.\n3. We will create an export of all unique eligible users who have a top level comment (that is, replied to the post, and not to another commenter). Commenting more than once will not help you and may annoy us. Breaking the rules in your comment reply will get it removed and get you possibly banned.\n4. From that export, we will grab the top 10 most upvoted people. We will contact each of those 10 via PM on Either Saturday, June 29th or Sunday June 30th.\n\t1. In the case of a 2-way tie resulting in more than 10 selected responses, both responses will be selected.\n\t2. In the case of a 3-way (or higher) tie resulting in more than 10 selected responses, the winner will be chosen by submission time (the person to have submitted their comment first will be chosen).\n5. Winners will have **48 hours** to provide us their details for the account they'd like to redeem their winnings on.\n6. Any person who does not reply in time loses their spot and everyone moves up a tier. For example the 3rd place person does not respond, so the 4th place person gets their prize, and the person 5th on the list moves up to 4.\n7. We will give the list to Uptime Robot, and they will provide you with your winnings directly.\n8. We reserve the right to edit this post including this process and these rules without notice. This is Reddit, after all.\n9. The giveaway is open for anyone to enter.",
+        "num_comments": 16,
+        "comments": [
+            "to end a debate :) monitoring was able to prove to dev's that the website was down, just because you can ping it does not mean its up, HTTP monitor was able to send the message loud and clear, website got fixed very quickly then",
+            "Did anyone see the post and think the giveaway is about physical monitors - like displays?",
+            "Why are we using upvotes instead of a randomizer? Upvotes just encourages me to downvote everyone else or wait to comment till the last possible minute when I will be least downvoted.",
+            "Skynet is the coming.",
+            "The post title is pretty misleading. A giveaway is not the same as a contest. Even the keyboard communities give away keyboards at random, and those things aren't cheap.",
+            "One of my containers became completely unresponsive and I only noticed it very late, but thanks to monitoring I was able to know when exactly it happened and I was able to determine the correct backup to restore from immediately, saved me a good amount of time and braincells",
+            "I use uptime robot on my web site!  And I have for many years! :)",
+            "We've discussed this at length, and the decision was to choose based on upvotes rather than randomly picking 10 winners.\n\nAs far as upvote count is concerned, we've enabled contest mode specifically to hide that counter, and randomize comment order so that those voting aren't biased towards certain responses.",
+            "you sly devil, this comment will end up being the most upvoted...",
+            "Monitoring this situation will really help us determine the effectiveness."
+        ]
+    },
+    "ThinkCentre Cooling": {
+        "title": "ThinkCentre Cooling",
+        "score": 170,
+        "url": "https://i.redd.it/tamtlwfu6z7d1.jpeg",
+        "content": "",
+        "num_comments": 18,
+        "comments": [
+            "^(OP reply with the correct URL if incorrect comment linked)    \n[Jump to Post Details Comment](/r/homelab/comments/1dlc9hl/thinkcentre_cooling/l9nrz5f/)",
+            "My ThinkCentre got waaay to hot, now they are averaging 15-20c cooler.\n\nI hope someone else find this, and can help there hot-box.\n\n[https://www.printables.com/model/919453-lenovo-thinkcentre-cooling-mod](https://www.printables.com/model/919453-lenovo-thinkcentre-cooling-mod)",
+            "Can you share some pictures of your rack mount for them and additional for your fan base and attachment?",
+            "Are these for the ThinkCenter Mini/Micro's (M720 / M920) etc or for different models? I have a bunch of M920's that I would love to cool further. \n\nAlso how are you powering the fans? The fans you've linked to on printables seem to have a 3-pin header.",
+            "Maybe a dumb question, but why not make 1 larger mount with a single 120mm to cool both?",
+            "Good color match for the Lenovo/IBM bracket hardware too.  Nice attention to detail.",
+            "Could you adjust the mount so it accepts 40x40 fans? That would let the smallest noctua fans to be used",
+            "What were your temps before?",
+            "Its not rackmounted, it just slides on the side with two fans",
+            "M920 yeah, the same one i linked with usb header. They have removed the listing, but they are powered on 5v\u00a0"
+        ]
+    },
+    "Low power storage and media server": {
+        "title": "Low power storage and media server",
+        "score": 3,
+        "url": "https://www.reddit.com/r/homelab/comments/1dlt3vx/low_power_storage_and_media_server/",
+        "content": "I'm currently trying to build a new home server to get an upgrade from my Odroid H3+ to one that runs RAID and needs 30W or less (parental limitation) while being in idle. The services I want to run are Jellyfin (4k to 720p downscale if possible), SMB, SCP, Immich, and a Minecraft server (mod packs like Better MC or more realistic ones). It could get more in the future, like a smaller AI over Ollama, or LanguageTool.\n\n\nSpecs I already have/need:\nRAM: 32 GB (2x 16 GB)\nStorage: 4x 4 TB (software raid, tips might be helpful for TrueNAS) + 2 TB Samsung NVMe (from the old server)\nCPU: Needs integrated graphics\nCase: Can't be a rack one, only tower or smaller form factors\n\nIf anyone has good recommendations or already a PCPartPicker/Geizhals list, then I would be thankful.",
+        "num_comments": 4,
+        "comments": [
+            "Why 4x 4tb?  If you're trying to save power, 2x 8tb will save you 4-5w idle.  The simpler (=lower power) MBs often come with only 2 now.\n\nIf you want 4, you can get the 2.5\" drives at that capacity for a similar price that use less power.",
+            "> software raid, tips might be helpful for TrueNAS\n\nSounds like you mean raidz1 in zfs, which would give you 12TB usable space with tolerance for one failed drive.",
+            "I want to use RAID. Not just mirror two drives",
+            "Which is RAID-1 ;-)"
+        ]
+    },
+    "Cooling in Apartment": {
+        "title": "Cooling in Apartment",
+        "score": 3,
+        "url": "https://www.reddit.com/r/homelab/comments/1dlubye/cooling_in_apartment/",
+        "content": "As the UK experiences a heatwave, my living room (which is quite large in width and height) is reaching 23-27c on a daily and although my network equipment and server hasn\u2019t complained about temps yet, I was wondering if I should be looking into cooling during hot days.\n\nEDIT: It\u2019s always 27c, I just happened to leave my above window open overnight, which kept it around 23c.\n\nIf so, what would be adequate? ",
+        "num_comments": 7,
+        "comments": [
+            "27c..? That's nothing.",
+            "27C is indeed nothing:) I'm in Poland and there is 28C outside right now. Balmy weather. \"Heatwave\" would be like 35C or higher for days :) What are the actual hardware temperatures?  Start monitoring your CPU, GPU, hard drives and SSDs. Maybe there is nothing to worry about? Most likely, there is nothing to worry about ;)",
+            "In the 90s/2000s I lived in a 5th floor walk up with no ac. I played games late at night in my swim trunks with a box fan pointed directly at my open PC case to keep it from shutting off.\n\nI think that rig was a dual processor AMD duron 800mhz with 512mb of RAM and a ATI GPU with like 32MB.",
+            "I assumed if the room temp was high, operating temps of my hardware will be much higher?",
+            "I\u2019ll start monitoring more than I am. I didn\u2019t think too much about that.",
+            "Damn.. I can\u2019t imagine the cost of running that.",
+            "Play at night, lower temps, lower power costs."
+        ]
+    }
+}

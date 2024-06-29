@@ -1,0 +1,82 @@
+{
+    "Rejected List Rule Change": {
+        "title": "Rejected List Rule Change",
+        "score": 132,
+        "url": "https://www.reddit.com/r/minecraftsuggestions/comments/1df2gjt/rejected_list_rule_change/",
+        "content": "Hey, suggestors!\n\nWith 1.21 releasing, we've decided to make a major change to one of our rules. If you've read the rules, you'll know that you can't post anything on the *Rejected Suggestions list*, a list of ideas that have been rejected by a Minecraft developer at some point or another. However, after a lot of discussion, we mods have decided that this rule isn't really helpful for this subreddit.\n\n**Thus, as of today, suggestions will no longer be removed for being on the Rejected list.**\n\n## Why this change?\n\nWe're removing this rule for a couple of reasons.\n\n1. Since we aren't Mojang, it's quite difficult to determine whether something's actually been rejected. Lots of the entries on the Rejected List are sourced from years-old tweets by individual developers \u2014 hardly good reasons to ban people from posting them. Additionally, ideas that have previously been rejected can make their way in the game. Auto-crafting, a feature that was previously on the Rejected list, has now been added to the game via the crafter.\n\n2. The goal of this subreddit has always been to serve as a forum for discussing interesting ideas about Minecraft, *not* to pitch ideas to Mojang. Just because Mojang doesn't support an idea doesn't mean it isn't fun or interesting to discuss. We all have different things we'd like to see added to this game \u2014 some more realistic than others \u2014 and past rejections from devs shouldn't block people from sharing & discussing those visions.\n\n## What's happening to the Rejected list?\n\nWhile we're removing the rule, the Rejected list will stick around in our wiki if you ever want to take a look and see what ideas have been rejected by Mojang in the past.\n\nThe Rejected list has also been updated to include dates for entries as well as some other adjustments. We'll continue to keep it up-to-date, but we won't remove posts for having ideas on the list.\n\n---\n\nIf you have any thoughts or concerns regarding this change, let us know in the comments! Happy suggesting!",
+        "num_comments": 31,
+        "comments": [
+            "I get allowing discussion around ducks and such, but do we really need to allow suggestions around blood and gore, religious symbols, guns, or changing the name of the game? Some if those ideas were rejected for much better reasons than others.",
+            "I think it's good idea, even if a suggestion is talking about a rejected idea, a good post should deserve a chance, and it could also change mojang's mind or allow an exception.",
+            "I don't have any useful feedback, but I was just thinking this would be a good change. Thanks!",
+            "I think I've even seen some posts on rejected ideas that are still up, so that also makes it more consistent.",
+            "What about the jeb design book?",
+            "It'll take some getting used to, but given the reasonings, I support this change.",
+            "Great change! I wonder if we could also see an update to the FPS list",
+            "Thank god, I had some great suggestions that were taken down because 1 little fraction of it was on the list",
+            "I think this is good because despite the rejected list here and Mojang's own rejected list on the feedback site, some features from both lists have been added and they've gone against their own rule of what they wont add so I don't feel limiting the visibility of some ideas even if they are \"rejected\" is good  because it could be implemented or explained and brainstormed in a new way that makes it better than the original rejected idea(s).\n\nSome ideas that are OP or redundant on their own can be good with certain tweaks and discussion can easily make that apparent by getting feedback from others on the idea to expand it. This can't happen or get time to shine or be iterated off of if it instantly gets shot down because \"its on the rejected list\" despite being different in execution but not in name.",
+            "All that being said - does Mojang also come here for suggestions, or only in their official forum? Because I actually use this subreddit for Mojang to actually see, (cuz that forum is almost a ghost town). But I mean if it\u2019s really just a community sharing ideas.. that\u2019s awesome and all, but I wonder if I should send suggestions too formally or not, if you\u2019re getting what I\u2019m trying to say?\n\nI know this might sound like common knowledge to ya\u2019ll, but I\u2019m kinda new here in terms of knowing what\u2019s going on behind the scenes. So idk"
+        ]
+    },
+    "Hostile mobs should spawn in peaceful difficulty": {
+        "title": "Hostile mobs should spawn in peaceful difficulty",
+        "score": 14,
+        "url": "https://www.reddit.com/r/minecraftsuggestions/comments/1dr44sx/hostile_mobs_should_spawn_in_peaceful_difficulty/",
+        "content": "Hostile mobs spawn in peaceful difficulty, but they either do not attack the player or deal no damage. This makes some loot from them obtainable like blaze rods or less tedious to farm like slimeballs. This also allows peaceful players to beat the game.\n\nThe mobs do not attack the player, with 2 exceptions:\n\nEnder dragons shoot dragon fireballs, but they do not deal any damage to the player, allowing the collection of dragon's breath;\n\nShulkers shoot shulker bullets, but they neither deal any damage nor apply levitation to the player, allowing the renewability of shulker shells.",
+        "num_comments": 4,
+        "comments": [
+            "Or you could just play on easy",
+            "Peaceful mode is supposed to be the easiest difficulty, but it's impossible to beat the game in without seems, it makes no sense to limit players for playing in Peaceful, it should instead be a gamerule like natural regen",
+            "you can just go into creative and beat the game",
+            "\"I want to play survival\"\n\n\"Just go into creative lol\""
+        ]
+    },
+    "The Copper Bell: A way to reduce the incentive for trapping villagers": {
+        "title": "The Copper Bell: A way to reduce the incentive for trapping villagers",
+        "score": 72,
+        "url": "https://www.reddit.com/r/minecraftsuggestions/comments/1dqnusp/the_copper_bell_a_way_to_reduce_the_incentive_for/",
+        "content": "Cramming Villagers in tiny boxes makes for an efficient trading system, but for a number of reasons isn't fun for plenty of players. So my suggested solution is a Copper Bell.\n\nIf placed randomly, ringing the Copper Bell would do nothing. However, if placed adjacent to (or on) a claimed job block, ringing the bell would cause the relevant villager to walk over to said job block, and possibly emit a particle effect indicating them as the villager the player called for. With this, players would be able to call any villager they want to trade with directly to them, while letting the villager roam as they please when not being traded with.\n\nUnlike the giant Bell that's already in the game, the Copper Bell would be closer to the size of a flowerpot, and look like one of those small dome-shaped bells with a small protruding thing on the top you can press to ring it to make a light \"ding\" sound. (Also, if it were added, the Bell already in the game should be renamed to Gold Bell.)\n\nI'm thinking these should be crafted on a 3x3 grid with three Copper Ingots- one in the bottom-left corner, one in the bottom-right corner, and one in the center of the grid- and a Stick in the top-middle slot.\n\nAn additional idea I was thinking of is that if a Copper Bell was rang while holding an Ender Pearl, it could consume the pearl and teleport the Villager straight to it, rather than have the Villager walk over. This would make things faster and bypass the issue of the Villager potentially getting stuck or being unable to pathfind to the job block. I'm not quite sure if I like this idea or if it feels fitting quite yet, but I figure it's worth mentioning.",
+        "num_comments": 21,
+        "comments": [
+            "I like the idea! Maybe a button (any type) in the crafting recipe instead of a stick?\n\nI can see how this would incentivize more open designs of trading halls. Imagine the current setup of wall openings at each workstation, except behind the wall is one big room instead of several tiny cells. In this room, villagers can interact with each other and have access to beds at night, but there are no obstacles to get stuck on or openings to escape through and get hurt or eaten. The workstations are labeled with signs and each has one of these copper bells.",
+            "This is such a great idea that would incentivize actually building villages rather than prisons!",
+            "I like the idea, but people who trap villagers aren\u2019t gonna go \u201coh hey instead of just boxing my villager into a hole with dirt I can craft an item for every single villager and wait for them to arrive at the workstation when before I didn\u2019t have to wait or interact with that item to trade\u201d\n\nLike I trap villagers for trading halls because it serves multiple functional purposes: ease of access, villager safety, and easy zombification later on. The bell only really acts as a stopgap measure for the first one, and is still worse than the box in the end.\n\nThis doesn\u2019t really reduce the incentive to trap villagers, it only makes people who are already against it deal with less frustration (and maybe people will use the bell for unintended purposes like luring villagers to box them up lmao)",
+            "Real world ones are called \"call bells.\"",
+            "This is...AMAZING. Although I agree with u/DBSeamZ that it should be a Copper Button, perhaps. Crafted from 1 Copper Nugget + 1 Copper Ingot.",
+            "I like it. The idea of being able to call or trade with villagers has been suggested a few times, but what makes this version improved (imo) is the addition of the ender pearl option. Not only is this practical for trading, but it would also make positioning villagers much easier. Rather than mess with rails or water to force them places, putting their workstation down and teleporting them in could be very handy. \n\n  \nIt is very similar to u/Ben-Goldberg's recent suggestion. Its funny how that stuff can happen. If their idea helped inspire yours, it can be nice to give them a shoutout in your post or in the comments.",
+            "I think this is a great idea! It would make using villages so much more natural, which has great benefits for people who aren't power-players that build trading halls and/or people who want to build up or preserve a nice actual village structure  \nVery small addition; an Iron Bell, filling in the final major bell niche by being a handbell you can carry around and ring, town crier style! I don't know what specific use it'd have yet (I'm envisioning a cheaper/easier noisemaker than a Goat Horn, essentially, but they don't really have many uses yet either) but it'd feel necessary with the other two in the game, haha",
+            "I like it!",
+            "I don't get how this incentivises people to not make trading halls?",
+            "A cool name could be shop bell. Like those ones on doors you see in shops.\n\nI like this, people can build regular trade halls( maybe lean into it for a evil build with bars and such) or be able to make a pretty optimized full village!"
+        ]
+    },
+    "Happiness System[Trade Rebalance]": {
+        "title": "Happiness System[Trade Rebalance]",
+        "score": 7,
+        "url": "https://www.reddit.com/r/minecraftsuggestions/comments/1dr2okg/happiness_systemtrade_rebalance/",
+        "content": "One thing that I find really annoying in villager trading, and something that discourages a lot of players from trading, is the villager experience gain. It's just too slow and grindy, which is balanced for autofarms, but not for casual players(which, I think, is a majority).\n\nTo fix this in an interesting way, I propose my idea - villager happiness.\n\nNow, besides player reputation, each villager has a value to determine how happy they are - it decreases when they are attacked, scared, cannot sleep, live in the dark, cannot talk with other villagers etc. And increases in opposite situations - when the villager sleeps, talks with others, is in a safe area etc. Curing a zombie villager sets their happiness to neutral value, regardless of what it was when the villager was infected.\n\nThe happiness value determines how fast the villager will get experience. The multiplier goes from 0.5 on the lowest happiness to 2 to the highest, allowing to upgrade the villager twice as fast. Happiness value doesn't affect the prices and it does not affect the experience the player gains.\n\nThis system aims to reward the players for building actual good houses for their villagers, instead of small boxes.",
+        "num_comments": 1,
+        "comments": [
+            "I like it, but it's probably not enough, many villagers most useful trades are early, others I'm sure the convenience of halls will outweigh the bonus"
+        ]
+    },
+    "Using an emerald on a Villager's workstation opens his GUI ": {
+        "title": "Using an emerald on a Villager's workstation opens his GUI ",
+        "score": 35,
+        "url": "https://www.reddit.com/r/minecraftsuggestions/comments/1dqkd9a/using_an_emerald_on_a_villagers_workstation_opens/",
+        "content": "The purpose of this suggestion is to make it easier to trade with villagers without imprison them in a trading hall.\n\nUsing a workstation with anything other than an emerald brings up the blocks normal GUI, or starts mining it if you are sneaking.",
+        "num_comments": 11,
+        "comments": [
+            "Or perhaps powering a workstation makes it attractive to the villager, so you could press a button and he comes.\n\nDont know how this would be balanced so it isnt just always attracted. maybe he loses interest after 30 seconds of it starting to be powered?",
+            "You wouldn't want villagers roaming free anyway, if the block stopped working after their death why would you?",
+            "https://www.reddit.com/r/minecraftsuggestions/s/fP7YHOfsPi\n\nThis idea was just suggested and I believe it\u2019s a fantastic solution to this!",
+            "Is is quite useful, and I can see how it would be helpful for players who want to have free roaming villagers.",
+            "You could build a wall around the village to keep them safe, and let them roam freely within it.",
+            "I've seen a villager find a path i didn't even know existed onto a roof and dive off to his death. And I've also had a large walled off village which was mob proofed to the 9s and they STILL somehow found ways to disappear. Also zombie sieges can happen. They suck and having golems around just makes everything worse.\n\nI think the only way to force the player to have a natural village would be to majorly improve the AI and truly teather the villagers between their beds and work stations.",
+            "Personally I built 5 iron golem per villager and everyone lives in the same apartment :P",
+            "I seem to recall that zombie sieges were fixed so they respect the usual hostile mob spawn rules.\n\nThey spawn in the dark, and only on top of full blocks or top-slabs, and not in string or redstone, etc.",
+            "Now I want to build a village with trapped zombies around the perimeter, so that the villagers will summon defenders *and* keep them in :)",
+            "No clue what they were supposed to fix or not but i know i had to replace my villagers a load of times lol. They were mostly there for atmosphere as the ones i perfected the trades for were in the dungeon but still. It was annoying."
+        ]
+    }
+}

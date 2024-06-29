@@ -1,0 +1,73 @@
+{
+    "Motionmark: Ungoogled Chromium (left) vs Firefox 127 (right)": {
+        "title": "Motionmark: Ungoogled Chromium (left) vs Firefox 127 (right)",
+        "score": 75,
+        "url": "https://i.redd.it/vwn4d7pa208d1.png",
+        "content": "",
+        "num_comments": 32,
+        "comments": [
+            "I'm on a 240hz monitor, Windows 10, latest Firefox. 1137 here. Is it possible your FF is using CPU instead of GPU rendering?",
+            "1134 @ 144 here on latest FF (Linux Mint). Perhaps an issue with your build?",
+            "Just tried with firefox 127.0.1 on Arch and got 1.5k @ 60fps",
+            "Something wrong with Canvas Lines in your result on right, maybe you switch window or hide it for that moment.\n\nMy Firefox result - [https://i.imgur.com/mA0MMY4.png](https://i.imgur.com/mA0MMY4.png) - I had it on screen\n\nChrome - [https://i.imgur.com/iiWJR18.png](https://i.imgur.com/iiWJR18.png) but I had it hidden.",
+            "On a Surface running Linux, I get a bit over 3.9x performance with Chrome. Firefox was worse on most aspects, especially the canvas ones (arcs: 5x better performance with Chrome although FF had a 25% std, lines: 12000x better performance with Chrome although FF had a 100% std), although was better on Paths, Images, and Suits.",
+            "60hz monitor, bodhi linux 7.0, FF 127.0.1, score was 1547.01 +8.58%",
+            "I would guess your Firefox has disabled hardware acceleration, see \"about:preferences#general\" page and \"Performance\" section at the bottom. Make sure the \"Use recommended performance settings\" checkbox is checked.\n\nI've just run the benchmark on my Firefox and it scored 1101:\n\nhttps://preview.redd.it/9dcg78sst28d1.png?width=489&format=png&auto=webp&s=a36b0ae19188ee8d8cd2e9aa57a4096f0dbc1a2c\n\nAlthough my Chrome scored 2241.",
+            "It is probsbly a bit worse, but an almost 10x difference means that it probably doesn't have hardware acceleration turned on",
+            "Something's wrong on your side. I'm using an entry level M1 Macbook Air and I run the test under some really bad conditions (mac and firefox haven't been rebooted in weeks, 20ish tabs open with heavy JS usage, not fullscreen) and I got 1547.04.",
+            "1652 for me. Windows 10."
+        ]
+    },
+    "HD Video content on Youtube and all videos on twitter lag on Firefox Android.  ": {
+        "title": "HD Video content on Youtube and all videos on twitter lag on Firefox Android.  ",
+        "score": 6,
+        "url": "https://www.reddit.com/r/firefox/comments/1dlocb0/hd_video_content_on_youtube_and_all_videos_on/",
+        "content": "I have a Realme P1 5g with 8gb ram and 256 gb storage (Android 14) which I bought this month. Youtube videos/shorts in FHD (1080p) and Twitter videos lag and stutter when played. I had a Realme 1 previously with 4gb ram and 64 gb storage and it lagged there too. (Android 9)\n\nExtensions installed- ublock origin, bitwarden, dark mode, bypass paywalls clean, unhook, video background playback fix, video control for instagram, sponsorblock. ",
+        "num_comments": 3,
+        "comments": [
+            "The desktop version of YouTube is broken for everyone. A Firefox update is going to fix it soon. I don't know if this affects your phone too.\n\nAs for X/Twitter, try using it with all extensions but uBO and Bitwarden disabled.",
+            "It would affect Android Firefox as well at the 1440p/4k resolutions.",
+            "I have the issue at\u00a0even 1080p"
+        ]
+    },
+    "What is Fakespot": {
+        "title": "What is Fakespot",
+        "score": 5,
+        "url": "https://www.reddit.com/r/firefox/comments/1dlmh49/what_is_fakespot/",
+        "content": "Evening,\n\nTwice in the last few days I'v had a tab open to something called Fakespot. When it first happened I just shut down FF thinking it was a virus or something. But today when it happend I took time to read the page and it says it's a service from Mozilla.\n\nSp, what is this thing and, is it safe?",
+        "num_comments": 4,
+        "comments": [
+            "[Fakespot by Mozilla Firefox](https://addons.mozilla.org/addon/fakespot-fake-reviews-amazon/).\n\n* Go to the Add-ons Manager (`about:addons`)\n* Uninstall Fakespot if you see it there\n* Go to your Privacy & Security settings (`about:preferences#privacy`)\n* Uncheck `Allow Firefox to install and run studies`\n* Restart Firefox",
+            "Not sure how its possible that Fakespot is getting opened randomly like that. Fakespot is a tool (recently bought by Mozilla) that uses machine learning and other techniques to combat fake reviews and manipulated ratings on Amazon and possibly Ebay. It rates product listings based on authenticity of the reviews, and adjusts ratings in accordance. And gives various other tools to help find products with authentic reviews from real users, summarize review highlights etc. I like it, its fairly useful, I don't want it installed on my main browser profile, but I have the extension installed ina profile that is specifically for shopping.\n\n[https://imgur.com/a/hxLH9TQ](https://imgur.com/a/hxLH9TQ)",
+            "Actually, that's not bad at all. It'll help combat against the bot flood those sites have.",
+            "I use fakespot and reviewmeta to review any amazon generic I get."
+        ]
+    },
+    "FF Windows 11 127.0.1 (64-bit),default video image on YT is dull,no contrast, reduced brightness,both window or fullscreen": {
+        "title": "FF Windows 11 127.0.1 (64-bit),default video image on YT is dull,no contrast, reduced brightness,both window or fullscreen",
+        "score": 1,
+        "url": "https://www.reddit.com/r/firefox/comments/1dlvq08/ff_windows_11_12701_64bitdefault_video_image_on/",
+        "content": "and the weird thing is that PIP mode has the CORRECT display of Brightness and Contrast\n\ndoesnt matter if HDR in windows is on or off, night mode is also disabled\n\nmessing with resizing Firefox by dragging the border around flashes the content to the correct values but instantly reverts back to reduced vibrance/contrast/brightness  \n\n\nGPU Nvidia 3070 TI, current driver\n\nMonitor  Samsung super ultra wide 5120x1440 120 hz",
+        "num_comments": 0,
+        "comments": []
+    },
+    "Will this new nav bar gonna be optional or it will be like this by default?": {
+        "title": "Will this new nav bar gonna be optional or it will be like this by default?",
+        "score": 72,
+        "url": "https://i.redd.it/496g11o6ix7d1.jpeg",
+        "content": "I was wondering if this will be optional or we won't have any option to disable it? It seems to be using too much space, so I am not a fan of it.\n\n",
+        "num_comments": 21,
+        "comments": [
+            "How did you even get that?  \nI am on the newest Firefox Nightly, and mine hasn't changed to that.  \nI'd also rather have the current one, which takes less space.",
+            "I enabled it a few weeks ago in the secret menu on mobile nightly, but I reverted back. I was interested in handling tabs a bit better, but didn't end up feeling like the new menu worked for me personally.",
+            "I hope it won't be the default, it takes up way too much space",
+            "I have to be honest, after enabling it in Nightly I don't despise it unlike other people here. It feels decent (apart from being [glitched in new tabs](https://imgur.com/a/HoyPeBd), it is uncentered and too close to the right side) if used with the \"menu redesign\" also available in secret settings\n\nEDIT: it also doesn't show the full URL and that's a big deal tbh",
+            "Let's hope it's optional, because this eyesore on top of everything doesn't work properly... It's clunky.",
+            "The fenix team is incompetent. Nobody asked for this ugly overhaul. Instead they could just dedicate a year to fix bugs to polish the app. There are bugs from 2021, still not fixed on fenix. I have reported 3 annoying bugs on bugzilla and only one has some movement. The other two are kind of acknowledged but abandoned.\n\nHaving only the tab number box and 3 dot menu on the URL bar is sufficient and all they had to do. Instead they did ugly Chinese browser style bottom bar. Anyone can install any Chinese browser and all those have this redundant bottom bar.",
+            "For me, it has been like this for ages (figuratively), I\u2019m on iOS, though.",
+            "Looks good to me. I have the option to hide the address bar on scroll enabled, so bigger address bar would make it easier for me to use it when I need it and still be out of the way when I don't need it.",
+            "I just wish they would make it like safari where you can swipe the bar left or right to navigate tabs\n\nEdit: I'm on iOS, so I don't have it. Yes, Android has it. Thank you for the downvotes",
+            "You can get it by enabling the option in the secret menu. Tap Firefox logo multiple times to enable secret menu."
+        ]
+    }
+}

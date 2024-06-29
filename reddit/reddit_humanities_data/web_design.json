@@ -1,0 +1,59 @@
+{
+    "Feedback Thread": {
+        "title": "Feedback Thread",
+        "score": 3,
+        "url": "https://www.reddit.com/r/web_design/comments/1dqg1kd/feedback_thread/",
+        "content": "Our weekly thread is the place to solicit feedback for your creations. Requests for critiques or feedback outside of this thread are against our community guidelines. Additionally, please be sure that you're posting in good-faith. Attempting to circumvent self-promotion or commercial solicitation guidelines will result in a ban. \n\n# Feedback Requestors\n\nPlease use the following format:\n\n>**URL**:  \n>  \n>**Purpose**:  \n>  \n>**Technologies Used**:  \n>  \n>**Feedback Requested**:  *(e.g. general, usability, code review, or specific element)*  \n>  \n>**Comments**:\n\nPost your site along with your stack and technologies used and receive feedback from the community. Please refrain from just posting a link and instead give us a bit of a background about your creation.\n\nFeel free to request general feedback or specify feedback in a certain area like user experience, usability, design, or code review.\n\n# Feedback Providers\n\n* Please post constructive feedback. Simply saying, \"That's good\" or \"That's bad\" is useless feedback. Explain why.\n* Consider providing concrete feedback about the problem rather than the solution.  Saying, \"get rid of red buttons\" doesn't explain the problem. Saying  \"your site's success message being red makes me think it's an error\"  provides the problem. From there, suggest solutions.\n* Be specific. Vague feedback rarely helps.\n* Again, focus on why.\n* Always be respectful\n\n# Template Markup\n\n    **URL**:\n    **Purpose**:\n    **Technologies Used**:\n    **Feedback Requested**:\n    **Comments**:\n\n[**Also, join our partnered Discord!**](https://discord.gg/web)",
+        "num_comments": 1,
+        "comments": [
+            "Hey guys\n\nI would love to have some feedback on my first website.\u00a0\n\nI recently just built a website from Framer for my friend\u2019s dance crew.\n\nThe goal of this website is to showcase the crew\u2019s talents and allow potential clients to contact them while keeping it simple.\n\n**URL**: [**https://bright-signposts-917753.framer.app/**](https://bright-signposts-917753.framer.app/)\n\n**Purpose**: Showcase crew\u2019s talents and allow potential clients to contact them\n\n**Technologies Used**: Figma, Framer\n\n**Feedback Requested**:\u00a0Usability, layout, aesthetic, general feedback\n\n\n\nAny feedback is welcome and appreciated. Cheers!"
+        ]
+    },
+    "Beginner Questions": {
+        "title": "Beginner Questions",
+        "score": 6,
+        "url": "https://www.reddit.com/r/web_design/comments/1dqg1kn/beginner_questions/",
+        "content": "If you're new to web design and would like to ask experienced and professional web designers a question, please post below. Before asking, please follow the etiquette below and [review our FAQ](https://www.reddit.com/r/web_design/wiki/faq) to ensure that this question has not already been answered. [Finally, consider joining our Discord community. Gain coveted roles by helping out others!](https://discord.gg/Zv3BDusVUz)\n\n# Etiquette\n\n* Remember, that questions that have **context** and are **clear and specific** generally are answered while broad, sweeping questions are generally ignored.\n* Be polite and consider upvoting helpful responses.\n* If you can answer questions, take a few minutes to help others out as you ask others to help you.\n\n[**Also, join our partnered Discord!**](https://discord.gg/web)",
+        "num_comments": 0,
+        "comments": []
+    },
+    "I got a bigger project than I expected": {
+        "title": "I got a bigger project than I expected",
+        "score": 3,
+        "url": "https://www.reddit.com/r/web_design/comments/1dr5swf/i_got_a_bigger_project_than_i_expected/",
+        "content": "Starting a new job as a builder and noticed their website was still filled with placeholder text and incomplete css. \n\nI took a web publishing class in uni some years ago so I said I could complete the site if wanted, they put me to do a whole new page instead. \n\nCan I do the index and the subs with the px/scale for desktop version and create a separate \u00abindex\u00bb for mobile screens or do i need to combine them? \n\nNever done scaling for mobile so thats all Im asking if any has some input, id appriciate it",
+        "num_comments": 3,
+        "comments": [
+            "You should go with a site builder if they don\u2019t want to hire a professional. \n\nUse Wordpress and be done. \n\nDo not under an circumstances make different sites for mobile and desktop and do not under any circumstances omit the mobile version.",
+            "https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design\n\n\nWhen designing a website on a static medium, you won\u2019t be able to address all the issues that might arise with various screen sizes. It\u2019s best to equip yourself with a bit of understanding of common practices. I usually use three concepts with clear breakpoints for screen sizes, each covering desktop, tablet, and mobile screens. The rule of thumb is that all screens should theoretically contain exactly the same components unless there\u2019s a specific reason not to. Visibility can be toggled, but each component must retain the same contextual and functional state regardless of the screen size. Even some design flaws get spotted during the development stage sometimes.",
+            "Keep the same index and just change the styling by using multiple breakpoints for eg tablets and smartphones.\n\nAlso use percentages (for widths) instead of fixed units.\n\nLook up responsive web design if this is uncharted territory for you."
+        ]
+    },
+    "I made this dashboard.": {
+        "title": "I made this dashboard.",
+        "score": 126,
+        "url": "https://www.reddit.com/gallery/1dqd66c",
+        "content": "It let's you get News, Weathers and track tasks.\n\nI am looking for more ideas to integrate into this site. I am also looking into making a second page so I could have more freedom to implement new functions without space constraints.\n\nCheck out my project: https://github.com/Epicalable/ComDash\nDon't forget to star it :-)",
+        "num_comments": 57,
+        "comments": [
+            "Always a fan of bento boxes but you need to change the font and darken the background image to make the text pop more",
+            "IMO your main problems are: \n\n1. The font. \n2. The colour scheme/font colours.\n3. The corner radius is too large on the boxes.\n4. Everything is a little inconsistent e.g. margins/gutters and the sizing of elements e.g. the search boxes should grow to fill the horizontal width of a card.",
+            "Hard to read.",
+            "The text is difficult to read, which makes it not very accessible. You need to balance things out so that it's easier on the eyes. Make sure you use contract checkers.",
+            "Function over form.  It isn't legible.",
+            "1. Nothing is aligned \n2. Hard to read",
+            "This wouldn't be ADA compliant.",
+            "Change to a sans serif font. Try the lovely Gantari:\n\nhttps://fonts.google.com/specimen/Gantari",
+            "Looks cool until the background is white and I'm reading white text.",
+            "Accessibility nightmare"
+        ]
+    },
+    "Options for Web Application Hosting Blazor/ASP.NET ": {
+        "title": "Options for Web Application Hosting Blazor/ASP.NET ",
+        "score": 2,
+        "url": "https://www.reddit.com/r/web_design/comments/1dqmqwf/options_for_web_application_hosting_blazoraspnet/",
+        "content": "I hope this is the correct sub reddit. I have a web application that has been developed in Blazor / ASP.NET. It uses XML for a database so the whole web application is basically designed to be run in a single folder. I'm just trying to find a place that might be able to host it. \n\nSome information on the Web Application. It is a Roleplaying Character Editor with a Combat Simulator. It's entirely web based and browser based. There isn't any real graphic card rendering necessary. Just people logging in. Very much like D&D beyond. I have no idea how many users I would have. Say 500 to 1000 users. I would have international users as well. I believe the entire web application is under 2 GB but it will grow. \n\nI see this site called Winhost.com. It has an option called Max for 10 per month, with unlimited Disk space and bandwidth. 2 GB for their SQL or MySQL however I never plan to use it. I have XML database files already created. This seems like what I need. Are there other like sites for me to compare. Am I looking at the right place or am I off about what host I need for my web application. \n\n  \nIf you need me to edit to include more information, please let me know. Ask anything. Thank you. ",
+        "num_comments": 0,
+        "comments": []
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "New Jellyfin Server/Web release: 10.9.4 - Hopefully most 10.9.z bugs are now fixed or close to it!": {
+        "title": "New Jellyfin Server/Web release: 10.9.4 - Hopefully most 10.9.z bugs are now fixed or close to it!",
+        "score": 172,
+        "url": "https://forum.jellyfin.org/t-new-jellyfin-server-web-release-10-9-4",
+        "content": "",
+        "num_comments": 0,
+        "comments": []
+    },
+    "New Jellyfin Server/Web release: 10.9.0": {
+        "title": "New Jellyfin Server/Web release: 10.9.0",
+        "score": 339,
+        "url": "https://jellyfin.org/posts/jellyfin-release-10.9.0",
+        "content": "",
+        "num_comments": 0,
+        "comments": []
+    },
+    "The feature freeze and testing window for 10.9.0 has started! Please help us test the next major version of Jellyfin.": {
+        "title": "The feature freeze and testing window for 10.9.0 has started! Please help us test the next major version of Jellyfin.",
+        "score": 223,
+        "url": "https://jellyfin.org/posts/testing-10.9.0",
+        "content": "",
+        "num_comments": 0,
+        "comments": []
+    },
+    "Jellyfin for LG webOS!": {
+        "title": "Jellyfin for LG webOS!",
+        "score": 469,
+        "url": "https://www.reddit.com/r/jellyfin/comments/1bjkscp/jellyfin_for_lg_webos/",
+        "content": "Good news for all - Our LG webOS app is now approved for all versions! No more developer mode or homebrew required, just go the content store and install!\n\nIf you currently have the developer or homebrew versions installed, please make sure to remove those before using the store version.\n\nhttps://us.lgappstv.com/main/tvapp/detail?appId=1030579",
+        "num_comments": 0,
+        "comments": []
+    },
+    "New Server/Web hotfix release: 10.8.13": {
+        "title": "New Server/Web hotfix release: 10.8.13",
+        "score": 89,
+        "url": "https://forum.jellyfin.org/t-new-server-web-hotfix-release-10-8-13",
+        "content": "",
+        "num_comments": 0,
+        "comments": []
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "Apple Event Discussion Thread: WWDC 2024 Keynote": {
+        "title": "Apple Event Discussion Thread: WWDC 2024 Keynote",
+        "score": 12,
+        "url": "https://www.reddit.com/r/mac/comments/1dcqb8z/apple_event_discussion_thread_wwdc_2024_keynote/",
+        "content": "",
+        "num_comments": 10,
+        "comments": [
+            "Sorry to the guy that made Rectangle \ud83d\ude14",
+            "It's funny how often the idea of OCR for math & equations comes up on the eInk device subs ... so the new math notes feature in iPad calculator is pretty cool to see.",
+            "iOS Apple takes from Android. Android takes from Apple. Each talk like it it mind blowing new features.",
+            "I wonder if they limit the airpods pro features to the USB c model.",
+            "Honestly I thought the MacOS section was disappointing. I was waiting for it the whole show and missed the first maybe 3-5 minutes but to see that it was mostly update features from iOS plus maybe 3 more was a bit disappointing, plus the AI of course which I dislike.",
+            "Have you done the Vision Pro demo at the Apple store?\n\nWhat price would you pay for the Vision Pro?",
+            "I'm glad there's competition. This is good.\n\nI wish there were a viable third competitor. MS really screwed the pooch on that one.",
+            "Naw. You can buy just the case for them for $100 usd.",
+            "I feel like I would love to have one for 1500 or less, and to get there they can remove really dumb features like the little screen that shows your eyes on the outside.\n\nI think I will really enjoy the Vision Pro 3 or 4. Until then I can't justify spending that kind of money."
+        ]
+    },
+    "Is there any way I can turn off the exceedingly repetitive \"Which MacBook should I buy?\" questions in my r/mac feed?": {
+        "title": "Is there any way I can turn off the exceedingly repetitive \"Which MacBook should I buy?\" questions in my r/mac feed?",
+        "score": 64,
+        "url": "https://www.reddit.com/r/mac/comments/1dlpfok/is_there_any_way_i_can_turn_off_the_exceedingly/",
+        "content": "Asking for a friend",
+        "num_comments": 21,
+        "comments": [
+            "Yes, if the moderators pin this url\n\nhttps://www.apple.com/mac/best-mac/",
+            "The annoying thing is that most have already decided what to buy - they just want validation before dropping the cash",
+            "Implement a bot",
+            "Thank you. These questions also pop up regularly in the Logic subreddits and it is beyond annoying. I\u2019m always tempted to recommend to the OP to buy the most expensive MBP with maxed out specs. You never know what you might need in the future\u2026/s",
+            "People want buying advice, and it's often not satisfied by a simplistic decision tree from Apple on the \"best Mac\" for anyone's particular requirements.  Perhaps if it upsets people there should be a Mac buying advice sub, linked to prominently in the sidebar, and any questions about buying a Mac here should simply be banned?  An auto moderator could auto delete threads asking about which Mac to buy and point them elsewhere...",
+            "You\u2019re new to Reddit, aren\u2019t you.",
+            "An internet without exceedingly repetitive questions would be like a good music concert without hundreds of raised smartphones.",
+            "Mute this sub and resign r/appleiscult",
+            "Very optimistic of you to think that a pinned thread will prevent repetitive questions.",
+            "the reality is most people don\u2019t read pinned posts"
+        ]
+    },
+    "even apple recommends 16gb": {
+        "title": "even apple recommends 16gb",
+        "score": 282,
+        "url": "https://i.redd.it/pz251nh7708d1.png",
+        "content": "",
+        "num_comments": 73,
+        "comments": [
+            "16GB is also the minimum threshold to use the upcoming AI code completion feature in Xcode and Swift.",
+            "Well, yeah, you\u2019re looking at the recommendations for a pro video editing app. The base models aren\u2019t supposed to be suitable for all use cases.",
+            "For Final Cut Pro \ud83d\uddff",
+            "why wouldn\u2019t they? does anyone actually think apple making 8GB base specs is because they think it\u2019s enough?",
+            "That is a requirements guideline from Final Cut. You can have different opinions about what the RAM number should be (which I agree) but you shouldn\u2019t be misleading. You\u2019ll also lose credibility and nullify an otherwise valid concern",
+            "Of course. Nobody do video editing with 8GB Ram. Where is the joke?",
+            "I mean isn\u2019t 16GB of RAM becoming standard?  It\u2019s kinda the bare minimum I\u2019d recommend for gaming these days, let alone a professional program.",
+            "For Final Cut Pro? Sure, 16GB is a lot better than 8GB.",
+            "I use Final Cut 10.7 (not upgraded to the latest version yet) on my base M1 Air with 8gb RAM. I edit 4K, 60fps, 10 bit video and it's really impressive how well it handles it. The only issue I've had was some of my footage from my drone came out super wobbly - I ran it through Gyroflow (a stabilisation app) and then tried to add extra stabilisation in FCP and it took quite some time. I'm very much an amateur though, making videos for Instagram and youtube. A friend of mine does it for a living - making videos for F1 teams, for example - and obviously he needs something much more powerful for what he's doing.",
+            "8GB is a joke in 2024"
+        ]
+    },
+    "What is happening with my Mac M1?": {
+        "title": "What is happening with my Mac M1?",
+        "score": 19,
+        "url": "https://i.redd.it/2kgzpef9l38d1.jpeg",
+        "content": "I don\u2019t know what happened but suddenly one day when I opened my macbook I started seeing this rectangular block on my screen from top to bottom and time to time other parts of the screen also flickering while this block stayed constant. I have not dropped the mac or spilled something on it. Any ideas what the issue is? Do I need to replace my display\u2639\ufe0f?",
+        "num_comments": 11,
+        "comments": [
+            "Try moving the lid back and forth and see if that changes the pattern - it looks like the display or connection is faulty. Let it get checked by a Genius",
+            "Winter is coming.",
+            "It's an LCD issue, nothing wrong with anything else. Changing the panel is ~$350 in 3rd party service shop, or ~$800 at Apple authorized shops in my country (Czechia)\n\nAlso this can be a warranty issue as there is no visible crack",
+            "I had a similar issue (in the same spot funnily enough) on my MacBook Air M1. The screen turned purple and green intermittently. Screen was deemed faulty and replaced (under AppleCare). \n\nGet some diagnostics undertaken and next steps from https://getsupport.apple.com",
+            "I don't know but it looks cool though. I might make a wallpaper like this.  \n  \nMaybe the flex cable, but it usually it doesn't make horizontal columns like this. What model is it?",
+            "Have you tried buying a m3 max pro with 96 gb of ram ? That should help out.",
+            "Moving the lid does not do anything to the block, it remains the same. I should probably get it checked. Thanks",
+            "Mine is dead stripe in almost same spot",
+            "It\u2019s Macbook Pro, 13inch, M1, 2020",
+            "Flexgate isn't common on M1s, so it's probably a GPU or display controller issue. If you still have warranty, take it to an Apple Store."
+        ]
+    },
+    "The good ol days": {
+        "title": "The good ol days",
+        "score": 42,
+        "url": "https://i.redd.it/yvqjyga8y08d1.jpeg",
+        "content": "When all you need was less than a gig of ram, and less than 1GHz from your processor.",
+        "num_comments": 6,
+        "comments": [
+            "This guy likes Safari",
+            "Also, a spinning disk and a 800x600 CRT.",
+            "We still have some G3s on the shelf, I used to play music on them, their speakers were really good in their time.",
+            "Not just system requirements.  The UI and desktop environment were just about perfected, in those days before Apple tried to make everything work like a phone.  And yes, I'm irritated by the \"flat\" look of everything now too, which doesn't provide enough visual cues.\n\nIf you want to design user interfaces, and really study how to make an elegant, efficient and user-friendly one, then digging up an *early* version of TextEdit or OmniGraffle as examples to study would be worth the effort.",
+            "How you figure that",
+            "I have a hunch"
+        ]
+    }
+}

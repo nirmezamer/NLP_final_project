@@ -1,0 +1,86 @@
+{
+    "Is Dotnet reliable when it comes to machine learning?": {
+        "title": "Is Dotnet reliable when it comes to machine learning?",
+        "score": 13,
+        "url": "https://www.reddit.com/r/dotnet/comments/1dlp4d7/is_dotnet_reliable_when_it_comes_to_machine/",
+        "content": "I'm a college student majoring in artificial intelligence. As far as I know python is the dominant language in this field and for sure I will be using it however as a person who loves the dotnet ecosystem I really wonder if I can also extent the artificial intelligence training etc. using C# (Big Fan by the way)",
+        "num_comments": 14,
+        "comments": [
+            "I'm not deep into AI, but I think the reason Python is so prevalent and has the upper hand with regards to maturity, is the fact that it's used a lot in academia - and a lot of research happens there.\n\n\nHowever, you have Tensorflow for .NET, and stuff like this readily available -> https://dotnet.microsoft.com/en-us/apps/machinelearning-ai/ml-dotnet",
+            "Describing models is pythons teritory. It has mature eco system, tutorials and such. Also it is easy to wrangle data in python. Training is esentialy C + gpu, it happens in automated manner anyways, so language does not matter. Inference - this is where using c# makes sense, or other languages for that matter. In a lot af cases models only need a runtime to run and that runtime is ussualy a C dll.\n\u00a0",
+            "Agree to other answer that says that while it's available, it's nowhere as mature as in Python. The biggest issue you will face is that you will find it harder to get help when you hit a wall. \n\nHowever, I think you could also try using something like ONNX to save your model (trained in Python) and serve it with .NET, though I never really use it in production.",
+            "yea, I'd stick with python tbh",
+            "ML.NET exists, but is very difficult to get into compared to Python (especially huggingface). The documentation is rather sparse, the libraries aren't as broad, and the community is comparatively quite small.\n\nI suggest looking at the [transformers](https://huggingface.co/docs/transformers/en/index) documentation, follow the tutorials to do something easy and simple, then look at the ML.NET docs and see if you can reproduce it.\n\nEdit: To be clear, anything you can do in python you can do in ML.NET, but depending on what you're doing, the latter might require expert-level knowledge to achieve what in the former would be a single line of code. On the other hand, if you're majoring in AI it may be good to learn. The transformers library can in some ways be a crutch.\n\n(If you're using the low-level APIs though it's literally identical in either language, because they're both just bindings; [TorchSharp](https://github.com/dotnet/TorchSharp) even copied the Python API outright.)",
+            "Absolutely not. I did some simple image classification a while back. [ML.NET](https://ML.NET) is horrible and won't make it easy to define your own layers. Then I tried using [TensorFlow.NET](https://TensorFlow.NET) which is just C# bindings for TensorFlow. Also horrible. The versioning is a mess and functions are missing left and right. Finally I gave up and did it all in Python. For any future ML project I won't even try to use anything other than python.",
+            "For the short term Python will be the go to language for ML simply because it's the language researchers use and ML is still largely in an embryonic stage of its development.\n\nPython isn't a particularly great language, but between the language itself and a few notable libraries it allows academics to write math heavy code that's \"correct\" without having to understand what they're doing or learn more than the bare minimum.\n\nIf any of this stuff actually comes to something that's useful enough to be a regular part of development and mature enough that it doesn't take a Data Scientist (who probably only knows Python) manually fiddling with it for a thousand hours to get a result, you'll see the mature algorithms implemented in all sorts of languages, but the research isn't really there yet.",
+            "Use the right tool for the job. C# is a great language but it isn\u2019t good at everything. Use Python for ml.",
+            "There are so many hardware optimizations available in the python libraries now- PyTorch and Jax in particular.\nNew implementations and optimization updates are coming out monthly, even weekly at some points.\n\nYou're just not going to get this with the ML .net framework.\n\n\nOther than python, C and it's derivatives, such as CUDA, are useful for training and embedded ML.\n\n\nUnfortunately the .net ecosystem doesn't cut it here\u00a0",
+            "Dotnet is reliable, sure.\n\nBut python has more stuff available."
+        ]
+    },
+    "How to handle DaylightSaving in .NET?": {
+        "title": "How to handle DaylightSaving in .NET?",
+        "score": 17,
+        "url": "https://www.reddit.com/r/dotnet/comments/1dlmc5h/how_to_handle_daylightsaving_in_net/",
+        "content": "I am working on an e-commerce website. \nWe have stores and their opening and closing time is listed there. We have Set the timezone AEST in website configuration. \n\n\nBut During DaylightSavings the time it showing is wrong. \nHow to handle that? \nThere are different timezones also in Australia. \n\n\n ",
+        "num_comments": 32,
+        "comments": [
+            "We store in UTC and use [Noda](https://www.nuget.org/packages/NodaTime) to localize to a time zone. Offsets from UTC change over time (ie DST, etc.). It\u2019s best to let the library localize it for you.",
+            "For *future* events, you really need to store two pieces of information:\n\n- Timestamp, in UTC\n- Timezone of the event (in your case, the timezone of the store)\n\nNote - I didn't say *offset* of the event. I said *timezone*.  The offset of a given timezone changes throughout the year - that's what daylight saving time is.\n\nFor *past* events, it's enough to just store the timestamp with offset.",
+            "https://youtu.be/-5wpm-gesOY?si=Kj2BaGqxOvuwZW53\n\nAlways a good watch",
+            "https://blog.nodatime.org/2011/08/what-wrong-with-datetime-anyway.html\n\nGood write-up why just saving utc plus offset still isn't enough.",
+            "Always srore UTC + TimeZoneId. Remember, some hours don't exist and some exist twice (DST changes). In UTC everything is unique.",
+            "As others have said, store UTC DateTime and timezone. You can convert them to a local DateTimeOffset, which is very similar to a DateTime but has an Offset property. It's good to make some helper functions and unit test them thoroughly.\n\nBeware of AddHours, AddDays, etc. Most weeks have 168 hours, but in the week when the clocks go forwards there are 167, and 169 in the week when they go back. The Add methods do not take this into account. I had to make my own AddHoursDst extension methods to handle this.",
+            "I'd store opening hours as DayOfWeek and a tuple of TimeOnly.",
+            "The usual strategy is to use UTC for stored times as much as possible and convert to local time on display.",
+            "The new DateTimeOffset type is your friend",
+            "And that is why you need to use Yoda time, or as others mentioned DateTimeOffset and offset the utc + timezone"
+        ]
+    },
+    "Look ma, no Dockerfile! - Publishing containers with the .NET SDK": {
+        "title": "Look ma, no Dockerfile! - Publishing containers with the .NET SDK",
+        "score": 45,
+        "url": "https://blog.martincostello.com/look-ma-no-hands-publishing-containers-with-the-dotnet-sdk/",
+        "content": "",
+        "num_comments": 28,
+        "comments": [
+            "What\u2019s wrong with dockerfile?",
+            "Interesting! Definitely something I'm going to consider over buildpacks in a no-frills I want to get my code to a image way of life",
+            "I used to write dockerfiles in CI via custom powershell scripts, which in turn used MSBuild assemblies to extract some project-level properties. then feed these dockerfiles to Kaniko.\n\nI\u2019m glad this exists now, since what I did was basically filling this gap with a bespoke solution.",
+            "AWS Lambda lets you host container-less dotnet apps. Dirt cheap too.",
+            "For .NET the big problem is project references and solution level context. \n\nHere\u2019s a great example:\n\nhttps://github.com/dotnet-architecture/eShopOnContainers/blob/dev/src/Services/Basket/Basket.API/Dockerfile\n\nThis is quite frankly a dumpster fire",
+            "I use this from the build server to create a docker image and publish it to a registry. Super useful that\u2019s it\u2019s builtin",
+            "Nothing wrong with Dockerfiles per say, but it's very helpful to be able to handle all of the tagging / publishing using repository + runtime metadata using dotnet publish - the one thing this tool can't do super well so far is multi-targeting (i.e. building images that support ARM, x64, et al at under the same tags) but I believe they have plans to fix that",
+            "Other folks have hit on many of the relevant points, but for me the best part of this is never having to update my base image + tag ever again. No matter how I choose to build my app (framework dependent, self contained, AOT) and which TFM I use, the container is always correct.",
+            "It requires docker.",
+            "What's wrong with plain SQL? Too hard for someone, so we got an Entity Framework that makes life 100x harder\n\nThis probably will help someone who does not understand Dockerfiles, but will be a pain in the ass for other team members"
+        ]
+    },
+    "What is expierenced devs feelings with there first ticket when joined a new company ?": {
+        "title": "What is expierenced devs feelings with there first ticket when joined a new company ?",
+        "score": 43,
+        "url": "https://www.reddit.com/r/dotnet/comments/1dla69w/what_is_expierenced_devs_feelings_with_there/",
+        "content": "\nJoined another .NET company with their own special ways of doing things. Love the company and people \n\nGot my first ticket and found there was a lot of back and forth because the requirements or specs weren't right.\n\nYou feel like you're fixing others' issues.\n\nI've been a developer for 25 years, but at any new company I join, the first ticket is always the hardest.\n\nYou're still learning their ecosystem and coding style standards.\n\nIt just makes you feel so drained when you know if standards keept to you'd be fine.",
+        "num_comments": 23,
+        "comments": [
+            "The first ticket has me wondering if I'm too bad at programming and should pursue another career. By the 10th or so I'm starting to understand it's not a me problem.",
+            "When I first joined this new company, I wished there were some standards followed like my previous company. Turns out in this company, there is no pull request review done, it's good if the thing works and bad if it doesn't. That seems to be a lot more stressful as the blame comes to the single developer who coded that feature.",
+            "First tickets are so important for learning the zietgiest and style of a team. I try and get involved in actual work as quickly as possible these days - even if it's just a relatively trivial bugfix. Just simple things like:\n\n  \n- How do I test this?\n\n- How do I run it locally?\n\n- What does this actually do in the system?\n\n- What's the tooling you're all using?",
+            "Dafuq is this? Dafuq is that? Dafuq am I doing?",
+            "I get no satisfaction because I know my change is probably going to break something obscure. I don't know the ins and outs of their system yet, the whole team knows it, and it's expected. \n\nEither you always start with something low impact, so that failure is a valid way of learning the system. Or you get some morale hurting PR comments.",
+            "My first dev job and first ticket were awesome. They gave me some low-hanging fruit for 2 sprints, then I flourished to senior dev over the next 3 years.\n\nThen we have a company re-organization where I was put under a BA who had less than 10% of the skills of the previous BA team, and I just couldn't keep up. \n\nI went from taking the hardest things that nobody wanted to touch to not knowing who to reach out to across the organization. I quit pretty quick.",
+            "Here we go again.",
+            "When I onboard new devs I never throw them to the wolves like that. I give them very easy tickets up front and slowly increase the complexity over weeks or months, to gradually acclimate them to our systems, people, processes, structure, data, policies, coding style, etc. Usually the first 10-20 tickets expose them to 1 new thing at a time so they can adapt slowly.\n\nThe stories I'm reading in these comments are nuts.",
+            "I've been doing this for as long as you and in my experience it's the same everywhere, organised chaos that you grow into after a while.",
+            "my process when onboarding devs/ first day is to give them an easy ticket/fix they can do in a few hours, show them how the deploy process works and let them actually schedule the production release\n\nseems to go over pretty well"
+        ]
+    },
+    "Starting MAUI after ASP.NET ": {
+        "title": "Starting MAUI after ASP.NET ",
+        "score": 1,
+        "url": "https://www.reddit.com/r/dotnet/comments/1dlv93u/starting_maui_after_aspnet/",
+        "content": "Good afternoon all,\n\nI've been developing application in ASP.NET for the past few years both in education and also employment. Most of my experience has been with ASP.NET Framework MVC however I have dabbled with WebForms and more recently I've started working with ASP.NET Core and also Blazor.\n\nI've just recently started learning a bit of MAUI too which is completely new to me as I've never worked with native applications before. Unfortunately no one at my employment has done any native application development either so this is all self learning at this point.\n\nWhile I am getting a basic grasp of how it works, I'm wondering if there are any top level words of wisdom or tips you guys have when it comes to working with native applications that doesn't apply to web applications? Just a little conscious that there will be stuff to do with making these applications that I don't even know that I don't know.",
+        "num_comments": 0,
+        "comments": []
+    }
+}

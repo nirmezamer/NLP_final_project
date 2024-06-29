@@ -1,0 +1,86 @@
+{
+    "Found this on a torrent, cause for concern???": {
+        "title": "Found this on a torrent, cause for concern???",
+        "score": 8,
+        "url": "https://i.redd.it/fdteqidoh18d1.png",
+        "content": "",
+        "num_comments": 11,
+        "comments": [
+            "Thermite your PC just to be safe.",
+            "3 body problem?",
+            "Can you open the \"Details\" tab?",
+            "The folder is in Chinese \u5218\u6148\u6b23, author of The Three-Body Problem",
+            "Eheh yeah, I finished the Netflix show (also torrented) and couldn't wait until the next season so I found the audiobooks xD",
+            "norp it's gone now though. I unplugged and plugged my phone in again and it and an unnamed folder are both gone. There's an audiobook that's the exact same file size as it though so it makes me think my PC just wasn't reading it right (there were other errors as well) thanks though! That was scary eheh",
+            "I did the same :D",
+            "HEHEH ALRIGHT! I hear the novels are a little dry, but I'm willing to give it a shot :>",
+            "Me three",
+            "they're not dry. the first ~half of the first one is. after that they're amazing."
+        ]
+    },
+    "uTorrent group policy virus?": {
+        "title": "uTorrent group policy virus?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/torrents/comments/1dlke15/utorrent_group_policy_virus/",
+        "content": "I had uTorrent installer on my PC that I never used up until today when i needed but when i installed it a couple of random things were installed which was fairly easy to get rid of but it looked like i also had something with group policy going on where windows virus scan was blocked by an IT administration i was able to fix it all but i was wondering if anybody else has had this happen to them or has heard about it. i have no idea where i would've got a bad installer. Also side note my torrent was magnet link so i never downloaded anything, everything went to shit whenever i ran the installer so idk\n\nstay safe out there",
+        "num_comments": 20,
+        "comments": [
+            "uTorrent comes bundled with trash and you didn't pay attention during install.\n\nDitch it completely and use qbittorrent.\n\nAs for your other issue run windows defender scan and grab Malwarebytes. You'll be alright. uTorrent comes with bundled trash but it's not that serious of a threat.",
+            "They should put at the top of the rules list Don't use utorrent. Everyday theres someone posting about it affecting their computers with a virus.",
+            "In addition to my other comment, if you're using a VPN to download, then you want to bind the torrent client to the VPN interface. You can Google this and easily find the how to of this.",
+            "1st: stop using uTorrent\n2nd: switch to qBittorent. Same functionality and you can even move existing uTorrent lists to it with a script\n3rd: pay attention to what you are installing",
+            "There's nothing wrong with utorrent, OP just didn't pay attention when they were clicking through the installer. Also most torrent clients do the exact same thing, so there's no real reason to go with qbittorrent in particular.",
+            "Well the fact it comes bundled with trash no one would want on their PC is reason enough for most people to not use it. Qbittorrent is free and open source. Gotta love that.",
+            "> it comes bundled with trash no one would want\n\nutorrent isn't the only free software that bundles other software \"offers\" in its installer. CCleaner does this as well, and it's considered one of the best (if not the top) drive cleaner.\n\n> Qbittorrent is free and open source.\n\nutorrent is free as well. Also the most recent security exploit in utorrent [is from 2018](https://www.cvedetails.com/vulnerability-list/vendor_id-6117/Utorrent.html) while the most recent qbittorrent exploit was discovered [only a few months ago.](https://www.cvedetails.com/vulnerability-list/vendor_id-16171/Qbittorrent.html) On top of that, the exploit affects every version of qbittorrent since it was first released. Which is the *exact* situation that source code auditing is supposed to prevent. And yet that didn't happen.\n\nI guess what I'm trying to say is that it's interesting how utorrent is objectively safer to use than qbittorrent, despite not being open source.",
+            "That vulnerability you're talking about in the end is user error. Sure, should have been programmed to force default credential change but come on, anyone enabling and setting up web interface should know to change those credentials. I'll test when I get home to see if that has been fixed though its probably able to be confirmed through Google. As 4.5.5 is no longer the current version.\n\nAlso, I'd rather have open source and the ability for anyone to audit the code than closed. And who knows what vulnerabilities might exist in uTorrent. Possibly ones that are known by malicious groups now and not being shared or reported. At least with qbittorrent there is the ability for anyone to look deep into the issues.\n\nGuess we'll have to agree to disagree but I can tell you the overall community of piracy and torrenting would back the qbittorrent position over the uTorrent position.",
+            "Then CCleaner is trash too.",
+            "> I'd rather have open source and the ability for anyone to audit the code than closed.\n\nIf qbittorrent's source code was being properly audited, that exploit wouldn't have gone undiscovered for so many years. So it would seem the qbittorrent community is comprised of a bunch of people who all think someone else is auditing the source code for them.\n\n> And who knows what vulnerabilities might exist in uTorrent.\n\nBlind speculation.\n\n> Possibly ones that are known by malicious groups now and not being shared or reported.\n\nThe irony is that malicious groups mod open-source torrent clients (like qbittorrent) into [cheater clients](https://reddit.com/r/torrents/comments/1c30ytu/a_lot_of_chinese_adresses_at_once) that intentionally misreport download and upload stats to the tracker. Which is virtually impossible to do with a closed-source client.\n\n> I can tell you the overall community of piracy and torrenting would back the qbittorrent position over the uTorrent position.\n\nutorrent accounts for [70% of all torrent client installs](https://en.wikipedia.org/wiki/Usage_share_of_BitTorrent_clients) whereas qbittorrent accounts for 3.4% - down from 18.75% just 5 years earlier.\n\nFor every person who installs qbittorrent, 20 people install utorrent."
+        ]
+    },
+    "Libre Torrent ": {
+        "title": "Libre Torrent ",
+        "score": 0,
+        "url": "https://www.reddit.com/r/torrents/comments/1dlp3l2/libre_torrent/",
+        "content": "How can i add trackers on Libretorrent mobile",
+        "num_comments": 0,
+        "comments": []
+    },
+    "What am I doing wrong?": {
+        "title": "What am I doing wrong?",
+        "score": 7,
+        "url": "https://www.reddit.com/r/torrents/comments/1dl7aao/what_am_i_doing_wrong/",
+        "content": "[Its says: \\\\\"Connection Status: Offline\\\\\"](https://preview.redd.it/swyw0ba65y7d1.png?width=823&format=png&auto=webp&s=31913f0517ae96b28b914d0c2dde4dfcf52a70ed)\n\n[The port is open](https://preview.redd.it/w99du2h65y7d1.png?width=448&format=png&auto=webp&s=3ddbc63b65fb8ea10341a38358ae4b57ea7e1377)\n\n[My port forwarding setup](https://preview.redd.it/gz201at65y7d1.png?width=816&format=png&auto=webp&s=2a588916e536b3b3f55ea7d05cbe5aa8b2904034)\n\n",
+        "num_comments": 17,
+        "comments": [
+            "Use a 5 digit port number, up to 65535, instead of the default bittorrent port.",
+            "Well you don't have to open a whole range, just the one port shown in the client.\n\nOther than that looks good.\n\nIf you're using a VPN be sure to bind qbittorrent to your VPN interface in the advanced options.",
+            "try downloading a linux iso to see if qbit starts connecting to peers on dht",
+            "how do i get your theme",
+            "That solved it, Thanks!",
+            "I have no VPN. Where I live It's not needed.",
+            "So why it is not working?",
+            "Linux iso works, but for some reason all peers are uTP.",
+            "I posted guide for windows\n\nhttps://www.reddit.com/r/Piracy/s/zuVe2CCcsz",
+            "I changed the QT5 settings on linux."
+        ]
+    },
+    "Uploader Behavior ": {
+        "title": "Uploader Behavior ",
+        "score": 61,
+        "url": "https://www.reddit.com/r/torrents/comments/1dkpqdv/uploader_behavior/",
+        "content": "People that upload videos for movies in low quality need to say so. When they make a file available and call it \"HD2160p\" or whatever the fuck, and I spend hours waiting for it to download all 12GB of it...and then it fucking turns out to be some sideways, half cut off, pixelated cinema recording barely in 144p, I feel like those uploaders should get bum cancer. ",
+        "num_comments": 43,
+        "comments": [
+            "Where are you getting your torrents? Do they not have a comments section? Try seeing if the torrents or only get torrents that have proof samples in the torrent you can download before you get the whole thing. Look at uploader ratings. Decent sites have a number of ways of avoiding this type of thing. I've never had this happen.",
+            "Check \"Download first and last piece first\" and \"Sequential download\" in torrent client.\n\nWait 5 minutes.\n\nHave a peek at the file with VLC.\n\nMake a decision.",
+            "Even worse when they have shit internet speeds and it takes 2 days to download. Haha",
+            "Start trying to get into privates",
+            "Incase you're new to torrenting, keep a mental note of good uploaders for various content ex TV, Movies, Games etc. There are established uploaders/release groups that maintain high quality due to the competiton. One easy way to find out who has quality work is to look at their upload history, ex. how many movies have they uploaded, how many seeds their older torrents have, what type of comments do their torrents generally have.\n\nI can understand your frustration, everyone goes through that in the beginning and that's how it is.\n\nNever just look at the torernt title to decide to download, the uploader should be the deciding factor for if you wanna download the file. Anyone can create a torrent, but having a good upload history going back atleast couple of years is the mark of quality.",
+            "Stick with scene releases and that doesn't happen. Check predb.me for nukes if the case. \n\nDon't download stuff made by a 12 year old kid for the lolz, you don't know if is the real stuff or some malicious crap",
+            "This is why veterans moved to private trackers. You have better quality control and organization.",
+            "Just public tracker problems \ud83d\ude02",
+            "Do they earn from torrents?",
+            "That\u2019s why I stick to certain sites like yts and wait for them to upload 4ks. 1337x is often a gamble. Also, I skip the files over 8 gigs"
+        ]
+    }
+}

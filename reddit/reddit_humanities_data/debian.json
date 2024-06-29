@@ -1,0 +1,63 @@
+{
+    "Long beep after login": {
+        "title": "Long beep after login",
+        "score": 4,
+        "url": "https://v.redd.it/4ym9s6ofyg9d1",
+        "content": "Hi everyone, I installed Debian recently. I am facing this problem. At login, after I enter the password, system takes lot of time to come up. Once a long beep, then it comes up. Attached video.\n\nPlease let me know if any logs I can provide.\n\nI have ubuntu & windows isntalled on same system BUT different SSD, they are fine and quick to login.\n\nThanks.",
+        "num_comments": 1,
+        "comments": [
+            "That's bizarre. It sounds like a [pc speaker beep](https://en.wikipedia.org/wiki/PC_speaker), this is usually associated with firmware and hardware issues. Perhaps take a look through your boot logs with `sudo journalctl -b` scroll down using the down or enter key to near the end and look for the timestamps surrounding the time when the beep happened and see if there are any obvious error messages which might help to diagnose the problem. If you find an error but don't know what it is, paste it here and I'll try to help."
+        ]
+    },
+    "Should I try Debian?": {
+        "title": "Should I try Debian?",
+        "score": 26,
+        "url": "https://www.reddit.com/r/debian/comments/1dqupj7/should_i_try_debian/",
+        "content": "Should I try Debian? I have used Linux mint cinnamon for 4 months, I like using but kinda wanted to do reinstall it, but I also want to try Debian with KDE for a while.\n\nMy use of OS is programming,  using browser alot, and gaming.\n\nI have read that gaming on Debian is not good, but games I play are bit older, and don't play much  multiplayer games. It's mostly some indie game or old game (old like 3 or more year old) that doesn't require high end hardware.\n\nAlso I tried on Virtual-box and a live USB, network worked fine, was able to use browser, I think I had bit problem on virtual-box with audio but as much I remember on live USB it worked fine.\n\nMy reason to consider installing Debian is just that I want to try KDE, mint does everything I need but trying new stuff is fun.\n\nMy concern is with games working properly, not much trouble with drivers.\n\nAlso is using KDE with Debian good idea?  if not is there better option of DE for Debian.\n\nEdit : I forgot to add in post that I have NVIDIA GPU and AMD CPU.",
+        "num_comments": 52,
+        "comments": [
+            "Gaming on Debian is fine, you have to jump through a few extra steps to install something like Steam or the latest Wine.  Debian doesn't support proprietary software by default, you have to enable the repos for it.  After that you can go crazy with whatever software you want like any other distro.  The key feature of Debian it's stable, you don't have to sweat every time the update icon lights up.  You will only see security updates, no feature stuff will get pushed on you.",
+            "Debian is my favorite",
+            ">try Debian with KDE\n\n*Lots* of choices (and freedom!) with Debian.  So yes, many DEs and WMs, pick one, or several, or even none, depending what one prefers - no need to change distros.\n\n>programming\n\nDebian's generally excellent for that.\n\n>browser\n\nMost any distro can do that quite well - Debian's no exception there.\n\n>gaming\n\nIf your needs aren't too extreme, Debian's likely fine for that.  Even if the needs are more extreme, Debian may still do quite well there.\n\n>reason to consider installing Debian is just that I want to try\n\nDebian offers *many* choices.  Want [systemd?  There by default.  Don't like systemd, want some other init system, easy enough, no need to change distros.  I've got both Debian systemd, and non-systemd hosts I support](https://www.reddit.com/r/debian/comments/1dfy38r/comment/l8rfp3b/).  Want small and lean - [I've got bare bones Debian with only 148 packages installed](https://www.reddit.com/r/linuxquestions/comments/1ct25t6/comment/l49pb9u/).  Want more?  Sure, [64,419 packages](https://www.debian.org/News/2023/20230610) to choose from.\n\nSee also:\n\n[Debian wiki: Debian Systems Administration for non-Debian SysAdmins](https://wiki.debian.org/Debian_Systems_Administration_for_non-Debian_SysAdmins)",
+            "I use Debian with KDE and I like it. You'll want the NVIDIA drivers, following [Debian's directions for installing them](https://wiki.debian.org/NvidiaGraphicsDrivers). I've found that the Noveau drivers are more likely to crash.",
+            "I'm literally in the process of shifting 8 of my 9 computers/servers to debian. Used to all be windows. With how much windows costs, plus windows 11 requiring TPM 2.0, it would pretty much force me to buy new computers if I want to stay with windows, so that's an easy decision.\n\nHonestly, the entire experience of converting has been incredible, and an insane amount of fun. Linux today is so far from what it was in the 90s. That being said, I still have my 1 windows box for gaming, but that's about it. Even cross platform synergy works, crazy stuff.  Also KDE Plasma has been my favorite desktop experience so far. GNOME being the worst, though probably because I don't appreciate the Mac aesthetic.",
+            "> Should I try Debian?\n\nyes.. if you dont like it, you allways can switch to another system ;) try all you are interesstet in, to find the one, that fits your needs the most ;) \n\n> I have read that gaming on Debian is not good, but games I play are bit older, and don't play much multiplayer games. It's mostly some indie game or old game (old like 3 or more year old) that doesn't require high end hardware. \n\nthere is nothing preinstalled on debian for gaming - but you can install Steam and Wine - its not a big deal - especialy for indygames - also because more and more indygames have a linux version\n\n>  My concern is with games working properly, not much trouble with drivers. \n\nsince bookworm/debian 12, debian dont exclude proprietary drivers from the main installer - therefor, for hardware, that is supportet on a debian system, the installation process should install the proper drivers whitout any problems\n\n>  Also is using KDE with Debian good idea? if not is there better option of DE for Debian. \n\nKDE on Debian is unmodified, that means: its the pure KDE experience - but its not th newest version. Therefor: jap, debian is absolutly fine for KDE, if you like a stable version of KDE.. if you allways want the newest version of KDE, try KDE Neon (ubuntu based) or Arch",
+            "I think everyone should try Debian. It\u2019s a solid everyday driver that you can customise as much or as little as you need; my install is tweaked for music production for example but it\u2019s also what I boot to just to check emails and that sort of thing. That said, I have a Garuda install that I\u2019m using for gaming, it\u2019s just easier to get there on a gaming-focused distro. Totally doable on Debian mind you, especially with backports, just more time and trial and error.",
+            "Yes",
+            "Yes",
+            "I'm using KDE on Debian and really happy with it. If you install NVIDIA proprietary driver it will work just same as on other distros.\n\nHowever, if your main purpose is just to do a \"distro hop\" and try KDE, You can also consider KDE neon or rolling release distros as they have latest KDE. You know, Debian is a distro which is focusing on stability."
+        ]
+    },
+    "tnks debian !": {
+        "title": "tnks debian !",
+        "score": 11,
+        "url": "https://i.redd.it/1vuan8phnd9d1.png",
+        "content": "",
+        "num_comments": 2,
+        "comments": [
+            "Kernel 6.9.7... fancy!"
+        ]
+    },
+    "How remove Battery limit charge on debian?": {
+        "title": "How remove Battery limit charge on debian?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/debian/comments/1dr1c1d/how_remove_battery_limit_charge_on_debian/",
+        "content": "Hey guys.\n\nI have a Lenovo Ideapad 3 notebook, and I used Windows 11. On Windows, I used Lenovo Vantage, a program from Lenovo that can do a lot of things, and one of those things was to limit the battery charge to 60% to preserve the battery.\n\nSo, I installed Debian 12, but I forgot to remove this limitation before installing it. Can anyone out there help me with this please?\n\np.s.: I already tried using tlp but it didn't work, and sorry for bad english.\n\nhttps://preview.redd.it/vgpjbrzldf9d1.png?width=835&format=png&auto=webp&s=3dfc58031d2fd01614edcd0696913b56daf6428a\n\n",
+        "num_comments": 5,
+        "comments": [
+            "IdeaPad's battery conservation mode switching should be[ supported with ideapad\\_laptop kernel module](https://wiki.archlinux.org/title/Laptop/Lenovo#Battery_conservation_mode) (different from ThinkPad's similar feature). Writing `0` to a specific device file will disable it.\n\nIt will looks like this (`VPC2004:00` part may vary).\n\n    # echo 0 > /sys/bus/platform/drivers/ideapad_acpi/VPC2004:00/conservation_mode",
+            "I see you tried TLP. Do you see anything in `sudo tlp-stat -b` ? That will at least show if your system has battery management support via sysfs.",
+            "I guess you could write a script to talk to upower, but I'm not sure you can prevent charge if it's not implemented in the driver.",
+            "can you do it in BIOS?",
+            "Why doesn't tlp work? What happens when you try to use tlp?\n\nAlso some laptops let you configure this in the BIOS settings."
+        ]
+    },
+    "Dual boot not working as expected ": {
+        "title": "Dual boot not working as expected ",
+        "score": 1,
+        "url": "https://i.redd.it/3kq3a1ofbf9d1.png",
+        "content": "I put debain on first in boot sequence, but when switch on my laptop it directly boots into windows. But when iam entering into BIOS - do nothing -  hit exit ,it works fine.   The os are installed in dual disks.",
+        "num_comments": 0,
+        "comments": []
+    }
+}
