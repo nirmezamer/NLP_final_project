@@ -1,0 +1,52 @@
+{
+    "Battery Percentage in GHUB": {
+        "title": "Battery Percentage in GHUB",
+        "score": 8,
+        "url": "https://www.reddit.com/r/LogitechG/comments/1diuh4y/battery_percentage_in_ghub/",
+        "content": "We have identified an issue that may cause the reported battery percentage being incorrectly displayed in G HUB for some of the following headsets:\n\nG533  \nG733  \nG933/G933S  \nG935  \nPro X Wireless\n\nPlease note this situation affects the reporting of the battery, but not the battery of the headsets itself.\n\nWe are actively working on a fix for the next update as part of our ongoing effort to resolve any product issues that arise.\n\nA temporary workaround is possible following these steps : \n\nStep 1: If the device is charging, unplug the charging cable  \nStep 2: Unplug the receiver, wait for a couple of seconds and reconnect it  \nStep 3: This will help to display the actual battery percentage.\n\nWe appreciate your patience and understanding as we tackle this issue head-on and we will keep you updated.\n\nDo not hesitate to reach out for support to our Customer Service team (at [https://support.logi.com/hc/en-us](https://support.logi.com/hc/en-us) ) if you experience any further problems.\n\nCheers!\n\n",
+        "num_comments": 3,
+        "comments": [
+            "where do you see the exact battery percentage in ghub? all i see is the battery condition.",
+            "I literally can't find out the charge of my headphones. Jumps from 48 to 99%. delusion. I will never buy products from Logitech again. Such critical bugs in the software should be solved quickly.",
+            "It would be nice if you actually fixed g hub so it would open. I have tried every \" fix \" and still can't get it to open. Basically bought a mouse I cant even use"
+        ]
+    },
+    "G Pro X Superlight side button not working/need to put more force to work.": {
+        "title": "G Pro X Superlight side button not working/need to put more force to work.",
+        "score": 4,
+        "url": "https://www.reddit.com/r/LogitechG/comments/1dlo52v/g_pro_x_superlight_side_button_not_workingneed_to/",
+        "content": "Sensor works fine, i can move the mouse without any issues.  \nIts just the side buttons dont work correctly all the time.  \nSometimes it registers twice with 1 button press. At times  \nI have to press harder one the lower side button for it to work.\n\nWhat I tried:  \n1. Updating the firmware  \n2. Unpairing and pairing dongle/mouse  \n3. Changing it  \n4. Different computer.\n\nI have this mouse since 2022.\n\nAnyone had this? Is there a simple solution for it?",
+        "num_comments": 0,
+        "comments": []
+    },
+    "G PRO X Wireless White noise": {
+        "title": "G PRO X Wireless White noise",
+        "score": 1,
+        "url": "https://www.reddit.com/r/LogitechG/comments/1dluu6o/g_pro_x_wireless_white_noise/",
+        "content": "I just bought a G PRO X Wireless, and the headset does not stop reproducing a kinda loud white noise, even when the dongle isnt connected to any audio source, is there any fix to this issue?  \nI did not see any reviews talking about it, and other then this issue the headset works flawlessly.",
+        "num_comments": 2,
+        "comments": [
+            "mic sidetone maybe?",
+            "I wish, it happens with/without mic. And with sidetone enabled/disabled"
+        ]
+    },
+    "G Pro Wireless and GHub issues": {
+        "title": "G Pro Wireless and GHub issues",
+        "score": 1,
+        "url": "https://www.reddit.com/r/LogitechG/comments/1dlu6xr/g_pro_wireless_and_ghub_issues/",
+        "content": "Been having multiple issues:\n\n1. Despite not opening games G Hub software keeps changing my DPI settings at random.  \n2. Re-installed GHub which is now stuck on the Logitech animated logo.  \n3. G Pro Wireless reporting low battery despite being 90%+ charged. \n\nAny fix suggestions would be greatly appreciated. ",
+        "num_comments": 0,
+        "comments": []
+    },
+    "Will light settings carry over from Windows to Linux?": {
+        "title": "Will light settings carry over from Windows to Linux?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/LogitechG/comments/1dlu3oy/will_light_settings_carry_over_from_windows_to/",
+        "content": "I have a G715 keyboard and I\u2019m planning to dual boot Linux soon (and use it as my daily system)\nWill my RGB settings carry over? I don\u2019t care for profiles etc, I use one of the premade animations all the time. If I set it through G Hub in Windows, will the animation stay when using Linux?",
+        "num_comments": 2,
+        "comments": [
+            "I found behaviour seems to vary depending on your BIOS. Settings may or may not be remembered between power cycles. \n\nHowever:\nhttps://github.com/MatMoul/g810-led\nAnd\nhttps://github.com/keyleds/keyleds\n\nI use the first option - but you may need to investigate further if you want animation.\n\nEdit: I see the first option can control animated effects too, so maybe that's all you need. I also see g810-led in some repos - so depending on your choice of distro it may be a simple install.",
+            "You could use inboard mode.\nI think this was the goal with sign in profiles in g hub but I've never used it so can't comment properly"
+        ]
+    }
+}

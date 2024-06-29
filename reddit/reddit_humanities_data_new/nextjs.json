@@ -1,0 +1,65 @@
+{
+    "Weekly Show & Tell! Share what you've created with Next.js or for the community": {
+        "title": "Weekly Show & Tell! Share what you've created with Next.js or for the community",
+        "score": 1,
+        "url": "https://www.reddit.com/r/nextjs/comments/1dlabk1/weekly_show_tell_share_what_youve_created_with/",
+        "content": "Whether you've completed a small side project, launched a major application or built something else for the community. Share it here with us.",
+        "num_comments": 3,
+        "comments": [
+            "Free online tools website using Next.js static exports: [https://utilful.com](https://utilful.com)",
+            "Find boilerplates with the technologies you want.\n\nYou can filter based on router type, authentication, db, free/paid, styling \u2026 etc\n\nhttps://www.nextjsboilerplateslist.com/",
+            "End-to-end encrypted secret management app: [https://phase.dev/](https://phase.dev/)"
+        ]
+    },
+    "Is there a Github repository with a lot of small projects demonstrating how to use every Next.js features?": {
+        "title": "Is there a Github repository with a lot of small projects demonstrating how to use every Next.js features?",
+        "score": 45,
+        "url": "https://www.reddit.com/r/nextjs/comments/1dlilqc/is_there_a_github_repository_with_a_lot_of_small/",
+        "content": "Is there a Github repository with a lot of small projects demonstrating how to use every Next.js features? I sometimes take a course and forget some of the more niche features, so I was wondering if there was some kind of repository with useful code snippets.",
+        "num_comments": 11,
+        "comments": [
+            "We do have this one:\n\n- https://github.com/vercel/app-playground\n- https://app-router.vercel.app",
+            "I know this might sound bad, but the docs are good and have all the code examples.",
+            "You may find this useful: [https://vercel.com/templates/next.js](https://vercel.com/templates/next.js)",
+            "not every, but definitely a lot of features:\n\n[github.com/bcms/starters](https://github.com/bcms/starters)",
+            "You are a good guy Lee \ud83d\udd25",
+            "thanks lee.",
+            "Lee the link on that repo needs to be updated",
+            "Wow what a coincidence. I found this project last night on my own and thought it was heaven sent. \n\nI'm not a frontend dev but have created a few UIs for side projects. Used Next on my last one but it's been almost 18 months so I forgot a ton of the functionality, plus v.14 introduced a bunch of different features. I just started a new side project, using next for the frontend. Spent the whole week looking for a project like this one and finally found it last night. Can't believe it's not more well-known. I found it by looking thru a bunch of demos in vercel, but it didn't come up on Googke or Reddit searches. Of course now that I found it on my own, someone posted it \ud83e\udd37\ud83c\udffb\u200d\u2642\ufe0f",
+            "I think he means to something to check to help his memory, you know docs are very detailed and hard to navigate if you don't know you are looking for.\n\nThe top comment in this thread is the one what he is looking for.",
+            "Nextjs docs are awesome if you are a beginner but if you are a pro guy then docs may or may not be useful!."
+        ]
+    },
+    "Besides Antonio & JS mastery, what are some good channels to watch ?": {
+        "title": "Besides Antonio & JS mastery, what are some good channels to watch ?",
+        "score": 5,
+        "url": "https://www.reddit.com/r/nextjs/comments/1dlss9q/besides_antonio_js_mastery_what_are_some_good/",
+        "content": "I can't stand Udemy anymore, can't stand 90 hours of content to build nothing, instructors wasting my time for hours and hours and hours without delivering anything worthwhile, I started subscribing to Javascript Mastery and Code with Antonio and both seem to be great, I want recommendations similar to these,\n\n  \nback when I started to learn I benefited from Traversy media's basic crash courses as well as udemy ones but now they're either way too toy-ish ( like his new nextjs course ) or too old.",
+        "num_comments": 7,
+        "comments": [
+            "Is JS mastery really good? Like is his style of teaching good as compared to udemy instructors?",
+            "I wouldnt recommend js mastery too much. Saw a few of his videos and he overuses client components imho",
+            "Depens what you want to learn",
+            "what udemy instructors do you find useful ? mind sharing your favorites ?\n\n  \nto me they're all trash besides Jonas, maybe I've taken courses from wrong instructors.",
+            "Web development focused content preferably with Nextjs/fullstack Javascript."
+        ]
+    },
+    "Tips for creating a new application": {
+        "title": "Tips for creating a new application",
+        "score": 1,
+        "url": "https://www.reddit.com/r/nextjs/comments/1dlv140/tips_for_creating_a_new_application/",
+        "content": "I am primarily a backend person. Passionate about building end to end applications. I had played around with the base react. And then with next.js based react applications.  (Using the some of the templates provided by vercel).  I like next.js because of the clean design/JAM stack approach etcI want to create some brand new applications. Challenges.\n\n1. I am still not very comfortable with the overall syntax, styling.\n\n2. These days, if you look at some of the UI/UE out there, they are mind blowing. I dont think I can ever match this.\n\nSo, I want to know how to go about creating next.js applications. Should we pick some existing template and modify it?  Or should I use some headless cms?. Also, vercel has this generative ai based product caled v0 which generates code. ( Personally I dont like such tools. But it increases the producity and we can focus more on the actual use cases, it may be worth considering). How good is this?  Lastly, does copilot help in some way? . Thanks in advance.",
+        "num_comments": 1,
+        "comments": [
+            "First, remember that you don't need to create everything from scratch. Your mission is to find the best solutions available.\n\nSecond, there are excellent resources like shadcn/ui and Framer Motion that can help you build impressive UIs without starting from zero"
+        ]
+    },
+    "Show case: QR Code Generator Free": {
+        "title": "Show case: QR Code Generator Free",
+        "score": 1,
+        "url": "https://qrcodemaster.com",
+        "content": "Results after 2 months with Next.js 14: I have completed a website for generating QR codes",
+        "num_comments": 0,
+        "comments": []
+    }
+}

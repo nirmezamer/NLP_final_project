@@ -1,0 +1,103 @@
+{
+    "PLEASE READ BEFORE POSTING QUESTIONS!": {
+        "title": "PLEASE READ BEFORE POSTING QUESTIONS!",
+        "score": 65,
+        "url": "https://www.reddit.com/r/blenderhelp/comments/1bla4hp/please_read_before_posting_questions/",
+        "content": "Looking for quick and helpful answers? Follow these rules and make helping you as easy as possible!\n\n* **Title:** Choose a meaningful title concerning your problem.\n* **Text:** Describing your problem with enough detail is essential. Please realize that helpers are not familiar with your project. Provide all relevant information, so others can immideately understand what you are struggling with.\n\n*Example: Say, you have a problem with lots of identical objects in your scene: Let us know whether you created these copies by hand, used the Particle System or Geometry Nodes.*\n\n* **Images/Videos:** When posting screenshots, show us your **full blender window** (not cropped, no monitor photos). This will make lots of helpful information available to helpers at first sight that may seem irrelevant to you (For example your Blender version). If you add video links, please consider adding time stamp info to the part you want helpers to see.\n\n*You can upload images and short video clips (up to 60s) to* [*imgur.com*](http://imgur.com) *and post the links in your question or as comment.*\n\n* **\\*.blend files:** Don\u2019t add links to your \\*.blend files when posting questions right away. Helpers will ask you for it if they need to take a look. Most people prefer reading a good description and looking at images to see what your post is about.\n* **'Solved' flair:** Once your question was answered, please remember to change the flair of your post to \u201cSolved\u201d, so helpers don\u2019t have to read into your question just to see it has already been answered. \n\n*You can change the flair by clicking on the small icon below your post resembling a label.*\n\n***EDIT: You can also include \"!solved\" in the comments to have Automod change the flair for you.*** \n\n**Be nice and respectful with each other :)**",
+        "num_comments": 20,
+        "comments": [
+            "Reddit made me moderator recently. I simply asked for it and reddit looked into that and approved since the old moderators have obviously been inactive for quite a while now. I think, it would be a good thing if everyone who's interested can get an idea about what I intend to do now.\n\nThe simple answer is: Not too much, actually. I don't plan huge changes in r/blenderhelp, because I think it is pretty fine the way it is and I enjoy this sub. But, like many of you, I felt that this sub needed active moderators to adress the issues that made it more difficult and frustrating to help people lately. Improvements I'm hoping for at the moment are mainly reducing posts that are either spam or just don't belong in this sub as well as improving post quality. My hopes are that having active moderators will help this sub to stay productive and friendly as well as to keep it interesting and fun for everyone.\n\nAt the moment, I'm making myself familiar with the numerous tools and functionalities moderators can use which might take a moment :D I plan to reach out to active and capable people soon to get a few more moderators on board, so we can do this efficiently.\n\nLots of posts are made by first time visitors to r/blenderhelp and I hope that some of them will take notice of the stickied post and/or the rephrased post requirements (those show up when you create a new post). It would be nice if more people took notice of and followed our rules. Helpers could get enough information to work with right from the start and people asking questions could get the answers they are looking for maybe a bit sooner. We'll have to see how that works out.\n\nI updated the rules in the sidebar to hopefully be clearer and a bit more intutive, so people can remind others specifically, if something about their posts... needs some more attention:\n\n1. **Give enough details when asking questions!** (There should be a sufficient written description of the actual problem, what people want to achieve with their project and what their approach was that finally caused the issue)\n2. **Provide sufficient images & full screenshots (not cropped, no monitor photos)!** (Quite important, I think. There are just too many posts with terrible resolution/quality and oftentimes useless imagery)\n3. **No artwork, general feedback requests, tutorials or bug reports.** (From my understanding, feedback requests should not be completely forbidden as long as they ask for help/opinions about specific things. I think, this is in a broader sense also asking for help. An acceptable example would be: \"Does my scene lighting feel realistic? How can I improve it?\" Counter example: \"I made this. What do you think?\" Way too general and not problem related. There definitely is a gray area, I know. However, as long as the number of those posts is rather low, it should not interfere with the \"usual business\" of answering more specific questions. And it might encourage discussions where people can talk about different methods and approaches. If this turns out to be a bad way of handling things, adjustments could be made...)\n4. **Let us know when you've solved it!** (Helpful for sure. I'm aware that changing the flair to \"Solved\" and other functionalities are bugged sometimes. I'm currently figuring out if and how this is something a mod can fix or if that's a general issue on reddit - helpful insights are welcome!)\n5. **Be nice...** (That's a given for most people, but a few sometimes need a little reminder...)\n\n**I want to encourage everyone to remind people of our rules in a respectful way when necessary. It's so much nicer when people talk to each other respectfully instead of sending reports right away. That should be reserved for severe or clearly intentional misbehaviour.**\n\nFrom what I've seen, the vast majority of people has a very similar understanding of what this sub should be and how they want to communicate. The Blender community is full of very skilled and engaged people. Simply looking at the incredible amount of free tutorials and advice out there shows how eager people are to connect and help each other to improve and learn. This sub is simply another platform for people sharing this spirit.\n\nThat's it from me. Have fun :)\n\n-B2Z",
+            "I don't know how you finally got the keys to the castle, but all I can say is congratulations!! I'm so thrilled to see the old inactive mods removed. Maybe now this sub can start to truly thrive again.\n\nCould you maybe add a mention to this about taking screenshots rather than phone pics? People are going to do it anyway, but for completeness sake :) You've covered everything else wonderfully.",
+            "Congrats on the promotion, u/B2Z_3D! I'm so happy to see new moderation on the subreddit, especially with the increase in spam-bots recently. Looking forward to the next chapter of r/blenderhelp!",
+            "I suggest a weekly question thread.(saw it in some subreddits)\n\nCause there are questions that's not too major or feels too dumb to ask to warrant it's own thread like Are nodes and Geometry nodes the same thing?",
+            "Can we add a requirement to how much the user knows about blender, sometimes i would give helping advice, but it would only confuse them more until i see their response.  \n\n&#x200B;\n\nBeginner (zero, new, adequate) \n\n&#x200B;\n\nAlso if you need help i can casually help you if needed. (part time or less)",
+            "sorry but i get crazy\n\ni need help with this:  \n  \n  \n  \n  \nAn error occurred while creating the mesh \u201ccs1\\_06\\_lowbuild.model.002\\_high\u201d! Is the mesh data valid?\n\n\n\nTraceback (last call last):\n\n\n\nFile \"C:\\\\Users\\\\kochj\\\\AppData\\\\Roaming\\\\Blender Foundation\\\\Blender\\\\4.1\\\\scripts\\\\addons\\\\Sollumz\\\\ydr\\\\ydrimport.py\", line 130, in create\\_lod\\_meshes lod\\_mesh = mesh\\_builder.build()\n\n\n\nFile \"C:\\\\Users\\\\kochj\\\\AppData\\\\Roaming\\\\Blender Foundation\\\\Blender\\\\4.1\\\\scripts\\\\addons\\\\Sollumz\\\\ydr\\\\mesh\\_builder.py\", line 49, in build self.set\\_mesh\\_normals(mesh)\n\n\n\nFile \"C:\\\\Users\\\\kochj\\\\AppData\\\\Roaming\\\\Blender Foundation\\\\Blender\\\\4.1\\\\scripts\\\\addons\\\\Sollumz\\\\ydr\\\\mesh\\_builder.py\", line 83, in set\\_mesh\\_normals mesh.use\\_auto\\_smooth = True\n\n\n\nAttributeError: \"Mesh\" object has no attribute \u201cuse\\_auto\\_smooth\u201d",
+            "Hey. I have NSFW renders that have lighting problems. Can I still post those pictures? I had a post taken down for only posting a small snippet of my screen and the properties panel",
+            "Can someone help me understand why I am unable to start a topic?",
+            "I added the screenshot over phone pic part. Thx for the kind input :)",
+            "I think u/Avereniect is right. It's all relative. Maybe you just happened to watch the one very specific tutoral a day ago that helps you answering a question even if it's only day 3 of your blender journey. If you feel that you can contribute something, you should be allowed to do so.\n\nWhen I started to suggest solutions or approaches in this sub, my suggestions were terrible sometimes (and sometimes they still are :D). But if people point out better ideas or why your idea does not work, you can learn a lot in the process. That's one aspect I really enjoyed since I joined r/blenderhelp. If a suggestion is really good or really bad, it will be reflected in the votes and in many cases ppl also take the time to write a comment about why it's good or bad, so OP can make an informed decision. But thx anyways for taking the time to think about improvements for r/blenderhelp :)",
+            "I think that any labels would almost certainly be too subjective to be useful. I've seen a lot of people say that they're not beginners because they've been using Blender for a few months, but if you're someone whose been using Blender for around a decade or more, you'd still very much consider that person a beginner. Even then, just because you've been using Blender for a long time, doesn't mean you have lots of background knowledge with the domain you're asking about. For example, I personally haven't explored motion tracking or most compositing node despite my decade of experience with the program.",
+            "thanks for the kind response!",
+            "well said"
+        ]
+    },
+    "How to make it more realistic ": {
+        "title": "How to make it more realistic ",
+        "score": 25,
+        "url": "https://www.reddit.com/gallery/1dltnil",
+        "content": "Hi guys I'm a beginner at blender, so I wanted to create a realistic environment and I ended up like this, I used free assets from blender kit, so please give feedbacks to improve my self ",
+        "num_comments": 33,
+        "comments": [
+            "The scale seems off, I think the trees should be smaller. There should also probably be many more of them and additional vegetation. No natural ecosystem is homogenous. Also, I think your trees are floating because the shadows don\u2019t meet them. I\u2019d also add some more terrain detail on the camera-side of the mountains. Nothing major, just some hills or boulders or maybe a river. It\u2019s a good start though.",
+            "Scatter the trees, rotate them all so none of them have the same rotation. You can see that they're just copypasted on the left.\n\nAdd some clutter and other vegetation, look at reference photos. Or alternatively just remove the trees altogether and put some large rocks on their place, those trees look wrong for that terrain.",
+            "im a beginner too but id say you should work more on the mountains texture and add maybe more details and stuff",
+            "I agree with the other comments that you need more vegetation and/or smaller details like rocks, etc.\n\nBut I absolutely love the shape of the mountain and its slopes! How did you make it, if you don't mind me asking?",
+            "https://preview.redd.it/c3gf44cfa48d1.png?width=281&format=png&auto=webp&s=a841e5ac3306707a7de606a7b644cfa4b4819e3a\n\nThe tree is not on the ground so the shadow is disconnected. The hard flat edge at the bottom of the tree is a glaring problem.",
+            "The ground is flat as FUCK",
+            "Ask this guy https://www.reddit.com/r/blender/s/9PYnBdeJAb",
+            "Add grass. Soecially around trees. There are plenty tutorials on youtube its really easy.",
+            "I'd add dust in the fore/midground, play around with shadows. What looks off to me is the color and shape of trees, I believe they should resemble overall dusty and sandy mood. Sand (especially right in front of the cliff) looks too clean and shiny, I'd make it more rough and add particles as well. Also dunes or some other types of foreground landscape features might help it too. Maybe more ambient occlusion could make it better too because you have a lot of angles there.",
+            "Ground texture and displacement, Tree roots and stumps, dead trees without leaves, the lighting is cool but maybe working against it. Try playing with it. Overall the scene looks great with the mountains. Keep up the good work!\n\nEdit: I enjoy free 3d models as it speeds up the time to make a scene. Some sources for great assets are: Blender Kit, Blender Market, Bridge by Unreal Engine\u2014-they have the best photorealistic models but they have a no commercial license, Sketchfab, and Polyhaven\u2014they have great textures and models and can be used for commercially.",
+            "Thosw trees seem awfully giant compared to the mountain, you should make them alooooot more smaller and make a kind of a giant bush infront of the mountain as if its a forest, not just 6 trees lines up infront of a rock",
+            "I think it\u2019s the trees, I\u2019m a beginner but maybe make it so that they aren\u2019t in straight lines",
+            "Looks pretty good. The trees should not float, thats obvious, but also they should be not the same. Rotate some, use another model for variety. At least dont place them in line so that i could see its the same tree every time. Also for the trees, they are very lush and vibrant green, but its a snow scene so they should not have any leaves, if you want greenery in such place, consider pine trees. Scale is a bit off, but also the snow could use more reflectivity. Snow sparkles. What i do (not the best) is use the snow addon, but use only the shader of snow.  Hope this helps, and good luck on your future projects.",
+            "Hella vegetation/natural litter. Deserts got way more than you expect. Best to use Geo-Scatter that has very convenient masks like elevation, cavity, etc.\n\nBut ultimately there's free ways to do too just requires more work obviously.",
+            "OK brother thanks for your feedback, I will work on that",
+            "OK bro, I will work on your feedback",
+            "OK bro thanks for the feedback",
+            "Thanks bro, those mountains were free assets bro I got them from blender kit",
+            "So bro next time  I need to work on ground?",
+            "OK bro I will on it \ud83d\udc4d\ud83c\udffb",
+            "OK bro thanks again",
+            "Thanks bro for ur feedback I will add those next time",
+            "OK bro, thanks for your feedback and I will look forward to work on it",
+            "Thansk brother for your feedback, I will work on it",
+            "\ud83d\ude05 ok brother thanks for the feedback, I will look into it",
+            "Thanks bro for ur feedback",
+            "Just to expand on that the trees shouldn't all be exactly the same size, angle, or rotation either, make some 10% smaller, bigger, make some lean a little in different directions, make them all randomly rotated around the trunk. Also the actual terrain in the foreground looks super smooth and flat, maybe try and sculpt the terrain to have little snow dunes and random clumpy patches",
+            "Yeah, move the trees so that the trunks are slightly under the surface, that way you'll get the correct base shape at least.",
+            "My best advice is to watch some tutorials on the specific topic you want to improve and make a similar project, then repeat until you are satisfied. Many top-tier CG guys use paid add-ons for vegetation and scenery, but you can get a long way with free add-ons.",
+            "Understood brother, i will try to work on your feedbacks",
+            "OK brother thanks for the feedback",
+            "Sure brother I will start watching tutorials more"
+        ]
+    },
+    "Separate mesh not moving in place with model": {
+        "title": "Separate mesh not moving in place with model",
+        "score": 2,
+        "url": "https://www.reddit.com/gallery/1dlvrq4",
+        "content": "",
+        "num_comments": 1,
+        "comments": [
+            "My problem is the part moves with the rest but out of place"
+        ]
+    },
+    "How can I make it look more realistic?": {
+        "title": "How can I make it look more realistic?",
+        "score": 2,
+        "url": "https://www.reddit.com/gallery/1dlvila",
+        "content": "",
+        "num_comments": 1,
+        "comments": [
+            "I'm working on this folding chair, and I'm in the process of lighting. I achieved something I considered good, but I feel something is off. What would you do to make it better? Both photos have four area lights and a flat background, with the power of the lights between 4 and 12 watts"
+        ]
+    },
+    "Why isn`t my curve adding depth? Is it too complexed?": {
+        "title": "Why isn`t my curve adding depth? Is it too complexed?",
+        "score": 5,
+        "url": "https://www.reddit.com/gallery/1dlqo2l",
+        "content": "",
+        "num_comments": 9,
+        "comments": [
+            "if you want a bevel on the thing you\u2019ll need to add some thickness to the model, else it wont work",
+            "~~Click the 3D button (under Curve Properties > Shape).~~",
+            "I assume depth means it should be a 3D shape, which means the problem is that you need to give a value to the \u2018Extrude\u2019 slider. (currently select green line tab \u2014> Geometry \u2014> Extrude)",
+            "No, not needed -\n\nhttps://preview.redd.it/cej42837148d1.png?width=1263&format=png&auto=webp&s=0509cd497de8d46d87c52d4ddf17ff27f089e85b",
+            "No, I mean the parameter in bevel section called \"Depth\" it does not work, when I try to to configure it. The extrude option also doesn't work",
+            "No, Extrude is something else. Only profile should need to be set.\n\nhttps://preview.redd.it/58ganjgx048d1.png?width=1263&format=png&auto=webp&s=22daa01a3ab2c987a7e38200ed708d9aa665fe60\n\nOP, not sure what you've done here, I can;t replicate it. How did you get these letters? Did you convert a Text object or import them?",
+            "Oh, thanks you're right. I just tested it too by converted some text to a curve and then increasing the Bevel value and it works. I'm not sure why OP's isn't working.",
+            "There is 0 geometry (as per extrude) so you are beveling 0 geometry. How much should 0 bevel, when you bevel it say 0.5 of a meter ? Well, you dont have geometry to bevel, so none.",
+            "Yeah, this is one of those weird ones."
+        ]
+    }
+}
