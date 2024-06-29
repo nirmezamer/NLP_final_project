@@ -45,11 +45,22 @@ def save_to_json(articles_dict, filename):
         json.dump(articles_dict, f, ensure_ascii=False, indent=4)
     logger.info(f"Saved articles to {filename}")
 
-def call_prompt(prompt):
-    answer = model.generate_content(prompt)
-    return answer.text
+def call_prompt_with_retry(msg, retries=5, backoff_factor=1):
+    for i in range(retries):
+        try:
+            answer = model.generate_content(msg)
+            if answer != "":
+                return answer.text
+        except Exception as e:
+            if "429" in str(e):
+                wait_time = backoff_factor * (2 ** i)
+                print(f"Rate limit exceeded. Retrying in {wait_time} seconds...")
+                time.sleep(wait_time)
+            else:
+                return ""
+    return ""
 
-def create_AI_paper():
+def create_AI_paper(title):
     prompt = """Please generate a short newspaper content for a given title. 
 The newspaper content should be brief, informative, neutral in tone, and written in a newspaper style. 
 Ensure the newspaper content includes quotes and sources, proffetional style and a short conclusion such as the topic's significance. 
@@ -60,8 +71,9 @@ The title will be provided, and the generated summary should align closely with 
 
 The Title is:
 """
+    prompt += title
     try:
-        answer = call_prompt(prompt)
+        answer = call_prompt_with_retry(prompt)
         return answer
     except Exception as e:
         return ""
