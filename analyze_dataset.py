@@ -16,8 +16,10 @@ import gc
 import os
 
 nltk.download('punkt')
+nltk.download('vader_lexicon')
 # data_jasons = {"reddit": "example_reddit_data_set.json", "wikipedia": "wikipedia_data_set.json", "news": "wikipedia_data_set.json"}
-data_jasons = {"reddit": "reddit/example_reddit_data_set.json"}
+# data_jasons = {"reddit": "reddit/example_reddit_data_set.json"}
+data_jasons = {"wikipedia": "modified_file.json"}
 dataset = read_data(data_jasons)
 
 def data_to_pd(dataset):
@@ -103,7 +105,7 @@ plt.show()
 n_grams = [1,2,3]
 for n in n_grams:
     df[f'{n}_grams'] = df['tokens'].progress_apply(lambda x: list(ngrams(x, n)))
-
+label_to_text = {0: 'Human', 1: 'AI'}
 for label in df['label'].unique():
     subset_df = df[df['label'] == label]
     for n in n_grams:
@@ -113,7 +115,7 @@ for label in df['label'].unique():
        
         plt.figure(figsize=(12, 6))
         ngram_freq_dist.head(60).plot(kind='bar', color='skyblue')
-        plt.title(f'Top 60 Most Frequent {n}-grams for Class: {label}')
+        plt.title(f'Top 60 Most Frequent {n}-grams for Class: {label_to_text[label]}')
         plt.xlabel('N-gram')
         plt.ylabel('Frequency')
         plt.show()
