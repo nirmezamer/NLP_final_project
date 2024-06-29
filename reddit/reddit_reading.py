@@ -8,8 +8,8 @@ from tqdm import tqdm
 import time
 import re
 
-# genai.configure(api_key="AIzaSyA_a9NStJj6XoMDaGXlbz-v35xCQzTlDqA")
-# model = genai.GenerativeModel('gemini-1.5-flash')
+genai.configure(api_key="AIzaSyA_a9NStJj6XoMDaGXlbz-v35xCQzTlDqA")
+model = genai.GenerativeModel('gemini-1.5-flash')
 
 def call_prompt(prompt):
     answer = call_prompt_with_retry(prompt)
@@ -252,8 +252,8 @@ def clean_up_jsons():
 # Example usage
 if __name__ == "__main__":
     
-    # data = generate_reddit_data_set()
-    # print(len(data))
+    data = generate_reddit_data_set()
+    print(len(data))
 
-    generate_many_humanities_reddit_json()
+    # generate_many_humanities_reddit_json()
     # clean_up_jsons()
