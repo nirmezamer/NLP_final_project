@@ -5,7 +5,7 @@ import json
 
 # Set up logging
 logging.basicConfig(level=logging.INFO)
-logger = logging.getLogger(_name_)
+logger = logging.getLogger(__name__)
 
 def build_paper(url, memoize_articles=False):
     try:
@@ -61,5 +61,5 @@ def main():
 
         save_to_json(articles_data, 'bbc_articles.json')
 
-if _name_ == "_main_":
+if __name__ == "_main_":
     main()
