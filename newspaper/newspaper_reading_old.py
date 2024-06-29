@@ -2,10 +2,15 @@ import newspaper
 import logging
 import re
 import json
+import google.generativeai as genai
+
+# genai configuration
+genai.configure(api_key="AIzaSyA_a9NStJj6XoMDaGXlbz-v35xCQzTlDqA")
+model = genai.GenerativeModel('gemini-1.5-flash')
 
 # Set up logging
 logging.basicConfig(level=logging.INFO)
-logger = logging.getLogger(_name_)
+logger = logging.getLogger(__name__)
 
 def build_paper(url, memoize_articles=False):
     try:
@@ -40,6 +45,18 @@ def save_to_json(articles_dict, filename):
         json.dump(articles_dict, f, ensure_ascii=False, indent=4)
     logger.info(f"Saved articles to {filename}")
 
+def call_prompt(prompt):
+    answer = model.generate_content(prompt)
+    return answer.text
+
+def create_AI_paper():
+    prompt = ""
+    try:
+        answer = call_prompt(prompt)
+        return answer
+    except Exception as e:
+        return ""
+
 def main():
     # Example website to try
     website = 'http://bbc.com'
@@ -61,5 +78,5 @@ def main():
 
         save_to_json(articles_data, 'bbc_articles.json')
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
