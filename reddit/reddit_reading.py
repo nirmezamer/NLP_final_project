@@ -10,8 +10,24 @@ genai.configure(api_key="AIzaSyA_a9NStJj6XoMDaGXlbz-v35xCQzTlDqA")
 model = genai.GenerativeModel('gemini-1.5-flash')
 
 def call_prompt(prompt):
-    answer = model.generate_content(prompt)
+    answer = call_prompt_with_retry(prompt)
     return answer
+
+def call_prompt_with_retry(msg, retries=5, backoff_factor=1):
+    for i in range(retries):
+        try:
+            answer = model.generate_content(msg)
+            if answer != "":
+                return answer.text
+        except Exception as e:
+            if "429" in str(e):
+                wait_time = backoff_factor * (2 ** i)
+                print(f"Rate limit exceeded. Retrying in {wait_time} seconds...")
+                time.sleep(wait_time)
+            else:
+                return ""
+    return ""
+
 
 # Replace these with your own credentials
 CLIENT_ID = '39ZflIZLYQso2iFg9GqW2g'
@@ -159,7 +175,7 @@ def generate_reddit_data_set():
     
     for i, subreddit in tqdm(enumerate(raw_data.keys())):
         subreddit_data = raw_data[subreddit]
-        for j, post in tqdm(enumerate(subreddit_data.keys())):
+        for post in enumerate(subreddit_data.keys()):
             if subreddit_data[post]["num_comments"] < 10:
                 continue
             AI_comment = generate_AI_comment(subreddit_data[post]["title"], \
