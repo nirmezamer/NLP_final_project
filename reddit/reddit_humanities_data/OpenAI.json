@@ -1,0 +1,91 @@
+{
+    "Hello GPT-4o | OpenAI": {
+        "title": "Hello GPT-4o | OpenAI",
+        "score": 584,
+        "url": "https://openai.com/index/hello-gpt-4o/",
+        "content": "",
+        "num_comments": 290,
+        "comments": [
+            "https://i.redd.it/u047bp3hf80d1.gif\n\nIts fast boi",
+            "How will you know if you have access to 4o yet? In the demo it looked like the voice button was different, that\u2019s all I could tell from a glance",
+            "So, Siri will most likely be a more fine-tuned-for-siri-purposes and a downsized version of GPT4o. \n\nThe demo where they had it switch up the tone was absolutely insane to me. The fact that we're at a point where a model can reason with voice, can identify breathing, gender and emotion with voice, and have a model that can modify it's own output voice is INSANE. \n\nFor context, open source is nowhere close to this level of capability. You currently need different utilities to do this, and it does not work as seamlessly and as well as the demos. This makes making assistants significantly easier. I think we may be headed towards an economy of assistants.",
+            "I dont understand what people were expecting? i went in with no expectations and was pleasantly surprised, this is a very good step in the right direction for AGI, i do feel it seems to retain some feel of emotions and wittyness in the tone, i believe once things are ironed out and advanced it will be amazing. i'm actually more so impressed with the live viewing thing.",
+            "That was pretty impressive.",
+            "iOS app update when??",
+            "Anyone else see the examples listed under \"Exploration of capabilities\"? I'm not really into image-gen stuff, but isn't this way beyond Midjourney and SD3? Like the native image and text integration? It's basically a built-in LORA/finetune using one image. Detailed text in images.\n\nI don't know about the rendering quality, but in terms of composition, doesn't this crush every other image-gen service?",
+            "I loved the announcements today but am disappointed to learn that the app for computers is only for MacOS. Such a shame... I was so excited to run it on my windows PC.\n\nEdit: Don't want to be responsible for bad info.\n\nAs pointed out below, just saw on the news page its MacOS first and Windows is coming later this year: \n\nhttps://preview.redd.it/22u2kmfbj80d1.png?width=729&format=png&auto=webp&s=305ee8f334598c53fe900abe17fb5c8fe90a2000",
+            "Multimodality is huge for consumers.\n\n50% cheaper *and* faster response times is huge for developers/enterprise.",
+            "What a smart move to get unlimited video data for further training their AIs... :)"
+        ]
+    },
+    "OpenAI's Mira Murati: \"some creative jobs maybe will go away, but maybe they shouldn't have been there in the first place\"": {
+        "title": "OpenAI's Mira Murati: \"some creative jobs maybe will go away, but maybe they shouldn't have been there in the first place\"",
+        "score": 293,
+        "url": "https://twitter.com/tsarnick/status/1803920566761722166",
+        "content": "",
+        "num_comments": 252,
+        "comments": [
+            "I think she didn't want to sound harsh and added \"creative.\" That turned worse.",
+            "She\u2019s terrible at speaking. They should keep her away from a camera",
+            "She gonna need to take the same forced media vacation Altman is on soon",
+            "Does she not understand that without those creative peoples work, the whole generative ai wouldn't exist?\n\nHas she been drinking chatgpt juice so much she thinks it could have come into existence without the work of actual humans? \n\nVisual artwork, literature, math and science and the internet. Chatgpt wouldn't be able to make anything if it weren't trained on the work of billions of people including those creatives she is talking about.",
+            "I'm not convinced the people making these statements have ever done creative work.",
+            "I mean her job shouldn\u2019t exist in the first place tbh. She has no technical experience so it makes the CTO position redundant.",
+            "A somewhat psychopathic take. These people, once they are financially secure enough, they start making such out-of-touch statements\u00a0",
+            "OpenAI is just another one of the bad guys now.\n\nSaw that coming from a mile away.",
+            "\"Some of you may die, but that's a sacrifice I'm willing to make\"",
+            "I want ai to replace dreadful, hard, dangerous and repetitive work, so that humans can do the creative, fun and inspirational stuff"
+        ]
+    },
+    "WHAAAAAT | Claude Sonnet 3.5 is...a wizard?": {
+        "title": "WHAAAAAT | Claude Sonnet 3.5 is...a wizard?",
+        "score": 214,
+        "url": "https://www.reddit.com/r/OpenAI/comments/1dl94yl/whaaaaat_claude_sonnet_35_isa_wizard/",
+        "content": "Whoa, AI game development just blew my mind\n\nSo I decided to challenge Claude Sonnet 3.5 to help me create an Agar.io-style game from scratch...\n\nWe managed to get a working prototype up and running in just a few back-and-forths. I'm talking basic game mechanics, graphics on a canvas, player controls, even some rudimentary AI opponents. As someone who's dabbled in game dev, I'm genuinely impressed at how quickly we went from concept to something playable.\n\nSure, it's not AAA quality, but for a rapid prototype? This is seriously cool stuff. It really got me thinking about how AI could streamline the early stages of game development.\n\nIt's so sad that Open AI doesn't release the features we saw in the demos...\n\nEDIT: The only issue I encountered is the difficulty to implement the splitting mechanism as seen in [Agar.io](http://Agar.io), it kept failling but it took me less than 15 minutes to do all of this sooo I guess I could of done it with more time & work.\n\nhttps://reddit.com/link/1dl94yl/video/d2z3dt5djy7d1/player\n\nEDIT: Another cool thing, I did this portfolio layout using Sonnet: [https://x.com/phth0nus/status/1804006857729532220](https://x.com/phth0nus/status/1804006857729532220)",
+        "num_comments": 84,
+        "comments": [
+            "Hey, every studio starts somewhere.",
+            "Yeah I was highly pleasantly surprised with 3.5 Sonnet\u2019s coding.\n\n3 Opus struggles with any kind of complicated Swift, but 3.5 handles it much better. I used it to build a reddit client that uses Claude API to summarise and rank quality of posts. It only struggled with conforming to the reddit api data structures, which is likely because reddit barely documents them. All the Swift was good",
+            "it's in the training data, many people have done agar-io clones. \n\nstill impressive, and I do believe it's better than chatGPT4o",
+            "Very cool! I've been experimenting with trying to re-create an old school c64 game called Jumpman but have been using using gpt 4o, it's been a lot of back and forth but I've got a lot of the basics going, and now I'm  working on a level editor! Oh I'm doing this in lua for the tic-80 fantasy console. Will share once I've got it all working.",
+            "Can you please walk me through what the prompt engineering looked like? This is so cool and I'd love to see a tutorial or walkthrough on how to got it to completion",
+            "Its so fn weird how the Universe is owrking right now -- I swear like all these things I am thinking of for so long without the right tools or information or knowledge of others with same interests are just popping up every single moment... its like the Aether is charged with creativity etheric myceliums connecting us more lately.",
+            "It falls apart when you want:\n* something original\n* more than a couple features\n\nWhilst this is a great way to learn and prototype, but to make something actually worth someone\u2019s time requires a bit more than impetus and AI.",
+            "I did a flappy bird in 7 prompts: https://allchat.online/landing/game.html",
+            "To be clear it\u2019s not running these within the Claude interface, right?",
+            "It\u2019s very nice.claude3.5 is Meg powerful solution."
+        ]
+    },
+    "For the first time, an LLM has breached the 65% mark on GPQA, designed to be at the level of our smartest PhDs. \u2018Regular\u2019 PhDs score 34%.": {
+        "title": "For the first time, an LLM has breached the 65% mark on GPQA, designed to be at the level of our smartest PhDs. \u2018Regular\u2019 PhDs score 34%.",
+        "score": 44,
+        "url": "https://www.reddit.com/r/OpenAI/comments/1dlkccz/for_the_first_time_an_llm_has_breached_the_65/",
+        "content": "https://preview.redd.it/yjjq698nz08d1.png?width=1920&format=png&auto=webp&s=64cfbd426b0dcab6e606914eb81b0d4a179b8f4d\n\nhttps://preview.redd.it/mbvrj3pxz08d1.png?width=1002&format=png&auto=webp&s=6d0246a5e5fd352e009c032bc19b9f87c07b5a57\n\n[https://lifearchitect.ai/agi/](https://lifearchitect.ai/agi/)",
+        "num_comments": 4,
+        "comments": [
+            "Sub title a bad take.  Sonnet's reported number is for the Diamond [set](https://arxiv.org/pdf/2311.12022), where the expert accuracy percent is 81.3%.\n\nSecondly, the non-expert accuracy is 22.1% (worse than random guessing).  This is for \"regular\" PhDs not studying the relevant field.\n\nAlso, majority @ 32 is generally not how this is to be benchmarked (hey, I'm sure you can do better than 81.3% polling 32 human experts!)  Which is why the headline [number](https://www.anthropic.com/news/claude-3-5-sonnet) is 59.4%, which yes is obviously impressive, beating GPT-4O's 53.6%.",
+            "Wait until you find out how smart the answer keys are in academia. Mind blowing stuff.",
+            "It's not trivial that maj 32 improves the model's accuracy, and I'd say it's a significant result. It's more like polling the same expert 32 times. But they also used other prompting techniques (5-shot CoT).",
+            "All the numbers in your comment added up to 69. Congrats!\n\n      32\n    + 32\n    + 5\n    = 69\n\n^([Click here](https://www.reddit.com/message/compose?to=LuckyNumber-Bot&subject=Stalk%20Me%20Pls&message=%2Fstalkme) to have me scan all your future comments.) \\\n^(Summon me on specific comments with u/LuckyNumber-Bot.)"
+        ]
+    },
+    "SoftBank CEO says AI that is 10,000 times smarter than humans will come out in 10 years": {
+        "title": "SoftBank CEO says AI that is 10,000 times smarter than humans will come out in 10 years",
+        "score": 187,
+        "url": "https://www.cnbc.com/2024/06/21/softbank-ceo-predicts-ai-that-is-10000-times-smarter-than-humans-.html",
+        "content": "",
+        "num_comments": 110,
+        "comments": [
+            "Hey guys I\u2019m not the CEO of SoftBank but AI smarter than the AI in 10 years will be coming in 20 years.",
+            "Smarter at what? How do they measure the delta? Not only is it hyperbolic, it doesn't make sense.\n\nIs knowing more \"smarter\"?  Is resaoning more precisely, smarter? Is it 10000x creative? How could you even measure that, and what is one unit of \"creative\" vs. two units, vs. 10000?\n\nSomethings also have upper bounds. You can't be 10000x smarter than a human at understanding which silverware go in which drawers, for example.\n\nIt's all kinds of nonsensical.",
+            "He sounds like he's having a bit of a 'moment':\n\n*\"Two years ago, I am getting old, rest of my life is limited, but I haven\u2019t done anything yet and I cried so hard,\u201d Son said, suggesting he feels he hasn\u2019t achieved anything of consequence to date.*\n\n*He added that he had now found SoftBank\u2019s mission, which is the \u201cevolution of humanity.\u201d He also said he has discovered his own purpose in life.*\n\n*\u201cSoftBank was founded for what purpose? For what purpose was Masa Son born? It may sound strange, but I think I was born to realize ASI. I am super serious about it,\u201d Son said.*",
+            "This from the guy who lost billions of dollars betting on the wrong things.",
+            "Not really quantifiable like processor speed increases in CPUs",
+            "I'm not saying he is wrong, but the guy has a clear incentive to tell the AI will outperform humans story. He is heavingly invested in AI.\n\nAnd is he talking about being 10.000x smarter than him or humans in general? Anyone who hasn't invested in Weworks is a billion times smarter than Son.",
+            "Breaking News: CEO makes grand assumption about the promise of AI, shareholders applaud.",
+            "I, too, can make wils predictions about what will be in 10 years - no one can hold you accountable for such a prediction",
+            "Do people just utter words because they like to hear themselves speak?",
+            "Oh SoftBank ceo said it? Must be true!"
+        ]
+    }
+}

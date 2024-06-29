@@ -1,0 +1,71 @@
+{
+    "Arc for macOS Update - 1.49.0 (51346)": {
+        "title": "Arc for macOS Update - 1.49.0 (51346)",
+        "score": 16,
+        "url": "https://www.reddit.com/r/ArcBrowser/comments/1dptu0h/arc_for_macos_update_1490_51346/",
+        "content": "\ud83d\udcc6 Jun 26, 2024 at 02:02:19 PM\n\n> - Filtering Out Declined Events for Live Calendars: Thanks to Ben, Live Calendars now ensure you\u2019re not notified of declined events, making your calendar cleaner and more up-to-date.\n> - Two Bug Fixes for Live Calendars: Freddy resolved an issue preventing members from joining calendar events directly from Google Calendar, and Ben fixed another issue that caused Live Calendar previews to freeze upon dismissal. Props to the team for the big updates to Live Calendars this week. Also, a very special thank you to our Early Birds who helped us diagnose a related issue!\n> - Downloads Performance Improvements: By making the downloads history page more responsive, Alex helped drive performance improvements for downloading large files, making the process more efficient and reliable, especially for videos.\n> - Support for macOS 12 is ending soon: After July 11th, Arc will no longer receive fixes or features on macOS 12. If this impacts you, we recommend updating your system to ensure your browser remains stable and secure. Kudos to Max for leading us through this transition.\n\n[**Release Notes**](<https://arc.net/release-notes>) \u2013 [**Download Arc**](<https://releases.arc.net/release/Arc-1.49.0-51346.zip>) (371.5 MiB)",
+        "num_comments": 13,
+        "comments": [
+            "What constraints did Arc have with macOS 12? Seems like a strange decision to drop support for a fairly recent macOS version.",
+            "is it just me or does the \"See What's New\" button not work anymore... https://www.reddit.com/r/ArcBrowser/comments/1col6rw/see_whats_new_does_this_work_for_you/ isn't exactly what i'm talking about, here the button just doesnt work at all. seems to have changed in the last few updates.",
+            "Very nice! But do we have captions in PiP already?",
+            "Someone else experiencing problems with 1password after the update?",
+            "The two main reasons:\n\n-\tLimited Userbase: most people are on Ventura or Sonoma by now, so at a certain point you should cut off supporting older versions because it's not viable to keep fixing issues for that OS.\n-\tAPI requirements: some features may require newer APIs only available on Ventura and Sonoma.\n\nKeep in mind that most developers who work on Apple platforms (mostly iOS, but macOS to an extent) provide n-1 support, where n is the latest version. In this case, it means Sonoma and Ventura are supported.",
+            "not just you, same here",
+            "If you care about PiP use Firefox. It is by far the best PiP of any browser, with captions.",
+            "I just updated on my end and no issues so far. Then again, I'm trying again for the first time in a while. How is the memory usage this time around?",
+            "Interesting. What is the difference between this and Google Chrome? How can Chrome support macOS 10.15 but Arc can't? Is it because Arc's team is smaller and that's why they should only focus on newer OSs?",
+            "This is severely messed up. They're deciding that the minority are disposable. They're locking the app behind a major purchase of hardware. They should never have allowed us to use the app on a pre-2017 Mac if they didn't intend us to use it. Suggesting that we upgrade is utterly out-of-touch. What other developers do is not an excuse."
+        ]
+    },
+    "Arc for Windows Update - 1.8.0": {
+        "title": "Arc for Windows Update - 1.8.0",
+        "score": 95,
+        "url": "https://www.reddit.com/r/ArcBrowser/comments/1dptumv/arc_for_windows_update_180/",
+        "content": "\ud83d\udcc6 27 June, 2024\n\n> Thanks for using Arc! We have a new version for you, including:\n> \n> - Live Calendars for Windows: Now, when Google Calendar is pinned as a favorite in your Sidebar, you'll see a countdown timer in the calendar icon. Also, when it's time for the meeting to start, a \"Join\" button will automatically appear in your Sidebar, allowing you to jump into your next video call with one click. To change your Live Calendar's updates, just right-click the calendar icon and adjust its settings. Huge shoutout to Ben, Connor, and Freddy for bringing your Sidebar to life with this feature!\n> - Window Loading Performance Improvement: Alexandra has enhanced window loading performance by delaying the title bar display until the window is ready, resulting in a faster and more responsive interface.\n> - Translation Button Reliability Fix: Previously, there was an issue where the Translate button was not reliably responsive in certain cases. Thanks to Brian, this issue has been resolved, ensuring translations happen seamlessly each time.\n> - Bug Fix for Window Restoration After Restart: Thanks to Sherry, we have fixed an issue where, upon restarting, Arc would restore a temporary window that made it difficult to access spaces and pinned tabs. Now, we restore a full window with each restart, along with the temporary one if that was the last one closed.\n> - Small Design Polish for Account Settings: Alexandra has added some tiny-but-mighty design polish to account settings, making all widths of setting menus consistent for a more streamlined appearance.\n> - Longstanding Tab Closing Fix: Thanks to Seb, Adam, and Maya, we've fixed a longstanding issue that caused tabs to be archived ahead of your specified \"Archive tabs after...\" setting \u2014 improving tab management reliability.\n\n[**Release Notes**](<https://resources.arc.net/hc/en-us/articles/22513842649623-Arc-for-Windows-2023-2024-Release-Notes>) \u2013 [**Download Arc for Windows**](<https://releases.arc.net/windows/prod/1.8.0.34917/Arc.x64.msix>)",
+        "num_comments": 54,
+        "comments": [
+            "https://preview.redd.it/ooai3w91v49d1.png?width=187&format=png&auto=webp&s=0ad90f57652b9ddc5d56206286c9041ada9ef5e5\n\nworks. hope live calendar supports outlook soon, use it mainly for work, never used google calendar",
+            "Since I use Arc on Windows and how good people talk about Arc on Mac, I still think that on Mac the devs test for bugs before releasing a stable version, and in Windows the devs let the users test the bugs in the \"stable\" version",
+            "The slowest trickle of features and still meh perf & reliability. Nonetheless, I appreciate the change log dedication.\n\n//\n\nWhat's most perplexing to me: I wrongly assumed Swift meant Windows parity would be fast: \"Isn't it the same codebase? Get Swift working on Windows \u2192 voila, Arc on Win has feature parity.\"\n\nI was **completely** wrong. Windows is still massively behind in features & perf \u2192 these are *old* macOS features. TBC is basically rebuilding the browser, brick by brick.\n\nI don't think the Swift-on-Windows experiment has shown its benefits, unfortunately, at a crucial juncture for TBC. \n\n//\n\nMaybe by Arc 3.0 / Arc 1.30 on Windows, it's actually finally parity.",
+            "Hello! I am a new Arc user and I did not know that Arc had a setting that auto archived Tabs after 12 hours set by default. I thought it was a bug that Arc was losing my Tabs. I was about to stop using Arc because I thought my content wasn't safe, and I couldn't trust Arc to maintain it's state.\n\nI think it might be helpful to walk users through choosing that option manually during the set up process or within the first moments of using Arc. It certainly wasn't something I expected the browser to do.",
+            "WHERE TF IS MAX \ud83d\udde3\ufe0f",
+            "I am still facing this extensions issue that I had mentioned about previously: [https://www.reddit.com/r/ArcBrowser/comments/1dkd8ae/comment/l9hrwer/](https://www.reddit.com/r/ArcBrowser/comments/1dkd8ae/comment/l9hrwer/)",
+            "Still can't use search engine shortcuts unfortunately. And I was hoping for Max to become available of course.",
+            "[deleted]",
+            "I guess the 24H2 bug is still not fixed. :(",
+            "Maybe it's just me, but i would really love to see the Tidy Tabs feature coming to windows. On mac it kinda satisfies my ocd!"
+        ]
+    },
+    "CAN IT JUST BE STABLE PLEASE?!": {
+        "title": "CAN IT JUST BE STABLE PLEASE?!",
+        "score": 7,
+        "url": "https://www.reddit.com/r/ArcBrowser/comments/1dr68zl/can_it_just_be_stable_please/",
+        "content": "At this point Arc for windows starting from beta has been out for over 7months   \nAnd the \"Stable\" release has been out for 2 months. \n\nAnd the question is \"When?\" when will Arc on windows gonna be ready?\n\nAnd when i say \"ready\",  i'm not even asking for Arc max features or anything like that at all!  \n  \nAll what i'm asking is what they promised 2 months ago, A STABLE BUILD  \n2 months ago they released a build that was still very beta and labeled it as stable. and till this day we are all using what is essentially an open beta build.   \n  \nI just want to use the browser without it bugging out the ctrl+t or crash down and closes randomly or being sluggish.\n\nwhen will Arc be ready to be used as a daily driver?! without hacks or workarounds and for everyone ! (because i know it's working perfectly for some of you , and i'm happy for you guys but you have to realize that this is not the experience for a lot of us) ",
+        "num_comments": 1,
+        "comments": [
+            "its a public beta not a stable build..."
+        ]
+    },
+    "Windows and Mac browser RAM usage comparison for 2024": {
+        "title": "Windows and Mac browser RAM usage comparison for 2024",
+        "score": 10,
+        "url": "https://www.reddit.com/r/ArcBrowser/comments/1dr126h/windows_and_mac_browser_ram_usage_comparison_for/",
+        "content": "I done this test because I could not find a recent data set with every browser I use compared together.\n\nThese amounts were found out by visiting the top 10 most visited sites according to Brave Search data:\n\nGoogle.com, Youtube.com, Facebook.com, Amazon.com, Wikipedia.org, Instagram.com, eBay.com, Apple.com, Reddit.com and Yahoo.com\n\nAll websites had accounts signed in and all browsers used either Ublock Origin or the browsers native ad block (Safari used Adguard for Mac) Ad blockers were the only extensions enabled and private mode were turned on for all browsers to ensure the least amount of personal data was shared with the sites.\n\nThere are 2 sets of numbers, and they are categorized by High and Average. High is the max amount of ram found to be used during the testing and average is well the average amount found during testing. Testing time was 4 minutes per site.\n\nNow the numbers:\n\n|Browser|Windows High (MB)|Windows Avg (MB)|Mac High (MB)|Mac Avg (MB)|\n|:-|:-|:-|:-|:-|\n|Chrome|1603|1444|2219|1966|\n|Edge|1703|1437|2328|2048|\n|Brave|1471|1288|1874|1798|\n|Firefox|2308|2143|3239|3077|\n|Vivaldi|1698|1463|2213|1906|\n|Floorp|2439|2125|3681|3414|\n|DuckDuckGo|2497|2327|3827|3513|\n|Arc|1427|1273|1876|1670|\n|Opera|1723|1545|4075|3810|\n|Safari|-|-|2480|2213|\n\n*Note: Safari is exclusive to Mac. Sites were visited at the same time on each browser.*\n\n*Machine for Windows: Surface Laptop 3 with Intel Core i5-1035G7 CPU @ 1.20GHz, 8 GBs of RAM*\n\n*Machine for Mac: MacBook Air Late 2020 with Apple M1, 8 GBs of RAM*",
+        "num_comments": 0,
+        "comments": []
+    },
+    "Hmmm...": {
+        "title": "Hmmm...",
+        "score": 7,
+        "url": "https://www.reddit.com/r/ArcBrowser/comments/1dr2vj7/hmmm/",
+        "content": "https://preview.redd.it/uwb26djctf9d1.png?width=1919&format=png&auto=webp&s=4a797c58f64020b7d66bd4408b5af390f3113f6f\n\nAm I not... using... Arc..?",
+        "num_comments": 4,
+        "comments": [
+            "This Subreddit is not affiliated with the The Browser Company of New York (TBC), so reporting bugs here may not be effective. Bugs shared through this channel may go unnoticed or unanswered by the company, as they are unable to track issues in these locations. For your bug report to be noticed by the team and possibly addressed, please use the company's official feedback channels to avoid miscommunication or confusion. Please provide the team with a detailed account of your experience and the steps to reproduce the issue.\n\nYou can do this by accessing the Arc Menu at the top left, selecting \"Help\" and clicking on \"Contact the Team\". This is the only way for the team to receive a notification of your bug report. If, for some reason, Arc won't launch or is unable to access the internet, please submit your issue at https://resources.arc.net/hc/en-us/requests/new on a different browser.\n\nIf you have already submitted your bug and waited for more than a week, please consider resubmitting it with an increased Urgency tag. Please only do so if the issue is preventing you from using Arc.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ArcBrowser) if you have any questions or concerns.*",
+            "Boosts on Windows unsupported atm",
+            "Boosts are not available for windows yet",
+            "It's sad, hope they add it soon"
+        ]
+    }
+}

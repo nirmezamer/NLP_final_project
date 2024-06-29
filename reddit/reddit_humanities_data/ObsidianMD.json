@@ -1,0 +1,84 @@
+{
+    "Official forum is over at forum.obsidian.md": {
+        "title": "Official forum is over at forum.obsidian.md",
+        "score": 511,
+        "url": "https://forum.obsidian.md/",
+        "content": "",
+        "num_comments": 39,
+        "comments": [
+            "Reddit is just so painless to use.",
+            "yaaay I love Discourse forums!",
+            "I love obsidian",
+            "I want to know what Obsidian is and does and I cant find a simple sentence or paragraph to tell me.  (Then I will like to know more oc.)\n\n&#x200B;\n\nThey all start in the middle and cite small difficulties. I'd like an overview. (Yes I did look at the [obsidian.md](https://obsidian.md) page.)",
+            "Love Obsidian and the ease of use but, I swear, if there is a way to screw things up, I will find it! I have my notes in two different vaults (unsure what my thinking was), but I want to consolidate them into one vault. I'm not concerned with formatting as much as I am with having the notes in just one vault. Other than copy and pasting, is there a way to compile all into one vault?\n\nThanks from an obviously na\u00efve bumbler.",
+            "Hi, please help me to calculate duration between two time, property calendar time dateStart and dateEnd using property formula in db folder plug in.\n\nInside formula I put:\n\n    ${db.js.getDduration( ${dateStart} , ${dateEnd})}\n\nand inside folder js getDuration.js I put:\n\n    /**\n     * \n    * Formula: ${db.js.getDuration(dateStart,dateEnd)}\n    * @param {*} dateStart,dateEnd\n    * @returns \n    */\n    function getDuration(dateStart,dateEnd) {\n        module.exports = getDuration;\n        return (res);\n    }\n    \n    module.export = getDuration;\n    \n\nI have to say that I'm really a newbie in js \ud83d\ude01.\n\nThanks",
+            "I think it is just a advertisement of a forum at the Obsidian site. Is that correct?",
+            "Does this site provide light theme? I had been wandering for an hour but found no options for dark/light switch",
+            "Is this the best resource for beginners?",
+            "I don't know where to post my question, I don't think it's forum worthy. All I wanna know is why can't I use some markdown formats? I can't use task (-\\[ \\] ), emojis, term definitions, and others. This is the guide I found online [https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/)"
+        ]
+    },
+    "Iconic: Add icons & colors to your vault!": {
+        "title": "Iconic: Add icons & colors to your vault!",
+        "score": 32,
+        "url": "https://www.reddit.com/r/ObsidianMD/comments/1dlraxo/iconic_add_icons_colors_to_your_vault/",
+        "content": "Here's a plugin I mostly created for myself, but hopefully some of you find it useful too! [Iconic](https://github.com/gfxholo/iconic) is a desktop & mobile friendly plugin for customizing a variety of icons around your vault.\n\n[You can choose any of Obsidian's built-in icons, or an emoji if you prefer that style](https://preview.redd.it/bryr0qyty28d1.jpg?width=1948&format=pjpg&auto=webp&s=3427493ad2e5b0e26f5200804cc8147dd4ce7bba)\n\nIt expands on the idea of similar plugins like [Iconize](https://florianwoelki.github.io/obsidian-iconize/) and [MAKE.md](http://MAKE.md) by letting you sprinkle icons on almost everything *around* the editor. Everything in the screenshot above is native, so no icon packs are needed.\n\n[Colors can adjust automatically to your CSS theme \ud83c\udf08](https://preview.redd.it/5o5a78swh38d1.jpg?width=1793&format=pjpg&auto=webp&s=c7b978364243257c62b8bb14a1be8e0fb533300e)\n\n**Supported items:**\n\n* Tabs\n* Files & Folders\n* Bookmarks & Groups\n* Properties\n* Ribbon commands\n* Sidebar toggles\n* Help & Settings buttons\n* (Tablets) Pin buttons\n\n**Installation:** [**How to install this plugin using BRAT**](https://github.com/gfxholo/iconic#how-to-install)\n\nHopefully I can get this approved for the community browser soon. This is the first plugin I've shared online, so any critiques and feedback are welcome :)",
+        "num_comments": 6,
+        "comments": [
+            "Oh this looks great! Might switch from Iconize once it\u2019s on the community plugins.",
+            "> Everything in the screenshot above is native, so no icon packs are needed.\n\nThat is great, I will definitely use this. \n\n2 questions.\n\n1. Can I have the same colour as the text? I see the option for the accent colour or a personalised one, but not the same as the text.\n\n2. With Iconize you can use :LiIconName: to insert an icon in the editor. Have you considered supporting that?",
+            "this is nice! finally some good alternative to iconize.\u00a0",
+            "Love it, Looking forward to it releasing in community plugins :)",
+            "Love it! Any plans on incorporating [Rainbow Folders](https://raw.githubusercontent.com/AnubisNekhet/AnuPpuccin/main/assets/gh-rainbow-preview.webp) like the top theme, [AnuPPuccin](https://github.com/AnubisNekhet/AnuPpuccin) has?\n\nI'm asking because a plugin is needed to remedy a huge issue the theme has, which is the colors of the folders change as you scroll in the navigation sidebar.\n\nThis is due to the limitations of CSS, where you can only target n-th childs in the navigation bar with a theme, and since Obsidian constantly loads and unloads items in the navbar as you scroll, the folders change color as well.\n\nA plugin is needed to ensure the colors don't change, but unfortunately I haven't found one, even though a ton of people would use it, the rainbow folders is one of the biggest reasons why the theme is among the top downloaded ones.",
+            "Amazing. Installing it right now."
+        ]
+    },
+    "Are you naming your metadata fields in singular or plural form?": {
+        "title": "Are you naming your metadata fields in singular or plural form?",
+        "score": 8,
+        "url": "https://www.reddit.com/r/ObsidianMD/comments/1dlrhps/are_you_naming_your_metadata_fields_in_singular/",
+        "content": "For example, if you have a page for some book title that has multiple authors, how are you naming your metadata field (in YAML) for authors? Are you using singular or plural form? Or you're not worried about being consistent with fields, and you have both variations, singular form for books that have 1 author, and plural form for books with multiple authors?",
+        "num_comments": 17,
+        "comments": [
+            "Ahh rest assured my friend, most programmer also have the same dilemma about naming things.\n\nThe one advice I can give is to be consistent, whether you use singular or plural, once you choose please don't change it to any other convention. Stick to the system you've commited to make.",
+            "\n\n##### My tagging (and other properties)\n\n- [ ] Singular before plural\n- [ ] Only specific tags (no #job, #private, ...)\n- [ ] Apt description\n- [ ] As few tags as possible\n- [ ] As much tags as necessary \n- [ ] Avoid umlauts \u00f6\u00e4\u00fc\u00d6\u00c4\u00dc\u00df\n- [ ] No nested tags\n- [ ] Consider spelling \n- [ ] No numbers at the beginning\n- [ ] German preferred (but not for programming or scripting)\n- [ ] Connecting tags always in color\n- [ ] Important tags alwas in red\n- [ ] 1000 notes - 1000 tags\n- [ ] Maintain the tags regulary\n- [ ] Synonyms only when obviously necessary\n- [ ] Use automatically linking with query and dataview as long as long as you are on topic.\n- [ ] 2 words: Underline: Jour_fixe\n\nBy far my most used tags: #Obsidian #dataview #plugin\n\nThen come tags for my contents\n\n50 % are only one time used -> search words\n\n50 % of the tags connect at least 2 notes (>= 2 notes hold them)\n\nTagging is connecting. The tag connects notes that belong together. Another tag leads to the result being narrowed down further.\n\nSo easy.\n\n(Title edited)",
+            "I vote for chaos. Singular and plural",
+            "Singular.\nEdit: removed screenshot.",
+            "Depends on the file structure i\u2019d say, semi-structured i\u2019d go for authors and always pass a list - structured data i\u2019d probably find another solution",
+            "Most of my tags are singular, for consistency. The only exceptions are Ideas and Wishes.\n\n  \nHope this helps?",
+            "Plural if it's a list data type\n\nSingular otherwise\n\nThis is consistent with the (as of 1.4) standard Obsidian properties (e.g. aliases, cssclasses, publish, image, etc)\n\nMakes it clear when I'm parsing data if I should be expecting an array or a single value.",
+            "What about fish and sheep? On the other side, do we really want to have to use \u201cdatum\u201d? That word sucks.\u00a0",
+            "Ptsd hits me every time I have to make that decision... And I make it daily",
+            "I personally go with singular form, both in programming and in my Obsidian vault. But that built-in `aliases` field really triggers my OCD :)"
+        ]
+    },
+    "Kudos to the developers ": {
+        "title": "Kudos to the developers ",
+        "score": 132,
+        "url": "https://www.reddit.com/r/ObsidianMD/comments/1dl6omm/kudos_to_the_developers/",
+        "content": "It\u2019s only been a week of learning features but I decided to import my 1120 pages from Notion. And wouldn\u2019t you know it, all the properties moved too. This means that I don\u2019t have to recreate my properties like progress bars or my emotions property with stars. \n\nThe Obsidian developers have done a great job and the developers of the Importer have nailed the Notion import. \n\nThank you. I\u2019m officially done with Notion. The speed difference is tremendous. ",
+        "num_comments": 16,
+        "comments": [
+            "Welcome to the party \ud83d\ude0a",
+            "So I have been swapping between one note, confluence, and hand written notes for a while now. I have started with Obsidian, but I\u2019m not 100% sold yet. Been thinking about trying Notion. What drove you to reject notion for Obsidian?",
+            "One of the only times I\u2019ve ever wanted to personally thank a team of developers for something. They\u2019re the reason i\u2019m more than happy to pay for sync, I\u2019ll help out wherever I can.",
+            "Thank you.",
+            "For me, it was the push of embedding AI in everything and the bloat of all the features. I found myself just quickly opening a notepad to take notes and recognized that there was too much friction using Notion and that I needed something simpler.",
+            "First, I work in a school with internet that is not always reliable. If 36 kids are in the room and there are 3 devices each (engineering laptop, Chromebook, and phones) then everything slows way down. \n\nSecond, Obsidian on my phone is very fast. I can be in a meeting, tap something down and it isn\u2019t as intrusive as the laptop or tablet. \n\nThird, the pomodoro timer plugin writes to my daily log file and I can see that I\u2019ve accomplished things. I need constant reinforcement that I\u2019m moving forward. \n\nFourth, I prefer paper planning as I\u2019m sketching out the day. I found printing the Daily Log with time blocks, to a PDF then printer helps me stay on task. Teachers can end up in 3 conversations at once \u2014 with emails coming in , texts, and students in front of you. The Notion PDF wasn\u2019t very nice. Imagine promising a student to write a recommendation letter but not writing it down. Ugh. I\u2019ve seen it happen to students. \n\nFifth, the community plugins improved my workflow this week. I\u2019m not sure if it\u2019ll continue but I actually have time to be on Reddit. :) \n\nThere are more, but you get the idea. Four years of Notion was enough.",
+            "I just started using obsidian and I would say you can use both Notion and Obsidian together if your needs fit. I find notion databases and desigb are great also if the notion calendar works on android it would be great.",
+            "I recently jumped ship from notion to obsidian, as well as mendeley to Zotero. Pushed by many reasons, one being the fact that I wanted actual access to my content/data/files; and you just don\u2019t have that with notion. But I jumped from both after the internet was out for a day and I couldn\u2019t do any work (it was the final thing that got me switched over)\n\nHonestly it\u2019s been a few weeks, and I\u2019m a complete convert. I would hate to go back to notion now.",
+            "For me: notion blocks you in. In my opinion it is probably BETTER than obsidian for use case. But Notion only let's you manually export (in a shitty barely usable way).. which means your data is kind of stuck in Notion. The export for Notion just bundles things up into a massive .zip file (but it seems to loose some data, and it's impossible to work with because Notion (purposely?) makes all the file names ridiculously long.\n\nI am very happy since transitioning to Obsidian. The syncing isn't as good. It's not as pretty. But it's a better writing experience. And the big one: AMAZING BACKUP OPTIONS AND ALL DATA IS EASY TO MOVE AND UTILIZE BY OTHER APPS OR JUST A PLAIN TEXT EDITOR. Which means all my data is not gonna just disappear if a company goes bankrupt!",
+            "I can tell about the opposite. I like the fact that I have the raw markdown files in Obsidian, but I stick with Notion because adding links in Obsidian is very annoying if you\u2019re on the phone. It\u2019s hard to paste the link after you create the brackets etc. and on Notion it\u2019s like a dialog with an input (just like the Reddit app).\n\nAlso the fact that Notion has an interface where you see the end formatting while you write is sort of more pleasant for me.\n\nIf there\u2019s a way to fix these issues in Obsidian with plugins that work on mobile I\u2019d like to know, cause then I\u2019d prefer to move away from Notion if I could."
+        ]
+    },
+    "Fullscreen mode on mobile (Android) possible?": {
+        "title": "Fullscreen mode on mobile (Android) possible?",
+        "score": 2,
+        "url": "https://i.imgur.com/ah6buv8.jpeg",
+        "content": "",
+        "num_comments": 1,
+        "comments": [
+            "Am I missing something or is it not possible to have a fullscreen mode? As far as I can tell I haven't found any setting that would hide the top status bar."
+        ]
+    }
+}

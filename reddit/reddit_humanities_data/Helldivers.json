@@ -1,0 +1,97 @@
+{
+    "\ud83d\udee0\ufe0f PATCH 01.000.402 \u2699\ufe0f": {
+        "title": "\ud83d\udee0\ufe0f PATCH 01.000.402 \u2699\ufe0f",
+        "score": 3687,
+        "url": "https://www.reddit.com/r/Helldivers/comments/1dimaet/patch_01000402/",
+        "content": "# \ud83c\udf0dOverview\n\nFor this patch, we have made improvements and changes to the following areas:\n\n* Quality of life improvements\n* Crash fixes\n* General bug fixes\n\n# \ud83d\udd27Fixes\n\n**Crashes**\n\n* Fixed various crashes that occur when changing settings.\n* Fixed crash or corrupted font texture when changing languages.\n* Fixed a crash that occurs after exiting a mission.\n* Fixed a crash that occurs when opening the social menu with more than 100 friends. As a result we have also limited the friends list visibility to 100. You will remain friends with anyone over 100, but you may not be able to see them if they are offline.\n* Fixed crash social menu crash related to high number of blocked players and/or friend requests.\n* Fixed a crash when minimizing after changing fullscreen mode.\n* Fixed rare crash which could occur when picking up equipment.\n* Fixed a crash when a client interacts with a terminal in a waiting state after host migration.\n* Fixed a crash related to minefields.\n\n**Misc Fixes**\n\n* Fixed issues with dodge and prone.\n* Fixed not being able to stand up while wielding the ballistic shield.\n* Fixed the Recoilless reload speed.\n* Fixed issue where users couldn't write a description on console when reporting a player.\n* Fixes vehicle preview not despawning in Warbonds when quickly scrolling through the catalog.\n* Fixed Spear not targeting several entities (spawners, compound objects, etc).\n* Sentries now have a higher destruction value so most explosions do not instantly destroy them regardless of the damage amount.\n* Fixed bug where operation progress would be lost when kicked due to inactivity.\n* The \"Remove Friend\" and \"Block Player\" buttons are now hold-to-confirm instead of a single click.\n* Fixed bug where dying would try to enter ADS.\n* Fixed a soft lock if you receive an interact emote while holding a grenade.\n* Fixed projectile to crosshair inaccuracies in ADS when the player is in different stances\n* Fixed broken player model in career tab when on someone else's ship.\n* Adjudicator: fixed incorrect recoil values.\n* Fixed armory terminals losing their functionality if the last client player who interacted with them leaves the host's ship.\n* Fixed missing localization for flying patrols operation modifiers.\n* Fixed issue where throwing knives could be left floating in the air.\n* Support for non-latin fonts in the game's install folder path.\n* Vehicle skins are now applied to all vehicle variations when equipping directly from Warbonds.\n* Fixed flag objectives not properly tracking a Helldiver\u2019s position while on a Combat Walker.\n* Fixed missing description for the PH-202 Twigsnapper helmet.\n* Fixed the issue where the shuttle would clip through Bile Titans and terrain during landing sequences.\n* Improved performance on PS5 when CPU bound.\n* Fixes FX remaining when destroying Spore Spewer.\n* Ensure stim vfx remains on screen for the entire duration of the stim effect when med-kit bonus is present.\n* Fix for emote receiver players being able to use their weapons during emote animation\n* Hellbombs now get called down facing the player, rather than away from the player.\n\n# \ud83e\udde0Known Issues\n\nThese are issues that were either introduced by this patch and are being worked on, or are from a previous version and have not yet been fixed.\n\n* Sending friend requests via friend code in game currently does not work.\n* Players may be unable to be joined or invited to the game.\n* Players added to the 'Recent Players' list will appear in the middle of the list.\n* Players may experience delays in Medals and Super Credits payouts.\n* Available Operations are generated again after reconnecting after getting AFK kicked.\n* Enemies that bleed out do not progress Personal Orders and Eradicate missions.\n* Arc weapons sometimes behave inconsistently and sometimes misfire.\n* Most weapons shoot below the crosshair when aiming down the sights.\n* Plasma Punisher is unable to shoot out of the shield generators.\n* Stratagem beam might attach itself to an enemy but it will deploy to its original location.\n* \"Hand Carts\" ship module does not reduce Shield Generator Pack's cooldown.\n* Bile Titan sometimes does not take damage to the head.\n* Charger\u2019s butt does not take damage from explosions.\n* Players may become stuck in the Loadout when joining a game in progress.\n* Reinforcement may not be available for players who join a game in progress.\n* Planet liberation reaches 100% at the end of every Defend mission.\n* \"Raise Flag of Super Earth\" objective does not show a progress bar.\n* Mission count in the Career tab is being reset to zero after every game restart.\n* Some weapons\u2019 descriptions are out-of-date and don\u2019t reflect their current design.\n* **\\[EDIT 1\\]** From what I can gather from Discord, Sup. Packing Meth. isn't fixed but the devs are aware of it. Idk why it didnt make it on the known issues list.\n\n**\\[EDIT 2\\]** Some extra info on a few big issues not fixed by this patch.\n\nhttps://preview.redd.it/lszegk9pvb7d1.png?width=949&format=png&auto=webp&s=95a44688ed3183869fd566d7b70466043e42be76\n\n\n\n.........................\n\n[Patchnotes Megathread](https://www.reddit.com/r/Helldivers/comments/1bd6hse/helldivers_2_patch_notes/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)",
+        "num_comments": 1324,
+        "comments": [
+            "Does anybody else ever get that glitch that you reload and then shoot 1 bullet and it makes you reload again. It happens with all guns but it really sucks when using the guns that make you stand still to reload because you basically have to reload twice",
+            "Hellbombs finally face the player, YES!",
+            "Spear already fix!",
+            "\"Superior Packing Methodology\" not giving full ammo is not in known issues?\n\n  \nEdit: it's on there now (y)",
+            "\"Bile Titan sometimes does not take damage to the head.\" Oh dear god no\n\nOther than that, thank you for fixing my beloved ballistic shield.",
+            ">Adjudicator: fixed incorrect recoil values.\n\nDoes that mean more or less recoil?",
+            "*Some weapons' descriptions are out-of-date and don't reflect their current design*\n\nThe Eruptor is about to lose the description bit about the shrapnel  :(\n\n![gif](giphy|KDRv3QggAjyo)",
+            "Spear mains are finally eating a normal meal now.",
+            "Did they fix the support weapon resupply module?",
+            "> Hellbombs now get called down facing the player, rather than away from the player.\n\nlast change best change"
+        ]
+    },
+    "RANT and VENT MEGATHREAD": {
+        "title": "RANT and VENT MEGATHREAD",
+        "score": 4352,
+        "url": "https://www.reddit.com/r/Helldivers/comments/1b9k51r/rant_and_vent_megathread/",
+        "content": "Greetings, Helldivers! \n\nThis is a megathread for ranting, raging or venting about anything and everything Helldivers related. Whether it\u2019s about a mission you just played, a recent patch, the community, etc.\n\nThis megathread isn\u2019t designed to censor you, we are doing this because the subreddit is becoming overwhelmingly flooded with rants (as we\u2019re sure you\u2019re aware). We strongly encourage you to use this Megathread as opposed to creating your own post. If you decide that what you have to say requires a new post, you should know that we will be *actively moderating and critically assessing the quality of those posts* to lessen the amount of low-effort content on this subreddit. \n\n\n**Please keep the comments related to HELLDIVERS and most importantly, keep it civil. Follow the sub\u2019s rules!**\n\n**CAPS LOCK ALLOWED.**\n\n\nP.S. This megathread will be added to the sidebar. \n\n\n\u2014 The r/Helldivers Mod Team",
+        "num_comments": 19941,
+        "comments": [
+            "I HATE CHARGERS. I HATE CHARGERS. I HATE CHARGERS. I HATE CHARGERS. I HATE CHARGERS. I HATE CHARGERS. I HATE CHARGERS. I HATE CHARGERS. I HATE CHARGERS.",
+            "\"we want you to rely on stratagems\"\n\norbital cannon on 300 second cooldown\n\n\\+ 100% cooldown\n\n\\+ 50% call in time\n\nhttps://preview.redd.it/pva689p853nc1.png?width=1636&format=png&auto=webp&s=1e2f81b12f2b6b6b8641600be5ed17a7ca9e9ef2",
+            "OF COURSE I'M NOT COMING TO HELP THE TEAM! \n\nI'M CARRYING THE SUPER SAMPLES AND YOU INSIST ON FIGHTING THE 6 HULKS AND 2 TANKS INSTEAD OF RUNNING AWAY!!!!",
+            "Holy shit why is extraction just a wall of elites now?  \nIf you arent lucky and the enemy comes at you from more than one side its unbelivably brutal, you basically have to run around for 3 and a half minutes, then everyone tosses their orbital lasers at the last 30s if you want any chance of a decent evac at the higher difficulties.  \n  \nand with the -1 strategem modifier, thats so much power allocated to JUST extraction.",
+            "A technical test sever might be a good idea in this game. Have it whereby you can\u2019t gain xp/samples/credits etc\u2026",
+            "Complex Stratagem Plotting (double stratagem deployment time after placing a beacon) is not an interesting modifier for 90% of the mission, and is far too frequent on higher difficulties.\u00a0\n\n\nMostly it just results in you spending more time waiting for resupplies and support stratagems. Maybe I'm just impatient but it just means I spend less time spreading democracy rather than putting me in a time crunch conundrum waiting for a crucial airstrike which is what I imagine it's supposed to do.\u00a0\n\n\nThe sole exception to this is the extraction timer, which is actually where it makes a huge difference between getting out with your samples or not.\u00a0\n\n\nI think the whole modifier could be renamed to something like \"Complex Evacuation Planning\" and only double your extraction timer and it would be just as meaningful of a modifier but significantly less tedious mid mission.",
+            "WHO THE HELL THINKS IT IS GOOD TO HIDE STATS IN A GAME LIKE THIS? WITHOUT GIVING ANY GOOD WAY TO TEST WEAPONS?\n\nNo, seriously, devs are all about \"pick what is fun, discover different ways\" and then hide all the useful information about weapons. Do you expect people to go into highly random battles and test each possible variable on a weapon? No, of course they will find what works and stick to that as much as possible!\n\nWe need full stat list on every weapon.",
+            "Difficulty first and foremost should change how many trash mobs are spawning. The Elite Mobs (Chargers, Hulks, Tanks, Biles) shouldn't fill the screen as it is now. \n\nAlso please please fix the charger animations. The slide/stagger canceling is very unfair.",
+            "What happened to stealth this recent patch?  \nI had a dropship crew called in after I blew up a heavy base and I broke line of sight MULTIPLE times, ran half way across the map, ran around cover multiple times then stayed prone in a random spot.  \n  \nI check my radar and its a fucking congo line B-lining right to me and they were specifically aware of where I was because a god dam commissar threw a grenade at me while I was still in cover.",
+            "So I decided to give it a shot again and holy crap. 7 on bots is just randomly dying over and over from enemies miles away firing rocket spam at your positions. 7 on bugs is constant 1-2 bile titans and 2-3 chargers plus hunters being super rough to deal with after the armor update.\n\nwith no reprieve it's 40 minutes of chaos until you barely make it out and get 2 stars out of 5 despite defeating the main objective and all 4 side objectives becasue 3 of your dudes didn't make it past the 4 bile titans right at the end."
+        ]
+    },
+    "The right time? Most of us already forgot about it...": {
+        "title": "The right time? Most of us already forgot about it...",
+        "score": 1456,
+        "url": "https://i.redd.it/sthvdx6a128d1.jpeg",
+        "content": "Most of us have already forgotten about this and have moved on to wanting the cape with children's handprints another user had made. That's the cape I want.",
+        "num_comments": 166,
+        "comments": [
+            "Right time is either when the remaining 177 regions regain access. Or the more popular time of 3 months ago xD",
+            "I say release this now, and then when the countries are LIBERATED from the HANDS OF TYRANNY, release a 'patchwork' flag of all the restricted countries flags put together, with the Super Earth Insignia in the center.",
+            "Sony has them by the balls and it's sad and obvious",
+            "Yeah, and the game is still unavailable in the other countries to buy anyways",
+            "Shame we can't review bomb snoy",
+            "Remember that time we failed. Here is a cape.",
+            "Right time came and went. Won't be another right time.",
+            "At this point I don't even care anymore and yea I was here for that Sony cancer, I'd rather them focus on the game breaking shit plaguing the game right now.",
+            "Yeah, I wouldn't be dropping this while the game is constantly crashing, and patrols are bugged.",
+            "The right time was when it was finished.\n\nThe second rightest time is now."
+        ]
+    },
+    "MAJOR ORDER COMPLETED! REDEPLOY TO THE BOT FRONT.": {
+        "title": "MAJOR ORDER COMPLETED! REDEPLOY TO THE BOT FRONT.",
+        "score": 3916,
+        "url": "https://www.reddit.com/gallery/1dlfcmm",
+        "content": "",
+        "num_comments": 405,
+        "comments": [
+            "The order lasts 5 days regardless if we hold those 5 planets. We must hold that sector, least malevelon be back on the menu again.",
+            "Anyone else find this major order really suspicious? All we have to do is take mort? Something ups",
+            "Get your ass to Mort. 50% already liberated and will auto win the defence mission.",
+            "Can't sorry. Too busy getting my ass handed to me in the Land of Shadow",
+            "Yall need to go to mort and get off of ingest",
+            "![gif](giphy|ckw8EbI8Ak9YQ)\n\n\\*BOTS",
+            "Can I go do the forest planet a couple times first, pretty please?",
+            "We can\u2019t let them win. They\u2019re trying to DEFILE the Creek again!",
+            "LET'S GOOOOO BOT FRONT FINALLY!!!!!\n\n\nstart packing You're Smokes and Long range Weaponry Guys! We're about to spill sweet Oil!!!",
+            "Bot diver: The bot front calls for aid!\n\nBug diver: Then the bug front shall not answer"
+        ]
+    },
+    "Before every mission against the automatons I feel like...": {
+        "title": "Before every mission against the automatons I feel like...",
+        "score": 483,
+        "url": "https://v.redd.it/j10reey5u28d1",
+        "content": "",
+        "num_comments": 31,
+        "comments": [
+            "For those who are wondering, this is from the Astartes project. A fan made animation that was so good that games workshop gave it's creator a job:\n\n[Warhammer Animation: Astartes - Warhammer Community (warhammer-community.com)](https://www.warhammer-community.com/warhammer-animation-astartes/)\n\nThis edit is amazing work, OP can you remake this with the Auto Cannon.",
+            "*\"We light the way amidst the darkness*. *We are the defenders of humanity. We are Hell Marines...and we shall know no fear.\"*\n\nhttps://preview.redd.it/xkf34f6dc38d1.jpeg?width=626&format=pjpg&auto=webp&s=8c5f6c49249a954496939f88722d7e467f4756a1",
+            "JAR-5 is a pretty solid cutter for automatons. Mostly the stagger I would say when against Devastators because you can completely CC their rocketeers and TTK is fast even if you miss a couple of weakspot hits.\n\nI kind of circle a few primaries against bots but truthfully the JAR-5 can kill anything on the front with enough practice. Having someone use it on your team who is not after kills but using it for support fire can bully entire packs of assorted Devastators lining them up for easy picking or at the very least preventing them from landing rockets or beaming you with that mini gun.",
+            "Just a missed opportunity with the 40k franchise now thrown everywhere. Mostly cash grab mobile games. Wish we could get something akin to helldivers set in 40k.",
+            "Seems as good a place as any to ask: why do people prefer the JAR-5 over the Scorcher. I get that the JAR-5 has more damage, but I've found that the Scorcher delivers its explosion better. The main enemy this matters for me is the Scout Striders, which I can kill with three shots anywhere on the shield. The JAR-5 I've only been able to kill them with more precise hits to the legs or 'waist'. Every other enemy I still generally need to hit their weak points to score a kill, so with Scout Striders as the make-or-break enemy I always prefer the Scorcher. Am I missing something about the JAR-5?",
+            "Reality is otherwise, team mates feel like mindless guardsman.",
+            "Replacing the bolter with a JAR-5 is accurate lol",
+            "i sure hope not.\n\nthat dude has a terrible primary.",
+            "> For those who are wondering, this is from the Astartes project. A fan made animation that was so good that games workshop gave it's creator a job:\n\nLmao he didn't have a choice. He was a youtube animator before GW approached him, guess what happened to his channel?",
+            "You can still find it on YouTube here: https://m.youtube.com/watch?v=DVXEYksoE6c&pp=ygUMYXN0YXJ0ZXMgMS01"
+        ]
+    }
+}

@@ -1,7 +1,7 @@
 {
     "There's a bug in the Android Reddit app preventing users from posting on the Art sub.": {
         "title": "There's a bug in the Android Reddit app preventing users from posting on the Art sub.",
-        "score": 114,
+        "score": 118,
         "url": "https://www.reddit.com/r/Art/comments/175n2jt/theres_a_bug_in_the_android_reddit_app_preventing/",
         "content": "For a couple of weeks we've been getting messages from users not being able to post on this sub: the Post button remains greyed out. The commonality of the reports seem to be that they have been trying to use the Android reddit app to post. So if this problem has been bugging you, please report it to Reddit in the android app store. Until it's fixed you can post your art in the web browser on a computer.\n\nAnd yes, we know the app seemingly allows posting on other subs, and not on /r/Art. But the iPhone app works fine (tested myself). It probably has to do with the title requirements that this sub has, it uses a thing called regex, and I suspect this title requirement is causing the android app to not function correctly.",
         "num_comments": 64,
@@ -15,43 +15,15 @@
             "[This will be a tad off topic, and a tad entirely due to this issue but I'll warn whoever has the sparsity in their time to read further that it's a little long/drawn out as I have a tendency to do with my utterings but thought I'd share since I know it's not related to my phone's recent issues -WITH. EVERYTHING- not just reddit or this sub] \n\n -- ANYWAYYYS, ahh thanks for the notifying!! I was recently having (still am actually), completely unexplainable and unrelated troubles with my phone, my internet/data (not allowing me to go on normal websites IE googles homepage even or YouTube, and Cashapp not working or contactless payments in general etc)\ud83e\udd74\ud83d\ude35\u200d\ud83d\udcab\ud83e\udd74\ud83d\ude35\u200d\ud83d\udcab at the exact same time when I tried to make a post and it wouldn't allow me.\nNeedless to say I- understandably so; thought it was correlating to this much larger issue with my phone & have been in constant contact with Google support, Cashapp, Android Customer Service, etc-- long story short...\nUpon the 17th time explaining my situation and the billion random albeit super debilitating issues with my phone & account/inaccessibility to yet another CS rep (different one each time)- he told me that the only explanation that he actually has was that he doesn't have one and has no idea himself why this was happening to me and was just as stumped as i, myself.. AND I'm a web[3]/software engineer & dev so its been even more frustrating..\nBut the same man from India (as he explained later), also told me that he can assure me that he was recently trying to utilize the art sub-reddit and couldn't post either & we actually connected & had a 15 min additional, non-issue related, totally comforting conversation via our similar online presences & intrigues and come to find out he was also a NFT artist & had actually, outbid me on a Low Effort Punk a couple weeks ago.\n\nRandom issue entirely, random conversation, random coincidence, but it made me a little less hostile & angry at my phone and life in general that I'd be able to rest assured my issue/glitch with the sub-thread (Reddit in general really), was at the very least; not just my own frustration and experience and that it would handle itself eventually. \nAnd it has. Thanks again to the fantastic mods of one of my fav subs to peruse daily.",
             "This is starting to get really frustrating. Can't upload a simple image from my phone, imgur no longer provides direct links to images and I don't have a computer. Really wish somebody could just fix this ridiculous bug that's been happening for months now.",
             "I\u2019m an iPhone user and am having the same problem",
-            "Happen to me switched to png instead of jpg which did the job for me",
-            "Just happened to me but I have an iPhone",
-            "Ugh!  I can\u2019t post from my iPad and I don\u2019t have a computer. \u2639\ufe0f\n\nMessage:  your post is missing a community requirement.",
-            "It\u2019s not working on iPhone",
-            "Anyone figured this out? I want to share my art here either but the button is always grey \ud83e\udee0",
-            "I just complained about this 3 sec ago. \ud83d\ude11",
-            "I'm using my android app?? Haven't been able to post anything. I'll try my computer tho.",
-            "[removed]",
-            "[removed]",
-            "[removed]",
-            "[removed]",
-            "It\u2019s also happening; at least for me, on iPhones.",
-            "Can't post via desktop as well, get the greyed out button. Mozilla Firefox browser, Win 10,",
-            "Gonna try it right away :).",
-            "Report it in the app store, with enough reports at some point they are gonna fix it you'd think.",
-            "No worries ;).",
-            "r/textwalls",
-            "Report it in the app store.",
-            "Report it in the app store, it's a bug in the app.",
-            "That's pretty wild! Maybe this is the problem people are having? Please report it in the app store!",
-            "Report it in the apple app store.",
-            "Report it in the app store to the app maker.",
-            "Report it in the app store!",
-            "That's what the post says, doesn't it?",
-            "[removed]",
-            "r/shortreader r/disrespectful r/amazingcontribution r/r",
-            "Uh no. It says the 'app', and then then says 'iPhone app'. I'm using an android. Also, cmon no need to be mean.",
-            "r/ireadtheentirething",
-            "The title says it all really, not sure how you're mixing it up. Also the text says android app in the first paragraph, and in the second paragraph it isn't fully repeated, but from previous context it obviously also refers to the android app."
+            "Happen to me switched to png instead of jpg which did the job for me"
         ]
     },
     "breath of spring, Anastasia Trusova, acrylic, 2022": {
         "title": "breath of spring, Anastasia Trusova, acrylic, 2022",
-        "score": 871,
+        "score": 1078,
         "url": "https://i.redd.it/yy8c0x0m5z7d1.jpeg",
         "content": "",
-        "num_comments": 17,
+        "num_comments": 19,
         "comments": [
             "Using rays of sunlight to divided the sky into different pieces is fun and very dynamic.",
             "I've been feeling really down today. This picture is so beautiful, and brightened my headspace. Thank you for sharing. <3",
@@ -62,238 +34,35 @@
             "This is outstanding!!! I love it!!!!",
             "This is so pretty!! I love the contrast of the flowers with the harsh geometric rays of light, and the color palette is stunning.",
             "This is one of the most interesting pieces I've seen on this site. Really well done!",
-            "really lively and beautiful",
-            "absolutely beautiful! Ive been struggling with portraying the sky for as long as i can think, you've done so perfectly.\nKudos!"
+            "really lively and beautiful"
         ]
     },
-    "Waffle House (Late Night), Kristin Moore, Acrylic on wood panel, 2024": {
-        "title": "Waffle House (Late Night), Kristin Moore, Acrylic on wood panel, 2024",
-        "score": 286,
-        "url": "https://i.redd.it/xf8d2umkgz7d1.jpeg",
+    "Afterparty, my most recent work, oils, 2024": {
+        "title": "Afterparty, my most recent work, oils, 2024",
+        "score": 71,
+        "url": "https://i.redd.it/4tosife0e38d1.png",
         "content": "",
-        "num_comments": 7,
+        "num_comments": 1,
         "comments": [
-            "If I had one single suggestion for this piece it would simply be to have had one of the letters out. Never seen a Waffle House with all the letters working. \n\nAmazing work!!!!",
-            "I really appreciate this piece. Great attention to detail and color and atmosphere!",
-            "But\u2026how??? Looks like digital!! Wonderful work. It\u2019s so smooth!",
-            "I took a bus recently from south florida to new orleans for a concert and I saw EASILY ~75 waffle houses along the way it was nuts."
+            "Love the vibe. What was your inspiration?"
         ]
     },
-    "Hot Air, lightdraconis, Procreate, 2024": {
-        "title": "Hot Air, lightdraconis, Procreate, 2024",
-        "score": 205,
-        "url": "https://i.redd.it/kdfo3xow9z7d1.jpeg",
+    "Portrait study, SketchingSkechyGuy, Ballpoint pen on paper, 2024": {
+        "title": "Portrait study, SketchingSkechyGuy, Ballpoint pen on paper, 2024",
+        "score": 44,
+        "url": "https://i.redd.it/jt41arjtv38d1.jpeg",
         "content": "",
-        "num_comments": 4,
+        "num_comments": 2,
         "comments": [
-            "Take me away",
-            "I love it, it's so cute",
-            "Oh my god the wee peace sign"
-        ]
-    },
-    "Metal on Metal, Me (Flxti01), Digital, 2024": {
-        "title": "Metal on Metal, Me (Flxti01), Digital, 2024",
-        "score": 257,
-        "url": "https://i.redd.it/vavixj7iqy7d1.jpeg",
-        "content": "",
-        "num_comments": 27,
-        "comments": [
-            "Tbh this hurts my eyes to look at lol",
-            "Oh so it\u2019s not just me I thought I was going insane",
-            "I\u2019m very confused on what\u2019s happening",
-            "I\u2019m just not sure what to make of this. It seems like just layered and inverted pictures, but\u2026 why or to what end\u2026 what even\u2026 ?\n\nThe chainmail/cutting glove protecting the hand from gripping the knife blade is present\u2026 but it just feels like an unfinished piece, or like a quick experiment to see how layers work, and then calling it a day.\n\n\u201cWhat am I supposed to feel?\u201d \ud83e\udd14",
-            "I can't tell what I'm looking at. Multiple hands on top of each other, open and closed, plus a seemingly empty chain mail glove to the left which overlaps with the hands. One of the hands is grabbing a blade which another hand is holding, and then there's some kind of dog collar at the bottom where I assume the wrist should go? I'm sure it's real but it kind of feels like an intentionally confusing AI art prompt where separately things make sense but altogether it makes little to no sense. Also feels like this specific background color is hurting my eyes but that's probably just me. It seems to be technically well done (I could never draw chain mail like that) but I also feel that it looks jumbled and confusing.",
-            "i really like this idk why everyone\u2019s on ur ass lmao",
-            "This is pretty sick! The trippy definition with all the different fingers is really cool.",
-            "I like the composition, textures, and color scheme.",
-            "perfectly captures what this would sound like",
-            "\ud83e\udd17",
-            "supposed to feel like a bad photoshop",
-            "The background color does something weird for me, too. Like it\u2019s viscerally uncomfortable. lol\n\nPart of me feels sure this has to be the point of making/posting it? OP has to understand the chaos of this image, for better or worse.\n\nBut\u2026 I can\u2019t really even make sense of that either, so\u2026 lol, yeah, this is just a trip honestly.",
-            "The collar part is the strap that secures it to your wrist to keep it from falling off as they are general sizes.\n\nYou were correct in your guess I just wanted to help explain it as I worked in a meat department for a few years.",
-            "Should clarify that this is not a drawing it's done with photo manipulation, sorry if I implied it was drawn",
-            "People have expressed pretty clearly why they dislike it. What about the picture do you like?",
-            "Same why are people hating on this so much",
-            "For real!! This is excellent",
-            "frr that\u2019s what i\u2019m sayin, i love this",
-            "it\u2019s surreal and weird and i like that you can\u2019t really tell what\u2019s going on until first glance until you look a little longer, and even then i still kinda don\u2019t know. i don\u2019t know what the meaning of this piece is or anything but i just enjoy the absurdity and chaos of it. also, why is everyone downvoting the people supporting this guy? you guys need to learn how to handle different opinions lmaooooo (not directed at the person i\u2019m replying to)",
-            ">i just enjoy the absurdity and chaos of it. \n\nThat\u2019s a great answer. Thank you. \n\n>also, why is everyone downvoting the people supporting this guy?\n\nTrying to understand the hive mind is a road that leads only to madness. Best to ignore the points, up and down.",
-            "\ud83e\udef6\ud83c\udffd",
-            "everyone agreeing this is dog shit =/= hivemind.",
-            "downvoting everyone that disagrees with you is def some hivemind shit idk what to tell you \ud83d\ude39\ud83d\ude39",
-            "Downvoting people\u2019s positive opinions is peak hivemind. \n\nI don\u2019t particularly like the picture but instead of berating people who do, or downvoting them, I asked a question to better understand why. The hivemind wields the downvote button to punish the people they disagree with. \n\nYou *want* everyone to agree with you and when they don\u2019t you lash out. I doubt you realize that you\u2019re even doing it. The hivemind isn\u2019t thoughtful. It just reacts."
+            "Good work with crosshatching"
         ]
     },
     "Model painting, arca_num_ (me), digital, 2024": {
         "title": "Model painting, arca_num_ (me), digital, 2024",
-        "score": 27,
+        "score": 99,
         "url": "https://i.redd.it/gv4ew22y028d1.jpeg",
         "content": "",
         "num_comments": 0,
         "comments": []
-    },
-    "Not Like Us, BobbyZeikArt (me), illustration, 2024": {
-        "title": "Not Like Us, BobbyZeikArt (me), illustration, 2024",
-        "score": 23,
-        "url": "https://i.redd.it/l10crwyha28d1.jpeg",
-        "content": "",
-        "num_comments": 1,
-        "comments": [
-            "A portrait I did of Kendrick Lamar. Penciled and inked traditionally, colored digitally with Photoshop and Krita."
-        ]
-    },
-    "Reverie, nataliedixon_art, Oils, 2024": {
-        "title": "Reverie, nataliedixon_art, Oils, 2024",
-        "score": 80,
-        "url": "https://i.redd.it/qprm0ifv608d1.jpeg",
-        "content": "",
-        "num_comments": 1,
-        "comments": []
-    },
-    "Portrait of Joseph Deutz, Michael Sweerts, Oils, 1648": {
-        "title": "Portrait of Joseph Deutz, Michael Sweerts, Oils, 1648",
-        "score": 54,
-        "url": "https://i.redd.it/muhjdf2lq08d1.jpeg",
-        "content": "",
-        "num_comments": 2,
-        "comments": [
-            "great painting, ugliest dude in the world",
-            "In the Spring, I toured 11 major galleries in Spain, Paris and Amsterdam., taking a lot of photos.  \nAfter thousands of canvases by famous and minor artists, I keep coming back to this painting.  \nI almost feel he is inviting me to his home for dinner, but in 1648. It hangs in the Rijksmuseum.  \nThis is an unusual portrait: a young man directly engaging the viewer, as though he is about to speak.  \nSweerts portrayed Joseph Deutz in Rome, while he was staying there with his brothers. Deutz (1624-1684) was a member of one of Amsterdam's wealthiest families."
-        ]
-    },
-    "The freedom of nature in summer, Jessica Oliveira, oil painting, 2024": {
-        "title": "The freedom of nature in summer, Jessica Oliveira, oil painting, 2024",
-        "score": 541,
-        "url": "https://i.redd.it/ctg44k2drw7d1.jpeg",
-        "content": "",
-        "num_comments": 21,
-        "comments": [
-            "Beautiful colours! I find this really stunning :)",
-            "How beautiful, your colors are so vivid. I love it :)",
-            "The lighting is so good. It's like actually being there. A lot of art, and photography, alters the light to unnatural levels, but I'm glad you kept the darks dark.",
-            "I'm sure this artist has seen the Russian landscape realism painters. Isaac Levitan for one. This piece reminds me of that school. Captures the tranquility of the moment.",
-            "I love it. It captures the exact mood/emotion I love most about summer evenings. I could stare at this for a long time",
-            "This is so beautiful, I can\u2019t get over it! It really feels like I\u2019m there. The subtle hue changes in the clouds and reflection are so difficult to accomplish in such a natural, seamless way. Amazing work.",
-            "Just wonderful. Love the colours. Ty for sharing.",
-            "This is really nice. Looking at this is like relishing a beautiful fleeting moment.",
-            "I'm glad you think so, thanks for liking it :)",
-            "I love adding intensity to the colors, I'm glad you liked it too :)",
-            "I think this is one of the problems with photographs, sometimes they are too light and sometimes too dark, that's why I like painting so much, I'm glad you liked it!",
-            "I really like the way Ivan Shishkin painted, and what you mentioned paints very well too :) thank you for liking what I did",
-            "Thank you very much, it's something I like to do, I'm happy to know that it worked to cause that feeling",
-            "It's a great compliment, I thank you from the bottom of my heart, have a good night :)",
-            "I thank you for your comment :)",
-            "Oh, I didn't know you were following this. Keep up the wonderful work. Sky is so difficult and light/water refraction too. Wow! Your interpretation is impressive! Kudos!",
-            "I'm glad you liked it, I really appreciate it. :)"
-        ]
-    },
-    "Bob My Cat, chewieartist, pencil, 2024": {
-        "title": "Bob My Cat, chewieartist, pencil, 2024",
-        "score": 41,
-        "url": "https://i.redd.it/j0aua6oyw08d1.jpeg",
-        "content": "",
-        "num_comments": 1,
-        "comments": [
-            "Goodness! I thought this was a drawing of my old man cat (twelve years gone)! Well done, and what a cutie!"
-        ]
-    },
-    "Loving Family Portrait, skrapart (me), acrylic on panel, 2024": {
-        "title": "Loving Family Portrait, skrapart (me), acrylic on panel, 2024",
-        "score": 96,
-        "url": "https://i.redd.it/hf1x1jnpdz7d1.jpeg",
-        "content": "",
-        "num_comments": 7,
-        "comments": [
-            "Love the expression and dynamic use of colors against a black background!",
-            "I love this. I can hear each one.",
-            "I LOVE the facial expressions, so wack \ud83d\ude03",
-            "Fr? What do they sound like?",
-            "Thank you!"
-        ]
-    },
-    "Shrimp Cat, joyousjoyness, Digital (Procreate), 2024": {
-        "title": "Shrimp Cat, joyousjoyness, Digital (Procreate), 2024",
-        "score": 133,
-        "url": "https://i.redd.it/b8fdsojjsy7d1.jpeg",
-        "content": "",
-        "num_comments": 6,
-        "comments": [
-            "Captured the orange cat well",
-            "Thank you!! They're so derpy",
-            "They are! Mine has three legs, extra deep lolol",
-            "Your cat has a third leg that goes extra deep?",
-            "Haha!",
-            "Lmao derrrrppppp"
-        ]
-    },
-    "\"Rhino 3\", Rand Arrington, Charcoal, 2024": {
-        "title": "\"Rhino 3\", Rand Arrington, Charcoal, 2024",
-        "score": 37,
-        "url": "https://i.redd.it/pdug9xsjj08d1.jpeg",
-        "content": "",
-        "num_comments": 1,
-        "comments": []
-    },
-    "Distant Pink, Legitimate-Lie-9208, acrylic on Canvas, 2023": {
-        "title": "Distant Pink, Legitimate-Lie-9208, acrylic on Canvas, 2023",
-        "score": 10,
-        "url": "https://i.redd.it/40p9knwbm28d1.jpeg",
-        "content": "",
-        "num_comments": 0,
-        "comments": []
-    },
-    "Horizon, Pizza_dough42, Acrylics, 2024": {
-        "title": "Horizon, Pizza_dough42, Acrylics, 2024",
-        "score": 52,
-        "url": "https://i.redd.it/t3n1jow9008d1.png",
-        "content": "",
-        "num_comments": 0,
-        "comments": []
-    },
-    "Null, Knashz (me), Digital Art (3D), 2024": {
-        "title": "Null, Knashz (me), Digital Art (3D), 2024",
-        "score": 13,
-        "url": "https://i.redd.it/38eo7wax128d1.png",
-        "content": "",
-        "num_comments": 0,
-        "comments": []
-    },
-    "Timoth\u00e9e Chalamet, Nicole Powers, Oil Pastel, 2024": {
-        "title": "Timoth\u00e9e Chalamet, Nicole Powers, Oil Pastel, 2024",
-        "score": 46,
-        "url": "https://i.redd.it/2ye7sn52vz7d1.jpeg",
-        "content": "",
-        "num_comments": 3,
-        "comments": [
-            "Honestly im not like a die hard fan of T Chalamet lol but he\u2019s a good actor and has such a drawable face! This was a fun piece to do. I\u2019m new to Oil Pastels and I\u2019m really enjoying it so far. Advice welcome.",
-            "I love the attention to detail in the eyes!! It looks really good especially since you\u2019re new to oil pastels. I could never lol",
-            "Thank you!! And you totally can do it! It was looking so ugly in the beginning and I almost quit but after some more hours and layers it came together :) don\u2019t give up"
-        ]
-    },
-    "Jays, Boleen(me), acrylic on Sitka Spruce, 2024": {
-        "title": "Jays, Boleen(me), acrylic on Sitka Spruce, 2024",
-        "score": 124,
-        "url": "https://i.redd.it/bx4bwtdf9y7d1.jpeg",
-        "content": "",
-        "num_comments": 7,
-        "comments": [
-            "I would call it \"another dimension\"",
-            "I like it, maybe too sci-fi for the piece",
-            "But this is what you expressed )",
-            "That\u2019s a cool interpretation of my carving, going for more of a naturalism while having fun with forced perspective, but I do love sci-fi. This sub only allows one picture and no miscellaneous objects in them, so I\u2019m showing sculpture front and back with the two Jay carvings. Might be fun to get weird with painting the backside with circuitry and such.",
-            "Thank you.",
-            "Thanks for the feedback, appreciate it",
-            "u welcome"
-        ]
-    },
-    "Harpy-eagle on the branch of brazil nut tree, Marcellus Nishimoto, Watercolor, 2021": {
-        "title": "Harpy-eagle on the branch of brazil nut tree, Marcellus Nishimoto, Watercolor, 2021",
-        "score": 190,
-        "url": "https://i.redd.it/5zrclx86dx7d1.jpeg",
-        "content": "",
-        "num_comments": 5,
-        "comments": [
-            "Harpy-eagle (harpia harpyja) on the branch of brazil nut tree (Bertholletia excelsa). Watercolor.\n\nThe harpy eagle (Harpia harpyja) is a sight to behold. With a height of up to 3.5 feet and a wingspan reaching 8 feet, it is one of the largest birds of prey on Earth. Females are significantly larger than males, weighing between 15-20 pounds compared to the males' 9-11 pounds. Both sexes boast a striking appearance with a prominent crest of feathers that can rise when the bird is alert. They have incredibly strong talons, even larger than those of a grizzly bear, capable of lifting prey as heavy as a sheep.\n\nThese eagles are masters of their environment, perfectly adapted for hunting in dense rainforests. Their diet consists mainly of arboreal animals like monkeys, sloths, and other birds. They are incredibly strong, able to lift prey over three-quarters of their own weight! Harpy eagles are ambush predators, relying on short, swift attacks and a combination of powerful wingbeats and gliding to navigate the forest canopy.\n\nHarpy eagles are monogamous, mating for life. They build their nests high up in the tallest trees, sometimes over 130 feet above the ground. These majestic birds play a crucial role in the rainforest ecosystem, but sadly, they are facing a growing threat due to habitat loss. Deforestation for agriculture removes the large trees they need for nesting and hunting.\n\nThe harpy eagle is a powerful symbol of the beauty and fragility of our natural world. We must work to protect this magnificent creature and its rainforest home for future generations."
-        ]
     }
 }

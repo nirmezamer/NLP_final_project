@@ -180,7 +180,17 @@ def generate_reddit_data_set():
         
     return data_set
         
-    
+def clean_up_jsons():
+    dir_path = "./reddit/reddit_humanities_data_new"
+    for file in os.listdir(dir_path):
+        with open(dir_path + "/" + file, "r") as f:
+            data = json.load(f)
+        for post in data.keys():
+            if len(data[post]["comments"]) > 10:
+                data[post]["comments"] = data[post]["comments"][:10]
+        with open(dir_path + "/" + file, "w") as f:
+            json.dump(data, f, indent=4)
+    return
 
 # Example usage
 if __name__ == "__main__":
@@ -188,4 +198,5 @@ if __name__ == "__main__":
     # data = generate_reddit_data_set()
     # print(len(data))
 
-    generate_many_humanities_reddit_json()
+    # generate_many_humanities_reddit_json()
+    clean_up_jsons()

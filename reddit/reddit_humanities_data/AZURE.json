@@ -1,0 +1,57 @@
+{
+    "[Teach Tuesday] Share any resources that you've used to improve your knowledge in Azure in this thread!": {
+        "title": "[Teach Tuesday] Share any resources that you've used to improve your knowledge in Azure in this thread!",
+        "score": 45,
+        "url": "https://www.reddit.com/r/AZURE/comments/148cola/teach_tuesday_share_any_resources_that_youve_used/",
+        "content": "All content in this thread must be free and accessible to anyone. No links to paid content, services, or consulting groups. No affiliate links, no sponsored content, etc... you get the idea.\n\nFound something useful?  Share it below!",
+        "num_comments": 67,
+        "comments": [
+            "John Savill's [YouTube channel](https://www.youtube.com/@NTFAQGuy) is by far the best source for anything Azure.",
+            "I  will suggest her blog and tutorials if you are interested in the ADF (Azure Data Factory ) . \n\n[https://www.cathrinewilhelmsen.net/series/beginners-guide-azure-data-factory/](https://www.cathrinewilhelmsen.net/series/beginners-guide-azure-data-factory/) \n\non same site she also has speaking section , where you can check old recordings also . most of the videos are hosted on youtube only . Free to use.",
+            "[removed]",
+            "AWESOME-Azure-Architecture - https://aka.ms/AwesomeAzureArchitecture",
+            "[msportals.io](https://msportals.io) \\- Adam is a Microsoft MVP and maintains this list of portal sites for admins of M365, Azure and more.",
+            "We have built a tool called the Azure periodic table.\n\nhttps://azure-periodic-table.onwardplatforms.com/\n\nIt allows you to search for and explore Azure services.  It brings together key information about each service including a description, Microsoft Learn links, infrastructure code links for Terraform, Bicep, and ARM deployments, and utilities to quickly create and view your resources in Azure.\n\nThis week we are dropping new features to include private endpoint dns configuration data for commercial, government, and china cloud!  We are rapidly developing and pushing new features and user experience enhancements.\n\nThis is meant to be an every day reference for cloud architects and platform engineers.\n\nBest if all, it is totally free and open source.\n\nIf videos are your thing, I highly recommend Adam Marczak.\n\nhttps://youtube.com/playlist?list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM\n\nHis videos will teach you almost everything you need to know to understand and get started quickly with Azure services.  Love love love.",
+            "Nice view of all the services MS provide with additional info.\n\nhttps://azurecharts.com/",
+            "I love the portals site that keeps track of all the renamings and portal redirections. https://msportals.io/",
+            "After messing around with learning HTML and Python coding on FreeCodeCamp, I think I finally found my niche with cloud computing and have been learning Azure little by little on Microsoft Learn",
+            "The most basic one and more effective for me is, get my hands dirty. Go to the portal, create some basic services, see the options you have and see how it works in real life."
+        ]
+    },
+    "Free Post Fridays is now live, please follow these rules!": {
+        "title": "Free Post Fridays is now live, please follow these rules!",
+        "score": 1,
+        "url": "https://www.reddit.com/r/AZURE/comments/1dq61b3/free_post_fridays_is_now_live_please_follow_these/",
+        "content": "1. Under no circumstances does this mean you can post hateful, harmful, or distasteful content - most of us are still at work, let's keep it safe enough so none of us get fired.\n2. Do not post exam dumps, ads, or paid services.\n3. All \"free posts\" must have some sort of relationship to Azure. Relationship to Azure can be loose; however, it must be clear.\n4. It is okay to be meta with the posts and memes are allowed. If you make a meme with a Good Guy Greg hat on it, that's totally fine.\n5. This will not be allowed any other day of the week.",
+        "num_comments": 0,
+        "comments": []
+    },
+    "Peering Container App and VM": {
+        "title": "Peering Container App and VM",
+        "score": 3,
+        "url": "https://www.reddit.com/r/AZURE/comments/1dr3xv5/peering_container_app_and_vm/",
+        "content": "Hello everyone! I'm quite new to being a sysadmin/azure user so please don't mind my ignorance.\n\nI have an application I'd like to deploy to Azure. It's a Remix Node.JS application that uses MongoDB for the database.\n\nMy current approach is to create:\n\n1. a VM that runs MongoDB (with data stored on a small separate disk)\n2. a container app that runs the application itself built with docker from GitHub\n\nNow, I don't know if my current approach is the best (please tell me if not!!) but I'd like to know if there would be a way to peer those 2 services so that the container app can access the database more efficiently.\n\nThe services are in one region so I kind of assumed it would be possible, but I can't seem to find the option. I hope it wouldn't require me to dellocate/recreate the services. Thank you!!",
+        "num_comments": 1,
+        "comments": [
+            "Running databases in a VM is not the cloud way. Change that with Cosmos DB for MongoDB if possible. Container apps is a solid choice. Now connecting these can happen in multiple ways:\u00a0 DB is reachable either fully public, retricted or in private only. I would opt for last option, only allowing access to the db from the container apps and completely shut off the public endpoint."
+        ]
+    },
+    "Connecting Azure Server to Defender": {
+        "title": "Connecting Azure Server to Defender",
+        "score": 1,
+        "url": "https://www.reddit.com/r/AZURE/comments/1dr4phu/connecting_azure_server_to_defender/",
+        "content": "Hi I am new to Azure. For my home lab I have created two servers in cloud using 1month free trial. I also got 1 month free subscription of Microsoft business premium. I want to know how can I connect those two servers in defender so that I can review logs and  threats in those servers for my learning. Thanks heaps in advance \n",
+        "num_comments": 1,
+        "comments": [
+            "Microsoft\u2019s [documentation](https://learn.microsoft.com/en-us/azure/defender-for-cloud/plan-defender-for-servers) should point you in the right direction. It also provides some more [details](https://learn.microsoft.com/en-us/azure/defender-for-cloud/plan-defender-for-servers-select-plan). \n\nAnd take a look at this [Learning Path](https://learn.microsoft.com/en-us/training/paths/manage-security-operations/). It contains a module about protecting your VMs."
+        ]
+    },
+    "Please help adding an app from another organisation ": {
+        "title": "Please help adding an app from another organisation ",
+        "score": 1,
+        "url": "https://www.reddit.com/r/AZURE/comments/1dr4nwq/please_help_adding_an_app_from_another/",
+        "content": "I have an app registered in my organisation that I want users from a different organisation to be able to log in to using azure sso.\n\nI\u2019m using RoR with omniauth OIDC and I cannot find a way to add the app the the guest organisation.\n\nI want the guest organisation to manage their own users through the idp and I don\u2019t want to add any guest users to my organisation.\n\nWhen I try with admin consent url I get and error that this app is not installed in the tenant.\n\nWhat am I doing wrong?",
+        "num_comments": 0,
+        "comments": []
+    }
+}

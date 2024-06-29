@@ -2,6 +2,11 @@ import newspaper
 import logging
 import re
 import json
+import google.generativeai as genai
+
+# genai configuration
+genai.configure(api_key="AIzaSyA_a9NStJj6XoMDaGXlbz-v35xCQzTlDqA")
+model = genai.GenerativeModel('gemini-1.5-flash')
 
 # Set up logging
 logging.basicConfig(level=logging.INFO)
@@ -39,6 +44,18 @@ def save_to_json(articles_dict, filename):
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(articles_dict, f, ensure_ascii=False, indent=4)
     logger.info(f"Saved articles to {filename}")
+
+def call_prompt(prompt):
+    answer = model.generate_content(prompt)
+    return answer.text
+
+def create_AI_paper():
+    prompt = ""
+    try:
+        answer = call_prompt(prompt)
+        return answer
+    except Exception as e:
+        return ""
 
 def main():
     # Example website to try
