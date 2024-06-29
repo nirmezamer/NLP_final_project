@@ -22,16 +22,19 @@ nltk.download('vader_lexicon')
 data_jasons = {"wikipedia": "modified_file.json"}
 dataset = read_data(data_jasons)
 
-# Separate the data and label from the dataset
-data = [item[0] for item in dataset]
-label = [item[1] for item in dataset]
+def data_to_pd(dataset):
+    # Separate the data and label from the dataset
+    data = [item[0] for item in dataset]
+    label = [item[1] for item in dataset]
 
-# Create a dictionary with the desired column names
-data_dict = {"data": data, "label": label}
+    # Create a dictionary with the desired column names
+    data_dict = {"data": data, "label": label}
 
-# Convert the dictionary to a pandas DataFrame
-df = pd.DataFrame(data_dict)
+    # Convert the dictionary to a pandas DataFrame
+    df = pd.DataFrame(data_dict)
+    return df
 
+df = data_to_pd(dataset)
 
 
 tqdm.pandas(desc="Tokenizing Text")
