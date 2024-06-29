@@ -166,6 +166,9 @@ def generate_reddit_data_set():
                                              subreddit_data[post]["content"], \
                                              subreddit_data[post]["comments"][1:5])
             if AI_comment == "":
+                # Save the data set to a json file
+                with open("reddit/reddit_data_set.json", "w") as file:
+                    json.dump(data_set, file, indent=4)
                 continue
             data_set[post] = {
                 "title": subreddit_data[post]["title"],
