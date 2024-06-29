@@ -1,9 +1,9 @@
 import json
 
-def read_data(data_key_payh):
+def read_data(data_key_path):
     data = []
-    for key in data_key_payh.keys():
-        data_path = data_key_payh[key]
+    for key in data_key_path.keys():
+        data_path = data_key_path[key]
         with open(data_path, 'r') as file:
             json_data = json.load(file)
             if key == "reddit":
