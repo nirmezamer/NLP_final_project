@@ -16,6 +16,7 @@ import gc
 import os
 
 nltk.download('punkt')
+nltk.download('vader_lexicon')
 # data_jasons = {"reddit": "example_reddit_data_set.json", "wikipedia": "wikipedia_data_set.json", "news": "wikipedia_data_set.json"}
 # data_jasons = {"reddit": "reddit/example_reddit_data_set.json"}
 data_jasons = {"wikipedia": "modified_file.json"}
