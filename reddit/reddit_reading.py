@@ -6,12 +6,12 @@ import shutil
 import google.generativeai as genai
 from tqdm import tqdm
 
-# genai.configure(api_key="AIzaSyA_a9NStJj6XoMDaGXlbz-v35xCQzTlDqA")
-# model = genai.GenerativeModel('gemini-1.5-flash')
+genai.configure(api_key="AIzaSyA_a9NStJj6XoMDaGXlbz-v35xCQzTlDqA")
+model = genai.GenerativeModel('gemini-1.5-flash')
 
-# def call_prompt(prompt):
-#     answer = model.generate_content(prompt)
-#     return answer
+def call_prompt(prompt):
+    answer = model.generate_content(prompt)
+    return answer
 
 # Replace these with your own credentials
 CLIENT_ID = '39ZflIZLYQso2iFg9GqW2g'
@@ -195,8 +195,8 @@ def clean_up_jsons():
 # Example usage
 if __name__ == "__main__":
     
-    # data = generate_reddit_data_set()
-    # print(len(data))
+    data = generate_reddit_data_set()
+    print(len(data))
 
     # generate_many_humanities_reddit_json()
-    clean_up_jsons()
+    # clean_up_jsons()
