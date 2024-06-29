@@ -5,6 +5,7 @@ import os
 import shutil
 import google.generativeai as genai
 from tqdm import tqdm
+import time
 
 genai.configure(api_key="AIzaSyA_a9NStJj6XoMDaGXlbz-v35xCQzTlDqA")
 model = genai.GenerativeModel('gemini-1.5-flash')
@@ -173,9 +174,11 @@ def generate_reddit_data_set():
     data_set = {}
     raw_data = get_humanities_reddit_data()
     
-    for i, subreddit in tqdm(enumerate(raw_data.keys())):
+    raw_data_keys = list(raw_data.keys())
+    for i in tqdm(range(len(raw_data_keys))):
+        subreddit = raw_data_keys[i]
         subreddit_data = raw_data[subreddit]
-        for post in enumerate(subreddit_data.keys()):
+        for j, post in enumerate(subreddit_data.keys()):
             if subreddit_data[post]["num_comments"] < 10:
                 continue
             AI_comment = generate_AI_comment(subreddit_data[post]["title"], \
