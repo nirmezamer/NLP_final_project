@@ -63,14 +63,14 @@ def get_random_wikipedia_article():
     return random_article_title, summary
 
 # call_prompt(msg)
-num_human_summaries = 10
-num_LLM_summaries = 10
+num_human_summaries = 2000
+num_LLM_summaries = 2000
 human_data = {}
 for i in tqdm(range(num_human_summaries)):
     title, summary = get_random_wikipedia_article()
     human_data[title] = summary
 
-with open("humen_wikipedia_summaries.json", "w") as file:
+with open("human_wikipedia_summaries.json", "w") as file:
     json.dump(human_data, file)
 
 
@@ -78,5 +78,5 @@ LLM_data = {}
 for i in tqdm(range(num_LLM_summaries)):
     prompt = call_prompt(msg)
     LLM_data[i] = prompt
-with open("LLM_wikipedia_summaries.json", "w") as file:
+with open("ai_wikipedia_summaries.json", "w") as file:
     json.dump(LLM_data, file)
