@@ -12,6 +12,5 @@ def read_data(data_key_payh):
                     data.append((item['AI_comment'], 1))
             else:
                 for item in json_data.values():
-                    data.append((item['human_comment'], 0))
-                    data.append((item['AI_comment'], 1))
+                    data.append((item['data'], item['ai_generated']))
     return data
