@@ -1,77 +1,88 @@
 {
     "Roms Megathread 4.0 HTML Edition 2021": {
         "title": "Roms Megathread 4.0 HTML Edition 2021",
-        "score": 14746,
+        "score": 14744,
         "url": "https://www.reddit.com/r/Roms/comments/m59zx3/roms_megathread_40_html_edition_2021/",
         "content": "**https://www.reddit.com/r/Roms/comments/1ch6x3e/rroms_is_looking_for_more_mods/?**\n\n--------------------------------------------------------------------------------------------------------------------------------\n\nGo here for Roms\n\nFollow the either of the links below.\n\n**Github https://r-roms.github.io/** This is the primary megathread.\n\n**Gitlab link https://r-roms.gitlab.io/megathread/** This is the backup megathread, it'll be updated alongside the github megathread.\n\n___________________________________________________________________________________________\n\n\n**The megathread contains 7 tabs:**\n\n* The landing tab is the Home tab, it explains how to use the megathread and has some helpful tips.\n\n* The Popular games tab lists direct links to popular games, this list has been made mostly by SuperBio, and as such may not represent what you think a popular game is. If you feel something is missing there PM SuperBio and he'll have it added. \n\n* The next 5 tabs link directly to collections based on console and publisher, they include Nintendo, Sony, Microsoft, Sega, and the PC. \n\n* The last tab is the other tab, this is where you can find Retro games, defined by No-Intro and others as pre Gamecube and PS2 era. This tab exists to link to the large collections that No-Intro and various other groups have collected.\n\n___________________________________________________________________________________________\n\n\n**/r/ROMS Official Matrix server [Link](https://matrix.to/#/#romz:matrix.org)**\n\n* Go here if you need additional help with anything ROM or emulation related.\n\n___________________________________________________________________________________________\n     \n\n**Changelog:** \n\nRedid Megathread post on Reddit, hopefully this is a cleaner, easier to read version that isn't as confusing as the out of date changelog\n\nMoved the megathread to gitlab due to account issues on github, update your bookmarks accordingly.\n\nRestored the megathread on github, left the gitlab megathread link as a backup, both will be updated.",
-        "num_comments": 5224,
+        "num_comments": 5223,
         "comments": [
-            "To get past Google Drive's Download Quota\n\n&#x200B;\n\n1. Make a \"copy\" of the file to your G Drive\n2. Make a folder name, put file in it\n3. Download folder.\n4. Profit?!!\n\n:-)",
             "I'm so confused on how to use this thread",
             "For everyone who can't download from the archive.org, make sure that you have made an account on the archive.org. \n\nThe archive.org locks out guest users when collections use a large percentage of their Internet bandwith.",
-            "I just joined this subreddit. Where do I find the roms. I am confused.",
             "Are there also coming romhacks?",
             "I couldn't believe that there are actually people who couldn't find the link in the megathread lmfao",
-            "For downloading a lot of ROM's at once off of the [Archive.org](https://Archive.org) site, I created the following PowerShell script that will go to the link in the $rooturl variable and grab any links on the page that follow the criteria (after where-object, make sure to modify to suit your needs) and compile a list of links to use to download the ROM's on that page. It'll then place a file on your desktop called \"archiveorglinks.txt\" with all of the links of the ROM's, that you can then either go through and either pick out ones you want or select all of them and then load into \"Free Download Manager\" to handle the downloads for you. You get faster downloads this way and can leave it alone while it does its thing. I hope this is helpful :)\n\n`$rooturl = \"https://archive.org/download/nointro.n64/\" #change to archive's root directory, ensure trailing slash exists`\n\n`$links = (Invoke-WebRequest -Uri $rooturl).Links |`\n\n`Where-Object {($_.innerHTML -ne \"View Contents\") -and ($_.href -notlike \"*Europe*\") -and ($_.href -notlike \"*Japan*\") -and ($_.href -notlike \"*Germany*\") -and ($_.href -notlike \"*France*\") -and ($_.href -like \"*.7z\")} |`\n\n`Select-Object -ExpandProperty href`\n\n`$URLs = @()`\n\n`$desktop = [Environment]::GetFolderPath(\"Desktop\")`\n\n`$savefile = \"$desktop\\archiveorglinks.txt\"`\n\n`foreach ($link in $links){`\n\n`$URLs += $rooturl + $link`\n\n`}`\n\n`$URLs | Out-File -FilePath $savefile`\n\n&#x200B;\n\n\\*EDIT\\*  \nIf you come across an archive that doesn't have 7zip files, replace the last filter \"($\\_.href -like \"\\*.7z\")\" with the appropriate extension of the archive files, ie. \"($\\_.href -like \"\\*.zip\")\" for zip files.",
-            "Am I doing something wrong? Do I really have to wait 4 days to download a PS3 game because the download speeds on [archive.org](https://archive.org) are so shit?",
             "why is it when i download from internet archive its really slow compared to google drive, is it always like that or am i doing something wrong?",
-            "i suggest moving to torrent based approach. maybe start a simple torrent tracker for roms and allow people to participate. this is the best idea ever."
+            "i suggest moving to torrent based approach. maybe start a simple torrent tracker for roms and allow people to participate. this is the best idea ever.",
+            "the internet archive links seem to not be working properly as when i get to them the page is just \"go to parent directory\" and nothing else, it was working like an hour ago",
+            "downloaded botw, and after unzipping it all, its just a folder with the game data? how do i turn this into a wud or wux? sorry if this is a stupid ass question",
+            "Using this is pretty hard for my dumbass",
+            "Is it me or is the Nintendo section of the internet archive not working. Did Nintendo take it down?"
         ]
     },
     "Requests and Help Megathread V5 (Games requests, emulator help/guides go here)": {
         "title": "Requests and Help Megathread V5 (Games requests, emulator help/guides go here)",
-        "score": 24,
+        "score": 25,
         "url": "https://www.reddit.com/r/Roms/comments/1dkguvt/requests_and_help_megathread_v5_games_requests/",
         "content": "-------------------------------------------------------------------------------------------------------------------------\n\nPlease post your game requests here and hopefully we can keep the subreddit clean from request posts.\n\nIn addition please limit all emulation help/guides to this thread so that we don't spam the subreddit.\n\nLink to roms megathread https://r-roms.github.io/\n\n_________________________________________________________________________________________\nThis is the games request format for this thread. Please follow these guidelines as it will make it much easier for members of the community to help you find what you are looking for.\n\nTitle, Platform and Region.\n\nFor Example\n\nFinal Fantasy VII, Sony PlayStation and USA. Final Fantasy VII, Sony PlayStation and Europe. Final Fantasy VII, Sony PlayStation and Japanese.\n\n_________________________________________________________________________________________\n\n**/r/ROMS Official Matrix server [Link](https://matrix.to/#/#romz:matrix.org)**\n\n* Go here if you need additional help with anything ROM or emulation related.\n\n_________________________________________________________________________________________\n\nSome useful links for requests and ROMs outside of the megathread.\n\nPrevious Previous Request Thread, https://www.reddit.com/r/Roms/comments/pm4smt/requests_megathread_v3_post_here_if_you_cant_find/\n\nPrevious Request Thread,\n\nFrom /u/real_nyha454 https://www.reddit.com/r/Roms/comments/jfi2o5/if_you_need_help_or_youre_new_to_roms_and/\n\n/r/roms Wiki https://www.reddit.com/r/Roms/wiki/index",
-        "num_comments": 9,
+        "num_comments": 36,
         "comments": [
-            "If you are looking for roms: Go to the link in https://www.reddit.com/r/Roms/comments/m59zx3/roms_megathread_40_html_edition_2021/\n\nYou can navigate by clicking on the various tabs for each company. \n\nWhen you click on the link to Github the first link you land on will be the Home tab, this tab explains how to use the Megathread.\n\nThere are Five tabs that link directly to collections based on console and publisher, these include Nintendo, Sony, Microsoft, Sega, and the PC.\n\nThere are also tabs for popular games and retro games, with retro games being defined as older than Gamecube and DS. \n\nAdditional help can be found on /r/Roms' official Matrix Server [Link](https://matrix.to/#/#romz:matrix.org)\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Roms) if you have any questions or concerns.*",
-            "Hi superbio, would it be possible to update The mobasuite url. http://78.72.143.223/index.php",
             "Commenting in hopes of bumping this post up or something even though i know it wont matter",
-            "Call of Duty: Black Ops, Sony PlayStation 3 and USA (or any other English version).",
             "Hello and thanks,\n\nTeknoparrot and Taito Type X/X2+ arcade system would be great, most resource online are pretty fragmented and in different languages.",
+            "Call of Duty: Black Ops, Sony PlayStation 3 and USA (or any other English version).",
             "Saiyuki: Journey West, Sony Playstation, USA\n\nthe copy on freeroms is full of errors and has glitched sound. is there a clean, working copy anywhere? thank you",
             "Looking for Postal for Dreamcast if anyone has any leads. The only file I found was a format I can\u2019t convert to run on batocera",
             "To double check, if I'm making a personal copy of everything in the MegaThread what can I skip?  Even if I download all the individual system packs and then download something like a TOESEC pack or hardware targeted set I end up finding roms not in the \"full\" set for a system.  Example, I've downloaded EVERY instance of a .nes file in that thread.  I've got about 59k .nes files that are not duplicates.  But I also had 1/3-1/2 of the stuff I downloaded end up as duplicates.",
-            "Hello!\n\nI've been planning to buy a RG35XXH because I've been wanting to get back into emulation since buying the RG350. I bought one that had preloaded roms, and I found myself spending more time going through the menus trying to find a game rather than actually playing anything so I was wondering if there were any recommendations for roms or rom packs that are kind of \"samplers\" when it comes to games. I'm not really looking for complete collections of handhelds or systems but maybe a handful of games in different genres for each system that the RG35XXH can play. I'm not quite sure what games I am into but I am open to trying a bunch of different types.\n\nThanks in advance!"
+            "Hello can someoje help me :)\n\nTekken tag tournament 2, Sony playstation 3, Usa",
+            "Pokemon FireRed, Gameboy advanced and USA. Pokemon Emerald, Gameboy advanced and USA.",
+            "Gran Turismo 4, Sony PlayStation 2 and Europe\n\nPlease do it cuz im a big gt4 fan and my ps2 recently broke",
+            "I am trying to do the Playstation Classic Mod and no matter what I do nothing seems to work. I have a SanDisk 128GB USB 2.0. I downloaded the program to format the flash drive to FAT32. I've downloaded AutoBleem and Project Eris. I didn't use them at the same time I tried to put them on the flash drive separately and neither worked like I saw in videos. I even saw that there was a cord you could use for bigger flash drives, cause the 128GB takes more power. I got that and still nothing. Can someone please help me figure this out?"
         ]
     },
-    "Why is my rom called that": {
-        "title": "Why is my rom called that",
-        "score": 395,
-        "url": "https://i.redd.it/l983hx3suw7d1.jpeg",
-        "content": "",
-        "num_comments": 50,
+    "Looking for a game thats nowhere to be found (mission v\u00e9t\u00e9rinaire on the DS)": {
+        "title": "Looking for a game thats nowhere to be found (mission v\u00e9t\u00e9rinaire on the DS)",
+        "score": 77,
+        "url": "https://www.reddit.com/gallery/1dqyg0x",
+        "content": "Hello, so,\n\nI've been dreaming about playing that game called Mission V\u00e9t\u00e9rinaire, made by mindscapes and published on the Nintendo DS alongside two other versions on personal computers (one pet veterinary and one farm animals), ever since before i even OWNED a DS (so before 2015)\n\nas a young kid i would watch HOURS of those rare few YouTube videos i could find about the game on loop, all day everyday. i ended up never getting that game (never found it even in retro stores irl) and kind of forgot about it, until tonight, where it just.. appeared in my brain again.\n\nI've made researches, first i looked through emulation and rom hosting websites, venn(?)'s lair, romstation, every \"main\" site i usually found all my stuff on, nothing showed up. i resorted to looking into the web archive, since the DS is an old console i knew that people before me must've At LEAST though about archiving all the games on the system, and out of the millions of minds that though about it at least ONE person must've done it.. right.?\nand i was right. i found MANY archives supposedly \"containing all ds games\" ever released in every region.... but not mission v\u00e9t\u00e9rinaire. that game was impossible to find online.\n\nafter a bit i stumbled upon this sub, and people kept yelling REALLY rudely at new commers to read that mega thread thing (which btw left a bad first impression of the community simply by witnessing it lmao don't do that shi) so i though I'd take a look..\n\nnot only was it an absolute N I G H T M A R E to navigate, the archive everyone yelled about that i ended up miraculously finding after 15minutes of not understanding wtf was going on on that website DID NOT CONTAIN THE GAME\ud83c\udd98\ud83c\udd98\ud83c\udd98\n\n\nso i'm really lost. i don't know what to do. I've checked at least 10 trusted and relatively complete rom websites and like 5 \"all games in existence\" archives and i have no luck finding a single .nds file of that game.\n\ni know there are a few people selling it for dirt cheap on ebay n stuff, unfortunately even if it was sold for a cent i still wouldn't be able to purchase it to archive it myself because i am a minor (no credit card or paypal) so i have no way to oay online. it's a huge pain in the ass to know I'm 4 euros away from getting my hands on my childhood dream, it hurts even more that it doesnt even exist online.\n\n\n>>>>>> \n\n**TLDR: does anyone has the game Mission V\u00e9t\u00e9rinaire (NDS) that they could dump and send me, or do any of y'all have a link to an archive containing it that i would have somehow missed..? please, and thank you!**\n\n(photos are just screenshots of the game being non existent on previously checked websites.)",
+        "num_comments": 40,
         "comments": [
-            "If you are looking for roms: Go to the link in https://www.reddit.com/r/Roms/comments/m59zx3/roms_megathread_40_html_edition_2021/\n\nYou can navigate by clicking on the various tabs for each company. \n\nWhen you click on the link to Github the first link you land on will be the Home tab, this tab explains how to use the Megathread.\n\nThere are Five tabs that link directly to collections based on console and publisher, these include Nintendo, Sony, Microsoft, Sega, and the PC.\n\nThere are also tabs for popular games and retro games, with retro games being defined as older than Gamecube and DS. \n\nAdditional help can be found on /r/Roms' official Matrix Server [Link](https://matrix.to/#/#romz:matrix.org)\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Roms) if you have any questions or concerns.*",
-            "Because the Mario Brothers are famously racist, hence the hatred for gombas",
-            "1. US => region\n2. M3 => 3 languages\n3. Xenophobia => scene group who dumped and released the rom\n5. 7z => 7zip archive that you will need to extract to get .nds rom\n\n5. .nds => Nintendo DS rom",
-            "XenoPhobia is the name of the group that dumped the rom",
-            "Why do you think princess peach and the toad\u2019s don\u2019t let Bowser and his minions move to the mushroom kingdom legally?",
-            "We're gonna make the goombas pay for it!",
-            "from stomping...koopas",
-            "> Why is my rom called that?\n\nit's all about DAT files and their naming conventions...\n\nThe scene release name is: `Mario_and_Luigi_Bowsers_Inside_Story_USA_NDS-XPA`\n\nhttps://dats.site/_rls_nds_infolist.php?showmaster=rls_nds&fk_game_id=5863\n\nIf you go over to No-Intro, you'll find a different naming scheme: `4171 - Mario & Luigi - Bowser's Inside Story (USA) (En,Fr,Es)`\n\nhttps://datomatic.no-intro.org/index.php?page=show_record&s=28&n=4171",
-            "Because you hate people that don't originate from your own country.",
-            "Because your download history just sold you out"
+            "Admittedly, I don't speak French, but if you search for just \"veterinaire\" on several of the pages from your screenshots, you will find \"Real Stories - Veterinaire (France).zip\" and \"Real Stories - Veterinaire - Mission Australie (France) \\[b\\].zip\".",
+            "Others seem to have found what youre looking for so I just came here to say that even as a minor you can set up a bank account and get a debit card.",
+            "pls hide the domains next time",
+            "reminds me of the game paws claws pet vet",
+            "It\u2019s not rude to tell people to use the mega thread. It\u2019s right there, and it\u2019s very easy to navigate. If people can\u2019t figure it out, they don\u2019t deserve to play.",
+            "Do you not know how to press ctrl+f so you can search an entire page?\n\nEdit I'll take that as a no lmao you guys need to learn how to help yourselves",
+            "Is it necessary to post pictures?",
+            "You ever consider becoming a detective?",
+            "You are an absolute angel. thank you so, SO much.\ud83d\ude13\ud83e\udef6",
+            "And in the US, it's Pet Pals Animal Doctor"
         ]
     },
-    "psp idol master sp dlc ": {
-        "title": "psp idol master sp dlc ",
+    "cod black ops III(xbox360 xenia) not working properly, tells me this, what to do??": {
+        "title": "cod black ops III(xbox360 xenia) not working properly, tells me this, what to do??",
         "score": 0,
-        "url": "https://www.reddit.com/r/Roms/comments/1dlueze/psp_idol_master_sp_dlc/",
-        "content": "Can someone please tell me where I can download all the DLC for PSP idolmaster sp? The site below was half-baked.\n\n[https://archive.org/download/PSP-DLC/PSP](https://archive.org/download/PSP-DLC/PSP) DLC/\n\n[https://cdromance.org/sony-psp-dlc-list-psp-downloadable-content/](https://cdromance.org/sony-psp-dlc-list-psp-downloadable-content/)  \n",
-        "num_comments": 1,
+        "url": "https://i.redd.it/p0fxn6s86i9d1.png",
+        "content": "",
+        "num_comments": 11,
         "comments": [
+            "Sign into Xbox Live and download the update, that's what it says. Duh.",
+            "Why emulate BO3 in the first place?",
+            "Dude just play the pc version",
+            "It\u2019s on an emulator. An emulator without Xbox live. \u201cDuh\u201d",
+            "kinda wanna play it and found it on megathreads",
+            "Well, it's a cross-platform game so you can just play it on your PC natively",
+            "i know but i dont have it tho, i might just download 2 instead of 3 and try",
+            "If you downloaded ROM from megathreads, you're pirating it anyway, so you just could have got a PC version. Well, never mind. Good luck, mate",
+            "Xenia doesnt support Xbox Live,you have to install the update manually\n\nMore info > r/xenia",
             "If you are looking for roms: Go to the link in https://www.reddit.com/r/Roms/comments/m59zx3/roms_megathread_40_html_edition_2021/\n\nYou can navigate by clicking on the various tabs for each company. \n\nWhen you click on the link to Github the first link you land on will be the Home tab, this tab explains how to use the Megathread.\n\nThere are Five tabs that link directly to collections based on console and publisher, these include Nintendo, Sony, Microsoft, Sega, and the PC.\n\nThere are also tabs for popular games and retro games, with retro games being defined as older than Gamecube and DS. \n\nAdditional help can be found on /r/Roms' official Matrix Server [Link](https://matrix.to/#/#romz:matrix.org)\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Roms) if you have any questions or concerns.*"
         ]
     },
-    "MSX2 European Romset? ": {
-        "title": "MSX2 European Romset? ",
-        "score": 1,
-        "url": "https://www.reddit.com/r/Roms/comments/1dls2nm/msx2_european_romset/",
-        "content": "Anybody here who knows where i can download a full european MSX2 Romset? seems i can only find japanese romsets.... ",
-        "num_comments": 1,
+    "Finnish singstar PS3 roms": {
+        "title": "Finnish singstar PS3 roms",
+        "score": 0,
+        "url": "https://www.reddit.com/r/Roms/comments/1dr9uqt/finnish_singstar_ps3_roms/",
+        "content": "I have serched everywhere for finnish singstar game roms and i have found a couple but I really want Singstar SuomiBileet (BCES-02044) and Singstar SuomiPop (BCES-00344). They are not in Vimm's lair and I can't find them anywhere. Pls help",
+        "num_comments": 2,
         "comments": [
+            "Both games are available on the Megathread (PS3,Redump)",
             "If you are looking for roms: Go to the link in https://www.reddit.com/r/Roms/comments/m59zx3/roms_megathread_40_html_edition_2021/\n\nYou can navigate by clicking on the various tabs for each company. \n\nWhen you click on the link to Github the first link you land on will be the Home tab, this tab explains how to use the Megathread.\n\nThere are Five tabs that link directly to collections based on console and publisher, these include Nintendo, Sony, Microsoft, Sega, and the PC.\n\nThere are also tabs for popular games and retro games, with retro games being defined as older than Gamecube and DS. \n\nAdditional help can be found on /r/Roms' official Matrix Server [Link](https://matrix.to/#/#romz:matrix.org)\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Roms) if you have any questions or concerns.*"
         ]
     }

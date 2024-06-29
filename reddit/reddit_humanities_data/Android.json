@@ -1,88 +1,95 @@
 {
-    "This could be our first look at the OnePlus Pad 2": {
-        "title": "This could be our first look at the OnePlus Pad 2",
-        "score": 127,
-        "url": "https://www.androidauthority.com/oneplus-pad-2-leak-2-3453538/",
+    "The Galaxy S25 could come with a MediaTek SoC": {
+        "title": "The Galaxy S25 could come with a MediaTek SoC",
+        "score": 323,
+        "url": "https://www.androidauthority.com/samsung-galaxy-s25-mediatek-leak-3454745/",
         "content": "",
-        "num_comments": 37,
+        "num_comments": 158,
         "comments": [
-            "I thought the Oppo Pad 3 would be announced first and then sometime later a OnePlus Pad based on it. Hoping it targets the same price point as the OnePlus Pad/Oppo Pad 2. Snapdragon Gen 3 but I would have been happy with a Dimensity 9200 or 9300 if that could keep it sub $500",
-            "Hope this comes with OpenCanvas out of the box \ud83e\udd1e\n\nI really want Open Canvas in a device without an AMOLED/foldable screen (for durability purposes)",
-            "Yeah,\n\nbuying from 1+ given their horrendous customer service reputation is a risky move.",
-            "I wish Samsung would make a keyboard like this.",
-            "All Android tablets are useless until we get a real notes app. Right now our options are Samsung notes and OneNote. Samsung notes is exclusive to Samsung devices meaning you can't sync your notes with your computer. OneNote takes up 20% of the screen with an unhideable toolbar.\n\nMeanwhile iPad has Goodnotes and now Apple notes. At my college goodnotes are the standard. It has ai capabilities, corrections, ease of use and loads of customizability. Apple has just released the newest version of their notes app and it's supposed to be brilliant. It even has nice gimicks like displaying a shadow of your pen as you bring it close to the screen.\n\nI think this is a Google issue. A notes app is a standard utility. Google has keep but that's nowhere near sufficient.",
-            "I guess \n\nNo headphone jack \n\nNo SD card slot?",
-            "Snapdragon will be better for custom rom though, once the tablet is EOL for OS and security updates.",
-            "This is what I was wanting as well. I really liked the software experience on the one plus foldable just the hardware was not for me when it came to the smaller exterior screen. That software with the open canvas on the tablet with a snapdragon gen 3 would be nice",
-            "Not sponsored or anything but I've been pleasantly surprised with Notewise on my Tab S9+. It's very stable and works well compared to the mess that is Goodnotes on Android. Latency is still noticeably higher than Samsung Notes but the extra features make up for it.",
-            "This thought process is why companies get away with locking down the OS and pushing developers out. Android doesn't need native, supercool, creative notes apps, just go download a third party app. Just give the developer great support and access to APIs so they can continue to deliver features they think consumers want."
+            ">The report mentions that Qualcomm\u2019s current Snapdragon 8 Gen 3 is priced at about $190-200, and Qualcomm could raise the price of the upcoming Snapdragon 8 Gen 4 by up to 30%, possibly pricing it as much as $260.\n\nI had no idea these chips were that pricey \ud83d\ude33",
+            "\"The report\u2019s sourcing is not very sound, so we advise skepticism as a MediaTek SoC would be a big break in tradition for Samsung flagships.\"",
+            "Can someone explain to me how a company as big as samsung can\u2019t make chips for at least 2 phone models?",
+            "Ah yes, imagine this ideal world: Qualcomm for USA and Asia, Exynos for Europe, and MediaTek for Latin America. /s",
+            "FFS the UK only just got snapdragon chips and now they're gone again \ud83d\ude14",
+            "Much better than that overheating Exynos.",
+            "Would be a huge win for both. MediaTek is like AMD (in the laptop space), making completive or superior SoC and non-nerd people hardly know them, and consumers don't associate their name with top performance. For Samsung tho they'll have to spend some time marketing/convincing people of this new brand. I can see a lot of \"tech\" people of Twitter / Threads freaked out thinking it's some mid range chip.",
+            "I like mediatek in my phone, realiable, no overheating and pretty fast.. also, battery consumption is solid",
+            "I have the 13t pro from Xiaomi with the dimensity 9200 plus and it's blazing fast",
+            "Good. No wants wants that exynos shit."
         ]
     },
-    "Previewing for accessing Phone Link features from the Start menu with Windows Insiders": {
-        "title": "Previewing for accessing Phone Link features from the Start menu with Windows Insiders",
-        "score": 91,
-        "url": "https://blogs.windows.com/windows-insider/2024/06/21/previewing-for-accessing-phone-link-features-from-the-start-menu-with-windows-insiders/",
+    "Galaxy S25 Ultra reportedly ditches squared corners, Samsung considering MediaTek chips": {
+        "title": "Galaxy S25 Ultra reportedly ditches squared corners, Samsung considering MediaTek chips",
+        "score": 207,
+        "url": "https://9to5google.com/2024/06/28/galaxy-s25-corners-mediatek-reports/",
         "content": "",
-        "num_comments": 34,
+        "num_comments": 94,
         "comments": [
-            "Pleaaaaase, do something about Screen Share Permission during EVERY screen mirror session. If I had to touch my phone to Allow screen mirroring, I might as well just use my phone.",
-            "Oh wow thats pretty handy. Still waiting for pixel to get the integrated features like the screen mirroring and files.",
-            "This is pretty cool. But really all I want are messaging improvements. RCS support if my messaging app on my phone supports it would be good. Also I'm sick of it showing SMS messages (and notifications) for messages that my phone filters as spam.",
-            "they should finish migrating features from control panel to settings after 10 years maybe",
-            "Too bad I can't use it because MS won't let me move the task bar to the top of the screen. I have to use startallback and it removes the W11 start menu\u00a0",
-            "This was fixed for me recently, idk if it was an update or if I repaired my phone. But not it only asks you once and your just need to have unlock your phone, no more permission.",
-            "Please add screen mirroring to anything besides Galaxy devices",
-            "There's an adb command that's supposed to help, not sure if it's been patched yet though\n\n\nadb shell appops set com.microsoft.appmanager PROJECT_MEDIA allow",
-            "This is now default for me, I'm so happy.",
-            "recent update fixed it"
+            "I wonder if this is a strategic rumor by Samsung to negotiate better chip prices with Qualcomm",
+            "I have a couple of pairs of jeans with little holes near the bottom of the pockets where the square corners on my S22U have been poking through.  Therefore I am happy to have more rounded corners, so I can spend less time clothes shopping.",
+            "I'd take a Dimensity over an Exynos any day of the week.",
+            "Everyone freaking out over MediaTek. It's not trash. I think Samsung are smart to negotiate in the public domain. MediaTek have been pushing or a while and it's a good reminder to Qualcomm not to overstep here. Samsung name attached brings a lot of perceived value. Most people will not even notice the small changes in performance. It's just the next s series phone.",
+            "I love the squared corners, gives the phone a distinct look.",
+            "Damn I'm glad the s24 ultra I rather like my boxy corners.",
+            "Good the square corners look fugly, at least do it like how Xperia does it",
+            "I mean, I'm not getting it regardless but I love rounded corners. I held off upgrading my Pixel 5 because I didn't like how squared off the incoming Pixels were and that chin it has. The 8 feels like the minimum rounded corner I can handle",
+            "I love the boxy and flat shape of my S24U, it honestly makes it feel so much better and is far more usable without having to hold the phone weird or just have issues seeing content on the edges of the screen. Trying to take notes was impossible when you get near the edge of the screen on older phones (Note 10+ in my case).",
+            "I can already see the backlash and hate.."
         ]
     },
-    "Never miss a beat with Lenovo Tab Plus, a music lover\u2019s dream tablet with eight speakers - Lenovo StoryHub": {
-        "title": "Never miss a beat with Lenovo Tab Plus, a music lover\u2019s dream tablet with eight speakers - Lenovo StoryHub",
-        "score": 67,
-        "url": "https://news.lenovo.com/pressroom/press-releases/tab-plus-music-lovers-dream-tablet-eight-speakers/",
+    "rabbit data breach: all r1 responses ever given can be downloaded": {
+        "title": "rabbit data breach: all r1 responses ever given can be downloaded",
+        "score": 634,
+        "url": "https://rabbitu.de/articles/security-disclosure-1",
         "content": "",
-        "num_comments": 56,
+        "num_comments": 91,
         "comments": [
-            "As someone who actually does watch a lots of anime's from my tablet. \n\nThis is awesome!! \n\nSD card \u2705\n\nHeadphone jack \u2705\n\nThe speakers are awesome!! \n\nGreat job by lenovo. \n\nMore stuff like this should be released, will try to buy this.",
-            "This seems like such a weird gimmick.\n\nI don't care how many speakers you put on there, there isn't physically enough space to make them sound anything other than tinny. \n\nEven if some of them are essentially subwoofers, there's no way this sounds anywhere near decent enough for people that care about it.",
-            "Mmm yes tablet speakers every audiophile's dream",
-            "I wish Lenovo would make a Y700 for the western market. Even a device with a lower spec SoC like the G99 would be good.",
-            "I just want a y700 upgrade thats available globally. Can we please get a good 7-8inch tablet? I do not want to buy an iPad Mini or a terrible $80 tablet.",
-            "as someone who uses a tablet for homeassistant.. this is actually a pretty interesting idea and at a really good price point",
-            "This is just straight up an advertisement, why is this post even allowed?",
-            "And ZTE still hasn't fully released the nubia Music...",
-            "I love on my tab s8u\n\nI want a better audio experience, and would pay more for it",
-            "This is great! But missing fingerprint sensor which is a deal breaker for me. If it were missing headphone jack, I could have used a USB c adaptor but no such good alternative is there for finger print"
+            "Going from \"handicapped Android phone with AI\" to \"how to pwn yourself for $200\" is certainly a business strategery^/s",
+            "Don't buy hardware from crypto scammers desperately trying to rehabilitate their image. They will fail. You will lose your money and your private information will get pwned.",
+            "How to pwn yourself in 90 days or less. Security? What's that? We got this orange color though...",
+            "So every response to the 329 Rabbit r1's ever sold (that guess is probably on the low end) so...several thousand responses? /s",
+            "Oh no, a device made by NFT guys is an absolute piece of shit not just feature-wise, but also security-wise? Who coulda thunk!",
+            "\"People other than the most desperate tech influencers actually bought this shit? Lmao\" - Rabbit, presumably",
+            "It's a grifter's excuse to scam investors and consumers alike. It's never intended to be a viable product.",
+            "Some people in the rabbit subs are still happy they bought one lmao.",
+            "Remember earlier in the year when people were talking about how this was going to completely change our lives. I honestly started buying into the hype back in January and was super excited.. Well...",
+            "Lol the AI grift gifting us so many gems."
         ]
     },
-    "Xiaomi Redmi A3 smartphone review \u2013 Lots of upgrades on the budget phone": {
-        "title": "Xiaomi Redmi A3 smartphone review \u2013 Lots of upgrades on the budget phone",
-        "score": 79,
-        "url": "https://www.notebookcheck.net/Xiaomi-Redmi-A3-smartphone-review-Lots-of-upgrades-on-the-budget-phone.850272.0.html",
+    "Proton VPN is now free to use without an account on Android": {
+        "title": "Proton VPN is now free to use without an account on Android",
+        "score": 453,
+        "url": "https://www.androidpolice.com/proton-vpn-works-without-account-android/",
         "content": "",
-        "num_comments": 21,
+        "num_comments": 116,
         "comments": [
-            "G36 with 3gb RAM?    \nI get some people have extremely light usecase but even for them this will be sluggish.    \nTerrible specs even for the price",
-            "**Pros:**\n\n\u2022extremely inexpensive\n\n\u2022fast WLAN for the price class\n\n\u2022attractive case\n\n\u202290-Hz display without PWM\n\n\u2022close to stock Android 14\n\n\u20223 years of promised updates\n\n\u2022reliable fingerprint sensor\n\ndecent battery life\n\n**Cons:**\n\n\u2022slow charging\n\n\u2022case not the most stable\n\n\u2022sluggish SoC\n\n\u2022no NFC\n\n\u2022camera produces blurry photos at times\n\n\u2022not much RAM (depending on the model)\n\nA 3 GB ram/64 GB storage model is [\u00a379](https://www.mi.com/uk/product/redmi-a3/?skupanel=1&gid=4223703879&srsltid=AfmBOorOJDW_fOX0PtJ1EptxKadkwb4TCEphMOlyu0m2DFbq9dK2JswmASw) off Xiaomi's UK website for example.",
-            "Any used phone for that budget will absolutely annihilate this phone.",
-            "Hilarious that for that same price in like 2016? The Redmi 4 prime had 3gb of ram too and similar storage, and a 1080p screen. Surely they'd be able to at least put 128GB and 6gb of bottom shelf ram in it 8 years later...",
-            "just don't bother with these lowest tier budget phones, everything is so slow",
-            "this is a ripoff for sure",
-            "Still overpriced for the spec",
-            "G36 shouldn't be acceptable anymore. At worst case unisoc t612 or helio g85.",
-            "There's a slightly better A3x with T603",
-            "Also no NFC in an era of tap to pay (not necessarily a deal breaker, just an annoying omission)"
+            "People here are debating about something that has nothing to do with the news, they are commenting on the VPN being free as if it had become free now, but Proton VPN has always had a free plan, and has always been a trustworthy company. \n\nThe news is not about it becoming free but about it not requiring an account to use the free version, and this makes perfect sense in relation to the company's privacy policy, because without an account, it means less data it knows about you are easier to resist pressure from governments to hand over someone's data.",
+            "You just gotta ***know*** that one of two things will happen: it will become so popular that it's financially unsustainable & gets killed, or the limited resources it's allocated get so abused that it's effectively useless.  Or maybe a bit of both.  I give it a two years ***MAX.***",
+            "Is it also free on Windows?",
+            "The best VPN on the market. Also the best free option of any VPN",
+            "Thanks! A good replacement for the Google one VPN",
+            "Legit question: Are there actually people who only use a VPN on their phone?",
+            "There is no such thing as free. They are doing something with your data",
+            "Paid user here.\n\nGreat VPN.",
+            "C'mon, it's not free. It only has some free tier. Do not say deceiving things.",
+            "Never use a free VPN."
         ]
     },
-    "Realme's latest survey asks you to choose between 3 different specs:": {
-        "title": "Realme's latest survey asks you to choose between 3 different specs:",
-        "score": 2,
-        "url": "https://fxtwitter.com/Sudhanshu1414/status/1803414996497703297",
+    "Oppo Reno12 Pro review": {
+        "title": "Oppo Reno12 Pro review",
+        "score": 7,
+        "url": "https://gsmarena.com/oppo_reno12_pro-review-2716.php",
         "content": "",
-        "num_comments": 1,
+        "num_comments": 9,
         "comments": [
-            "Interesting"
+            "I think companies are going too far with their refusal to bundle chargers with the excuse of the environment.",
+            "Because in some countries the Realme GT 6 is more expensive than the Reno12 Pro? Here in Poland the Realme GT 6 is not avaliable in it's cheap 8+256GB variant and only the GT 6T is.",
+            "Yeah, I was hoping for it to be largely the same as the Reno 12 Pro in the domestic Chinese market but the downgrades in a few areas were a real let down. As far as Chinese camera-centric midrangers in Europe go, these are far less attractive than the Honor 200 series that just came out, too. Cheaper, sure, but with the current offers, the Honor 200 Pro can be had for only \u00a360 more than the Reno 12 Pro in the UK.\u00a0",
+            "2+3 according to the review anyway",
+            "BTW I live in Poland and my opinion on these phones is that...they're not that overpriced?? Maybe not as good as the competition but said competition costs basically the same (Realme 12 Pro+, Redmi Note 13 Pro+. HMD Skyline is coming out in July and probably will be in the price point of the Reno12 Pro, etc.)\n\n  \nMeanwhile the Reno12 FS is a horrible deal and nobody should buy it because the Reno11 F is cheaper and better (except for less memory)\n\nThey had the guts to price that one just barely below the Samsung Galaxy A55's current price (1699z\u0142 vs 1799z\u0142) and even the Reno12 costs the same until July 2nd. What the hell??",
+            "this is their return to europe? overpriced and worse software support than motorola?",
+            "Worse software support? Doesn't this have 3+4 years of updates just like Motorola's Edge 50 Family?",
+            "This has to be the worst regional difference in phone history.\u00a0\n\n\n\n\nForget about Exynos vs Snapdragon, the Chinese version of Reno 12 Pro has a Dimensity 9200 while the global one only got a reskinned Dimensity 7050, [how did the global version lose **half** performance and 30% of the main camera sensor size??????](https://gsmarena.com/compare.php3?&_gl=1*1c1c682*_ga*NG1haFJVMHpzTzhvVVRadjBPdHVrVzY0Tld6clY0QkRueEtUT1g2Ukc2dDhVMF9BLXEyUGtEekhOdUpRUl81Nw..*_ga_Y2ZRD29PC8*MTcxOTY0NzIzNy43Mi4xLjE3MTk2NDcyMzcuMC4wLjA.&idPhone2=13132&idPhone1=13045)\u00a0\n\n\n\n\nWho the hell is gonna buy this when the Realme GT6 is right there with basically the same UI and price but way better specs"
         ]
     }
 }

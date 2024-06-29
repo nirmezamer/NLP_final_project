@@ -1,32 +1,46 @@
 {
+    "Scorched Earth Base - Photo Dump": {
+        "title": "Scorched Earth Base - Photo Dump",
+        "score": 22,
+        "url": "https://www.reddit.com/gallery/1drb347",
+        "content": "",
+        "num_comments": 5,
+        "comments": [
+            "It looks awesome, but I assume you're constantly overheating.",
+            "Looks like all Adobe skinned with Bob's Tall Tales DLC?",
+            "Maybe that's it. It all looked like wood to me. It was annoying that I'd be in my Adobe base, wearing ghillie, and still needing to fill by base with AC to avoid heat death.",
+            "Exactly. It's full adobe with the frontier skins from the Tall Tales DLC. The roof pieces and some foundations don't have any skin but for the rest I prefer the Wood skins",
+            "Yeah it's really ridiculous in ASA. I saw someone saying just yesterday they actually found a bug whereby Fortitude makes you take MORE heat damage rather than less rofl. I haven't tested it myself but it'd almost make sense given how much issue people were having with it.\n\nBut yeah plain wood looks more raggedy. The DLC is actually lovely skins."
+        ]
+    },
     "Any way or mods for ASE (Steam) that wont cause my computer to crash?": {
         "title": "Any way or mods for ASE (Steam) that wont cause my computer to crash?",
-        "score": 2,
+        "score": 0,
         "url": "https://www.reddit.com/r/playark/comments/1dr2n3h/any_way_or_mods_for_ase_steam_that_wont_cause_my/",
         "content": "I've had the game for a while but haven't been able to play it because everytime I try to load into The Island or any other map with and without mods it either loads after a solid 10 minutes of loading or crashes outright. I have ASE from Xbox Gamepass ultimate but that outright crashes my whole PC after trying to load into The Island at low graphics. I would love a mod or just anything I can do to play either ASA or ASE on my laptop. I don't know the specs of my laptop but They're good enough to run most AAA games at low graphics. ",
         "num_comments": 2,
         "comments": [
-            "Because of crap optimization, certain mods in ASE can cause crashes when loading in.\n\n\nMy workaround is to play in a different map(Ragnarok, for example) disabling that mod and then quit. After that, load the map you want to play(The Island) with the mods you use.\n\n\nNote: You have to find which specific mod is causing that issues. In my case, disabling *Kraken's Better Dinos* allowed me to load the map without crashing.",
-            "If your entire computer is crashing, you have a broken computer. The game or any mods cant crash your PC by itself.\n\nSounds like you have it installing on an exceedingly slow or plain broken drive, to start. What exact hardware do you have?"
+            "If your entire computer is crashing, you have a broken computer. The game or any mods cant crash your PC by itself.\n\nSounds like you have it installing on an exceedingly slow or plain broken drive, to start. What exact hardware do you have?",
+            "Because of crap optimization, certain mods in ASE can cause crashes when loading in.\n\n\nMy workaround is to play in a different map(Ragnarok, for example) disabling that mod and then quit. After that, load the map you want to play(The Island) with the mods you use.\n\n\nNote: You have to find which specific mod is causing that issues. In my case, disabling *Kraken's Better Dinos* allowed me to load the map without crashing."
         ]
     },
     "First time on Fjordur and tamed a moving base to go explore, any POIs for me to find?": {
         "title": "First time on Fjordur and tamed a moving base to go explore, any POIs for me to find?",
-        "score": 51,
+        "score": 56,
         "url": "https://i.redd.it/m9xdthzs299d1.png",
         "content": "",
-        "num_comments": 14,
+        "num_comments": 15,
         "comments": [
             "There\u2019s a lot of POIs to find. Go on your adventure and find them!!",
             "How did you do that without walking into death? I can\u2019t seem to tame much because there\u2019s always something that kills me before I can actually get to the area I need to find what I want to trap.",
-            "Fjordur is a HUGE map. There's plenty of great places with unique creatures/resources. If you're going to be strictly traveling on your mobile base, I'd suggest to utilise the teleportation feature for faster travelling\u00a0\n\n\nAlso, Fjordhawks are an S-tier shoulder pet. Tame one",
             "Just tame a maewing and move around. Going anywhere on a racer is literal torture",
             "The Dwarven halls in the northern part of the map near the red words. Think North East",
-            "I remember when I did this with a friend, super fun!\n\nI don't remember any cool surface places out of the top of my head, but I'm pretty sure there is a space cave with an underwater entrance on that map, dangerous though cause it's full of megalania and Megalosaurus if I remember right.\n\nI'm pretty sure it's this: https://ark.wiki.gg/wiki/Caverns_of_Time_(Fjordur)",
             "Do you boost your stats? Because I\u2019m dying because of the cold basically as soon as I spawn in that map. Like I don\u2019t get it. I always have to change things so I don\u2019t die. Plus there\u2019s something that want to kill you everywhere. I feel it\u2019s a lot less tames (for lack of a better word) in the so called \u201csafe\u201d areas than other maps. Like I cannot vanilla this one\ud83d\ude05",
             "I'll drop a hint.\nThe powers of Isengard almost prevailed",
             "Someone with 40k+ hours uninstall",
-            "uhhh idk"
+            "Tame a flyer like a ptera and go scout a good base location.",
+            "I basically just keep dying until I\u2019m mostly settled which is annoying since this is one of my favorite maps because it\u2019s so pretty. I just feel like it\u2019s a harder map to survive without editing how level ups affect you.",
+            "Just pump fortitude and you'll quickly be able to survive most areas with nothing more than leather armour on."
         ]
     },
     "Can\u2019t use admin command": {
@@ -37,11 +51,11 @@
         "num_comments": 7,
         "comments": [
             "If you push the start button and go to settings, push the R1 button I believe it is, so you are on the advanced settings tab halfway down on the right side there is a selection that says Console Access, turn that on and you should be able to enter console commands.",
-            "Use enablecheats <password> if you're on server",
             "That\u2019s the problem, it\u2019s on and I can\u2019t use it",
             "So if you hover the cursor over it you can't click on it?\n\nOr if you just press the touch pad while in the pause menu?",
+            "Weird. I'm on ps5 and it's working fine. \n\nMaybe it's the language? Try changing it to English and see if that fixes anything",
             "Can\u2019t click on it",
-            "Weird. I'm on ps5 and it's working fine. \n\nMaybe it's the language? Try changing it to English and see if that fixes anything"
+            "Use enablecheats <password> if you're on server"
         ]
     },
     "Help!!!": {
@@ -49,18 +63,11 @@
         "score": 1,
         "url": "https://www.reddit.com/r/playark/comments/1dqvb9x/help/",
         "content": "I recently deleted and redownloaded Ark on my Nintendo Switch, but now I\u2019ve lost access to my DLC\u2019s! What do I do to get them back?",
-        "num_comments": 2,
+        "num_comments": 3,
         "comments": [
             "They may need to be installed separately?",
+            "Did you go to the Nintendo shop? It should have saved with the data also of that doesn\u2019t work confirm that you still have save data for it in data management",
             "I have tried that but it does not give me an option to install any of the dlcs or the bundle"
         ]
-    },
-    "i cant open explorer note #13 on isl what am i doing wrong?": {
-        "title": "i cant open explorer note #13 on isl what am i doing wrong?",
-        "score": 1,
-        "url": "https://www.reddit.com/r/playark/comments/1dqrxfi/i_cant_open_explorer_note_13_on_isl_what_am_i/",
-        "content": "i just want the corrupted gloves skin :(",
-        "num_comments": 0,
-        "comments": []
     }
 }

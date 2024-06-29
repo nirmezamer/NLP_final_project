@@ -1,68 +1,78 @@
 {
     "There's a bug in the Android Reddit app preventing users from posting on the Art sub.": {
         "title": "There's a bug in the Android Reddit app preventing users from posting on the Art sub.",
-        "score": 118,
+        "score": 114,
         "url": "https://www.reddit.com/r/Art/comments/175n2jt/theres_a_bug_in_the_android_reddit_app_preventing/",
         "content": "For a couple of weeks we've been getting messages from users not being able to post on this sub: the Post button remains greyed out. The commonality of the reports seem to be that they have been trying to use the Android reddit app to post. So if this problem has been bugging you, please report it to Reddit in the android app store. Until it's fixed you can post your art in the web browser on a computer.\n\nAnd yes, we know the app seemingly allows posting on other subs, and not on /r/Art. But the iPhone app works fine (tested myself). It probably has to do with the title requirements that this sub has, it uses a thing called regex, and I suspect this title requirement is causing the android app to not function correctly.",
         "num_comments": 64,
         "comments": [
             "Sometimes, about 1/10, I'll encounter this when trying to post an image. It is not exclusive to this sub. \n\nI am using the android version of the app on a shitty Walmart TCL. I do not ever encounter this issue on my galaxy Tab 8.0 tablet.",
-            "Have we tried turning the sub reddit off and on again?  \n\n\nJK! Happens to me too.",
             "Yes it happens to me",
             "Same here, happen to me on pixel 6a",
             "I wish I'd have known this sooner, I thought I was banned lool",
-            "Thankz for attention\ud83e\udef6\ud83d\ude0a",
-            "[This will be a tad off topic, and a tad entirely due to this issue but I'll warn whoever has the sparsity in their time to read further that it's a little long/drawn out as I have a tendency to do with my utterings but thought I'd share since I know it's not related to my phone's recent issues -WITH. EVERYTHING- not just reddit or this sub] \n\n -- ANYWAYYYS, ahh thanks for the notifying!! I was recently having (still am actually), completely unexplainable and unrelated troubles with my phone, my internet/data (not allowing me to go on normal websites IE googles homepage even or YouTube, and Cashapp not working or contactless payments in general etc)\ud83e\udd74\ud83d\ude35\u200d\ud83d\udcab\ud83e\udd74\ud83d\ude35\u200d\ud83d\udcab at the exact same time when I tried to make a post and it wouldn't allow me.\nNeedless to say I- understandably so; thought it was correlating to this much larger issue with my phone & have been in constant contact with Google support, Cashapp, Android Customer Service, etc-- long story short...\nUpon the 17th time explaining my situation and the billion random albeit super debilitating issues with my phone & account/inaccessibility to yet another CS rep (different one each time)- he told me that the only explanation that he actually has was that he doesn't have one and has no idea himself why this was happening to me and was just as stumped as i, myself.. AND I'm a web[3]/software engineer & dev so its been even more frustrating..\nBut the same man from India (as he explained later), also told me that he can assure me that he was recently trying to utilize the art sub-reddit and couldn't post either & we actually connected & had a 15 min additional, non-issue related, totally comforting conversation via our similar online presences & intrigues and come to find out he was also a NFT artist & had actually, outbid me on a Low Effort Punk a couple weeks ago.\n\nRandom issue entirely, random conversation, random coincidence, but it made me a little less hostile & angry at my phone and life in general that I'd be able to rest assured my issue/glitch with the sub-thread (Reddit in general really), was at the very least; not just my own frustration and experience and that it would handle itself eventually. \nAnd it has. Thanks again to the fantastic mods of one of my fav subs to peruse daily.",
             "This is starting to get really frustrating. Can't upload a simple image from my phone, imgur no longer provides direct links to images and I don't have a computer. Really wish somebody could just fix this ridiculous bug that's been happening for months now.",
             "I\u2019m an iPhone user and am having the same problem",
-            "Happen to me switched to png instead of jpg which did the job for me"
+            "Happen to me switched to png instead of jpg which did the job for me",
+            "Just happened to me but I have an iPhone",
+            "Ugh!  I can\u2019t post from my iPad and I don\u2019t have a computer. \u2639\ufe0f\n\nMessage:  your post is missing a community requirement.",
+            "It\u2019s not working on iPhone"
         ]
     },
-    "breath of spring, Anastasia Trusova, acrylic, 2022": {
-        "title": "breath of spring, Anastasia Trusova, acrylic, 2022",
-        "score": 1078,
-        "url": "https://i.redd.it/yy8c0x0m5z7d1.jpeg",
+    "The third time he cast the net..., Andrey Boris (me), oil on canvas, 2017": {
+        "title": "The third time he cast the net..., Andrey Boris (me), oil on canvas, 2017",
+        "score": 88,
+        "url": "https://i.redd.it/t2af1zrdjh9d1.png",
         "content": "",
-        "num_comments": 19,
+        "num_comments": 6,
         "comments": [
-            "Using rays of sunlight to divided the sky into different pieces is fun and very dynamic.",
-            "I've been feeling really down today. This picture is so beautiful, and brightened my headspace. Thank you for sharing. <3",
-            "Breath of fresh air for sure",
-            "This is so fucking pretty and I can TASTE THE CLEAN AIR! Great work, awesome lighting, awesome technique, very real *feeling*. Would gladly hang this in my home!",
-            "I love this so much! The use of purple and the sky are my favorite things about this. \ud83d\udc9c",
-            "Stunning. First word that comes to mind is CRISP",
-            "This is outstanding!!! I love it!!!!",
-            "This is so pretty!! I love the contrast of the flowers with the harsh geometric rays of light, and the color palette is stunning.",
-            "This is one of the most interesting pieces I've seen on this site. Really well done!",
-            "really lively and beautiful"
+            "This is interesting I love the color usage and the artstyle something about how you paint that mermaid tail and the hunched granny with the cat is very narrative-like.  altho I feel the bg is a bit distracting bc its empty space is huge+ doesn't have enough contrast to keep the focus on the characters. \n\nbut I love the soft color you chose so its good to me.",
+            "Wow!  Actual art. Well done, sincerely.",
+            "As a counterpoint, I like that background, the emptiness makes it feel very casual. A very normal day being disturbed by a spectacular happening."
         ]
     },
-    "Afterparty, my most recent work, oils, 2024": {
-        "title": "Afterparty, my most recent work, oils, 2024",
-        "score": 71,
-        "url": "https://i.redd.it/4tosife0e38d1.png",
+    "La couronne d'\u00e9pines (Avoidance strategy), Apollonia Saintclair, ink, 2020": {
+        "title": "La couronne d'\u00e9pines (Avoidance strategy), Apollonia Saintclair, ink, 2020",
+        "score": 124,
+        "url": "https://i.redd.it/c1j93nsubg9d1.jpeg",
         "content": "",
-        "num_comments": 1,
+        "num_comments": 9,
         "comments": [
-            "Love the vibe. What was your inspiration?"
+            "Nobody knows what it means, but it's provocative",
+            "Reminds me of the first time I had sex and I hit everything other than the intended hole.",
+            "Amazing, I also like the message behind it, if I understood it correctly but reading the title I think I did",
+            "Gets the people going \ud83e\udd37\u200d\u2642\ufe0f",
+            "Oh no. This is what it\u2019s like being a female on Reddit.",
+            "Could you tell a more ignorant soul what the message is according to you?",
+            "Better to masturbate than having sex with a lot of men and risking being hurt",
+            "The fact that you're being downvoted for a subjective opinion on the meaning of a piece of artwork is insane - it's an interesting take that hadn't occurred to me and makes sense.",
+            "Welcome to Reddit.. half my posts are getting downvoted because I ask a question about something..."
         ]
     },
-    "Portrait study, SketchingSkechyGuy, Ballpoint pen on paper, 2024": {
-        "title": "Portrait study, SketchingSkechyGuy, Ballpoint pen on paper, 2024",
-        "score": 44,
-        "url": "https://i.redd.it/jt41arjtv38d1.jpeg",
+    "63 dogs and a cat, Lauras felt dogs, Needlefelted from photos, 2024": {
+        "title": "63 dogs and a cat, Lauras felt dogs, Needlefelted from photos, 2024",
+        "score": 525,
+        "url": "https://i.redd.it/lqxql1puod9d1.jpeg",
+        "content": "",
+        "num_comments": 16,
+        "comments": [
+            "They\u2019re all cute but some are flipping adorable!",
+            "Love seeing this as a compilation! Oh, man, if all these were lined up together and a jigsaw puzzle made out of it... I would die of obsessive cuteness! Your work is incredible :)\n\nETA: one daily calendar of felted pets would be an acceptable substitution!",
+            "This is super duper cute but where\u2019s a golden retriever?? We desperately need him",
+            "Before I clicked this I thought this was a minecraft inventory screen\n\n/r/misleadingthumbnails",
+            "It would be very clever to title the piece as it is, but don\u2019t include a cat, thus forcing the viewer to study each puppet and ask themselves \u201cIs this the cat?\u201d",
+            "Thats actually soo amazing, and not to mention that one cat sneaking its way in the group, kudos!!",
+            "Always love seeing your work, they're so cute!",
+            "Has a real [Isle of Dogs](https://2.bp.blogspot.com/-WJ8WqmjlZGI/Wq3UgXYHwpI/AAAAAAAAYyo/fgLnyQDiN442Ag5Ru3vil5Y_XXINKDopACLcBGAs/s1600/isle-of-dogs-movie-poster.jpg) vibe to it."
+        ]
+    },
+    "My dog over a banana, David Cuen (me), ball pen on banana, 2024": {
+        "title": "My dog over a banana, David Cuen (me), ball pen on banana, 2024",
+        "score": 60,
+        "url": "https://i.redd.it/k0qderiw0h9d1.jpeg",
         "content": "",
         "num_comments": 2,
         "comments": [
-            "Good work with crosshatching"
+            "COOL! *snaps picture like tourist Bender*"
         ]
-    },
-    "Model painting, arca_num_ (me), digital, 2024": {
-        "title": "Model painting, arca_num_ (me), digital, 2024",
-        "score": 99,
-        "url": "https://i.redd.it/gv4ew22y028d1.jpeg",
-        "content": "",
-        "num_comments": 0,
-        "comments": []
     }
 }

@@ -1,74 +1,65 @@
 {
-    "4K UHD Sourcing": {
-        "title": "4K UHD Sourcing",
-        "score": 9,
-        "url": "https://www.reddit.com/r/PleX/comments/1dlr9np/4k_uhd_sourcing/",
-        "content": "Where are you all getting your 4K content from? I recently upgraded my server to the Intel NUC, and am starting to branch out with higher quality media. Most of my library is 480p from DVDs and 1080p from Blu Ray. I've seen posts here with people saying they have hundreds (or more) of 4K movies. \n\nFor reference, I've got a relatively \"beginner\" library with about 400 movies. I doubt I'll ever be a thousands kind of guy, but I do appreciate high definition for what I've got.\n\nDo you buy them all on disc? I just flashed my drive to handle them, so that's not an issue anymore. The 4K discs seem somewhat rare though, and the cost adds up quickly...\n\nIs there some kind of legitimate web store without DRM? Or are people using \"alternate\" downloading sources?\n",
-        "num_comments": 37,
-        "comments": [
-            "If I speak I\u2019m in big trouble",
-            "I buy all my media -> MakeMKV to rip them -> Optionally Handbrake or Mkvnixtool for compression or trimming\n\n>Is there some kind of legitimate web store without DRM?\u00a0\n\nNothing big, few small stores here or there but nothing worth checking. For example, Louis C.K. sells his stand-up with a download option.\n\n>Or are people using \"alternate\" downloading sources?\n\nPeople do like \"alternative\" scene",
-            "Awe, bless your little heart.",
-            "Alternate sources are honestly the only way to source many movies. If there is no way to purchase something I don't see that as a problem.",
-            "I buy them for $1-2 at thrift stores or bulk sales from private sellers on mercari (Japan)",
-            "Time to take to the high seas m'hearty",
-            "I'm also buying BR and 4KBR discs, primarily Amazon and eBay. Some local shops ...\n\nu/JamesNihiliate what drive are you using?",
-            "I buy UHD discs.",
-            "Usenet",
-            "One source I don't see mentioned very often is your local library. Mine has a great selection to choose from."
-        ]
-    },
-    "Moving to Japan - using my bosses server": {
-        "title": "Moving to Japan - using my bosses server",
+    "Happened to be watching my bandwidth while I had a movie going - should this be more consistent or is it all good?": {
+        "title": "Happened to be watching my bandwidth while I had a movie going - should this be more consistent or is it all good?",
         "score": 25,
-        "url": "https://www.reddit.com/r/PleX/comments/1dll7wu/moving_to_japan_using_my_bosses_server/",
-        "content": "Mods delete if dumb, pls. Complete noob. \n\nI\u2019m moving to Japan for a year and wondering if anyone knows the logistics of using Plex while over there. Server is based in Australia. \n\nWill I need a VPN as to not get nabbed by the Japanese gov? Would a VPN just make it slow as fuck? \n\nShoestring budget so gonna get rid of all my streaming services (Disney, Amazon prime etc) \n\nAny advice is welcome and needed, thanks. ",
-        "num_comments": 30,
+        "url": "https://i.redd.it/o04yt11dff9d1.png",
+        "content": "",
+        "num_comments": 12,
         "comments": [
-            "Nabbed for watching unblurred porn",
-            "Nabbed by the government for what? Who can see what you\u2019re watching? What do they know about where your boss\u2019 media came from?\n\nYou have nothing to worry about. Use it like normal.",
-            "Plex uses end-to-end encryption. It's a secure connection without VPN.\n\nHere's Plex's support article about it. \n\nhttps://support.plex.tv/articles/206225077-how-to-use-secure-server-connections/",
-            "My daughter had no problems using my Plex when she lived in Japan 2021-2023.",
-            "Assuming the server has https enabled, the data is already encrypted.",
-            "I\u2019ve had no issues using my server in Australia in Japan. With or without a VPN.",
-            "There should be very few internet restrictions in Japan.  Just make sure whatever you\u2019re watching isn\u2019t illegal.",
-            "I live in Japan. As others have said, you\u2019re fine - just keep using as normal. If you sail the seas, use a VPN, but obviously for just viewing over Plex you don\u2019t need to do anything special.",
-            "You'll be fine.",
-            "I'm currently deployed to southeast Asia and use a commercial VPN the entire time. I found it is usually more stable with the VPN on (routing to the state closest to where my server is located at home) than no VPN at all."
+            "Spikes are normal. Plex sends data in bursts.",
+            "It loads in chunks, so you\u2019ll see it look like that for each chunk as it loads.",
+            "YouTube videos work that way too, or any streaming service",
+            "It sends bursts and your device buffers it. If it sent constantly then there would be dropouts if anything else started using the connection and the data rate dropped momentarily.",
+            "You\u2019re new to Plex it seems. It also seems this has been asked many times. Totally normal, it sends data in chunks to create a buffer. Depending on your internet speed, if you are sharing outside of your home, 4K content might have issues. Always remember to multiply the bit rate by 1.5-1.8 to get an idea of what upload speed you will need.",
+            "Not only new to plex but new to computers lol",
+            "Oh boy, you have quite the journey!",
+            "Maybe he\u2019s new to Reddit.",
+            "New to reading usernames for sure",
+            "Totally normal."
         ]
     },
-    "What do you use as a Plex server?": {
-        "title": "What do you use as a Plex server?",
-        "score": 109,
-        "url": "https://www.reddit.com/r/PleX/comments/1dlall1/what_do_you_use_as_a_plex_server/",
-        "content": "I'm currently runing Plex of a NAS, but find it lack power, mainly when trying to convert DTS soundtrack to whatever my TV support.\n\nI got Plex pass thinking the hardware accelaration would do the trick, but the NAS celeron CPU just can't handle it.\n\nSo I'm looking for an alternative, a dedicated Plex server, something:\n- compact, as this will go on a rackmount shelf (or bay if affordable rackmounted options existed)\n- hands-off once configured (I don't want to have to manually press Power after every power failure)\n\nI read a lot of people talking about the n100 mini PC but I'm not feeling convinced this would do much better than the NAS (?).\n\nHow do you run your Plex server?\n\n",
-        "num_comments": 491,
+    "Issues with an AT&T BGW320 client remotely accessing a server": {
+        "title": "Issues with an AT&T BGW320 client remotely accessing a server",
+        "score": 14,
+        "url": "https://www.reddit.com/r/PleX/comments/1dqyagn/issues_with_an_att_bgw320_client_remotely/",
+        "content": "Hi, I have a Plex server that my friends access, in various regions of the US. Remote access works great for everyone and is set up properly with port forwarding on 32400/ the whole shebang, on Fios. One friend recently moved to an AT&T fiber serviced location and is having issues with buffering when they access my server. Plex plays for a few seconds then buffers, this repeats continuously on original quality (<15 Mbps bitrate file). I am visiting him this weekend and was able to verify this behavior myself and am determined to get this working. The modem/router is a BGW320 and we reset the modem and tried to port forwarding on his admin settings, but the buffering still happens. Does anyone have any experience with this issue and have any possible solutions we could try?  Thanks!",
+        "num_comments": 15,
         "comments": [
-            "M2 Mac Mini - 16GB ram.  Two External Hard Drives plugged in (32 TBs).",
-            "I will get flamed, but I have 4 external hard drives (32TB total) plugged into a USB 3.0 hub into my laptop. I would love to get a NAS but they are so expensive.",
-            "I'm just running mine on a 6-year-old Dell micro form-factor Optiplex. It's got an 8th gen Core i5, 16 GB RAM, and 256 GB SSD. Got it used off eBay; I'm just using it for music so that's more than enough for my needs. I just have the unit tucked behind the TV in my bedroom and hardwired to the network.",
-            "Beelink S12 Pro is my secondary Plex server\n\nN100 CPU, low powered device and yet powerful for HW transcoding up to six 4K concurrent streams.\n\nMy primary server is 12th gen i7 Intel Nuc.",
-            "I use a PC with unRAID with an i3-12100",
-            "Old Mac mini",
-            "I'm surprised the celeron won't do the trick. Which NAS / which CPU? What's the workload? What does it show in your plex dashboard during playback - is it showing HW acceleration? Are there other factors like subtitles in formats that need to be burned in? I did have to learn the steps to properly pass through the iGPU to the docker container for my Synology. Ticking the box doesn't mean that it is set up properly.",
-            "Let your NAS be a NAS. Just because companies like Synology or Qnap lets you install applications doesn\u2019t mean it\u2019s a good idea, it\u2019s a storage server not an application server. If you want to run applications, get a separate box. N100 is a great and cheap choice for most use cases including Plex.",
-            "May I humbly suggest keeping the NAS as the storage and using a Linux mini server with the horsepower to fulfil your requirements?\n\nI use a Synology which struggles with 4K but my ZimaBoard 832 does just fine, including transcoding. Using the NAS as an external drive. \n\nThere are obviously more powerful options but, overall power consumption for being on 24/7/365 is a primary concern.",
-            "  if you use this [guide](https://forums.serverbuilds.net/t/guide-hardware-transcoding-the-jdm-way-quicksync-and-nvenc), you will get best setup for plex"
+            "Judging by what you've said in the comments; it's the peering between FiOS and AT&T.  The link between y'all is congested.  You can force transcoding at a lower bitrate to see if that alleviates the issue.  I usually have all my remote clients reduced to transcoding.",
+            "What does the plex dashboard show when it's buffering for him? What is the client he's watching on? Is it trasncoding and you dont have a gpu to do that which causes major buffering? There could be many different things going on aside from the ISP side of things. I have the BGW320 and host to about a dozen people throughout the US and Europe and have zero problems, and I'm passing plex through a fqdn such as plex.example.com.",
+            "Call AT&T and verify that the ports are ACTUALLY OPEN. I had a similar issue. I had opened the ports from the router its self but still was having issues. Called AT&T and they confirmed that all ports were closed regardless of what I saw on my end. Call them and verify that your ports are open before wasting any more of your time.",
+            "Variety of clients (latest Shield, ATV, Roku Ultra) - phone wifi has buffering but data works fine",
+            "It's a direct play, no transcoding occurring. Same buffering result on multiple clients (Shield, ATV, Roku, Plex for Mac/Windows)",
+            "Good to know he doesn't need port forwarding. No issues with other streaming platforms, and he has 500/500 internet. It's just Plex.",
+            "I have Verizon Fios, but I will try out that ifperf with him when I'm back, thanks! I do find it kind of strange for there to be issues with Verizon Fios --> AT&T, I'm sure there are others in  DFW with AT&T who remotely access Plex but who knows.",
+            "Go into the Remote Access setting and change the port to something a bit different like 32499 or something. Maybe his ISP thinks they are being smart by throttling 32400 knowing it's a common Plex port.",
+            "Your post is confusing.  Is your friend having issues streaming from your server or is he setting up his own server and having issues with it?  The reason I ask is because you talk about port forwarding on his modem, port forwarding is only needed on the server side not the client.  If he is a client of your server port forwarding is not required or recommended on his router because this just opens a port to allow connection into his LAN but he is not hosting anything so why open a port.  If he is the only one buffering then the issue is not from your server either.  He either has a poor lan setup (wifi if in use) or there are connectivity issues between his home and yours.  You can try running iperf between his computer and yours to see how good the connection is but unless the issue is his home networking, there is not much you can do to fix it if it's due to his ISP peering with your ISP.",
+            "There's really no reason to port forward on a client side.  I would try setting a service on another port on your side before you go so you can transfer a file to do a speed test, like a web server with a big file or SSH.  Also maybe setup Plex's alternate port and see if he has issues with that one, maybe his ISP is traffic shaping.\n\nWhat type of device is he using for the client?  See if his phone on WiFi and on LTE get similar results."
         ]
     },
-    "Trailers - confused!": {
-        "title": "Trailers - confused!",
-        "score": 2,
-        "url": "https://www.reddit.com/r/PleX/comments/1dlua90/trailers_confused/",
-        "content": "I'm so confused. I recently started using Plex. I have been trying to get local trailers to work (to appear with the clickable trailer button in each film's listing.) To do that, I have been using the Plex guides to add a \"-trailer.mp4\" file to specific folders.  Anyway, I have discovered some of the tv shows seem to have automatic trailers. Trailers I do not have locally. I also experimented with playing trailers before movies and it keeps playing automatic ones I don't have locally! But all the options and resources I find about this says those automatic trailer-sourcing features are for Plex Pass only? (which I don't have.) It's annoying as I only want to do my local stuff but it keeps automatically sourcing stuff which is supposed to be a Plex Pass only feature? But it's happening lol. Am I doing something wrong?",
+    "Transcoding when downloading the file directly via browser": {
+        "title": "Transcoding when downloading the file directly via browser",
+        "score": 0,
+        "url": "https://www.reddit.com/r/PleX/comments/1dra8ln/transcoding_when_downloading_the_file_directly/",
+        "content": "Why is my Plex server transcoding files for download when the user downloading them is accesing Plex via a internet browser and downloading the file directly using the below option?\n\nhttps://preview.redd.it/9skq6vrv8i9d1.png?width=200&format=png&auto=webp&s=ebfc5ff5a0019d9a74e9a605eb01af4223e21dd5\n\nAny help appreciated, the users are both savy enough IT wise so arent doing anything stupid their end. If i try it locally, the file downloads without transcode so is it an external users thing?",
+        "num_comments": 1,
+        "comments": [
+            "Stop using a browser for plex. Use the Windows app instead."
+        ]
+    },
+    "Encountered a strange glitch with mkv metadata while trying to add some movies to my library. Is this a known behavior?": {
+        "title": "Encountered a strange glitch with mkv metadata while trying to add some movies to my library. Is this a known behavior?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PleX/comments/1dra21g/encountered_a_strange_glitch_with_mkv_metadata/",
+        "content": "I noticed about a week ago that about half a dozen .mkv files I'd added to my \"Movies\" directory weren't showing up in my Movies library. I did the usual troubleshooting, including checking the files were correctly named according to the naming conventions, checked the file permissions, rescanned the library, and did the \"Plex dance\" (move files out of the library, rescan, move files back in, rescan again). Finally, I gave up, deleted the library, and created it again. The movies still didn't show up.\n\nAt this point I wondered if there was something wrong with the files themselves. They all used H264 and aac codecs, and played fine in VLC. I used `MkvToolNIX GUI` to look at the files, and after experimenting with removing different tracks, I found that deleting the \"Global tags\" entry from one file caused the corresponding movie to show up in my library.\n\nhttps://preview.redd.it/0aj9fnql2i9d1.png?width=920&format=png&auto=webp&s=8fc5fb5353e5bbf1d4f542bec579bd4253f4c015\n\nI copied all the offending files to my desktop, then used `ffmpeg` to transfer their contents into new .mkv files using the below command. This creates a new mkv file with the same video, audio, and subtitle streams, in the same codec as the original file, although the `map_metadata:g -1` flag removes all the global metadata/tags.\n\n`for i in *.mkv;`   \n   `do ffmpeg -i \"$i\" -vcodec copy -map 0:v -acodec copy -map 0:a -scodec copy -map 0:s -map_metadata:g -1 -y \"(path)/Movies/$i\";`   \n`done`\n\nEach movie showed up in my library immediately! To confirm the global tags were the cause, I ran the same command without the `map_metadata:g -1` flag, and the files which included the global metadata were not recognized by Plex (i.e. did not appear in the library). \n\nIs this a known behavior for Plex servers or have I discovered a new bug? I couldn't find any posts online documenting similar behavior, but I can't be the first person to encounter this. Is there some other factor that could explain this issue? I'm running server version 1.40.3.8555 on Linux Mint 21.2.",
         "num_comments": 0,
         "comments": []
     },
-    "Nvidia Transcoding": {
-        "title": "Nvidia Transcoding",
+    "Database folder, is this right?": {
+        "title": "Database folder, is this right?",
         "score": 1,
-        "url": "https://www.reddit.com/r/PleX/comments/1dlv3yh/nvidia_transcoding/",
-        "content": "I'm looking at getting an RTX 4060 ti 12GB for my home server, mainly for AI testing etc but I was curious about the transcoding limit these days for things like Plex I know it used to be 2 but I thought this had been increased to 8 now, also I'm running Plex in docker on a native ubuntu host, the server has an 11th Gen i7 which has an iGPU so I know this can do many more are was more just curios if the Nvidia would be able to do more that the originally quoted 2",
+        "url": "https://www.reddit.com/r/PleX/comments/1dr9sup/database_folder_is_this_right/",
+        "content": "So my plex have been acting up, and I have no clue why - I keep getting s1001 errors.\n\nSo I decided to read up a little and one of the steps is the check the .db folder - but mine looks like this, is this right? I thought I would be finding 1 file(?)\n\nhttps://preview.redd.it/4gdqhg5u4i9d1.png?width=1030&format=png&auto=webp&s=e5be10d3316a0f3c1248c93539a319bfa3cdf71b\n\n",
         "num_comments": 0,
         "comments": []
     }

@@ -2,78 +2,90 @@
     "Daily Simple Questions Thread": {
         "title": "Daily Simple Questions Thread",
         "score": 2,
-        "url": "https://www.reddit.com/r/espresso/comments/1dlu3sd/daily_simple_questions_thread/",
+        "url": "https://www.reddit.com/r/espresso/comments/1dr9na3/daily_simple_questions_thread/",
         "content": "Welcome to the r/espresso question thread!\n\nDo you have a question about how to use something new? Want to know how many grams of coffee you should use or how fine you should grind it? Not sure about temperature adjustments? Wondering about your coffee's shelf life or the best way to store it? Maybe you\u2019d just like some recommendations on new gear?\n\nThere are no stupid questions here, ask any question and the community and moderators will chime in to help you out! Even if you don\u2019t actually know the answer to a question someone asked, don\u2019t be afraid to comment just so you can participate in the conversation.\n\nYou can still post questions as an official post if you feel it warrants a larger discussion, but try to make use of this area so that we can help keep things organized in case others potentially have similar questions.",
-        "num_comments": 5,
+        "num_comments": 7,
         "comments": [
-            "Hey espresso team!\n\nRecent at home barista in training and I have several questions\n\nI have the Gaggia Classic espresso machine paired with the Niche grinder, and I'm having an issue with water pooling at the top of the espresso puck at the end of my pulls.\n\nI have the grinder setting on fine (anywhere from 7-10 dots... I recognize this \"scale\" may not be universal) and I turn on the water flow pretty much until I see the water turn slightly clear. When I take the portafilter off, there's a pool of water at the top of the espresso puck. Am I doing anything wrong here? I also noticed that it takes a long time for the espresso to actually start to pour (I use those acupuncture needles to break up the clumps, distribute, and tamp down). Espresso itself tastes fine. I don't use a puck screen although I did get one.\n\nAlso question on milk steaming (we use oat milk) I watched some helpful youtube videos and read comments on here and I was able to correct an issue I was having of the steamer being painfully loud. And I am getting good foam now. But I noticed when I pour the foam stays at the top of the jug when tilted and only the warm milk pours. Are there any remedies for that or again, is that normal?\n\nSorry for the lengthy post. Thank you in advance!",
-            "I\u2019m not sure if my thoughts on extraction with espresso are correct:\n\nMy thought is, that given a certain temperature and a given bean, only time controls extraction. Yes I can grind finer or coarser, but as long as I keep the pull time constant, extraction will be approximately constant? So grind size regulates the type of drink (ristretto, lungo etc). \n\nIs this true? If my shot is bitter and I\u2019m already down at 80 C, should I decrease pull time as a first measure?",
-            "You pull a shot until the water runs clear?\n\nWater may be pooling in your basket if it's underfilled or if your grind is too fine. It's not a problem if you don't mind the taste or the clean up. This is assuming your machine has a functioning 3-way solenoid. I think some of the Classics may not have one depending on the build year. If that's the case then water pooling is normal.\n\nYou may not be incorporating your foam enough. You should aerate until the pitcher feels as warm as your hand, then incorporate the rest of the time. Your pitcher should not be overfilled either which helps with the incorporation step.",
-            "Water on puck issue: you\u2019re not doing anything wrong, it\u2019s a dosing/basket size issue only. The more headspace you have in your puck, coupled with a fine grind, the more water you\u2019ll get up top. \n\nJust use the puck screen for this very reason, your used puck will be easier to dispense of and the portafilter and group head will be easier to clean.\n\nFrothing issue: this is an over-steaming issue. You\u2019re steaming too much. Have you noticed how some baristas split the milk, i.e. pour milk from one jug to another? This will also help you in eliminating some of the hard froth, but most of the time the milk is gone, just start over.\n\nMilk steaming takes a long time to master. Be patient. When the jug gets too hot to touch, you\u2019re done. Once done, place the jug on the bench and knock out the excess air, then stir rigorously.",
-            "Yield determines the type of drink. How long someone wants to brew in order to reach that yield will be based on taste preference. One person may brew a lungo in 30s, another 50s, or whatever. \n\nWhat kind of coffee are you brewing? What was your starting brew temp, yield, and time? I assume it was bitter so you decided to lower the temp instead of adjusting the yield or brew time?"
+            "Which grind setting are you using in your DF54 for medium and dark roast",
+            "Everyone's settings will be different. What have you tried so far?",
+            "13 chokes, 15 to watery all in between so so. Also my coffee beans might be stale as they are sorry bought 6 months ago. I\u2019m just trying to get a ball park where to start",
+            "Seems like you should find a setting that works between 13 and 15. Are you making small adjustments? Are you getting your target yield in your target time?",
+            "It\u2019s getting there. I\u2019ll wait to have a fresh bago of beans. The shots are coming out to sour",
+            "Fresher coffee will need a coarser grind. Just something to keep in mind.\n\nIf your prep is good, but shots are sour, then try increasing the yield.",
+            "^[Sokka-Haiku](https://www.reddit.com/r/SokkaHaikuBot/comments/15kyv9r/what_is_a_sokka_haiku/) ^by ^dlc098:\n\n*Which grind setting are*\n\n*You using in your DF54 for*\n\n*Medium and dark roast*\n\n---\n^Remember ^that ^one ^time ^Sokka ^accidentally ^used ^an ^extra ^syllable ^in ^that ^Haiku ^Battle ^in ^Ba ^Sing ^Se? ^That ^was ^a ^Sokka ^Haiku ^and ^you ^just ^made ^one."
         ]
     },
-    "When I pull a double I like to drink half of it straight than with the other half I'll add milk to it. Does anyone else do this? A cortado is my favorite. Just curious...whats everyones favorite way to drink an espresso?": {
-        "title": "When I pull a double I like to drink half of it straight than with the other half I'll add milk to it. Does anyone else do this? A cortado is my favorite. Just curious...whats everyones favorite way to drink an espresso?",
-        "score": 110,
-        "url": "https://i.redd.it/glo1df6bb28d1.jpeg",
-        "content": "",
-        "num_comments": 72,
+    "Built a vibration-activated waterlevel sensor": {
+        "title": "Built a vibration-activated waterlevel sensor",
+        "score": 177,
+        "url": "https://v.redd.it/uo22o8hx9h9d1",
+        "content": "Still don't get why it's not a common feature for espresso machines...",
+        "num_comments": 43,
         "comments": [
-            "I do this all the time.... Haha...",
-            "I like your Frank Stella approach to latte art.",
-            "Yep. I pull a double in a 80ml double walled glass and drink some before I add milk to have more space to practice my latte art.",
-            "Honestly, the set of concentric circles here is very aesthetically pleasing",
-            "This gave me a mad feeling that I'd seen it before until I finally clicked what it was.\n\nhttps://youtu.be/drZayHVQlfk?si=PussUcywpboufIvb",
-            "Black",
-            "Single straight and single with milk is sometimes called a 'one and one', which is a creation from Cat and Cloud, if I'm not mistaken. I also love doing it!",
-            "Hahaha I love this pour. The circle is a work of art",
-            "That\u2019s a cool idea. This could be my new thing.",
-            "https://preview.redd.it/sthv9gy8m38d1.jpeg?width=2394&format=pjpg&auto=webp&s=194e25af567868bcdd9e577eae7c3204112bedc0\n\nOne of the local shops here calls it a \u201cone and one\u201d. I bought the same set of NN cups to make it at home \ud83e\udd23"
+            "that's one of the coolest mods I've seen. \n\nwould really appreciate some insights so that I can try to do that as well :)",
+            "You need to start selling these my friend and I'm happy to be your first customer.",
+            "How? I need more information!",
+            "Do you have to keep charging the display up?",
+            "Really nice. I'm definitely interested in building this!",
+            "Please teach us master! This looks CLEAAAAAAN!\n\nI'm not and engineer, I have soldered things at most 10 times in my life, but i can follow instructions (which i recently realized is a skill and not an innate ability for everyone)",
+            "The display is brilliant what kind is it?",
+            "This is amazing and I need it in my life",
+            "What sorcery is this? It's using sound to detect the water level in the tank?",
+            "Dude. This looks very elegant. Amazing implementation"
         ]
     },
-    "my First Swan ever ...\ud83e\udd72 ": {
-        "title": "my First Swan ever ...\ud83e\udd72 ",
-        "score": 45,
-        "url": "https://www.reddit.com/gallery/1dlpgsh",
-        "content": "",
-        "num_comments": 5,
+    "Picked up this bad boy on the marketplace\u2026": {
+        "title": "Picked up this bad boy on the marketplace\u2026",
+        "score": 179,
+        "url": "https://i.redd.it/szaottghhf9d1.jpeg",
+        "content": "Mindblowing upgrade from my former Breville Touch Impress. Just scratching the surface of what this thing can do\u2026 can\u2019t recommend this machine enough if you can afford it.",
+        "num_comments": 43,
         "comments": [
-            "Sublime \ud83d\ude09",
-            "Nice, I can still only do blobs. \n\nAside from that though, what whisk is that, I\u2019d like to get something decent for my son, he\u2019s more a milkshake kind of guy but the whisks are generally pretty poor.",
-            "Haha \ud83d\udcaf \ud83d\ude00\u2764\ufe0f\u270c\ufe0f",
-            ">Nice\n\nThank you. \n\n>what whisk is that\n\nNanofoamer Lithium. \ud83d\udcaf Worth investing.\ud83d\ude00\ud83d\ude00",
-            "Cheers I shall look it up \ud83d\udc4d"
+            "How much did you pick it up for?",
+            "We all want to know.... did you get a decent deal???",
+            "How DEECENT are the shots\n\n![gif](giphy|UpqUd13CI1fzi)",
+            "Nice! Hope you enjoy it as much as I have",
+            "Gol DANG\n\nMy dream machine.   Way to go!",
+            "Excuse my ignorance, what is this machine called? Thanks",
+            "One of the best value machines out there",
+            "Why is there a pizza icon?",
+            "Espresso noob here. What\u2019s mind blowing about the upgrade?",
+            "That\u2019s a really pretty look for it"
         ]
     },
-    "Only needed to try like 20 times with supervision to kind of start to understand how this works ": {
-        "title": "Only needed to try like 20 times with supervision to kind of start to understand how this works ",
-        "score": 6,
-        "url": "https://i.redd.it/l3qxbehya48d1.jpeg",
-        "content": "",
-        "num_comments": 2,
+    "I need help": {
+        "title": "I need help",
+        "score": 72,
+        "url": "https://i.redd.it/easq4k3ktf9d1.jpeg",
+        "content": "I can\u2019t seem to stop. Is there a Baskets Anonymous? \n\n",
+        "num_comments": 61,
         "comments": [
-            "If that's your 20th pour then you should be very proud of it. Usually at that stage people tend to start understanding a basic heart, and you're doing triple stacked pours",
-            "Well I do have a Silvia at home and I've done some steaming every now and then, but I drink like 99% espresso. And whatever I did at home was kind of a crapshoot but I made these 4 back to back.\u00a0\n\nThe 4 hole steam wand on the commercial machine we used here is a marked improvement over the at-home 1 hole of the Silvia, too.\u00a0"
+            "So what you're saying is that you're a basket case?",
+            "u still dont have the sworks or wafo baskets... keep collecting!",
+            "Pick your favourite and sell the rest. Or, you know, have you tried wafo? Can\u2019t really make espresso without it.",
+            "Where's your post comparing all of them with all other parameters being equal?",
+            "Not a lot of people know about this one very rare basket called The Blanc (yes made by Mont Blanc). To the naked eye it looks like it doesn\u2019t have any holes but it pull shots through your drip tray. You should get that next.",
+            "I see no problems here.",
+            "Have three stock baskets, vst, mischief spirit and Honeycomb. Was thinking of getting mischief portafilter with basket build in.",
+            "Well since you have collected so many which would you personally recommend?",
+            "Not the problem with 57mm grouphead: you have like 2 or 3 good/precision baskets at all of this size that are hard to find, and it (at least my Anna did) already has an IMS double basket in stock.",
+            "Yes you do!  Your a basket case\ud83d\ude42 Do you have a favourite?"
         ]
     },
-    "Rate my setup \u2615\ufe0f": {
-        "title": "Rate my setup \u2615\ufe0f",
-        "score": 155,
-        "url": "https://i.redd.it/gmx0fnbtpy7d1.jpeg",
-        "content": "",
-        "num_comments": 70,
+    "I went from this to this in just one week!": {
+        "title": "I went from this to this in just one week!",
+        "score": 24,
+        "url": "https://www.reddit.com/gallery/1dr4f1v",
+        "content": "I\u2019m just as amazed at you are lol still have a lot to learn but this is so amazing!",
+        "num_comments": 7,
         "comments": [
-            "Your Winterfell clock hasn\u2019t been adjusted for Long Night Savings Time",
-            "The clocks aren\u2019t aligned",
-            "Why is the spacing between your clocks uneven?",
-            "The roast is dark and full of quakers",
-            "The equipment is prefect. But line up the clocks.   It\u2019s driving me crazy.  This is r/mildlyinfuriating material.",
-            "OP it looks great, I got my df64 recently and waiting on my Go. How do you like them together?",
-            "Great setup, I like the aesthetics!\n\nIs the white Baratza practical color? I'm thinking about which color to choose - black or white.",
-            "Also curious how the df64 is",
-            "9.95/10",
-            "I'm assuming one of the grinders is for light roast? The other for dark? Or one for espresso and one for pour overs?"
+            "Wow, impressive! I'm  3-4 weeks in and am just about where you were last week. Would love to be at your skill level by next week haha",
+            "Wow! Great learning process! Awesome! Keep going and having fun",
+            "Any tips you have to get there? I'm definitely at the first one haha",
+            "I\u2019m like 4 months in, I gave up this week and just started doing dicks instead.\n\nArt for art\u2019s sake I guess, you never know where your audience will be.",
+            "This is me lol just today I was glad that I was AT LEAST able to get that nice silky, bubble-less foam. Still can\u2019t make shapes with it but I\u2019m still learning",
+            "haha yea i was able to make decent milk today, but i went a little too long on the stretching so it was wayyy too thick to even try and make a design. tasted great though.. I was able to make a heart yesterday, albeit accidentally lol",
+            "Yeah that\u2019s my problem too. Still trying to figure out how long to stretch for. But congrats on the accidental heart I still consider that a win! I\u2019m hoping I might accidentally get a swan at some point lol"
         ]
     }
 }

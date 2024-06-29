@@ -1,45 +1,52 @@
 {
     "Recruiting moderators": {
         "title": "Recruiting moderators",
-        "score": 19,
+        "score": 21,
         "url": "https://www.reddit.com/r/ASUS/comments/18troim/recruiting_moderators/",
         "content": "Hi there,\n\nr/ASUS is looking for 2-3 new moderators to help keep the subreddit a pleasant place to be. Please feel free to PM me or r/ASUS why you'd be a good fit for the moderation team. Reddit mod experience is preferred but not required!",
         "num_comments": 0,
         "comments": []
     },
-    "Where to get discount on UX3405MA-PH77": {
-        "title": "Where to get discount on UX3405MA-PH77",
-        "score": 1,
-        "url": "https://www.reddit.com/r/ASUS/comments/1dlvue5/where_to_get_discount_on_ux3405maph77/",
-        "content": "IF yes please do text me asap. Thank you in advance",
-        "num_comments": 0,
-        "comments": []
+    "Just bought. Doesn\u2019t turn on ?": {
+        "title": "Just bought. Doesn\u2019t turn on ?",
+        "score": 4,
+        "url": "https://i.redd.it/1jch4ycd4i9d1.jpeg",
+        "content": "Tried holding power down. Fans go wild but no screen, tried brightness. Tried forcing restart with power cable out of ect. Tried just charging it. Tried turning on and off and the most I can get is these two lights. And sometimes airplane comes on. No other keyboard lights or RGB\u2019s on front. The fans do wurr away when it\u2019s \u201con\u201d tried turning off hibernation with F keys. Now I don\u2019t wanna take it apart to take battery out and force it that way just yet. And ofc the company that sold me \u2018overclockers\u2019 aren\u2019t open today. (Asus strix 17 rtx 4080) it was sold as \u2018open box\u2019. Disc read as \u2018all items checked for working order\u2019 (paraphrased) ",
+        "num_comments": 6,
+        "comments": [
+            "Try going into the bios and closing the default settings, try starting it and spamming the f2 or del, maybe something will happen, do u have a monitor or a TV with a hdmi, try connecting to it and see if something happens when u turn it on.",
+            "You could let ir charge until that led is white, disconnect the charger and try turning it on again",
+            "I did try reset bios with the F keys with screen off. I will try hdmi next. I was so excited for today and now I\u2019m angry as hell \ud83d\ude05\ud83d\ude02\ud83d\ude02\ud83d\ude02 just wanted to play some hell divers bro",
+            "I\u2019ll try both. Thanks \ud83d\ude4f\ud83c\udffc",
+            "Bro I totally get you \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+            "Hi there! This is a friendly reminder to change your flair to **Support - SOLVED!** after your issue has been resolved. It is an immense help for those that may come across your same problem in the future so that they can quickly find the right solution. Thank you!\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ASUS) if you have any questions or concerns.*"
+        ]
     },
-    "ROG STRIX G16 ~ This cannot be normal, right? Typing is incredibly difficult due to how insensitive the keys are. I love everything else about the laptop. (All keys are like this btw)": {
-        "title": "ROG STRIX G16 ~ This cannot be normal, right? Typing is incredibly difficult due to how insensitive the keys are. I love everything else about the laptop. (All keys are like this btw)",
-        "score": 1,
-        "url": "https://youtu.be/2nsO0mObXZc",
-        "content": "",
+    "Wrong bios model": {
+        "title": "Wrong bios model",
+        "score": 2,
+        "url": "https://www.reddit.com/r/ASUS/comments/1dr9nul/wrong_bios_model/",
+        "content": "my laptop model is Rog G513QM, \n\na couple of weeks ago, my laptop won't boot into windows and the screen was showing no display, so i brought it to a local laptop repairshop. a week pass, they said they have tried everything but it still wont boot, they said they'll try for another week,  then they tried to change the BIOS model (without me knowing) into a G713QR model BIOS, and the laptop was able to boot but it still had no display and has to connect to an external display, but because it has the wrong bios, the rtx 3060 was not detected in the system device manager and so was the display, so i told the repairshop to turn the BIOS back into the original BIOS. A week later they said that they cant revert it back to G513QM BIOS, they have tried flashing it, but the laptop won't let it flash the bios and they said they have tried the same method they used to change the bios to G713QR to turn it back to G513QM but it still wont work, so now im stuck here and they have surrendered in repairing it, \n\n\nI just bought this laptop secondhand about a month before it wont boot to help with my college, and i need it to help render buildings for my project\n\nhow can i go about this, or what should i do, or can i even change back the bios, does changing the bios chip will work?\n\n\n",
         "num_comments": 1,
         "comments": [
             "Hi there! This is a friendly reminder to change your flair to **Support - SOLVED!** after your issue has been resolved. It is an immense help for those that may come across your same problem in the future so that they can quickly find the right solution. Thank you!\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ASUS) if you have any questions or concerns.*"
         ]
     },
-    "Tuf x670-E Plus Wifi - Bios Corrupting?": {
-        "title": "Tuf x670-E Plus Wifi - Bios Corrupting?",
+    "Zenbook duo users, are these annoying pops up present when changing windows?": {
+        "title": "Zenbook duo users, are these annoying pops up present when changing windows?",
         "score": 1,
-        "url": "https://www.reddit.com/r/ASUS/comments/1dlul1z/tuf_x670e_plus_wifi_bios_corrupting/",
-        "content": "Hi all,\n\nWas wondering if there were any tell tale signs that my bios or board might be failing. I am on bios 2613 and have been so since release. A month ago, I noticed I couldn't get into my PC. I used bios flashback and had a profile saved, so I recovered everything and chaulked it up to cosmic dust.  \n\nI shut down my PC every night. Just don't love having it on. \n\nTwo weeks ago, I lost my bios again. My computer would not boot at all, and I'd just see a solid green light coming from the LEDs of the board. I redid the steps of using the bios flashback, and all went well again. However the next morning, the issue reappeared. \n\nAnd I'm now in this situation here today - I can use my PC on EXPO I or EXPO Tweaked until I shut down my computer. When I turn the PC back on, my system's non-responsive and I can't even use the power button to turn off the system. \n\nhttps://preview.redd.it/niz7q9sw948d1.png?width=2267&format=png&auto=webp&s=19d6a91db2b1d450fb9237472cc3fa5535b2413a\n\nI'm pretty annoyed that I have to do this every time I want to use my PC. Is anyone aware of a fix? ",
+        "url": "https://www.reddit.com/r/ASUS/comments/1drbhiw/zenbook_duo_users_are_these_annoying_pops_up/",
+        "content": "I'm noticing these popups when dragging windows on my Zenbook duo, I cant remember whether they were there when I initially bought the laptop. Just wondering if these are normal and if other people have them on their Zenbook duos also? https://imgur.com/a/TkIxYwa",
         "num_comments": 1,
         "comments": [
             "Hi there! This is a friendly reminder to change your flair to **Support - SOLVED!** after your issue has been resolved. It is an immense help for those that may come across your same problem in the future so that they can quickly find the right solution. Thank you!\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ASUS) if you have any questions or concerns.*"
         ]
     },
-    "ASUS ROG laptop stuttering issue": {
-        "title": "ASUS ROG laptop stuttering issue",
+    "ASUS Vivobook Pro 15 OLED D3500QC": {
+        "title": "ASUS Vivobook Pro 15 OLED D3500QC",
         "score": 1,
-        "url": "https://www.reddit.com/r/ASUS/comments/1dluf9a/asus_rog_laptop_stuttering_issue/",
-        "content": "I had this problem for a few months now. I tried everything I could think of like:\n\n- trying turbo mode amd making sure it is on\n- Checkong background applications and services\n- Turning off all applicationg running except the game\n- Resetting BIOS setting to default\n- Keeping an eye on thermals and resource usage\n- I usually use a second display so tried everything with that disconnected\n- Tried removing armoury crate all together and checked everything again with only g helper being used.\n\nIt stutters on everything literally. Sometimes, the stutter is minimal and I can play but it is still noticeable. \n\nI would really appreciate some advice.\n\nMy laptop is an Asus ROG G16 (2023), the model is G614JI-AS94\n\nCPU: Intel Core i9-13980HX \nGPU: NVIDIA GeForce RTX 4070\nRAM: 16GB of DDR5-4800MHz (upgraded to 64gb from crucial)",
+        "url": "https://i.redd.it/d7obzmjbli9d1.jpeg",
+        "content": "Can RAM size be increased from 8 GB to 16 GB?\n\nRam is part of the motherboard\n\n",
         "num_comments": 1,
         "comments": [
             "Hi there! This is a friendly reminder to change your flair to **Support - SOLVED!** after your issue has been resolved. It is an immense help for those that may come across your same problem in the future so that they can quickly find the right solution. Thank you!\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ASUS) if you have any questions or concerns.*"

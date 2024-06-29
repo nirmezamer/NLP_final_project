@@ -4,73 +4,84 @@
         "score": 28,
         "url": "https://www.reddit.com/r/browsers/comments/1d5esli/browser_recommendation_megathread_june_2024/",
         "content": "There are constantly a zillion, repetitive \"Which browser should I use?\", \"What browser should I use for [insert here]\", \"Which browser should I switch to?\", \"Browser X or Browser Y?\", \"What's your favorite browser?\", \"What do you think about browser X? and \"What browser has feature X?\" posts that are making things a mess here and making it annoying for subscribers to sort through and read other types of posts.\n\n*If* you would like to keep the mess under control a little bit, instead of making a new post for questions like the above, ask in a comment in this thread instead. Then, one can choose to follow this thread if they want.\n\nPrevious Recommendation Megathread: <https://reddit.com/r/browsers/comments/1chcrsl/browser_recommendation_megathread_may_2024/>",
-        "num_comments": 132,
+        "num_comments": 133,
         "comments": [
             "With the upcoming changes in Google Chrome and other Chromium-based browsers, is Firefox the only option to use extensions like uBlock Origin without any problems?",
             "Looking for a good Chromium-based browser with Chrome sync (other than Chrome). I use Chrome on mobile but want something else for my laptop.",
             "I would like to use a browser that is as efficient as, or nearly as efficient as, Safari in terms of power consumption. I alternated between Firefox and Brave, but still couldn't figure out which one is more efficient to use on an Apple Silicon chip. Can you guys recommend a browser to go forward with?",
             "can web browsers steal my data or sell my data? what do google know about me?",
-            "Been using FF almost forever... last 8 years. \n\nI have a decent amount of addons I use all the time. Some for security and privacy, some for convienence. I usually have 3 tabs i use constantly plus 1-2 youtube tabs. Rarely go over 8-10 tab unless researching something.\n\nFirst off, is there an addon to clear ram after xx amount of time?\n\nNext are the other FF alternatives better on ram management and resources? Looking for a faster browser with built in better security so i can off load some addons and make it a bit faster feeling over all.",
             "Looking for a browser that can separate my personal account from my school account. What I like about chrome is that feature but chrome is taking up too much of my CPU which is annoying when you\u2019re taking a timed exam (it only started doing this recently). Now I know opera can have separate workspaces but can you separate profiles like you can in Google (like separate windows for both gmail accounts)? Sorry if someone asked this already or it isn\u2019t making sense.",
             "What's the best browser out there and why is it Baidu Spark Browser?",
             "I've been using Waterfox lately and have been enjoying the experience. I don't need many features and it feels quite minimalistic, and having installed uBlock Origin it is running great. Also, not being based on Chromium is a huge plus.",
             "I switched from Chrome to Opera/Opera GX earlier this year. I've found Opera better. But recently I've learnt about all their privacy scandals and ownership. Should any of the concern me specifically? Is my data/info under risk? I know almost all browsers sell data, but the general distaste of Opera is making me uncomfortable. Purely performance-wise and feature-wise, I do prefer Opera.",
-            "Never understood why Chrome is so popular. Its absolutly horrible if you open tons of tabs at the same time and generally doesnt really offer any benefits above other browsers. Hell, other browsers actually use its technology end still somehow end up with less restrictions and handling things better then Chrome. Its not the age of internet explorer anymore, in comparision to which every other browser could shine, even Edge is actually pretty decent browser now so there is no NEED to install other browser unless you wish some extra features from there - and since its actually is based on Chromium as majority of other browsers, there arent many features that Chrome has and other dont. In last years its actually the around, similar to situation with stock android vs custom UIs that often have features years beyond what google offers."
+            "Never understood why Chrome is so popular. Its absolutly horrible if you open tons of tabs at the same time and generally doesnt really offer any benefits above other browsers. Hell, other browsers actually use its technology end still somehow end up with less restrictions and handling things better then Chrome. Its not the age of internet explorer anymore, in comparision to which every other browser could shine, even Edge is actually pretty decent browser now so there is no NEED to install other browser unless you wish some extra features from there - and since its actually is based on Chromium as majority of other browsers, there arent many features that Chrome has and other dont. In last years its actually the around, similar to situation with stock android vs custom UIs that often have features years beyond what google offers.",
+            "A browser that can have chrome based extensions (idk if this is the right term btw) and can handle opening up a lot of tabs.. Something kinda like Vivaldi (current browser) that has workspaces and doesnt use up all the resources?"
+        ]
+    },
+    "Is it possible for someone to make a clean brave fork?": {
+        "title": "Is it possible for someone to make a clean brave fork?",
+        "score": 18,
+        "url": "https://www.reddit.com/r/browsers/comments/1dr6u6z/is_it_possible_for_someone_to_make_a_clean_brave/",
+        "content": "I like brave but i hate all the web 3 and crypto things and addons they are adding   \nis it possible to create something like ungoogled chromium but for brave? or is it closed source like Edge ? ",
+        "num_comments": 19,
+        "comments": [
+            "Why need a brave fork when you can just ignore it? \ud83d\ude2c \nI don\u2019t like them too, I turned them off and ignored their existence.",
+            "And why someone for free will maintain entire browser fork without any similar crap? It's easy money from stupid people for them.",
+            "theoretically possible, but the only people bothered by any of braves flaws are those incapable of coding anything more advanced than a bat file.",
+            "Yes, brave is open source.",
+            "Just switch to librewolf or ungoogled chromium at that point",
+            "I'd first suggest looking at all the other chromium forks like Thorium",
+            "You can turn it off",
+            "You can turn the crypto functionality off.",
+            "Why not? For the same reason firefox forks exist. You can disable and forget everything in firefox too, but firefox forks exist and have their value.",
+            "The thorium dev is a weirdo tho I'm not trusting him"
+        ]
+    },
+    "Firefox or brave? (mac silicon) ": {
+        "title": "Firefox or brave? (mac silicon) ",
+        "score": 3,
+        "url": "https://www.reddit.com/r/browsers/comments/1dr9ca3/firefox_or_brave_mac_silicon/",
+        "content": "Am using the arc browser rn but it lacks some things like having extensions in the bar and i generally just dont like it. i want an browser that is not too ram hungry for my 16GB mac, and that uses chromium, i heard firefox and brave are good options which one is better? (if you dont like both please recommend another chromium not ram hungry browser) And everybody that says edge is good i used it its trash it uses more ram then chrome and installs ALOT of bloatware.",
+        "num_comments": 2,
+        "comments": [
+            "Brave is pretty good, but it's still Chromium based. I've been switching browsers but still can't really leave Brave. Edge on the other hand imo is just as good as Brave, uses a little more memory than Brave but not that big a difference tbh. If you want absolute optimisation, go Thorium.",
+            "I usually switch between Ungoogled chromium and Floorp.\n\nboth aren't ram hungry but Ungoogled chromium is slightly faster when compared to Floorp and Google products work better in Chromium based browsers.\n\nBut Ublock works best in Firefox forks and Floorp has crazy customization options.\n\nYou can also try Vivaldi if you want :)"
         ]
     },
     "Windows and Mac browser RAM usage comparison for 2024": {
         "title": "Windows and Mac browser RAM usage comparison for 2024",
-        "score": 9,
+        "score": 15,
         "url": "https://www.reddit.com/r/browsers/comments/1dr173a/windows_and_mac_browser_ram_usage_comparison_for/",
         "content": "I done this test because I could not find a recent data set with every browser I use compared together.\n\nThese amounts were found out by visiting the top 10 most visited sites according to Brave Search data:\n\nGoogle.com, Youtube.com, Facebook.com, Amazon.com, Wikipedia.org, Instagram.com, eBay.com, Apple.com, Reddit.com and Yahoo.com\n\nAll websites had accounts signed in and all browsers used either Ublock Origin or the browsers native ad block (Safari used Adguard for Mac) Ad blockers were the only extensions enabled and private mode were turned on for all browsers to ensure the least amount of personal data was shared with the sites.\n\nThere are 2 sets of numbers, and they are categorized by High and Average. High is the max amount of ram found to be used during the testing and average is well the average amount found during testing. Testing time was 4 minutes per site.\n\nNow the numbers:\n\n|Browser|Windows High (MB)|Windows Avg (MB)|Mac High (MB)|Mac Avg (MB)|\n|:-|:-|:-|:-|:-|\n|Chrome|1603|1444|2219|1966|\n|Edge|1703|1437|2328|2048|\n|Brave|1471|1288|1874|1798|\n|Firefox|2308|2143|3239|3077|\n|Vivaldi|1698|1463|2213|1906|\n|Floorp|2439|2125|3681|3414|\n|DuckDuckGo|2497|2327|3827|3513|\n|Arc|1427|1273|1876|1670|\n|Opera|1723|1545|4075|3810|\n|Safari|-|-|2480|2213|\n\n*Note: Safari is exclusive to Mac. Sites were visited at the same time on each browser.*\n\n*Machine for Windows: Surface Laptop 3 with Intel Core i5-1035G7 CPU @ 1.20GHz, 8 GBs of RAM*\n\n*Machine for Mac: MacBook Air Late 2020 with Apple M1, 8 GBs of RAM*",
-        "num_comments": 9,
+        "num_comments": 12,
         "comments": [
             "This shows that Brave is a browser that have a fair ram usage. It is also super fast for its speed, and have decent security and privacy. Built-in adblocker also included.",
-            "Something I'll point out, using Vivaldi on both Windows and MacOS I've seen a major difference with a specific site that I'd assume uses a lot. Google Earth. \n\nMy windows PC has a Ryzen 7 5700X, a Radeon RX 6600XT, and 16 GB of 3200 MHz RAM, and Google Earth still feels like it stutters a lot on there. \n\nOn my Macbook, an M2 Air with the base 8 GB RAM config, no stutters at all. \n\nBoth have Vivaldi, latest update. \n\nAs a bonus round an old HP Elitebook I have, i5 6300U, 16 GB 2400 MHz RAM, running OpenSuse Tumbleweed also has no issues using Google Earth in Vivalid. \n\nNot the most scientific test, but scrolling, going into streetview, etc just feel snappier on anything that isn't Windows",
             "Apple: 8GB RAM iS liKe 16GB iN wInDowS",
-            "But hardly anybody uses iApple iMac iOS iMacOS iSafari iBrowser.  Only a fringe group of religious zealots mostly contained to the US.  So what's the point.",
             "What would've been a more fair comparison is to test with no extensions at all, so just \"out of the box\" experience for each browser, with default settings.",
-            "Arc for MacOS: \ud83e\udd71",
+            "But hardly anybody uses iApple iMac iOS iMacOS iSafari iBrowser.  Only a fringe group of religious zealots mostly contained to the US.  So what's the point.",
+            "What about their controversies? Like replacing ads on websites with their own ads, promoting FTX exchange on the main page, their partnership with another scam crypto exchange called Gemini, or the privacy scandal when they were injecting their own affiliate codes into some crypto exchange urls users visited. \n\nDo people not know about it or not care about it?",
             "I know the default setting for certain browsers is to have an ad blocker. The reason I added the ad blocker to the others is because I figured I would give more of a fair ground to the other browsers that don't have a ad blocker by default because without the ad blocker, the numbers would be significantly higher trying to load all the ads. I felt it would skew browsers with ad blockers to have an even bigger advantage if a advantage is found compared to others without it.",
             "Sure, But it shows a feature that some browsers don't have or enabled by default. Not everyone will install an adblocker either, so their experience won't be anything like this from this report.\n\nAdding extensions or change defaults will skew the results.",
-            "I will try to test without a ad blocker and will update when possible to see the results"
+            "I will try to test without a ad blocker and will update when possible to see the results",
+            "Then don't test browsers that have built-in adblock unless you want something that loads 10% of website vs the rest loading 100% of website.",
+            "well just try with the browser defaults, as if my grandma downloaded each browser, and did nothing else"
         ]
     },
-    "Firefox 128 will allow the main browser content background to be transparent": {
-        "title": "Firefox 128 will allow the main browser content background to be transparent",
-        "score": 4,
-        "url": "https://old.reddit.com/r/FirefoxCSS/comments/1dqws4b/firefox_128_will_allow_the_main_browser_content/",
-        "content": "",
-        "num_comments": 0,
-        "comments": []
-    },
-    "Is there an unmicrosofted edge?": {
-        "title": "Is there an unmicrosofted edge?",
-        "score": 52,
-        "url": "https://www.reddit.com/r/browsers/comments/1dqgxak/is_there_an_unmicrosofted_edge/",
-        "content": "Like the ungoogled chrome",
-        "num_comments": 62,
-        "comments": [
-            "Edge isn't open source.",
-            "No, because unlike chromium it's not open source",
-            "Both edge and chrome are based on chromium. Unmicrosofted edge is just chromium, just like u googled chrome is chromium.",
-            "I only wish there was still a version that could run on older versions of Windows, akin to Supermium.\n\nI also wish Edge still has square tab corners, or at least could revert to its pre-Chromium appearance.",
-            "Your ungoogled Chrome is Chomium... Which is also the Unmicrosofted Edge.",
-            "Edge started out pretty good, but they just keep adding more junk and clutter and even when I turned off some of the \"features\", I got nag screens wanting me to turn them back on. Maybe someone will create a O&O Shutup Microsoft Edge.",
-            "Edge is closed source",
-            "There isn't an unmicrosofted edge, since it is not opensource. Your best bet would be probably applying a microsoft edge theme on a firefox [(something like this)](https://github.com/bmFtZQ/Edge-FrFox) or you can try to find a theme for chromium, although i don't know if that's possible for chromium browsers",
-            "edge is a microsofted ungoogled chromium, so to unmicrosoft edge, you can simply use ungoogled chromium",
-            "I took an overview at Vivaldi, and I think Vivaldi might be it. though, idk is they have any form of an ai assistant at all"
-        ]
-    },
-    "Download resuming": {
-        "title": "Download resuming",
+    "(Discussion) What are your favorite browsers for circumventing censorship?": {
+        "title": "(Discussion) What are your favorite browsers for circumventing censorship?",
         "score": 2,
-        "url": "https://www.reddit.com/r/browsers/comments/1dr2ayx/download_resuming/",
-        "content": "When there's a network issue while downloading, especially huge files, brave supports resuming it once the connection is back. But Edge and Arc on windows don't do, so you have to restart all of it from start.\n\nAlso, fyi brave asks for location of where the file should be downloaded, so I guess it enables it to store the half-downloaded file in that location so we can resume. This doesn't happen on edge.",
-        "num_comments": 1,
+        "url": "https://www.reddit.com/r/browsers/comments/1dr8v70/discussion_what_are_your_favorite_browsers_for/",
+        "content": "I am talking about browsers that are built in with VPN, proxy or TOR.\n\nPersonally I love using TOR browser when browsing to geo restricted websites when VPN subscription is over.\n\nBrave (built in VPN and TOR). I used its VPN but many websites like chatgpt bans it. And used TOR. And its good but not as private the tor browser.\n\nI used Epic Browser (Built in proxy) years ago, but its closed source and have limited customizability to choose any search engine.\n\nOpera Browser is barely function in my country without using external VPN to use the browser normally.\n\nPuffin browser was great for flashplayer content, but was limited due to its subscription model and currently blocked in my country unless you use VPN to use Puffin.\n\nSo what are your thoughts.",
+        "num_comments": 8,
         "comments": [
-            "\"prompt for download location\" or  \"Ask where to save each file before downloading\" is an option in most chrome based browsers including the evil {BECAUSE IT CHANGES MY SETTINGS TO SUIT ITSELF} edge."
+            "Encrypted Client Hello, ProtonVPN and TOR",
+            "Encrypted client hello method only works if you have cloudflare. But it doesn't unlock every non cloudflsre website if i remember",
+            "Assuming that you value your security and privacy at all, there's absolutely no reason to use a Chromium fork by some commercial company when Ungoogled Chromium exists.",
+            "Used Mullvad. Its one of the best. The only issue is wireguard connection issue in my country. But sometimes solved by getting wireguard config and putting in the app of wireguard.",
+            "A lot of major websites ban Tor. Also it's slow. It's not a substitute for a good VPN.\u00a0\n\n\nNo browser maker can afford to provide a good VPN to all its users for free, either.\u00a0\n\n\nBite the bullet and buy a good VPN. If you absolutely can't, use Proton VPN.",
+            "This\n\n  \nI would recommend mullvad for the VPN btw",
+            "For extra security and a fix for that issue I use a different method no one talks about\n\nRun a wireguard server on vercel and connect to that",
+            "Even if TOR is banned in these websites, some of them like torrent websites have onion support.\n\nAnd some of these browsers like Cyberghost, avast, Norton, AVG are closed source chromium with limited support of addons and typically have free trial of a VPN until it became a subscription based.\n\nI already bit the bullet multiple times, and I love Proton plus, windscribe pro, Mullvad and AirVPN and the other open source privacy VPNs as a whole."
         ]
     }
 }

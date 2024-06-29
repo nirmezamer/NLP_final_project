@@ -1,26 +1,26 @@
 {
     "Fedora user communities / networks": {
         "title": "Fedora user communities / networks",
-        "score": 280,
+        "score": 282,
         "url": "https://www.reddit.com/r/Fedora/comments/6qn7og/fedora_user_communities_networks/",
         "content": "For full list of ways how to communicate, visit our [wiki page](https://fedoraproject.org/wiki/Communicating_and_getting_help) on this topic.\n\n### IRC (various clients)\n* [#fedora on Libera.chat](https://libera.chat)\n* [#fedora on Matrix](https://matrix.to/#/#fedora:matrix.org)\n  * You can also use modern client [riot.im](https://about.riot.im/)\n\n### Discord\n* [discord.gg/fedora](https://discord.gg/fedora)\n\n### Telegram\n* https://telegram.me/fedora\n\n### Fedora users mailing list\n* [users@lists.fedoraproject.org](https://admin.fedoraproject.org/mailman/listinfo/users)\n  * (You have to subscribe before sending messages.)\n\n### Forums\n* [Ask Fedora](https://ask.fedoraproject.org)\n* [Fedora Discussion](https://discussion.fedoraproject.org)\n* [fedoraforum.org](https://fedoraforum.org)",
         "num_comments": 21,
         "comments": [
-            "For my KDE brethren out there there's also #fedora-kde! (and several other #fedora-specific channels) ",
-            "There's also http://fedoraforum.org/, which is not officially Fedora affiliated but has been around for a very long time.",
-            "Note that if you use the Hyperkitty web interface to the mailing list, you need a Fedora account but don't need to subscribe to the individual list.",
-            "[deleted]",
             "What\u2019s the most active of all of these nowadays?",
-            "We are the FUC!",
-            "Is anyone aware of any Fedora related Podcasts or long form (20+ minute) Fedora related youtube channels?",
-            "Related this post here: https://www.reddit.com/r/Fedora/comments/6h602e/what_are_important_links_for_fedora_desktop_user/",
             "Keep up the great work",
-            "For anyone wanting to find Fedora discussion on the Fediverse, [We have a fast-growing community on kbin.social](https://kbin.social/m/fedora)."
+            "I'm actually surprised we haven't pulled FedoraForum into the Fedora Project itself by this point...\n\nThough its usage of vBulletin is a bit off-putting...",
+            "I totally forgot about that. Added =)",
+            "I have that but thx",
+            "That's not a community / not a place to simply chat.. o.o",
+            "Hey, thank you very much replying, I think I'm going to make the discussion boards my new homepage! :)",
+            "It's since been deleted, what was the suggestion?",
+            "Best guess from context  is that it was \"Ask Fedora\" but im not sure.",
+            "[deleted]"
         ]
     },
     "Should you wish to contribute to the community as a moderator ~ click here": {
         "title": "Should you wish to contribute to the community as a moderator ~ click here",
-        "score": 195,
+        "score": 196,
         "url": "https://forms.gle/8HhGurypf9LXWGg26",
         "content": "",
         "num_comments": 18,
@@ -32,40 +32,54 @@
             "Interested to help Fedora community!",
             "Excited to be part of the Fedora community as a moderator! Can't wait to help out and contribute to open-source!",
             "Hey man! I also have the same doubt as yours. I really want to contribute to fedora open source but I don't know really where and how to start with",
-            "There's this [https://docs.fedoraproject.org/en-US/project/join/](https://docs.fedoraproject.org/en-US/project/join/) but it's not really detailed. I like KDE's which shows the many ways in which you can contribute directly: https://community.kde.org/Get\\_Involved",
             ">What are the requirements for contributing to open source?\n\nI think you have your wires crossed. This post concerns becoming a moderator on this Subreddit. It has nothing to do with contributing to open source.",
-            "While i don't know the answer for Fedora itself, the apps that run on it often have publically available repositories where they host their source code. If you use any open source application that you might like to contribute to, to maybe fix a specific bug, you can check out the webpage for it to find where they host the code. If you can fix it (well), usually you can read the contributors guide for said software project, and submit your fix to them."
+            "While i don't know the answer for Fedora itself, the apps that run on it often have publically available repositories where they host their source code. If you use any open source application that you might like to contribute to, to maybe fix a specific bug, you can check out the webpage for it to find where they host the code. If you can fix it (well), usually you can read the contributors guide for said software project, and submit your fix to them.",
+            "It was supposed to be a FAS username rather than reddit name. But I guess that we can have both."
+        ]
+    },
+    "Just an average Fedora + Gnome enjoyer": {
+        "title": "Just an average Fedora + Gnome enjoyer",
+        "score": 34,
+        "url": "https://www.reddit.com/gallery/1drb87w",
+        "content": "",
+        "num_comments": 5,
+        "comments": [
+            "I see nothing wrong with liking Gnome, recently tried it and KDE and rebased back to Gnome myself, feels more aesthetically polished to my eyes",
+            "Yup, looks great! My desktop looks very similar! There's an aesthetic simplicity in gnome desktops :D",
+            "I see,you're a Honkai Star Rail player as well.(for those who didn't get it,the character in the wallpaper is Silver Wolf from Honkai Star Rail).",
+            "One thing I think is that KDE would be much nicer if the programs had headerbars, like GNOME. Or they decided to adopt a toolkit, like libadwaita, over there (they have Kirigami, but even that doesn't seem to be unanimous). Mauikit is a good example of \"prettier KDE IMHO\", but it's a side project, not KDE itself... Anyway.",
+            "Yes, for me, everything just felt out of place, and like each window was developed by separate dev with his own view on how design should be. I know people low KDE for its customisability and that new things usually appear there faster (like HDR, VRR, you name it), but it really lacks design language uniformity. But that's Linux in a nutshell, with God level programmers, and lack of any designers"
         ]
     },
     "Why the next GNOME Release will be one of the Best Ever": {
         "title": "Why the next GNOME Release will be one of the Best Ever",
-        "score": 3,
+        "score": 39,
         "url": "/r/gnome/comments/1dr66ud/why_the_next_gnome_release_will_be_one_of_the/",
         "content": "",
-        "num_comments": 0,
-        "comments": []
-    },
-    "Hi recently i started using fedora 40 what's are the features of this distro ": {
-        "title": "Hi recently i started using fedora 40 what's are the features of this distro ",
-        "score": 2,
-        "url": "https://www.reddit.com/r/Fedora/comments/1dr6b45/hi_recently_i_started_using_fedora_40_whats_are/",
-        "content": "Give some resources,ideas ",
-        "num_comments": 2,
-        "comments": [
-            "https://fedoraproject.org\n\nhttp://google.com",
-            "r/yourcommentisuseless"
-        ]
-    },
-    "New to fedora, need some help with Settings and Windows/MacOS-Only-Applications": {
-        "title": "New to fedora, need some help with Settings and Windows/MacOS-Only-Applications",
-        "score": 5,
-        "url": "https://www.reddit.com/r/Fedora/comments/1dr09m7/new_to_fedora_need_some_help_with_settings_and/",
-        "content": "Hey there,\n\nI have recently installed Fedora, since I am looking for an OS that I can replace my windows with. In the past I have tried to replace Windows, but there were always some trade-offs I had to make and I was not willing to do this. Nowadays Linux has progressed very much and it is actually way nicer than the current state Windows is in (im using Windows 10 on my PC and 11 on my laptop). I don't even need to start with the Recall thing, because Windows already was bloated. I mean even if I uninstall the Xbox App it reinstalls itself\n\nI have already experimented with different Linux Derivatives like Debian and Arch, but there was always one thing one distro offered, that the other didn't in it's native state. To be honest, I really liked the do-it-yourself approach on Arch, but for me it is too time consuming.\n\nThat's where Fedora comes into the spotlight: I installed it and most settings were just as I wanted them to be. Hard to explain why, but I like it. But still, I have some questions to ask, because I want to adjust it to my workflow.\n\n**1 Display settings**\n\nI have two monitors, one 4k and one HD monitor. The problem is, that the HD monitor feels overscaled even with 100% and I can't size it down in the settings. On the 4k monitor everything is fine (except for firefox, I had to set the scaling here manually to 1.25, but thats ok). Is there a way to make the scaling of the monitors more native like Windows does? (in Windows this works fine, and I already have enabled fractional scaling, but it still does not seem to do the job).\n\n**2 O365-Suite**\n\nPersonally I like Office365. Yes I know that there are alternatives like LibreOffice & Co. but Word and Excel just feel natural to use for me. I think LibreOffice will also work, but since I am still studying, I have some courses where I will need to do collaborative work on Word/Excel/Powerpoint Documents synced in Onedrive and thats when Office is really powerful.\n\n**3 iTunes & Co.**\n\nI have been using iPhones for ages and therefore there was always a need for iTunes. Nowadays I have to admit that I don't do that much backups anymore locally, but there are a few times, when iTunes comes in handy. I know that there is an older version of iTunes working for Wine and Bottles, but did anyone make it work with a newer version?\n\n**3.1 Apple Music**\n\nI already found a replacement for Apple Music. On Arch I was using [Apple Music Desktop](https://github.com/Alex313031/apple-music-desktop). I was thinking about switching to Cider, but there were not only positive news about the devs. What would you be recommending me to use?\n\n**3.2 Apple TV** \n\nSince I am using Apple TV a lot, I was looking for an equivalent like cider, etc. but I could not find one. I like the Apple TV App for Windows, because I can also watch my movies there, something I can not do with the web version.\n\n**4 Dual Boot or Virtual Machine**\n\nSince I will need some windows software occasionally, I am wondering if I should go with a Dual Boot Solution or a Virtual Machine. Is it possible to run Word, iTunes, etc. straight out of the VM and connect it with my file system? I would love to just let the VM run in the background and link the Work Icon in the Gnome applications tab. (Bottles or Wine do something similar, even if they work a little bit different).\n\nOr would a dual boot be more recommended?\n\nI hope I didn't crush you with this wall of text, but I would really like to switch to Linux permanently. I think I will have a lot more questions in the future, depending how successful my switch attempt will be :)",
         "num_comments": 3,
         "comments": [
-            "You can either use O365 on the web (with limited features), or check out OnlyOffice. It's more compatible with MS Office documents and the UI is very close to MS Office. More so than LibreOffice. \n\nIf OnlyOffice is not good enough, you will have to stick with Windows. There are tutorials to get Windows to run in a Linux VM, but it's not simple, and gets worse with Windows 11. Not like running another Linux distro in a VM, which is super easy. \n\nWindows apps that work perfectly with Wine are mostly quite old, or relatively simple. You probably won't be able to get any modern version of O365 working with Wine or Bottles. I've never seen anyone show off successfully running anything but older versions of the MS Office desktop apps. \n\nSome people who still have to use things like Adobe apps or O365 just can't move to Linux completely. Dual-booting is a pain, but it's probably the only practical option unless you can live with alternatives like OnlyOffice. \n\nOr there's also WPS Office, which is supposed to have the best compatibility with MS Office documents, but it's not really open source. \n\nOnlyOffice is available as a Flatpak from Flathub.org. It's very easy to install and check it out, once you get the Flathub repo set up.",
-            "For office there's this suite called WPS office, kinda bloated but it's basically a copy os MS office, you can get it via flatpak. For virtual machine if you are tech savvy enough you can set up a passthrough, it will get you native performance.",
-            "If you have a powerful PC with a lot of ram there's a way to run a VM that seamlessly operates with the OS\n\nSo like MS Word has an app shortcut, and when you open it it opens MS Word in the VM and passes that part to your screen so it's almost like it's a native app.\n\nI think it's called WinApps"
+            "Ah digital wellbeing, now another thing will remind me of my 12hr+ screen time spent suffering.",
+            "Mr. President, triple buffering has finally hit GNOME",
+            "Yes best"
+        ]
+    },
+    "NVIDIA on Fedora": {
+        "title": "NVIDIA on Fedora",
+        "score": 6,
+        "url": "https://www.reddit.com/r/Fedora/comments/1dr8pxq/nvidia_on_fedora/",
+        "content": "Should I game with NVIDIA on Linux?",
+        "num_comments": 43,
+        "comments": [
+            "depends on what you want to play and your requirements",
+            "Yes, I've been gaming on Linux w/ NVIDIA for years.",
+            "That is what I do.  Been playing Elden Ring DLC on Fedora and it has been great.  Using a GeForce 3060 on X11.  Waiting for the new Nvidia driver to try it on Wayland because when I did before, it was not running well.",
+            "Is this the right time to switch to Linux or should I wait?",
+            "I'm going to ask again, should I switch to Linux now? Yes or no? Please provide an explanation.",
+            "Pop OS is up to date enough and most things work ootb, if on fedora, for a smooth gaming experience you will have to set up nvidia drivers and switch to an x11 session by hand",
+            "All of my games work well. Fedora works well on my PC. I'm just concerned about how well the NVIDIA drivers are.",
+            "Should I switch to Fedora?",
+            "Secure boot is off. I'd like to switch to Linux but I don't know if the drivers are great for me.",
+            "I know and that isn't a problem for me whatsoever."
         ]
     }
 }

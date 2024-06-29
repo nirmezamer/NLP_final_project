@@ -1,0 +1,64 @@
+{
+    "Weekly Thread: Self-Promotion Thread": {
+        "title": "Weekly Thread: Self-Promotion Thread",
+        "score": 2,
+        "url": "https://www.reddit.com/r/farmingsimulator/comments/1dqhyww/weekly_thread_selfpromotion_thread/",
+        "content": "**What is this thread?**\n\nWhile self-promotion is still against the subreddit rules, this is the place for content creators to promote their content and grow with the farming simulator community. This will keep self-promotion separate from the main feed. \n\n**How does it work?**\n\nYou are free to post your Youtube channel, Twitch stream, mods, etc. in the comments of this post. This does **not** mean that you can make these types of posts in the main feed, as they will still be removed. We ask that you use the provided template when posting in this thread. \n\nThe thread will refresh weekly (Friday morning USA time) to ensure that each creator gets equal exposure without being pushed out by larger creators or getting buried in the comments. Please keep in mind that comments made early friday morning will be wiped soon so it would be wise to wait until the new post is made so that your comment is visible for the week. \n\n**Example Template:**\n\n&#x200B;\n\n|Name|Giraffe Sheep|\n|:-|:-|\n|Content Type|Mods|\n|Description|A description of your content or a specific piece of content|\n|Link|A direct link to your content (Note: For mods, only use trusted websites or it might get removed.)|",
+        "num_comments": 1,
+        "comments": [
+            "|Name|Sim Paul Jack|\n|:-|:-|\n|Content Type|You Tube Videos: [https://www.youtube.com/@SimPaulJack](https://www.youtube.com/@SimPaulJack)|\n|Description|FS Challenges and Playthroughs with Timelapses|\n|Current Series 1|Silverrun Start with Chainsaw Only Hardcore Challenge: [https://www.youtube.com/playlist?list=PL4U\\_lFCp1ebmOMCEjbXEXwZwEbWxcSHdR](https://www.youtube.com/playlist?list=PL4U_lFCp1ebmOMCEjbXEXwZwEbWxcSHdR)|\n|Latest Episode|Day 55 - We're back to logging! Stumps are done for now and stones ... are still around  [https://youtu.be/GoNDbNuHd8Q](https://youtu.be/GoNDbNuHd8Q)|\n|Current Series 2|Mars Terraform Challenge: [https://www.youtube.com/playlist?list=PL4U\\_lFCp1ebnILPEWE6cHo4bRYcLXX0ja](https://www.youtube.com/playlist?list=PL4U_lFCp1ebnILPEWE6cHo4bRYcLXX0ja)|\n|Latest Episode|Farmer's Logs 1.01 - 1.06 : I spent 6 months Terraforming Mars SUPERCUT : Year 2, Months 1 - 6! [https://youtu.be/6VnBNlc7LtY](https://youtu.be/6VnBNlc7LtY)|"
+        ]
+    },
+    "Look what I've stumbled in during cycling ": {
+        "title": "Look what I've stumbled in during cycling ",
+        "score": 1174,
+        "url": "https://v.redd.it/8pxzutvyed9d1",
+        "content": "",
+        "num_comments": 104,
+        "comments": [
+            "man they got them money hacks lol",
+            "Seriously dude. After playing fs, I look at these things with a different eye, including the stage of the field.\n\nLast time I was biking I saw a tiny field besides a house with some grass and my first thought was: \"new save, guy just starting now\"",
+            "Wow, and I thought having 4 was overkill",
+            "Looks like my farm in game lol. All I run is Claas and huge American fields.",
+            "Dude got himself a government subsidy sign",
+            "What graphics pack is this",
+            "Me using my neighbors field as a parking lot for my equipment \ud83e\udd2d",
+            "Bro edited save file money irl",
+            "What a sight!!  Good find!!",
+            "Looks like klutch setting up for a live stream lol"
+        ]
+    },
+    "I want one...": {
+        "title": "I want one...",
+        "score": 22,
+        "url": "https://www.reddit.com/gallery/1drcig0",
+        "content": "Nice find on a recent trip to Europe. ",
+        "num_comments": 5,
+        "comments": [
+            "I have one (in farming ofc)",
+            "Porshe diesel junior 108 It costs like 2 bucks",
+            "Oh yeah I saw that and I thought there is a free one. I dont wanna pay for mods so I wont use this :/",
+            "My favourite tractor!\n\n\nI'd HIGHLY recommend the excellent \"Porsche Senior Prototype\" mod to anyone looking for an equally beautiful tractor, but a bit bigger and with more horsepower. The modder did an excellent job recreating a prototype they saw at a fair, and it acts as a perfect next-step in-game after the Porsche Junior.\u00a0",
+            "Which mod?"
+        ]
+    },
+    "why does my game run smoothly until i move my camera?": {
+        "title": "why does my game run smoothly until i move my camera?",
+        "score": 19,
+        "url": "https://www.reddit.com/r/farmingsimulator/comments/1dr7eyq/why_does_my_game_run_smoothly_until_i_move_my/",
+        "content": "https://reddit.com/link/1dr7eyq/video/5r5njwjfch9d1/player\n\nlook ",
+        "num_comments": 35,
+        "comments": [
+            "Looks like shader install or rendering lod. The engine gets cpu bottlenecked easily even without high single thread usage. \n\nRender distance makes this issue a lot worse.",
+            "The game engine is not that great",
+            "Mine does after I've played another game , until it's cache sorts its self out then it's fine no matter what",
+            "Any errors in the game log?",
+            "Do you have a console?   It runs fine on an Xbox or ps",
+            "Search YouTube for fs22 stutter fix or fs22 shaders or something. You need to force your game to build shaders correctly, it's bugged in fs22. I did build follow instructions of video, I had to do it multiple times untill game build them correctly but stutters and low fps got fixed right away.",
+            "Then whydoes this only happen in fs22?",
+            "Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz",
+            "Haven't played another game since 20 of june",
+            "Because not every game is the same. This might only be an issues your pc has when running the Giants game engine,"
+        ]
+    }
+}

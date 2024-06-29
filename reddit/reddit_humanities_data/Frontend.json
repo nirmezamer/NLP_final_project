@@ -1,0 +1,66 @@
+{
+    "I Created utils-kit: A Collection of Reusable, Dependency-Free TypeScript Utilities": {
+        "title": "I Created utils-kit: A Collection of Reusable, Dependency-Free TypeScript Utilities",
+        "score": 3,
+        "url": "https://www.reddit.com/r/Frontend/comments/1dr8dqj/i_created_utilskit_a_collection_of_reusable/",
+        "content": "I\u2019ve always tried to keep my projects light on dependencies. So I created\u00a0`utils-kit`, a collection of reusable, dependency-free TypeScript utilities that I use regularly in my projects. It includes utilities such as\u00a0`clsx`,\u00a0`cryptr`,\u00a0`deepEqual`, and more.( I will keep adding new utilities)\n\nTo make it even easier, I developed a CLI that allows you to quickly add these utilities to any new project.\n\nCheck it out on -\u00a0[Github](https://github.com/Saifurrahmanemon/utils-kit).\n\nI would love to hear your feedback and feel free to contribute!",
+        "num_comments": 0,
+        "comments": []
+    },
+    "Should I create a Component to define a layout for bigScreen and another one for Small Screen? Or should I only use css responsive?": {
+        "title": "Should I create a Component to define a layout for bigScreen and another one for Small Screen? Or should I only use css responsive?",
+        "score": 4,
+        "url": "https://www.reddit.com/r/Frontend/comments/1dr365g/should_i_create_a_component_to_define_a_layout/",
+        "content": "Hi! I've been doing frontend for two years now and I always had this question but don't know how people do it in a \"Profesional\" environment.\n\nSo Imagine you have a design for Mobile and Desktop, small and big screen, and they are very different and with multiple \"complex\" components, like, it's just not a simple text. This is the design I've done:\n\nhttps://preview.redd.it/vam9u3kxvf9d1.png?width=1148&format=png&auto=webp&s=77752f3a036caab305d9f7b1326f8cb6dee88875\n\nIn this case, going for one to another would require multiple things to happen.  \nThe bottom slider selection should appear on mobile, the map and table sections will never be on screen at the same time.\n\nSo is it common to create something like...\n\n<DesktopDesign/>\n\n<MobileDesign/>\n\nComponents, or this is a bad practice? It makes creating the layout much easier, I can make independently responsive each component, like the map, the header, the table and bottom buttons, and then in each component I would organize the layout as I want. It looks so much easier, but for some reason, something inside me thinks, that this is a bad practice.\n\nEdit:  \nI will explain a little more about the components i talked previously.\n\nFor example  \nDesktopDesign:  \nIs an easy flexbox or grid, with two columns, one for data and the other for the map Daata.  \nInside the Data one, there is the header, the table, and the bottom  \nInside the Map Data, its a flex-column with the map and the address information.\n\nIn MobileDesign  \nit will be a flew row.  \nWith the Header Data  \nThen the body will change depending on the selected page on the bottom buttons  \nAnd then the Bottom Buttons.\n\nThis way feels much easier to understand than using only css and in this case, i think JS should be used to render what i want to do.  \nWith this two layouts i will just show one or the other depending on screen size. Inside them I will use the same components for all the small parts on each layout so I don't have to maintain two separate pages. And i would only have to move components order or add new ones, and it would work perfectly",
+        "num_comments": 20,
+        "comments": [
+            "In my experience - almost every layout can be built as one structure.A",
+            "What you're describing is: \"adaptive vs responsive\". Adaptive is using different code (components or even application) for different device classes. Responsive is when the same one responds using media queries.\n\nI prefer responsive. Write for mobile first and then expand to larger device sizes.",
+            "Responsive is the way to go",
+            "You should go with the css approach, in particular if you want SEO to be optimized",
+            "Media queries be like : Am I a joke to you ?",
+            "Depends on how different the experience is. \n\nIf it's really a different experience, id go with a different component. If it's fairly similar just make it responsive",
+            "I\u2019m ofter struggling to make it happen with navigation",
+            "Exactly. The only component I write twice for mobile and desktop is navigation.",
+            "You can kind of do most things with media queries - specify different grid layouts for different screens. \n\nOr you can think of having the same element twice and using *display: hidden* on one instance, and not the other. This may sound hacky, but repeating one thing in your code instead of loading another component with most things repeated can be a solurion too.",
+            "Damn, I loved last fm when I was a teen a decade ago, but then kinda stopped using it it as I didn\u2019t have time in college/work. Are you guys working literally for last.fm, or doing it for fun, or wanting to compete with them?"
+        ]
+    },
+    "Cube Slider Animation with GSAP and JavaScript": {
+        "title": "Cube Slider Animation with GSAP and JavaScript",
+        "score": 4,
+        "url": "https://wannabedev.io/tutorials/cube-slider-animation-with-gsap-and-javascript",
+        "content": "",
+        "num_comments": 1,
+        "comments": [
+            "That's pretty slick."
+        ]
+    },
+    "Minimal Frontend Timeline Component with Clean Animations?": {
+        "title": "Minimal Frontend Timeline Component with Clean Animations?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/Frontend/comments/1dqqnno/minimal_frontend_timeline_component_with_clean/",
+        "content": "I have a specific image in my head for how I would like a timeline component to look in this website I am building. I was wondering if you guys had any suggestions for a timeline that is similar to what I have described above? Should gel well with a UI built with shadcn. Something similar to this: [https://codemyui.com/slide-in-and-out-timeline-animation/](https://codemyui.com/slide-in-and-out-timeline-animation/) . ",
+        "num_comments": 0,
+        "comments": []
+    },
+    "Need ideas for side project?": {
+        "title": "Need ideas for side project?",
+        "score": 7,
+        "url": "https://www.reddit.com/r/Frontend/comments/1dqcx7h/need_ideas_for_side_project/",
+        "content": "I'd like ideas for simple project that don't require heavy business logic , or perhaps a plan on how to figure out what it is I \"should\" do. I have no strategy and do not even know where or how to begin.\u00a0",
+        "num_comments": 14,
+        "comments": [
+            "If you're thinking just front end, no logic, try and design a landing page for a local business that doesn't have a website",
+            "Make an extension for your favorite editor that will help you in some way.\n\nThe best side projects are those that actually solve something.",
+            "What's the objective: purely for learning? Or you're looking to build something to monetize?",
+            "Build your dream personal website.",
+            "i have a stream of ideas in my head but have no energy to make them. wanna hook up?",
+            "For more compleq project, you can scrap and display temperature during the day on your location. There is some sites, which provides data. So simple db and api, you can make graphs, watch for trends etc\u2026",
+            "Frontend Mentor is great for this. You see what the design is supposed to look like and then you go build it. They have a ton of different projects ranging from simple projects that only use HTML and CSS to projects that involve those plus JS and api calls.",
+            "A really cool crud app with useful features",
+            "That\u2019s crazy because I also hate my bank\u2019s app and want better insights into my expenses. How does your app access your bank expenses?",
+            "I download the expenses as a tab-separated file and upload it to my app through the user interface. I looked into getting an API connection, but that's a lengthy process so I opted not to go for that route"
+        ]
+    }
+}

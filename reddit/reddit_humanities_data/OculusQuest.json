@@ -1,97 +1,96 @@
 {
-    "Bi-Weekly Questions Megathread": {
-        "title": "Bi-Weekly Questions Megathread",
-        "score": 30,
-        "url": "https://www.reddit.com/r/OculusQuest/comments/1bmtdq8/biweekly_questions_megathread/",
-        "content": "# Bi-Weekly Questions Megathread\n\nWelcome to the Bi-Weekly r/OculusQuest Community Q&A megathread!\n(Yes, we're still tweaking things :) )\n\n# Getting Started with Quest 3\n\n* **Charge**: Plug in your Quest to charge, so after everything is ready, you have plenty of battery!\n* **Account Creation**: Make your Meta account if you haven't already on the Mobile app.\n- **Game Gift Cards:** Meta has gift cards available at different retailers, depending on region.\n\n## Things to Avoid in VR\n\n* **Guardian**: Ensure you set your guardian in a spacious area with nothing to hit. Give a buffer for safety.\n* **Sunlight**: Protect the lenses from direct sunlight. It can damage the display.\n* **Sickness**: If you feel nauseated, take breaks. Pushing through might make things worse.\n* **Cleaning**: Use only microfiber cloths for the lenses, and avoid cleaning liquids. I use Koala Cloths, which you can [find here](https://www.amazon.com/Koala-Microfiber-Cleaning-Eyeglass-Computer/dp/B06X9V866C)\n\n## Game Recommendations for Quest (Standalone)\n\nCheck out [Gibby's Guide](https://gibbysguide.org/content/gibbysguidev24_lores.pdf)\n\n## Other Things to Do with Your Quest\n\n* **Other Stores**: Check out games on [Sidequest](https://sidequestvr.com/setup-howto) or [App Lab](https://www.applabdb.com/).\n* **Exploration**: Join friends on [Wooorld](https://www.oculus.com/experiences/quest/4360608937312293).\n* **Watching**: Enjoy 3D Movies on [Bigscreen](https://www.oculus.com/experiences/quest/2497738113633933/).\n* **Productivity**: Use Quest for work with apps like [Workrooms](https://www.oculus.com/experiences/quest/2514011888645651) or [Virtual Desktop](https://www.oculus.com/experiences/quest/2017050365004772).\n* **PCVR**: Play PC VR games if you have a [VR Ready PC](https://support.oculus.com/articles/headsets-and-accessories/oculus-link/oculus-link-compatibility/).\n* **Improved Standalone Experiences**: Check out [Quest Games Optimizer](https://anagan79.itch.io/quest-games-optimizer). Be aware this does require Developer mode.\n\n## Playing PCVR with Quest\n\n* **Wired**: Use Oculus Link with a USB 3.0 cable.\n* **Wireless**: Play wirelessly using [Air Link](https://support.oculus.com/airlink/), [Steam Link](https://www.meta.com/en-gb/experiences/5841245619310585/), [Virtual Desktop](https://www.oculus.com/experiences/quest/2017050365004772/), or [ALVR](https://github.com/alvr-org/ALVR).\n\n## Referrals\n\n* We currently advise to use [Meta-Dog](https://meta-dog.github.io/meta-dog/) as we don't allow referrals to be posted here.\nYou can learn more about the referral system meta provides [here](https://www.meta.com/legal/quest/app-referrals/).\n\n## Coming from a Quest 2?\n\n**Common Questions:**\n\n* **Will my Games work on Quest 3?**\nAny existing Quest 1 or 2 games will work fine, for PCVR most titles work perfectly out of the box.\n\n* **Why is my Quest 3 charging slowly?**\nThe stock charger that comes with the Quest 3 is a fairly low power charger, using another PD Charger 20w or above can help with charging speeds.\n\n* **What are some common problems with PCVR using Link on Quest 3 and how can I fix them?**\nCommon issues seen in our community are related to wireless issues, make sure you have a wired connection to a 5ghz or 6ghz router for best performance.\n\n* **How can I remove free apps from my library?**\nAt this time, Meta has not made this possible.\n\n* **Is there a way to increase the field of view (FOV) on the Quest 3, or make it more comfortable?**\nMake sure your fitment is right, you can find a guide [here](https://www.meta.com/en-gb/help/quest/articles/getting-started/getting-started-with-quest-3/adjust-fit-feel-quest-3/)\n\n* **How can I buy games on a discount for the Quest 3?**\nYou can wait for sales, get an app referral from a friend, or use Meta Dog for referrals.",
-        "num_comments": 253,
-        "comments": [
-            "So I got a quest 3 yesterday and it's my first VR experience, I must say I am very blown away.\n\nSome of the most amazing things are 360 3D videos, it's amazing, almost like being there...\n\nMy question is, does anybody have good recommendations for 360 3D youtube channels?",
-            "Am I inept or is the glasses spacer on the Quest 3 just that shit? \n\nI've been using my brand new Quest 3 for about a week or two, with the glasses spacer adjustment set to max that whole time.   \nLo and behold here I am staring at a deep goddamn scratch on my right lense, regardless of glasses spacer. \n\nI am bloody furious.",
-            "I saw reports of factory reset breaking the quest 2 a month ago. Is the issue fixed? I wanted to give my device to a friend but the fear of breaking the device stops me.",
-            "I own a quest 2 and use it with my gaming PC with AirLink over 5ghz to play steam games.\n\nI haven't used it since Alyx came out and I'm trying to get back into it, I was wondering if people could tell me about all the other ways of gaming on my PC with the headset and controllers or steering wheel. The FAQ says Virtual Desktops ($30, most features built into airlink?) and ALVR which I haven't looked into much.\n\n\nI Feel going Quest OS > Quest Link > Steam VR is a few steps that might be reducing performance (not really noticing it, just an annoying amount of loading screens before I can play a game)\n\nAlso any recommendations for experiences would be nice, I'm mostly playing things like driving games when in VR and have heard the original assetto corsa modded is one of the best experiences however I come from the age of modding Halflife and would be interested in seeing what kind of cutting edge experiments people have made available over polished but boring games.\nWhat's the VR equivalent of goku flying around de_rats?",
-            "I turned on DLNA media streaming in my windows PC to use with DeoVR. It works great. But I have a question about it: Does turning DLNA on but not currently using it take up resource (network, ram, cpu) of the PC? Does it keep running in the PC?\n\nThank you.",
-            "Anyone else's Quest 2 bricked by the Factory Reset/App bug? Anyone have a fix? I'm losing my mind",
-            "What is the best game for torturing people available? Blade&Sorcery is very cool but it's a bit old and there might be something better at this point.",
-            "Is there an app to download for reading digital books? Seems like an odd request, I know. But I like the idea of doing it hands-free.",
-            "Recently took the plunge and have enjoyed my time so far with the Quest 2 massively. Was wondering if there were games similar in style to GTA? Crime, gunplay and driving, etc.\n\nAdditionally, what accessories can I buy that are considered must-have? A new strap is definitely on the books, but is there anything else i should be considering? Thanks.",
-            "sure this has been asked a lot but is the quest 2 worth it or should i save a bit more for the quest 3? it\u2019s around \u00a3200, and i\u2019ve been wanting to get into VR for a while now. also js it any good for pcvr as that is probably something i\u2019d be using it for the most, though not exclusively"
-        ]
-    },
-    "Discounted Games Megathread": {
-        "title": "Discounted Games Megathread",
-        "score": 165,
-        "url": "https://www.reddit.com/r/OculusQuest/comments/1djg6wt/discounted_games_megathread/",
-        "content": "Hi everyone! In the past week we've had a tonne of games go 90% off with a code, so to avoid having to copy and paste it every time I wanted to put them all together. If you find a new one feel free to comment it below and I'll add it in. Also if a code doesn't work anymore I'll scratch it.\n\n90% off Flight 74:\n https://www.oculus.com/experiences/app/4939588089476517/?utm_source=oculus&utm_medium=share\n\nFLY90-C69323 \n\n\n~~90% off Max Mustard:~~\n https://www.oculus.com/experiences/app/5269080709783454/?utm_source=oculus&utm_medium=share\n\n~~R90-96EE80~~ (Expired)\n\n\n~~90% off Zombieland Headshot Fever:~~\n https://www.oculus.com/experiences/app/2792447070854325/?utm_source=oculus&utm_medium=share\n\n~~ZL90-D6423B~~ (Expired)\n\n\n 90% OFF Sushi Ben! \n https://www.oculus.com/experiences/app/5459391390744272/?utm_source=oculus&utm_medium=share\n\nSUSHI-BDE2EF\n\n\nMyFlowerReality 50% off\n https://www.oculus.com/experiences/app/7074660262660252/?utm_source=oculus&utm_medium=share\n\nFLOWERPOWER-E2AD2C\n\n\nZero Glide 50% off\n https://www.oculus.com/experiences/app/24213276848270678/?utm_source=oculus&utm_medium=share\n\nAQUA-436B33\n\n\nDance Dash 50% off\n https://www.oculus.com/experiences/app/6539528912840791/?utm_source=oculus&utm_medium=share\n\nWEFUNDER5-1CEC08\n\n\nHide The Corpse 50% off\n https://www.oculus.com/experiences/app/8714253315313680/?utm_source=oculus&utm_medium=share\n\nHTCEA150-0835F9\n\n\nProgrammer VR 50% off\n https://www.oculus.com/experiences/app/4987737161326497/?utm_source=oculus&utm_medium=share\n\nSUMMER-3B9F1A\n\n\n~~Tetris Effect: Connected 40% off (Valid til 20th June)~~\n https://www.oculus.com/experiences/app/3386618894743567/?utm_source=oculus&utm_medium=share\n\n~~TETRIS40-E1F685~~ Expired\n\n\nGrokit 80% off\n https://www.oculus.com/experiences/app/3388893331234972/?utm_source=oculus&utm_medium=share\n\nGROKIT-1FD314\n\n\nDeath Horizon reloaded\n https://www.oculus.com/experiences/app/2115015981923610/?utm_source=oculus&utm_medium=share\n\nDH90-1F2B90\n\nSky Climb 90% off https://www.oculus.com/experiences/app/6439300372853604/\n\nSKYCLIMB90-851899\n\n\nCrazy Kung Fu\n https://www.oculus.com/experiences/app/3846153838783795/?utm_source=oculus&utm_medium=share\n\nCKF90-4A62D5\n\nStilt\n [https://www.meta.com/en-gb/experiences/5632444056884139](https://www.meta.com/en-gb/experiences/5632444056884139)  \n\nSTILT90-598B98\n\nTowers and Powers\n [https://www.meta.com/en-gb/experiences/3535742746525560](https://www.meta.com/en-gb/experiences/3535742746525560)  \n\nTOWERSNPOWERS90-598B98\n\nCaver Digger 2\n [https://www.meta.com/en-gb/experiences/cave-digger-2-dig-harder/4687168774709280/](https://www.meta.com/en-gb/experiences/cave-digger-2-dig-harder/4687168774709280/)  \n\nCD2_90-598B98\n\nNEW CODES (for everyone checking in every 6 hours \ud83d\ude09)\n\n69% off VAIL VR \n https://www.oculus.com/experiences/app/6625826934127580/?utm_source=oculus&utm_medium=share\n\nCITADEL1POINT2-885E84\n\n45% off Block Buster https://www.meta.com/en-gb/experiences/4310142359062337/\n\nBUSTER-95D1D1\n",
-        "num_comments": 119,
-        "comments": [
-            "I bought Max Mustard, Zombieland Headshot Fever, and Death Horizon Reloaded. Absolutely loving Max mustard. It is a must buy.",
-            "who else is checking this thread hourly?",
-            "Max Mustard is the spiritual successor to PSVR1's absolute banger Astrobot. Highly recommended.",
-            "Sky Climb has one too for 90%!\nFind the game here:   https://www.oculus.com/experiences/app/6439300372853604/\nCode: SKYCLIMB90-851899",
-            "The Flight 74 game is pretty much always discounted and does not really belong on this list.",
-            "Crazy Kung Fu is 90% off\n\nWork out game.\n\nCode: CKF90-4A62D5",
-            "https://preview.redd.it/nfe08tgd0m7d1.jpeg?width=1439&format=pjpg&auto=webp&s=089458d11a0408dd7f0dfa9e697c3ecf49051b77\n\nSKYCLIMB90-851899",
-            "New codes:\n\nStilt: [https://www.meta.com/en-gb/experiences/5632444056884139](https://www.meta.com/en-gb/experiences/5632444056884139)  \nCode: STILT90-598B98\n\nTowers and Powers: [https://www.meta.com/en-gb/experiences/3535742746525560](https://www.meta.com/en-gb/experiences/3535742746525560)  \nCode: TOWERSNPOWERS90-598B98\n\nCaver Digger 2: [https://www.meta.com/en-gb/experiences/cave-digger-2-dig-harder/4687168774709280/](https://www.meta.com/en-gb/experiences/cave-digger-2-dig-harder/4687168774709280/)  \nCode: CD2\\_90-598B98",
-            "For any1 interested in Vail for 69% off use code\nCITADEL1POINT2-885E84\n\nShould be \u00a322.99/$29.99\nNow \u00a37.13/$10.26\n\nGlad I stumbled a cross this as nearly paid full price for it.",
-            "I wouldn't bother with Death Horizon, the production values are pretty crappy and it's a generic zombie shooter.  The sound design is horrible.  I paid $2 and I still feel like I got ripped off.  Really, it's only value is if you and 1 friend are extremely desperate for a game to play together."
-        ]
-    },
-    "Big warning to you guys.. If you buy games, you need to see this.": {
-        "title": "Big warning to you guys.. If you buy games, you need to see this.",
-        "score": 206,
-        "url": "https://www.reddit.com/r/OculusQuest/comments/1dlkf8t/big_warning_to_you_guys_if_you_buy_games_you_need/",
-        "content": "For those of you that know me pretty good on here, I'm not one that usually makes my own posts, I usually just reply on other peoples posts... But this is a special occasion.  I know a lot of us have been buying some of these \"greatly reduced in price\" games, but here is a bit of a heads up.   Over the past month I have bought probably 10+ games where I have to key in a promo code.. Then it reduces the price, the amount is deducted from my Quest Cash and its a done deal.\n\nHOWEVER... On 4 of my purchases they have done the following.. Take Mannequin for example.  Normally $20.. I bought it for half off.. So they took $10 from my Quest Cash.. Then they charged the rest to my Discover Platinum card.   One game .. Max Mustard, we all bought for $3 right?  Well they charged my Discover card $27.\n\nI rarely look at my credit card statements, but I happened to be looking for something entirely unrelated and then went down this rabbit hole.\n\nTL:DR ... Check to make sure they didn't charge you full price for some of these recent offers that involve entering a promo code.\n\nBefore anyone asks, yes I made sure the code was applied at checkout.  I'm in the US.  Its ONLY the ones where you manually have to type a code.  Not only is it on my credit card statement, if you go to your purchase history in the app, it shows it plain as day.   Max Mustard $3.00 Quest Cash  $27.00 Discover ending in ####.. Total price $30.00\n\nYes I've contacted support.  Yes most of my game purchases were fine.  Even the emailed receipts show the money being only removed from my Quest Cash and the rest is the discount amount.  But its sure in my purchase history and credit card bill.\n\nSo, heads up.. Been buying games for years and never had an issue.  I wouldn't have ever even noticed this.\n\nEDIT-  I do not blame any of the devs for this, but since a LOT of us bought Max Mustard, I reached out to the dev to make him aware.  Some of us were charged full price, some of us it just looks like we paid full price, and some had no issues at all.  \n\nEdit 2.. Its not just games you had to enter a promo code for.. I just saw that I got charged the same way with both Contractors Showdown and Stride Fates.  Those were on just a normal sale I think..  Edit to this edit.. Stride Fates I bought in March, and Contractors Showdown I got in May.  How long has this been a thing?\n\nLuckily, most people seem to just have the weird shit showing up on their meta stuff, but were not charged.  But some, like me, have been.   I will keep updating as I hear things.  This wasn't to start a panic, or cause people to grab their pitchforks.. Its just a \"heads up\" to my Quest peeps!",
-        "num_comments": 110,
-        "comments": [
-            "Just looked at the purchase history within the app and it also says that I've purchased Max Mustard for $35 CAD instead of the $3.50 CAD. Thanks for the heads up.",
-            "You had me check. All of my recent 90% games were fine except for Max Mustard. That one shows the full price charged to my card for $29.99 on the purchase history on the Meta app only. I just checked my bank account as I got that earlier in the month and I was only charged the $3.00 for it. All the others were fine as well. You have me a little paranoid now though because all the other games only show their correct discount price. But not max mustard, it showed full price in the meta app but charged me like normal for the $3. Weird",
-            "I think you might be right. I just checked my history and it\u2019s charged for 30 dollars for Max Mustard. I used the code, and it was definitely 3 dollars. I\u2019ve got to look into it further.",
-            "So far for me on PayPal are 3 transaction of meta, all matching the final low price of 2 or 3 dollars per game.\n\nMy bank statements for my card also reflects that so I'm OK.\n\nHowever thanks for this post, with meta you never really know.",
-            "~~You know what, I wonder if this issue happens with other promotions. Back when they were offering an extra 25% off for a bundle of 3 games, I got charged more than expected. I thought that it was just because I miscalculated, but maybe there is some fine print here...yeah I got charged full price for Max Mustard as well. I have no idea why this is happening~~\n\n~~Edit: Apparently I got charged the full price for a game I used a referral code on??? Man this is actually really bothering me now~~\n\nEdit 2: So looking through my actual PayPal statement, the extra charge that appears in my Meta purchase history is not actually there. It appears to be some artifact of the meta platform, and I have not actually been charged full price for Max Mustard. I don't know why it did that for Max Mustard but not the other games...",
-            "Max mustard shows Meta Cash + PayPal in my purchase history, but it doesn't show anything purchased on that day or of that amount in my PayPal history.\nFor now no issues except that it shows up weird on the meta app, i hope it stays that way.",
-            "Mine was ok",
-            "It\u2019s likely a bug for Max Mustard in the Quest Store purchase history. I checked PayPal and it shows $3, but my purchase history on the Quest Store showed $29.99. Just got off chat with support and they confirmed that I wasn\u2019t charged the full amount even though the purchase history showed otherwise.",
-            "I haven't given them my credit card information yet but thanks for the heads up. I think I will just buy the meta gift cards instead from a store or something.",
-            "Oh my god you're right. 3 games 90% off no worries, but Max Mustard full price. Checked my PayPal and it shows the discounted amount though, maybe it's something with Quest Cash? Thanks for the heads up though, I'll be a lot more careful in the future."
-        ]
-    },
-    "Quest3 supersampled @ 3584x3755 is INSANE": {
-        "title": "Quest3 supersampled @ 3584x3755 is INSANE",
-        "score": 46,
-        "url": "https://www.reddit.com/gallery/1dlptu1",
-        "content": "This isn't PC VR. This is Quest3 native BRINK Traveler supersampled using QGO to the max. I couldn't belive my eyes how clear and life-like it is. I took a through the lens pics with my phone. And it looks better in the headset. INSANE.",
-        "num_comments": 13,
-        "comments": [
-            "Brink is VERY good super sampled. Possibly the best example?  Not sure why they didn't release like that to begin with. It performs so well. They could have sold 2x the copies easily.",
-            "Why don\u2019t the Brink developers enable this in the app, so everyone can have this quality, without QGO?",
-            "Looks good, I haven't got that SkyrimVR mod yet.",
-            "How is the frame rate w the resolution set that high?",
-            "How does resolution work when Quest 3 has displays basically at 2k x 2k and then u got this example of well over 3k. Obviously it doesn't add more physical pixels to see? I'm probably missing some software magic that happens",
-            "My Apple vision pro doesn\u2019t look this clear. If I didn\u2019t already experience the quest 3 as well the avp, it\u2019s so misleading on the actual quality and kind of hurtful to the industry. Sets too high of an expectation",
-            "So it still performs ok, in terms of frame rate, even with these adjustments?",
-            "because these photos are not showing the current framerate...\n\nI doubt the app is going to maintain 90fps at that res!",
-            "Because it comes at a cost.",
-            "What goes qgo mean, new to vr and q3 here."
-        ]
-    },
-    "The v66 update is out now, old passthrough vs new passthrough warping": {
-        "title": "The v66 update is out now, old passthrough vs new passthrough warping",
-        "score": 715,
-        "url": "https://v.redd.it/kznubfq91y7d1",
+    "Just saw in their discord that Chess Club VR is 90% off this weekend": {
+        "title": "Just saw in their discord that Chess Club VR is 90% off this weekend",
+        "score": 52,
+        "url": "https://i.redd.it/cgkx1u3z6h9d1.jpeg",
         "content": "",
-        "num_comments": 104,
+        "num_comments": 12,
         "comments": [
-            "Great improvement. Thanks for sharing the comparison, mate!",
-            "Still haven't received it yet, despite having upgraded to v66 and being in the PTC and everything. I think Meta is doing A/B testing with this where some users won't get it unless they decide to bundle it into a future version.",
-            "I\u2019ve had v66 for a few weeks (PTC) and still don\u2019t see the improvement you show here\u2026",
-            "You write here all the time that every 3 versions have to get an update, which we know, but you don't tell us which version number you have.\n\n\n\nHere is my version\n\n\n\nVersion : 66.0.0.730.370.612007662\n\n\n\nRuntime : 66.0.0.730.370.612006357\n\n\n\nVersion OS\n\nSQ3A.220605.009.A1\n\n  \nPlease write your version number of all 3, then we know that we did not get everything. I also have the V66 but it lacks features like better passthrough",
-            "Maybe it depends on the room lighting, but I still see warping on v66.",
-            "My version and runtime are both v66. OS version is \"sq3a.220605.009.a1\" whatever that means, and warping is still pretty bad. If Meta is really rolling this warping fix out via a secret mini update to select random random users, then that's really dumb. Just let everyone who paid for the product enjoy the update at the same time.",
-            "I just got v66 and remember thinking 'what was it again they changed in this update?'\n\nLovely improvement ... like being healthy, not something one notices actively when it's there... :)",
-            "While the warping (especially) along depth discontinuities is impressively reduced, it also shows the - sadly inevitable - tradeoff: the perspective error is significantly higher at close range. \n\nAnd to be honest, at least for me it makes close-range interaction like reading your phone feel...off.",
-            "So the V66 will track fist pumping better in real time? You know, when I have my headset on and I'm using them shake weights + kleenex?",
-            "Anyone here that uses a Quest3 with a halo strap and no facial interface, in order to get peripheral vision with their passthrough?  I'm intrigued I want to try it but I don't know if its worth it."
+            "This makes the most sense. It\u2019s the best chess app in my opinion but has no player base so I just play with AI or friends. Hoping for a huge influx! \n\nThe animated chess pieces are great with kids but best for me is just normal mode in the garden setting. It\u2019s really nice.",
+            "I don't know how to play Chess and don't have time to learn. So obviously I bought it. \ud83e\udd21",
+            "It's because today is the third anniversary of this game. They're also releasing a new Mixed Reality update on July 20th - which is the International Chess Day.",
+            "That one has been on my list for the longest time, thank you!",
+            "This is getting out of hand",
+            "Wow, wonderful. Thanks very much!",
+            "Worked for me. Thanks a lot",
+            "Not usually a chess fan, but I bought it earlier today. I found myself playing a lot of these 90% of games. Really great tactic!",
+            "Yeah theyre not promoting this offer though. Only in their dc.\n\nWhat they need is an Integration with chesscom or lichess",
+            "If you'd like to play Chess in VR against real people, I can also recommend VRChat. Even if this weird (but wonderful) place isn't usually your cup of tea, they have a pretty big community of well-mannered chess players. These chess instances are usually pretty strictly moderated and trolls are being dealt with quickly."
+        ]
+    },
+    "Netflix app discontinued.": {
+        "title": "Netflix app discontinued.",
+        "score": 637,
+        "url": "https://i.redd.it/8j4bievuvc9d1.jpeg",
+        "content": "",
+        "num_comments": 206,
+        "comments": [
+            "It was a piece of shit anyways.",
+            "At this point I'm fine with this. Meta should enable a theater mode in the browser for streaming apps, and make sure the browser has broad compatibility with all of them. Shouldn't be too hard. They just need to prioritize it.",
+            "Apparently I'm the only one that liked my little ski chalet lol",
+            "Lol I literally just saw an article on my feed that boasted the Netflix app was a gamechanger for Quest.  I can't say I completely blame them.  People can watch stuff via the browser and the experience is pretty good.  Just no immersion.",
+            "It's sad they never bothered to make an updated version worthy of the Quest 3. Netflix used to be everywhere back in the days. If a toaster was released with a screen they would make an app for it. An now they don't bother anymore even on popular devices like the Quest 3.",
+            "it was bobbins anyway, the browser version is waaaaaaaaaaaaaaaaaay better",
+            "Good. It was trash. Who wants to see a pixelated ass couch and lo res garbage.",
+            "They could have simply made a new VR app, it REALLY wouldn't have been that hard... At least the browser integration is better then what we had.",
+            "Way better with Big Screen or Virtual Desktop anyway.",
+            "Plex + Skybox is the way to go anyway."
+        ]
+    },
+    "What\u2019s the closest game to hotline miami?": {
+        "title": "What\u2019s the closest game to hotline miami?",
+        "score": 15,
+        "url": "https://i.redd.it/o1oh6vuoeh9d1.jpeg",
+        "content": "",
+        "num_comments": 9,
+        "comments": [
+            "There is the Hitman: Contracts mod for half life alyx",
+            "Looks like the game has been delisted from the store and is no longer available.",
+            "oh shoot, I had no idea, edited my post, thanks for the heads up",
+            "Compound vr",
+            "Hotline Miami 2",
+            "Bonelab tac trials",
+            "Paint the Town Red VR\n\n[https://www.meta.com/experiences/6649145245141828/](https://www.meta.com/experiences/6649145245141828/)",
+            "~~Bang Bang Slice - honestly try it, it's a free game but it's super well made and is a shitton of fun!~~\n\n~~https://www.oculus.com/deeplink/?action=view&path=/app/5080044995455253&ref=oculus_desktop~~\n\nEDIT: game is delisted, sorry had no idea, when I'm logged in it still says \"install on device\" probably because I had it on my account when it was available",
+            "Dude ! \u2026. [OTXO](https://youtu.be/9rF8pdlKs3E?si=8EBwm3Nv8e7oyoPv)"
+        ]
+    },
+    "Quest 3 Low Light Handtracking Performance": {
+        "title": "Quest 3 Low Light Handtracking Performance",
+        "score": 60,
+        "url": "https://v.redd.it/c3kpzo3vxe9d1",
+        "content": "for anyone wondering how it performs in dim light conditions. only light \u0131 got was my screen and backlights for it. People usually don't like the handtracking performance but I am pretty happy about it, they really made it better over time. \n",
+        "num_comments": 10,
+        "comments": [
+            "Not trying to invalidate your experience, but typically my issue with hand tracking is the accuracy when pointing the cursor at something specific and trying to click on it. It's a cool test you've made there, but I had absolutely no trouble believing that it handles swinging your hands wildly for no reason pretty well. I'm more curious how it performs in low-light conditions when I'm actually trying to accomplish something that requires precision.",
+            "I was not having as much luck with mine in low light, is this v66 or v67 (I was on v66)",
+            "I usually play with just a black light on at night when everyone is sleeping. I did this from the beginning when I was running v60 I never had issues with tracking playing FPS games, or with tracking when watching stuff.",
+            "0:17 That hand movement tickled something in my brain",
+            "I'm usually using an infrared projector and I can play in full dark.",
+            "Yeah my only actual complaint is when I try to go somewhere and drag a window with me it usually falls out of my pinched hand. But I didn't try it on v67 maybe it got better.",
+            "You're not really showing off its capacities that well here, but whenever I used hand tracking low light or not, it's always rather janky. When people use it headset for the first time, it never works well enough for them and always have to revert back to the controllers.",
+            "v67 but  it was same before on v66 too or even before it.",
+            "Ok, might be time to clean my camera/sensor glass \ud83d\ude00",
+            "Wow. Just wow."
+        ]
+    },
+    "Scene Destruction Effects Quest 3 (FPS Enhanced Reality) coming soon": {
+        "title": "Scene Destruction Effects Quest 3 (FPS Enhanced Reality) coming soon",
+        "score": 106,
+        "url": "https://v.redd.it/zg9xeo5efd9d1",
+        "content": "FPS Enhanced Reality is out on Applab. Footage is from the update coming soon. ",
+        "num_comments": 11,
+        "comments": [
+            "Reminds me of that desktop destroyer from late 90s or early 2000s.\n\nPut down the termites and then shoot them.",
+            "Omg add local playspace multiplayer and this game would pop off so hard",
+            "added to Wishlist , will buy it once i top up my account",
+            "You guys are pioneers of Quest 2/3 MR fx. Kudos!",
+            "I've been playing the Quest3 version lately but it really needs to use the saved rooms like Drop Dead The Cabin uses which is the best implementation I've seen in mixed reality by far. The shooting and handling works great but without the room setup it's not very playable.",
+            "What game is this for? \ud83d\udc40",
+            "Why is my student playing VR at school?",
+            "The game named (FPS Enhanced Reality)",
+            "Looks great!",
+            "Haha, that looks fun!"
         ]
     }
 }

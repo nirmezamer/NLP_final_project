@@ -1,91 +1,82 @@
 {
     "Monthly Dotfile Review Thread": {
         "title": "Monthly Dotfile Review Thread",
-        "score": 30,
+        "score": 32,
         "url": "https://www.reddit.com/r/neovim/comments/1csdtfx/monthly_dotfile_review_thread/",
         "content": "If you want your dotfiles reviewed, post a link to your Neovim configuration as a top comment.\n\nEveryone else can read through the configurations and comment suggestions, ask questions, compliment, etc.\n\n&#x200B;\n\nAs always, please be civil. Constructive criticism is encouraged, but insulting will not be tolerated.",
-        "num_comments": 85,
+        "num_comments": 95,
         "comments": [
             "I see people posting their neovim configuration repositories and not mentioning what aspects of the configuration they expect review in. Some ask generic questions like \"what can I do better\" and some don't ask anything. Without knowing what you want help in, no one can help you, and without knowing what your preferences are and how you are as a person, no one can answer generic questions like what can I do better. So this is a request to everyone for being specific in what they want reviewed in their configuration.",
-            "My first share [https://github.com/jjaimealeman/nvim](https://github.com/jjaimealeman/nvim)\n\nIn the past have used Lunar, Astro, Lazy and so many others. They all gave me ideas on HOW I wanted it to function and look.\n\nThe Lazyvim starter by Folke is where I drew the most inspiration from. I started with Kickstart and drew inspiration from Josean Martinez.\n\nThis is also my first time setting up all my own keymaps, filling out whichkey labels, and I think I got a MUCH better understanding of how buffers, windows, and tabs work. If yall go digging through my keymaps, they may not make sense to you, but as it's my understanding of a personal config, well, it works for me :)\n\nANNND I dipped my toes into using tmux regularly. SUCH a better workflow!\n\n\n\nIf yall have any ideas for improvement, please let me know.",
-            "[https://github.com/haunt98/dotfiles/blob/main/data/nvim/init.lua](https://github.com/haunt98/dotfiles/blob/main/data/nvim/init.lua)\n\n  \nPlease review! I just looking for some helpful guide, thank you!",
-            "Here's my current setup for OSX, which I use as an ML Engineer: [https://github.com/hendrikmi/dotfiles](https://github.com/hendrikmi/dotfiles)\n\nThese are the key components:\n\n* **Editor**:\u00a0[NeoVim](https://neovim.io/). As a fallback, I have a basic standard\u00a0[Vim](https://www.vim.org/)\u00a0config that provides 80% of the functionality of my NeoVim setup without any dependencies for maximum portability and stability.\n* **Multiplexer**:\u00a0[Tmux](https://github.com/tmux/tmux/wiki)\n* **Main Terminal**:\u00a0[WezTerm](https://wezfurlong.org/wezterm/index.html)\n* **Shell Prompt**:\u00a0[Starship](https://starship.rs/)\n* **Color Theme**: All themes are based on the\u00a0[Nord color palette](https://www.nordtheme.com/docs/colors-and-palettes). Themes can be easily switched via environment variables set in\u00a0`.zshenv`.\n* **Window Management**:\u00a0[Rectangle](https://github.com/rxhanson/Rectangle)\u00a0for resizing windows, paired with\u00a0[Karabiner-Elements](https://karabiner-elements.pqrs.org/)\u00a0for switching between applications.\n* **File Manager**:\u00a0[Ranger](https://github.com/ranger/ranger)\n\nI set everything up via custom scripts (located in `/scripts`) and symlinks (explained [here](https://github.com/hendrikmi/dotfiles?tab=readme-ov-file#adding-new-dotfiles-and-software)), which has limitations. For example, I noticed that Karabiner sometimes overwrites my symlink with its config file. Are there better ways to do it?\n\nDemo image: [https://raw.githubusercontent.com/hendrikmi/dotfiles/main/img/nvim-demo.png](https://raw.githubusercontent.com/hendrikmi/dotfiles/main/img/nvim-demo.png)\n\nFeel free to roast :)",
-            "This is my configuration: [https://github.com/TheMasshiro/neovim-config](https://github.com/TheMasshiro/neovim-config)\n\nSo, for background, I'm a college student who prefers Neovim because the internet said so, so I've been using it for 4-5 months now. First, I used NvChad but didn't like it due to my old laptop, and now I use Primeagen configuration and convert it to Lazy plugin manager. The experience so far is excellent, but I might be misconfiguring it. And I'm learning Lua to configure my Neovim experience.\n\nI need suggestions or recommendations, like configuration structures, because it might affect the efficiency of Neovim, especially since I'm using an old laptop (T430). Or alternative plugins, which could be better than the ones I have. And I plan to remove some plugins that I don't or don't often use.\n\n**TLDR**: I'm a college student who switched from VSCode to Neovim. I've had a great experience, but I need advice on proper configuration, especially optimizing performance on an old laptop.",
-            "[https://github.com/oschrenk/dotfiles/tree/master/home/private\\_dot\\_config/nvim](https://github.com/oschrenk/dotfiles/tree/master/home/private_dot_config/nvim)\n\n\\* I need to do some spring cleaning and delete some plugins I'm not using  \n\\* still looking for a comprehensive way to install lsps\n\n\\* still looking for a better way to organize keymaps (with possibly a plugin that can give me an overview)",
-            "[https://github.com/bhuvneshuchiha/.config/tree/main/nvim](https://github.com/bhuvneshuchiha/.config/tree/main/nvim)\n\nI want to see if things are well set up for java, cpp and python. Also I want the lualine to be replaced by the classic VIM bottom line where we were able to see :w, :q -INSERT-, -NORMAL-, etc. I dont like the fancy lualine.\n\nCan someone please help?\n\n  \n[https://ibb.co/KsFbxS6](https://ibb.co/KsFbxS6)\n\n  \nI dont want the blue background NORMAL sort of bottom line. I want to have the old VIM basic line.",
-            "[https://github.com/jorgejhms/nvim](https://github.com/jorgejhms/nvim)\n\nFirst time sharing here. It's a mini based config (using mini.deps). I would like to receive some ideas and suggestions.\n\nComments are mostly on Spanish btw.",
-            "Here is mine as it currently stands. 8 plugins, approx 750 lines (of neovim related stuff), aiming to get it down to about 600 (including a custom theme). Use it every day for work on various frontend projects.\n\n\nhttps://github.com/alunturner/.dotfiles/tree/main/nvim/.config/nvim\n\n\n\nLonger term aim is to add some ansible in there so that I have some sort of easy setup method for a new device.",
-            "[https://github.com/MidHunterX/NvME](https://github.com/MidHunterX/NvME)  \nAs the name suggests, here's my Nv config made for me. Started the configuration journey by following Primeagen's Zero to LSP tutorial. Had an amazing learning experience about how IDE's work behind the scenes. Criticisms are welcome."
+            "How to disable LSP inlay hints?",
+            "You shouldn\u2019t have images in your repo. Extra bloat for no good reason. There\u2019s ways to make it so that GitHub hosts the photos for you.",
+            "Its really amazing if you're intentionally being able to keep your config slim. I'd still recommend breaking it into files for better organization.",
+            "Hi! I think you're doing a good job. You can put all the plugin definitions in the \"plugin\" directory, and try lazy-loading more plugins that aren't important on startup.",
+            "to help with performance at loading, first you can check `:Lazy profile`, and also you can make more plugins lazy. For example you don't need undotree at startup, so you can add `cmd = { \"UndotreeShow\", \"UndotreeToggle\" }` in the lazy declaration so that the plugin is only loaded when you run one of these commands.\nLazy does a similar thing with the `keys` and `events` fields.",
+            "Looks great, clean setup \ud83d\udc4c\ud83c\udffb",
+            "You have gitsigns in gitsigns.lua and in source-control.lua both. Also, I'm being pedantic and it really doesnt matter, but, you should not use such insert mode mappings. Especially to move around in insert mode.",
+            "why? if there's a solid reason I could do that too",
+            "Hi! I believe that inlay hints are enabled in the lsp capabilities configuration, try searching for that."
         ]
     },
     "Weekly 101 Questions Thread": {
         "title": "Weekly 101 Questions Thread",
-        "score": 8,
-        "url": "https://www.reddit.com/r/neovim/comments/1dijkdc/weekly_101_questions_thread/",
+        "score": 5,
+        "url": "https://www.reddit.com/r/neovim/comments/1dnyxby/weekly_101_questions_thread/",
         "content": "A thread to ask anything related to Neovim. No matter how small it may be.\n\nLet's help each other and be kind.",
-        "num_comments": 15,
+        "num_comments": 34,
         "comments": [
-            "How can I remap the new nvim 0.10 builtin gcc shortcut to a different one? In my init.lua, I've put:\n\n`vim.keymap.set('n', '<leader>cc', 'gcc', { noremap = true, silent = false })`\n\nBut this doesn't work. This is weird, because if instead of \\`'gcc'\\`, I write \\`'j'\\`, it does goes down by one line. Moreover, when I manually type gcc, comment toggle does happen. What might go wrong?",
-            "Sometimes, when debugging or setting wrong options on plugins, Neovim spams a lot of errors to the point where it's even difficult to close the editor. Is there a way to stop the flow without smashing `<c-q>` (my remap)?",
-            " \\*nvim\\_chan\\_send()\\* to terminal How to stop word wrapping",
-            "I have an annoying \"bug\" where the command-line CMP completions are appending to the existing text, instead of replacing it.\n\nThis means that when I type something like `:e lua/plugins/` it will complete it as `:e lua/plugins/lua/plugins/lsp.lua` instead of `:e lua/plugins/lsp.lua`\n\nI'm using the command line cmp configuration like the documentation shows, so nothing fancy.\n\n      cmp.setup.cmdline(\":\", {\n        mapping = cmp.mapping.preset.cmdline(),\n        sources = cmp.config.sources({\n          { name = \"path\" },\n        }, {\n          {\n            name = \"cmdline_history\",\n            option = { treat_trailing_slash = false }\n          },\n          { name = \"cmdline\" },\n        }),\n      })\n\nAny suggestions on how to fix this or where to look?\n\nhttps://preview.redd.it/kqc375oyxc7d1.png?width=697&format=png&auto=webp&s=5338b2ab2acd9fadbbcab67f2c96f4715569598b",
-            "Hi!\n\nNot really about neovim but here goes - Im having trouble debugging c++ code with nvim-dap (codelldb)\n\nMy configuration works fine atm, can step through code, set brake point's etc...\n\nThe problem is debugging GUI apps. For example, I made a simple program that opens a glfw window and loops until esc is pressed.\n\nWhen debugging, if i focus on the (glfw) widow and press esc, nothing happens when stepping through code, the event isnt polled or registered and code continues to draw and loop...\n\nHow can I achieve the desired effect - the program registering the key press and stepping into the if(keypressed) loop and terminating?\n\nI tried setting a conditional break point to trigger when glfwWindowShouldClose() would be true etc. but nothing worked.\n\nThank you for all the insight and help!",
-            "Some commands can generate a lot of output (for example `:=vim.fn.getbufinfo()` when you have many buffers open). Is there an easier way to navigate through the result? The default implementation is a bit cluttered.",
-            "Greetings everyone,\n\nI'm trying to create a neovim plugin that performs adapative theme switching (based on the system's color-scheme preference (\"`prefer-dark`\", \"`default`\")). I'm using dbus to listen to system color-scheme changes. My issue arises from my need of running the listener constantly, so naturally I tried to run it from within a thread (`libuv`). However, I was not able to mutate the value of `vim.o.background` from within a thread. It seems like its not exposed to threads. Is there any way I can achieve this? Is using a thread in this context inappropriate? what would be the alternative? If it is the correct approach, how can I communicate to neovim the need of changing the `vim.o.background` variable?\n\nEDIT: I know this can be done using RPC (I was doing it before as part of my config scripts), but I would like to find another solution that can be shipped as a plugin\n\nEDIT 2: I found a solution by using new\\_async (to create a callback that would change vim.o.background, but I needed to wrap using \\`vim.schedule\\_wrap\\`) then calling it from my uv thread using \\`send\\_async\\`",
-            "pretty sure you need `noremap = false` because gcc's not a vim builtin keymap (i.e. it isn't directly running native compiled C source code), it's from a neovim default script (i.e. it executes interpreted vimscript/lua scripts)\n\n(also noremap = true is default for vim.keymap.set)",
-            "That's because it's not exactly a builtin, but a remap:\u00a0https://github.com/gpanders/neovim/blob/7c2e52ad34a1aa035f17595b00d496ab50f67089/runtime/lua/vim/_defaults.lua#L141 You can copy the keymap and change the lhs.",
-            "Set the wrap option to false. Something like `vim.opt_local.wrap = false` in the terminal."
+            "Could someone give me an example on how I could configure keybind plugins with lazy.nvim using their LazyKeysSpec?",
+            "How do you _select_ comment block? I am aware of `gc` motion.",
+            "How do you jump to the next \"object\"? Imagine number of declarations where some take one line and others take multiple. Any efficient navigation tips?",
+            "What does the `conceal` actually do in `nvim_buf_set_extmark()`?",
+            "I recently migrated from my old vim setup to a newer neovim setup with a bunch of modern plugins. I started using Telescope, but I really miss my old fzf. With that, I could press CTRL + G and instantly do fuzzy search across both file paths+ text of each line of every file in my repo. I could basically jump to any line with just a vague memory of where it was stored in a repo and what its content was. \n\nIs there a way to do that in Telescope? I may just have to use fzf-lua, but I enjoy having fewer plugins and more extendable plugins like Telescope.",
+            "gc is not a motion, but an operation AND a textobject. As is a textobject, it means you can do `dgc` to delete or `vgc` to visually select the comment.",
+            "You could look into treesitter objects and see if something custom can be made.",
+            "The suggested way is certainly the easiest but not the most accurate. If you really want to target specific parts of the export expression your best bet would be to use treesitter.",
+            "It sets the character that replaces the concealed segment. Set it to an empty string, and the segment is fully hidden. \n\nRegardless of the string you set it to, simply setting the conceal option also triggers that the segment will be concealed",
+            "The reset can take in an option to reset only a specific namespace ( the field is probably called ns) so if you can figure out a way to determine the namespace you want to reset you can avoid having to reload all the lsp diagnostics"
         ]
     },
-    "How to achieve this in lualine.nvim": {
-        "title": "How to achieve this in lualine.nvim",
-        "score": 15,
-        "url": "https://www.reddit.com/r/neovim/comments/1dlrgnd/how_to_achieve_this_in_lualinenvim/",
-        "content": "https://preview.redd.it/i2ofg1ty738d1.png?width=600&format=png&auto=webp&s=1f931083127f2c2251b0cbf112860954db400ccc\n\nHow can I achieve that pink horizontal line effect at the bottom with lualine.nvim?",
-        "num_comments": 12,
+    "Testing your Neovim plugins with busted and lazy.minit": {
+        "title": "Testing your Neovim plugins with busted and lazy.minit",
+        "score": 44,
+        "url": "https://www.reddit.com/r/neovim/comments/1dr5152/testing_your_neovim_plugins_with_busted_and/",
+        "content": "Since **lazy.nvim** now suports `luarocks`, I've started moving all my tests to use [busted](https://lunarmodules.github.io/busted/) instead of [plenary.nvim](https://github.com/nvim-lua/plenary.nvim).\n\n\nI must say that I really love the clean output produced by busted.\n\n\nI've also added `lazy.minit` (Minit: Minimal Init), to make it even easier to bootstrap **lazy.nvim**, create repros, and run tests with **busted**.\n\n\nCheckout the docs at https://lazy.folke.io/developers#minit-minimal-init\n\n\nThere's no need to fiddle with lua's package path and you don't even need a `.busted` file (but you can). **lazy.nvim** will ensure all needed plugins / modules are available at runtime.\n\n\n[This](https://github.com/LazyVim/LazyVim/blob/main/tests/busted.lua) is how I use it for running **LazyVim** tests.\n\n\n---\n\nAlternatively, you can also run **busted** without **lazy.nvim**. See this [blog post](https://mrcjkb.dev/posts/2023-06-06-luarocks-test.html) (not mine) for more details.",
+        "num_comments": 5,
         "comments": [
-            "Hello,\n\nYou just need to set `fillchars`:\n\n    vim.opt.fillchars = {\n        stl = \"\u2500\",\n        stlnc = \"\u2500\",\n    }\n\nTo change the highlight, you need to set the normal and inactive theme of lualine, like so:\n\n    local default_theme = { fg = \"#FF0000\", bg = \"None\" }\n    lualine.setup({\n        options = {\n            theme = {\n                normal = {\n                    c = default_theme,\n                    x = default_theme,\n                    -- ... and all the sections you use\n                },\n                inactive = {\n                     c = default_theme,\n                     x = default_theme,  \n                     -- ... and all the sections you use \n                },\n            },\n        },\n    })",
-            "Please remember to update the post flair to `Need Help|Solved` when you got the answer you were looking for.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/neovim) if you have any questions or concerns.*",
-            "Do you know the width of the other components in the statusline? Or have some way to access the text they show?\n\n> Or you could make a single component that creates the entire statuscolumn(in that case you might as well stop using statusline plugins).",
-            "hi OP do you know what `59` is? it isnt line number ig",
-            "That's what I'm searching for! Thank you so much.",
-            "I currently can't think of any way to access the width of other lualine component, but it might be possible if I build the whole statusline from scratch.",
-            "I\u2019m not sure but I think it\u2019s buffer number. I saw this screenshot in the [readme of tint.nvim](https://github.com/levouh/tint.nvim)",
-            "No problem ! Have fun with your config!",
-            "Yeah, building it from scratch might be your only option(since you can't really dynamically get the width of the component(s) after the separator itself).\n\nYou should probably look at the functions that you use in your statuscolumn to see where they get their text from.",
-            "cant be because he is opening splits containing the same number 59"
+            "Hmmm... 'lazy.MINIt', you say? I guess I'll need a team of layers for trademark infringement case filing straight to Hague.",
+            "Thanks for this! I actually copied your test setup from ts-comment just yesterday for my plugin, which really helped me along. This seems even simpler. Great work!",
+            "what is luarocks good for?",
+            "You can still do `mini.t` :)",
+            "Not sure if having another layer of abstraction around busted is required. I'd prefer to have just the config file and interact with busted directly, or like luarocks test command as I've done here:\n[adopure.nvim](https://github.com/Willem-J-an/adopure.nvim)\n\nThen again, this will probably only work if the dependencies are available on luarocks, which is arguably a good thing if you're going to depend on something \ud83d\ude05"
         ]
     },
-    "Finally decided to dual boot linux, now enjoying <50ms load times, down from >500ms": {
-        "title": "Finally decided to dual boot linux, now enjoying <50ms load times, down from >500ms",
-        "score": 273,
-        "url": "https://i.redd.it/gsuu4e0o9x7d1.png",
+    "How can I move between snippet location by tab ?": {
+        "title": "How can I move between snippet location by tab ?",
+        "score": 9,
+        "url": "https://i.redd.it/l2z4indx5g9d1.png",
         "content": "",
-        "num_comments": 72,
-        "comments": [
-            "Not enough. We'll wait for \"Finally decided to single boot (Arch) Linux\". (/s)",
-            "Welcome to the rabbit hole, hope u enjoy your stay.",
-            "Load time is pretty much identical between WSL2 and Linux (I use both)",
-            "Nice! Which OS did it start up faster on? /jk",
-            "I like neovim as much as the next person here but I love how a legitimate argument for dual boot can loosely be translated as \u201cI hate having to wait 1-2 seconds every time I open neovim, so instead I dual boot and have to restart my entire machine every time I want to open a windows-specific app\u201d.",
-            "My nvim config in windows 11 has same startup time, ~40ms",
-            "Looking great, but sorry is this a Vim joke i am too Emacs too understand? Why do you guys care that much about startup time? And why constantly closing and opening the editor for every file you visit and having to exhaustively type file paths? \ud83d\ude02",
-            "Why are so many people complaining about \u201cwhy did you bother to dual boot to shave off a few ms\u201d? OP wanted to optimize and I\u2019m sure learned some new/interesting stuff along the way. If it\u2019s not for you, fine, but don\u2019t bitch about what someone else wants to do to change their own workflow.",
-            "I'll never understand you mad lads trying to shave off ms of time instead of doing something productive. 1 second startup is fine. It's like a weird competition of \"who can waste their time more\".",
-            "Can I have the wallpaper?!"
-        ]
-    },
-    "Fzf-Lua's Grep + Fuzzy search combo is a superpower": {
-        "title": "Fzf-Lua's Grep + Fuzzy search combo is a superpower",
-        "score": 37,
-        "url": "https://www.reddit.com/r/neovim/comments/1dlfu4o/fzfluas_grep_fuzzy_search_combo_is_a_superpower/",
-        "content": "Being able to grep across an entire project is one thing, but then being able to fuzzy find over the results feels like a superpower. Fzf-Lua let's you fuzzy find the results of a grep by simply pressing ctrl-g. This is even more powerful when you consider the fact that the fuzzy search: a) includes file paths, allowing you to filter the results to a specific directory and b) lets you *exclude* some results by using the `!` opator, which also works on the file paths and can be used to prune out multiple directories.\n\nThis combo, specifically grep + fzf, and being able to seamlessly switch between them just by pressing ctrl-g, has saved me so much time and energy. Even working in a very large codebase, I can still get a list of exactly what I need in a matter of seconds, and in such a satisfying way.\n\nIt feels like an essential searching mechanism that every editor should have. I know a lot of editors have a grep search, and they usually have a fuzzy finder for file searching too, but none that I know of facilitate the combination of both. Particularly in such an elegant way, within a single, unified, easily accessible view.\n\nI really appreciate this plugin and u/iBhagwan for the great work. ",
         "num_comments": 4,
         "comments": [
-            "Ty for the kinds words <3\n\nThe feature you\u2019re talking about is one of my favorites and most used, it\u2019s even turbo charged when you use `live_grep_glob` (or set `rg_glob=true`)  and then search for a regex limited to specific files, I.e `foo.*bar -- *.lua !*spec*` which means search for a line that has both foo AND bar inside lua files excluding spec files (tests), then I ctrl-g to fuzzy for the fine tuning.",
-            "For me, this is also the main advantage (neo)vim has over other editors. You can just integrate and combine existing unix tools, instead of re-inventing every feature over and over again.",
-            "The best plug-in ever!",
-            "I used to use that grep and fuzzy workflow a lot, but after discovering telescope-egrepfy, I seldom use fuzzy search. Because when you type \u201clo e\u201d it will be turned to \u201clo.*e\u201d and hit \u201clocal some_e\u201d. This is faster and result list is far less than fuzzy search.Kinda of a fzf syntax grep, really love it."
+            "If you mean no plugin, then I don't know.",
+            "Thank you, it's work",
+            "Any pure lua alternative?",
+            "https://github.com/boydaihungst/.config/blob/2734ed2799f42cec7ba2169e7f28e51f835a1681/lvim/lua/user/plugins/cmp.lua#L11\n\n\nhttps://github.com/LunarVim/LunarVim/blob/85ccca97acfea9a465e354e18bb2f6109ba417f8/lua/lvim/core/cmp.lua#L4\n\nThis is what I modified from LunarVim's configuration. It also fixed an issue with vim-visual-multi"
+        ]
+    },
+    "Result of command in quickfix list": {
+        "title": "Result of command in quickfix list",
+        "score": 3,
+        "url": "https://www.reddit.com/r/neovim/comments/1dr8tzi/result_of_command_in_quickfix_list/",
+        "content": "I have command in package.json that runs \u201ctsc\u201d to find all ts issues through the project. I wonder if that  possible to run this command with bang \u201c:!\u201d and send output to quickfix list ?",
+        "num_comments": 6,
+        "comments": [
+            "Look up `:h makeprg`, `:h errorformat`. Running `:make` will run `makeprg` and the resulting errors will be loaded into the quickfix list as long as they match `errorformat`.\n\nYou can set `makeprg` to whatever you want.",
+            "Please remember to update the post flair to `Need Help|Solved` when you got the answer you were looking for.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/neovim) if you have any questions or concerns.*",
+            "Also worth mentioning that vim ships a compiler plugin for `tsc` (see `:help compiler`), which sets both `makeprg` and `errorformat` for you. Simply put `compiler tsc` in `after/ftplugin/typescript.vim`.",
+            "This gist was written for vim, but all these basics still work in neovim too: https://gist.github.com/romainl/ce55ce6fdc1659c5fbc0f4224fd6ad29.",
+            "Help pages for:\n\n* [`makeprg`](https://neovim.io/doc/user/options.html#%27makeprg%27) in _options.txt_\n* [`errorformat`](https://neovim.io/doc/user/quickfix.html#errorformat) in _quickfix.txt_\n\n\n---\n\n^\\`:\\(h|help\\)&nbsp;<query>\\`&nbsp;| [^(about)](https://github.com/heraldofsolace/VimHelpBot) ^(|) [^(mistake?)](https://github.com/heraldofsolace/VimHelpBot/issues/new/choose) ^(|) [^(donate)](https://liberapay.com/heraldofsolace/donate) ^(|) ^Reply&nbsp;'rescan'&nbsp;to&nbsp;check&nbsp;the&nbsp;comment&nbsp;again ^(|) ^Reply&nbsp;'stop'&nbsp;to&nbsp;stop&nbsp;getting&nbsp;replies&nbsp;to&nbsp;your&nbsp;comments",
+            "Help pages for:\n\n* [`compiler`](https://neovim.io/doc/user/quickfix.html#%3Acompiler) in _quickfix.txt_\n\n\n---\n\n^\\`:\\(h|help\\)&nbsp;<query>\\`&nbsp;| [^(about)](https://github.com/heraldofsolace/VimHelpBot) ^(|) [^(mistake?)](https://github.com/heraldofsolace/VimHelpBot/issues/new/choose) ^(|) [^(donate)](https://liberapay.com/heraldofsolace/donate) ^(|) ^Reply&nbsp;'rescan'&nbsp;to&nbsp;check&nbsp;the&nbsp;comment&nbsp;again ^(|) ^Reply&nbsp;'stop'&nbsp;to&nbsp;stop&nbsp;getting&nbsp;replies&nbsp;to&nbsp;your&nbsp;comments"
         ]
     }
 }

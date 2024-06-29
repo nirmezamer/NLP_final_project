@@ -1,80 +1,87 @@
 {
-    "r/GamingLaptops Discord Server Status Update, June 2024": {
-        "title": "r/GamingLaptops Discord Server Status Update, June 2024",
-        "score": 8,
-        "url": "https://www.reddit.com/r/GamingLaptops/comments/1dfzq9m/rgaminglaptops_discord_server_status_update_june/",
-        "content": "Howdy r/GamingLaptops community,\n\nI'm excited to announce that we're working hard on launching our official Discord server! The release date is expected to be later this month or early July. However, if unforeseen circumstances arise, there might be a slight delay. Rest assured, the server will be coming extremely soon its just a matter of bot & server related structuring.\n\nOur goal is to create a beneficial and streamlined server for all users. We're experimenting with our own bot, Buzz, adding innovative functionalities, and ensuring the community has a say in the direction we take. Toxic meming culture will be discouraged; we focus on activity, knowledge, good sportsmanship, and fostering great community attributes.\n\nThere will be no paid roles or donation links or focused financial incentives. We value genuine engagement, activity, and contribution. However, we may only add supporter roles in the future if we achieve the goals set.\n\nIf you have questions ask them in the comments!\n\nThank you for your patience!\n\nBest, Melm",
-        "num_comments": 5,
-        "comments": [
-            "And yes, I know we've told you before that our server is releasing soon \\*cough months ago. However, real-life stuff happens out of nowhere so you can't plan everything precisely.",
-            "Excellent to see, better to refine the server than set dates in stone and rush things.",
-            "Great news!",
-            "NICE!! :D"
-        ]
-    },
-    "Got a brand new laptop, should I charge it to 100% or drain it first? HELP": {
-        "title": "Got a brand new laptop, should I charge it to 100% or drain it first? HELP",
-        "score": 27,
-        "url": "https://i.redd.it/oghj0gnrq38d1.jpeg",
-        "content": "It's my first laptop (G14 2024), I've read around the internet a bunch of tips on how to handle laptop batteries on its first boot up...\n\nNow I'm confused! Should I drain it 'til it shuts down or charge it to 100% at least once then limit next charges to 85 to 90% and never let it drain?\n\nThank you everyone!",
-        "num_comments": 25,
-        "comments": [
-            "That\u2019s an old myth.",
-            "New laptops have battery management programs that help you get the most out of your battery. The most common settings will be 80% charging while running of wall power. There\u2019s a lot of old information about batteries that come from the days when batteries had nickel in them and would develop problems due to battery memory. The new lithium polymer batteries don\u2019t have the same issues.",
-            "Oh no. You should do neither. Only let it charge to 100% when you\u2019re going out\n\nLet me explain: when the battery is perfectly balanced at 50%. Between two sides, both sides are perfectly content at staying that way. But let\u2019s say it\u2019s at 0% or 100%. Then you risk battery damage because the charge on one side is significantly higher than the other. Hence  one side desperately wants to move to the other side. And the other side desperately wants to gain some from the higher charge side.\n\n(Sorry for any mistakes I made, it\u2019s been a while since I\u2019ve done any explaining on this)\n\nSo. The best charge at all times is a perfect 50%. 50% full. Or 50% empty. Plus since you\u2019re always gonna keep it plugged it when gaming, It\u2019s going to continually be taking in power. So go to your control center and set the battery cap to 50%. And only too 100% when you go out.",
-            "Using the MyASUS app limit the charge to 80%\n\nOr use GHelper and set it to 70% thats while on use. If you are gaming while it\u2019s charging it\u2019s better to limit the charge to avoid battery degradation",
-            "I see you have a G14 there, install G-Helper from Github and set the charge limit to 50% when you're using wall charging. Only charge it to 100% when you're going out and not expect a wall plug to be available for an extended period. The G14 has excellent battery life anyway so I wouldn't worry about that, just focus on preserving your battery and getting the most out of it.",
-            "not required. just remove  the bloat you get on windows. and enjoy your new laptop.",
-            "On a brand new machine, I always do a couple of full cycles. Charge 100% and drain until shut off. It helps bed in the cells and then windows also has an idea of battery potential.\n\nAfter than I leave it on the safe charging settings of about 80% and do a full cycle every month or so since it stays plugged in most of the time anyway.\n\nThey normally suggest keeping it between 20-80% for general cycles since it wears the battery less. On the other hand I was told my battery specialists that if you keep it plugged in most of the time at 80%, its important to do full cycles to keep its capacity and output.\n\nDepends what you read and where, over the past few years battery tech and treatment of them keeps changing.",
-            "It's an old myth. Btw Nice laptop man, can you tell me the full specs?",
-            "I think G14 ryzen comes with undervolted GPU",
-            "For the love of everything good, please don't smother your laptop's bottom vents by putting them flat on the bed. Those internal cooling fans will be gasping for air. This has been a common cause for overheating and system failures."
-        ]
-    },
-    "Finally got it\u2026": {
-        "title": "Finally got it\u2026",
-        "score": 152,
-        "url": "https://i.redd.it/d79yxshyvy7d1.jpeg",
-        "content": "Dell G15 5535 Ryzen\u2122 7 7840HS RTX\u2122 4060 16gb RAM",
-        "num_comments": 72,
-        "comments": [
-            "People here will hate Dell laptops but congrats man. That's a nice one. \n\nNext up should be some better peripherals to really finish off the experience",
-            "Grats",
-            "What's the screen on it?  Nice setup btw",
-            "That's a crusty pair of headphones",
-            "congrats bro. some descent gadgets and ur good to go.",
-            "How much did it cost?",
-            "Enjoy gaming!",
-            "Mousepad is the best accesory - complements the setup well",
-            "What game are you playing there?",
-            "congrats! got the same exact specs in my laptop. the performance is amazing!"
-        ]
-    },
-    "How to turn off?": {
-        "title": "How to turn off?",
-        "score": 12,
-        "url": "https://i.redd.it/oy98ofzwu28d1.jpeg",
-        "content": "Hello everyone!\nI really hope you're all doing well!\nPlease, I would like to request your help to solve my \"problem\".\nI've recently bought a Predator Helios Neo 16 and I would love to know how turn off this white LED. It's too strong.\nCould you please help me to find a solution besides break, tape or disconnect the LED?\nThank you very much!\nI really appreciate your time, patience and effort to help me.",
-        "num_comments": 10,
-        "comments": [
-            "You cannot turn that off. The button is for switching modes.",
-            "If there isn't a software that can turn off the light, than black electrical tape will do the job",
-            "Press and hold that blue button for 5 seconds /s",
-            "If I were you I'd tape around it, framing it perfectly, then get a sharpie and colour it in. Remove the tape so you got clean lines.\n\nThe button's brightness will be very dull yet still visible. \n\nIf you're not keen on colouring it in, buy a black sticker and cut it to size to cover the light.\n\nLuckily for me, Asus 2024 models allow you to turn the status and power button LED's off via BIOS. ;3",
-            "U can turn down the brightness of the keyboard lights by holding the Fn button and pressing F11, OR use the settings in the Predator Sense app. Press the button above your Num Pad that has the symbol matching the symbol below your screen to launch the Predator Sense app.",
-            "Not related to the post but does your helios have advanced optimus?",
-            "Check bios or advanced bios if it has a setting for it. You'd have to look it up in the user manual.",
-            "Unfortunately, that white LED to change modes doesn't respond to these commands, mate. \ud83d\ude2d",
-            "i have the same model and it has one.",
-            "Try tape, preferably black electrical tape."
-        ]
-    },
-    "Just baught a smart heater.": {
-        "title": "Just baught a smart heater.",
-        "score": 4,
-        "url": "https://i.redd.it/5fc2owrcu38d1.jpeg",
+    "E key split into half. Anything I can do without sending laptop to service? ": {
+        "title": "E key split into half. Anything I can do without sending laptop to service? ",
+        "score": 45,
+        "url": "https://i.redd.it/6z0kw9nydg9d1.jpeg",
         "content": "",
-        "num_comments": 0,
-        "comments": []
+        "num_comments": 57,
+        "comments": [
+            "Search for an aftermarket key",
+            "Duck Tape with a black e from a sharpie",
+            "Your a heavy user how the hell did it break across .",
+            "Do you smash your keyboard? It's just not the e key that's damaged, if you look closely",
+            "Take care of your shit hoooly",
+            "Dafuq u was doin with the damn key?",
+            "Replace the whole keyboard man, look like your keyboard has been damaged",
+            "Order a replacement on eBay and well\u2026 diy that replacement, I did that with my key too",
+            "Never in all my life seen a keyboard this bashed up.\n\nThems is rager hands",
+            "Guys, bro just needs us to vouch that he needs a new laptop. He needs to show this thread to his girl.\n\nTime for a new laptop bro, 100%"
+        ]
+    },
+    "Finalized my Gaming Setup": {
+        "title": "Finalized my Gaming Setup",
+        "score": 68,
+        "url": "https://i.redd.it/p53gq6zlxd9d1.jpeg",
+        "content": "",
+        "num_comments": 9,
+        "comments": [
+            "That's one way to mount your monitor stand on a gimbal",
+            "And yes i do plan on getting a proper monitor stand, I spent all my budget on the laptop cooler",
+            "Very nice, want to have a setup similar to this once my tower isn't worth upgrading any longer.\n\nI am a relatively old dude, never thought I would ever use a laptop in general, let alone for gaming, but the performance to price ratio is hard to argue with IF you want/need some portability.",
+            "Gigabyte G5, perfectly balanced for price-perf ratio. Enjoy!",
+            "I had the same mouse lasted for years lol",
+            "Gotta a good deal on it too because it was open box",
+            "what cooler/stand is this?",
+            "IETS GT500 on Amazon",
+            "Does the job"
+        ]
+    },
+    "the thing i do to make my laptop 3-5 celcius cooler": {
+        "title": "the thing i do to make my laptop 3-5 celcius cooler",
+        "score": 454,
+        "url": "https://www.reddit.com/gallery/1dqhfjn",
+        "content": "",
+        "num_comments": 175,
+        "comments": [
+            "This definitely deserves the NSFW tag and may God help us all",
+            "I think you only need to put a hole where the fans are.",
+            "Instead, a compressor-type fan base would have worked better, which would have forced more air into the device.",
+            "If you have done this much, can you somehow attach a pc cooler to the cpu? Or maybe attach the cooler on top of the vapur pipes?",
+            "As much as I really wanted to say this, this may NOT help your laptop cool.  \nAnother method is repasting the laptop which does the job, or get a laptop cooling pad.",
+            ".. that's pretty fucking stupid... and I'm talking about the design of the laptop's vent locations.\n\nOP, next time you feel the need to do this, take the back plate off, circle where the intakes are and then use a holesaw with some steel mesh.",
+            "Why not put it in water to take it all the way to 10-25 Celsius cooler\ud83d\ude09",
+            "Wtf is wrong with you?",
+            "Now thats what I call \u201cunder engineered\u201d",
+            "Remove heatsink, the plate that make contact with CPU and CPU, sand with 2000 grind sand paper, and use polish compunt to make a mirrow like finish, use artic MX4 thermal compunt, that makes me reduce 8 to 10 degrees on my gamign laptop"
+        ]
+    },
+    "OLED laptops": {
+        "title": "OLED laptops",
+        "score": 3,
+        "url": "https://www.reddit.com/r/GamingLaptops/comments/1drb8d4/oled_laptops/",
+        "content": "I really want to purchase a gaming laptop this weekend. I'm looking at the rog strix scar 18 with the nebula display and I'm also looking at the rog zephyrus with the OLED display. Of the two laptops which one has the better display? The reason I'm asking is I can't see them anywhere as I live in an area that only has one Best buy. I have an LG C2 monitor on my desktop and I absolutely love oled. Any help would be appreciated as I want to make a purchase today.",
+        "num_comments": 1,
+        "comments": [
+            "can you put the link of those two so we can see the specs on them two gaming laptops?"
+        ]
+    },
+    "Should I get this?": {
+        "title": "Should I get this?",
+        "score": 10,
+        "url": "https://i.redd.it/4t4pl1alkg9d1.jpeg",
+        "content": "I play a lot of game(mostly fps games) and my current 60hz msi laptop with 1050ti which I have been using for 4 years while in uni hasn\u2019t been able to let me enjoy gaming. Especially csgo, literally unplayable. I read a lot that it\u2019s better to get 4060 but this is my maximum budget so that\u2019s not happening. I\u2019m wondering if is this what i should go for or is there any other laptops i should consider as well. Also it would be nice to see some reviews on this as well.",
+        "num_comments": 24,
+        "comments": [
+            "I actually got this one recently and i can say for the price compared to some other gaming laptops its well worth the price. Just as an example the other day i booted up valorant and the frame rate didnt go below 300 fps. I personally think its a very good investment",
+            "Dude, I also live in Malaysia. And do not get any laptops from Shopee unless its from an official page. I am soon about to buy a new gaming laptop as well but I am going to order it directly from Asus Malaysia website. And as for Lenovo, I was checking this model in morning and this variant does not exist on Lenovo Malaysia website.",
+            "Hey just wan to tell you at least buy from lazada if you're in Malaysia, but this shopee page seems to have wrong specs I am scared that you will get a 3050 version instead. Aph9 should have ryzen cpu instead of Intel chip",
+            "12GBs of ram is a bit low for a gaming build, youd want at least 16GBs. You can always upgrade it, but if you buy it from a virtual shop on Shopee with no known locations im not sure how you can upgrade its ram without voiding the warranty.\n\nI bought mine face to face and they guarantee they can add ram and ssd at anytime while still ensuring the warranty on the device",
+            "I personally wouldn't buy the LOQ series. Too many motherboard dead issues I myself have seen 3",
+            "Ahh that\u2019s greatt thankss for that",
+            "Probably sold out on lenovo's website",
+            "The shop seems legit and has a high count of sales and ratings, this one only has 2 sold cause i think it was reposted since i saved a similar one from the same shop and that had hundreds sold and good ratings before if i recalled properly but it was unavailable/deleted. Nevertheless we can never be too sure also so i will be careful thankss!",
+            "Truee i did read about that too, thanks for the validation!",
+            "I did research on this and apparently it only affects the 13-14th gen hx not the 12th, but i\u2019m not too sure about it."
+        ]
     }
 }

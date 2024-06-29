@@ -1,32 +1,31 @@
 {
     "Reddit is forcing us to reopen. /r/Ubuntu is open and is now a support subreddit only!": {
         "title": "Reddit is forcing us to reopen. /r/Ubuntu is open and is now a support subreddit only!",
-        "score": 442,
+        "score": 441,
         "url": "https://www.reddit.com/r/Ubuntu/comments/14lo9pa/reddit_is_forcing_us_to_reopen_rubuntu_is_open/",
         "content": "You may now only submit self posts that are support questions.",
         "num_comments": 196,
         "comments": [
-            "I have always believed that this subreddit was about support? what was it before? memes?",
-            "[deleted]",
             "We need to go back to IRC/Forums.",
             "No-one is forcing you to open, you could have stuck with your principles, but you didn't want to lose your Internet Janitor power trip.",
-            "I thought we are not allowed to post support questions here because that's what AskUbuntu is for...? I'm confused now.",
             "So why dont we move to Lemmy?",
-            "I will submit support requests but only as an NSFW image post",
-            "Thanks for the heads up - I'll be quitting this subReddit as I just signed up with an Ubuntu community on Discord and Lemmy.  \n\nI'm slowly leaving all my subReddits as I find forums and groups elsewhere.\n\nI'll miss you all, but I'm not going to sit by and watch the enshittification [https://en.wiktionary.org/wiki/enshittification](https://en.wiktionary.org/wiki/enshittification) of yet another social media platform.\n\nGood Bye, and Good Luck",
             "Why don't the people who want to leave / not run this sub just leave?",
-            "I am ok with the this change. Reading others\u2019 problems, and the solutions, help me learn."
+            "I am ok with the this change. Reading others\u2019 problems, and the solutions, help me learn.",
+            "So sick of these whiney mods. You don't speak for the community. You didn't even put up a poll to see what you should do - you just shut the forum down, which people relied on. \n\nReddit needs to make money just like any other company. Why is *this* your first introduction to capitalism?",
+            "So\u2026 Back to business with the shitty cell phone pictures of screens and demands for issues to be fixed with virtually no information?\n\nCheck.",
+            "Why not switch to Lemmy.world?",
+            "This is all just so sad.",
+            "We need to revert to how it was, i miss the old ubuntu reddit"
         ]
     },
     "Canonical releases Ubuntu 24.04 LTS Noble Numbat": {
         "title": "Canonical releases Ubuntu 24.04 LTS Noble Numbat",
-        "score": 156,
+        "score": 153,
         "url": "https://ubuntu.com/blog/canonical-releases-ubuntu-24-04-noble-numbat",
         "content": "",
         "num_comments": 108,
         "comments": [
             "This is nitpicky, but I'm so glad to see the ubuntu logo in the application launcher spot again. Ubuntu has always felt a tad bit less like Ubuntu ever since they got rid of that on 17.10 (the initial release where they switched to Gnome)",
-            "Is it really 6gb?",
             "I like these LTS releases. They are my cup of tea. In fact, I upgraded from 20.04 LTS to 22.04.3 LTS only today.",
             "It\u2019s bloody fantastic. Honestly, what a fantastic OS.",
             "i\u2019m on ubuntu 22.04.4 how can i update to the latest version",
@@ -34,46 +33,39 @@
             "Any guidance on upgrading from a realese candidate to the stable release? \n\nDo you go with a standard `apt-get update && apt-get upgrade` or with `dist-upgrade`, or a combination?",
             "Honestly thinking of sticking with 22.04 for a while, still don't like snaps.",
             "apparently not ready for prime time, fails on install",
-            "I'm on 23.10, but \"sudo do-release-upgrade\" says \"No new release found\". I've read that upgrading from 22.04 won't be supported until version 24.04.1, but is there a similar stability period before upgrade from 23.10 is supported too?"
+            "I didn't receive the update. When will I get it?(I'm from India)",
+            "When is Ubuntu Core 24 expected to release?"
         ]
     },
-    "Unable to upgrade from 23.10 to 24.04": {
-        "title": "Unable to upgrade from 23.10 to 24.04",
+    "Changed the label of my ext4 drive using an app on windows and now it\u2019s not being recognized by Ubuntu ": {
+        "title": "Changed the label of my ext4 drive using an app on windows and now it\u2019s not being recognized by Ubuntu ",
         "score": 3,
-        "url": "https://www.reddit.com/r/Ubuntu/comments/1dr2y5f/unable_to_upgrade_from_2310_to_2404/",
-        "content": "I have been pushing the button on the update manager every time it asks me if I would like to upgrade. The window disappears after that and nothing happens. \nIs there any other way to force upgrade? ",
-        "num_comments": 14,
-        "comments": [
-            "Which button? The OK button closes the window :) It's the left one.",
-            "Yeah, with the terminal.",
-            "How?",
-            "do-release-upgrade",
-            "Tried that already. Also with \u201c-d\u201d",
-            "What happened? It would have output something",
-            "$do-release-upgrade\n\nChecking for a new Ubuntu release\n\nPlease install all available updates for your release before upgrading.\n\n$do-release-upgrade -d\n\nChecking for a new Ubuntu release\n\nUpgrades to the development release are only\n\navailable from the latest supported release.",
-            "Read the message & act on it..\n\n> Please install all available updates for your release before upgrading. \n\nYou need to ensure all upgrades are applied on your current release first, and also ensure you have no package holds on anything  (*they will prevent a release-upgrade from being possible*)\n\nThe `-d` now applies to 24.10; meaning you need to go to 24.04 first & no longer applies for you. You don't need it.",
-            "Not the OP, but did you already go through the whole `sudo apt update`, `sudo apt full-upgrade`, `sudo snap refresh` cycle and rebooted after that? Then try again with `sudo do-release-upgrade`",
-            "This is what was needed. When I was running - \"sudo apt update && sudo apt upgrade -y\", I was not paying attention to the response. There was one package - lldb-14 that was not able to upgrade as it was broken. Removed that package and now the upgrade is proceeding as I write.\n\nThank you!"
-        ]
-    },
-    "Using a HDD on two machines [nobody:nogroup]": {
-        "title": "Using a HDD on two machines [nobody:nogroup]",
-        "score": 2,
-        "url": "https://www.reddit.com/r/Ubuntu/comments/1dr69lg/using_a_hdd_on_two_machines_nobodynogroup/",
-        "content": "Hey guys. I recently started with a little more complex Ubuntu setup to test around with self hosting stuff. My setup uses Proxmox and two Ubuntu LXCs which can access the same drive. I noticed that some of my files are not modifiable by my scripts lately and found that my one LXC can access everything and has user:users in the permissions of a file whereas my other LXC only shows nobody:nogroup is there a way that files will not change once they are touched by either of the LXC or can I add a whitelist or something? \nHelp would be greatly appreciated ",
-        "num_comments": 0,
-        "comments": []
-    },
-    "New to Ubuntu - Why did the name of my external hard drive change after reboot and how do I change it back?": {
-        "title": "New to Ubuntu - Why did the name of my external hard drive change after reboot and how do I change it back?",
-        "score": 2,
-        "url": "https://www.reddit.com/r/Ubuntu/comments/1dr45zs/new_to_ubuntu_why_did_the_name_of_my_external/",
-        "content": "What's going on here?  Any help is appreciated.",
+        "url": "https://www.reddit.com/r/Ubuntu/comments/1drcibo/changed_the_label_of_my_ext4_drive_using_an_app/",
+        "content": "Bear with me, noob here with a very basic understanding of using/mounting disks on Ubuntu. So much so that when the name of my USB drive changed after rebooting Ubuntu, I connected it to my Windows PC and used an app to change the label. \n\nWhen I reconnected it, it wasn\u2019t mounted automatically as was the case before (I run CasaOS).  This caused a downward spiral of me trying to mount and unmount the disk, change permissions, and whatever other fixes I could find online to get it back to working again. Now, I don\u2019t even know what I\u2019m left with, and I got some file systems errors here and there. I see the drive when I run a lsblk command, but it shows no additional information like fstype or UUID. It doesn\u2019t show up when I try a blkid command\n\nI have 10TB of data on the drive that I can\u2019t lose and would appreciate any help here.  Again, not sure how to check to see if the files are ok using Ubuntu right now, but when I connect it to windows, the In Use numbers suggest everything\u2019s still there. ",
         "num_comments": 3,
         "comments": [
-            "If you can include any screenshots we can look to, we can help better.",
-            "Any idea what I can screenshot here?  I use CasaOS and noticed all my containers weren't working. After some digging, I realized the name of my USB drive (which the containers are mapped to) changed after a reboot.",
-            "Changed from what to what and where do you see that change."
+            "Windows can work with ext4 drives now?! I hadn't tinkered with that ... and based on this post, I don't think I will.\n\nWhen I need to share data between Linux and Windows, I use an NTFS drive.",
+            "Can the label be reverted back in Windows?\n\nI am surprised a UUID can't be found. I would think your fstab needs to be updated to mount by the UUID if it was using some other identifier like a label that's now \"missing\". Can running a portable OS on a flash drive connected to the same tower find the hard drive and maybe a UUID?",
+            "Sure you can lose those files. You prove it by not having them backed up and messing with the drive, while not knowing what you are doing. That is how you lose data. Permanently.\n\n\n\nIf you TRULY can't lose the files, stop!\u00a0\n\n\nThen image the drive to a larger drive. Then make a copy of the the image. Then try to fix and mount the copy of the image.\u00a0\n\n\nIf you fail, hire some data rescue experts. Send them the original drive and a copy of the image."
         ]
+    },
+    "Files disappeared after reboot": {
+        "title": "Files disappeared after reboot",
+        "score": 3,
+        "url": "https://www.reddit.com/r/Ubuntu/comments/1dra2ps/files_disappeared_after_reboot/",
+        "content": "Yesterday I connected my phone to my laptop which is running ubuntu. I used the default file manager(nautilus) to move some of my pictures from my phone to a folder which I created on my HDD. After everything was moved, it all looked good. There were no files(photos and videos) on my phone anymore and they were moved successfully to the laptop. Then I just shutdown the laptop. However today, when I started the laptop again there is no sign of my files, even the folder which I created. All of my moved files are gone. Please can someone help me recover my files?",
+        "num_comments": 2,
+        "comments": [
+            "Were you running from a live session on flash-drive ? Where did you copy the files to ?",
+            "I did not use any flash drives. I have ubuntu installed on my laptop and just connected my samsung phone and used nautilus file manager to move all folders in DCIM(here is stored all of the media) to my HDD(in a separate folder which I created again with nautilus)"
+        ]
+    },
+    "KDE connect ": {
+        "title": "KDE connect ",
+        "score": 1,
+        "url": "https://www.reddit.com/r/Ubuntu/comments/1drckil/kde_connect/",
+        "content": "So it keeps disconnecting from my phone it\u2019s probably my Mac anyone experience this tips and tricks",
+        "num_comments": 0,
+        "comments": []
     }
 }

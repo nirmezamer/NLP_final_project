@@ -1,77 +1,68 @@
 {
     "Master List of Definitive App Comparisons - View and Contribute": {
         "title": "Master List of Definitive App Comparisons - View and Contribute",
-        "score": 360,
+        "score": 368,
         "url": "https://www.reddit.com/r/macapps/comments/13c1c7m/master_list_of_definitive_app_comparisons_view/",
         "content": "Over the last year, [r/macapps](https://www.reddit.com/r/macapps/)  users have contributed large volumes of data to help you find the best  Mac-compatible apps in various major categories. This post represents a  culmination of those contributions in one place where all can benefit and continue contributing updates.\n\n*Note:  Because these are populated to Google Sheets from user form submissions, the best viewing experience on mobile devices is through the Google Sheets app since it retains frozen columns/rows. Most mobile browsers disregard them and may not initially load the correct tab from the links below.*\n\n**View the Definitive App Comparison sheet here** (links go to the specific tab on desktop)**:**   \n[AI Apps](https://docs.google.com/spreadsheets/d/1JqyglRJXzxaj8OcQw9jHabxFUdsv9iWJXMPXcL7On0M/edit#gid=1177164211) \\[NEW\\] | [Browsers](https://docs.google.com/spreadsheets/d/1JqyglRJXzxaj8OcQw9jHabxFUdsv9iWJXMPXcL7On0M/edit#gid=1628450822) | [Calendar Apps](https://docs.google.com/spreadsheets/d/1JqyglRJXzxaj8OcQw9jHabxFUdsv9iWJXMPXcL7On0M/edit#gid=583051238) | [Email Clients](https://docs.google.com/spreadsheets/d/1JqyglRJXzxaj8OcQw9jHabxFUdsv9iWJXMPXcL7On0M/edit#gid=1036735176) | [Note Apps](https://docs.google.com/spreadsheets/d/1JqyglRJXzxaj8OcQw9jHabxFUdsv9iWJXMPXcL7On0M/edit#gid=469491148) | [Password Managers](https://docs.google.com/spreadsheets/d/1JqyglRJXzxaj8OcQw9jHabxFUdsv9iWJXMPXcL7On0M/edit#gid=1102167413) | [PDF Readers](https://docs.google.com/spreadsheets/d/1JqyglRJXzxaj8OcQw9jHabxFUdsv9iWJXMPXcL7On0M/edit#gid=110826423) | [Window Managers](https://docs.google.com/spreadsheets/d/1JqyglRJXzxaj8OcQw9jHabxFUdsv9iWJXMPXcL7On0M/edit#gid=456166567) *|* Clipboard Managers *\\[Planned\\]*\n\n**To contribute new apps, click a corresponding link to fill out a form with the details:**   \n[Add an AI App](https://forms.gle/NgVonw88oXpdwGMm9) | [Add a Browser](https://forms.gle/rbedZBnctSLVXCUU9) | [Add a Calendar App](https://forms.gle/p88rRjayYT2o43jB8) | [Add an Email Client](https://forms.gle/QjuTGbVNTJZjsQPp7) | [Add a Note App](https://forms.gle/cJwqGjkJ1GYgGE1o8) | [Add a Password Manager](https://forms.gle/ScoCcPuUHHdHECD2A) | [Add a PDF Reader](https://forms.gle/K2WFtv1huAdjH8oX8) | [Add a Window Manager](https://forms.gle/HbgJ8UHS4HZ8WJgSA) \n\nTo suggest a specific correction to an already-listed app, comment on a cell or here below. Please link to the source of your info if possible.\n\nAre you looking for a specific feature that is not listed? Ask below or share what's so great about your app of choice. Feel free to suggest additional app comparison types for future consideration.",
         "num_comments": 100,
         "comments": [
             "Would it be useful to add a row for whether the app is \u201cnative\u201d or Electron-based? Of course, determining nativeness isn\u2019t always straightforward and can sometimes be controversial. But that\u2019s one of the first things I check for in productivity apps that need to be snappy. We\u2019ve also seen a few high-profile switches to Electron (1Password, Spark) with a major impact on user experience.",
-            "Really appreciate this list. Thanks for the work! It\u2019s so unfortunate that there is no browser available that natively supports Apple Keychain etc., but I guess that\u2019s part of Apples security ecosystem.",
-            "OCR / Text capture category. \n\nI asked for some app recommendations and got the following list so far. Don\u2019t know which one is best or how each compares.\n\nText sniper\n\nOwlocr \n\nShottr \n\nCleanshot X",
             "This is great!  Kudos to putting together these lists.  I'd suggest a new category, budget/personal finance, since there are so many apps out there...it'd be great to see them compared.",
-            "[deleted]",
-            "I wanted to add a couple of useful features for the pdf readers:\n\n\\- support for AI\n\n\\- annotation export formats: rtf, markdown\n\n\\- annotation compliance to the Adobe standard\n\n\\- Scriptability\n\n&#x200B;\n\nIf you count all the available features: I think Acrobat DC comes on top, followed by PDF Studio. I think you should also remove OCRmyPDF from the list because that one has not a pdf reader. If you add OCRmypdf, you need to add pdftk, cpdf, and many other  libraries.\n\nFor the pdf apps, it might be best to break them into two groups:\n\na) for **reading** (annotation, extraction of annotation): lightweight editing such as adding bookmarks and arranging (rotating) pages; but mostly reading and annotation.\n\n\\-- PdFexpert, pdf reader, preview, pdfgreat, etc\n\nb) editing (**manipulation**): advanced functions: change the internal structure of the pdf= acrobat and PDF studio, pdftk, cpdf etc\n\nThen, focus the comparison on one of the two classes. If you focus on the reading functions only, I think apps such as highlight app, Skim and PDFExpert will come top: because of their flexible annotations tools, speed, and convenience to read.\n\n&#x200B;\n\nON the reading group, I think DEVONthink's pdf reader and Bookends pdf reader could also come out as  good competitors to the stand alone readers.",
             "It would be nice to have a comparison of app uninstallers (with removal of leftovers, etc.).",
-            "My Personal \"Must have\" **email app** features that would be helpful to see on the list:\n\n**Folder/Label suggestions:** *Like in Spark 2* \u2014 Makes it easy to quickly file things away when triaging my inbox *(I also think Spark 2 should be listed as a separate email client from Spark 3)*\n\n**Account Groups/Profiles:** *Like in Postbox or \"Profiles\" in Mimestream \u2014* Allows for multiple Unified inboxes and the ability to better organize and keep track of different groups of email accounts. (I have multiple personal and work accounts emails to keep track of)\n\n**Ability to Edit any received email:** *Like in Postbox \u2014* It's super helpful to be able to Edit subject lines to include more pertinent info, like for an upcoming event.\n\n**Ability to move an email to a different Account:** *Available in Spark 2, Postbox, Apple Mail, (and missing from Mimestream) \u2014* Sometimes I just want to move an email to the \"correct\" account, as it's much easier and cleaner than forwarding.",
             "Thanks for the hard work on this list! Helpful!",
-            "Appreciate your efforts, mate!"
+            "I'm looking at the Note Apps and it says Apple Notes can export to Text and Markdown. How do you do this?",
+            "Can we get Tiddlywiki added to the Notes apps. I can give you the details if you want.\n\nIt's basically a standalone HTML file that you can use to take notes in almost any browser.",
+            "Wow, that Notes app comparison table is massive and impressive. Thank you.",
+            "Please note Airmail for Business is the perpetual license (one time fee) for Airmail.",
+            "It would make my little overwhelmed-neurodivergent-person brain \\*so\\* happy if there were a table of contents for this!",
+            "You are amazing! I have an additional column you could add. More companies, particularly large companies, are requiring SOC2 certificationcompanies. I can only download or integrate the ones that have this."
         ]
+    },
+    "Funny widget": {
+        "title": "Funny widget",
+        "score": 6,
+        "url": "https://github.com/nate-parrott/ball",
+        "content": "By one of Arc developers \n",
+        "num_comments": 0,
+        "comments": []
     },
     "Monitor current Apple Silicon performance in terminal (local LLM running on image)": {
         "title": "Monitor current Apple Silicon performance in terminal (local LLM running on image)",
-        "score": 11,
+        "score": 16,
         "url": "https://www.reddit.com/r/macapps/comments/1dr13tr/monitor_current_apple_silicon_performance_in/",
         "content": "https://i.redd.it/e0m4pfmz8f9d1.gif\n\nHey everyone!\n\nI made a console program to monitor system load and power consumption. It shows:\n\n* Monitor CPU (per cluster), GPU, and Memory usage\n* Track power consumption\n* Display average temperature\n* Customize colors and set your preferred update interval\n\nInstall it with Homebrew:\n\n    brew install vladkens/tap/macmon\n\nOr [download it manually](https://github.com/vladkens/macmon/releases/tag/v0.2.1).  \n  \n**Note:** It\u2019s designed to work with Apple Silicon processors (M1, M2, M3).\n\nI\u2019d love your feedback!",
-        "num_comments": 2,
-        "comments": [
-            "https://preview.redd.it/8uuixfa5wg9d1.jpeg?width=1338&format=pjpg&auto=webp&s=031e30430e21ef33c781b0f5bfd358424e7b8fa1",
-            "On a MacBook pro M2"
-        ]
-    },
-    "Click, write, share. Anywhere\u2026 (It's Free!) ": {
-        "title": "Click, write, share. Anywhere\u2026 (It's Free!) ",
-        "score": 13,
-        "url": "https://www.reddit.com/r/macapps/comments/1dqobyq/click_write_share_anywhere_its_free/",
-        "content": "Hey everyone,  \nI wanted to share our side project\u00a0[Coil](https://coil.so/), a free Mac app we created to make sharing feedback super easy. Click, comment, and share it as a link quickly\u2014no more messy PowerPoints or documents!  \nTry it out and let us know what you think! For suggestions, support, or anything else, please email us at\u00a0[Team@lata.so](mailto:Team@lata.so).  \nI hope you like it :)\n\nhttps://reddit.com/link/1dqobyq/video/j401ywawdc9d1/player",
         "num_comments": 3,
         "comments": [
-            "Very cool initiative! Thank you for this",
-            "Thank you very much",
-            "Thanks for your kind words I hope you will finds it useful and always email us if you need anything :)"
+            "thanks works better than mactop for me and without sudo",
+            "On a MacBook pro M2",
+            "https://preview.redd.it/8uuixfa5wg9d1.jpeg?width=1338&format=pjpg&auto=webp&s=031e30430e21ef33c781b0f5bfd358424e7b8fa1"
         ]
     },
-    "Anyone likes mechanical keyboard sounds?": {
-        "title": "Anyone likes mechanical keyboard sounds?",
-        "score": 22,
-        "url": "https://www.reddit.com/r/macapps/comments/1dqjocx/anyone_likes_mechanical_keyboard_sounds/",
-        "content": "Hello everyone! \n\nI don't have different mechanical keyboards and these keyboard sounds are very addictive to hear. I love typing on my MacBook so one day I downloaded an app from GitHub that would make different sounds of the mechanical keyboards from your laptop's speaker when you type. well, I have low RAM (8 GB) on my Macbook and that app uses the Electron (the desktop framework which is popular for sucking up too much RAM) for the app it also had memory leak issues. \n\nSo one day my developer friend suggested me to join the app that he was building. his app shows the keys/shortcuts that the user presses with very good and cute-looking themes. he was building it for presentations, instructors, and YouTubers to enhance their tutoring experience. he also planned the cursor highlighter feature with different styles.\n\nWhen I joined in I thought it would be great if we just tried to implement the mechanical keyboard sounds feature too! we did add it to the app. It works so well and our app is built using Flutter which doesn't take much RAM on desktop apps. so that problem was solved! \n\nso now we have 10+ different keyboard sounds in the app with many cute/attractive themes for the showing keys/shortcuts and cursor highlighter too.\n\nyou can check out the app here it's available for the macOS and Windows: [https://keystro.app](https://keystro.app)\n\nputting some screenshots here\n\nhttps://preview.redd.it/fbyju5m2db9d1.png?width=2560&format=png&auto=webp&s=17e09911b4f0b9c66146c7fa575da3f25a86f01e\n\nhttps://preview.redd.it/6vl47b6ydb9d1.png?width=2008&format=png&auto=webp&s=b9a6a5ff17496223c1dc626b5fff22b9ea53f6e1\n\nhttps://preview.redd.it/tyqzdca2eb9d1.png?width=1998&format=png&auto=webp&s=ab7c6c55970fec9851efa23ad1566f2f9bccf47b\n\nhttps://preview.redd.it/j3lv428beb9d1.png?width=2560&format=png&auto=webp&s=4c51433184c0b32995b2987dd83a1535286dc2c8\n\n",
-        "num_comments": 18,
+    "Making a Case for Microsoft Edge for Certain Mac Users": {
+        "title": "Making a Case for Microsoft Edge for Certain Mac Users",
+        "score": 0,
+        "url": "https://www.reddit.com/r/macapps/comments/1dr840m/making_a_case_for_microsoft_edge_for_certain_mac/",
+        "content": "All of us use a browser and we choose that browser based on several criteria: speed, feature set, available extensions and privacy chief among them. Over the years I've used Netscape, Safari, Camino and Chrome but since 2023, I've used Microsoft Edge and it has proven to be quite the reliable workhorse. It's had free built-in access to Chat-GPT 4 through its CoPilot feature for quite a while. While there are some aggravating shopping and UI features, they are easy to turn off and hide. Unlike Safari, Edge offers a custom search engine feature. I work in a mixed PC and Mac environment in a workspace heavily reliant on Office 365, Teams, Outlook and One Drive. All of that is tightly integrated into Edge and makes for a relatively seamless experience.Here are the Edge features that really stand out:\n\n**Profiles** - I have one for work and one for personal. While the work one is subject to AD/Entra policy limitations as enforced by my job, the personal one is not, allowing me to install extensions and make other changes to my experience like separate bookmarks and themes. I can run both at the same time. The syncing between computers, phones and tablets is rock solid, the best I've seen in any browser.\n\n**Workspaces** - Within a profile I can set up a workspace with even further separate customizations. I have one for blogging and a general use one. I can move tabs between workspaces with a couple of clicks. They sync.\n\n**Collections** are separate from bookmarks in that they are user defined themes for groups of web pages you can easily access and open from within Chrome. I have collections for shopping, TV, software, reading list and Windows related material. They sync.\n\n**Speed** - Edge is faster than both Chrome and Safari on both of my Macs. It loads 30-40 tabs on startup very quickly.\n\n**Extensions** - Edge can use not only its own set of extensions but all of those developed for Chrome as well.\n\nIf you are concerned about Microsoft telemetry and you don't have to use Office, Outlook or One Drive, Edge may not be for you. You can install uBlock Origin and use DuckDuckGo for search to alleviate some privacy concerns but you can't defeat all of Microsoft's trackers. But, hey, they're not as bad as Googles!\n\n[My Full Review with extension suggestions](https://apps.louplummer.lol/post/making-a-case-for-microsoft-edge)",
+        "num_comments": 16,
         "comments": [
-            "I've purchased Klack for this and I'm very happy. Fast and super responsive. I'd just like more options in terms of sound.",
-            "My apple magic keyboard with numpad and my MX master keys create enough noise for me. I may miss the sounds when directly on my macbook pro, but I'm mostly docked :)",
-            "I do. I have been using Keychron K2 red switches since 2020.",
-            "just tried it. cool app. currently typing with it and works fine\n\nsmall issues:\n\nFroze twice when i clicked on the menu bar to disable the highlighted cursor option (future updates turn it off by default imo)\n\nram usage amped a bit since installing\n\n**Annoying** watermark placement (i love it though lol)",
-            "Can I use it for free?",
-            "I hate it.",
-            "I previously (in 2022) bought KeyBell, but I see that their current price has increased by 4 times since then and is quite disturbed",
-            "I don\u2019t mind them when I\u2019m the one making them, if somebody else nearby is making the sounds though\u2026\ud83d\ude35\u200d\ud83d\udcab",
-            "Just tested this, it has way more sounds than Klack, it\u2019s nice though I\u2019m not gonna pay again just for that.",
-            "sound is quite addictive!"
+            "The company I work for is a Microsoft shop, and I happen to be one of the few that forced them to buy me a Mac. I use Edge every day with many times 5-6 instances and up to 100 tabs open. It has no issues doing that and has vertical tabs to make it easy for me to jump between everything. Sounds like utter insanity, but edge handles my use with no problems.",
+            "Thanks for this breakdown? How\u2019s battery usage? And what renderer does it use?",
+            "Edge is based on Chromium so why not just use Chrome?",
+            "What does the \u201ccustom search engine feature\u201d do?",
+            "It\u2019s just ugly. I love Safari because it looks and feel nice. Also: Safari is not a spyware like chrome or edge.",
+            "Safari auto fills the temp codes texted or emailed for two-factor authentication. Game over.",
+            "Chromium. Battery usage in the use case I outlined is slightly better than other Chromium bowsers.",
+            "Chrome doesn\u2019t have the same feature set at all, just the same renderer.",
+            "Right when the new Microsoft Edge (using chromium) was released, or at least the new update for Google Chrome, Chrome will have some secret sauce that basically is anti-adblock. So for the weirdest reason(s), Microsoft Edge is or should be a cleaner Chromium (shocking and perplexing at the same time) than Google Chrome, until Microsoft screws up something somewhere, but we won't know when.",
+            "Ooof that is bad. I'm currently using Arc. The vertical tab list is a game changer, so I'm interested in Edge. I also like how Edge creates child/parent tabs (which Arc doesn't do). But with that kind of battery murder, no thanks!"
         ]
     },
-    "LibreWolf Or Betterfox?": {
-        "title": "LibreWolf Or Betterfox?",
-        "score": 3,
-        "url": "https://www.reddit.com/r/macapps/comments/1dqtv1w/librewolf_or_betterfox/",
-        "content": "I just started using LibreWolf instead of normal FireFox, but I heard about BetterFox, and tried getting it but it seems very complicated. Is BetterFox better than LibreWolf, and if it is, can someone tell me how to get it?",
-        "num_comments": 5,
-        "comments": [
-            "u/juliousrobins it looks like BetterFox is just a js file to add to a newly created profile within Firefox. I've never heard of it until now so I couldn't give you any feedback. The instructions of how to download it and set it up are here: [https://github.com/yokoffing/Betterfox](https://github.com/yokoffing/Betterfox)",
-            "I personally use LibreWolf",
-            "Thanks bro!",
-            "I did use it for a while until I kinda stopped caring but still would recommend",
-            "I loved LibreWolf but I had to move back to Firefox w/ Betterfox because 1Password doesn't support LibreWolf.   That's a dealbreaker for me :("
-        ]
+    "QR Generator Factory": {
+        "title": "QR Generator Factory",
+        "score": 1,
+        "url": "https://www.reddit.com/r/macapps/comments/1dr7ylg/qr_generator_factory/",
+        "content": "Hey Mac App Community!\n\nWe are Runecats a small development company, probably most famous for Roccat Browser.\n\nWe've decided to join Reddit on a mission to improve our app.\n\nFirst a bit about our app QR Generator Factory 5 is a pretty nifty but fairly niche app - it allows you to create QR codes, it allows both bitmap and vector exporting. It has a huge array of design options form pixel types, fill colors, graidents images. Background images, colors and graidents. It allows you to add your company logo or an image and position it, resize it and even add even has filters to modify it. It has smart bordering for logos so it will border any logo shape. There is also capiton settings with control of text size, kerning and colors.\n\nIn terms of content types QR Generator offers everything you would expect, from general text, URLs, maps, contact cards, payment options such as crypto, PayPal, UPI and SEPA. And many more. Each content type are pretty extensive so we feel it has everything you would require in both content types.\n\nWe also offer Dynamic QR's for Email type, URL type, Phone type and Social type.\n\nQR Generator Factory 5 allows batch export using an unheadered CSV file seperated by ,  it will create a QR code for each data point based on the settings already setup in the app.\n\n  \nThis is where you guys come in - we've been working really hard on this app and have spent over 2000 solid hours on this since we started working on this years ago. We've got the app where we want it to be - however we're sure there is room for improvement and we're looking for some geniune feedback. If you ae in the market for such an app we're happy to provide the app free of charge  in exchange for geniune feedback. If it's positive feedback then we'd like to know why it works and what works, if it's negative feedback we'd like to know what doesn't work and why and what could be added or improved.\n\nThis is the first time we have ever done anything like this so we're pretty excited!\n\nhttps://preview.redd.it/phw03yojjh9d1.jpg?width=1626&format=pjpg&auto=webp&s=a69f5c606efbd8a259e6e45fee495f2355aefa7c\n\nhttps://preview.redd.it/9bf2xtojjh9d1.png?width=2880&format=png&auto=webp&s=38513ee53809a7ba21874f167cf9dc7dd078e86d\n\nhttps://preview.redd.it/34kfdbdmjh9d1.png?width=2880&format=png&auto=webp&s=a6cb6042f791f7b435b09ca98d5132f94afbf149\n\nhttps://preview.redd.it/tzh6madmjh9d1.png?width=2880&format=png&auto=webp&s=8c3c5f83ff730f1b356e38db0797d8f47729f086\n\n  \n\n\n  \n[https://apps.apple.com/app/qr-generator-factory-5/id1594156737?mt=12](https://apps.apple.com/app/qr-generator-factory-5/id1594156737?mt=12)",
+        "num_comments": 0,
+        "comments": []
     }
 }

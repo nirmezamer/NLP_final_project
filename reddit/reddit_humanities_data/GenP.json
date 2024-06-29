@@ -1,12 +1,11 @@
 {
     "Friendly Reminder to new folks.": {
         "title": "Friendly Reminder to new folks.",
-        "score": 1098,
+        "score": 1093,
         "url": "https://www.reddit.com/r/GenP/comments/qpcnob/friendly_reminder_to_new_folks/",
         "content": "https://preview.redd.it/37ejpvagnh3b1.png?width=660&format=png&auto=webp&s=62aa3f8a17d5a9eabfd76ab33d2a987b35d6c2d4\n\nhttps://preview.redd.it/afv0u0u7n71d1.png?width=1191&format=png&auto=webp&s=274de7a1a10f0f4dd82b41eadfab1b5f4012644f\n\n# Tips for new people:\n\n* **ALWAYS HAVE AN EXTERNAL BACK-UP (2nd copy) OF ALL YOUR PERSONAL FILES SOMEWHERE ELSE (meaning, not in the same HardDrive or SSD)** - *This is the most important general rule with anything digital.*\n* **We recommend taking a look at our** [**WIKI**](https://www.reddit.com/r/GenP/wiki/index/) **since all information, guides and download links can be found through there.**\n\n1. Take a look into the [**Explanation for each Patching Methods**](https://www.reddit.com/r/GenP/wiki/patchmethods/) to familiarize with the wording and get a brief idea of things.\n2. Move into the [**How-to-Guides & Downloads**](https://www.reddit.com/r/GenP/wiki/redditgenpguides/) **to your respective patching method, read everything first and then start the process.**\n3. If you ***encounter problems outside those mentioned in the respective guide***, look at the [**Troubleshoot Section**](https://www.reddit.com/r/GenP/wiki/redditgenpguides/#wiki_.28....29_troubleshoot_section_.7C_unlicensed_popup) towards the bottom of the Guides page.\n\nWatch **OUR OWN** video tutorials *(if available)* on top section of each Guide as well reading the written guides for additional tips. - These will be 95% more up-to-date than your usual youtube search *\"blablabla for free.*\n\nThe whole subreddit is in *New-Reddit-Style*, so all important links can only be found that way, however through the **WIKI** you should be able to reach them (For folks using **old-reddit**).\n\n# Having a brain, attention to detail and some cognitive thinking is required.\n\n*Drink a cup of coffee or an energy drink and pay attention to all the information, folder locations and steps!*\n\n**\u26a0\ufe0f GENERATIVE FILL / Artificial Intelligence (AI) is behind a paywall / credits and only available to those with subscriptions, therefore forget it and stop asking about it - IT NO LONGER WORKS. - Posts on the subject will be deleted.**\n\n# \ud83d\udedf \u276e Return to [r/Genp](https://www.reddit.com/r/GenP/)\n\n# \u2620\ufe0f \u276e Return to [Wiki](https://www.reddit.com/r/GenP/wiki/index/)",
-        "num_comments": 257,
+        "num_comments": 259,
         "comments": [
-            "*I'll say this once.*\n\nIf you only need few apps, quick and easy without much trouble, and you have no issues with download torrents:\n\n* Get **Monkrus Individual (Guide 7)** for your required apps - **only**.\n   * This will be much faster, and should work flawlessly.\n\nDo not mix GenP with Monkrus. Its one method, or the other! - for your own sanity.\n\n&#x200B;\n\n\u26a0\ufe0f **GENERATIVE FILL (AI) is behind a paywall / credits, forget about it and stop asking about it, in other words IT NO LONGER WORKS. - Posts on the subject will be deleted.**",
             "new here - thanks for posting this!",
             "AS someone that can\u00b4t read guides with text cos of my neurodivergence i appreciate the visual guide",
             "Thank you for posting this.",
@@ -15,55 +14,68 @@
             "This subreddit is a gold mine. I shall thank this community and its moderators very much. ![gif](emote|free_emotes_pack|smile)",
             "Is GenP a safer option than m0nkrus? (In risk of getting malware etc.).",
             "Im so knew at all ov this, even to reddit! lol thank you so much !",
-            "God bless you guys"
+            "I just want to know what GenP developers get from providing these methods for free \u061f",
+            "Hello everyone! I\u2019m new to this Reddit tho I have dabbled a bit with Adobe apps before. I was wondering if there is a way to get \u201cAdobe Fonts\u201d to work with either of these programs? As far as I remember it\u2019s the only feature I ever needed that you couldn\u2019t \u201chack\u201d. Thanks I\u2019m advance"
         ]
     },
     "Compatibility List | 2024 Creative Suite": {
         "title": "Compatibility List | 2024 Creative Suite",
-        "score": 241,
+        "score": 245,
         "url": "https://www.reddit.com/r/GenP/comments/164ew74/compatibility_list_2024_creative_suite/",
         "content": "# INVESTIGATING\n\nMultiple updates were released today (13th June) that **do not work** properly with GenP 3.4.13, check both the \"Stable\" and \"Beta\" sections of this list before updating your apps, these issues will be fixed in an upcoming GenP release.\n\n# Stable Apps\n\n1. Acrobat `V24.2`\n2. Aero `V0.24.4`\n3. After Effects `V24.4.1`\n4. Animate `V24.0.3`\n5. Audition `V24.4.1`\n6. Bridge `V14.0.4`\n7. Camera Raw `V16.3.1`\n8. Character Animator `V24.2`\n9. Creative Cloud `V6.2.0.544`\n10. Dimension `V3.4.11`\n11. Dreamweaver `V21.4`\n12. Fresco `V5.5.0`\n13. Illustrator `V28.5`\n14. InCopy `V19.4`\n15. InDesign `V19.4` \\*App has very high idle CPU usage\n16. Lightroom `V7.3` - BROKEN - APP DOES NOT WORK\n17. Lightroom Classic `V13.3.1`\n18. Maxon: Cinema 4D `V2024.2.0`\n19. Media Encoder `V24.4.1`\n20. Photoshop `V25.9.1` \\*Home screen issues if CC is not working properly\n21. Photoshop Express `V3.12`- BROKEN - APP DOES NOT WORK\n22. Premiere Pro `V24.4.1` \\*H265 rendering requires a separate codec, [available in the Microsoft Store](https://www.microsoft.com/store/productId/9NMZLZ57R3T7)\n23. Premiere Rush `V2.10`- BROKEN - APP DOES NOT WORK\n24. Substance 3D Designer `V13.1.2`\n25. Substance 3D Modeler `V1.11.0` - BROKEN - APP DOES NOT WORK - LATEST SUPPORTED VERSION IS 1.10.0\n26. Substance 3D Painter `V10.0.1`\n27. Substance 3D Sampler `V4.4.1`\n28. Substance 3D Stager `V3.0.2`\n29. UXP Developer Tools\\* `V2.0.1` \\*GenP must run with NSudo\n30. XD `V57.1.12` \\*GenP must run with NSudo \\*Not available for new CC accounts due to Figma buyout - no workaround.\n\n# Beta Apps\n\n1. After Effects (Beta) `24.6`- BROKEN - APP DOES NOT WORK\n2. Audition (Beta) `24.6`\n3. Bridge (Beta) `14.1.0`- BROKEN - APP DOES NOT WORK\n4. Character Animator (Beta) `24.6`- BROKEN - APP DOES NOT WORK\n5. Illustrator (Beta) `28.6`\n6. Illustrator (Pre-release) `27.7.0.421`- BROKEN - APP DOES NOT WORK\n7. InDesign (Beta) `19.4`\\*App has very high idle CPU usage\n8. Media Encoder (Beta) `24.6`- BROKEN - APP DOES NOT WORK\n9. Photoshop (Beta) `25.10.0.2661`- BROKEN - APP DOES NOT WORK\n10. Premiere Pro (Beta) `24.6`\n11. Premiere Rush (Beta) `2.5`- BROKEN - APP DOES NOT WORK\n12. Substance 3D Modeler (Beta) `1.11.50`\n13. Substance 3D Sampler (Beta) `4.4.1`\n14. Substance 3D Stager (Beta) `3.0.1`\n\n# Other\n\nIf GenP does not open for you, delete \u201cNSudo.exe\u201d If you do this, UXP tools and XD will be unusable.\n\nUsing GenP V3.4.13.4 on Windows 11 24H2\n\nList updated 2024-06-13  \n^(List uses ISO 8601 standard in AEST)",
         "num_comments": 225,
         "comments": [
-            "I feel like at this point Adobe engineers have read this thread, and they'd be like \"yeah, we find ways to stop new users pirating the apps.\" Their program gets better at detecting unusual inputs/changes that's why I see some comments saying they fail cracked it recently or found new alerts or stuff alike. \n\nThere is a reason why Adobe CC is 100 bucks per month -- to pay those insanely smart engineers so they can outsmart those \"pirate\" programmers, then those engineers who know how to write pirating programs need to level up with the new updates from Adobe engineers. \n\nThe cycle doesn't end. I guess, people who can successfully pirate Adobe CC needs to keep learning and updating stuff. Who can easily do that? programmers. For regular people (not tech savvy), it might take some time to invest in those things, and most people don't want that coz it can be a lot of effort. \n\nAdobe is weirdly greedy as well. I cant blame them or those pirating programmers.",
             "I followed everything thoroughly on guide #2 yet, when I open photoshop, I get the non-genuine adobe app error, and I cannot use photoshop. Am I using an incorrect version? Can I access an older version for it to work? Looking for anyone with similar issues",
             "So, lets see how many people don't come here to check compatibility and simply update Adobe CC from v6.1.0.587.7 to v6.2.0.554 and then moan that their CC app is not loading...",
             "i checked the photoshop 2024 with genp v3, it worked well after the patch",
-            "Updates today:\n\nBridge V14.0.4\n\nAlready updated in this Compatibility List and working fine for me.\n\n\n\nSubstance 3D Designer V13.1.2\n\nSubstance 3D Modeler V1.9.0\n\nThese two have not been updated as of yet in this Compatibility List, however I can say that they are both working fine for me.\n\n\n\nTried and tested with both GenP 3.4.12 and the latest GenP 3.4.13 Beta 4, both versions work just fine and no hassles.",
             "when will photoshop and premier pro become fully working?",
             "Has the new Creative Cloud version (v 6.3.0.207) been tested yet?",
             "just stumbled across this GenP patch, works great for all the programs i use...you guys are doin gods work, muchly appreciated \ud83d\udc4a",
-            "There is a lot of new adobe updates after this post.\n\nCC 6.2\n\nAcrobat 24.2\n\nAnimate 24.3\n\nIllustrator 28.5\n\nInDesign 19.4\n\nPhotoshop 25.7\n\nAnd so on... I hope genp works for all of this.\n\nTHANKS FOR YOUR WORK!!",
-            "Let's hope people do read the latest news on this updated post..."
+            "Let's hope people do read the latest news on this updated post...",
+            "The latest Audition seems to have problem. I get the \"can not verify\" popup. Roll back to 23 resolves the problem",
+            "Out of all the versions over the years, this is the most different one! Thank you",
+            "Should I update creative cloud?"
+        ]
+    },
+    "Anyone know how to fix this?": {
+        "title": "Anyone know how to fix this?",
+        "score": 0,
+        "url": "https://www.reddit.com/r/GenP/comments/1dr79h6/anyone_know_how_to_fix_this/",
+        "content": "https://preview.redd.it/r03udsk6ah9d1.png?width=1919&format=png&auto=webp&s=f84948aff9966fe00371cf4e65091f14cfffe418\n\nI've gone through the full uninstall process and tried to reinstall to see if it fixes but it's been persistent. Any help would be appreciated. The \"block popup\" button on genp hasn't worked for me. I downloaded it from the link in the tutorial. Currently on v3.4.13.4 of genp.\n\nEDIT: Forgot to mention, but i've followed the troubleshooting section on the community bookmarks, with no luck.",
+        "num_comments": 2,
+        "comments": [
+            "Also, silly question but needs checking.\n\nHave you made sure that you've patched both your Adobe CC app and Adobe Illustrator app with the GenP tool?\n\nEspecially after any updates as when you apply updates it knocks out the modifications of the GenP tool.\n\nHence why you need to repatch with the GenP tool after every update.\n\nIt needs checking as the Adobe CC app has recently had an update applied, which has taken it from v6.2.0.554.2\u00a0to\u00a0v6.3.0.207.",
+            "You're just wasting your time uninstalling and reinstalling.\n\n\nThe Popup Blocker button on the GenP tool does two things.\n\n\nIt adds lines into your Host file for you.\n\n\nHowever, the guide section also clearly states that you should check the list yourself to make sure that you are using the latest version.\n\n\nYou need to check your folder here:\n\n\nC:\\Windows\\System32\\drivers\\etc\n\n\n\nSee if you haven't also got two Host files added, as you can only run with one.\n\n\n\nIf you have two Host files as the automated method may have added a new one, then you'll need to simply copy and paste the lines into your existing one and save it.\n\n\nThen delete the new one so that you only have the one Host file again.\n\n\nIt also adds a firewall rule for you into Outbound Rules of Windows Defender.\n\n\nHowever, again the guide section clearly states that if you use a third party antivirus firwall, then you'll need to create your own rule in that manually.\n\n\nIf you use a third party antivirus with it's own firewall, then that is what will be taking precedent on your computer and being used.\n\n\nThis would all be clearly shown to you in your Windows Settings under Windows Security.\n\n\nAdding a firewall rule to Windows Defender when you're running your own third party antivirus firewall, will do completely nothing as it Windows Defender is completely ignored.\n\n\nOtherwise, my normal reply to those who keep posting many times over about unlicensed popup appearing is this...\n\n\n\nRegardless of if you are using GenP or Monkrus, both versions will end up needing to do the fix.\n\n\nThis issue gets posted about many times and it's easily fixable.\n\n\nUnlicensed popup can be simply fixed by following the guide here:\n\n\nhttps://www.reddit.com/r/GenP/wiki/redditgenpguides/#wiki_.28....29_troubleshoot_section_.7C_unlicensed_popup\n\n\nAdd lines to your Host file and block the Adobe app being used in your used firewall.\n\n\nOut of all the Adobe apps, most run just fine with just the Host lines added for me.\n\n\nHowever, I now have six apps that require blocking in my used firewall to avoid unlicensed popup or accept terms popup.\n\n\nUnlicensed Popup: Photoshop, Premiere Pro, Illustrator, Lightroom Classic.\n\n\nAccept Terms Popup: InDesign, After Effects.\n\n\nIf you get a popup for Adobe Genuine Service, then again that is an easy fix too.\n\n\nSimply go to your Windows Settings and Apps.\n\n\nUninstall Adobe Genuine Service just like a normal Windows app.\n\n\nThen go here and delete the AdobeGCClient folder.\n\n\nC:\\Program Files (x86)\\Common Files\\Adobe"
         ]
     },
     "I downloaded Premiere Pro using monkrus. When I click on install, the pop up disappears and nothing happens.": {
         "title": "I downloaded Premiere Pro using monkrus. When I click on install, the pop up disappears and nothing happens.",
-        "score": 1,
+        "score": 0,
         "url": "https://www.reddit.com/r/GenP/comments/1dr6czt/i_downloaded_premiere_pro_using_monkrus_when_i/",
         "content": "I tried disabling antivirus also (as was mentioned in the guide). It doesn't work. Can anyone help?\n\nhttps://preview.redd.it/1uxz89llwg9d1.png?width=1091&format=png&auto=webp&s=91b95391a9dba07ac4e40db93e7fb5c71ab5322f\n\nUPDATE: Found this. Now what should I do?\n\nhttps://preview.redd.it/v4gw2l472h9d1.png?width=359&format=png&auto=webp&s=6d0b970ce8c176e2f0334128cd81a76030d91180\n\nThe disc file (autoplay.exe) seems to be clean. But the set-up.exe file is corrupted. Is this why Installation is not happening?",
-        "num_comments": 0,
-        "comments": []
-    },
-    "Steam cloud sync": {
-        "title": "Steam cloud sync",
-        "score": 0,
-        "url": "https://www.reddit.com/r/GenP/comments/1dr3oea/steam_cloud_sync/",
-        "content": "Would installing GenP in any way interfere with steam cloud sync? I only ask this because It seems that the cloud sync not working and antivirus are connected and I had to turn off windows defender to work genp obviously, nothing on steam is working anymore since I've downloaded genp",
-        "num_comments": 1,
+        "num_comments": 16,
         "comments": [
-            "It\u00a0won't have any effect on Steam.\n\n\nGenP is not installed either, the only things that are installed during the Adobe setup using the GenP method are all the Adobe apps themselves.\n\n\nThe GenP tool itself just runs on opening, it doesn't require the need to be installed.\n\n\nThe tool simply modifies the specific Adobe files that are required and nothing else.\n\n\nWindows Defender is also not required to be turned off for the GenP tool to be run.\n\n\nAlthough, you do mention both antivirus and Windows Defender.\n\n\nTherefore, if you're running a third-party antivirus, then Windows Defender would already be disabled and not working anyway.\n\n\nYour used antivirus would be in use instead, and this would all be clearly shown in your Windows Security settings."
+            "Try deleting and downloading again. Then completely disable or whitelist your install folder and try the install again. If you get it directly from one of Monkrus links, it's safe.",
+            "I know.. it just came with my pc and I didn't bother to change it \ud83d\ude2d",
+            "Thank you for replying. I did had to download it again two times. But now it is working alright! Thanks!",
+            "What even the heck is QuickHeal LMFAO tho",
+            "Then now bother to uninstall it quick and take something like Kaspersky or bit defender or eset as paid, try to see if any of them got free version too and for completely free there's Malwarebytes",
+            "calm down, it was a suggestion. Sometimes it's better for people who don't know what they're doing (OP) to start from scratch. We can't all be experts like you.",
+            "I disabled it. And now the .iso file wouldn't even mount. :((",
+            "Now you're stalking me between subs. Get a life pal.",
+            "Finally it is installed and running.. Thanks a ton!",
+            "Why would they need to download it all over again, when that's not necessary!\n\n\nTheir QuickHeal antivirus is only blocking and quarantining the Adobe setup.exe itself, it's not checking and stripping it out of the original Monkrus ISO file.\n\n\nAll they need to do is disable QuickHeal briefly, unzip the Monkrus download again to get the Adobe setup.exe back and just run it.\n\n\nThen after installed, simply re-enable QuickHeal again and carry on as they were."
         ]
     },
     "CC account help?": {
         "title": "CC account help?",
-        "score": 1,
+        "score": 2,
         "url": "https://www.reddit.com/r/GenP/comments/1dqvuy5/cc_account_help/",
         "content": "I wanted to know if its possible to just make a new account for creative cloud or if I have to go through the whole patching process again to make a new one.  \nI used a temporary email for my current account which I did not activate because the guide doesnt mention that you strictly have to, so I figured it wouldnt matter oops...but now when I open apps it asks me to verify my email despite the apps still somewhat working (atleast it looks like they do).",
         "num_comments": 2,
         "comments": [
-            "So you just need to make a new Adobe account to verify your email.\n\nIn that case, you just sign out of Adobe CC app so that you are signed out completely.\n\nThen you simply sign back into your CC app with your new verified account.\n\nFor more info about signing out completely go here and scroll down to 'What is sign out?'.\n\nhttps://helpx.adobe.com/ie/creative-cloud/help/sign-in-out-activate-apps.ug.html\n\nFinally, with regards to the guide not mentioning that you had to verify it.\n\nWell, it shouldn't need to as it is part of the actual process of setting up the Adobe account in the first place.\n\nAnd skip the part of adding a telephone number as a backup method.",
-            "oh yeah fair enough \ud83d\ude05  \nalright i'll do that, thank you!"
+            "oh yeah fair enough \ud83d\ude05  \nalright i'll do that, thank you!",
+            "So you just need to make a new Adobe account to verify your email.\n\nIn that case, you just sign out of Adobe CC app so that you are signed out completely.\n\nThen you simply sign back into your CC app with your new verified account.\n\nFor more info about signing out completely go here and scroll down to 'What is sign out?'.\n\nhttps://helpx.adobe.com/ie/creative-cloud/help/sign-in-out-activate-apps.ug.html\n\nFinally, with regards to the guide not mentioning that you had to verify it.\n\nWell, it shouldn't need to as it is part of the actual process of setting up the Adobe account in the first place.\n\nAnd skip the part of adding a telephone number as a backup method."
         ]
     }
 }

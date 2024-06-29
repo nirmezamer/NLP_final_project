@@ -1,91 +1,93 @@
 {
     "How do you guys get good at DP?": {
         "title": "How do you guys get good at DP?",
-        "score": 1108,
+        "score": 1124,
         "url": "https://www.reddit.com/r/leetcode/comments/sv82tg/how_do_you_guys_get_good_at_dp/",
         "content": "I'm really struggling with grasping DP techniques. I tried to solve/remember the common easy-medium problems on leetcode but still get stuck on new problems, especially the state transition function part really killed me.\n\nJust wondering if it's because I'm doing it the wrong way by missing some specific techniques or I just need to keep practicing until finishing all the DP problems on leetcode in order to get better on this?\n\n&#x200B;\n\n\\------------------------------------------------------- updated on 26 Jan, 2023--------------------------------------------------\n\nWow, it's been close to a year since I first posted this, and I'm amazed by all the comments and suggestions I received from the community.\n\nJust to share some updates from my end as my appreciation to everyone.\n\nI landed a job in early May 2022, \u22483 months after I posted this, and I stopped grinding leetcode aggressively 2 months later, but still practice it on a casual basis.\n\n&#x200B;\n\nThe approach I eventually took for DP prep was(after reading through all the suggestions here):\n\n\\- The DP video from Coderbyte on YouTube. This was the most helpful one for me, personally. Alvin did an amazing job on explaining the common DP problems through live coding and tons of animated illustrations. This was also suggested by a few ppl in the comments.\n\n\\- Grinding leetcode using this list [https://leetcode.com/discuss/study-guide/662866/DP-for-Beginners-Problems-or-Patterns-or-Sample-Solutions](https://leetcode.com/discuss/study-guide/662866/DP-for-Beginners-Problems-or-Patterns-or-Sample-Solutions), thanks to [**Lost\\_Extrovert**](https://www.reddit.com/user/Lost_Extrovert/) for sharing this. It was really helpful for me to build up my confidence by solving the problems on the list one after another(I didn't finish them all before I got my offer, but I learned a lot from the practice). There are some other lists which I think quite useful too:\n\n\\* [https://designgurus.org/course/grokking-dynamic-programming](https://designgurus.org/course/grokking-dynamic-programming) by [**branden947**](https://www.reddit.com/user/branden947/) \n\n\\* [https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns) by [**Revolutionary\\_Soup15**](https://www.reddit.com/user/Revolutionary_Soup15/)\n\n\\- Practice, practice, practice(as many of you suggested)\n\n\\- A shout-out to [**kinng9679**](https://www.reddit.com/user/kinng9679/)'s mental modal, it's helpful for someone new to DP\n\nSince this is not a topic about interview prep, I won't share too much about my interview exp here, but all the information I shared above really helped me land a few decent offers in 3 months.\n\n&#x200B;\n\nHope everyone all the best in 2023.",
         "num_comments": 208,
         "comments": [
             "I think just doing more problems will help.  Everything takes time.  A lot of it has to do with doing so many problems that you start memorizing different tricks/patterns.",
-            "One thing that helped me was coming up with a recursive solution to the problem, then take a look at the parameters you are passing to the recursive function. \nThen check which parameters change between calls, those are likely the coordinate in your dp array/matrix.\n\nUnderstand how the recursive call generates its answer from the sub recursive calls, try to put that into an equation, like currentRes = f(subRes). That would be your DP build up equation.\n\nLastly find the exit case of the recursive function, that is the base case that you need to built up from in DP.\n\nHope this helps.",
-            "Prctaiec.\nPrcatiec.\nPractiec.\nPractice.",
             "While the advice on solving more questions is correct, it is also important to dissect each problem you solve successfully so that you fully understand how DP was exploited to solve it. Spend lot of time on each problem, till you have a complete understanding of what is going on. If you move to other problems with a superficial understanding of current one, your understanding will not deepen.",
-            "Leetcode published an explore card about DP 3-4 months ago\n\nhttps://leetcode.com/explore/learn/card/dynamic-programming/",
-            "I was definitely in your position some time ago - I can relate. I found this post useful on the subpatterns of dp (done most of it): \n\n[https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns). \n\nAs others mentioned, typically you want to start with the top down approach (memoization) and see if you can convert it to bottom up approach. In few / several cases, it may be easier to come up with bottom up approach and then convert it to top down just for fun. Definitely the difficulty in dp problems is formulating what are the states and what is the recurrence relation. But keep practicing, it'll sink it.\n\nAs a data point, I have done close to 140 dp problems; Again want to emphasize the number of problems you do is irrelevant and may vary between person to person, it's quality and understanding, so it's important to revise some problems to ensure it sinks in. But for me, I felt like things started to click and saw the patterns easily once I did close to 70 dp problems. Just for reference, I didn't come from a computer science background though did take data structures and algorithm course.",
-            "Two things you have to develop the intuition for are the state variables and the recurrence relationship.\n\nThis blog has a very good write up about dp: https://codeforces.com/blog/entry/43256",
             "If you've got money to spare, get grokking the dynamic programming interview.",
-            "I am not an expert but I am able to solve decent number of medium level DP problems. \nMy approach to DP is finding the solution for extreme values (base case) and recursively solve the problem.\nAfter creating the recursive DP solution (Memoization), I convert it do an iterative one, i.e., bottom-up approach since recursion is slow due to overhead.\n\nAlthough, you can solve a problem either bottom-up op top-down, it depends on the problem which one could be faster.\n\nAll the best.",
-            "1.\tfigure out a shitty recursive solution \n2.\tslap a `@functools.cache` on it \n3.\tcongrats, you now have a top-down DP solution\n\nI\u2019m still pretty terrible at deriving bottom-up solutions but I find that I rarely need to in practice (~600 problems solved)."
+            "Recursion + Learning to build states. Also one thing that I've learnt in past few weeks is that there are some problems which are indeed a core point for most other variation problems. Longest Increasing Subsequence, Kadanes Algorithm, Min Cost path Problems, Longest Consecutive Subsequence, Divide & Conquer & 1D Linear DP problems.",
+            "Ha I came here to post something similar. The DP section of Blind 75 is absolutely crushing my soul. Haven't gotten any of them solo. I'm always having to revert to watching YouTube and debugging other's solutions. \n\nI don't feel like my approach is working though. I get nowhere on these still.",
+            "I am not very good at DP, but I gained a lot of confidence in a month. Initially, I followed a YouTuber named Aditya Verma and then did LC Card. I use memoization most of the time. There are only a few problems where you have to use tabular DP. The most important part of a DP problem is identifying a state in my opinion.",
+            "I feel like one should start with backtracking and understanding how to brute force problems (DP) before trying to do the more complicated stuff like optimizations with top down and bottom up. \n\nThat is my approach at least. Without understanding brute force/recursion/backtracking it'll be really hard to get better at DP IMV",
+            "Errichto has a series of dynamic programming videos on YouTube which is pretty good. Coursera competitive programming core skills course is also good. Not that I am good at it now, but at least with that I learned a bit.",
+            "Leetcode has an entire course on Dynamic Programming and its really helped me. If you have premium I'd give it a shit.",
+            "Look for patterns. But the silver bullet here is nothing other than practice"
         ]
     },
-    "Finally achieved a daily streak of 300!": {
-        "title": "Finally achieved a daily streak of 300!",
-        "score": 82,
-        "url": "https://www.reddit.com/gallery/1dlp9dp",
-        "content": "",
-        "num_comments": 18,
+    "How to crack OOP coding intense interviews?": {
+        "title": "How to crack OOP coding intense interviews?",
+        "score": 24,
+        "url": "https://www.reddit.com/r/leetcode/comments/1dr937m/how_to_crack_oop_coding_intense_interviews/",
+        "content": "It seems that lately some companies are ditching leetcode style interview questions and adapting another style which is an OOP style question that tests whether you can read a detailed design doc and translate it into code really quickly, it usually consists of multiple stages that progressively get harder, you need to be really really quick at making decision and implementing changes. \n\nBasically similar to CodeSignal \"Industry Coding Framework\". But doesn't have to be an OA, you can get one of these during your onsite loop. \n\nAnyone was able to successfully crack these type of interviews? How to practice/prepare for them? How can I get good at them?\n\n",
+        "num_comments": 6,
         "comments": [
-            "Amazing rating. My goal is to get to Knight just like you have. Can you send your profile if too private maybe through DM and any tips to improve?",
-            "How to start ?",
-            "Does the 3819 mean that's the total number of problems on leetcode?",
-            "Awesome job bro! Consistency is king!",
-            "Congratulations. I recently started doing this. I am at 16 but want to maintain this streak forever. I feel like this is building my consistency.",
-            "At what ratings did you get the knight badge ??",
-            "I just started with Leetcode. May I ask how you go about obtaining badges?",
-            "Check dm bro",
-            "Start with the easies from topics like string, arrays, etc. Then move onto mediums after a while. I would recommend solving atleast one question daily. It would be even better that one question is the daily challenge. Ofcourse, you can solve more daily if you want to.",
-            "Yes"
+            "Same, looking for some advice here",
+            "Even I was looking for the same. \n\nI asked 4 5 of my friends who recently cleared these type of questions and all of them answered to just practice (rather learn) the popular questions. They were asked - design jira, design a parking lot, design tic tac toe",
+            "dude honestly, I rather be leetcoding if this is the new future.",
+            "lldcoding.com",
+            "Following",
+            "Which companies?"
         ]
     },
-    "Amazon Behavioral Tests are just ridiculous": {
-        "title": "Amazon Behavioral Tests are just ridiculous",
-        "score": 184,
-        "url": "https://i.redd.it/byo2x2d7c08d1.png",
-        "content": "",
-        "num_comments": 41,
+    "Stripe vs Meta": {
+        "title": "Stripe vs Meta",
+        "score": 222,
+        "url": "https://www.reddit.com/r/leetcode/comments/1dqtvvp/stripe_vs_meta/",
+        "content": "After months through the grind of rejections and Leetcode I\u2019ve gotten 7 offers now. My top contenders are Meta and Stripe. Both at senior level. What would you guys take here?\n\nAlso side note, this whole process sucked. I started studying January and stopped in May. And it was constant; studying early morning until late at night. I left my Meta interviews for last as I knew it was gonna be the hardest job to get. I got rejected from so many lower tier companies before I got my last offer from Meta. So hard work pays off, people!",
+        "num_comments": 91,
         "comments": [
-            "After all of that struggle with often hard algorithm questions(even for interns) they now  insist on having these behavioral questions for couple hours....What kind of guys even allowed all of these psychological pseudo science bs to get so deep into industry",
-            "This is most effective for culling bozos. The smaller they can make the interview pool the higher they \"raise the bar\"",
-            "As an ex-Amazonian reading this shit gave me slight anxiety \ud83d\ude25",
-            "This is all part of training an AI to replace programmers.",
-            "Unpopular opinion: this test is bullshit",
-            "Lol, they must have data that shows it works for them, but you know this initiative was someone\u2019s VP promotion push or something so the data is probably sort of bs too",
-            "Rather have this than think of some script to recite to someone in a video call about what my personal weakness is. But yeah this is bs. A couple questions, 10 minutes wouldn\u2019t be to bad but an hour long quiz is terrible",
-            "As someone who has worked there as a dev, trust me, you don\u2019t want to work there. unless your goal is to have a FANG on your resume and leverage it into a better job. That\u2019s just my opinion.",
-            "Walk in the park compared to their coding questions",
-            "is there a guide or something on how to answer these? how can you map the correct answer to the leadership principles (or vice versa)?"
+            "Love to see the grind pay off , congrats",
+            "What was your study schedule? Were you unemployed? How did you study from morning to night?",
+            "It makes me happy to see posts like these when people's hardwork finally pays off. It makes me believe that work that we put in never get wasted and makes me want to work harder because if you can do it then I can too.\n\nCongratulations \ud83c\udf89",
+            "What geo are you in?",
+            "Congrats! Any list that you\u2019ve followed particularly? What is the order and how did you judge what problems to solve? \n\nI am slightly confused on what problems to solve to  have a maximum coverage. Your answer might give me some clarity, thank you!",
+            "Congrats!!! You got good resolve. I wish I had the same discipline.\n\nHow did you scheduled the interviews. Like how far apart from each others and after getting the offers did you asked the recruiter to wait while you get results from other interviews?",
+            "Sicne you have 7 offers, how long do you had too decided?\n\nI thoughts it's 1 week. So how did you line it all up so well?",
+            "Did you study any system design? If so, how did you study for it?",
+            "Maybe im thinking of another company, I thought Stripe didn't do exactly leet code. Maybe they changed recently? Congrats! Whats your YOE?",
+            "Happy to hear positive feedback for you op! Hoping to make such a post \ud83d\ude00 congratulations to you"
         ]
     },
-    "Bruteforce -> optimized ": {
-        "title": "Bruteforce -> optimized ",
-        "score": 214,
-        "url": "https://i.redd.it/7rf3wrsm2z7d1.png",
-        "content": "https://www.reddit.com/r/ProgrammerHumor/s/K7AJi1vHmJ",
-        "num_comments": 7,
+    "I haven\u2019t touched LC in 2years and got laid off recently ": {
+        "title": "I haven\u2019t touched LC in 2years and got laid off recently ",
+        "score": 59,
+        "url": "https://www.reddit.com/r/leetcode/comments/1dr0eon/i_havent_touched_lc_in_2years_and_got_laid_off/",
+        "content": "I really need feedback on how should I start as I have only 2 months left to leave the country. In this time I have to find job, prepare and give interviews. Any feedback on how to start with leetcode from the community would help. Even referral to companies hiring or any consultancy that does H1B transfer would help at this point.",
+        "num_comments": 21,
         "comments": [
-            "I have once coded a O(2^n!)",
-            "Let me just throw in @lru_cache(none) and resubmit again.",
-            "At least it works............",
-            "Lmao",
-            "Were you solving world hunger or what?",
-            "we don't know yet it is still checking",
-            "P != NP"
+            "Just start solving daily problems and see your gaps.   You probably remember more than you think.   If you solve 5 problems per day you can have 300 in 2 months.  Should be okay",
+            "focus more on applying right now considering your visa status. complete neetcode 150 in 2 weeks, that should give you enough practise for most of the companies.",
+            "in the past month i've interviewed at 2 companies and didn't have a single leetcode type question in the 7 rounds i went through, i know thats a small sample size but there are companies that dont ask leetcode",
+            "You are probably screwed in big tech because their multiple rounds of interview would most likely take more than 2 months from applied -> offer. Go for mid size startups like series B or a well funded series A. Their interview process are shorter and hopefully you don't have too many ds&a rounds. For leetcode grind, just do leetcode 75, it should cover the basis of everything you need. Best of Luck",
+            "H1b can change to b visitor visa and legally stay here, have you tried or know anyone who has done this? I heard it can extend 6 month longer than original 2 month unemployment restrain.",
+            "To be honest it's difficult for most people to get anything even with unconstrained amount of time. So may also be good to take a look at jobs at your returning country as well to be safe. You may not even hear back in 2 months with how much backlog of candidates and the industry with too much supply and not enough demand to keep up with it.",
+            "apply now, worry about leetcode once you hear back",
+            "Definitely read this as \u201cgot laid recently\u201d",
+            "Dm me if you need help in clearing OAs and coding interviews.",
+            "I have just 2 month to prepare, find job as well. I am extremely worried."
         ]
     },
-    "Received referral from Meta": {
-        "title": "Received referral from Meta",
-        "score": 54,
-        "url": "https://www.reddit.com/r/leetcode/comments/1dlk2kn/received_referral_from_meta/",
-        "content": "A friend just referred me. The email said to complete the referral form within 30 days. How long does it normally take from referral to (assuming successful) screening interview? I'm only 40/150 in neetcode 150  and 25/75 in Blind 75, don't feel even nearly ready - I might be able to solve a Medium on my own but it'll take me 30+ minutes and with many retries, I understand I need to be in a position to get an optimal working solution in less than 20 minutes at first try. I see myself far away from that.\n\nMaybe I could be ready in 3 months, given that I can't practice more than 3 hours a day - have a job and 2 kids. I'm a seasoned engineer ( +10 years exp ) but I've never had to go through leetcode style interviews before. Would it be possible to fill the referral form in 30 days and aim to do the screening round at a later date?",
-        "num_comments": 7,
+    "People working in Big Tech, tell me what is going wrong in my interviews. ": {
+        "title": "People working in Big Tech, tell me what is going wrong in my interviews. ",
+        "score": 213,
+        "url": "https://www.reddit.com/r/leetcode/comments/1dqqxct/people_working_in_big_tech_tell_me_what_is_going/",
+        "content": "I am working in Goldman Sachs. I also cracked JPMorgan Chase & Co. But every time I get a chance to interview at FAANG, something goes wrong but I don\u2019t understand what.\n\nAmazon - 2022 - SWE Intern - Was asked a question on LCA. Gave 2 approaches and solved correctly. Was then asked Longest Palindromic Substring. Gave the brute force and then the 2 pointer approach and coded it. Discussed complexities. In last 5 min he asked for the DP equation for same question - couldn\u2019t write that in time perfectly. Rejected :/\n\nGoogle - 2024 - SWE - Gave the approach in the first 10 min. Assumed the structure was a graph (not explicitly given - the structure formed from 2 hypothetical API\u2019s response) Coded it up. Optimised along the way. He pointed out while giving time complexity why I wrote n + e and that\u2019s when I realize it\u2019s a tree. Doesn\u2019t change my code in any way. Then asked me to optimize further. I didn\u2019t see a place where it could be done. He mentioned check the heap. I then gave the optimised solution. Again rejected. :/\n\nI know the interviews weren\u2019t perfect but they are not so bad that I get straight up rejected. Am I missing something? \n\nI always think out loud, use good coding practices and ask questions at the end. I really need tips I can implement in future interviews to not get rejected. ",
+        "num_comments": 91,
         "comments": [
-            "Sorry to say this but getting a referral does not guarantee an interview these days. I have been referred by my spouse at a FAANG company as well but still haven\u2019t been contacted by a recruiter. Go ahead and complete the form and cross your fingers. It\u2019s brutal out there.",
-            "Referrals work at meta. A recruiter reached out to me 2 weeks after I applied with a referral. But at that time they were not hiring for E4 roles.",
-            "Sorry to spoil this for you.I recieved a referral from Google and Amazon, got rejected on the application phase only. Even after being a knight.",
-            "No need to apologize :) - I understand there\u2019s no guarantee, which is why I wrote assuming the referral is successful. Worst case is no interview, but what about best case?",
-            "Same. Got refferal, then rejected after 3 days and the e4 role is no longer there.\u00a0",
-            "Best case is you get hired, work there for years, eventually get promoted to CTO. Once Mark retires, he promotes you to take over as the CEO of Meta.",
-            "\u2b06\ufe0fBro took the question to it\u2019s literal meaning"
+            "The coding question are a pretext to see how you think and how you work. No one is interested in the solution. They already know the solution. What is interesting is how you talk about problems, how you approach a new problem. Can you identify tradeoffs and how you would decide to do one implementation vs the other. For instance you can talk about the trade off of making a simple brute force approach vs making a complex DP solution. Or maybe just talk about existing libraries that could do it for you.\n\nCompare this to a driving test where the instructor doesn\u2019t care if you can parallel park perfectly. They want to see how you behave under pressure and make sure you won\u2019t be dangerous to other people if they give you a driver license. Same thing here",
+            "Leetcode isn\u2019t the only skill you need to be good at to crack these companies. How are you selling yourself?",
+            "A tree is a graph, and you\u2019re fair to assume these things. Don\u2019t beat yourself up on that one you\u2019re correct.",
+            "You are almost definitely lacking communication skills",
+            "Most of it has to do with luck. This will be an unpopular opinion for people who think they are smarter than others bc they managed to pass the interview process a single time. I think it would be in your best interest to objectively obsess what you can do better but not to obsess over the outcome.",
+            "bro you are in India, even if you answer perfectly you might get rejected. Also i think gs to amazon is a downgrade lol",
+            "There's so many people applying to these companies trying to get in that even if you complete the assignment, you can still get rejected because they liked another candidate better.",
+            "You were exclusively asked LC questions in these interviews? Or are you omitting other parts?\n\nAlso what race and gender are you? Unfortunately, this matters especially in big tech.",
+            "Sometimes you can get unreasonable asshole interviewers too. Just because somebody is conducting interview doesn\u2019t mean they magically become some omniscient perfectly objective beings",
+            "I used to be in an interview loop at FAANG-adjacent companies. I found the discussions with engineers from financial institutions super interesting because they operated so differently from us. Some operated similar to software companies, but many that came from the investment or trading organizations of the business operated so differently. They were very siloed. Did not share best practices or learnings with peers or other teams. They often lacked experience working on systems with dependent systems maintained by other teams. For lower level engineers this was fine as they will learn with experience. For senior level roles, we often chose the engineer that had experience collaborating with engineers outside of their team. Obviously they had to nail the Leetcode, but as someone else said that's not the only thing they are looking for."
         ]
     }
 }

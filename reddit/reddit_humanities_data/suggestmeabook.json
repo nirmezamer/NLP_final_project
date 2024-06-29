@@ -1,97 +1,97 @@
 {
     "Post Not Showing? PLEASE READ": {
         "title": "Post Not Showing? PLEASE READ",
-        "score": 1877,
+        "score": 1884,
         "url": "https://www.reddit.com/r/suggestmeabook/comments/gbzbsi/post_not_showing_please_read/",
         "content": "Hello everyone,\n\nWe get a lot of mod mail about people's posts not showing up and I wanted to explain why.\n\nWe are very fortunate in a subreddit of our size to have limited reasons to moderate, as we are all united by our love of reading and you all do a good job of positively contributing to this community.  Thank you for that!\n\nOn the other hand, you might be surprised at how much spam we get from authors and bloggers, and by keeping our spam filters high it helps us to catch a lot of what gets posted.  You all do a great job of reporting the rest, and we appreciate you.\n\nDue to the spam filters and automod settings we have in place, some of your posts get temporarily filtered until we can review them.  Reddit recently created an automated message site-wide that creates a lot of confusion, saying your post has been removed.  PLEASE do not post again.  We aren't able to edit this message and we can't turn it off.  Your post hasn't been removed, it is just awaiting moderation.  If your post is removed by us, we will always give you a reason why and reference which rule has been violated.  If there isn't a reason, it was either removed by Reddit (you might be shadow banned and don't realize it) or it is in the moderation queue and will be actioned.  Either way, multiple posts won't help.\n\nThanks for understanding as we keep up with Reddit's changes.  We love this community and all of your passionate posts about books.  Keep reading and sharing, everyone!",
         "num_comments": 299,
         "comments": [
             "Thank you guys for all your hard work!!",
             "Oh god, I feel bad for re-posting now! I AM SO SORRY.",
-            "this is awesome to know thank u\n\nedit: my account has 4 karma and i need 5 to comment on other subs.... one of u... plz help me out \ud83d\ude02\n\nEdit again: I now have 5 karma and can comment thoroughly on r/mycology with my mushroom finds thank u \ud83d\ude4f\ud83c\udffc",
             "Thank you for being awesome this is my favorite place to visit !",
             "I posted my thread 3 days ago... is this sub dead or something?",
             "I don't see my post that I made a couple of hours ago, but I didn't get an automod message. I just want to make sure I'm not shadow banned. Can someone please see/respond to me?",
             "But if you shadow banned users isn't it your job to stop that ?",
             "I just learned what shadow banning is from this post",
             "oh god, I feel like an idiot for reposting the same thing. sry guys",
-            "How long does it take to get approved? I made a post a week ago and it's still hanging out. \ud83d\ude12"
+            "How long does it take to get approved? I made a post a week ago and it's still hanging out. \ud83d\ude12",
+            "Sorry about my 3 or 4 posts... message was confusing"
         ]
     },
     "Meta Post : {{ Hello again, Humans ! }}": {
         "title": "Meta Post : {{ Hello again, Humans ! }}",
-        "score": 230,
+        "score": 228,
         "url": "https://www.reddit.com/r/suggestmeabook/comments/16qe09p/meta_post_hello_again_humans/",
         "content": "Hello all,\n\n*(Message to the mods: this is a Meta post, please contact me if something is wrong!)*\n\n# The goodreads-bot Legacy\n\nAs you must know if you were already here last year, our beloved bot u/goodreadsbot stopped working in January after having been used **156.631** times on this subreddit by a total of **25.272** different users, because goodreads shut down API access.\n\nAs a bored nerd and fellow reader, I decided to start a new toy project: rise our bot back! But because the Goodreads API is now closed, the first task was to build my own Books database... which I did, using Reddit, Goodreads & Google Books.\n\nThis new bot called u/goodreads-rebot (\"bot\" + \"reboot\" = \"rebot\".....) is open source (link to source code below). I wanted to thank u/ArtyomR, the author of u/goodreadsbot, for the original idea. I am not u/ArtyomR, but I have great respect for his/her work and its legacy. Thank you!\n\n# How does it work? Just like before! (with more features)\n\nWrite `{{Harry Potter}} in your post` or alternatively `{{A Little Life by Hanya Yaniagara}} (notice the typo)` with a **\"by\"**  and the bot will answer with more information about the **book** or the **series**.\n\nThe search part is now part of the bot (and not on Goodreads API side), and was quite challenging to handle. **You definitely should specify the author with the \"by\" keyword**, because it helps the Database search. \n\n**Examples:**\n\n`You should read {{Harry Potter}} !` will work, it will recognize it as the name of a **Series**, in that case it will provide information about **the first book of the Series;**\n\n`My favorite book is {{Call Me By Your Name}}` will work too, the bot will try to find a book called **Call Me** by author named **Your Name** (because of the \"by\" keyword...) but it will fail to find one, so as a 2nd try because it's not *that* dumb, it will indeed find a book called **Call Me By Your Name** :)\n\n`Did you read {{1984 by Michael Radford}}?` (notice the wrong author): it will work too even if the author is wrong, because when the search fails using the author, it will try again ignoring it.\n\n# Features\n\nI added a \"Top 2 recommended-along\" section, featuring the 2 books that were the most recommended here on Reddit in the same threads than the book described. It is based on another toy project of mine (\ud83d\ude05), a book recommending algorithm I am working on, which is based on the co-occurences of book titles in Reddit threads. Let me know if you find this new information useful.\n\n# Limitations\n\nAs explained before, the bot is based on a book database I build and update as much as I can. The search will sometimes fail to match some existing books, in particular very niche books, or the recent ones. I am working on having the best and up-to-date database as possible, meanwhile sorry for the misses!\n\nAlso, the bot is currently not running on other subreddits (like r/booksuggestions), but because the code is really modular, it's just about configurations. FYI this is in the roadmap for the next few days/weeks.\n\nFinally, I may reach some rate posting limits because of low karma. Hopefully, this will be solved soon after some time thanks to your help :)\n\nYou will find below more information (links being forbidden in posts).\n\nI think that's it. \n\nSee you there!",
         "num_comments": 88,
         "comments": [
             "Thank you for your time, energy, and resources into Goodreads-Rebot. LONG MAY THEY REIGN!",
-            "\ud83d\udc47 Here is what answers look like:\n\n\\#1/3: **[Harry Potter and the Sorcerer's Stone (Harry Potter #1)](https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone) by J.K. Rowling** ^(&#40;Matching 100% \u2611\ufe0f&#41;)\n\n^(309 pages | Published: 1997 | Suggested 14 times)\n\n\n> **Summary:** Harry Potter's life is miserable. His parents are dead and he's stuck with his heartless relatives. who force him to live in a tiny closet under the stairs. But his fortune changes when he receives a letter that tells him the truth about himself: he's a wizard. A mysterious visitor rescues him from his relatives and takes him to his new home. Hogwarts School of Witchcraft and Wizardry. After a lifetime of bottling up his magical powers. Harry finally feels like a normal kid. (...)\n\n> **Themes**: Fantasy, Fiction, Young-adult, Harry-potter, Books-i-own\n\n> **Top 2 recommended-along**: [The Casual Vacancy - Perebutan Kursi Kosong](https://www.goodreads.com/book/show/16173852-the-casual-vacancy---perebutan-kursi-kosong) by J.K. Rowling, [The Hunger Games Series](https://www.goodreads.com/book/show/2767052-the-hunger-games) by Suzanne Collins\n---\n\\#2/3: **[Call Me By Your Name (Call Me By Your Name #1)](https://www.goodreads.com/book/show/36336078-call-me-by-your-name) by Andr\u00e9 Aciman** ^(&#40;Matching 100% \u2611\ufe0f&#41;)\n\n^(248 pages | Published: 2007 | Suggested 77 times)\n\n\n> **Summary:** Call Me by Your Name is the story of a sudden and powerful romance that blossoms between an adolescent boy and a summer guest at his parents' cliff-side mansion on the Italian Riviera. Unprepared for the consequences of their attraction. at first each feigns indifference. But during the restless summer weeks that follow. unrelenting buried currents of obsession and fear. fascination and desire. intensify their passion as they test the charged ground between them. What grows (...)\n\n> **Themes**: Fiction, Romance, Lgbt, Lgbtq, Contemporary\n\n> **Top 2 recommended-along**: [The Wings of the Dove](https://www.goodreads.com/book/show/124272.The_Wings_of_the_Dove) by Henry James, [Find Me (Call Me By Your Name, #2)](https://www.goodreads.com/book/show/44581535-find-me) by Andr\u00e9 Aciman\n---\n\\#3/3: **[1984](https://www.goodreads.com/book/show/40961427-1984) by George Orwell** ^(&#40;Matching 100% \u2611\ufe0f&#41;)\n\n^(298 pages | Published: 1949 | Suggested 221 times)\n\n\n> **Summary:** Among the seminal texts of the 20th century. Nineteen Eighty-Four is a rare work that grows more haunting as its futuristic purgatory becomes more real. Published in 1949. the book offers political satirist George Orwell's nightmarish vision of a totalitarian. bureaucratic world and one poor stiff's attempt to find individuality. The brilliance of the novel is Orwell's prescience of modern life\u2014the ubiquity of television. the distortion of the language\u2014and his ability to (...)\n\n> **Themes**: Classics, Fiction, Science-fiction, Dystopia, Dystopian\n\n> **Top 2 recommended-along**: [Brave New World](https://www.goodreads.com/book/show/5129.Brave_New_World) by Aldous Huxley, [Animal Farm](https://www.goodreads.com/book/show/170448.Animal_Farm) by George Orwell\n\n^( [Provide Feedback](https://docs.google.com/forms/d/e/1FAIpQLSctJFIlf7XR_3y0ZOELiDFYufSKJBKlxE9hUFXz4CGIwBXAQQ/viewform?usp=pp_url) | [Source Code](https://github.com/sonoff2/goodreads-rebot) )",
             "Thanks for bringing it back",
-            "Just wanted to say wow, this is amazing!!\n\nHave you heard of [https://hardcover.app](https://hardcover.app)? I've started tracking my books there, in an effort to break from Goodreads. I'm not sure about their API, but maybe it would be helpful for your bot?",
-            "Good bot",
             "So if I said tell me more about {{Fourth Wing}}....",
-            "{{The witch collector}}",
             "ReBot from House Goodreads, may your reign never end <3",
             "I want to know about {{A mind for numbers}}",
-            "{{The tao of pooh}}"
-        ]
-    },
-    "Suggest me a book with the theme \"I'll find you in every universe\"": {
-        "title": "Suggest me a book with the theme \"I'll find you in every universe\"",
-        "score": 83,
-        "url": "https://www.reddit.com/r/suggestmeabook/comments/1dqxwb9/suggest_me_a_book_with_the_theme_ill_find_you_in/",
-        "content": "Looking for some books along the lines of characters seperating (optionally losing their memories) through different galaxies, dimensions, another life, space, time and eventually finding each other by any means.",
-        "num_comments": 112,
-        "comments": [
-            "Dark Matter by Blake Crouch",
-            "The Time Travelers Wife might fit this too",
-            "Cloud Atlas",
-            "This Is How You Lose the Time War by Amal El-Mohtar and Max Gladstone",
-            "{{What Dreams May Come by Richard Matheson}}",
-            "[22 Murders of Madison May](https://www.goodreads.com/book/show/55859459-the-22-murders-of-madison-may) - Here's the summary:\n\n*I love you. In every world.*  \n  \nYoung real estate agent Madison May is shocked when a client at an open house says these words to her. The man, a stranger, seems to know far too much about her, and professes his love--shortly before he murders her.  \n  \nFelicity Staples hates reporting on murders. As a journalist for a midsize New York City paper, she knows she must take on the assignment to research Madison May's shocking murder, but the crime seems random and the suspect is in the wind. That is, until Felicity spots the killer on the subway, right before he vanishes.  \n  \nSoon, Felicity senses her entire universe has shifted. No one remembers Madison May, or Felicity's encounter with the mysterious man. And her cat is missing. Felicity realizes that in her pursuit of Madison's killer, she followed him into a different dimension--one where everything about her existence is slightly altered. At first, she is determined to return to the reality she knows, but when Madison May--in this world, a struggling actress--is murdered again, Felicity decides she must find the killer--and learns that she is not the only one hunting him.  \n  \nTraveling through different realities, Felicity uncovers the opportunity--and danger--of living more than one life.",
-            "I can\u2019t believe someone hasn\u2019t suggested Philip Pullman\u2019s *His Dark Materials* yet.\n\nWell, that\u2019s my suggestion.",
-            "The Lathe of Heaven",
-            "*The Years of Rice and Salt* by Kim Stanley Robinson.\n\nI know people see KSR and assume it's sci-fi. This one's not--it's an alternate history exploring a world where the Black Plague killed 99% of Europe instead of 33%. Essentially, what would have happened to the world if Europe hadn't been there to dominate it. \n\nThe story is told as a collection of stories, taking place throughout time, with the same cast of characters reincarnating into the same ongoing tangle and cluster of personas and characters. Sometimes it takes you a while to figure out who's who--i.e. where that guy from the last story landed in this incarnation. Overall it's a deeply satisfying journey.",
-            "Reincarnation Blues"
+            "What a cool project.  Thank you for all this good work.",
+            "You should read {{Sins of Elgor}} !",
+            "Is this bot working? I\u2019ve tried it a couple of times and no cigar.",
+            "I want to see something about {{The thirteenth tale}}",
+            "Awesome news. Long live our rebot overlords."
         ]
     },
     "saddest books you\u2019ve ever read please": {
         "title": "saddest books you\u2019ve ever read please",
-        "score": 112,
+        "score": 202,
         "url": "https://www.reddit.com/r/suggestmeabook/comments/1dqv4vj/saddest_books_youve_ever_read_please/",
         "content": "can everyone send me recs for books that are so emotionally devastating and make you feel dreadful the entire time you are reading? thank youuuuu",
-        "num_comments": 334,
+        "num_comments": 502,
         "comments": [
             "When Breath Becomes Air. It\u2019s non-fiction and you know from the start how it is going to end. But I still ugly cried and am tearing up again just thinking about it.",
-            "Where the Red Fern Grows.",
-            "The Kite Runner",
             "A Monster Calls by Patrick Ness\n\nRead it in one day. I sobbed. It is very emotional.",
-            "Never Let Me Go by Kazuo Ishiguro",
             "Flowers for Algernon by Daniel Keyes shattered me",
             "Sounds bizarre but Ian Reid's 'I am thinking of ending things.' \n\nI won't give it away but throughout the entire book you have a sinking feeling something horrible is/ has happened and when the realization hits.. dam",
             "Johnny Got His Gun, by Dalton Trumbo",
             "A Fine Balance by Mistry\n\nNight by Elie Wiesel",
-            "The book thief"
+            "Atonement by Ian McEwan. I remember it being devastating on several levels",
+            "Where the Red Fern Grows.",
+            "Never Let Me Go by Kazuo Ishiguro",
+            "You might not expect someone to suggest this, but Pet Sematary by Stephen King"
         ]
     },
-    "Suggest me the book you've read the most times": {
-        "title": "Suggest me the book you've read the most times",
-        "score": 157,
-        "url": "https://www.reddit.com/r/suggestmeabook/comments/1dqpab1/suggest_me_the_book_youve_read_the_most_times/",
-        "content": "Curious to hear about the books that people learn from with multiple readings",
-        "num_comments": 442,
+    "Suggest me a book with the theme \"I'll find you in every universe\"": {
+        "title": "Suggest me a book with the theme \"I'll find you in every universe\"",
+        "score": 115,
+        "url": "https://www.reddit.com/r/suggestmeabook/comments/1dqxwb9/suggest_me_a_book_with_the_theme_ill_find_you_in/",
+        "content": "Looking for some books along the lines of characters seperating (optionally losing their memories) through different galaxies, dimensions, another life, space, time and eventually finding each other by any means.",
+        "num_comments": 142,
         "comments": [
-            "As a high school English teacher, I\u2019ve taught and reread Their Eyes Were Watching God and The Great Gatsby every year that I\u2019ve taught the course. Never get bored with these two. \n\nOutside of teaching, probably The Remains of the Day by Kazuo Ishiguro. Insanely re-readable because of Ishiguro\u2019s restraint and subtleties, and also because some parts of the book are so dryly humorous that I may have missed them the first time.",
-            "Donna Tartt\u2019s A Secret History",
-            "Pride and Prejudice (I rewatch the movie too - 1996 BBC version ofc)",
-            "The entire Harry Potter series",
-            "The Outsiders by S E Hinton",
-            "Ender\u2019s Game",
-            "Anne of Green Gables. It was the comfort book of my childhood.",
-            "[Different Seasons](https://www.goodreads.com/book/show/39662) by Stephen King\n\nEdit to add: I feel like I take away something else or view the stories slightly differently every time. They make me think.",
-            "A gentleman in Moscow, amor towles.",
-            "The Stand by Stephen King lol."
+            "Dark Matter by Blake Crouch",
+            "The Time Travelers Wife might fit this too",
+            "This Is How You Lose the Time War by Amal El-Mohtar and Max Gladstone",
+            "I can\u2019t believe someone hasn\u2019t suggested Philip Pullman\u2019s *His Dark Materials* yet.\n\nWell, that\u2019s my suggestion.",
+            "{{What Dreams May Come by Richard Matheson}}",
+            "Sea of Tranquility by Emily St. John Mandel. More time travel, but definitely had that sentiment. It\u2019s a beautiful book.",
+            "When You Reach Me, by Rebecca Stead. Technically middle grade fiction but such an intricate plot for any age.",
+            "Jitterbug Perfume by Tom Robbins",
+            "The Outlander series is a good option I think",
+            "The Invisible Life of Addie LaRue by V. E. Schwab"
+        ]
+    },
+    "Suggest me books that gave you the greatest sense of awe at the author's imagination?": {
+        "title": "Suggest me books that gave you the greatest sense of awe at the author's imagination?",
+        "score": 10,
+        "url": "https://www.reddit.com/r/suggestmeabook/comments/1dr9v1g/suggest_me_books_that_gave_you_the_greatest_sense/",
+        "content": "Suggest me books please, that made you amazed that a human being was capable of putting something so incredible onto paper.",
+        "num_comments": 28,
+        "comments": [
+            "Basically the entirety of the Discworld by Pratchett, they're all kind of individual masterpieces, but the whole thing taken as a whole is the work of genuinely rare genius.",
+            "Anything by Jasper Fforde. The creativity of the worlds he creates always amazes me. Plus the names of the characters are always great too. So many puns",
+            "Star-Maker by Olaf Stapledon and Perdido Street Station by China Mieville, respectively the most mentally ascended science fiction and fantasy I\u2019ve read.",
+            "Handmaids Tale and then Crake and Oryx. I remember reading it in the 90s and being in awe at how Atwood could have these worlds in her head in the 80s. I\u2019m older now and I can understand how she created the imagery but back then I walked around in awe for days.",
+            "I think when wer are talking about a 'sense of awe at the author's imagination' the genres that come to mind are science fiction and speculative fiction. I'd look into the works of Ursula K. Le Guin, Arthur C. Clarke, and Isaac Asimov. These are authors who have penned worlds of extreme depth and creativity. And often their works have informed the more modern works that come out to this day.",
+            "The Library at Mount Char by Scott Hawkins",
+            "The Locked Tomb series by Tamsyn Muir! First book is Gideon the Ninth.",
+            "Recently reread The Only Harmless Great Thing by Brooke Bolander. Novelette linking the radium girls and Topsy, the elephant Edisons company electrocuted, in a story of revenge.",
+            "The island of missing trees by Elif Shafak (the fig treeeeeee\ud83e\udd79)",
+            "the first book that did this for me was Isaac Asimov's foundation series. To imagine a future where there would be multi-galaxy civilisations with differences that were stark and yet somehow there would be a science that could predict things. blew my mind. I was nine. Still does."
         ]
     }
 }

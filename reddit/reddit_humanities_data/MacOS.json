@@ -1,82 +1,88 @@
 {
     "MacOS Senoma Release Megathread": {
         "title": "MacOS Senoma Release Megathread",
-        "score": 164,
+        "score": 168,
         "url": "https://www.reddit.com/r/MacOS/comments/141n02j/macos_senoma_release_megathread/",
         "content": "Welcome to r/MacOS. This thread is to freely discuss about new features released in MacOS Senoma",
-        "num_comments": 983,
+        "num_comments": 990,
         "comments": [
             "There is typo in title. It's Sonoma (not Senoma)",
             "Safari's upgrades look very cool. Profiles and Web Apps are two things I really wanted!",
-            "\\*Sonoma",
-            "one day i'll risk this update, one day",
             "Huh. Why do you call it \"Senoma\"? Isn't it supposed to be called \"Sonoma\"?",
+            "one day i'll risk this update, one day",
             "Quite sad to see the first feature announced was ... screensavers.",
             "Common! Correct your spelling. It's Sonoma, not Senoma.",
             "Sonoma stinks. Avoid installing it at all costs. It\u2019s deeply unstable.",
             "someone explain the spelling error",
-            "what's senoma?"
+            "the widget feature from iPhone apps to Mac is cool.",
+            "A pedant writes: it's Sonoma."
         ]
     },
-    "Could all of u give me some tips on being efficient on Mac os, shortcuts, apps etc": {
-        "title": "Could all of u give me some tips on being efficient on Mac os, shortcuts, apps etc",
-        "score": 11,
-        "url": "https://www.reddit.com/r/MacOS/comments/1dlr65b/could_all_of_u_give_me_some_tips_on_being/",
-        "content": "Hey guys while I'm new to Mac, I feel like a Lotta the times, I'm not as fast as I could be while on this OS. One example is I only found out about the 3 finger moving from one desktop to the other 6 months ago. It has been life changing. I also think I should maybe install rectangle. \n\nSo pls give me ur best tips, shortcuts,  app recommendations etc ",
-        "num_comments": 12,
+    "Why does anyone buy screen-shot apps for macOS when the built-in tools are amazing?": {
+        "title": "Why does anyone buy screen-shot apps for macOS when the built-in tools are amazing?",
+        "score": 123,
+        "url": "https://www.reddit.com/r/MacOS/comments/1dqtvqm/why_does_anyone_buy_screenshot_apps_for_macos/",
+        "content": "Seriously, are they all just Windows switchers who don't know how good the built-in tools are?",
+        "num_comments": 112,
         "comments": [
-            "[Calendr](https://github.com/pakerwreah/Calendr) - access quickly your calendar from menubar\n\n[Clop](https://lowtechguys.com/clop/) - get your images, videos and PDF files resized automatically in the selected folder or when you copy them\n\n[Dropover](https://dropoverapp.com) - takes the MacOS experience of drag and drop to a whole new level\n\n[EasyDict](https://github.com/tisfeng/Easydict/blob/main/README_EN.md) - highlight (select) a text and get it translated to your language by multiple services (Google, Bing, DeepL, ...)\n\n[KeyClu](https://sergii.tatarenkov.name/keyclu/support/) - have the shortcuts at your fingertip and learn them for your frequently used apps\n\n[MeetingBar](https://meetingbar.app) - join your next meeting directly from your menubar\n\n[NewsExplorer](https://betamagic.nl/products/newsexplorer.html) - save your time by subscribing to your favourite subreddits, youtube channels and news sites (rss)\n\n[PastePal](https://indiegoodies.com/pastepal) - your unlimited clipboard history\n\n[Shottr](https://shotr.cc) - you won't find a better free screenshot tool, for a one-time small payment you can get rid of the most annoying sales-person which appears from time-time and support the dev\n\n[Raycast](https://www.raycast.com) - to really supercharge your productivity\n\n[Wipr](https://kaylees.site/wipr.html) - to get rid of cookies pop up windows and ads for Safari",
-            "Learn the standard keyboard shortcuts.  \n[https://support.apple.com/102650](https://support.apple.com/102650)  \nThis is a huge list, you're not going to learn it overnight, but there's a massive amount you can do on a Mac if you know the shortcuts.",
-            "r/OSXTweaks",
-            "I found the MacMost YouTube tutorials to be really useful, even after using the Mac for years. He has are a ton of them, but this one is probably a good start:\n\nhttps://youtu.be/eLBjS5ndNN4?si=tJFtyVpJz9SEFzIM",
-            "I recommend getting a launcher such as [Raycast](https://www.raycast.com), [Alfred](https://www.alfredapp.com), or [Monarch](https://www.monarchlauncher.com). They're like Spotlight, but more feature-full and customizable to your needs.",
-            "When resizing a selection, holding the option key will maintain its dimensions so you don\u2019t mess up the aspect ratio.\n\nShift-Command-3 for screen shots\n\nShift-Command-4 for selection part of your screen, hit space for window selection\n\nShift-Command-5 for screen recording options, the stop button appears in the menu bar during recording",
-            "Shift + cmd + . = show hidden files",
-            "Raycast",
-            "Man, you deserve a donation!",
-            "Thanks for this! I\u2019m coming in from Linux and have had a hard time adjusting."
+            "If you've never used a better screenshot app, you don't know what you are missing. For example, Skitch is way ahead of built-in tools, even though it has not been updated for 4 years.",
+            "It's great that the built-in tools cover your bases but not everyone's workflow is the same. One-size-fits-all solutions are rarely that.\n\nSo to insinuate anyone using third party tools is a \"*Windows switcher who just doesn't know*\" how good the built in mac tools are is just dismissive and arrogant. I could just as easily suggest they might know the limitations of those tools better than you... But the reality would be - you just have different needs.",
+            "Can the built-in screenshot tool draw red rectangles or circles around parts of the screenshot, underline things, redact or blur parts of it? I work in cybersecurity and my reports have some company\u2019s worst details in screenshots and that stuff has to be annotated and sensitive information blurred out.",
+            "I use Greenshot. Works great for my job",
+            "For video  capture free OBS is superior to any Apple tools - it is industry standard with extra features  like video cards capture.... multi sources...",
+            "You don't have to be so judgemental as you see from the comments you have little idea about what good screenshot tools are",
+            "CleanShot X is fantastic for video recordings with pointer highlights and uploading to a cloud quickly.",
+            "I use shottr mainly for its floating window",
+            "It\u2019s a lot of windows users who aren\u2019t used to having good applications built in.",
+            "The only thing that I don't like about using the Mac's built-in screen shot mechanisms is that when creating a screen shot within Photoshop, is that the Ps brush is never captured showing the brush tip. The generic cursor is captured. Most of my screen shots involve showing things using Ps at the Ps subs. It'd be nice to have a mechanism for showing the brush tip rather than the generic cursor arrow."
         ]
     },
-    "Are you always closing applications when you are done with them?": {
-        "title": "Are you always closing applications when you are done with them?",
-        "score": 53,
-        "url": "https://www.reddit.com/r/MacOS/comments/1dlakas/are_you_always_closing_applications_when_you_are/",
-        "content": "I've been using MacOS since around 2015, but I was still using Windows a lot until around 2018. I'd never go back to Windows. I love almost everything about this ecosystem. I never turn off my MacBook. I love how it starts up instantly.\n\nI do still have this thing about closing every app when I'm done with it. I have a feeling it's still drawing battery, even when I'm not using it. I'm not talking about apps like Safari, Notes or Mail. I'm talking about Ableton, Cubase, Xcode or CLion.\n\nHow do you handle these context switches? I'd love to use different desktops for these scenarios, but I'm afraid it'll affect battery life.\n\nI'm using a MacBook Pro M1 Pro 2021.",
-        "num_comments": 75,
+    "Why can\u2019t we get eSIMs on Apple laptops?": {
+        "title": "Why can\u2019t we get eSIMs on Apple laptops?",
+        "score": 13,
+        "url": "https://www.reddit.com/r/MacOS/comments/1dr6ds4/why_cant_we_get_esims_on_apple_laptops/",
+        "content": "",
+        "num_comments": 22,
         "comments": [
-            "i got used to doing the very same thing when apps were happy to track me, and when memory leaks were worse than they are now (but don't kid yourself; there are still memory leaks in some apps). Anyway, I continue to do so.",
-            "I close documents, but almost never close apps.  They don't really take up resources when you aren't using them.\n\nFor many years now, macOS has supported automatic quitting of apps with no open documents, but only if the app explicitly supports this behavior.\n\nI'm pretty sure all Apple apps support this. I just tested and confirmed that this works with Preview, TextEdit, and Pages.  (Though when you first open those apps, they show an \"open\" dialog.  They won't auto-quit if that dialog box is open.)",
-            "I use SwiftQuit which quits the app if all the windows are closed. I have some things on the \u201csafe list\u201d so that they\u2019ll stay open (like Apple Music, for example). I know it\u2019s not necessary, but I don\u2019t like the white dots on the dock icons (OCD)",
-            "Been using MacOS for about 1.5 years and I close and quit almost everything when I\u2019m not using it, or when I put my Mac to sleep for the night. You\u2019re telling me I don\u2019t have to do this and can just open my MacBook in the morning and pick everything up where I left off? That might be a game changer for me",
-            "yeah because I use CMD+Tab and the undead apps still appear on the list so they get in the way",
-            "I have a habit of closing anything I am not actively using. Tabs, apps, windows, everything.",
-            "Yes I do. Part of it is due to an old habit from the 64/ 128 mb ram on 98/ xp days when I had to choose between music, browsing or playing a game. It never went away, despite having 64gb on my windows laptop or 16 on my minis. \n\nIt\u2019s also part OCD, I like having everything clean in my computer, inlcuding not having apps open. \n\nThe only app that I never close is the mail app, the rest get a command q as soon as I am done with them.",
-            "Almost never. My habit is to either just close the document window (command-W) or Hide (command-H) the app, since opening an app which has been quit (command-Q) can take longer than one which is simply hidden. No issues with battery life or memory usage from hidden apps, at least not any that I use.",
-            "I always CMD+Q resource heavy apps like Adobe\u2019s but lightweight stuff I just leave in the background.",
-            "Never. All 5 virtual desktops host the same app layouts for years\ud83d\ude02 i am so used to it."
+            "Am I the only one hoping for this feature?",
+            "Because the interest is so low.\n\nJust use hotspot from your phone.",
+            "I\u2019m guessing their analytics tells them there\u2019s not enough interest.",
+            "Because Apple hasn\u2019t added the required hardware.\n\nThere are rumors they have done some internal testing but for whatever reason haven\u2019t added this to production",
+            "So they can sell more iPhones which, by the way, are designed for such.",
+            "So they can sell more iPhones which, by the way, are designed for such.",
+            "Writing this as I've been using my iPhone as hotspot for the past 6 hours, it'd be an unnecessary cost.",
+            "If I have my laptop, I have my phone. No need for me personally.",
+            "SIM card alone is not enough for cellular network access if that\u2019s what you\u2019re assuming. It requires cellular modem designed into motherboard and the device needs to have antenna to send/receive signals which needs to be properly placed on the device to ensure least interference etc..",
+            "The same reason you can\u2019t get a SIM on an Apple laptop \u2014 no hardware to use it. It quite probably could be an antenna placement problem that Apple hasn\u2019t figured out to their satisfaction. Or it could be a marketing reason like not enough demand for it."
         ]
     },
-    "Booting the MacOS Yosemite installer/recovery on the Vision Pro via UTM": {
-        "title": "Booting the MacOS Yosemite installer/recovery on the Vision Pro via UTM",
-        "score": 7,
-        "url": "https://www.reddit.com/r/MacOS/comments/1dlnvqp/booting_the_macos_yosemite_installerrecovery_on/",
-        "content": "https://preview.redd.it/cyhvwns3128d1.png?width=1920&format=png&auto=webp&s=5a4717d9784381a91977153d7837f1e0b0189908\n\nI will install it tomorrow, it's just that it's 2 am and I dont really want to stay up for an hour longer.(this thing takes 8 minutes to boot lmao)",
-        "num_comments": 0,
-        "comments": []
-    },
-    "Any changes to Photos app in Sequoia?": {
-        "title": "Any changes to Photos app in Sequoia?",
+    "Wondering if there's an add-on like libredirect for safari?": {
+        "title": "Wondering if there's an add-on like libredirect for safari?",
         "score": 3,
-        "url": "https://www.reddit.com/r/MacOS/comments/1dlqp9l/any_changes_to_photos_app_in_sequoia/",
-        "content": "The iOS Photos app in iOS 18 beta has been completely redesigned. I haven't heard anything about macOS Photos. Any changes, or is it gonna be a year behind?",
-        "num_comments": 6,
+        "url": "https://www.reddit.com/r/MacOS/comments/1dr7dkz/wondering_if_theres_an_addon_like_libredirect_for/",
+        "content": "With YouTube blocking ad blockers now, I want to redirect YouTube to my invidious instance automatically. Any add ons like that for safari?\nTIA",
+        "num_comments": 4,
         "comments": [
-            "I've tried, in the past, on several occassions, to use the Apple Photos app and repeatedly found it isn't up to the job of doing what I want.\n\nA keep returning to GraphicConverter which is a brilliant app at a relatively low cost. OK, it doesn't have an iOS version but most of my photography is with a camera anyway.",
-            "Basically same as what they showed for iOS 18. App is pretty consistent across all platforms. Has the same updates.",
-            "I might look that up. I'm not happy with Photos but I'm trapped in it and pondering my abilty to escape. \n\nJust to explain, what i dont like is that everything is in one huge database and Ive had a couple of times its misfired and taken me ages to fix. Most recently (just last month) it renamed one person to another and forgot a second, but only when those two people were in the same photo. This was literally hundreds of photos. This had gone unnoticed for some time so even Time Machine was of very limited help.\n\nI'll check out graphics converter. That might be a winter project for me.",
-            "Interesting, weird that they haven't shown it off at all or used it in marketing like they have for iOS",
-            "The GraphicConverter image database is basically the Finder. You can set up an images folder wherever you want, unlike Photos which , as far as I can determine, forces you to store images either on the system drive or iCloud - mine is on an external drive but you can have multiple image folders wherever you wish. \n\nGC also has a wide range of tools for managing and organising images plus almost as good an image editing tool set as Photshop, all for under \u20ac40.\n\nI've been using GC for over 25 years - I have no financial or other involvement with GC. Photshop might have some advantages but at a significantly higher price.\n\nThe GC author is also very active on the GC forums. Any problems/questions, you'll get an answer usually within a few days. If he thinks it a good idea, he will also implement changes asked for by users, something neither Apple nor Adobe ever do - I wanted to rename a set of image files with reference to a spreadsheet which listed current file names and new file names. He implemented this within a couple of weeks.",
-            "Thanks.  And I see from the forum it has face recognition.\n\nJust to be fair to Photos you can put the database wherever you want and you can have alternates which you can switch between. All still one humungous database though.  \n\nSo, my plan would be, export each album to a new location under a top level folder, lets call it GCImageDatabase. And the album name would be <location> or <event> eg i might have Hawaii2018 and CraftFair2011 etc folders. All under that central folder. And then point GC at that. I presume it does also create its own Db to cross reference pictures, eg pictures that contain \"Fred\" or pictures of a whale, or pictures in Hawaii, whatever? (Photos is good at locations)\n\nAlso as its shareware i can try it (I would buy if it works for me)\n\nNext step, I'm looking for more disks !\n\nI dont do a whole lot of editing but i did buy PIxelmator, does GC work with third party editors ?Worst case i can export out and back again if i dont like the tools in GC"
+            "it is indeed. Thank you :)",
+            "awesome. thanks.",
+            "https://apps.apple.com/se/app/redirect-web-for-safari/id1571283503\n\nIs that what you want?",
+            "[https://apps.apple.com/nl/app/privacy-redirect/id1578144015?l=en-GB](https://apps.apple.com/nl/app/privacy-redirect/id1578144015?l=en-GB)"
+        ]
+    },
+    "I'm looking for a good beginner's guide to MacOS": {
+        "title": "I'm looking for a good beginner's guide to MacOS",
+        "score": 2,
+        "url": "https://www.reddit.com/r/MacOS/comments/1dr7ywi/im_looking_for_a_good_beginners_guide_to_macos/",
+        "content": "Of course, there are dozens of them, and that's the problem - which would be the best one for me?  I'm clearly in the same position as lots of other people on this and similar forums: I started using Unix way back on the good old PDP-11, have used various flavours of it along the way both at work and at home, have been using mainly Debian since Oracle took Solaris over.  I'm retired now and getting to the point where I really just want something that works, hence looking at switching from Debian to MacOS.  I've set up an aging Mac Mini running Monterey to try things out and decide if that's the way to go.\n\nOne of the things I've realised is that instead of simply trying to duplicate X11/KDE behaviour on the Mac, it would be good to know how MacOS natively handles various tasks.  I've found a couple of things in my quest to get things working the way I'm used to where I would never have thought of tackling the problem that way, but it's just as good, and as it's native to the OS, not a bad thing to adopt it.\n\nI've had a brief look at a few \"Getting Started on a Mac\" guides but most assume either that you're coming from Windows (which I have never used other than trivially and really don't know at all) or that you're a complete idiot - frequently both.  Anyone found anything useful out there?  I'd prefer something I can read rather than a youtube video.  It doesn't necessarily have to be free or even online, I'd be perfectly happy to buy a book (though I am looking for a fairly straightforward guide, not the O'Reilly 800 page manual that covers MacOS's most obscure nooks and crannies, though maybe not the obvious bits).\n\nThanks in anticipation!",
+        "num_comments": 7,
+        "comments": [
+            "Have you tried just YouTubing like \u201cgetting started macOS\u201d and filtering for +20min videos?",
+            "Wow, PDP-11. How many people even know what that was without looking it up. I too have been around for more spins around the sun than I care to consider. I went over to macOS maybe 3 years ago after 35 years on Windows. It's different, but after a month you just get used to it. And coming from Linux, you will probably find it pretty similar.",
+            "As an example, while trying to work out how to open extra iTerms (rather than just being pointed at the one already running) I found out about Automator.  This is clearly useful, but I never looked up how to use it, because I didn't know about it.  I'm looking for something that would introduce me to useful ways of doing things on a Mac that I wouldn't necessarily know about because they are different to what I would find on Debian.",
+            "Yes I have tried that, but the odd thing I have dipped my toe into has taken about 10 minutes to show you how to change the location of the dock.  Longer on youtube often means even slower.  If you know of any specific good ones, I'd be happy to try them, though I would generally prefer something written as its easier to refer back to.",
+            "You are right, Apple support is very good, but I have found that it gives you the answers to the questions you knew to ask.  I have not yet seen any really good youtube videos.  I have found a couple of answers to questions on MacRumours so I will peruse the site a bit more thoroughly.",
+            "I am confident you would find something suitable among this series of books:\n\n[Take Control Books](https://www.takecontrolbooks.com)\n\nI have perused several of them, they are competent and to the point.",
+            "Honestly, between official Apple Support on their [website](https://support.apple.com/en-ca/guide/mac-help/mchl3a2c2cb0/mac) and [YouTube](https://youtube.com/playlist?list=PLIl2EzNYri0emtB96zErQCSnoNf_VOdLd&si=46z6kdJlXby6wCuK), those are the best places to start. Also, search [MacRumors.com](https://MacRumors.com) for anything you can\u2019t find the answer to."
         ]
     }
 }

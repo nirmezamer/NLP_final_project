@@ -1,88 +1,94 @@
 {
     "\u2753 \"Is Cities: Skylines II Worth It?\" megathread": {
         "title": "\u2753 \"Is Cities: Skylines II Worth It?\" megathread",
-        "score": 96,
+        "score": 101,
         "url": "https://www.reddit.com/r/CitiesSkylines/comments/1d58qe9/is_cities_skylines_ii_worth_it_megathread/",
         "content": "# \"Is Cities: Skylines II Worth It?\" \ud83e\udd14\n\n... is one of the most common questions we see on the subreddit at the moment, leading to dozens of duplicate posts asking essentially the same thing: Should I buy the game or not?\n\nIt is our intent that this megathread will help collect information to help you make your decision, and provide a place to ask for more subjective opinions from community members. \n\n## General FAQs\n\nIf you're after general information about or help with the game (e.g. features, minimum or recommended specs, the situation related to modding, when the game will release on consoles), check out our wiki articles below. They'll provide you a decent base level of knowledge and help you understand more about the features and limitations of the game.\n\n- [Getting Started](https://reddit.com/r/CitiesSkylines/wiki/faq_gettingstarted_cs2)\n- [Common Gameplay Issues](https://www.reddit.com/r/CitiesSkylines/wiki/faq_gameplay_cs2/) \n- [Hardware Advice](https://reddit.com/r/CitiesSkylines/wiki/faq_hardware_cs2)\n- [Downloadable Content (DLC)](https://reddit.com/r/CitiesSkylines/wiki/faq_dlc_cs2)\n- [Modding and Custom Content](https://reddit.com/r/CitiesSkylines/wiki/faq_modding_cs2)\n\n## Patches and Bug Fixes\n\nAs of 2023-05-01 there have been 10 patches for the game. These patches have included over 400 changes to the base game. These include both major changes (addition of LOD models for citizens, introduction of modding support) and minor changes (updates to localisation text). You can review the change log for each patch below: \n\n* **1.0.11f1 (2023-10-26):** [9 row change log](https://cs2.paradoxwikis.com/Patch_1.0.X#1.0.11f1)\n* **1.0.12f1 (2023-11-02):** [17 row change log](https://cs2.paradoxwikis.com/Patch_1.0.X#1.0.12f1)\n* **1.0.13f1 (2023-11-09):** [18 row change log](https://cs2.paradoxwikis.com/Patch_1.0.X#1.0.13f1)\n* **1.0.14f1 (2023-11-16):** [21 row change log](https://cs2.paradoxwikis.com/Patch_1.0.X#1.0.14f1)\n* **1.0.15f1 (2023-12-01):** [46 row change log](https://cs2.paradoxwikis.com/Patch_1.0.X#1.0.15f1)\n* **1.0.18f1 (2023-12-14):** [42 row change log](https://cs2.paradoxwikis.com/Patch_1.0.X#1.0.18f1)\n* **1.0.19f1 (2024-01-31):** [63 row change log](https://cs2.paradoxwikis.com/Patch_1.0.X#1.0.19f1)\n* **1.1.0f1 (2024-03-25):**  [65 row change log](https://cs2.paradoxwikis.com/Patch_1.1.X#1.1.0f1)\n* **1.1.1f1 (2024-04-02):** [12 row change log](https://cs2.paradoxwikis.com/Patch_1.1.X#1.1.1f1)\n* **1.1.2f1 (2024-04-25):** [107 row change log](https://cs2.paradoxwikis.com/Patch_1.1.X#1.1.2f1)\n\n**_OK, but have those patches actually changed anything?_**\n\nCommunity member /u/Safe-Economics-3224 created a benchmark in the weeks after launch and has continued to post results after each patch has released. These give a good indication as to how performance has improved over the life of the game so far:\n\n- [1.0.12f1 (2023-11-02)](https://reddit.com/r/CitiesSkylines/comments/17o8ke7/created_a_benchmark_to_accurately_measure/)\n- [1.0.13f1 (2023-11-09)](https://reddit.com/r/CitiesSkylines/comments/17syube/patch_1013f1_hotfix_updated_benchmark_results_and/)\n- [1.0.14f1 (2023-11-16)](https://reddit.com/r/CitiesSkylines/comments/17ygxuj/patch_1014f1_hotfix_updated_benchmark_results_and/)\n- [1.0.15f1 (2023-12-01)](https://reddit.com/r/CitiesSkylines/comments/188zho8/patch_1015f1_hotfix_updated_benchmark_results_and/)\n- [1.0.18f1 (2023-12-14)](https://reddit.com/r/CitiesSkylines/comments/18kccdb/patch_1018f1_hotfix_updated_benchmark_results_and/)\n- [1.0.19f1 (2024-01-31)](https://reddit.com/r/CitiesSkylines/comments/1agy7ei/patch_1019f1_hotfix_updated_benchmark_results_and/)\n\nUnfortunately, /u/Safe-Economics-3224 has gone quiet since this the 1.0.19f1 patch and we've not been able to identify another reliable source of consistent benchmarking results. Big thanks to /u/Safe-Economics-3224 for all of the great work they did on behalf of this community.\n\n## What have the devs been saying?\n\nThe main channel of \"formal\" communication from the developers comes via the Word of the Week blog post shared each Monday by the Colossal Order CEO in the Paradox Forums. We maintain an accompanying megathread which captures a lot of player feedback and reactions to the news shared each week. \n\nAs these are shared weekly, the best way to catch up on past posts is to browse the [Dev Diary flair](https://reddit.com/r/CitiesSkylines/search?sort=new&restrict_sr=on&q=flair%3ADev%2BDiary) and dip into the more recent ones. Unfortunately, this link won't work on Reddit's mobile apps (please [tell Reddit if you'd like this fixed](https://support.reddithelp.com/hc/en-us/requests/new?ticket_form_id=23708886396180)) but in the meantime you can go to the main page of the subreddit and use the \"filter by flair\" options provided.\n\n## Live Gameplay Videos\n\nIf you're interested in seeing how the game is playing today, you can check out recent videos or streams from YouTube and Twitch. These will show you the \"real\" game, not marketing videos. As there is only limited mod support for the game at this stage, what you see will _broadly_ be vanilla gameplay and will help you understand how the game is performing at the moment.\n\n- [Cities: Skylines II game page on YouTube, sorted by Recent](https://www.youtube.com/channel/UCVM37E_mrP2kufE8Uu-YOSg/recent)\n- [Cities: Skylines II category page on Twitch, sorted by Recent](https://www.twitch.tv/directory/category/cities-skylines-ii?sort=RECENT)\n\n## Reviews\n\nMany critic reviews aren't necessarily reflective of the _current_ state of the game. That said, reviews are helpful sources of information to help you decide whether or not to drop your cash on any new game, not just Cities: Skylines II.\n\n- [Metacritic Page](https://www.metacritic.com/game/cities-skylines-ii/) (includes both critic and player reviews)\n- [Steam Review Page](https://store.steampowered.com/app/949230/Cities_Skylines_II/#app_reviews_hash) (you may wish to use the provided filters to show more recent reviews)\n- [Microsoft Review Page](https://www.xbox.com/en-GB/games/store/cities-skylines-ii-pc-edition/9PGZ346PSLN0) (you may wish to sort by \"recent\")\n\n## Try Before you Buy\n\nIf you're still unsure, Cities: Skylines II is available on Microsoft Game Pass for PC, which is a subscription service at a much lower monthly cost than the full retail price of the game. Microsoft is currently offering an initial 14-day trial for as low as \u00a31/$1/1\u20ac (which renews at full price after the 14 days).\n\n- [US$1 Game Pass Trial](https://www.xbox.com/en-us/games/store/xbox-game-pass-ultimate/cfq7ttc0khs0)\n- [\u00a31 Game Pass Trial](https://www.xbox.com/en-GB/xbox-game-pass)\n- [1\u20ac Game Pass Trial](https://www.xbox.com/en-IE/games/store/xbox-game-pass-ultimate/cfq7ttc0khs0) (this link goes to the Xbox Ireland store, check the local Xbox site for your country before proceding)\n\n## Refunds \n\nIf for any reason you can't make use of a discounted Game Pass for PC subscription (i.e. it may not be available in your region), you have the option of purchasing the game and refunding it within the store's refund window.\n\n- **Steam:** Request a refund within 14 days of purchase, as long as you haven't accrued more than **2 hours of total playtime** \n- **Microsoft Store:** Request a refund within 14 days of purchase, as long as you haven't accrued \"a significant amount of play time\"\n\nRecognising that you may not be able to reach the \"late game\" within 2 hours, you can use [this 100k benchmarking city](https://www.reddit.com/r/CitiesSkylines/comments/17fg7z9/benchmark_your_pc_using_this_100k_population/) to establish whether or not you're comfortable with the performance on your system.\n\n## Specific Questions\n\nIf you've got specific questions about items not covered in these FAQs, feel free to ask them below. If you've been redirected to this post by a removal notice, please understand that this is done to help keep the subreddit tidy by providing a centralised and dedicated location for **all** information related to this topic. \n\n___\n\n&nbsp;\n\n^These ^megathreads ^are ^scheduled ^to ^post ^at ^00:01 ^on ^the ^first ^day ^of ^each ^month. ^If ^it's ^late ^in ^the ^month, ^you ^may ^want ^to ^wait ^for ^a ^new ^post ^to ^appear. ^Please ^send ^us ^a ^[ModMail](https://www.reddit.com/message/compose?to=%2Fr%2Fcitiesskylines) ^with ^any ^suggested ^improvements!",
-        "num_comments": 128,
+        "num_comments": 176,
         "comments": [
-            "It's fun to play with the new roads (especially smooth highway connections) and the assets fun lasts for a bit. After many many hours though, it becomes dull and boring. \n\nI've been waiting over 7 months for metro crossings. Not even elevated metro, just a simple road crossing. Code mods have helped with some things, but a lot is missing. WAY too many half baked ideas in the game such as:\n\n- Tourism (barely exists)\n\n- Snow mechanics\n\n- Transit (lack of vehicles, mechanics such as forcing a limit of vehicles + more)\n\n- Metro (no elevated, no metro crossings, underground connections are a pain)\n\n- Bikes\n\n- Economy (maybe fixed/starting to be fixed in next patch)\n\n- Service buildings (way too big, no variety)\n\nMany more i'm sure I missed",
             "I have the game but haven't opened it since launch.  Are there any mods yet to change the look of the game?  When I see screenshots the lighting is always weird and bland.  Like overcast but with hard shadows.  It doesn't look right to me.  I saw someone play a desert map and it was way too saturated.",
             "Yes, but not to play hundreds of hours. \nCommunity assets are missing and that for me the only thing missing now. \nParadox mods sucks. Every time I launch the game I have to wait for mods update, close the game, reopen, reclose the game. Then sometimes it works, sometimes it\u2019s not. Well big crap.",
             "After a few month i gave it a second shot. With mods there are more option to fix some \"bugs\". However, after a few weeks i'm tired of all the crashes (every time i play the game it crashes at least once), the bugs (super weird bugs), the traffic (no chance of doing something against ist), the performance (with 4080, 64gb ram and i7 i play with super ugly textures and my GPU is at 95% ). Its really frustrating as i really want to have fun. But it's more off a me cussing in front of my PC instead of having fun. I really hope they'll fixing it",
             "If this game gets itself fixed up soon then it's worth it, if they start spamming out dlc, then no, it won't be worth it.",
             "My game literally won\u2019t load with mods but without is fine",
             "A lot of the answers in here are just being intentionally pessimistic. I think if anyone is looking *right now* and considering, wait a tiny bit longer and check again. They'll be releasing the economy rework (among a few other things) in the next week or two, which might make a substantial difference in a lot of the gameplay issues. There's still a lot of other stuff they need to address afterward, but you won't have to wait long to see if it makes a difference.",
-            "If you haven't purchased it yet, you could probably hold off a little longer and wait until a game of the year version or a big sale.",
             "Not really, the game is bland and boring outside of the bugs.  This company kind of shot themselves in the foot not changing engines and making the game look and feel better than the first game.  It would have been far better to take the old game and just offer and upgrade along with the 100s of dollars in expansions we already bought along with it.",
-            "I am waiting until they finish the game. It seems to me everyone who brought CS2 brought a beta. I just got CS1 and it is crazy to have 43 DLC's so far and I guess one more is coming Landmark Buildings which I see when I open the gave in a window above my listed DLC's."
+            "If you haven't purchased it yet, you could probably hold off a little longer and wait until a game of the year version or a big sale.",
+            "I am waiting until they finish the game. It seems to me everyone who brought CS2 brought a beta. I just got CS1 and it is crazy to have 43 DLC's so far and I guess one more is coming Landmark Buildings which I see when I open the gave in a window above my listed DLC's.",
+            "No. It hasn't been and still it's not."
         ]
     },
-    "Economy 2.0 Patch will launch at 10:00 CEST on Monday 24/06/2024": {
-        "title": "Economy 2.0 Patch will launch at 10:00 CEST on Monday 24/06/2024",
-        "score": 398,
-        "url": "https://forum.paradoxplaza.com/forum/threads/save-game-checklist-economy-2-0-1-1-4-f1.1688801/post-29711221",
+    "Dev Diary: Tile Upkeep Explained": {
+        "title": "Dev Diary: Tile Upkeep Explained",
+        "score": 80,
+        "url": "https://forum.paradoxplaza.com/forum/developer-diary/dev-diary-tile-upkeep-explained.1692037/?utm_source=launcher-csii&utm_medium=launcherv2&utm_content=main&utm_term=cawe&utm_campaign=csii_csii_202406",
         "content": "",
-        "num_comments": 211,
+        "num_comments": 46,
         "comments": [
-            "As a dev I can empathize with them releasing on a Monday.\n\nAs a working dude, dammit man they should have released on a Friday!",
-            "Well at least Elden Ring has a 3 day head start for me to finish first.",
-            "Stopped playing the game months ago waiting for fixes. Once we had mods I went back for a day but then stopped playing again to wait for this patch. So just twiddling my thumbs waiting and waiting\u2026",
-            "Paradox and their associated companies are having an absolute nightmare this week.",
-            "Little hint for devs and generally anyone selling to what they hope to be a returning customer base (different if it\u2019s a one and done transaction). \n\nUnder promise \n\nOver deliver \n\nIf you follow this, it\u2019s far more likely your customers will leave happier despite the actions being exactly the same if you over promised. \n\nThe messaging and managing of expectations can be more important than *what is actually delivered*",
-            "A disappointing update, but at least we have official communication about it now instead of being left in the dark.  I hope the patch is good.  I'm still very excited to play it, but this week's experience has left a bad taste in my mouth and makes me worry that their communication has not changed for the better.\n\nI've been a dev for 15 years.  One thing I've learned is that you can have your own internal targets, but only communicate dates to your customer when they're a sure thing.  Hiding behind words like \"might\" and \"expect\" don't help.  Yes, they're not promises, but they're still communicating *expectations*.  When you cast a wide net such as June 3 - 19, your customer is going to expect that the 19th is the latest they can expect delivery without needing additional information from you.  If you can't meet that date, you should be communicating why that's the case in advance so the 19th doesn't come, go, and your customer is beating down your door for an update.  \n\nIf I were CO, I would have said we're targeting Q3 for the patch.  As development progresses and we get closer to meeting our internal June 19th target, I would start whittling that down to June/July (Surprise!  It's early!), then late June, then June 24th ONLY when we've fully completed dev/QA and we have Steam certification.  This business of externally communicating dates when the length of development is unknown is for the birds.  Please don't give *any* dates that you're not sure of.  Instead, give us regular updates on how things are going and the things you're working on.  If you want to know the style of communication that gamers want, look at what the team building Satisfactory is doing and model after that.",
-            "It's midsummer (juhannus) so dev's will be out m\u00f6kki'ing, makes sense to not send it but still, this should've been known about and not teased this week...",
-            "YEEEES! I start my holiday on Monday.   \nHyv\u00e4t jussit kaikille!",
-            "This patch will be make or break for the game for many people, so much riding on this. Hopefully it's the real deal",
-            "Damn was hoping to play this weekend w the revamped stuff!"
+            "So far I think the system works well enough and I can easily accept it as an abstraction of administrative fees etc.",
+            "How about switching upkeep to roads (increasing it a bunch from current upkeep) from tiles instead?",
+            "Tile upkeep adds challenge, so for that purpose I like it. The option is there with mods to remove it if you're not liking it.",
+            "I feel like having a slider for that in map making to reduce the potential crippling nature of it for custom maps with a lot of resources would be a good idea",
+            "I\u2019m not a fan of this change. I found the limited number of unlock-able tiles as the cities grows in levels already made expansion a meaningful choice.\n\nThis is the type of thing I think would work better as an optional \u2018challenge mode\u2019 than a default setting.\u00a0",
+            "How about adding different sizes of service buildings.",
+            "I really like the tile upkeep. It's a smart and easy way to make the game more challenging.",
+            "I'm surprised they didn't mention any hot fixes for the known bugs.",
+            "IMHO it's not time to come back to *Cities Skylines II* just yet.",
+            "Havent played the game since the update myself yet, but i agree with the comments that say it would be smarter to have much higher costs for road maintenance rather than the tile upkeep"
         ]
     },
-    "ZOOM IN! High Res Aerial photo of my newest project.": {
-        "title": "ZOOM IN! High Res Aerial photo of my newest project.",
-        "score": 233,
-        "url": "https://i.redd.it/y9wqi590c28d1.jpeg",
-        "content": "The City has a population of approx 80k people. The goal of this project was to build an organically grown city that is largely unplanned and influenced by topography and natural features. Transport infrastructure is built on an as needed basis as realistically as possible\u2026 aka lowest cost solution to fix hot spots just like real life. This explains all the at-grade intersections except for the busiest traffic locations.  Also tried to minimize highway infrastructure cutting through the city centre. Traffic during rush hour gets pretty bad but the city has an extensive tram, metro and bus network as an alternative to driving. What do you guys think?",
-        "num_comments": 20,
-        "comments": [
-            "How did you do that? Is there a mod that does this??",
-            "Wow very cool photo. Looks like a real Google Maps satellite layer \ud83d\udc4d",
-            "looks sick asf",
-            "How did you make it so that the surface near the water didn't \"break\"? My textures near the shore always look so bad at a distance.",
-            "beautiful! looks really like a organic grown city!! :)",
-            "Some reason the downtown (? the part near the beach) has a road layout that reminds me of central Edinburgh",
-            "looks like he made like screenshot and than merged them. thats how i do it when i want a hires photo architecture/cityplan.",
-            "Ahh haha yea I meant a mod to do the satellite photo. Makes sense, something I\u2019ll maybe try at some point with my city! :)",
-            "A mod that does what? Builds your city? This is just a well designed city",
-            "Thanks :)"
-        ]
-    },
-    "WIP Coming Home": {
-        "title": "WIP Coming Home",
-        "score": 24,
-        "url": "https://i.redd.it/0rctvfoab48d1.jpeg",
+    "Went a bit overboard with this interchange": {
+        "title": "Went a bit overboard with this interchange",
+        "score": 266,
+        "url": "https://v.redd.it/92p1pszqhg9d1",
         "content": "",
-        "num_comments": 1,
+        "num_comments": 11,
         "comments": [
-            "Looks sick! Is this the GTA5 map by any chance?"
+            "Texas Department of Transportation would like to know your location.",
+            "I am sad, I am well over 50000 population, have only two entries into my city and haven\u2019t had to make any cool entries. \nIn my last city, which I decided to abandon due to water flooding issues. \ud83d\ude22 I made a simple but supercool interchange. I loved it.",
+            "Reminds me of the special hell that is stacked interchanges in southern California. The 10/57 and 405 specifically. It's cool and I hate it. \ud83e\udd23\n\nSeriously though, really cool work.",
+            "How did u do concrete beams on the highway?",
+            "This sub only features TxDOT or rural European/Japanese hamlet, there is nothing in between xD",
+            "I think most of these are pretty overkill for CS2. Unless you have zero public transport and rush hour going, they aren't really needed. So it's more of a decision for you to make them, not something you are forced to make.",
+            "Haha. I only had three small bus lines and only just started introducing rail now. It doesn\u2019t work yet, as haven\u2019t figured out custom stations 100% yet. Really enjoyed destroying my city to make it work. Cannot wait to complete it. \ud83d\ude0a",
+            "'merica",
+            "this is fire",
+            "Bland Game"
         ]
     },
-    "Is it possible to build something like this?": {
-        "title": "Is it possible to build something like this?",
-        "score": 203,
-        "url": "https://i.redd.it/dhp0jc77m08d1.jpeg",
-        "content": "Is there an easy way to do this? I know one method but it doesn't look the best and takes up a lot of space\n",
-        "num_comments": 21,
+    "Built this NATURAL & REALISTIC WATERFALL Park in CS2!!": {
+        "title": "Built this NATURAL & REALISTIC WATERFALL Park in CS2!!",
+        "score": 91,
+        "url": "https://www.reddit.com/gallery/1dr5ro5",
+        "content": "",
+        "num_comments": 7,
         "comments": [
-            "Not cleanly Vanilla. Until we get asset mods, I would be splitting the roads and using two separate 2 lane, one way roads, and a tram track in the middle of them. It'll look a bit better modded because you can place the assets closer together with Move it, but you could do this vanilla as well, it'll just be much wider and farther spaced out.\n\nEdit: Played around a little using Anarchy and Move it, here's an example of a short, unrealistic ramp, and a longer, more realistic ramp. You could make these vanilla as well, they would just need a little bit more spacing. I would like some road networks that are a bit tighter and waste less space to make this more cleanly. For example, no inner parking or sidewalk.\n\nhttps://preview.redd.it/bxmaegwgt08d1.png?width=3840&format=png&auto=webp&s=645a30d4738cb32420d785869b9f7fd129b34eb2",
-            "No, but we were pretty damn close to being able to.",
-            "Nope, at least for now. I\u2019d suggest split the 4 lane 2 way into two 2 lane 1 way on each side and make them far apart. Insert a standalone tram ramp in the middle, then connect to an upgraded rail 4 lane 2 way",
-            "possible in skylines 1 with the vanilla overpass project mod. Not currently possible in skylines 2.",
-            "Why won\u2019t Colossal Order give us highways that shoot laser beams?!?",
-            "Trying to build two way road into one?",
-            "Delete the bit where it needs to connect. Connect the rail. Connect with 2 one way two lane roads?",
-            "man i wish regular roads without parking and sidewalks were available that could drive *right up beside* walls for things like this.",
-            "Were \n\n\n(About your flair) I thought you could have metro crossings?",
-            "I never quite understood why they added Vanilla to that name.\n\nIt being a mod/asset inherently doesn't make something vanilla."
+            "Are you sure this isn't some rendering program? \nJokes outside that is fucking beautiful! Well fucking done",
+            "i see that you have a youtube. please make a video showing this off \ud83d\ude4f\ud83c\udffc",
+            "I swear this is CS2\u2026\ud83d\udc49\ud83c\udffc\ud83d\udc48\ud83c\udffc \ud83d\udc40",
+            "Thats sweet. Great work.",
+            "Thank You!",
+            "perfect. will do :)",
+            "OFFCOURSE I made a Video hehee..., It will come out on 6th July, You can Subscribe and Turn on Notification, so you will be notified for it. Promotions is not allowed Directly on this Sub-Reddit.."
+        ]
+    },
+    "CO confirms bug that affect offices, downscaling until they reach the minimum of 5 employees; no ETA for patch, may come after summer holidays": {
+        "title": "CO confirms bug that affect offices, downscaling until they reach the minimum of 5 employees; no ETA for patch, may come after summer holidays",
+        "score": 301,
+        "url": "https://www.reddit.com/r/CitiesSkylines/comments/1dqxtal/co_confirms_bug_that_affect_offices_downscaling/",
+        "content": "[https://forum.paradoxplaza.com/forum/threads/office-building-workers-still-make-zero-sense.1691984/post-29731860](https://forum.paradoxplaza.com/forum/threads/office-building-workers-still-make-zero-sense.1691984/post-29731860)\n\n>I just wanted to pop in and confirm that we're aware of the bug causing office companies to downscale until they're left with just 5/5 workers. This affects both high and low density offices. We're working on a fix, but I don't have an ETA for when it will come your way. We may not be able to patch it until after the summer lock.  \n  \n>The best workaround I have at this time is to bulldoze the office buildings when they hit that low worker count as new ones spawn in with a proper workforce. With time, they will reach the 5/5 but at least your citizens will have jobs for a while before it gets that low.\u00a0",
+        "num_comments": 144,
+        "comments": [
+            "For a moment my sleepy ass thought the title says it's going to be CO that will downsize to just 5 people lmao",
+            "So now we're waiting for a Return To Office patch?",
+            "Nothing wrong with them taking the vacation they\u2019re entitled to at this point, but I am shocked this made it through QA. Should\u2019ve just delayed the patch to after the summer",
+            "And I was actually thinking of picking it up on steam again with the sale\u2026",
+            "Maybe release a patch a few weeks before you walk out the door for vacation next time.",
+            "First question \u2026 as an American \u2026 what are Summer Holidays?",
+            "And I was just about to start a new game after 6 months. At this point I may just completely give up hope",
+            "I read the title as if this is happening to the CO as a company and was very confused",
+            "I\u2019m glad they get this great work life balance but I swear they\u2019re actually on vacation half the year and the game suffers for it.",
+            "Can someone who's in the industry please explain how stuff like his happens? Where there was no issue, they fix things then this seemingly happens by itself? It's weird to me how a bug can form from essentially not touching anything related to it"
         ]
     }
 }

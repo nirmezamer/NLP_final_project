@@ -1,92 +1,81 @@
 {
-    "Tips 'n' Tricks": {
-        "title": "Tips 'n' Tricks",
-        "score": 34,
-        "url": "https://www.reddit.com/r/feedthebeast/comments/1dhbzlt/tips_n_tricks/",
-        "content": "Welcome to **Tips 'n' Tricks**!\n        \nThis is a place to share any secret skills and techniques to help you in everyday Modded Minecraft. Please give examples of any tips you suggest and explain your trick in as much detail as you can.\n        \nTo find previous \"Tips 'n' Tricks\" posts, [click here](http://www.reddit.com/r/feedthebeast/search?q=Tips+%27n%27+Tricks+subreddit%3Afeedthebeast+author%3AAutoModerator&restrict_sr=on&sort=new&t=all).\n        \nAs always, please abide by the [subreddit's rules](http://www.reddit.com/r/feedthebeast/wiki/rules).",
-        "num_comments": 18,
+    "Work-In-Progress": {
+        "title": "Work-In-Progress",
+        "score": 5,
+        "url": "https://www.reddit.com/r/feedthebeast/comments/1dmqqru/workinprogress/",
+        "content": "Welcome to **Work-In-Progress**!\n        \nShow off your current builds, finished and finalised or still under maintenance. They can be anything from a base tour to a small machine that you made, whatever you are working on. Whether you want to just show off or ask for some help just make a post. You can keep us up-to-date with your builds week by week and, once you're done, feel free to make a dedicated post to the main sub!\n        \nTop-level comments should include a link to an Imgur album (and suitable captions would be nice). Constructive criticism should be used to express opinions on other's work. Don't forget the OP would have spent a lot of time on their project.\n        \nTo find previous \"Work-In-Progress\" posts, [click here](http://www.reddit.com/r/feedthebeast/search?q=Work-In-Progress+subreddit%3Afeedthebeast+author%3AAutoModerator&restrict_sr=on&sort=new&t=all).\n       \nAs always, please abide by the [subreddit's rules](http://www.reddit.com/r/feedthebeast/wiki/rules).",
+        "num_comments": 1,
         "comments": [
-            "Tip: you can use the Fel Pumpkin from Botania to summon a Blaze to capture in a Create Blaze Burner.",
-            "If you're looking for a 'starter project' once you have an initial base, look no further then a Cobbleworks. Cobblestone is magic in minecraft, even in vanilla; With just vanilla, cobblestone is not just the expected stone products, but also moss, dirt and its byproducts (including clay, insert balanced meme here), and even bonemeal. With mods included? You can typically add gravel and sand, and all the things you can process that down to that depends on the mods involved, but can include just about every basic overworld resource. That's without counting stuff like Botania's orechid straight up converting it in to ores. A cobble-processing system should always be one of the first big projects of a world, and something to revisit as the player progresses to see what said progression has further opened up.\n\nAlways check what a wandering trader offers, at least in the early and mid game. Not only can they have saplings that could take you thousands of blocks of travel to get and nautilus shells, but quite a few mods add their own trades to them, such as Apotheosis' overenchanted special named gear that is game-changing early on. If you are just shy of being able to do the trade? Shove them through a nether portal. As long as that part of the nether isn't loaded, their despawn timer shouldn't count down, buying you extra time to gather what you need.\n\nWardens only fire their sonic boom if their target is within 15 blocks horizontally and 20 blocks vertically. They are easily killable from range with no risk, as shown by Pixelriffs killing 30 wardens in about an hour here: [https://www.youtube.com/watch?v=roYtYWEGztk](https://www.youtube.com/watch?v=roYtYWEGztk) Between mods adding drops to give more reason to kill them, and modpacks adding quests to kill them, that changes the Warden from being a scary challenge to an annoying speedbump.",
-            "You can use create's mixer for recipes from [Let's do] vinery. Easter to automate and sometimes allows usage of different juices.",
-            "Tip: Create Bottomless Hose Pulley does not require 10,000 Source Block. 2 Source block is the bare minimum, flowing counts.\n\nHow it work is that the hose pulley hose lowered to touch the first source, and it will read if there is 10,000 liquid in between to the top.\n\n\nWorks in every version of create.",
-            "If you have Refined Storage and AE2 on the same pack, try to keep your RS network small and use it in the same way subnetworks work in AE2 if you have a potato pc and want to save frames. \n\nTry and automate ANYTHING POSSIBLE with AE2 subnets as they are EXTREMELY powerful for anything you can think of. Think automating AE2 circuits without taking up any channels on your main network AND all you have to do to make any circuit is supply the raw materials so it can easily be put into a pattern.\n\nThink of literally anything to automate. You might not think it would be possible to automate magic mods that aren\u2019t programming based, but think again. Combined with integrated dynamics, literally anything is possible. As in using raw block data possible.\n\nAlso try to learn red stone logic for AE2 since even a simple AND red stone gate is enough to make sure you have the right materials queued in a recipe or order and it\u2019s even more powerful with red stone add on mods.\n\nThis might not rub off on more experienced AE2 players, but less experienced players might not realize how tremendously powerful AE2 and other logistic mods really are and might not think to do some of these things.",
-            "In Ominous Woods biome from Biomes'O Plenty only enderman and cave spiders (and I think illusioners in newer versions) are allowed to spawn , so farming for enderpearls there could be very fruitful and safe (or you can just not meet a single mob for entire night)",
-            "If you have plates, gears in a modpack, tinker's construct's smeltery can produce them more efficiently, for example:\n\n2 ingots for a plate in a crafting table, 1 ingot for a plate in tk smeltery\n\n4 ingots for a gear in a crafting table, 2 ingots for a gear in tk smeltery\n\nworks in many modpacks (enigmatica 2 expert, for example, you get a better ingot --> plate ratio, but doesn't work with gears). It's a great alternative before you get a machine capable of making plates.",
-            "[deleted]",
-            "Fel pumpkins can also make molten blaze for tinkers smeltery fuel",
-            "Create's mixer can do any shapeless recipe."
+            "Im working on a modpack titled MC + on modrinth. If you are intrested please visit [https://modrinth.com/modpack/mc-+](https://modrinth.com/modpack/mc-+) although it is under review so yeah\u2026"
         ]
     },
-    "Ahh.. yes modded minecraft": {
-        "title": "Ahh.. yes modded minecraft",
-        "score": 620,
-        "url": "https://i.redd.it/wetp1hhn608d1.png",
+    "I got greggified. Now ready to reach stargate.": {
+        "title": "I got greggified. Now ready to reach stargate.",
+        "score": 1292,
+        "url": "https://i.redd.it/ys54i9c9f49d1.png",
         "content": "",
-        "num_comments": 75,
+        "num_comments": 54,
         "comments": [
-            "Bonus points if you can guess what modpack.",
-            "I LOVE DIVINE JOURNEY 2",
-            "not enough iron 7/10",
-            "h-how?",
-            "Bruh why do you have 53 million bars of graphite? Tryna make a max size extreme reactor?",
-            "i don't like these total-out-of-the-box items' icons",
-            " #Need\u2026 More\u2026 Graphite",
-            "Thats why i dont use compacting drawers anymore. If i need nuggets or blocks i just make an autocraft recipe.",
-            "he automated clay",
-            "Perfectly balanced... As all things should be"
+            "This was reported but I'm going to leave it up because that level of dedication is definitely one of the things of all time.",
+            "Artist is nini.inks on instagram !",
+            "Very cool, I was thinking about getting a circuitry/cyberpunk tattoo of a logo myself. That way it still looks cool to someone who has no idea what the logo is from.",
+            "He is the greggen one. He must link the stargates to cast away the dark and undo the curse of cringe in man. Hail the righteous successor to lord Greglyn.",
+            "My favourite modpack. Horizon new tech greg",
+            "This is fucking insane lmao",
+            "Permanent bonus to secondary outputs from ores.",
+            "his name is tech, greg tech",
+            "Throughout machines and circuits, I alone am the gregged one.",
+            "That looks really cool, but on your arm? You must really be John Greg."
         ]
     },
-    "Factorio's 2.0 update will include Thermal Expansion's pipe algorithm": {
-        "title": "Factorio's 2.0 update will include Thermal Expansion's pipe algorithm",
-        "score": 24,
-        "url": "https://factorio.com/blog/post/fff-416",
+    "Not a realistic factory if you don't illegally dump your hazardous substrate waste from ethylene production to the ocean.": {
+        "title": "Not a realistic factory if you don't illegally dump your hazardous substrate waste from ethylene production to the ocean.",
+        "score": 148,
+        "url": "https://i.redd.it/ufx99q9n9h9d1.png",
         "content": "",
-        "num_comments": 5,
+        "num_comments": 13,
         "comments": [
-            "and because reddit ate the body text, the quote from the blog post is \"During one of the fluids discussions, Rseding proposed an algorithm very close to one he had played with several times, an algorithm from the Minecraft mod Thermal Expansion by team CoFH: \"",
-            "not surprising since the devs have stated multiple times in the past that factorio was inspired by their time playing tech mods in minecraft",
-            "Is this the same as the EnderIO fluid conduit algorithm that takes 10 minutes to empty 8 mb of fluid from its internal storage?",
-            "What's so special about the Thermal Expansion pipe algorithm?",
-            "So they gonna have vacuum pipes and dense pipes?"
+            "Now we need a mod that makes those items not despawn ever, and actually float along rivers, pollution is lag",
+            "I don't know if it already exists, but I would love a mod that adds pollution, and that it would work with pretty much every tech mod, so that your actions have consequences.",
+            "For a second I thought you were dumping clay and I was about to kill you.",
+            "its still illegal? you didnt lobby to make it legal for your company to do that?  unrealistic",
+            "I mean, it's not illegal if there's nobody to stop you",
+            "It's legal in my world.",
+            "A better idea, they accumulate at the base and form hazardous waste block that emit radiation and destroy all ocean life",
+            "There's pollution of the realms but I don't think it adds water/land pollution. Only air",
+            "Gregtech has pollution! Wonder how easy it would be to make a side mod that adds it to other tech mods.",
+            "No, because players don't care about ocean life or radiation. They do however care about lag."
         ]
     },
-    "What mod adds this? and what is it exactly?": {
-        "title": "What mod adds this? and what is it exactly?",
-        "score": 119,
-        "url": "https://i.redd.it/hkeqfgpryz7d1.jpeg",
-        "content": "",
-        "num_comments": 26,
+    "Why do so many people rush to get the latest version of a mod?": {
+        "title": "Why do so many people rush to get the latest version of a mod?",
+        "score": 70,
+        "url": "https://www.reddit.com/r/feedthebeast/comments/1dr2dmg/why_do_so_many_people_rush_to_get_the_latest/",
+        "content": "Like, as soon as a Minecraft update comes out, there are so many people in the comments of some mod begging for the latest version. I'm just wondering why, because there is no way all the other mods they have installed are updated already, and if they don't have other mods installed then shouldn't they at least know that it takes time to develop a Minecraft mod?",
+        "num_comments": 27,
         "comments": [
-            "Do you have any shots of it with at least one of the slots filled? The silhouette is really unhelpful.",
-            "I think that\u2019s the bar added by The Abyss Chapter II. It\u2019s called somnium.",
-            "I for sure thought you were pointing to the hunger bar and was so confused",
-            "Idk but 23 fps is criminal lol",
-            "that's the hunger bar- it was added in Beta 1.8- it's vanilla.",
-            "this is called the hotbar, it allows you to equip and use items",
-            "Secondary Saturation bar. A handful of mods could add this, there should be one for it under Saturation though.",
-            "That's the hunger bar and it's from vanilla minecraft",
-            "That\u2019s the hunger bar, it is included in vanilla Minecraft",
-            "I tried to fill it but didn't know how, but I think its from some magic mod but not sure which one because i have allot of them"
+            "Some people (especially kids) dont understand that porting a mod is not always a one click process",
+            "1. They have no idea about how much effort goes into updates and don't intend to learn.\n2. They might only be playing with a few mods, and many smaller mods do update fairly quickly.",
+            "Beats me. I could play the same modded minecraft version for ages without feeling rushed to change, especially if its'd be only for a couple of mods.",
+            "The benefits of sticking to 1.12.2 \ud83d\ude4f\ud83d\ude4f",
+            "So they just ask the developers of every mod they want to use to update",
+            "Version chasing devs are really good at being wet blankets.",
+            "I know some people feel like they are missing out on content if they cant play the new minecraft update with their mods. They feel like they are required to play with the mods, and so they have to wait for a mod to be updated so they can finally try the new version",
+            "It's mostly children, so don't read too far into it.",
+            "I don't get it either tbh.\n\nA lot of the new stuff is neat, but it's not like you *have* to be on the latest version at all times lol",
+            "I personally hate version chasing, the community not being able to stick to one version post 1.12.2 is really annoying"
         ]
     },
-    "Never use the Cyclic Rod of Elevation in the nether": {
-        "title": "Never use the Cyclic Rod of Elevation in the nether",
-        "score": 281,
-        "url": "https://i.redd.it/bxk3avnncy7d1.png",
+    "I feel like a lot of people only use Web Displays and don't know that WaterFrames can load local files.": {
+        "title": "I feel like a lot of people only use Web Displays and don't know that WaterFrames can load local files.",
+        "score": 16,
+        "url": "https://v.redd.it/dyi9soveoh9d1",
         "content": "",
-        "num_comments": 19,
+        "num_comments": 3,
         "comments": [
-            "So... you're saying I should use the rod and it's an easy way to the top of the nether?\n\nThat's so cool. Thanks for sharing",
-            "Cyclic really is the tech mod of all time",
-            "I see this as an absolute win!",
-            "Time to make a gold farm",
-            "Or, not without Flint and Steel and obsidian.",
-            "Why not",
-            "Name yourself dinnerbone and use it",
-            "I use it in the nether all the time, that's where I usually fight withers in mod packs that have it.  Although, this is when I have the option of a /home command to get me back out of there.",
-            "I used a warp scroll from ars noveau to my home base while in the nether and it also took me to the nether roof (it teleported to the same coordinates my base was in but within the nether). I'd have been actually softlocked if not for the goated teleporting hoe (from travel anchors i think?) I had in my backpack to go through the roof back into the nether",
-            "Well, I guess that's one way of getting up there."
+            "Not gonna lie I was prepared for a rick roll",
+            "Missed opportunity",
+            "The mod can load videos that you put in the .minecraft folder if you type local:// followed by the name of the video file. This also works in multiplayer apparently but I haven't tested it.\n\nIt cannot load websites but if you enter the url of a video it will play it without ads.\n\nMap was not made by me: [https://www.planetminecraft.com/project/deluxe-cinema/](https://www.planetminecraft.com/project/deluxe-cinema/)\n\nDemonstration video (String Theory): [https://www.youtube.com/watch?v=SZzehktUeko](https://www.youtube.com/watch?v=SZzehktUeko)"
         ]
     }
 }

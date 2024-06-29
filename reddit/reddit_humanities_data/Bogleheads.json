@@ -1,86 +1,90 @@
 {
     "Should I invest in [X] index fund? (A simple FAQ thread)": {
         "title": "Should I invest in [X] index fund? (A simple FAQ thread)",
-        "score": 555,
+        "score": 554,
         "url": "https://www.reddit.com/r/Bogleheads/comments/tg1az5/should_i_invest_in_x_index_fund_a_simple_faq/",
         "content": "We get a lot of questions about single-fund solutions, so here's my simplified take (YMMV). *So, should you invest in ...*\n\n----------------\n\n> Q: An S&P 500 or Nasdaq 100 index fund?\n\nA: No, those are not sufficiently diversified, as they only hold US large cap stocks.\n\n> Q: A total US stock index fund?\n\nA: No, that's not sufficiently diversified, as it only holds US stocks.\n\n> Q: A total world stock index fund?\n\nA: Maybe, if you're just starting out; just be sure to have a plan to add bonds later.\n\n> Q: A total world stock index fund along with a US or global bond fund?\n\nA: Yes, that's a great option; start with a stock/bond ratio fitting your need/ability to take risk.\n\n> Q: A 'target date' retirement fund?\n\nA: Yes, in tax-advantaged accounts, that's often the simplest, one-stop, highly diversified, set-and-forget solution.\n\n-----------------------\n\n**Thank you for coming to my TED Talk**",
         "num_comments": 120,
         "comments": [
             "Thank you. Now this subreddit can be retired.",
             "Topics like this will VTWAX and wane.",
-            "[Should I invest in a taxable account?](https://reddit.com/r/Bogleheads/comments/t8vqbx/taxable_accounts_101/) (And what new considerations are there once I do?)",
-            ">An S&P 500 index fund?A: No, that's not sufficiently diversified, as it only holds US large cap stocks.  \n>  \n>Q: A total world stock index fund along with a US or global bond fund?A: Yes, that's a great option; start with a stock/bond ratio fitting your need/ability to take risk.\n\nI'd like to understand this diversification aspect better.\n\nI'm looking at the holdings of CSPX(SPY500) and IWDA(total world stock index). They're both very heavy on the same AAPL, TSLA, GOOG etc. Yes, IWDA has thousands of companies but most of them weigh insignificantly in the portfolio.\n\nSo in this case I ask if this diversification is just on paper but not really practical?\n\nFor example, if there's a US tech stock crash aren't you still toast with IWDA? Maybe not toast to the same figure but toast to the same degree?\n\nLater Edit: Is there any form of rebalancing that is done in time? For example if the US stock underperform then an international index fund can redistribute accordingly while a S&P500 is always limited in scope to S&P500. This would make sense to go for diversification. \n\nAny light shed on this is greatly appreciated.",
             "But it\u2019s funny that I think this is incorrect\u2026 and there lies the problems with this form. I would say invest in VTI and VXUS, and maybe bonds depending on age. \n\n99% of the forums problems revolve around VT vs VTI vs VTI + VXUS",
-            "But what about SCHD!!!\n\n/s\n\n(I\u2019m more than happy to write the write up on it, if you\u2019d like - I\u2019ve converted a few people as of late who thought dividends are relevant)",
             "Jack Bogle didn't bother with international funds, and neither do I!",
             "Serious question -- What if i dont know my target retirement date?",
             "What\u2019s wrong with VTI long term?",
-            "Good post mate"
+            "Thanks. Is there a place you recommend for researching if you don\u2019t know exactly what your need/ability to take risks is?",
+            "Your answers are really only appropriate to the question of whether a person should buy **only** the ETF in each subquestion. That's very different from the quetion in the post title.\n\nMy view is that one ETF is not generally enough to make a portfolio, nor is it recommended when it is so easy to buy multiple ETFs, so I'd say the question that is being answered is not that helpful.",
+            "Apologies but for a rank beginner who is looking for a view on retirements funds in 30+ years away, based in the UK, what's the 'ultimate set and forget' option to invest here\n\nAny of these? VTI,VWRD,VUSA, VWRL, VWCE?",
+            "Someone in another sub has been arguing with me about VOO vs VTI. He\u2019s saying that because VTI is \u201coverweight\u201d large cap tech, the benefits I\u2019m saying it has(regarding small and mid caps having greater returns over time) don\u2019t matter, as if there is a \u201creversion to the mean\u201d with mega-cap tech stocks, VTI would also be hurt. \n\nAnd the recent history of about a ~1% greater return of VOO makes it more ideal.  Thoughts?"
         ]
     },
-    "Is it ridiculous to dump almost all of my after tax income (minus living expenses and leisure money) into VOO? ": {
-        "title": "Is it ridiculous to dump almost all of my after tax income (minus living expenses and leisure money) into VOO? ",
-        "score": 102,
-        "url": "https://www.reddit.com/r/Bogleheads/comments/1dljn9z/is_it_ridiculous_to_dump_almost_all_of_my_after/",
-        "content": "I make roughly 80k and i\u2019m 22. I don\u2019t really have any major expenses (minus car and car insurance) since i\u2019m on my firm\u2019s health insurance and live at home. I currently have around half of my cash invested and the rest in cash. I know it sounds ridiculous and might be totally out of line, but in the long run i feel like it\u2019s worth it.",
-        "num_comments": 111,
+    "Bogleheads on Investing podcast, Episode 71: Matt Hougan discusses the basics of blockchain and cybercurrencies, host Rick Ferri": {
+        "title": "Bogleheads on Investing podcast, Episode 71: Matt Hougan discusses the basics of blockchain and cybercurrencies, host Rick Ferri",
+        "score": 1,
+        "url": "https://www.reddit.com/r/Bogleheads/comments/1doc8kd/bogleheads_on_investing_podcast_episode_71_matt/",
+        "content": "Matt Hougan is my guest on \"Bogleheads on Investing.\" He is the Chief Investment Officer of Bitwise Asset Management, the world's largest provider of cryptocurrency index funds and ETFs. We discuss the very basics of cryptocurrencies.\n\n[https://bogleheads.podbean.com/e/episode-71-matt-hougan-discusses-the-basics-of-blockchain-and-cybercurrencies-host-rick-ferri/](https://bogleheads.podbean.com/e/episode-71-matt-hougan-discusses-the-basics-of-blockchain-and-cybercurrencies-host-rick-ferri/)\n\n",
+        "num_comments": 3,
         "comments": [
-            "Everyone's advice on the top 5 threads suck. Dude, yes...investing your extra money at 22yrs old is a good thing. Stop overthinking and keep saving. I can only WISH I started out making that much at 22...",
-            "Are you maxing retirement?",
-            "Do it!! Go hard till 35 and you should be able to back off a bunch and you are all set up.",
-            "Investing is never ridiculous, but you should consider adding international diversification.",
-            "* Pinned to the top of this subreddit (as mentioned by /u/my_shiny_new_account): Single fund portfolios: https://www.reddit.com/r/Bogleheads/comments/tg1az5/should_i_invest_in_x_index_fund_a_simple_faq/\n\nThis is one of over a dozen links I have that can help explain the reasoning behind that: \n\n* https://www.pwlcapital.com/should-you-invest-in-the-sp-500-index - invest in the S&P 500, but don't end there (this covers info on both the US extended market and ex-US markets) [a total US market fund combines S&P 500 + extended market into one]",
-            "see the post pinned to the top of this subreddit",
-            "No, I do that. Get rich or die trying",
-            "Not ridiculous at all, however I\u2019d also include an emergency savings and retirement account in that mix.",
-            "THIS IS THE DAMN WAY\n\n  \nI worked 2 full time jobs for several years with about $1000-$1500 expenses a month. Maxed retirement and invested about 90% of my take home of every check I made. \n\nYou need to live your life and enjoy your 20s...but if I was your older self I would say literally do not stop at all. I did enough to live my life at that time but I'm also introverted and live cheap.",
-            "I personally like VOO.  If the money you are investing doesn't need to be touched for anything (emergency, down payment, ...) then I like the strategy.  Bogleheads tend to diversify across 3 major groups.  \n\n1.  Total Market \n2.  International \n3.  Bonds\n\nThey will invest in these according to their risk tolerance.  Explanations and example portfolios are listed in the links at the top of the group for convenience and research.  Recommend going through that to get an idea of where most in this group come from.  \n\nI think looking at the S&P Chart over the long term, your strategy makes sense if you are young and have a lot of time to compound your initial investments in it.  The long term chart demonstrates this very well.  Which is why I like your thought process. \n\nAs you begin to get into your mid career and later, the total Market, international can add a lot of diversity into your portfolio.  Or of course you could start now.  Really no bad choice there.  Rebalancing is a key component to any diverse plan as it allows for taking advantage of market differentials in the different asset classes.  Like taking profits out of your winners and putting them in your less performing assets and getting in on lower prices.  \n\nI've read that by doing this you inherently get roughly a 2-4% boost each year just by rebalancing.  I haven't done a deep dive research on the claim but I can see that it could be a valid observation given the nature of non-correlated asset classes.  \n\nLots of stuff in here, but bottom line is, you are on the right track.  Keep up the hard work and remember the power of compounding works in your favor the sooner you start.  You are well ahead of your peers.  This much, I can assure you.  Your future self will thank you for the efforts and sacrifices you are making now."
+            "What a waste of time. Crypto is all trash",
+            "Didn't expect a crypto themed episode on the Boglehead podcast. Think i'll skip this episode. \n\n  \nFeel safe in saying the sentiment here around crypto will likely be a bit negative (and the publicly traded companies that deal in crypto are all already included in, at market weight, in things like VT/VTSAX)",
+            "The wonderful thing about investing in real companies that make products and services is you don't have to rely on finding a greater fool to buy the security off you at ever increasing prices.\n\nThe difference between public equity markets and crypto is that the former is a positive sum game and the latter is a negative sum game after you consider exchanges and miners.\n\nI'm sure the crypto people will get around to addressing the whole 'expected returns' thing any day now, just after they solve the single digit transactions-per-second limit and lack of reversibility."
         ]
     },
-    "Real life example of how it works": {
-        "title": "Real life example of how it works",
-        "score": 9,
-        "url": "https://www.reddit.com/r/Bogleheads/comments/1dlt2rb/real_life_example_of_how_it_works/",
-        "content": "A (small) example of how passive investing works.  I recently retired, and I ended my career with an LLC small business with 15 employees.  This employer offered a 401K with pretty much open investment choices (basically, we could invest in anything at Vanguard).  In a bit over 6 years, I've put in $48K (10% of salary), my employer has put in $22K (match 1:1 up to 3%).  I put it all into VFIAX, and my final balance, as of today, is $107K and change.  \n\nBy my figuring, my total capital gain is a bit over 35%.   \n\nThis, ladies and gentlemen, is how it works.  Don't worry, this is not all of my retirement fund.  I have substantially more in a rollover account from my previous employers, which is where I will roll this fund and combine it all.\n\nI just saw this as a real world, practical example, of how it works.  I note that this time point (a bit over 6 years) is about the point where the exponential growth curve would really start taking off.",
-        "num_comments": 0,
-        "comments": []
-    },
-    "Is it a terrible idea to wait 5 years before retirement to ever allocate any money into a bond ETF?": {
-        "title": "Is it a terrible idea to wait 5 years before retirement to ever allocate any money into a bond ETF?",
-        "score": 39,
-        "url": "https://www.reddit.com/r/Bogleheads/comments/1dlj6my/is_it_a_terrible_idea_to_wait_5_years_before/",
-        "content": "I plan on being as aggressive as possible for the next 30 years and get\nconservative the last few. Is this a bad idea? ",
-        "num_comments": 59,
+    "Is \"fun money\" an underrated part of Bogleheads?": {
+        "title": "Is \"fun money\" an underrated part of Bogleheads?",
+        "score": 108,
+        "url": "https://www.reddit.com/r/Bogleheads/comments/1dqu60m/is_fun_money_an_underrated_part_of_bogleheads/",
+        "content": "Once you've contributed a sizable chunk of money to your retirement account, any money left over is automatically fun money. This gives you a balance between waiting for retirement and enjoying the moment. You can have your cake and eat it too. But how many people really think like this?",
+        "num_comments": 64,
         "comments": [
-            "Not a bad idea. Totally depends on your risk tolerance. I might never own bonds tbh",
-            "I\u2019m worried about the negativity towards bonds.",
-            "It's worth looking at bonds as an asset class you can rebalance with. When the market is down, the bonds are a source of capital you can use to buy more stocks, and when the market is high you can use that growth to buy more bonds. Rebalancing both reduces your risk and can even lead to a higher long term return depending on the (unknowable) behavior of your preferred asset class. You can also use other non-correlated asset classes like international stocks or a mix of these 3 or more.\n\nYou also run a real risk that the market will be down as you retire, and if it happens to be down significantly, you pay a very large premium as you begin withdrawals. This sequence of returns risk can dramatically reduce your total available assets in retirement, even if you've seen large gains leading up to retirement.",
-            "Generally the recommendation is a smooth transition to a higher bond allocation rather than an abrupt cliff at R-5.  Doing it this way means a crash right before R-5 ends up being way worse than a crash just a year later, whereas with a glide path the conservatism scales directly with the impact it will have on your retirement.  \n\nBest case scenario given a crash right before you add bonds is that your R-5 just turns into R-8 or something; you need a couple of extra years of working to get back to your goal retirement number.  A less best case scenario is that the crash is a big one, there's a huge recession, and you lose your job.  Then not only are you losing income and potentially having to work even more years to make that up, but searching for work as a 60+ year old is often an awful experience because even if age discrimination is illegal it's basically impossible to prove and companies generally don't want to hire someone who's going to work a few years.  With a properly conservative asset allocation you can sort of make that work as basically a forced early retirement, but if you lost too much portfolio value it'll be a problem.  \n\nNow I don't think you have to start your glide path 25-30 years before retirement like a lot of TDFs do.  I personally plan to stay aggressive until R-10, transition to my maximum bond allocation by R-5, and then hold there until about R+10 before going back up again.  Though it's only a vague plan since I still have many years before I'll have to make these decisions.",
-            "What's your risk tolerance? If you lost 30% in a few months, at 55, how would you sleep? If you say bad, it's a bad idea.",
-            "It\u2019s reasonable, it\u2019s called a \u201cbond tent\u201d. I plan to be 100% equities until 5 years out and then build my tent to lessen sequence of returns risk. ERN has a good article on this.",
-            "If you do that (which I recommend) you don't have to worry about getting conservative at the end, because you'll have margin for error.\n\nI'm 12 years INTO retirement and, like the last 34 years investing, see absolutely no reason to own bonds or bond funds.\n\nThe numbers show time and again a 100% equity portfolio in the accumulation phase of investing is a far better choice than owning bonds.",
-            "Two things:\n\n1. That\u2019s fine if you\u2019re ok delaying retirement if there\u2019s a major correction right before you decide to include bonds.\n\n2. Don\u2019t keep playing once you\u2019ve won the game. Don\u2019t be more risky than you need to be. If your savings gets to the point where you have enough to retire, then that\u2019s a good time to reduce risk and just retire.",
-            "Perfectly fine idea.",
-            "No it\u2019s not terrible just make sure you model your risk and you might change your mind when you actually hit a certain net worth. It\u2019s not like you will sell your whole portfolio day 1 of retirement so if you plan to live 10-20 years in retirement at least that\u2019s 1-2 decade long investment horizon. Just make sure you have a why behind your risk taking and an \u201cenough\u201d number."
+            "From what I understand boglehead theory is really about asset allocation. As long as I hit my investment and savings goals all other money is fun money",
+            "You need to figure out an appropriate save / spend balance, just like you do a work / life balance. Tomorrow isn't guaranteed, and while you want to be mindful of your future self, you shouldn't do so at the detriment of your present self.",
+            "Since I'm on a low earner wage, I try to invest the majority of my money and budget otherwise for an \"allowance\" to spend on whatever I want. Trouble is, a financial mindset often ruins the fun of buying stuff with question like \"do I really need this?\" \"How often will I use it?\" \"Is this just wasteful?\".",
+            "Fun money is everything my wife will be left from my retirement and life insurance after I die at 54 of a heart attack from my worry and stress.",
+            "I think many people in this sub are younger Bogleheads trying to hit savings milestones and thus are trying to send as much as possible into their accounts without considering too much for the fun money at the moment. Like personally, I'm trying to hit 300k in savings before taking off the gas. \n\nNow... the other problem is that housing prices have gotten so high in big metropolitan areas that if you want to buy a house along with contribute to your savings, it can feel like a never-ending treadmill of savings so to your point, allocating \"fun money\" can be very tricky to find.",
+            "Check out the r/coastFIRE sub",
+            "I really need to become ok with this concept of fun money. I max out retirement accounts and then anything left over is also invested. I am a very very boring person. I started down the path of delayed gratification and really stressed on the delayed part.",
+            "Seems like a strange mindset to only split money between retirement and fun, but whatever works for you works\n\nThere are a lot of great things to spend money on that don't fit either of those buckets: Gifts for others, family/children, charity, etc",
+            "I have tried to live below my means for many years now. My \"fun money\" is buying the things that I enjoy and I feel confident I will actually use, and there is  certain amount of \"fun money\" for me knowing I spent it on some precious metals almost certainly just to pass on to kids. I like knowing it exists. Say my minivan, at some point I will trade it in for a new one, but it is a 2016, maintained well, and I still enjoy driving it. I could afford to trade it in but I just don't want to yet. Maybe in a couple of years.",
+            "Honestly if you are hitting well above target for your FI goals (many of us here are), you have to start learning how to spend.  You don\u2019t want to be 60 and still pinching pennies. Go ahead and take that 10k vacay. Fly business once in awhile. Book the 3-Michelin restaurant, just cause you want to, not wait for a birthday or something."
         ]
     },
-    "I dump $500/month into VT stock. I don\u2019t know how to research where else to invest. ": {
-        "title": "I dump $500/month into VT stock. I don\u2019t know how to research where else to invest. ",
-        "score": 87,
-        "url": "https://www.reddit.com/r/Bogleheads/comments/1dlcoua/i_dump_500month_into_vt_stock_i_dont_know_how_to/",
-        "content": "Basically the title. I chose VT bc over the long run it should be a very safe and reliable stock. I mean, it\u2019s never once took a serious dive that it couldn\u2019t bounce back from. \n\nThe growth is super slow. I\u2019d like to be a little more aggressive while I\u2019m still young enough to recover from losses, but that requires research. I\u2019m not good with this stuff and can\u2019t do the research required to make informed decisions. Any suggestions?",
-        "num_comments": 78,
+    "If given 10k what would you invest in ? ": {
+        "title": "If given 10k what would you invest in ? ",
+        "score": 33,
+        "url": "https://www.reddit.com/r/Bogleheads/comments/1dqy0a6/if_given_10k_what_would_you_invest_in/",
+        "content": "Just looking for opinions, how(multiple stocks or just one )  and what would you invest 10,000 into right now if you received a lump sum payment ? ",
+        "num_comments": 112,
         "comments": [
-            "You've got FOMO. Plain and simple. \n\nVT is the perfect choice for a broadly diversified low cost index fund. You're doing the right thing for the long term per bogleheads philosophy. Stay the course.\n\nThe only choice is a less diversified fund, or even riskier, individual stocks. In which case your upping your risk and lowering your exposure to chase gains.\n\nIf you simply must fiddle, set aside a small % of your funds as \"play money\", and keep it to that small %, rolling the \"wins\" above that into VT.\n\nThat's my opinion.",
-            "Step 1: VT\n\nStep 2: Chill",
-            "VT is up 24% over the last year. Anything that is promising more than that without disclosing higher risk is something to look at skeptically",
-            "If you are investing in 100% VT, you are already quite aggressive. That\u2019s 100% equities.\n\nMy suggestion is don\u2019t conflate growth stocks as a style with portfolio growth. I suspect you are, given your language around focusing on \u201cgrowth\u201d in your youth while you still have time to rebound, etc. That\u2019s a common Reddit misunderstanding. Tilting toward US large cap growth to chase its outperformance in recent years is a losing proposition for long term investing.\n\nIf you want to increase your expected returns further, you want to do so by taking on additional systematic, compensated risk, according to u/Cruian\u2019s suggestions in their comment. You either want to factor tilt (and not towards LCG) or add leverage. Please know that increasing expected returns does not guarantee returns, and you are taking on additional risk.",
-            "For more aggressive than 100% stock, there's 2 main approaches: \n\nFactor investing starting points:\n\n\u2022 https://www.investopedia.com/terms/f/factor-investing.asp\n\n\u2022 https://www.fidelity.com/bin-public/060_www_fidelity_com/documents/fidelity/fidelity-overview-of-factor-investing.pdf (PDF)\n\nOr leverage. Funds like RSSB, NTSX, NTSE, NTSI for example (as opposed to say leveraged funds like SSO).\n\nEdit: Not all approaches are suitable for everyone, be sure to understand these before investing in them.\n\nEdit 2: Even if these are for you, it probably isn't recommended to make them more than a small part of your portfolio.",
-            "Just keep it up until you are around 45.  Don't look at your statements, just do it.",
-            "Here you go: [https://www.bogleheads.org/wiki/Getting\\_started](https://www.bogleheads.org/wiki/Getting_started)",
-            "read the sidebar",
-            "This is fine honestly. Even if you researched and took more risk, there's no guarantee you'll end up with a portfolio that outperforms VT",
-            "The more research you do, the more you will find that your current approach is what 99% of people should do."
+            "Is it my first $10,000? If so, VT.",
+            "It's simple and boring for me. All in VT",
+            "100% VT in my Roth IRA. I\u2019ve made no contributions for 2024 so I would add $7,000 there. \n\nI\u2019d just put the other $3,000 in my taxable account and probably invest in VT or maybe an S&P 500 index fund.",
+            "VOO or VTI. Ride or die USA",
+            "Leveraged altcoin futures etf\n\nKidding. Half vti half vxus",
+            "VT always VT never not VT",
+            "10k right now would go into my house fund. Aka it would be a CD",
+            "Vti and forget about it.",
+            "A low cost S&P500 index fund as many have suggested above. One thing about the lump sum, and this is counterintuitive, most people are tempted to buy over time to try to time the market and get a better price. However, time in market is more important than timing the market if you\u2019re investing for long term. \n\nBuying all at once and then not looking at it for 7-10 years is generally the best move. Again, counterintuitive.",
+            "I\u2019d put it into whatever gave the best returns out of HYSA, CD, or bonds. There\u2019s things I could use with $10,000 in the immediate future. No reason to risk it."
+        ]
+    },
+    "100% FXAIX": {
+        "title": "100% FXAIX",
+        "score": 22,
+        "url": "https://www.reddit.com/r/Bogleheads/comments/1dr051s/100_fxaix/",
+        "content": "I am 18 with 100% of my portfolio in FXAIX (S&P 500). Thoughts?\n\nUpdate: Thank you everyone for the responses. Very helpful",
+        "num_comments": 19,
+        "comments": [
+            "I did that in my early 20s with my first job. Very glad I did. I wish I did more FXAIX instead of the other trash investments I made.",
+            "Take a look at FNILX. No cost if you have fidelity",
+            "Perfect. Now stay the course and try to invest as much as you can. Don't forget about all the tax-advanced accounts.",
+            "Good call, now just hold tight through the dips. Over the years, the S&P 500 has excellent returns. It's the core of my portfolio and would be my only investment if I could have only one.",
+            "I did that for years now I'm glad I did",
+            "Solid choice. I wish I started at 18!",
+            "Not a problem, best single allocation choice out there. When the balance reaches five figures you can start to diversify.",
+            "Hi. What age is considered \"in the future\"?",
+            "I got downvoted recently for saying I\u2019d add bonds later. It\u2019s like a manual target date fund where you % bonds increase later",
+            "I think the single country statement is way overplayed as these 500 are global companies."
         ]
     }
 }

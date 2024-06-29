@@ -1,14 +1,24 @@
 {
     "Youtube Issues (ads, no sound, skipping, performance problems)": {
         "title": "Youtube Issues (ads, no sound, skipping, performance problems)",
-        "score": 18,
+        "score": 16,
         "url": "https://www.reddit.com/r/operabrowser/comments/1d1vjal/youtube_issues_ads_no_sound_skipping_performance/",
         "content": "If you're having Youtube issues (ads, no sound or videos skipping to the end or peformance problems etc.) in desktop Opera, goto the URL ```opera://settings/privacyProtection``` and disable Opera's adblocking and tracking prevention completely.\n\nThen, goto the URL ```opera://settings/lucidMode``` and disable Lucid Mode/RGX.\n\nThen, goto the URL ```opera://settings/content/all```, type ```youtube.com``` in the search field and click \"Delete displayed content\". Then, repeat for ```google.com```.\n\nThen, goto the URL ```opera://settings/clearBrowserData``` and clear \"cached images and files\" for all time.\n\nThen try things out on Youtube to see if they're better.\n\nIf you still have issues, disable your extensions at the URL ```opera://extensions``` one by one and test to see if one is causing the issues. If you're using Opera GX, do the same thing with mods at the URL ```opera://mods``` and also disable shaders at the URL ```opera://settings/shaders_settings``` and webmodding at the URL ```opera://settings/web_modding_settings```.\n\nThe idea is to disable anything that might cause Youtube to think you're using an adblocker (or remember that you *were*) so that Youtube doesn't punish you with deliberate bugs and issues.\n\nIf you need an adblocker, try using [uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) instead and make sure it's updated to see if you can get away with adblocking on Youtube without it being detected. And, if you have any Youtbue issues with it, check the Youtube sticky thread at r/uBlockOrigin to see if there's a solution/workaround.\n\nIf you have performance issues on Youtube in general, goto the URL ```opera://settings/system``` and make sure \"Use graphics acceleration when available\" is enabled. Then, [adjust the Angle flag for your GPU](/r/operabrowser/wiki/opera/known_issues/#wiki_opera_on_windows_is_slow).\n\nAlso see <https://reddit.com/r/operabrowser/wiki/opera/known_issues/#wiki_can.27t_log_in_to_twitch> for how you can have Opera pretend to be Chrome. (For Twitch, but same can apply to Youtube.)",
         "num_comments": 3,
         "comments": [
-            ">If you need an adblocker, try using [uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) instead and make sure it's updated to see if you can get away with adblocking on Youtube without it being detected. And, if you have any Youtbue issues with it, check the Youtube sticky thread at  to see if there's a solution/workaround.\n\nBut, they're removing the manifest v2 extensions, you should link uBlock Origin Lite instead",
             "uBlock Origin 1.58.0 is the best source to block youtube ads and websites ads, tracker and malwares with custom rules/filters just turn off browser default ads and tracker options to use.",
+            ">If you need an adblocker, try using [uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) instead and make sure it's updated to see if you can get away with adblocking on Youtube without it being detected. And, if you have any Youtbue issues with it, check the Youtube sticky thread at  to see if there's a solution/workaround.\n\nBut, they're removing the manifest v2 extensions, you should link uBlock Origin Lite instead",
             "Now, uBO (not lite) works on Chrome.\n\n>A fix has been pushed to uBO's main lists already many hours ago and the filter lists should be updated to you already. Update your filter lists again.\n\nSee here: [https://www.reddit.com/r/uBlockOrigin/comments/1dgkrhi/comment/l8z803c/?utm\\_source=share&utm\\_medium=web3x&utm\\_name=web3xcss&utm\\_term=1&utm\\_content=share\\_button](https://www.reddit.com/r/uBlockOrigin/comments/1dgkrhi/comment/l8z803c/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)\n\nDoesn't it work on Opera?"
+        ]
+    },
+    "Different bookmarks/tab pages for different Workspaces ?": {
+        "title": "Different bookmarks/tab pages for different Workspaces ?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/operabrowser/comments/1dr7n8t/different_bookmarkstab_pages_for_different/",
+        "content": "Moving from Brave and Safari, I was wondering if there was a way to display different bookmarks and tab page wallpapers for different Workspace (Work and Personal) ?\n\nI understand i'm talking about profiles here and from what I see one Opera account is linked to one specific profile. Or maybe I missed something ?\n\nThank you",
+        "num_comments": 1,
+        "comments": [
+            "Workspaces are just a simple, visual separation of tabs on the tab bar for the window. They don't have their own bookmarks, don't have their own start pages, and don't have their own sessions (where you can use them to log into different accounts for the same service). So, you're not missing anything. You got it right.\n\nWith that said, unrelated to workspaces, if you want to create extra profiles in Opera, see <https://reddit.com/r/operabrowser/wiki/opera/new_profile/#wiki_create_multiple_profiles_for_opera>. Each profile will be like a whole other Opera that you can load at the same time as your main Opera so you can log in to multiple accounts on the same service at once. This method does not duplicate Opera's program files, which is good."
         ]
     },
     "Windows and Mac browser RAM usage comparison for 2024": {
@@ -37,22 +47,10 @@
         "num_comments": 5,
         "comments": [
             "this is now what happens when you press ctrl+tab\n\nit is a cool feature n I like it however I want the previous design back",
-            "You can disable the \"Opera One tab cycler\" flag at the URL ```opera://flags/#component-based-tab-cycler``` for now. Just note that eventually the flag will disappear and the old way will be removed.",
             "aww man I wanted to have the option",
-            "I am on 113 developer and I don't seem to find it unfortunately\n\nso it would either be removed on or before the 113 stable update",
-            "Indeed."
-        ]
-    },
-    "Opera account keeps logging me out on restart, again": {
-        "title": "Opera account keeps logging me out on restart, again",
-        "score": 1,
-        "url": "https://www.reddit.com/r/operabrowser/comments/1dqklpi/opera_account_keeps_logging_me_out_on_restart/",
-        "content": "Hi\n\nI keep having that same issue as many other people out there\n\nI did a clean install\n\nAllowed full disk access\n\nCleared all data, cleared cookie and stuff\n\nI keep having opera logging me out when closing the browser.\n\nSo of course i can't seriously sync anything as i will have to do it again and again\n\nHasn't this year old bug been fixed ?",
-        "num_comments": 3,
-        "comments": [
-            "[Info about your setup](/r/operabrowser/wiki/opera/support_setup_info/)?",
-            "Hello, \n\nThanks for your reply, yes i should have added precisions\n\nIt happens on \n\n* Opera One(version: 113.0.5210.0) (arm64)\n* Stream:developer\n* System:macOS Version 14.5 (Build 23F79) 14.5.0 arm64\n* Chromium version:126.0.6468.2\n\nand\n\n* Opera One(version: 111.0.5168.43) (arm64)\n* Stream:Stable\n* System:macOS Version 14.5 (Build 23F79) 14.5.0 arm64\n* Chromium version:125.0.6422.143",
-            "Thanks for the clarifications.\n\nSince you're on macOS, you could be experiencing [this issue](/r/operabrowser/wiki/opera/known_issues/#wiki_opera_on_mac_won.27t_import_and_save_passwords_and_won.27t_save_cookies_on_exit).\n\nBesides that, I would goto the URL ```opera://settings/content/siteData```, make sure the default behavior is set to \"Allow sites to save data on your device\" and clear all customized behaviors lists. Then, goto the URL ```opera://settings/cookies```, make sure it's set to \"Block third-party cookies in Incognito mode\" and clear the allow list. Then, goto the URL ```opera://settings/clearBrowserData```, switch to advanced and clear \"Cookie and other site data\" for all time. Then, goto the URL ```opera://about```, take note of the \"profile\" path, fully exit Opera and delete the \"Cookies\" files in the profile folder. On Windows, the Cookies file is in the \"Network\" folder in the profile folder. Not sure about macOS.\n\nThat will cause Opera to start fresh with a new Cookies file so you can see if that helps. You can do this after you try the solution in the linked issue if you want.\n\nBesides that, if you're using Sync, try not syncing settings. Or, keep Sync off completely for a while to see if the problem goes away."
+            "Indeed.",
+            "You can disable the \"Opera One tab cycler\" flag at the URL ```opera://flags/#component-based-tab-cycler``` for now. Just note that eventually the flag will disappear and the old way will be removed.",
+            "I am on 113 developer and I don't seem to find it unfortunately\n\nso it would either be removed on or before the 113 stable update"
         ]
     }
 }

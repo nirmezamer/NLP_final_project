@@ -1,53 +1,55 @@
 {
+    "Detect drift with second homing": {
+        "title": "Detect drift with second homing",
+        "score": 2,
+        "url": "https://www.reddit.com/r/klippers/comments/1drcqde/detect_drift_with_second_homing/",
+        "content": "I'm using klipper on my own hardware (a bigger gantry robot), and I'm not sure if my z-axis is drifting (rather through mechanical slippage than lost steps). I'd like to home my robot, move around for some minutes, home again and then read the position at which the limit switch was triggered. This should be very close to zero if I have no drift, but could tell me in which direction and how far I'm drifting. \n\nIs there way to get this value?",
+        "num_comments": 1,
+        "comments": [
+            "The klipper-for-cnc project has proper axis probing and work coordinates. Unless you've got a reason to stick to stock Klipper, using it would make it a lot easier."
+        ]
+    },
+    "Xserver XSDL on samsung tab s": {
+        "title": "Xserver XSDL on samsung tab s",
+        "score": 1,
+        "url": "https://i.redd.it/nz65yltf5j9d1.jpeg",
+        "content": "Ive been trying to use my old android tablet as a klipper screen for klipper machine and i keep getting x server failed to launch, i tried changing the display number and it still wouldnt work, i got xserver XSDL from the github page of klipper because i dont know why i couldnt find xserver on google playstore ",
+        "num_comments": 1,
+        "comments": [
+            "Its version 1.20.51, 1.20.50 doesnt even install in the tablet"
+        ]
+    },
+    "heater_fan Slows when Hotend Temperature is Set": {
+        "title": "heater_fan Slows when Hotend Temperature is Set",
+        "score": 1,
+        "url": "https://www.reddit.com/r/klippers/comments/1drbdry/heater_fan_slows_when_hotend_temperature_is_set/",
+        "content": "Hi, I have Klipper running on octoprint on a Raspberry Pi. It is connected to my 3d printer which has an SKR 3 EZ board.\n\nWhen the printer is on and the hotend is off, the heater fan is on and then when I set the temp to any temp, you can hear the fan slow down. Here is the heater\\_fan section of my config:\n\n\\[heater\\_fan fan1\\]\n\npin: PB5\n\nheater\\_temp: 50.0\n\nI have tried removing the heater\\_temp line altogether and the same thing happens so I believe the issue is coming from elsewhere. Here is the full config file: [https://pastebin.com/HmKhtVCD](https://pastebin.com/HmKhtVCD)\n\nAny help would be great. Thanks",
+        "num_comments": 0,
+        "comments": []
+    },
+    "Plz help": {
+        "title": "Plz help",
+        "score": 1,
+        "url": "https://i.redd.it/0gvnc1ze8i9d1.jpeg",
+        "content": "I tried to use klipper using an old computer and download Linux on to it but I can\u2019t log to the klipper. I follow the video of modbot to install klipper frimware on a laptop or desktop but I am stuck on minute 13. Can somebody help?",
+        "num_comments": 3,
+        "comments": [
+            "Have you installed mainsail or fluidd?",
+            "What address are you using to access it? Mainsail/fluidd will run on port 80. Moonraker runs at 7125 by default. So you'd want to either use the IP of the laptop you run it off directly, without any port. Or, for example, 192.168.0.100:80. If you set up a hostname you could use that as well. (mine, for example, is set as 3dprinter.local)",
+            "Mainsail, I think at least"
+        ]
+    },
     "Can Bus and updates explanation?": {
         "title": "Can Bus and updates explanation?",
         "score": 1,
         "url": "https://www.reddit.com/r/klippers/comments/1dr4j75/can_bus_and_updates_explanation/",
         "content": "Hello. I recebtly got and installed the EBB36+U2C combo from BTT. In the guide that i followed it said that if I want to update klipper ill need to set up the Can network again. Can someone explain to me why is that and how it works? Also what can i update (moonraker, mainsail) without needing to set up the Can again?",
-        "num_comments": 3,
+        "num_comments": 4,
         "comments": [
             "sounds like nonsense.  But keep in mind, you *will* sometimes need to re-flash newer firmware onto the ebb36.  Katapult is useful for doing this via the canbus network, rather than having to run USB cables back out temporarily",
             "I got Katapult flashed onto the EBB. So it is safe to update Klipper and moonraker?",
-            "as long as you're prepared for the possible consequenses of updating, up to and including config changes, and needing to reflash mcus....yes"
-        ]
-    },
-    "Got BTT TFT35 E3 v3.0.1 working with Klipper!": {
-        "title": "Got BTT TFT35 E3 v3.0.1 working with Klipper!",
-        "score": 1,
-        "url": "https://www.reddit.com/r/klippers/comments/1dr3deg/got_btt_tft35_e3_v301_working_with_klipper/",
-        "content": "Running a RPi Model 3B. Had to disable bluetooth in /boot/config.txt and disable the hciuart service.\n\nThen made sure /dev/serial0 was available.\n\nPython2 was default and couldn't figure out how to do python3, so couldn't use [https://github.com/oldhui-uk/tftbridge](https://github.com/oldhui-uk/tftbridge)'s Klipper module.\n\nInstead just used his script detailed in some old blog posts, and setup a sytemd service.\n\nIt works. The screen detects the connected 3D printer, and i can do basic commands and print from the screen (not that I'd need to.)\n\nIn general it just looks really nice to have the touch screen working alongside Klipper, especially with some custom themes :)",
-        "num_comments": 0,
-        "comments": []
-    },
-    "Klipper keeps going unresponsive mid print - log attached": {
-        "title": "Klipper keeps going unresponsive mid print - log attached",
-        "score": 1,
-        "url": "https://www.reddit.com/r/klippers/comments/1dr1dag/klipper_keeps_going_unresponsive_mid_print_log/",
-        "content": "Hello, on over half my prints, at some point mid print, klippy goes unresponsive, the print stops, mainsail client freezes. The only way to get the printer working again is to unplug it for a few seconds, and plug it back in.\n\n  \nI have tried virtual SD, I have tried a new SD card, I have updated all klippy, mainsail, and everything else.\n\n  \nI am at my wits end. Here is my klippy log. If you see something wrong, or even point me in a direction as to what may be happening, that would be hugely appreciated. \n\nlog: [https://drive.google.com/file/d/1hkZZFSnqlTuxfYatF49otKW3zqN6uQIj/view?usp=sharing](https://drive.google.com/file/d/1hkZZFSnqlTuxfYatF49otKW3zqN6uQIj/view?usp=sharing)",
-        "num_comments": 0,
-        "comments": []
-    },
-    "Get help ": {
-        "title": "Get help ",
-        "score": 0,
-        "url": "https://i.redd.it/b6tnwbkf6f9d1.jpeg",
-        "content": "Hello everyone \nI have biqu hurakan print \nI tried to connect my ADXL 345 V1 \nTo celebrate y &x \nBut when i write comd \nSHAPER_CALIBRATE AXIS=Y\nShow me this comd\n Failed to import numpy module, make sure it was installed via ~/klippy-env/bin/pip install (refer to docs/Measuring_Resonances.md for more details).\n\n Can get help ",
-        "num_comments": 2,
-        "comments": [
-            "https://klipper.discourse.group/t/failed-to-import-numpy-module/4528\n\n    sudo apt install libopenblas-base",
-            "Did you do the thing it says?  (try to install numpy as shown in [measuring_resonance.md](https://github.com/Klipper3d/klipper/blob/master/docs/Measuring_Resonances.md#software-installation) )"
-        ]
-    },
-    "I need help! Ender 5 Pro SKR mini e3 v3 printer.cfg file": {
-        "title": "I need help! Ender 5 Pro SKR mini e3 v3 printer.cfg file",
-        "score": 1,
-        "url": "https://www.reddit.com/r/klippers/comments/1dqu6gr/i_need_help_ender_5_pro_skr_mini_e3_v3_printercfg/",
-        "content": "Hello, I am new to klipper and I can't seem to find a good printer.cfg for an ender 5 pro with an skr mini e3 v3 and a cr touch. If anyone could help that would be perfect",
-        "num_comments": 3,
-        "comments": [
-            "did you start with the config on the klipper github for that specific board, not the printer, the board?  Once you do that, you can add the \\[bltouch\\] section from the Klipper website type in the correct pin, then start running through the  klipper checks from their website.\n\nEdit: here is some light reading for you [BL-Touch - Klipper documentation (klipper3d.org)](https://www.klipper3d.org/BLTouch.html)\n\n[Configuration reference - Klipper documentation (klipper3d.org)](https://www.klipper3d.org/Config_Reference.html?h=bltouch#bltouch)\n\n[klipper/config/generic-bigtreetech-skr-mini-e3-v3.0.cfg at master \u00b7 Klipper3d/klipper \u00b7 GitHub](https://github.com/Klipper3d/klipper/blob/master/config/generic-bigtreetech-skr-mini-e3-v3.0.cfg)",
-            "u/Hammerhead753 I did, I started with this, [https://github.com/Klipper3d/klipper/blob/master/config/generic-bigtreetech-skr-mini-e3-v3.0.cfg](https://github.com/Klipper3d/klipper/blob/master/config/generic-bigtreetech-skr-mini-e3-v3.0.cfg) added the bl touch, but the bed, and all the other steppers are moving in the incorrect directions and i do not know how to fix them",
-            "If I am not mistaken you need to either remove the ! in front of the dir\\_pin or if there isn't one, add it.  this reverses motor direction."
+            "as long as you're prepared for the possible consequenses of updating, up to and including config changes, and needing to reflash mcus....yes",
+            "[https://canbus.esoterical.online/](https://canbus.esoterical.online/)"
         ]
     }
 }

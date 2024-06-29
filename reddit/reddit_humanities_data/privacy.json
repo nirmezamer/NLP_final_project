@@ -1,7 +1,7 @@
 {
     "Community reminder: Mods are volunteers. If you see something you think violates the rules (not just something you don't personally like), you should report it. We read reports. We do not necessarily read every single post otherwise. Thanks!": {
         "title": "Community reminder: Mods are volunteers. If you see something you think violates the rules (not just something you don't personally like), you should report it. We read reports. We do not necessarily read every single post otherwise. Thanks!",
-        "score": 100,
+        "score": 103,
         "url": "https://www.reddit.com/r/privacy/comments/16juxkf/community_reminder_mods_are_volunteers_if_you_see/",
         "content": "",
         "num_comments": 1,
@@ -9,66 +9,76 @@
     },
     "Uptick in security and off-topic posts. Please read the rules, this is not r/cybersecurity. We\u2019re removing many more of these posts these days than ever before it seems.": {
         "title": "Uptick in security and off-topic posts. Please read the rules, this is not r/cybersecurity. We\u2019re removing many more of these posts these days than ever before it seems.",
-        "score": 64,
+        "score": 70,
         "url": "https://www.reddit.com/r/privacy/comments/19flufu/uptick_in_security_and_offtopic_posts_please_read/",
         "content": "Please read the rules, this is not r/cybersecurity. We\u2019re removing many more of these posts these days than ever before it seems.\n\n# Tip: if you find yourself using the word \u201csafe\u201d, \u201csecure\u201d, \u201chacked\u201d, etc in your title, you\u2019re probably off-topic.",
         "num_comments": 33,
         "comments": [
-            "I disagree, you can't have privacy topics without touching on the security of how and why it happened. There'd be nothing to learn from.\n\nJust because the headline of an article posted says security update is bogus or company name was hacked doesn't mean it's not a privacy issue. For all you know you just installed boot level signed malware so now you're never going to be secure **or private**. Or that the company did in fact lose a large portion of plaintext data even though the article says it was hacked.\n\nI agree on a case by case basis safe, secure, hacked should be removed, but generically categorizing and removing without context just hurts the end redditor. If the algorithm for a widely used 2FA was hacked tomorrow, I'd want to know about it because it affects privacy directly and even if you roll your own, you're no longer as private as you thought you were.\n\nI'll adhere to the sub rules obviously, but just my two cents on why just generically saying safe, secure, hacked shouldn't mean it's not about privacy.",
             "I'm going to guess the issue is more is the question chiefly a privacy question or more a security question. \n\nI work in privacy, specifically GDPR in the EU and UK and then Brazil. I can't go two hours without having to touch security with my work since everything either side does directly impacts the other.",
             "The two are inextricably linked. I'd just as soon see those posts here and maybe have an automod message the OP to suggest a crosspost.",
             "I thought the cybersecurity sub was for tech *professionals* to discuss news. Where does one go to ask questions about how to protect their data, or what to do if their data has been compromised?",
             "I work in cybersecurity and half of my day job is dealing with privacy related compliance. You may not like the truth but privacy relies on strong cybersecurity.",
-            "Yes! \u00a0I don\u2019t personally mind it due to the crossover. But some of it isn\u2019t remotely for privacy. \u201cHey, my phone is in a boot loop\u201d\n\nWhat\u2019s next: \u201cWhat kind of orchid is this and how do I train it to be a middle weight boxer\u201d\n\nI guess since it\u2019s an active community they come here. I am kinda glad people figure this forum is so versatile. May be we should rename the sub. r/fukitwesolve",
-            "[removed]",
-            "Same. You can be secure without being private but you can't be private without being secure.\n\n\nIf they are tired of those post, best to just say this isn't tech support.",
             "Exactly! Security and privacy are way too connected to be called different topics",
-            "Only so much as diet and exercise are. You need both, they affect each other, but a diet subreddit is the wrong place to ask for exercise advice."
+            "Only so much as diet and exercise are. You need both, they affect each other, but a diet subreddit is the wrong place to ask for exercise advice.",
+            "I thought so too, asked the mods, they said otherwise. \ud83e\udd37\ud83c\udffb\u200d\u2642\ufe0f",
+            "My phone is in a boot loop isn't even about security.",
+            "reminds me of \"secure\" alternate Android OSs where users install and continue to use Google spyware, and are even encouraged to do so. Sad...",
+            "Yes you can lol. Security by obscurity. You're secure when you're not a target."
         ]
     },
-    "Google's \"Find My Device\" network - The upcoming assault on user's privacy": {
-        "title": "Google's \"Find My Device\" network - The upcoming assault on user's privacy",
-        "score": 83,
-        "url": "https://www.reddit.com/r/privacy/comments/1dlnybq/googles_find_my_device_network_the_upcoming/",
-        "content": "My post relates very much to [this one](https://www.reddit.com/r/privacy/comments/1cn6ps5/should_i_use_googles_find_my_device/) which is a month old. Like their Samsung device, this feature is now coming to my Redmi device also. Today only I received the email with subject, *\"Your Android devices will soon join the Find My Device network\"*.\n\nAs always, the **real** privacy nightmare stuff is always hidden in between the large boring paragraphs or the fine print as they say. Here is the part which I think is the most problematic: \n\n> How it works\n> \n> Devices in the network use Bluetooth to scan for nearby items. If other devices detect your items, they\u2019ll securely send the locations where the items were detected to Find My Device. *Your Android devices will do the same to help others find their offline items when detected nearby.*\n\nSo, your devices are also supposed to co-operate by sending data to other devices which may want their location detected while offline. We are made to believe here that this data pertains to only our location and nothing else but once this thing becomes too ubiquitous, one can easily see the scope for surveillance capitalism by the powers that be?\n\nThis is very much like the Microsoft's recall scenario, I don't see much difference between this and that. At least there the data is still on the user's device and doesn't leave its shores, this is arguably even worse. For such technology to be palatable to the power user, they must at the very least, be prepared to open source this code. I think recall would have still got some acceptance had Microsoft made the code open source. This whole \"you trust me bro but I won't trust you\" business is highly cynical and doesn't usually have a long shelf life.",
-        "num_comments": 52,
-        "comments": [
-            "\n\nThere are two viewpoints:\n\nEither you trust Google enough that they don't use that data for tracking but just want to compete with Apple.\n\nOr you don't trust them, then you should at least opt-out but tbh should have switched to something like the popular alternative OS that exidts for Pixel Phones long ago.\n\nOh, and no, in no way near as bad as Microsoft Recall. Not even close.",
-            "I just want to add a bit of nuance here. To start with, yes, Google is processing your location. If Find My Device is available to you, then you have a device with Google Location Services turned on. If you have that, then your device is already constantly talking to Google about everything it sees to provide you with a more accurate position. Find My Device does not change anything about that.\n\nNow the way this system works has actually been designed with privacy in mind. I'm talking from the finding perspective here. Obviously the trackers themselves are a privacy nightmare. But Google did put in effort to ensure that it's hard to track passive participants in the network.\n\nThat's because it will only show the location of a tag once it's been reported by a sufficient amount of different devices. It then shows an average of all those pings. That means you can find the location of the tag, but it's going to be very difficult to find out who was near it, where they were exactly or when. This does strike a balance between privacy and usefulness.\n\nNow you may not trust Google at all, in which case you should probably at the very least turn Google Location Services off. That is entirely fair. They've not exactly shown themselves to be particularly trustworthy. But if you do think that the trade-off is a fair one and you trust that it's implemented the way they say it is, then I would argue that this is a pretty solid design. And while it can be abused, it can also be very useful.",
-            "You consider directly under a \u201cHow it Works\u201d heading to be deceptively buried? Where would you like them to put that information, in the subject of the email?\n\nNote: I\u2019m only referring to you accusing them of hiding that information. I\u2019m not defending the product itself.",
-            "Google already knows your location. Now it just also knows that devices that want to be found are nearby. It doesn't change anything for you as a user of Android.",
-            "We can avoid *all* of this silliness by *not* having a google acct for starters. The short, logical r/privacy answer. \n\nOr, we can keep pretending we can compromise/bargain with Big Datas' code/shareholders (Soon to be AI) that are hell-bent on knowing everything you know/do/drive/buy/drink/date/watch...for our 'Convenience'. \n\nWe should be learning to resist this bs. We ask to have our privacy respected, instead we get (Sigh)*another* tracking vector because we *may* lose our effing phone? \n\nAll devices *interconnected*...to find *one*. 7 years ago, that would be cute. Now it's just creepy.\n\nSmarten up, keep bluetooth off...stop re-contributing to some strangers' server and yacht payments. Leave some mystery to who you are.",
-            "This is literally God's Eye from the Fast and Furious series. Each phone and device pinging each other constantly, making a real-time mesh map of literally every device and thus everyone on earth.\n\nGoing to get a dumbphone from the 2000s just for texts and calls, then keep my iPhone at home with no sim, only connected to Wi-Fi for apps that I need.",
-            "This is one reason I disable BT and avoid devices with it built in. I don't buy things that require an app to control them. I don't use wireless headphones and other devices.\n\nI wish devices like phones had separate physical kill switches for WiFi, BT, and Cellular on hardware.",
-            "IMHO this is awesome. I've been using AirTags for some time now and it's just super nice to have. Google introducing this could be a reason for me to switch to Android again at some point. Definitely a plus. Given the high amount of Android devices out there it's likely going to be way more accurate than the Apple equivalent.",
-            "I couldn't find a way to truly opt out. Following instructions I got in email, I first had to agree to their T&C before I could select an opt out. I am not sure if I finangled my way to being opted out or not tbh",
-            "'v'"
-        ]
-    },
-    "Do the new ARM pc's have an Intel ME equivalent in them?": {
-        "title": "Do the new ARM pc's have an Intel ME equivalent in them?",
-        "score": 6,
-        "url": "https://www.reddit.com/r/privacy/comments/1dlu6w5/do_the_new_arm_pcs_have_an_intel_me_equivalent_in/",
-        "content": "Ok so tracking back down intel m.e was a \"security\" feature of all intel CPU that has direct access to hardware level control over any pc, and so does AMD PSP, i have long waited to see a support for core boot for newer pc's after 2013 but with the new arm CPUs is an equivalent to intel m.e also present?",
-        "num_comments": 5,
-        "comments": [
-            "I heard something around those lines. But finding info about it is impossible because looking for \"snapdragon controversy\" or \"snapdragon spyware\" just brings up windows recall xd.",
-            "If I remember it, arm was used for phones and to the most part, there were a thousand ways that anyone could put spyware on them from the OS itself, so I, so think there was never any interest in putting an equivalent in them,  but now if they haven't put none on them, then putting Linux into the new pc's and calling it a day would be perfect",
-            "In [arm terms it's called trustzone](https://www.arm.com/technologies/trustzone-for-cortex-m), which offers similar TEE and remote management based on secure OS (minix in Intel case, [proprietary for AMD and ARM](https://os.mbed.com/mbed-os/)).  \n  \n[AMD PSP is actually an embedded ARM chip with trustzone enabled](https://docs.kernel.org/next/tee/amd-tee.html).  \n  \nAnytime a platform requires DRM, then there has to be a either embedded or third-party TEE chip available, which isn't user manageable.",
-            "kinda, i hope it is onIy copiIot that they put or they made a thousand iq move by putting a controversiaI feature to cover up an even more controversiaI one",
-            "How are RISC-V chips in this regard? The generally available raspberry pi-likes are Chinese."
-        ]
-    },
-    "The Outsider's Guide to Payments Censorship": {
-        "title": "The Outsider's Guide to Payments Censorship",
-        "score": 5,
-        "url": "https://open.substack.com/pub/brettscott/p/the-outsiders-guide-to-payments-censorship?utm_source=share&utm_medium=android&r=92vnw",
+    "Google, Snap, Meta and many others are \"quietly\" changing privacy policies to allow for AI training | It is sneaky and possibly illegal, according to the FTC": {
+        "title": "Google, Snap, Meta and many others are \"quietly\" changing privacy policies to allow for AI training | It is sneaky and possibly illegal, according to the FTC",
+        "score": 304,
+        "url": "https://www.techspot.com/news/103575-companies-including-google-snap-meta-quietly-changing-privacy.html",
         "content": "",
-        "num_comments": 3,
+        "num_comments": 19,
         "comments": [
-            "Beep. Boop. I'm a bot.\n\nIt seems the URL that you shared contains trackers.\n\nTry this cleaned URL instead: https://open.substack.com/pub/brettscott/p/the-outsiders-guide-to-payments-censorship?r=92vnw\n\nIf you'd like me to clean URLs before you post them, you can send me a private message with the URL and I'll reply with a cleaned URL.",
-            "For the sake of health, security, privacy and sanity, situations where \"computer says no\" should be prevented at all cost for all situations.",
-            "Good bot."
+            "I think the main issue is that they are pushing AI data collection and training to end users. Scraping data from internet is becoming counter-productive as more and more internet content is AI generated, and you can't train AI on AI generated data.\n\nSo pushing everything to the end user (e.g. MS Recall) is aimed at getting more real data for the AI models.",
+            "Those big tech fucks regard us as lab mice, don't they?",
+            "Guess it's time to reinvent internet from scratch with better protocols and security that would make impossible for any cookies, AI Training, data harvester and else.",
+            "Correct me if I'm wrong, but after yesterday's SCOTUS ruling overturning the Chevron Precedent is going to cripple the ability of regulatory agencies like the FTC to actually do much about this sort of thing.",
+            "Isn't kind of basic that to change a contract, per definition a two party agreement at least, the other party has to sign and agree on it?",
+            "Does insta chats count as welll",
+            "Wait? Snapchat??\n\nEdit: I know I really shouldn't be surprised. But this applies to chats?",
+            "Oh! Do you by chance have the link to Adobe's clarification?",
+            "I would not say lab mice as they often die and that's counter productive to their mission",
+            "Encrypt everything and save nothing to the cloud.\n\nUse a non-Google search engine and get off Chrome while you're at it."
+        ]
+    },
+    "Apple\u2019s \u2018Privacy-Focused AI\u2019 Gets Seal Of Approval From Investors": {
+        "title": "Apple\u2019s \u2018Privacy-Focused AI\u2019 Gets Seal Of Approval From Investors",
+        "score": 35,
+        "url": "https://www.forbes.com/sites/kateoflahertyuk/2024/06/27/apples-privacy-focused-ai-gets-seal-of-approval-from-investors/",
+        "content": "",
+        "num_comments": 11,
+        "comments": [
+            "The marketing distortion machine has been set in motion.",
+            "\"Apple investors encourage company to follow current tech trend for money\"",
+            "Don\u2019t buy the illusion of privacy",
+            "So no privacy I guess",
+            "Lol.. it wouldve been more believable if they didnt talk about privacy when talking about AI..\n\nBeing upfront wouldve given some trust",
+            "I couldn't care less what investors give their seal of approval to or don't. Regulators are what I care about.",
+            "because it'll make them more money while upkeeping the illusion of privacy for users, not because it's actually private and good for said users\n\nanyway, where are the apple fanboys defending their favorite big tech corpo from the evil normie haters today?",
+            "all to just give you a better user experience",
+            "what, are you suggesting that apple doesn't actually care about my or anyone else's privacy and only uses \"privacy\" as a means of selling more hardware and services? holy shit no way /s",
+            "Big Tech investors, famously the last line of defense for civil liberties /s"
+        ]
+    },
+    "\nPolish govt strips first Parliament official of legal immunity, clearing a path for prosecution in spyware probe in which close to 600 people were monitored by advanced commercial surveillance product Pegasus. Many were opposition politicians and their allies\n": {
+        "title": "\nPolish govt strips first Parliament official of legal immunity, clearing a path for prosecution in spyware probe in which close to 600 people were monitored by advanced commercial surveillance product Pegasus. Many were opposition politicians and their allies\n",
+        "score": 192,
+        "url": "https://therecord.media/polish-parliament-strips-official-of-immunity-pegasus-spyware",
+        "content": "",
+        "num_comments": 8,
+        "comments": [
+            "The problem with tools like pegasus is that it will always be abused. The real problem isn\u2019t people abusing those kind of tools, the real problem is people selling exploits instead of reporting them. It should be illegal to both sale and buy exploits, and it is but of course not for government. If i\u2019d try to sell tool to hack any phone, i would most likely end up in jail, but sell the same tool to government and you\u2019re a hero helping government to catch criminals.",
+            "Amazing. We need to do the same thing in Hungary after the 2026 elections.",
+            ">by advanced **Israeli** commercial surveillance product Pegasus.\n\nFTFY",
+            "isreal uses its ability to create & market cybersecurity and penetration software to blackmail friendly nations, lest the sale of wares such as pegasus make it to the hands of the saudis and chinese institutions instead of western ones",
+            "but i thought only russian are doing so and that's why we started a war with them...",
+            ">The real problem isn\u2019t people abusing those kind of tools, the real problem is people selling exploits instead of reporting them.  \n\n\nno, the problem is vendors either don't pay them or cheapen on the amount of pay for their efforts and sometimes trying to targeting them legally.   \n\nI sometimes read the tweets of some prominent people in security, and I noticed how hard it is to find these vulnerabilities and the pain to write a working exploit for it, because not every vulnerable is exploitable and vendors require a working exploit as a  proof of impact.   \n\nalso their sad reactions on how weeks of work either pay so little (because vendors only pay the full amount when it suite their arbitrary requirements) or they want to jail them. people would prefer to sell to the dark market for 10x the amount of vendors pay.",
+            "Lock them up.",
+            "Thank you."
         ]
     }
 }

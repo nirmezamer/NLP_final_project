@@ -1,73 +1,78 @@
 {
-    "Motionmark: Ungoogled Chromium (left) vs Firefox 127 (right)": {
-        "title": "Motionmark: Ungoogled Chromium (left) vs Firefox 127 (right)",
-        "score": 75,
-        "url": "https://i.redd.it/vwn4d7pa208d1.png",
+    "Firefox 128 will allow the main browser content background to be transparent": {
+        "title": "Firefox 128 will allow the main browser content background to be transparent",
+        "score": 85,
+        "url": "https://old.reddit.com/r/FirefoxCSS/comments/1dqws4b/firefox_128_will_allow_the_main_browser_content/",
         "content": "",
-        "num_comments": 32,
+        "num_comments": 9,
         "comments": [
-            "I'm on a 240hz monitor, Windows 10, latest Firefox. 1137 here. Is it possible your FF is using CPU instead of GPU rendering?",
-            "1134 @ 144 here on latest FF (Linux Mint). Perhaps an issue with your build?",
-            "Just tried with firefox 127.0.1 on Arch and got 1.5k @ 60fps",
-            "Something wrong with Canvas Lines in your result on right, maybe you switch window or hide it for that moment.\n\nMy Firefox result - [https://i.imgur.com/mA0MMY4.png](https://i.imgur.com/mA0MMY4.png) - I had it on screen\n\nChrome - [https://i.imgur.com/iiWJR18.png](https://i.imgur.com/iiWJR18.png) but I had it hidden.",
-            "On a Surface running Linux, I get a bit over 3.9x performance with Chrome. Firefox was worse on most aspects, especially the canvas ones (arcs: 5x better performance with Chrome although FF had a 25% std, lines: 12000x better performance with Chrome although FF had a 100% std), although was better on Paths, Images, and Suits.",
-            "60hz monitor, bodhi linux 7.0, FF 127.0.1, score was 1547.01 +8.58%",
-            "I would guess your Firefox has disabled hardware acceleration, see \"about:preferences#general\" page and \"Performance\" section at the bottom. Make sure the \"Use recommended performance settings\" checkbox is checked.\n\nI've just run the benchmark on my Firefox and it scored 1101:\n\nhttps://preview.redd.it/9dcg78sst28d1.png?width=489&format=png&auto=webp&s=a36b0ae19188ee8d8cd2e9aa57a4096f0dbc1a2c\n\nAlthough my Chrome scored 2241.",
-            "It is probsbly a bit worse, but an almost 10x difference means that it probably doesn't have hardware acceleration turned on",
-            "Something's wrong on your side. I'm using an entry level M1 Macbook Air and I run the test under some really bad conditions (mac and firefox haven't been rebooted in weeks, 20ish tabs open with heavy JS usage, not fullscreen) and I got 1547.04.",
-            "1652 for me. Windows 10."
+            "Looks good for unixporn posts but can't imagine using this daily",
+            "Are they trawling back through the archives for things to fix? FIrefox is 19 years old, so this bug will have related to\u2026 Netscape Navigator?",
+            "Why would anyone want this? It wouldn\u2019t be a usable solution. Wouldn\u2019t be able to read a damn thing.",
+            "So it's basically just a \"customization\" feature. Not something useful that I'd use, but streamers/gamers might be interested in this.",
+            "There's a lot of people who want this actually, just search keyword like glass firefox, and it's optional so no win no lose, just a toy.",
+            "Wow... \"useful\"",
+            "It depends on the color of your wallpaper, and you can change text and link color using Firefox's Dark Mode built-in, so it's always suitable for your wallpaper color.\n\nhttps://github.com/Floorp-Projects/Floorp/discussions/487\n\nMost of the time it's all about the rule of high-contrast, there's a set of text colors that always look good with another set of background colors, so you work around those colors to create perfect high-contrast."
         ]
     },
-    "HD Video content on Youtube and all videos on twitter lag on Firefox Android.  ": {
-        "title": "HD Video content on Youtube and all videos on twitter lag on Firefox Android.  ",
-        "score": 6,
-        "url": "https://www.reddit.com/r/firefox/comments/1dlocb0/hd_video_content_on_youtube_and_all_videos_on/",
-        "content": "I have a Realme P1 5g with 8gb ram and 256 gb storage (Android 14) which I bought this month. Youtube videos/shorts in FHD (1080p) and Twitter videos lag and stutter when played. I had a Realme 1 previously with 4gb ram and 64 gb storage and it lagged there too. (Android 9)\n\nExtensions installed- ublock origin, bitwarden, dark mode, bypass paywalls clean, unhook, video background playback fix, video control for instagram, sponsorblock. ",
-        "num_comments": 3,
+    "Bookmarks. possible the worst UI i have experienced.": {
+        "title": "Bookmarks. possible the worst UI i have experienced.",
+        "score": 4,
+        "url": "https://www.reddit.com/r/firefox/comments/1dr880o/bookmarks_possible_the_worst_ui_i_have_experienced/",
+        "content": "before it used to just store my bookmarks in in order, and had \"show all book marks\" and there they were. \n\nnow i went to \"manage bookmarks\" and they seem to be gone, the only ones i see are \"recent bookmarks\" and that is the late 15 or so, or search bookmark.\n\n\n\nfuck me 20years of the internet and bookmarks are just as shit as day one.\n\n\n\nfirefox i love you and will never leave you and others are just as bad if not worse, but please. figure this out. ",
+        "num_comments": 2,
         "comments": [
-            "The desktop version of YouTube is broken for everyone. A Firefox update is going to fix it soon. I don't know if this affects your phone too.\n\nAs for X/Twitter, try using it with all extensions but uBO and Bitwarden disabled.",
-            "It would affect Android Firefox as well at the 1440p/4k resolutions.",
-            "I have the issue at\u00a0even 1080p"
+            "I don't understand this post. Do you still have bookmarks in the toolbar on a new tab?\n\nWhat happens if you click Bookmarks Toolbar in Manage Bookmarks window?",
+            "Manage bookmarks work well enough for me, but it was a little confusing the first time I used it. Everything that is visible in the toolbar will appear in the Bookmarks Toolbar folder."
         ]
     },
-    "What is Fakespot": {
-        "title": "What is Fakespot",
-        "score": 5,
-        "url": "https://www.reddit.com/r/firefox/comments/1dlmh49/what_is_fakespot/",
-        "content": "Evening,\n\nTwice in the last few days I'v had a tab open to something called Fakespot. When it first happened I just shut down FF thinking it was a virus or something. But today when it happend I took time to read the page and it says it's a service from Mozilla.\n\nSp, what is this thing and, is it safe?",
-        "num_comments": 4,
+    "Windows and Mac browser RAM usage comparison for 2024": {
+        "title": "Windows and Mac browser RAM usage comparison for 2024",
+        "score": 16,
+        "url": "https://www.reddit.com/r/firefox/comments/1dr0zgt/windows_and_mac_browser_ram_usage_comparison_for/",
+        "content": "I done this test because I could not find a recent data set with every browser I use compared together. \n\nThese amounts were found out by visiting the top 10 most visited sites according to Brave Search data: \n\nGoogle.com, Youtube.com, Facebook.com, Amazon.com, Wikipedia.org, Instagram.com, eBay.com, Apple.com, Reddit.com and Yahoo.com \n\nAll websites had accounts signed in and all browsers used either Ublock Origin or the browsers native ad block (Safari used Adguard for Mac) Ad blockers were the only extensions enabled and private mode were turned on for all browsers to ensure the least amount of personal data was shared with the sites.\n\nThere are 2 sets of numbers, and they are categorized by High and Average. High is the max amount of ram found to be used during the testing and average is well the average amount found during testing. Testing time was 4 minutes per site.\n\nNow the numbers:\n\n|Browser|Windows High (MB)|Windows Avg (MB)|Mac High (MB)|Mac Avg (MB)|\n|:-|:-|:-|:-|:-|\n|Chrome|1603|1444|2219|1966|\n|Edge|1703|1437|2328|2048|\n|Brave|1471|1288|1874|1798|\n|Firefox|2308|2143|3239|3077|\n|Vivaldi|1698|1463|2213|1906|\n|Floorp|2439|2125|3681|3414|\n|DuckDuckGo|2497|2327|3827|3513|\n|Arc|1427|1273|1876|1670|\n|Opera|1723|1545|4075|3810|\n|Safari|-|-|2480|2213|\n\n*Note: Safari is exclusive to Mac. Sites were visited at the same time on each browser.*\n\n*Machine for Windows: Surface Laptop 3 with Intel Core i5-1035G7 CPU @ 1.20GHz, 8 GBs of RAM*\n\n*Machine for Mac: MacBook Air Late 2020 with Apple M1, 8 GBs of RAM*",
+        "num_comments": 15,
         "comments": [
-            "[Fakespot by Mozilla Firefox](https://addons.mozilla.org/addon/fakespot-fake-reviews-amazon/).\n\n* Go to the Add-ons Manager (`about:addons`)\n* Uninstall Fakespot if you see it there\n* Go to your Privacy & Security settings (`about:preferences#privacy`)\n* Uncheck `Allow Firefox to install and run studies`\n* Restart Firefox",
-            "Not sure how its possible that Fakespot is getting opened randomly like that. Fakespot is a tool (recently bought by Mozilla) that uses machine learning and other techniques to combat fake reviews and manipulated ratings on Amazon and possibly Ebay. It rates product listings based on authenticity of the reviews, and adjusts ratings in accordance. And gives various other tools to help find products with authentic reviews from real users, summarize review highlights etc. I like it, its fairly useful, I don't want it installed on my main browser profile, but I have the extension installed ina profile that is specifically for shopping.\n\n[https://imgur.com/a/hxLH9TQ](https://imgur.com/a/hxLH9TQ)",
-            "Actually, that's not bad at all. It'll help combat against the bot flood those sites have.",
-            "I use fakespot and reviewmeta to review any amazon generic I get."
+            "This is very interesting... I wonder why Firefox is such a RAM hog. One of the reasons I switched to Firefox in the first place is because it was sold as a lighter, more efficient browser, but that doesn't appear to be the case.",
+            "Interesting results.. Arc and Brave are the lightest on memory usage.",
+            "I need you to post it so I know it's a cross-post.",
+            "its almost like you think you can compare apples and oranges.\n\nthis comparison is incredibly flawed.",
+            "*\u201dI did this test,\u201d not \u201cI done.\u201d",
+            "It's hard to swallow, but the Chromium engine is much more efficient compared to the Firefox Gecko engine.\nGecko engine lags behind today's standards, which is reflected in higher CPU and RAM consumption and slower loading of various websites or videos.",
+            "I\u2019d question how memory use was calculated. I did a comparison Chrome va Firefox on Mac myself. Firefox used 5% less RAM than Chrome. I tested using two tabs: a Google Spreadsheet and Azure Portal.  Both very heavy websites.",
+            "I believe Memory Saver that's on by default, a Chromium feature is the one the makes big different, because Firefox doesn't unload background tabs.\n\nThis could be something Mozilla needs to implement.",
+            "Firefox's is called Unload**OnLowMemory** for some reasons, it only works when system is about to run out of memory, which is about 400MB, which is useless, but Chrome works actively.\n\nAnd in above test with 8GB RAM system, it didn't work for sure, because it just use about 2-3GB, there's a tons of free memory left.\n\nSo both aren't comparable.",
+            "Explain?"
         ]
     },
-    "FF Windows 11 127.0.1 (64-bit),default video image on YT is dull,no contrast, reduced brightness,both window or fullscreen": {
-        "title": "FF Windows 11 127.0.1 (64-bit),default video image on YT is dull,no contrast, reduced brightness,both window or fullscreen",
-        "score": 1,
-        "url": "https://www.reddit.com/r/firefox/comments/1dlvq08/ff_windows_11_12701_64bitdefault_video_image_on/",
-        "content": "and the weird thing is that PIP mode has the CORRECT display of Brightness and Contrast\n\ndoesnt matter if HDR in windows is on or off, night mode is also disabled\n\nmessing with resizing Firefox by dragging the border around flashes the content to the correct values but instantly reverts back to reduced vibrance/contrast/brightness  \n\n\nGPU Nvidia 3070 TI, current driver\n\nMonitor  Samsung super ultra wide 5120x1440 120 hz",
-        "num_comments": 0,
-        "comments": []
-    },
-    "Will this new nav bar gonna be optional or it will be like this by default?": {
-        "title": "Will this new nav bar gonna be optional or it will be like this by default?",
-        "score": 72,
-        "url": "https://i.redd.it/496g11o6ix7d1.jpeg",
-        "content": "I was wondering if this will be optional or we won't have any option to disable it? It seems to be using too much space, so I am not a fan of it.\n\n",
-        "num_comments": 21,
+    "Privacy-Preserving Ad Measurement & Concerns": {
+        "title": "Privacy-Preserving Ad Measurement & Concerns",
+        "score": 86,
+        "url": "https://www.reddit.com/r/firefox/comments/1dqngjy/privacypreserving_ad_measurement_concerns/",
+        "content": "Recently noticed a new feature called 'Privacy-Preserving Ad Measurement' enabled by default on my copy of Firefox Developer Edition. Looks like it's also in Nightly, but it doesn't appear to be present on Stable releases yet.\n\nI won't lie that I'm deeply disappointed in Mozilla for this, and I have serious concerns. This feature should **not** have been enabled by default without notice to the user. Something like this should **always** be left to the user to decide IMO.\n\nMozilla provides more details on it [here](https://support.mozilla.org/kb/privacy-preserving-attribution). On its surface, it doesn't sound *too* bad, but what they neglect to share in that article is that [this feature was developed with Facebook/Meta](https://github.com/mozilla/explainers/tree/main/ppa-experiment)...\n\nThis immediately raises serious red flags for me. Facebook's values very clearly do not align with Mozilla's at all. Why would Mozilla partner and work with them on a feature meant to preserve privacy? Is there something I'm missing here?? Had this just been developed by Mozilla in-house, I would still disagree with enabling it by default, but I would at least have a level of faith & trust in its design. But having Meta directly involved makes it much worse IMO. Not to mention not making this transparent or clear to users at all.\n\nLook, I've used for Firefox for several years, and defended them on a lot of decisions, even some of the more controversial ones, but I'm really struggling to look past or justify this one. \n\nMozilla needs to be very, very careful. IMO they're starting to get on very thin ice, through first buying Anonym, and now this. (To be fair to Mozilla, this seems to have been in development since ~2022, and isn't related to Anonym, just very poor taste & poor timing IMO). One of the only things still keeping Firefox alive is its commitment to privacy and trust in Mozilla & their values. Without that, what's left? \n\nThe fact of the matter is that at its core, the browser is supposed to be the **user agent**. There shouldn't be \"Ad Measurement\" features in the browser at all IMO, certainly not enabled by default. The browser is not the **advertising agent**. Mozilla is supposed to be better than this. This is something I'd expect to see in Google Chrome or Microsoft Edge, not Firefox. I'm just struggling to find Mozilla's justification & reasoning for this feature compelling, and especially with enabling it by default.\n\nMozilla has done some truly amazing work and I've always supported them over the years. Firefox is the last real engine left standing against Google's Chromium monopoly. Seeing Firefox go down this path is deeply concerning & disheartening to me. I fear that Mozilla is going to turn away the few users they have left.\n\nCurious to hear thoughts on this and if my concerns are justified or just overexaggerating. There have been plenty of other decisions Mozilla's made that I've disagreed with, but I've generally been able to at least see & understand their position despite disagreeing. But I just can't cut it for this one, IDK.",
+        "num_comments": 22,
         "comments": [
-            "How did you even get that?  \nI am on the newest Firefox Nightly, and mine hasn't changed to that.  \nI'd also rather have the current one, which takes less space.",
-            "I enabled it a few weeks ago in the secret menu on mobile nightly, but I reverted back. I was interested in handling tabs a bit better, but didn't end up feeling like the new menu worked for me personally.",
-            "I hope it won't be the default, it takes up way too much space",
-            "I have to be honest, after enabling it in Nightly I don't despise it unlike other people here. It feels decent (apart from being [glitched in new tabs](https://imgur.com/a/HoyPeBd), it is uncentered and too close to the right side) if used with the \"menu redesign\" also available in secret settings\n\nEDIT: it also doesn't show the full URL and that's a big deal tbh",
-            "Let's hope it's optional, because this eyesore on top of everything doesn't work properly... It's clunky.",
-            "The fenix team is incompetent. Nobody asked for this ugly overhaul. Instead they could just dedicate a year to fix bugs to polish the app. There are bugs from 2021, still not fixed on fenix. I have reported 3 annoying bugs on bugzilla and only one has some movement. The other two are kind of acknowledged but abandoned.\n\nHaving only the tab number box and 3 dot menu on the URL bar is sufficient and all they had to do. Instead they did ugly Chinese browser style bottom bar. Anyone can install any Chinese browser and all those have this redundant bottom bar.",
-            "For me, it has been like this for ages (figuratively), I\u2019m on iOS, though.",
-            "Looks good to me. I have the option to hide the address bar on scroll enabled, so bigger address bar would make it easier for me to use it when I need it and still be out of the way when I don't need it.",
-            "I just wish they would make it like safari where you can swipe the bar left or right to navigate tabs\n\nEdit: I'm on iOS, so I don't have it. Yes, Android has it. Thank you for the downvotes",
-            "You can get it by enabling the option in the secret menu. Tap Firefox logo multiple times to enable secret menu."
+            "My reaction: over my dead body, uBO for life!\n\nI never want to see ads, period. I could care less about features that make it easier for advertisers, they certainly don't care about users...",
+            "If this makes it impossible to profile individual users, then I am for it.\n\nSomething like this would, in theory, be a great alternative to cookies and should be brought forward to European Parliament to expand GDPR protection.",
+            "I share your concerns on this, but there really isn't an ethical web browser out there. Firefox is kind of the lesser of the evils.",
+            "Disable the setting, carry on using ublock and a DNS provider. What else can be done, really.",
+            "You invited alternative opinions, so I'll respectfully disagree. I didn't hear any specific technical concerns about this technology. While I'm skeptical about its success, given Google's past attempts, I believe it's a natural direction for companies to explore. They're trying to make ads more private, and by rejecting this technology outright, we might be discouraging innovation and sticking with the current system. However, I do think it was a mistake to enable it by default, considering its experimental nature.",
+            "How do you think Mozilla foundation and Inc. will monetize themselves to pay astronomical salaries to their CEOs, as a way to congratulate them for Firefox ever decreasing market share?",
+            "To be fair, data scraping is a fundamental part of Google's business model as well.",
+            "My guess is that Meta sees new privacy legislation, browser changes to increase privacy, etc. and realizes that in the future, their data gathering could be severely limited, which would directly impact their income from ads. This is why they are trying to create a plan B that will allow them to keep that ad income and survive in a world increasingly concerned about privacy.",
+            ">If this makes it impossible to profile individual users\n\nSo is Google Chrome Ad Measurement. Allegedly.",
+            "True. Firefox is really the only option left at the moment..."
+        ]
+    },
+    "How do I pin a website to the New Tab screen that isn't there?": {
+        "title": "How do I pin a website to the New Tab screen that isn't there?",
+        "score": 3,
+        "url": "https://www.reddit.com/r/firefox/comments/1dr74pj/how_do_i_pin_a_website_to_the_new_tab_screen_that/",
+        "content": "Let's say I want to pin the website [clicktheredbutton.com](http://clicktheredbutton.com) to my new tab. A website I just discovered and bookmarked.\n\nWhenever I bookmark something, I just forget about it, so I want to pin it to New Tab, so I get reminded every once in a while.\n\nThis website does not show up on the new tab by itself, like websites that I frequently visit do.\n\nI tried dragging a bookmark over the new tab, this apparently worked in 2014, but now it just opens the website.\n\nHow do I pin [clicktheredbutton.com](http://clicktheredbutton.com) to the New Tab screen?\n\nExample: I could pin YouTube because I often visit the site and it shows up by itself. I remember I used to be able to look for websites and pin them, so I pinned a lot of websites I almost never visit just as a reminder that they exist and I like them, but I cannot find this feature anymore.\n\nhttps://preview.redd.it/vjhn46448h9d1.png?width=257&format=png&auto=webp&s=206106d3369e2878c803e714c21c0ba2835afb66\n\n",
+        "num_comments": 2,
+        "comments": [
+            "rightclick and edit an existing bookmark to whatever you choose.",
+            "Please see the instructions and screenshots on these help pages: \n\n* [Customize items on your Firefox New Tab page](https://support.mozilla.org/kb/customize-items-on-firefox-new-tab-page)\n* [Customize your New Tab page to hide or display content](https://support.mozilla.org/kb/customize-your-new-tab-page)"
         ]
     }
 }

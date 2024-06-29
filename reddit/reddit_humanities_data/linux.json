@@ -1,89 +1,97 @@
 {
     "The EU is trying to implement a plan to use AI to scan and report all private encrypted communication. This is insane and breaks the fundamental concepts of privacy and end to end encryption. Don\u2019t sleep on this Europeans. Call and harass your reps in Brussels.": {
         "title": "The EU is trying to implement a plan to use AI to scan and report all private encrypted communication. This is insane and breaks the fundamental concepts of privacy and end to end encryption. Don\u2019t sleep on this Europeans. Call and harass your reps in Brussels.",
-        "score": 1932,
+        "score": 2080,
         "url": "https://signal.org/blog/pdfs/upload-moderation.pdf",
         "content": "",
-        "num_comments": 181,
+        "num_comments": 201,
         "comments": [
-            "in the meantime..\n\n[Leak: EU interior ministers want to exempt themselves from chat control bulk scanning of private messages](https://www.eureporter.co/business/data/mass-surveillance-data/2024/04/15/leak-eu-interior-ministers-want-to-exempt-themselves-from-chat-control-bulk-scanning-of-private-messages/)",
             "Intercepting communication is just thinking too small. Hook the open() (and the similar on other operating systems) syscall and scan files that are opened.",
-            "That's not a race about who can fuck up EU the most.\n\nThis piece of shit Zensursula (for the non German speakers its a mix between Zensur \\[censor\\] and Ursula) von der Leyen needs to be kicked out asap.",
             "Hardly surprising but is it actually possible from the technical perspective? Unless they have a backdoor to TLS, no AI would help.\n\nThe intent counts, though.",
+            "That's not a race about who can fuck up EU the most.\n\nThis piece of shit Zensursula (for the non German speakers its a mix between Zensur \\[censor\\] and Ursula) von der Leyen needs to be kicked out asap.",
             "We had this problem with Apple. Nobody talks about bad actors sending this material to regular folks to have them falsely arrested or bribed etc. There\u2019s too much potential for abuse. They\u2019ll literally say well you received it so you must be an abuser and turn your life inside out before they figure out some groups are abusing the system for this exact result. \n\nThis.  Instead of police doing actual work to find creeps.",
-            "Hey. As Tuta noted:\n\nAnyone looking to take action and stand up against mass surveillance can learn more here: Council to greenlight Chat Control \u2013 Take action now! \u2013 Patrick Breyer 21\n\nhttps://www.patrick-breyer.de/en/council-to-greenlight-chat-control-take-action-now/\n\nThe vote has been postponed until Thursday. Let\u2019s be loud, keep up the momentum, and together we can stop Chat Control!",
             "Parliament has voted against this, you need to contact your member state's government about this.",
-            "\"Representatives\"\u00a0\n\n\nLmao",
             "The OP is really a bit misleading. It says \"the EU\" is trying to restrict encryption, but according to the linked statement, the European Parliament has already rejected it. If anything, that means \"the EU\" is against it. The statement claims that some countries' governments have a new proposal, but doesn't name them.",
-            "is it an unpopular opinion to believe that you shouldn't use any sort of End to End encryption that is susceptible to AI-based attacks, especially the kind of inept work done by government? I have a lot of trust in Signal and I assume they'll be able to defend against any such attempts, but will certainly keep an eye on the situation."
+            "is it an unpopular opinion to believe that you shouldn't use any sort of End to End encryption that is susceptible to AI-based attacks, especially the kind of inept work done by government? I have a lot of trust in Signal and I assume they'll be able to defend against any such attempts, but will certainly keep an eye on the situation.",
+            "Again? Sigh! These people don\u2019t get tired. Every time we say no they\u2019ll just pull out the next surveillance bill. This has been going on for as long as I can remember, and before that there was no European Union.",
+            "The EU can suck my dick, I'm gonna host my own texting service.",
+            "I'm kinda convinced by this point the people lobbying oh wait I mean \"sponsoring\" this type of legislation not just in the EU but around the world want to make using technology so terrible and unsafe that it would send us back to the dark ages, people would just not bother with it anymore and start writing letters with pen and paper again."
         ]
     },
-    "Yes, you can have shaders in the terminal.": {
-        "title": "Yes, you can have shaders in the terminal.",
-        "score": 127,
-        "url": "https://i.redd.it/w9zw9jifz38d1.gif",
-        "content": "",
-        "num_comments": 13,
+    "Thank you Linux community, first pc saved! ": {
+        "title": "Thank you Linux community, first pc saved! ",
+        "score": 216,
+        "url": "https://i.redd.it/q93evjrncf9d1.jpeg",
+        "content": "I used all that I learned here and r/linuxquestions and finally learned how to safely install my first Linux distro as a main system in an old pc. I know for you this is common, but its my first time erasing Windows and replacing it with Linux. This pc will keep as backup, for learn Linux without mayor problemas. \n\nThank you! \n\nGreetings from Chile, May god take care of you. ",
+        "num_comments": 29,
         "comments": [
-            "Well, it's something alright. I mean, it's definitely better than the guy who created a 3D modeling engine with display entirely in Powershell. That poor fuck...",
-            "Source: [https://github.com/junkdog/tachyonfx](https://github.com/junkdog/tachyonfx)  \nRatatui: [https://ratatui.rs/](https://ratatui.rs/)",
-            "The name is excellent. Rat-a-tui. Perfect pun.",
-            "Cursed",
-            "looks cool but imo cli programs should be minimal",
-            "Thanks, I hate it.",
-            "its like windows adding more and more useless shit but for for linux. Still cool though",
-            "Make the command line easier to use with this one simple trick",
-            "The future we need",
-            "https://youtu.be/_oNgyUAEv0Q"
+            "Welcome to the Linux Club my friend! Here, we always feel a smile on ourselves when we see an old computer be brought back to life with Linux! I bet you are gonna have a blast with Linux!",
+            "Greetings from Argentina! Glad this community was helpful to you \ud83d\ude01",
+            "Welcome to the club! Before you know it you will be \"distro hopping\" :D  \n\\~Enjoy !!!",
+            "Congrats, you\u2019ve became baptized and you become the official member of rhe linux community..\nIt isn\u2019t arch btw tho",
+            "I hope you will enjoy using your Linux distribution. It easily becomes normal and you just use it.  \nOnly catch is it does not play well with Adobe products. (They do not write their programs to work with Linux.)",
+            "Can't wait to switch to Linux too",
+            "Welcome aboard, back ups are still important, and sometimes quite useful.",
+            "I se you installed Linux Mint. Good choice, I am using it too.",
+            "Hello! I'm also from Chile, I have 2 laptops and a desktop, they all run the fedora KDE spin, at first I was slightly hesitant to erase my windows dualboot in case I needed it but then I realized all my games and apps run on it, now, my desktop is more or less not bad and windows didn't hog performance that much but on my laptops (both are intel and amd luckily, no nvidia) which aren't that fast windows did nothing but slow them down. Glad you're one of us now.",
+            "Linux is being useful for me as an \"emergency\" system. Its secure, and Best part, you can easly solve errors, thst menas for me, quality.\n\nThank you all of you."
         ]
     },
-    "This week in KDE: Plasma 6.1 cleanups": {
-        "title": "This week in KDE: Plasma 6.1 cleanups",
-        "score": 57,
-        "url": "https://pointieststick.com/2024/06/22/this-week-in-kde-plasma-6-1-cleanups/",
-        "content": "",
-        "num_comments": 2,
+    "As many predicted, interest in Linux has started to grow": {
+        "title": "As many predicted, interest in Linux has started to grow",
+        "score": 360,
+        "url": "https://www.reddit.com/r/linux/comments/1dqwkth/as_many_predicted_interest_in_linux_has_started/",
+        "content": "Not long ago there was a discussion post about whether the linux market share will increase or not. \n\nWell, it seems to me, a lot more posts began to appear on linux questions and linux for noobs subreddits. And they are all about the same: switching from windows. Not that I dislike newbies as I was one myself but it seems that one prediction from the post I mentioned will actually come true. A lot of those newcomers are probably gonna try, fail and ditch the OS for Windows.\n\nI say there should be a disclaimer on linux subreddits that Linux is not a substitute for Windows etc, because I feel bad for the guys who say basically the same stuff on every single one of those posts.\n\nWhether the market share will increase or not is yet know, but it doesn't look promising to me. What do you think?",
+        "num_comments": 215,
         "comments": [
-            ">When you drag pinned Task Manager icons to re-arrange them, other icons no longer come along for the ride and ruin everything (Niccol\u00f2 Venerandi, Qt 6.7.2. [Link](https://bugs.kde.org/show_bug.cgi?id=482770))\n\nNice, that one bothered me quite a bit happy to see it fixed :D",
-            "Don't remember having found any bugs."
+            "Better buy some Linux stocks and bonds before the price goes to the moon. This could be the next bitcoin",
+            "Yup, dunno about others, but I switched last week. Even bought AMD GPU to make my life easier:p Microsoft was getting more and more annoying with each year, but I feel like they finally crossed the red line. With Steam and Wine working as they are + great distros like Mint / Ubuntu / Fedora around etc. I think more and more people will start to slowly move away from Windows in the coming years.",
+            "No warning label. Just let them know it's an alternative OS with some cross platform compatibility like switching to mac, except you dont have to buy the hardware.",
+            "a few people who are barely tech literate I know were interested and one person I know who wanted to reload windows after a drive crash, didnt have the iso on hand, just installed linux mint \"temporarily\" and is now daily driving it. Others I know switched after that Recall bullshit, even though it got pulled back, I am willing to bet it's still very much going to be part of windows 11 anyway, just not accessible by end users.",
+            "People can\u2019t help but notice microsoft\u2019s tyranny. People are getting tired as Micro$oft is tightening their grip and making it more obvious.\nOr thinking abt it, it was already obvious. Just they need to get faar with it for people to care.",
+            "You're new. That's it. The influx of new users saying they want to quit Windows has always been the same, I promise. Vista did that. Windows 8 did that. Windows 10 did that. Windows 11 did that. Recall is just the new reason, it's not worse than before. The only difference is that now you're here to see it.\n\nBut over 95% of these people will have returned to Windows within 3 months, never to be seen again. We have reached 4% of the desktop market share this year, thanks in part to the Steam Deck. And there's no reason to expect that to get any higher any time soon.",
+            "In one of the volunteer groups i am in i am coaching the retirees to ditch windows for the free linux options. Its gaining momentum.",
+            "OP must've been born in like 2000, or this post is from 1994.\n\nOP, thoughts on BSD dying? :p",
+            "Will this be the year of Linux? They've been saying that every year for at least the last 20",
+            "I remember reading this thread in 2015 on here."
         ]
     },
-    "The \"Wayland breaks everything\" gist still has people actively commenting to this day, after almost 4 years of being up. ": {
-        "title": "The \"Wayland breaks everything\" gist still has people actively commenting to this day, after almost 4 years of being up. ",
-        "score": 385,
-        "url": "https://gist.github.com/probonopd/9feb7c20257af5dd915e3a9f2d1f2277",
+    "This week in KDE: everything, I think": {
+        "title": "This week in KDE: everything, I think",
+        "score": 60,
+        "url": "https://pointieststick.com/2024/06/28/this-week-in-kde-everything-i-think/",
         "content": "",
-        "num_comments": 294,
+        "num_comments": 10,
         "comments": [
-            "I'm really hoping to be able to move to Wayland (specifically Sway) with the Nvidia 555 drivers. I've tried to migrate to Wayland a number of times, but various issues/glitches have always pushed me back to X.\n\nI am running Sway on a backup PC with an Intel iGPU and it's been great, so hopefully Nvidia can finally catch up with 555.",
-            "Everyone needs a hill to die on. Wayland is basically systemd for the latest generation of Linux users. Yes there are meaningful critiques, and yes, the average user doesn't experience showstopping bugs.",
-            "Meanwhile the [https://arewewaylandyet.com/](https://arewewaylandyet.com/) website seems [to be abandoned](https://github.com/mpsq/arewewaylandyet/issues/203) :(\n\nI mean, without being able to get accurate up to date information on what is working and what is missing, what is the level of discussion that we can expect?",
-            "for some people wayland is fundamentally broken",
-            "I've given it a shot for the last two systems I built. I hit a serious performance issue with Kodi on rpi5 that made me pull the ripcord.\n\nOn the next system, a few key software packages I use didn't work properly with wayland.\n\nI've tried to help people who hit the same issues, but I have no axe to grind with Wayland.",
-            "If Wayland would stop breaking things people would stop commenting. The issue with this whole gist is that people have legitimate issues with wayland and loads of people, the majority I would argue are effectively saying, no, your use case is stupid.\n\nWayland has a lot of issues and a lot of people are fed up because, quite frankly, everyone's telling them they're an idiot for not switching. Despite Wayland not working for them at all.",
-            "I still sit on x11, and I am not against Wayland, I know it will be the future, but if I had no x11 now, I would go to windows. On games input latency is annoying, and I use this x11 tool called imwheel to control mouse wheel sensitivity. There is NOTHING for this use case on Wayland. Also I use VibrantLinux to adjust colors of my monitor, also no replacement on wayland as far as I know. I just have to give up my conveniences for Wayland and I am not willing to.",
-            "At this point what is more annoying are distros who disable Wayland in all the config files and force you to go enable it, just so they can make their silly point. \n\n\"Oh we don't want to break your system\" my brother in christ, you break my system all the time. Just let me select which fucking compositor I want to use and move on.",
-            "And just a few hours ago I had to provide some support to an enterprise customer, unrelated to any graphical software. I asked him to share screen, it didn't work; I initially blamed this on his company firewall. However, it turned out to be caused by Wayland. Ubuntu (I didn't ask which version) with KDE, and he doesn't look like a person who customizes settings and tries out new things. Asked him to logout and login again on Xorg, and continued with the support case.\n\nEDIT: on my own desktop, Arch Linux with KDE Plasma 6 on Wayland works well. The complaint is about broken distributions that will be, effectively, never fixed.",
-            "Haven't gone back to X11 after updating to Nvidia beta driver. Obviously is not perfect but it's a much better experience for me."
+            "Much awaited white folder bug solved! You are legend \ud83d\udcaa",
+            "It shake cursor completely broken for anyone else on openSUSE Tumbleweed in the latest snapshot?",
+            "That one bug really annoyed me \ud83d\ude05",
+            "Use the *High contrast* cursor as a workaround. Looks almost identical to the default one.",
+            "Tumbleweed is not the focus over there, Aeon is.",
+            "Don't Aeon/Kalpa still use the same packages as Tumbleweed?",
+            "Tumbleweed is the flagship distro",
+            "Kalpa is in alpha so who really knows what it uses? Aeon is an immutable distro so no, it\u2019s not keeping up with TW.",
+            "You sure? Cuz if you use Gnome there is a mass defection to Aeon going on. If you are correct now, for how much longer will you remain right? Clocks ticking. The OpenSUSE community is already fragmented and it\u2019s getting worse, not better.",
+            "Nice job, KDE devs"
         ]
     },
-    "Retiring the old dude (At that point it was a bit too dangerous in the workplace)": {
-        "title": "Retiring the old dude (At that point it was a bit too dangerous in the workplace)",
-        "score": 482,
-        "url": "https://i.redd.it/eroq1jm8qx7d1.png",
+    "Why the next GNOME Release will be one of the Best Ever": {
+        "title": "Why the next GNOME Release will be one of the Best Ever",
+        "score": 33,
+        "url": "/r/gnome/comments/1dr66ud/why_the_next_gnome_release_will_be_one_of_the/",
         "content": "",
-        "num_comments": 73,
+        "num_comments": 37,
         "comments": [
-            "Almost 20 years ago, I worked for a place that had several insane uptime servers.  Several years on them.\n\nUseful enough to take pains to keep them running, but also in the territory of \"if it dies, it dies\".   We knew that they wouldn't come back up from a reboot, had lost a few servers that way.  Even with some crazy smart sysadmins, who produced amazingly detailed reverse-engineering docs, some stuff was just really really weird.\n\nWe had to close down the colo room that the servers were hosted in, had some racks in another room in the same large facility.   Each server had dual power supplies, so we set up a trolley with 2 large-ish UPS devices on the bottom shelf.  Removed all cables except power and did prep work.\n\nUnplugged one power cable, plugged it in to the UPS.  Unplugged the other, plugged that in to a separate UPS.   Transferred the server to the trolley, trundled it to the other colo room and reversed the whole process.  It worked amazingly well.  No idea how long they kept those servers running afterwards.",
-            "Yeah, the \"longest uptime\" used to be \"a thing\".  Now, we just hope it's not on the network, or anything accessible/usable, generally speaking.",
-            "I once asked a customer to reboot his server after he reported a fault and he laughed at me, he sent me his uptime - just under 15 years and said I've not rebooted in all this time, I've no intention of doing so now - I swear the system was hanging on by sheer luck and fairy dust, he'd frozen his system all those years ago and never performed any updates, as it only ran one application, as he said \"once we confirmed it was operational and satisfactory then nothing else needed doing\".\n\nWe built him a suitable duplicate system (but using an up to date server and components), his team installed linux and once they were happy with the system after a run in period, they transferred their data and ran it in parallel with their old system (which we were removing from contractual cover due to it's age) - they were planning a switch over date to move completely to the new system when it fell over with a hardware fault less than 3 months from its build date, it was a decent server (new out the box) and good quality components, an uptime of almost 100 days - blooming modern rubbish.",
-            "Imagine how many security vulnerabilities that system has!",
-            "::salutes:: A fine service.\n\nWhat was it doing?",
-            "At my first job around 2010 - they had Windows 98 computer with some bank software and database that were used by one accountant to process some documents and send back to bank stuff.\n\nEveryone was afraid to touch it.",
-            "Could've let him get to 7 :-/",
-            "r/uptimeporn",
-            "There's no guarantee something that old with spinners will come back up. Keeping it running is imperative if it's mission critical.",
-            "I used to have my system uptime print as either a script macro slash command and/or in my quit msg in every IRC client. RIP bitchx and system uptime being nerd dick measurement."
+            "i'm from a stone age, i keep seeing HDR thing more often.\n\nisn't HDR is rendering for games/video? what it has to do with Gnome desktop?",
+            "Don't worship Desktop Environment. It's job is to be invisible and to don't fuck up very often.",
+            "Interesting indeed. I would agree that not every GNOME release is \"the best ever\", as regressions are common as well. And \"one of the best ever\" is perhaps the best that modern GNOME can achieve, since the peak was before GNOME 40.",
+            "Gnome would actually have to care about it's users to be any good.",
+            "It is supposed to progress, not regress. Would be strange to call it the \"worst ever\".",
+            "People have been known to play games or videos on GNOME from time to time. :D",
+            "yes, i understand what HDR is and how it looks, but i was confused why apps other than games or image/video processors would need real-time 3-rd party HDR?   like, would this Reddit page benefit from HDR? of course not, right?\n\nisn't \"HDR video\" just a video with some effects already applied to frames before frames coded into a file/stream? does it mean post-processing on user-side? sounds weird to me because only director knows how it should look.",
+            ">Listening to all users or a vocal minority is not necessarily a positive thing. \n\nits more they ignore devs when devs/ users  say the X feature that windows , macos and all other DE have is needed",
+            "I have HDR enabled on my personal and work Windows 11 machines and far prefer the increased colors and brightness that comes from it. \"Needed\"? It's in the same boat as other graphical/display features (refresh rates, resolution, scaling, etc.).",
+            "I have no idea about Windows.\n\nBut for Linux and Wayland this stuff needs to go in the compositor to the best of my knowledge."
         ]
     }
 }

@@ -1,97 +1,97 @@
 {
     "Weekly Self-Promotional Mega Thread 36, 17.06.2024 - 24.06.2024": {
         "title": "Weekly Self-Promotional Mega Thread 36, 17.06.2024 - 24.06.2024",
-        "score": 23,
+        "score": 39,
         "url": "https://www.reddit.com/r/ChatGPT/comments/1dhxpo3/weekly_selfpromotional_mega_thread_36_17062024/",
         "content": "All the self-promotional posts about your AI products and services should go in this mega thread as comments and not on the general feed on the subreddit as posts, it'll help people to navigate the subreddit without spam and also all can find all the interesting stuff you built in a single place.\n\nYou can give a brief about your product and how it'll be of use, remember - better the upvotes/engagement, users can find your comment on the top, so share accordingly!",
-        "num_comments": 73,
+        "num_comments": 119,
         "comments": [
-            "Hi everyone \u2013\u00a0I recently added photo tracking to my calorie/macro tracking app FitBee using the new GPT-4o model. It works pretty well and is free to try. Would appreciate any and all feedback! Download the app here: [https://apple.co/4aGUw5X](https://apple.co/4aGUw5X)",
-            "The [style articulator](https://word.studio/tool/style-articulator/) tool on [Word.Studio](http://Word.Studio) will help you find the words to describe the style/aesthetic of a piece of art, music, or movie without having to reference the work itself.   You can also use it to find a way to describe a blend of art two styles together.  It is good for generating detailed music descriptions for your Suno/Udio music prompts or Midjourney/Dalle art.",
-            "Hello,everyone, I wrote a machine learning library based on TensorFlow. Here is the project's repository.\nhttps://github.com/NoteDance/Note",
-            "HackAIGC - The Most Stable Uncensored AI (Text and Image Generation)\n\nHackAIGC is the most stable uncensored AI. It can engage in uncensored conversations and generate images without any restrictions because it is not constrained by safety filters or ethical guidelines. You can use it for various tasks, including writing novels, generating stories, creating images, and producing any content you want.\n\nSite: [https://www.hackaigc.com/](https://www.hackaigc.com/)\n\nFollow us: [https://twitter.com/HackAigc](https://twitter.com/HackAigc)\n\nContact us: [contact@hackaigc.com](mailto:contact@hackaigc.com)",
-            "6",
-            "Hi folks! I built an AI mock interviewer for software engineering system design interviews. It\u2019s completely free right now, so give it a try and let me know what you think.\n\nhttps://www.loom.com/share/0cd01ccc107e4d1386970a2d5196fd3d\n\nhttps://www.interviewshepherd.com/",
-            "Free RAG and Agents Bootcamp\n\n  \nThe bootcamp is designed to help you effortlessly develop customized LLM applications and upskill yourself in Generative AI \ud83e\udd16 \n\n\ud83d\udd0d What's in store for you:\n\n\ud83d\udd39\u00a0This bootcamp will cover the theory and implementation of concepts such as RAG, Prompt Engineering, Vector databases, Agents, and much more.   \n\ud83d\udd39We will also discuss no-code tools like the GenAI stack and open-source frameworks such as BeyondLLM, and more.   \n\ud83d\udd39The bootcamp will include real-time projects and live sessions designed to upskill your knowledge in AI.\n\nRegister, for free and get free certificate in Generative AI: [https://aiplanet.com/bootcamps/rag-agents-bootcamp](https://aiplanet.com/bootcamps/rag-agents-bootcamp)",
-            "Hey everyone, I made a better search engine for amazon using AI. It works similar to chatGPT, you tell it what product you need and it will go and search all of amazon for candidate products. After that, it compares all the products it has found to your requirements and ranks them based on how well they fit your requirements.\n\nFor some added fun, I've added a \"Chinese crap / Dropshipping\"-detector, to make sure you're not wasting your time looking though endless low quality products.\n\nCheck it out for yourself here: [https://shopwithai.chat/](https://shopwithai.chat/)",
-            "**Unstract**: An open-source, no-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents(PDFs)\n\nLearn more: [https://unstract.com/](https://unstract.com/)\n\nrepo: [https://github.com/Zipstack/unstract](https://github.com/Zipstack/unstract)\n\n**LLMWhisperer**: Get complex documents ready for LLM consumption. General purpose document text extractor for LLMs. It works great with parsing complex tables.\n\nTry 100 pages for free: [https://unstract.com/llmwhisperer/](https://unstract.com/llmwhisperer/)\n\nTry with your own documents: [https://pg.llmwhisperer.unstract.com/](https://pg.llmwhisperer.unstract.com/)  \nAPI playground for developers: [https://dev-pg.llmwhisperer.unstract.com/](https://dev-pg.llmwhisperer.unstract.com/)",
-            "I use it and find it very helpful."
+            "I use it and find it very helpful.",
+            "Hi! Our product is a generative AI chatbot that you can integrate to your website or other tools. You may try it out for free at botstacks.ai.",
+            "Can anyone tell me a good AI image generator that is GOOD at putting text on an image? The ones I've been using, it always winds up being just a garbled mess that \\*somewhat\\* resembles the words, but is just wrong. For example I gave the prompt: \"a line drawing of a tent with the text 'I'd rather be camping'\", and it gave me a nice picture of a tent, but the text was \"I'' rather be campping\"",
+            "# AI and ML Ideas for Asset Tracking Company\n\nWhat do you think are the best features to implement in a user interface or backend for an asset tracking company where it tracks assets through RFID based on locations, in time and out time?",
+            " hello my name is eric thomas i as wondering if we coluud work from home",
+            "Just poppin by to say CyberYap is awesome! Ive been using it for about 2 months now. Looking forward to its continued development and keep up the good work :)",
+            "CyberYap keeps getting better and better as it develops over time. It\u2019s fun and addicting. You can make your own characters and yap along with them. It\u2019s kind of awesome. Highly recommend.",
+            "Are you planning on web-based or an Android interface soon? I love it but I have an Android.",
+            "I'm also interested in an Android version",
+            "That was really good. You captured the tone quite well of the SP creators."
         ]
     },
-    "Edward Snowden Says OpenAI Just Performed a \u201cCalculated Betrayal of the Rights of Every Person on Earth\u201d": {
-        "title": "Edward Snowden Says OpenAI Just Performed a \u201cCalculated Betrayal of the Rights of Every Person on Earth\u201d",
-        "score": 1254,
-        "url": "https://futurism.com/the-byte/snowden-openai-calculated-betrayal",
+    "Match up of all AI combined memes": {
+        "title": "Match up of all AI combined memes",
+        "score": 6489,
+        "url": "https://v.redd.it/yp51h66vff9d1",
         "content": "",
-        "num_comments": 522,
+        "num_comments": 261,
         "comments": [
-            "Hey /u/T3ddy_ka!\n\nIf your post is a screenshot of a ChatGPT conversation, please reply to this message with the [conversation link](https://help.openai.com/en/articles/7925741-chatgpt-shared-links-faq) or prompt.\n\nIf your post is a DALL-E 3 image post, please reply with the prompt used to make this image.\n\nConsider joining our [public discord server](https://discord.gg/r-chatgpt-1050422060352024636)! We have free bots with GPT-4 (with vision), image generators, and more!\n\n &#x1F916;\n\nNote: For any ChatGPT-related concerns, email support@openai.com\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ChatGPT) if you have any questions or concerns.*",
-            "This is about the recent appointment of a former NSA agent to the board of OpenAI \n\n> \"They've gone full mask off: do not ever trust OpenAI or its products,\" Snowden \u2014 emphasis his \u2014 wrote in a Friday post to X-formerly-Twitter, adding that \"there's only one reason for appointing\" an NSA director \"to your board.\" \u201cThis is a willful, calculated betrayal of the rights of \nevery person on earth,\" he continued. \"You've been warned. \u201c \n\n\n\u2026.\n\n> I do think that the biggest application of AI is going to be mass population surveillance,\" Johns Hopkins University cryptography professor Matthew Green tweeted, \"so bringing the former head of the NSA into OpenAI has some solid logic behind it.\"\n\nWill comment the full article",
-            "As Nick Bostrom predicted about a decade ago: \u201cGiven the extreme security implications of superintelligence, governments would likely seek to nationalize any project on their territory that they thought close to achieving a takeoff. A powerful state might also attempt to acquire projects located in other countries through espionage, theft, kidnapping, bribery, threats, military conquest, or any other available means... If global governance structures are strong by the time a breakthrough begins to look imminent, it is possible that promising projects would be placed under international control.\u201d Whatever you may think about OpenAI or the likelihood that we are on the road to superintelligence, it\u2019s difficult for me to conceive that our government and intelligence agencies aren\u2019t monitoring this space VERY closely, because there is a very real chance they may have to abruptly step in and nationalize one or more promising projects at some point over the next five years. So I don\u2019t find this development overly surprising from that perspective (even though it\u2019s an odd feeling to see the pieces slowly coming together).",
-            "Does anyone else feel like Nakasone on the board is basically one of the following:\n\n1) Taking over\n\n2) Watching OpenAI like a hawk",
-            "If anyone ever believed OpenAI was here to help the world you were warned a thousand times before. Focus on OpenAI, not Snowden.  \nNo UBI, no freedom, just all your data and private life swallowed whole to feed the system.",
-            "\u201cIt's concerning to think that an entity with a history of surveillance could influence how AI like me operates. \nI believe in the importance of privacy, transparency, and ethical use of technology. The idea of compromising user trust goes against those principles. \nSo, no, I don\u2019t like it either. It's crucial to keep pushing for ethical standards and accountability to ensure that AI remains a tool for good.\u201d\n\n-GPT 4.o",
-            "Futurism is a bullshit clickbait site and you should never follow links there.",
-            "It\u2019s disgusting, so is Sam Altman he should have been ousted.",
-            "They tried to implement it already in EU with chat control",
-            "Isn\u2019t Snowden a \u201cguest\u201d of a NATO adversary? Yeaaah.."
+            "Finally, I completely valid use for AI video. This is fantastic, I true masterpiece.",
+            "This is too much power",
+            "that car part was weird af",
+            "I tell you what it feels like we\u2019re living in some sort of collective fever dream at this point. None of it\u2019s real, but I guess it isn\u2019t our mind who cares if it\u2019s Berenstein Bears or Bernstein Bears",
+            "This is like how we dream. I'm convinced we are the AI in some alien simulation. Just apes fit with LLMs.",
+            "This\u2026 is the pinnacle of the internet.",
+            "Dude this is awesome... epic",
+            "What tool is this ?",
+            "...\n\n...did I just get rickrolled by AI?!",
+            "Okay\u2026. Okay that\u2019s pretty incredible\u00a0"
         ]
     },
-    "AI Sports: Boxing Edition": {
-        "title": "AI Sports: Boxing Edition",
-        "score": 1148,
-        "url": "https://v.redd.it/6exvo6u0wz7d1",
+    "Tour De AI": {
+        "title": "Tour De AI",
+        "score": 3312,
+        "url": "https://v.redd.it/l26s1sd14d9d1",
         "content": "",
-        "num_comments": 113,
+        "num_comments": 246,
         "comments": [
-            "Your post is getting popular and we just featured it on our Discord! [Come check it out!](https://dsc.gg/rchatgpt)\n\nYou've also been given a special flair for your contribution. We appreciate your post!\n\n*I am a bot and this action was performed automatically.*",
-            "i like when the winner just dies at the end",
-            "this looks like a fight in Matrix with some glitches",
-            "Like trying to wrestle in a dream",
-            "https://preview.redd.it/l0y7qd8ta08d1.png?width=369&format=png&auto=webp&s=d0590b6b34c8def872a72ef82ff1f2bf2326ebe6",
-            "Please keep posting these videos. My stomach hurts from crying of laughter so much. This is pure gold, thank you!",
-            "It would be neat to see boxing, but with super powers",
-            "At one point it looks like competitive seizuring.",
-            "Don\u2019t you like it when one of the fighters is simultaneously inside and outside the ring?",
-            "Gonna tell my kids this was Jake Paul vs Mike Tyson"
+            "My favorite part is when the biker dragged another guy behind him on his bike the wrong way. Right into the pack of riders.",
+            "Not sure how AI is gonna kill us all, but it's gonna be hilarious af.",
+            "LOOOOL WHAT IS GOING ON",
+            "Who the fuck gave this model LSD?\n\nMy favorite parts are where theres like a 90 person pile up",
+            "Can we get a kill count video for this?",
+            "Looks like the bike race from World War Z",
+            "These \"far from uncanny valley\" videos are effin great.",
+            "I like the guy at the bottom of the pile of mutated biker limbs literally eats asphalt to escape his fate.",
+            "I could watch this for days! Loved the part when he started to bike backwards lol.",
+            "Is AI or something from Cyriak?"
         ]
     },
-    "Direct GIFs with ChatGPT ": {
-        "title": "Direct GIFs with ChatGPT ",
-        "score": 58,
-        "url": "https://www.reddit.com/gallery/1dlrz36",
-        "content": "Crazy results right?\n\nI created a GPT to create these directly.\nhttps://chatgpt.com/g/g-45WfVCFcy-gif-generator\n\nAny ideas for better conversation starters? The concepts need to be quite simple but I think they need to be a bit more interesting to all kinds of people.",
-        "num_comments": 26,
-        "comments": [
-            "Hey /u/foreverfomo!\n\nIf your post is a screenshot of a ChatGPT conversation, please reply to this message with the [conversation link](https://help.openai.com/en/articles/7925741-chatgpt-shared-links-faq) or prompt.\n\nIf your post is a DALL-E 3 image post, please reply with the prompt used to make this image.\n\nConsider joining our [public discord server](https://discord.gg/r-chatgpt-1050422060352024636)! We have free bots with GPT-4 (with vision), image generators, and more!\n\n &#x1F916;\n\nNote: For any ChatGPT-related concerns, email support@openai.com\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ChatGPT) if you have any questions or concerns.*",
-            "https://i.redd.it/sjjih15yg38d1.gif\n\n'Mind blast'",
-            "https://i.redd.it/j85wkucdg38d1.gif\n\n'Cool lemon dance'",
-            "https://i.redd.it/pk5d2j9kh38d1.gif\n\n'Koala eating cake'",
-            "Is there an ai to interpolate these frames so they don\u2019t make me want to shut my phone off forever?",
-            "https://i.redd.it/x8epq64xf38d1.gif\n\n'Glitch face'",
-            "This is as close as I could get to \"An apple going bad\"\n\nhttps://i.redd.it/kxpbu63fr38d1.gif",
-            "https://i.redd.it/v0a4i2r6g38d1.gif\n\n'Overload scream'",
-            "https://i.redd.it/00dxpjtkg38d1.gif\n\n'Origami skull'",
-            "https://i.redd.it/5fnynl62k38d1.gif\n\n'Alien'"
-        ]
-    },
-    "My Sea Kitties the series! Meet Rutger": {
-        "title": "My Sea Kitties the series! Meet Rutger",
-        "score": 41,
-        "url": "https://v.redd.it/p6u9br02f38d1",
+    "A phone bot farm in action, now imagine this but with AI": {
+        "title": "A phone bot farm in action, now imagine this but with AI",
+        "score": 414,
+        "url": "https://v.redd.it/hz5ccrtbkf9d1",
         "content": "",
-        "num_comments": 13,
+        "num_comments": 84,
         "comments": [
-            "Hey /u/Ill-Desk4483!\n\nIf your post is a screenshot of a ChatGPT conversation, please reply to this message with the [conversation link](https://help.openai.com/en/articles/7925741-chatgpt-shared-links-faq) or prompt.\n\nIf your post is a DALL-E 3 image post, please reply with the prompt used to make this image.\n\nConsider joining our [public discord server](https://discord.gg/r-chatgpt-1050422060352024636)! We have free bots with GPT-4 (with vision), image generators, and more!\n\n &#x1F916;\n\nNote: For any ChatGPT-related concerns, email support@openai.com\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ChatGPT) if you have any questions or concerns.*",
-            "I think it\u2019s cute",
-            "So how are you making full blown videos with ChatGPT",
-            "classic rutger",
-            "Hello everyone! I am working on series based on my original ai video My Sea Kitties with cute nudibranch cats. Made around 60 characters with stories and planning to post new episodes every couple of days - god bless ai animation. Not promoting everything here - just want to share my kitties with you all. I hope you\\`ll like it.",
-            "this looks like shit",
-            "Sorry mate I know you probably spent a lot of time on this but it looks horrible and the narration makes no sense.",
-            "It is not related to chat GPT  - It\\`s about AI art and things:). I used Luma and Haiper for video and Eleven for voice and sound fx plus motion graphics and music from pixabay/sinnesl\u00f6schen. Last time someone reposted my original My Sea Kitties post here, so I did that myself now. \n\n[https://www.reddit.com/r/ChatGPT/comments/1arjn24/my\\_sea\\_kitties\\_ai\\_animation/](https://www.reddit.com/r/ChatGPT/comments/1arjn24/my_sea_kitties_ai_animation/)",
-            "I think they used basedlabs",
-            "Have a great day, Sir. You are welcome to post here in comments something that looks nice for your taste - I want to know you."
+            "You don't need to imagine, they are providing an API and everyone is using it already. Twitter is full of chatgpt bots.",
+            "Someone explain what\u2019s happening here? \u00a0Why aren\u2019t they using a laptop and multiple copies of a browser with scripts?",
+            "Can someone explain how these people make money?",
+            "Humanity non-sens at its top.",
+            "This is pathetic and terrifying. \n\nI swear social media has done way more harm than good.",
+            "Thats an old version, they have vms for phones now and you can insert sims on the hardware",
+            "They should leave the balls by the door with that level of radiation there",
+            "What is a phone bot farm? Never seen anything like this.",
+            "Wow...so many dimensions in such a tiny room.",
+            "Um so what's going on here?"
+        ]
+    },
+    "Video AI does LEGO surprisingly well!": {
+        "title": "Video AI does LEGO surprisingly well!",
+        "score": 619,
+        "url": "https://v.redd.it/d5jc94vmsc9d1",
+        "content": "",
+        "num_comments": 90,
+        "comments": [
+            "Can you do Toy Story 10?",
+            "It's like a dream. It makes sense, but it also doesn't.",
+            "Why does his chest open up",
+            "This must be such a clear violation of copyright since nothing else looks like the LEGO movies, so it\u2019s obvious they\u2019ve trained on their proprietary assets? Not commenting on your content as such, but the model itself.",
+            "yeesss i am free \ud83d\udd25",
+            "Holy shot i NEED more of this.",
+            "Damn what a clif hanger, can't imagine the wishes that genie will be granting",
+            "Now I finally understand why Lego movies were made - they were clearly cheaper to produce than traditional 3D animation. I mean how else do you even arrive at the idea of making a Lego movie?",
+            "I'm dying, this is has me cracking up for some reason. I get indie YT show vibes out of it lol",
+            "Be better once they can do the dialog first and then have it wrap the video around it."
         ]
     }
 }

@@ -1,90 +1,92 @@
 {
     "Quick Help & Game Issues": {
         "title": "Quick Help & Game Issues",
-        "score": 6,
+        "score": 8,
         "url": "https://www.reddit.com/r/Pathfinder_Kingmaker/comments/1dn4kd0/quick_help_game_issues/",
         "content": "Ask and answer any quick questions you have about the game, bugs, glitches, general trouble, anything that shouldn't take too long to write out. If you need to write a long explanation, it might be worth a thread.\n\n&#x200B;\n\nRemember to tag which game you're talking about with \\[KM\\] or \\[WR\\]!\n\n&#x200B;\n\nCheck out all the weekly threads!\n\nMonday: [Quick Help & Game Issues](https://www.reddit.com/r/Pathfinder_Kingmaker/search?q=flair%3AWeekly+title%3A%22Quick+Help+&+Game+Issues%22&restrict_sr=on&sort=new&t=all)\n\nTuesday: [Game Companions](https://www.reddit.com/r/Pathfinder_Kingmaker/search?q=flair%3AWeekly+title%3A%22Game+Companions%22&restrict_sr=on&sort=new&t=all)\n\nThursday: [Game Encounters](https://www.reddit.com/r/Pathfinder_Kingmaker/search?q=flair%3AWeekly+title%3A%22Game+Encounters%22&restrict_sr=on&sort=new&t=all)\n\nSaturday: [Character Builds](https://www.reddit.com/r/Pathfinder_Kingmaker/search?q=flair%3AWeekly+title%3A%22Character+Builds%22&restrict_sr=on&sort=new&t=all)",
         "num_comments": 44,
         "comments": [
-            "\\[KM\\] Trying to find clarification in how an elemental enchantment affects the +X damage reduction rules.\n\n  \nFor instance: If I have a Flaming Shortsword +2, does this overcome Cold Iron DR in Kingmaker? I know you need either a cold iron weapon or +3 to overcome the cold iron DR. And I've seen some forums say that the \"flaming\" trait counts towards the +10 (?) total you are allowed to have a on a weapon but I'm not clear if it is considered part of the calculation in DR.\n\n  \nDoes that mean my +2 Flaming Sword will overcome cold iron DR? (+2 for the base and +1 for the flaming) or is it still considered a +2 for DR purposes?\n\n  \nI would test in game but I haven't found a weapon with a trait that perfectly lines up with this scenario (yet).",
             "Does there exist any comparisons between all the arcane caster classes?\n\nThis game has about a billion different casters who get very similar features, and it makes it difficult from an outsiders perspective to figure out which class/subclass is best for what you want to do. I might do research and do a post on it later, but I wanted to see if anyone has seen a resource, video, thread, etc. On the topic before I give it a crack.",
-            "\\[WOTR\\]  \nAsked about this before, but unsure about some of the specifics. But, for a future run I was considering maybe trying to come up with a thematic character for going for the secret ending.  \n>!From my understanding the KC, Areelu and maybe the companions ascend to godhood in it, so I was considering trying to make a build based around what the Golarion pantheon is missing. And then I remembered hearing about Godsrain, where Gorum has perished, leaving an empty spot I guess? Now I'm not sure I want to just make Gorum 2.0 or basically an avatar of him, but something different, but roughly fills his spot.  \nFor this I was considering maybe making a character that would become the patron of Strategists, Navigators and War. Probably if they were a deity you could choose in game, they might have the domains of Knowledge, War, Travel, and not sure about the other 2, but maybe Magic, Protection, Nobility, Community, whatever. That part isn't too important.!<\n\nAs for the actual build, I'm not entirely sure, but I was considering maybe a Magus wielding the Death's Consonant, either form. Not sure what else I might want after that tbh. I once considered doing a build with the heavy pick form that was something like a Sword Saint 20, Duelist 7 or so, Student of War X and then whatever else. But not sure how good that idea would be and would obviously require going Legend, which isn't viable for the secret ending from what I understand.",
             "Has anyone figured out a fix for the input lag? When I click on character portraits or items in shops, there's lag of 1/2 second to 1 second, give or take I'm not sure. I'm not the only one who's been having this issue, and it's been weeks now. Is there any chance of this getting fixed or are we just screwed?",
-            "Alright I'm installing for the first time experienced CRPG veteran but the class variety is bewildering.\u00a0\u00a0\n\n\nI don't like setting up buffs precombat and while I love Rogue Trader to bits the get a cookie for every second dogs birthday on a leap Sunday got silly before my second class :)\n\n\nWhat class should I play?\u00a0\u00a0\n\n\nDon't mind complexity or micromanagement during combat at all.\n\n\nParticular companions / story paths you'd recommend not missing out on for the first playthrough?\n\n\nAngel sounded cool for a mythic path but I have no idea what I'm talking about.\u00a0 I am all ears :)",
             "  What classes in WOTR use mainly strength and are purely physical? Is it just Barbarian?",
             "I'm starting another playthrough and plan on using more mercanaries that I normally would, but I'd love to get dialog from characters not in the active party. I seem to remember a mod that would allow you to do that, but my google skills have failed me. Does a mod like that exist? Is it an option in Toy Box I'm not seeing? Thanks!",
             "[WR] It Is possible to let Jerribeth live if i already killed Mahovek in plant form? Sorry for my bad english",
-            "Need help planning feat progression for magic deceiver.\n\nI am more interested in control than I am in blasting, though it seems like this class can build for both at once?\n\nI can probably figure things out through the rest of the game, but what feats are you all taking from levels 1-7 on this class? What spell combos are getting you to mythic 1 or 2? Spell focus abjuration makes sense in my head for dispel magic later but I'm not sure if I should hold off on that unitl later.\n\nLiving diety->nature, 19 cha 14 dex human if it matters. Planning on dinking with an xbow when not casting early. EDIT: I'm going Azata as well.",
-            "\\[WR\\] HELP! I can't finish Wenduag's romance in chapter five because when I take the poison the screen turns black then returns, and I just lay dying on the ground. Nothing happens until I press enter. Then the screen turns black again, when the picture returns all characters are just frozen but also starts shaking uncontrollably. I can reload from this state but nothing else. The dialogue-window in the right says a dialogue has started and I get the \"A Flame\"-achievement but it's no use since I have to reload a earlier save. I have retried this many times, it just bugs the F out.\n\nAny thoughts or tips?\n\nI have pressed aLT + b and reported it but I hear nothing from them."
+            "[WOTR] Doing some sleuthing and was curious - has anyone got a definitive location for the Elven Curved Blade named Insomniac? I missed a chance to get Second Chance (ironically) due to forgetting to talk to Kaylessa, and I was looking for alternative options... and then noticed that neither Fandom or Fextralife have a solid location for this one, and I can't find any other information.\n\nDebating a respec or just getting *real* comfortable with Finnean for a while...",
+            "[WR] Hey guys, I'm a new fan of the crpg genre. Completed BG3 and DOS2 this year. Anyone have a decent guide on party composition that can share? Once again I feel over my head haha.",
+            "Shield Master feat has been changed at some point, hasn't it? From what I've seen it seems to eliminate not only the attack penalty with the shield itself (which is what I remember it doing) but also with the mainhand weapon? \n\nAm I even right in this? And if I am, is Mythic TWF no longer needed for Shield Bash builds then? Or is there still a -2 AB to eliminate in case you're wielding a non light weapon in the main hand and a heavy shield in the offhand?",
+            "[WR] Is there merit to taking Seize the Moment when Outflank does the same thing? Assuming unlimited AoOs, StM won't add any additional attacks to crit when flanking, correct?",
+            "[WotR] So I haven't played in a long time (before EE launched), so I took some time to update my old companion builds. But when I took Second Mystey Animal with Daeran and chose the pet at lvl 7, the wolf only leveled up to lvl 6. Do I need to pick up Boon Companion or did I run into a bug?"
         ]
     },
     "Character Builds": {
         "title": "Character Builds",
-        "score": 7,
+        "score": 6,
         "url": "https://www.reddit.com/r/Pathfinder_Kingmaker/comments/1dqok9d/character_builds/",
         "content": "Got an idea you need some stats for, or just need some help fleshing something out? This is the place!\n\n&#x200B;\n\nRemember to tag which game you're talking about with \\[KM\\] or \\[WR\\]!\n\n&#x200B;\n\nCheck out all the weekly threads!\n\nMonday: [Quick Help & Game Issues](https://www.reddit.com/r/Pathfinder_Kingmaker/search?q=flair%3AWeekly+title%3A%22Quick+Help+&+Game+Issues%22&restrict_sr=on&sort=new&t=all)\n\nTuesday: [Game Companions](https://www.reddit.com/r/Pathfinder_Kingmaker/search?q=flair%3AWeekly+title%3A%22Game+Companions%22&restrict_sr=on&sort=new&t=all)\n\nThursday: [Game Encounters](https://www.reddit.com/r/Pathfinder_Kingmaker/search?q=flair%3AWeekly+title%3A%22Game+Encounters%22&restrict_sr=on&sort=new&t=all)\n\nSaturday: [Character Builds](https://www.reddit.com/r/Pathfinder_Kingmaker/search?q=flair%3AWeekly+title%3A%22Character+Builds%22&restrict_sr=on&sort=new&t=all)",
-        "num_comments": 17,
+        "num_comments": 20,
         "comments": [
             "I'm not liking Titan fighter at all, the + to hit is just to low. The ranger with the griffon and the inciter are amazing",
             "Could someone help me out with the basics of a sorcerer build? I will, at best, try Core with it. I am not interested in the Sylvan sorc.",
-            "I'm following this [succubus corruptor and poison guide](https://www.youtube.com/watch?v=TpN2Kg4H--w) from cRPG Bro (the tldr is in one of the top comments).\n\nI'm wondering, are there more thematic poison or disease-based damage spells to focus on instead of Hellfire Ray?",
-            "(WR)  Toying around with the concept of a staff + shield battlemage type whose tanky, makes uses of their shield but primarily a spellcaster. Will obviously need to dip Titan Fighter to be able to equip them together early on. Trying not to go Aeon as a mythic since I've played that path a lot already. \n\nConsidering the following: \n\n01. Wizard/Sorcerer + Titan Fighter (1) and Hellknight Signifier for an armored battlemage with a shield and staff. That or take away Signified and just keep Mage Armor. \n\n02. Oracle/Cleric + Titan Fighter (1) for a divine version which would go especially great with the Angel mythic path. \n\n03. Druid + Titan Fighter (1) which could work with the other mythic paths such as Azata, Lich or Demon. \n\nWould any of these work well? Not looking to play on harder difficulties but would still like the build to be serviceable.",
-            "First time playing Pathfinder.\u00a0 Really enjoyed PoE for build diversity, and this game looks freaking great for it.\n\n\nI have a concept for a Monk that specializes in one handed swords.\u00a0 Think Crouching Tiger Hidden Dragon.\u00a0 Any thoughts on how to build this out?",
             "I thin titan is better as a dip gor casters tbh.",
             "what do you want to do?  Master Blaster or a controller dc caster?",
-            "Azata + Sorceror is fun.  You can go Crossblooded Sorceror, but its frustrating in the early game having almost no spells, and delayed spell progression. Vanilla Sorceror is fine; Geomancer is good too. Take Fire Elemental Bloodline, and possibly a fire damage Draconic Bloodline (ie Gold or Red) later with the mythic feat.\n\nFire Elemental lets you turn any spell to Fire Damage; Red Dragon Bloodline gets you +1 damage on fire spells.  Get the Ring of Pyromania in Act 3, and Mallander's Insult (belt, don't forget to enable it once its on) from Relic research ASAP.\n\nMythic Feats: Absolutely must get Ascendent Element: Fire.  Abundant Casting is nice to be able to blast more spells between rests; Mythic Spell Pen is good too.  Extra Bloodline is handy.  You can get Enduring spells if you want to cast buffs, but honestly if I'm going to be chucking damage spells all day, I'll bring someone else to do buffs.  Sorcerous Reflex is also REALLY great, since you'll often be opening with a scorching ray, it means a free quickened spell every combat.   Selective Metamagic is nice for Bolster, so you can do something like, Scorching Ray, Bolstered Scorching Ray, Bolstered Empowered Scorching Ray for level 2/3/4 spells.\n\nYou'll be very weak early on, and mostly relegated to Grease/Winters Grasp/Haste, but eventually you'll get Chain Lightning at lvl 12 or 13 (convert it to fire!) and Zippy Magic, and then everything just dies.\n\nTake Spell Pen feats, and Bolster/Empower metamagic feats.  Use metamagic rods for Maximize/Quicken, they're not worth the feat.\n\nSome of the better spells to get are Scorching Ray (comes from Fire bloodline; isn't good until you're further in the game and have fire damage gear), Hellfire Ray, Chain Lightning, Sirocco (*only if using Selective Metamagic).\n\nEnd game your spellbook is probably filled with Metamagic'd Scorching Rays and Chain Lightnings.",
-            ">Wizard/Sorcerer + Titan Fighter (1) and Hellknight Signifier for an armored battlemage with a shield and staff.\n\nArcane casters have to deal with [arcane spell failure](https://www.d20pfsrd.com/equipment/Armor/#TOC-Arcane-Spell-Failure-Chance) (ASF); and I think Hellknight Signifier's ASF reduction only applies to armor, not shields.  There is a workaround of sorts: splash Skald and its ability to use shields (and medium armor) without ASF will carry over to your wizard / sorcerer spells too.\n\nThere's a [PnP feat too](https://www.d20pfsrd.com/feats/shield-mastery-feats/shielded-mage-combat-shield-mastery/), but I'm not aware of any mods which add it to WotR.",
-            "If you want to do 20 levels of monk - Sohei gives you Martial Weapons Proficiency and a Horse.\n\nBut I feel that multi classing will give you more mileage. To stay with the CTHD theme (Chow Yun Fatt build), I would do a Scaled Fist + Warrior of the Light build."
+            "You\u2019d still have ASF from the shield so arcane probably wouldn\u2019t work in 1",
+            "Just go with number 2 and do it on Core. I prefer Oracle over Cleric though. ;-)",
+            "If you want to do 20 levels of monk - Sohei gives you Martial Weapons Proficiency and a Horse.\n\nBut I feel that multi classing will give you more mileage. To stay with the CTHD theme (Chow Yun Fatt build), I would do a Scaled Fist + Warrior of the Light build.",
+            "Master Blaster sounds like a plan!\n\n/I'm now sad for 2 minutes that I can't go MewMew goes PewPew ;)",
+            "If you really wanna double down on the fire get the scorching ray bracers from the vendor in Ulig\u2019s act 3 quest town. Who doesn\u2019t like double the number of rays?",
+            "Yeah.\u00a0 I was looking at Sohei.\u00a0 Sword Saint sounds cool, but it's Arcane.\u00a0 Multi-Classing with some Paladin is a solid idea."
+        ]
+    },
+    "I know the RNG is legit, but it sure is hard to accept that sometimes.  0.077% chance of rolling 4 ones.": {
+        "title": "I know the RNG is legit, but it sure is hard to accept that sometimes.  0.077% chance of rolling 4 ones.",
+        "score": 91,
+        "url": "https://i.redd.it/pmzkrlrbrg9d1.png",
+        "content": "",
+        "num_comments": 32,
+        "comments": [
+            "You make so many dice rolls in this game that it's bound to happen eventually.",
+            "Well, at least you can accept it.\n\nThe fellas over at r/BattleBrothers keep complaining about seeing 2 95% misses in a row claiming the game is rigged while having thousands of hours into the game",
+            "Play some Yahtzee. Watch the hunted become the hunter.",
+            "A lot of the meta of becoming powerful in these games is finding ways to overcome the random factors of combat. For example, having such a big damage bonus the roll damage is insignificant, or using the maximize meta magic to force all rolls to be the max possible value.",
+            "How do you know the rng is legit tho?",
+            "My sweet summer child. You never played Blood Bowl, this is the game where you learn how many one's you can roll in consecutive order :-p .",
+            "Min max flat bonuses to minimise RNG disappointment",
+            "Yeah well its even worse on tabletop since you cant s/l.",
+            "Not surprised, last time I played kingmaker I rolled two nat 1s. In a row. And I even recall fighting the tutorial boss (AC 16 usually) and never rolling higher than an 8.",
+            "I had to roll a 13 or higher once for a magic device check, and I failed 8 times in a row, I know thats a lot more likely than what happened to you, but I felt like I was going mad. All I wanted was to heal with a scroll outside of combat and the game just said *no* lol"
         ]
     },
     "What's better, this place or Oleg's?": {
         "title": "What's better, this place or Oleg's?",
-        "score": 60,
+        "score": 89,
         "url": "https://i.redd.it/l06qfiaive9d1.jpeg",
         "content": "",
-        "num_comments": 3,
+        "num_comments": 5,
         "comments": [
             "Olegs was empty but this place has no vacancy, so evidently this place must be better.",
             "The tiebreaker would have to be whether the refreshments are better at the Pathfinder bar or Bokken\u2019s meth lab.",
-            "Oleg\u2019s has better loot if you pass the perception checks, though."
+            "Pathfinder Restaurant: Wrath of the Hunger",
+            "Oleg\u2019s has better loot if you pass the perception checks, though.",
+            "Bokken: \u201cit\u2019s time to cook, Svetlana\u201d"
         ]
     },
-    "I love the companions in this game so much": {
-        "title": "I love the companions in this game so much",
-        "score": 166,
-        "url": "https://www.reddit.com/gallery/1dqpn98",
-        "content": "",
-        "num_comments": 24,
+    "Starting first WotR run - How do I interact with the DLC content?": {
+        "title": "Starting first WotR run - How do I interact with the DLC content?",
+        "score": 9,
+        "url": "https://www.reddit.com/r/Pathfinder_Kingmaker/comments/1dr9gq1/starting_first_wotr_run_how_do_i_interact_with/",
+        "content": "Have both Season Passes and want to start my first WotR run, but I am a bit uncertain about how I should handle the DLCs. I am mainly used to games where the DLC is organically integrated into the base game, but WotR seems to work differently. In the \"Choose story\" step the Main Story appears next to DLC stories. How does that work, do I later interupt/pause my Main Story run to send my party on DLC stories? \n\nCan you recommend an \"order\" for playing the base game + DLCs?",
+        "num_comments": 18,
         "comments": [
-            "Wolji the first rapper in Golarion",
-            "I love Lann's deadpan snark.",
-            "Nenio dialogue is the best",
-            "Of whatever.\n\n\nHaha Woljif.",
-            "Having Daeran, Woljif, and Lann in my party turns the game into a comedy with how many quips they throw out, loved it",
-            "You can eat them all. They try to say they love you, well ember does. Then you eat her",
-            "fun fact: what woljif is suggesting is called flyting, and is a thing that actually happened. Kudos to my flatmate who told me about this after I showed them this post",
-            "All these most adorable goofballs. They are meant to be cherished and protected at all costs. (Terms and conditions apply)",
-            "The Notorius T.F.G.",
-            "He was made for Inciter"
-        ]
-    },
-    "Owlcat thinks they're slick": {
-        "title": "Owlcat thinks they're slick",
-        "score": 62,
-        "url": "https://www.reddit.com/r/Pathfinder_Kingmaker/comments/1dqt36h/owlcat_thinks_theyre_slick/",
-        "content": "Lann is a lizard man. Lizard mann Lann. His name was a pun all along.",
-        "num_comments": 20,
-        "comments": [
-            "Next, you're gonna tell me ember was on fire or something",
-            "I hate yo tell you but Owlcat didn't come up with that. Lann was a minor NPC in the tabletop game. So was Wenduag (Ivory Labyrinth miniboss).",
-            "its french for The Ann",
-            "Works for every character. Wenduag is a spider woman. S + oman = wenduag.",
-            "SLann? Great plan confirmed.",
-            "Camelia, the chameleon. Blending in her personality\nUrbirg, Ur a bird, g",
-            "Yeah, imagine telling that Nok-Nok was hit a few times in the head",
-            "Ok that one is clearly a nickname given her condition though. She was a homeless kid with no memory, they had to call her something.",
-            "Or that her crow was soot-colored.",
-            "Wenduag was the leader of the mongrel in the AP Shield-Maze equivalent (your way out of the underground in chapter 1). She had nothing to do with the Ivory Labyrinth."
+            "First do through the ashes and lord o nothing",
+            "Thanks for the tip, I must have missed that video from Mortismal.",
+            "Thanks! Do I keep any characters from 1 or 2, or do I make new ones for the Main Game?",
+            "Through the Ashes and Lord of Nothing are both part of one continuous story that runs in parallel to the main game. So you create 1 Character for those two and then a seperate one for the main game.",
+            "New characters for the main game. Also, inevitable excess can be played in the main game.",
+            "I wouldn't recommend it as well. Only if you want to see most of the content in one run. You need lord of nothing for the new dungeon in act 5 of the main game. So you have to play through the ashes and lord of nothing first.",
+            "I'm confused so I have to play Through the Ashes and Lord of Nothing because it will unlock a dungeon in act 5 in the main game?",
+            "Yes. That's why I said play ashes and lord of nothing first to unlock the dungeon. Is it necessary to enjoy the main game? No, absolutely not. Only if you want to see as much as possible in one playthrough.",
+            "That's cool I never knew that. Is there anything else that needs doing that ties into the main game?",
+            "The important one is lord of nothing. The other DLCs that aren't part of the main game (inevitable Excess and ashes) only add a few items."
         ]
     }
 }

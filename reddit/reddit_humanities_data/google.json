@@ -1,7 +1,7 @@
 {
     "Support Megathread - November 2023": {
         "title": "Support Megathread - November 2023",
-        "score": 40,
+        "score": 38,
         "url": "https://www.reddit.com/r/google/comments/17kz862/support_megathread_november_2023/",
         "content": "Have a question you need answered? A new Google product you want to talk about? Ask away here!\n\nRecently, we at /r/Google have noticed a large number of support questions being asked. For a long time, we\u2019ve removed these posts and directed the users to other subreddits, like /r/techsupport. However, we feel that users should be able to ask their Google-related questions here. These monthly threads serve as a hub for all of the support you need, as well as discussion about any Google products.\n\n        \n> **Please note!** Top level comments must be related to the topics discussed above. Any comments made off-topic will be removed at the discretion of the Moderator team.\n>\n> [**Discord Server**](https://discord.gg/techcollective) We have made a Discord Server for more in-depth discussions relating to Google and for quicker response to tech support questions.",
         "num_comments": 1340,
@@ -10,17 +10,54 @@
             "Who else is getting the annoying \"Search with an AI-powered boost\" pop-up from Google searches? There doesn't appear to be any option to actually disable it, just a \"Not Now\" button which seems to get ignored after a few searches and the pop-up comes back.",
             " So lately we have been having problems with our Nest Hub 2nd Gen in the kitchen - asking it a relatively simple maths question such as 'hey google, whats 353 divided by 4' it pauses then says 'i doent know how to help but i found these answers on search.' I noticed that when asking the question it the text on the screen says 'whats 3 5 3' then it stops. I have tried this on our other Nest Hub 2nd Gen and our first Gen - all of them are doing the exact same thing. Yet, asking the Hub Max it answers the question with no problem at all. Is / has anyone else had this issue?",
             "I have one user in my domain that is unable to send and receive internal emails, but external emails seem to be working just fine. This users' settings are no different than any others, but seem to be the only one experiencing this issue. Any ideas why, or what i can do to fix this?",
-            "I did post this in the tech section but so far got no response, so apologies if this is in the wrong place?\n\n# My hijacked thumbnail and google inability to solve the problem\n\nMy most sucessful yoube video went viral for a few weeks, gaining a 1,000 views every day, then suddenly the traffic started to slow down to a trickle of 50 views a day. In searching for the reason I found out that the thumbnail has somehow become attached to other people's video of the same name **Veloute Sauce** in google images.\n\nAt first I thought someone had hacked my account in someway but the more I looked using different search terms, the more examples I found of my thumbnail being attached to other videos.\n\nSo I filled in the necessary DMCA form to take down the illegal versions of my thumbnail.\n\nGoogle action the DMCA reports which currently stand at 5, but as I write this post I can still find my thumbnail in **google images,** wrongly attached to other people's video's.\n\nToday (November 29th) I have even tried replacing the thumbnail and then pinging my Veloute video to see if that helped, it did not.\n\nI have reached to **google communities** who's only help was to leave a link to fill in the DMCA form.\n\nAt this point, I believe the problem has been caused by **google** but because I can not get google to respond to emails or my messages I do not know how to fix this problem which is damaging my monetised youtube channel and taking up way too much of my time.\n\nAny help from google to resolve this would be very much appreciated.",
-            "[deleted]",
-            "I can't get rid of \"Search with google lens\"\n\nI entered chrome//flags and searched for lens and there's nothing there. I can't disable that stupid feature.\n\nI'm on phone btw",
             "someone has been attempting to log into my Gmail accounts and I keep getting texts for it (and even calls). I have 2FA on but I\u2019ve noticed my legit logins have G in front of the code and the other person\u2019s attempts do not (ex: g-xxxxxx vs xxxxxx). Any ideas as to why? It still comes from the 22000 usually but I also got one from 833-902-0108 and two phone calls from a 202 number. I have a complex password & 2FA on so I\u2019m not tooooo concerned but I am a little anxious.",
             "I accidentally sent an email through the wrong gmail account and I didn't realize I had the undo button enabled yet I deleted the email from my sent folder and trash bin. Does that still unsend it? or nah.",
-            "**If you send an email with the term \"IA\" as its subject it will be blocked or your account will be disabled?**\n\nI was sending an email (from my personnal account) to a friend of mine, meaning to type \"AI\" for the subject title (asking him about AI), but instead I typed the subject as \"IA\".\n\nThe email got **blocked** and I recieved an email from \"Mail Delivery Subsystem <[mailer-daemon@googlemail.com](mailto:mailer-daemon@googlemail.com)\\>\" and was told my message was blocked. The intended recipient reported that it was not in spam, he just didn't get the email at all.\n\nI tried to send an email to myself with the subject set to \"IA\" and it was blocked. I thought that I might have been flagged as a bot/scammer so I then sent an email to my friend with no subject title at all and he successfully recieved it.\n\nI then tried sending an email to myself (email address of sender is the same as email address of recipitent for this test email) from an alternate account I rarely use to see what the problem is. The email immediately got flagged for **suspicious activity and I was logged out**. I could not log back in unless I gave Gmail a phone number so that they could send a code to it and confirm that I was a \"real person\"? Be aware I never once attached a phone number to this alternate email, so its just asking to make sure I am not a robot? No matter what device I used to try to login, it demanded my phone number.\n\nI then sent Gmail my phone number and recieved a code from my SMS messages, but instead of having to type it in, Google just immediately let me login without needing me to input the code. This **could** be explained away as the device I tried to sign into Gmail with is my phone which has my phone number and I probably gave Gmail permission to access my contacts, but its still kinda weird.\n\n**I have no idea why the two letters \"IA\" results in all this. My best guess is that \"IA\" is an acronym for some kind of illegal activity, but searching it up, it could litterally mean anything and if this is a security measure I could just immediately abandon the Email and start sending emails from an alternate account without \"IA\" as its subject. If anyone knows why \"IA\" results in these problems I would like to know.**"
+            "Anyone know what happened to google shopping??? The save button for items is just gone. Where did all my saved lists of items go? How do I save items again?",
+            "My google chrome colors are inverted and the the darks are all white and vice versa. The setting itself is turned off as well as the settings on windows 10.",
+            "Hi everyone. I have this annoying problem: the other day I tried to login to my account, which password I remember by heart. But the email didn't recognize me, although I was using my windows 11 PC, from which I created the email in the first place. The first time it asked me to provide a phone number to get a code and I did. Yet after the first try I got an error message saying I tried many times to get a code. Now the email won't recognize neither my PC nor my geographic location even though I didn't move an inch.  \nWhat can I do? I can't lose access to the account at any cost :(  \nI can't recover it also. It keeps giving me the error message that I tried many times to login from the 3rd attempt now.",
+            "Yesterday I was working for about an hour and a half on a lab report. This morning, my document prompted me to \u201creload without unsaved changes\u201d and I can\u2019t find my progress anywhere in my history. I\u2019ve tried removing and reinstalling the offline extension with no luck. Is there anywhere my progress is stored and I can get it back? Thanks."
+        ]
+    },
+    "Gemini is just stupid": {
+        "title": "Gemini is just stupid",
+        "score": 154,
+        "url": "https://i.redd.it/hqil6zlohh9d1.png",
+        "content": "",
+        "num_comments": 39,
+        "comments": [
+            "is this real or fake?",
+            "Gemini is not a replacement to Google assistant just yet. Gemini is generative ai not a home assistant. Google assistant is better for managing and doing things around the phone's apps and services. Gemini is not good at it yet. In time we will see something which combines the strengths of the two.",
+            "The state that it is in is pure sad",
+            "I turned it off it's literally useless",
+            "I switched to Google Assistant for my default, Gemini isn't just good with phone settings control.",
+            "Gemini is useless. Worst AI I've ever used, plus the app is even less useful than Google Assistant.",
+            "You also can't use the identity song playing feature in Gemini whereas the Assistant easily understands it.\n \nGemini is basically a massive downgrade being pushed by google as an \"upgrade\"",
+            "I asked Gemini how old is Joe biden? \n\nMan the response was just insane.",
+            "I'm gonna turn it off as well. I was asking about the running time of a movie and the assistant does that flawlessly instead I get Gemini saying that the movie doesn't exist because it's from 2023.",
+            "While other AI tools seem to get smarter, Gemini seems to get dumber."
+        ]
+    },
+    "Google's autocorrect is badass": {
+        "title": "Google's autocorrect is badass",
+        "score": 20,
+        "url": "https://i.redd.it/laqptvhoxg9d1.jpeg",
+        "content": "",
+        "num_comments": 10,
+        "comments": [
+            " how long did it take until they caught him?",
+            "Google may have sniffed up too much Reddit data lol.",
+            "Did you spell it facking?",
+            "Interesting. How did they know his father was alive? Was it a mistake on the student\u2019s part?",
+            "He posted about it on Reddit and got caught.",
+            "I honestly don't know a reddit moderator caught him",
+            "Yeah, this post is kind of stupid without showing the actual search querry...",
+            "He posted on a subreddit. The mod of the sub checked his profile, found one university he was following, and forwarded the post to that university. The university then, presumably, matched the details from the post with the profiles of its students and found the guy.\n\nHe was remarkably smart in falsifying his application and remarkably stupid in his social media usage.",
+            "4 months."
         ]
     },
     "I just got rickrolled by Google Gemini. ": {
         "title": "I just got rickrolled by Google Gemini. ",
-        "score": 81,
+        "score": 101,
         "url": "https://v.redd.it/o1cdcjr4jd9d1",
         "content": "As the title goes, I asked something to Gemini only for it to provide me with a YouTube link that redirected me to Never Gonna Give You Up. Made me laugh but.. Is this a thing? ",
         "num_comments": 2,
@@ -29,41 +66,17 @@
             "AI memeing it up."
         ]
     },
-    "Google's autocorrect is badass": {
-        "title": "Google's autocorrect is badass",
-        "score": 2,
-        "url": "https://i.redd.it/laqptvhoxg9d1.jpeg",
-        "content": "",
-        "num_comments": 1,
+    "Past Gmail": {
+        "title": "Past Gmail",
+        "score": 1,
+        "url": "https://www.reddit.com/r/google/comments/1drdqgz/past_gmail/",
+        "content": "I have created multiple emails over the past decade for different purposes. I am trying to find out how I can find every email I have ever created. Then how to get into it. Ultimately to delete an old Facebook account I had created. Thank you",
+        "num_comments": 4,
         "comments": [
-            " how long did it take until they caught him?"
+            "you want us to tell you every email address you've created over the past decade? \n\nread that again. slowly.",
+            "Your don't. Rule 3\n\nWhere's the Google news or announcement?",
+            "I want to find a way to find all the emails I have created.",
+            "And you think Reddit can help how?"
         ]
-    },
-    "Gemini censorship is sad": {
-        "title": "Gemini censorship is sad",
-        "score": 55,
-        "url": "https://i.redd.it/jj67qeqp8b9d1.png",
-        "content": "This is censorship at its finest and it's silly ",
-        "num_comments": 62,
-        "comments": [
-            "Meanwhile, you got ChatGPT over here giving out wrong information on how to vote. \n\nhttps://www.cbsnews.com/news/chatgpt-chatbot-ai-incorrect-answers-questions-how-to-vote-battleground-states/\n\nMonths ago, Google [shared](https://www.cnbc.com/2024/03/12/google-restricts-election-related-queries-for-its-gemini-chatbot.html) that they would block Gemini from answering political related questions for 2024 since it's an election year for many countries. \n\n>*\"As we shared last December, in preparation for the many elections happening around the world in 2024 and out of an abundance of caution, we're restricting the types of election-related queries for which Gemini will return responses,\" the spokesperson said.*\n\n They seem to block Gemini from answering anything even remotely related to elections, like answers about politics, politicians, laws, etc. It appears Microsoft's Copilot AI has [similar restrictions](https://www.washingtonpost.com/technology/2024/06/16/ai-chatbots-alexa-2020-election-results/).\n\n>*Meanwhile, Microsoft and Google say they intentionally designed their bots to refuse to answer questions about U.S. elections, deciding it\u2019s less risky to direct users to find the information through their search engines.*\n\nGoogle and Microsoft are well-known, established brands, and likely face far more scrutiny from the media and politicians in comparison to younger companies like OpenAI. So they likely have to be more careful about how their AI chatbots respond to certain user prompts.",
-            "The last thing our current political hellscape needs is half-baked LLMs spewing hallucinations and unsourced nonsense everywhere. Disinformation is a big enough problem already, why on earth would we want AI regurgitating it? \n\nAlso, the prompt in the OP is a terrible example. Just ask it what halting means, there's no need to add a political context.",
-            "You have trivialized so much the word \u201ccensorship\u201d that it\u2019s becoming useless to describe it for countries where it is a real thing.\n\n\u201cMy comment removed for insulting is censorship\u201d\n\u201cThis AI not wanting to enter on political debates is censorship\u201d\n\u201cThat company not wanting to have their image associated with antivaxxers or covid deniers is censorship\u201d\n\nMeanwhile, in some countries people get incarcerated or even executed for speaking up or writing against their governments.",
-            "I don\u2019t think it\u2019s censorship so much as their attempt to limit bias and potentially harmful responses. They\u2019re not trying to protect a particular politician, for example, they just want to ensure the information being provided is less arbitrary and more definitive.",
-            "Why do people insist on trying to get Gemini to talk politics? Chatbots don't have much insight on the subject. All they can do is introduce bias.",
-            "I don\u2019t think this is censorship. AI sometime gets things wrong. They are trying not to give misinformation",
-            "\u201cCensorship is when I don\u2019t get the answer that I was fishing for\u201d",
-            "Have you tried their [Flash model](https://aistudio.google.com/app/prompts/new_chat) yet? It has some safety settings you could tweak.",
-            "I'd rather the AI stay out of politics, even when the question is about a word, the overall theme is political and misinterpretation will happen",
-            "I saw \u201cGemini censorship\u201d and assumed it was another r/yugioh thread about how Komoney hates (insert summoning method here)\n\nVery confusing moment for me."
-        ]
-    },
-    "Deadline For Getting Payment in Google $350M Settlement Is In a Month": {
-        "title": "Deadline For Getting Payment in Google $350M Settlement Is In a Month",
-        "score": 8,
-        "url": "https://11thestate.com/cases/alphabet-investor-settlement",
-        "content": "",
-        "num_comments": 0,
-        "comments": []
     }
 }

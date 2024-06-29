@@ -1,7 +1,7 @@
 {
     "Honeypot flairs.": {
         "title": "Honeypot flairs.",
-        "score": 33,
+        "score": 36,
         "url": "https://www.reddit.com/r/technicalminecraft/comments/191fuf4/honeypot_flairs/",
         "content": "To cut down on the increased number of posts involving rule-breaking mods (notably Paper), 3 new post flairs have been introduced for testing.\n\nPosts made using these flairs will be automatically removed.\n\nDon't use them.\n\nEDIT: After 3 weeks, this seems to have been a very successful test, with the vast majority of rule-8 violations blocked by the new filters.",
         "num_comments": 17,
@@ -9,67 +9,52 @@
             "Thank god this sub is in dire need of moderation. Kudos for stepping up when no one else on the team can.",
             "Thanks for your work, mods!",
             "Are these still present? I'm new to Reddit, so I don't know which flairs are new and old here. I'd like to avoid having a post auto-banned.",
-            "Honeypot?",
-            "2 of the tags are related to modifications, one is related to that game server which is named by the product made from wood :)",
-            "That sounds like a request to [read the rules](https://www.reddit.com/r/technicalminecraft/about/). Welcome to the sub! May your redstone eventually work as intended. \u270a",
-            "https://en.wikipedia.org/wiki/Honeypot_(computing)",
             "I know that from that YouTube shorts wizard programmer dude.\n\nI meant why honeypot",
-            "To save the mods time - they\u2019ll auto get removed and people don\u2019t read the rules so will add the flairs?",
-            "Yes I get how it works I'm talking about the individual word itself"
+            "Yes I get how it works I'm talking about the individual word itself",
+            "That's explained by the wiki link...\n\nIt's the name of a scheme where you pro-actively defend yourself by leaving traps that seem innocent for \\[in this case: \"rule breakers\"\\] to fall into.",
+            "The one like 6 comments earlier in the chain that you glanced passed because Thor had a short on it, lol.",
+            "But are you sure that's a wiki link, as to me it looks like a link to Wikipedia.org",
+            "Brilliant, you should apply for MENSA   :1",
+            "Honeypot?"
         ]
     },
-    "116,000 item/hr simple Slime farm using oozing ": {
-        "title": "116,000 item/hr simple Slime farm using oozing ",
-        "score": 13,
-        "url": "https://youtu.be/j_BPhn7nVw4",
-        "content": "",
-        "num_comments": 2,
-        "comments": [
-            "In 1.21 it's easy to farm slime balls anywhere without a player using oozing effect.",
-            "Does this work on Bedrock edition?"
-        ]
-    },
-    "bad distribution in super smelter": {
-        "title": "bad distribution in super smelter",
+    "Villager Trades in 1.14": {
+        "title": "Villager Trades in 1.14",
         "score": 4,
-        "url": "https://www.reddit.com/r/technicalminecraft/comments/1dr1w2o/bad_distribution_in_super_smelter/",
-        "content": "The fuel distribution is weird, so in the beginning the fuel was getting distributed fine, but then it started distributing the carpets slower, then the smelter stopped smelting. Any fixes?\n\nSuper smelter used : [https://www.youtube.com/watch?v=67ylHYrlemo](https://www.youtube.com/watch?v=67ylHYrlemo)",
-        "num_comments": 7,
+        "url": "https://www.reddit.com/r/technicalminecraft/comments/1dr6viy/villager_trades_in_114/",
+        "content": "I just started a new world in Minecraft 1.14 to get the god armor. As almost every normal person I found a village and trapped the villagers in a box underground (that was a joke please don't ban me). I get a fletcher for emeralds, buy out all of his stock and when he restocks (keep in mind that I have only bought out all his stock one time) he trades we rather than 1 emerald for 32 sticks, 1 emerald for 54 sticks. Then I trade with him again and buy all his stock again and he trades me 1 emerald for 64 sticks. Anyone know how to fix this?",
+        "num_comments": 4,
         "comments": [
-            "Correct me if im wrong but TheySix is another infamous name amongst those that steal (often poor) designs that easily break or dont actually work as intended to begin with",
-            "It\u2019s not a great idea for carpet duping on a super smelter in my opinion. Why not use a kelp farm?\n\nThe reason is because the minecarts only distribute one item over the hoppers at a time and it takes 3 carpet to burn a block. So if you can\u2019t deliver the fuel at least 3 times faster than the block your smelting your dead in the water\u2026\n\nA lot of farm designs from these YouTube tutorials work maybe for a few mins and don\u2019t survive actual extended use\u2026",
-            "You're 100% correct. [There was a post just yesterday about exactly that](https://www.reddit.com/r/technicalminecraft/comments/1dq7a6a/is_farm_theft_the_standard_for_youtube/)\n\nBesides, TheySix's description in this video says this works in Bedrock and last I checked carpet dupers definitely don't. I'll credit that he at least mentioned it wont work on PaperMC in the vid\n\nTheySix and Shulkercraft both grew their channels from stolen designs and neither really develop redstone so they can (and have) frequently posted mistakes or fail to explain *why* you're building something so you'll have a tougher time troubleshooting issues.\n\n/u/ufartedlol -- build any of the popular bamboo farms. If you're on 1.21 then you can even drop in an auto-crafter to change the bamboo to to wood > planks > slabs if you wanted to get extra w/ it.\n\n[potato_noir's bamboo farm smelter](https://www.youtube.com/watch?v=K6dEeGHEIOY) should still work beautifully in 1.21",
-            "Why is that? I recently built my first one and use a carpet duper. It's only been a few weeks, but it's been working fine.",
-            "I\u2019m not against them I just made a video playing with one today actually it\u2019s just that they make such garbage fuel for larger designs, and they often can\u2019t keep up with continuous use if they are delivered via minecart especially\u2026",
-            "Gotcha. That makes sense. I have mine delivered via water streams and also set to auto run based on the last hopper in the line being full or not and it's been working great. Haven't necessarily had it running continuously though. Just running back with an inventory full of cobblestone while I work on some projects.",
-            "Yea no I\u2019m def pro duping carpet for normal hopper fed systems hell yea\u2026\n\nYea calling system is the go to bc the noise.. u got any pics?"
+            "Those are the 1.14 mechanics, stopping exactly that, just spamming sticks for emeralds. You can trade other stuff to reset both the trades and the prices, they should drop down again. \n\nOtherwise, zombify and cure, should normalise and give you a significant discount as well.",
+            "Yeah I know I can do that, but the weird thing is that unlike in resent updates in 1.14 villagers are incredibly brutal with their prices. Like if I buy a fletcher villager's stock twice in 1.21, they'll lower their price to 29 sticks for 1 emerald. but if I do that in 1.14 they'll charge 64 sticks for 1 emerald.",
+            "Basic Iron farm with some villagers that buy iron is a good way to get easy early emeralds.\n\n\nBut you can zombify and cure the villagers up to 5x to lower their prices in that version on  hard difficulty. When you buy out villagers it can raise their prices for a while, it is temporary and decays with time.",
+            "Thanks!"
         ]
     },
-    "In a drained and hollowed out ocean monument where is the best place for the farm?": {
-        "title": "In a drained and hollowed out ocean monument where is the best place for the farm?",
-        "score": 3,
-        "url": "https://www.reddit.com/r/technicalminecraft/comments/1dr312x/in_a_drained_and_hollowed_out_ocean_monument/",
-        "content": "Hello i recently drained and hollowed out an ocean monument to turn it into a base /farm and i was just wondering where is the best place to put it inside it for maximum spawn rates",
+    "Mooshroom farming in v1.21: Farming cooked beef without a single fuel item.": {
+        "title": "Mooshroom farming in v1.21: Farming cooked beef without a single fuel item.",
+        "score": 2,
+        "url": "https://www.reddit.com/r/technicalminecraft/comments/1dr9pko/mooshroom_farming_in_v121_farming_cooked_beef/",
+        "content": "This video presents two version of the same farm.\n\n- First, a simple and efficient iteration which outputs about 42 stacks of cooked beef per hour. This simple version of the farm has a full building tutorial. It is compact, acceptably cheap and extremely easy to build. \n\n- Second, the advanced version of the above. This advanced version is a lot more complex to build. It has about the same rates for cooked beef as the simple one, but adds to those about 8,650 bone meal items per hour, thanks to a shearing trick which allows to produce an insane 95,000 red mushrooms per hour (yes, the figure is correct: ninety-five thousands red mushrooms).\n\n[https://youtu.be/LyIyGGYWBuU](https://youtu.be/LyIyGGYWBuU)",
+        "num_comments": 0,
+        "comments": []
+    },
+    "World eater in deep frozen ocean": {
+        "title": "World eater in deep frozen ocean",
+        "score": 1,
+        "url": "https://www.reddit.com/r/technicalminecraft/comments/1drcn68/world_eater_in_deep_frozen_ocean/",
+        "content": "I planned on making a 160*160 perimeter for a guardian farm in a deep frozen ocean and I'm a bit worried about ice. Is there a way to prevent ice formation completely? I planned on building a roof over the entire area but I'm not sure if it would work if the roof is at bloc limit or if there is an other possibility less time consuming.\nThanks for the help :)",
+        "num_comments": 0,
+        "comments": []
+    },
+    "reliable 1.21": {
+        "title": "reliable 1.21",
+        "score": 1,
+        "url": "https://www.reddit.com/r/technicalminecraft/comments/1drbhhu/reliable_121/",
+        "content": "is oink oink a reliable source for farms in 1.21 bedrock?",
         "num_comments": 1,
         "comments": [
-            "On bedrock, guardians spawn in specific x,z locations in the bounds of the monument. There's a post here that shows those locations: https://www.reddit.com/r/MinecraftHelp/s/fsGRDL7ZAD"
-        ]
-    },
-    "Has anyone made a item sorter that sorts into categories with multiple items instead of one specific item?": {
-        "title": "Has anyone made a item sorter that sorts into categories with multiple items instead of one specific item?",
-        "score": 2,
-        "url": "https://www.reddit.com/r/technicalminecraft/comments/1dr4trg/has_anyone_made_a_item_sorter_that_sorts_into/",
-        "content": "I mean instead of one thing for specifically oak planks, I could have a whole section for planks or oak or whatever. Also, it cant be the type where the chest needs to be completely filled.",
-        "num_comments": 8,
-        "comments": [
-            "You're looking for a MIS - a multi item sorter.\n\nThere are plenty of designs out there, I'll link you my 2 favorite ones:\n\nMoony MIS v5 with great explanation by Raps: https://youtu.be/lgmB0znXhrA?si=ntTSBIz-_XNFIKsO\n\nCart based CartMIS 2.0 by Raps and others: https://youtu.be/LPshwkDboXk?si=-WbMTuISiDPaWEKK",
-            "Based on op's post on r/redstone they're playing bedrock. Not sure why they used the non version specific flair here",
-            "will either of those work on bedrock? sorry I didn't think I needed to specify",
-            "i didnt think there would be many differences for something like this. idk redstone tho that's why I'm here lol",
-            "You could try this: https://youtu.be/SG5kRzjH-qs?si=eknXaWmvnpap2HOH\n\nMaddhatter is good and I notice that he's posted an update in the description for 1.21 so it should be up-to-date. I've not used it personally though. *Read the description*",
-            "this seems great, but the only problem is he posted part one back in febuary and hasn't made a video on it since and he has some other series going on, so idk if he will go back to it. is there something similar? I don't play on pc so I cant use his structura files",
-            "what do you think about this one?\n\n[https://www.youtube.com/watch?v=pYNgP19UA1w](https://www.youtube.com/watch?v=pYNgP19UA1w)",
-            "Again, not tried it, but I've seen someone else recommend it before and I've seen good stuff from dawgie, so I know he's trustworthy. \n\nIt should be good"
+            "Well, his stuff might be good enough for new players.\u00a0 I don't really watch his videos but I often notice that he makes the same.tutorials for a lot of the same farms every few months, so that makes me think that he doesn't actually teach you much about how the game works.\u00a0 When I was a new player, I watched a bit of JC playz.\u00a0 I \"learned\" how to make a few simple farms, but later when I wanted to get a deeper understanding of how the game works, in realized that I wasn't really learning anything from JC playz.\u00a0 I have the same suspicion about oink oink\u00a0"
         ]
     }
 }

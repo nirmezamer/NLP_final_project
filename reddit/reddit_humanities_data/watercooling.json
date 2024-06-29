@@ -1,7 +1,7 @@
 {
     "How to find compatible blocks for your hardware": {
         "title": "How to find compatible blocks for your hardware",
-        "score": 99,
+        "score": 101,
         "url": "https://www.reddit.com/r/watercooling/comments/184zsyf/how_to_find_compatible_blocks_for_your_hardware/",
         "content": "Sup folks. So, finding compatible blocks has always been a royal pain, especially for newbies. Lots of different manufacturers, many of whom are unfamiliar to folks who aren't already watercooling and they don't all make blocks for every GPU model. \n\nFear not. iln (one of the Discord mod crew) has been working tirelessly to put together [this new tool](https://watercooled.net/finder/) to help you find what you're looking for and assemble a loop list. You can even import your list from PCPartPicker.",
         "num_comments": 69,
@@ -10,12 +10,12 @@
             "As someone who\u2019s been planning their first loop this is so amazing.  Just being able to check all retailers for stock and prices is a god send because I really don\u2019t know all the websites (although I\u2019ve learned a few so far)",
             "Wow, I just took a quick look and it looks nice! It even finds aquacomputer's gigant and Watercool's Mora3! Now it comes the tricky part - force people to use it ;) And since some still will not google I'm not sure about this project but good luck, it is very nice!",
             "Wow. This is amazing! Kudos to whoever built and populated this site!",
-            "Bravo!",
-            "Very nice!",
-            "Perfect! Good work.",
             "Awesome, that's certainly handy. It does get confusing with brands like Galax and KFA2 being the same but only offered in certain regions of the world.\n\nA small note, some of the Inno3D 4090s aren't compatible with the Alphacool ES waterblock. There was a revision on some of the later serial numbers.",
             "I don't see anything related RTX 3090 series on the new tool.",
-            "Great work"
+            "Hi, just a heads-up, the website links an EKWB waterblock for the Gigabyte Aero 4080 SUPER GPU however on the EKWB website they don\u2019t list this GPU as compatible. The block referenced seems to only be compatible with the non-SUPER 4080.",
+            "Got anything for a power color radeon 6900 xt?",
+            "Please add just the RTX 3090.  This is \\*the\\* most popular card for AI, for example see LocalLlama subreddit.  Understand that all last gen cards would be too much to ask, but aftermarket 3090's are the go to card because of 24Gb VRam and cost.",
+            "Whoever made this everyone in the water cooling reddit needs to hail you. It has taken me 3min to find components that I had not foundfor weeks for my upcoming pc build"
         ]
     },
     "Corsairs WCE Build-Off": {
@@ -25,69 +25,55 @@
         "content": "Dear fellow watercoolers, air whirlers, enthusiasts, casuals, all of the above or neither, it's been a while since we've seen a real event on /r/watercooling but this is now about to change. Corsair has approached us and asked if we are interested in a build-off. They are willing to give away a Corsair upgrade kit to 3 participants, who will then turn that Kit into their Corsair Build-Off Entry. The /r/watercooling and /r/corsair communities will then vote on who did best and determine the winner.\n\n**The Upgrade Kit:**\n\n* Corsair 6500d or Corsair 6500x Case\n* full iCue LINK Fan Set\n* full Hydro X Watercooling Set\n\n\n**Sounds like it's right up your alley? Great! Here are the rules:**\n\n* To be eligible for selection you need to have a completed build posted on either /r/watercooling or on /r/corsair dated before this post has gone up.\n* The competition, as well as the final community voting is open to anyone over the age of 18, or with written guardian approval. \n* To enter you must be located in a country CORSAIR ships to - [list of countries CORSAIR ships to] (https://help.corsair.com/hc/en-us/articles/360036286771-Customer-Service-What-addresses-can-Corsair-ship-to)\n\n\nTo enter, simply sign up via [this signup sheet](https://app.smartsheet.com/b/form/b35ffb4bf04e4a9d86fcdd6b08287e32) with a link to your post, what you are planning to do with the upgrade kit and what parts you would need. Signup will close on Friday 22nd March 9PM GMT.\n\nThe participants will be selected by the Mods of /r/Watercooling and a Corsair representative.\n\n**What you need to do:**\n\n\n* The Build-Off will give you 4 weeks of time from the arrival of your Upgrade Kit. (So, if shipping takes a bit longer do not fret.)\n* You'll be expected to post at least 1 update post on /r/watercooling and /r/corsair every week (crossposting is allowed)\n* Your final post after the 4 weeks is done is what will be put up to the community to vote for. Make sure to put your best effort forward in your final post!\n\nFurthermore everyone is invited to join the [/r/watercooling Discord server]( https://discord.gg/watercooling). If you are an active contestant, you can post your build progress in a dedicated contest channel or socialize and chat with others if you are just following along the build-off.\n\n**Final voting and giveaway:**\n\nOnce the final posts have been put up, we will put a thread up for the community to vote on their favorite build. Anyone who votes will enter the raffle to win a [Hydro X Series iCUE LINK XH405i RGB Custom Cooling Kit](https://www.corsair.com/p/custom-liquid-cooling/CX-9070016-WW/hydro-x-series-icue-link-xh405i-rgb-custom-cooling-kit-stealth-gray-cx-9070016-ww) in their choice of color.\nThe contestant who receives the most votes will be featured on Corsairs social media and internet presence.\n\n**FAQ:**\n\n**Q:** When does signup close?\n**A:** 22nd March 9PM GMT\n\n**Q:** Can I enter if I am under the age of 18?\n**A:** Yes, with signed approval from your parent/guardian\n\n**Q:** Am I limited to a specific type/number of fans/watercooling parts?\n**A:** No, we will ship you what you need to complete your proposed build\n\n**Q:** Will I have to return the parts after the competition?\n**A:** No, all three contestants will get to keep the parts, even if they do not win the final voting\n\n**Q:** Can I use another case than the 6500 and still enter?\n**A:** No, you will have to use a variation of the 6500 series\n\n**Q:** Can I order the case with one of the accessory panel kits, or vertical GPU mount kits?\n**A:** Yes\n\n**Q:** Can I mix parts from Corsair with existing water cooling parts in my current build?\n**A:** No, all fans and watercooling components should be Corsair parts. Distro plates can be exempt from this rule.\n\n**Q:** I am not sure if Corsair makes a water block for my graphics card\n**A:** Please use the [GPU compatibility](https://www.corsair.com/custom-cooling-configurator/gpu-search) check to see if there is a block available for your card.\n\n Best of luck from the Modteam to all of you and get building!\n\n -/r/watercooling mod-team",
         "num_comments": 16,
         "comments": [
-            "Hey there /r/watercooling!\n\nWe hope you all had a pleasent easter weekend! We sure did and used the time to vote on our favorite applications to the Corsair WCE Build-Off! Then we took our sweet time to contact them and waited a bit for them to respond. You know how it goes. :P\n\nWithout further ado, here are the chosen participants!\n\n/u/Potential-Grass6308\n\n/u/HoodRat79\n\n/u/AMP_US\n\nCongratulations to you! As you know, we've already shot you an E-Mail to clarify the details and get your Upgrade Kit on the road! We're looking forward to see how your ideas will work out and what you'll present to us all in the end!\n\n-the /r/watercooling mod team!",
             "Yoooo, I'm so pumped to say I'm one of the three contestants! I couldn't believe it when I saw the email. I can't wait to start building! I have soooo many plans to make my build super unique. I'm excited to share with everyone.\u00a0",
-            "View in your timezone:  \n[Friday 22nd March 9PM GMT][0]  \n\n[0]: https://timee.io/20240322T2100?tl=Corsairs%20WCE%20Build-Off",
-            "The contest has officially started! Looks like we all have our initial week 1 post up. Check out posts from u/HoodRat76 and u/AMP_US as well as mine! [mine](https://www.reddit.com/r/watercooling/comments/1crbg87/corsair_wce_buildoff_week_1/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button)",
             "Sure just give me the parts I'll be off!  \ud83e\udd23",
-            "Any updates?",
             "Congrats! :D We look forward to seeing how it pans out! :)",
             "we're currently waiting to hear back from the chosen participants after sending them an email.\n\nso maybe check your mail everyone!",
             "I suppose I'm actually going to have to start posting completed builds in this forum now since this is a thing again. That's what I get for being lazy with social media. I would have enjoyed doing a very specific build in the 6500D instead of the 5000D I had planned it to put it in.",
-            "Checked mail.  Checked spam.   Sadness.  \n\n&#x200B;\n\nGood luck to the winners.  Should be a fun project for them."
+            "In the same boat.\n\nGood luck!",
+            "Hey there /r/watercooling!\n\nWe hope you all had a pleasent easter weekend! We sure did and used the time to vote on our favorite applications to the Corsair WCE Build-Off! Then we took our sweet time to contact them and waited a bit for them to respond. You know how it goes. :P\n\nWithout further ado, here are the chosen participants!\n\n/u/Potential-Grass6308\n\n/u/HoodRat79\n\n/u/AMP_US\n\nCongratulations to you! As you know, we've already shot you an E-Mail to clarify the details and get your Upgrade Kit on the road! We're looking forward to see how your ideas will work out and what you'll present to us all in the end!\n\n-the /r/watercooling mod team!",
+            "Checked mail.  Checked spam.   Sadness.  \n\n&#x200B;\n\nGood luck to the winners.  Should be a fun project for them.",
+            "Any updates?",
+            "absolutely!"
         ]
     },
     "My water block came with sour patch kids": {
         "title": "My water block came with sour patch kids",
-        "score": 92,
+        "score": 119,
         "url": "https://www.reddit.com/gallery/1dqsje9",
         "content": "IDK I thought that was funny \n",
-        "num_comments": 39,
+        "num_comments": 44,
         "comments": [
-            "Yeah, Bykski does that.",
             "Primochill also does that lol.",
-            "Thats sweet of them",
             "You drop them in your res for color",
             "I guess that's to clean out the loop instead of vinegar.",
             "Lol I think primochill does that as well :)",
             "Here in the UK the retailer overclockers used to include Haribo with whatever you purchased. They stopped doing it during covid for obvious reasons. Im not sure if they still do it anymore but it was a nice touch nonetheless",
             "All Monkeywrenchracing products come this way and there is nothing like being in the garage and finding candy haha",
             "You get them from vape shops too. Love how everyone is getting onboard with this.",
-            "Tyler direct has done that for me too. Love a nice little surprise."
+            "Tyler direct has done that for me too. Love a nice little surprise.",
+            "If you ordered a block on Amazon check an see if the seller was Titan rig. They do that with just about every order and are epic people.",
+            "Tyler direct always does that. If my daughter sees a package fro there she'll open it before I even get home"
         ]
     },
-    "I had to 3d model the rear of my old 12 yr old case to check what parts were needed and needed 3d printing, in order to make an exit and reentry for external rad. The Alphacool quick disconnects are quite something. I wasn't sure there was enough space, but it's good!": {
-        "title": "I had to 3d model the rear of my old 12 yr old case to check what parts were needed and needed 3d printing, in order to make an exit and reentry for external rad. The Alphacool quick disconnects are quite something. I wasn't sure there was enough space, but it's good!",
-        "score": 27,
-        "url": "https://www.reddit.com/gallery/1dqpk77",
-        "content": "",
-        "num_comments": 6,
+    "Questions about malfunctioned AiO's": {
+        "title": "Questions about malfunctioned AiO's",
+        "score": 6,
+        "url": "https://www.reddit.com/gallery/1dr7gfq",
+        "content": "Hey All \ud83d\udc4b \nGot 2 water coolings in fair bargain, 20$\nThe seller warned me that they are not working.\n\n\u2022 Corsair H80i v2 (Asetek).\n\u2022 Intel 120mm Cooler (Asetek) attached eVGA 1080Ti Hybrid SC2 (shown as FTW3 Gaming icx) which goes to 92c..\n\nI dissemble the intel one and found that brown material (dafuq is that!?) with stinky oil like liquid, cleaned the heatsink as much as i could with no option to clean the tubes or the radiator..\nWhen l connect it to 5v it started to spin.\n\nThe 2nd AiO H80i v2 not showing pump fail on the Corsair Link software / iCue, only 0 rpm, it does lit up same as the intel one but i cant get it open due to torn screws..\n\nI also got 2 bottles that i have 0 knowing what are they used for..\n\nHave few questions to the experts here :)\n\n1. How to clean up the intel cooler?\nDoes any of the liquids can do that?\n\n2. What type of liquid cooling shall i get?\n\n3. Any idea how to open the problematic screws?\n\nAppreciate your efforts :) ",
+        "num_comments": 3,
         "comments": [
-            "He\u2019ll yeah man!",
-            "Cool \ud83d\ude09",
-            "What software are you using?",
-            "nice one\ud83d\udc4d",
-            "Seems an expensive solution vs just buying a new case at this point? Spend that qdc and 2 rads on a case with one 360 rad ?",
-            "Autodesk Inventor Profesional"
+            "Intel cooled looks to either have corroded or eaten the insides of the tubing. I would personally not use either of these, especially the one with torn screws.",
+            "Good luck. If you work out what your materials are, you can work out what sort of coolant will work. The pump may struggle to pump compared to before, if you give it something more viscous, but the pwm should compensate. \n\nI\u2019m also trying to repair a aio at the moment. Nightmare - broken spool wires!",
+            "The oily liquid is in most cases a special liquid to prevent galvanic corrosion between the aluminum radiator and the cooper plate. Those liquids have a lifetime greater than the warranty, but will fail and in your case get brown from the corrosion.\n\nI would not use it, even after changing the liquid, as those small AIOs will lose in comparison to good air coolers."
         ]
     },
-    "Getting ready to build": {
-        "title": "Getting ready to build",
-        "score": 11,
-        "url": "https://www.reddit.com/gallery/1dqwg05",
-        "content": "Finally installed the Stealth Tubing Waterblock by ModdingCafe and I thing it looks pretty damn clean ",
-        "num_comments": 10,
-        "comments": [
-            "How much that guy is",
-            "$269 from performance pc parts",
-            "Why start a high end build now when the new AMD Granite Ridge and the 5090s are right around the corner?",
-            "You\u2019ll have to reach out to ModdingCafe for a quote",
-            "Because building is fun.",
-            "Really? As if you didn't spend money on it. You van say there's customized parts or its a custom part even, along with a price. \n\nBut okay. \n\nThere go all my questions.",
-            "What a caring member of this community /s\n\nWhy do you even bother uploading pictures? Just keep all to yourself.",
-            "Looks great, hope to see the finished product here!",
-            "Agreed. Any interest lost on the BS.",
-            "I miss the days where wings and bullet hole stickers made cars faster....I think the answer is \"not reasonable\". It does make me wonder if I can lay a vinyl wrap on an old board without too much fuss. I imagine cutting around the caps or air brushing would work as well. Cost maybe $20 and a few hours."
-        ]
+    "Mayhems blitz part 1": {
+        "title": "Mayhems blitz part 1",
+        "score": 1,
+        "url": "https://v.redd.it/njqyib8s8j9d1",
+        "content": "I\u2019ve used primochill vue 3 times each time doing the prep chemicals. System reboot and primoprep. On my last prep I decided to go clear since the prep was too time consuming since I\u2019m a family man. Since my system was down I decided to use mayhems blitz part 1 and 2 to finally clean out my radiators after using vue. These are the results. I think personally for a 9$ bottle system reboot does it\u2019s job pretty good. Obviously the acid from mayhems is completely better but you can definitely get away with just using system reboot.",
+        "num_comments": 0,
+        "comments": []
     }
 }

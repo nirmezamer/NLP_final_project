@@ -1,69 +1,68 @@
 {
     "Ask Anything Monday - Weekly Thread": {
         "title": "Ask Anything Monday - Weekly Thread",
-        "score": 3,
-        "url": "https://www.reddit.com/r/learnpython/comments/1dhkxms/ask_anything_monday_weekly_thread/",
+        "score": 9,
+        "url": "https://www.reddit.com/r/learnpython/comments/1dn005r/ask_anything_monday_weekly_thread/",
         "content": "Welcome to another /r/learnPython weekly \"Ask Anything\\* Monday\" thread\n\nHere you can ask all the questions that you wanted to ask but didn't feel like making a new thread.\n\n\\* It's primarily intended for simple questions but as long as it's about python it's allowed.\n\nIf you have any suggestions or questions about this thread use the message the moderators button in the sidebar.\n\n**Rules:**\n\n* Don't downvote stuff - instead explain what's wrong with the comment, if it's against the rules \"report\" it and it will be dealt with.\n* Don't post stuff that doesn't have absolutely anything to do with python.\n* Don't make fun of someone for not knowing something, insult anyone etc - this will result in an immediate ban.\n\nThat's it.",
-        "num_comments": 45,
+        "num_comments": 49,
         "comments": [
-            "How come the code:\nprint(\"0123456789\"[::2])\nPrints 02468, meaning prints the first character and then in jumps of two.\nBut the code:\nprint(\"0123456789\"[::-1])\nPrints 9876543210, meaning jumps -1 characters first and only then prints?\nAm I understanding something wrong here?",
-            "\\[Pandas\\] why do i have to put the \".index\" in this line (data.drop(data\\[data\\['Weight'\\] > 4000\\].index, inplace=True) ) to make it work? I was trying to remove all rows with a Weight value that was bigger than 4000",
-            "How do i fix this error \n\nTraceback (most recent call last):\n\n  File \"C:\\\\Users\\\\andre\\\\OneDrive\\\\Skrivbord\\\\emnoxos.py\", line 74, in <module>\n\nmain()\n\n  File \"C:\\\\Users\\\\andre\\\\OneDrive\\\\Skrivbord\\\\emnoxos.py\", line 62, in main\n\nupdater = Updater(token=TELEGRAM\\_API\\_KEY, use\\_context=True)\n\n\\^\\^\\^\\^\\^\\^\\^\\^\\^\\^\\^\\^\\^\\^\\^\\^\\^\\^\\^\\^\\^\\^\\^\\^\\^\\^\\^\\^\\^\\^\\^\\^\\^\\^\\^\\^\\^\\^\\^\\^\\^\\^\\^\\^\\^\\^\\^\\^\\^\n\nTypeError: Updater.\\_\\_init\\_\\_() got an unexpected keyword argument 'token'\n\n  \nI have tried to let chatgpt to fix it but it seems like they change nothing",
-            "What is a conda environment and does it do anything to requirements? I've been trying to run [this github program](https://github.com/edward3862/Analogist) but either I can't activate the conda environment or I get a dependency conflict when running (?) requirements.txt",
-            "I would like your guy's opinion on this. It's a really long story on why I'm asking it. If I were to tell you to write a program using \"modular programming\", would your program have, at the very least, one function within that program?",
-            "hey guys, I'm really lost in web scarping rn and had an urgent query, is anyone available to help me rn? please",
-            "Hi everyone, I was looking for a more accurate way to measure elapsed time, but potentially over an hour or so. I realized time.perf_counter is perfect for this, but discovered this thread: https://stackoverflow.com/questions/60858185/measuring-long-time-intervals-in-python\n\nmy question is: what's the max value perf_counter will reach before it wraps around? This is important because i dont want to randomly get a negative number somewhere, and i cant find any place that says the value. Thanks in advance!",
-            "So I have this:\n\n    import os\n\n    def multiply2(m):\n        return 'Mass=\"' + str(float(m.group(1)) * 2) + '\"'\n\n    for (root, dirs, files) in os.walk(\"E:\\test\"):\n        for filename in files:\n            if filename.endswith(\".xml\"):\n                editor.rereplace('Mass=\"([0-9]+(?:\\.[0-9]+)?)\"', multiply2)\n\nWhich seems to repeat indefinitely because it always returns 1.37438953472e+11 and it doesn't actually seem to walk anywhere(only affects files in root folder)",
-            "I want to allow a tool to automatically \"import\" any files added to a directory, eg call in /myapp/plugins.\n\nThe plugin would have a class that is derived from MyAppBaseClass (which is an Abstract base class).\n\nWhat are the search terms I need to search in Google on how to get started with something like this?",
-            "I took a Python introduction course in my university. However, I can't do medium difficulty Leetcode questions at all, I struggle with some easy questions as well. Are there any resources you'd recommend to bridge that gap or should I just practice at it till I make it?"
+            "how to approximate pi with a unit circle",
+            "Is there a way to cycle through all objects of a particular class if the objects are not in something like a list? (I'm creating a simple game using only TKinter. I have a parent class called GameObject which has several children classes. The GameObject class has methods of GetX and GetY which retrieve the coordinates. I'd like to be able to cycle through all of the GameObject objects to detect any sort of collisions but I don't have the objects stored within anything such as a list or dictionary.)",
+            "What is the best guided resource for a total beginner these days? I work in product at a telecom company, and want to get better with data. \"automate the boring stuff\" looks great for what I want to do, but I prefer on-rails learning like codeacademy. I have messed around with codeacademy in the past and may end up just starting it up again, but wanted to see if there's anything new out there since I last looked into it.",
+            "I'm looking for a file format to store and quickly access georeferenced data (dataframes with lat and lon columns), so I can quickly load in memory a geographically constricted set of my data and not have to load the whole data (which I cannot do due to the sheer volume) or have to loop through every file checking boundary conditions. Is there a nice format that would let me do this?",
+            "I am trying to install pillow (using pip), but I keep getting \"\\[WinError 87\\] The parameter is incorrect\". Even trying to use something like easy\\_install didn't work and gave me \"future feature annotations not defined\". Is there any way I can fix this issue, or any other way to install pillow? \n\nI used the following prompt: pip install pillow",
+            "is learning Python too much for a 15 y/o ?",
+            "No, either keep track manually or append to a list.",
+            "Geoparquet? : edit you aren\u2019t actually storing geojson or the like, so you can use normal parquet",
+            "It would help a lot if you showed us what you typed in at the CMD prompt.",
+            "It looks like you are typing the command into the python IDLE prompt (`>>>`).  You should type the command into a commandline prompt.  Either a shell prompt or CMD, depending on your operating system."
         ]
     },
-    "What are the best places to learn Python? ": {
-        "title": "What are the best places to learn Python? ",
-        "score": 42,
-        "url": "https://www.reddit.com/r/learnpython/comments/1dlfaas/what_are_the_best_places_to_learn_python/",
-        "content": "As a total noob who wants to truly learn, understand and use Python to create things for my portfolio, where do I start? \n\nIs there an online course or something that'll teach me everything from 0 to competent? \n\nI cannot do a university course because I have maxed out my credits and it could affect my grades. I want to learn at my own pace.",
-        "num_comments": 46,
-        "comments": [
-            ": /r/learnpython/w/index -> new to programming",
-            "Andrei Dumitrescu on Udemy. Broke the \u201cdoesnt click\u201d barrier for me in programming with his single python course. Also took his Linux course before that, I learned a lot as well. Man\u2019s a natural teacher.",
-            "cs50p on youtube",
-            "Sidebar wiki",
-            "What a really fresh and unique question! Thank you so much for visiting the sub and not looking at ANY of the existing posts.",
-            "[boot.dev](http://boot.dev)",
-            "On a computer \n/s\nBest of luck on your journey \ud83d\udc4d",
-            "Projects",
-            "Look at the wiki/FAQ on this sub. This question is asked countless times on this sub. Just look through past posts too.",
-            "The Python Crash course book is what I used. I daydream after a while watching videos. Typing along with the book and then forcing myself to do the tutorials really helped reinforce the basics.\n\nAlso stopped me from procrastinating using a book."
-        ]
-    },
-    "Looking for Study Buddy": {
-        "title": "Looking for Study Buddy",
+    "How I remember the difference between \"=\" and \"==\"": {
+        "title": "How I remember the difference between \"=\" and \"==\"",
         "score": 3,
-        "url": "https://www.reddit.com/r/learnpython/comments/1dlqj0t/looking_for_study_buddy/",
-        "content": "I am a beginner learning python. Is there any discord server I can join?",
-        "num_comments": 3,
+        "url": "https://www.reddit.com/r/learnpython/comments/1dranzu/how_i_remember_the_difference_between_and/",
+        "content": "This will sound silly to some people, but I have ADHD so I have to come up with odd little ways to remember things otherwise I won't retain anything.\n\nIn my first few Python lessons I kept mixing up \"=\" and \"==\". I finally figured out a way for me to remember the difference.\n\n  \n\"=\" looks like chopsticks. What do chopsticks do? They pick up food and put it somewhere else. The \"=\" is a pair of chopsticks that pick up everything after them and put it inside the variable.\n\n  \nThe \"==\" are two symbols side by side that look exactly the same, so they're equal. They check for equality.\n\n\n\nMaybe this will help someone, maybe it won't, but I thought I'd share.",
+        "num_comments": 0,
+        "comments": []
+    },
+    "Visual Studio Code or Spyder IDE?": {
+        "title": "Visual Studio Code or Spyder IDE?",
+        "score": 3,
+        "url": "https://www.reddit.com/r/learnpython/comments/1dr8m3v/visual_studio_code_or_spyder_ide/",
+        "content": "I'm a beginner learner of Python. I'm a student and I want learn it for science projects focused on geology and paleoecology.  \nCan someone please let me know if **VS Code** or **Spyder IDE** is better for my purpose?",
+        "num_comments": 24,
         "comments": [
-            "Check out Pythoneers, a popular Discord server for Python learners and devs!",
-            "Is there any server for frontend devs?",
-            "same, can u lmk if u find any"
+            "I suggest PyCharm Community Edition",
+            "I like Spyder.  It's simple to get started, and makes sense to me.  \n\nBTW, if you're on Windows, WinPython is an easy way to start.  It includes a couple of IDE's, and some common Python packages.  But it isn't a huge download.",
+            "VS Code ftw! Spyder is buggy sometimes.",
+            "For science projects Jupiter lab / notebook may be a better way to go.",
+            "Whichever works best with your workflow.. I use Jupyter notebooks for testing and spyder for operation for larger data pipelines. Perhaps because I am familiar with MATLAB and MINITAB.",
+            "I had started out using PyCharm and switched to VSC simply because when watching YouTube videos, that was the IDE most frequently being used, and it made it easy to follow along.  I've never used anything else but I do like VSC.  It's pretty easy to use.",
+            "If the goal is data science, spyder is very convenient, it has a Matlab-like interface",
+            "I use vscode for larger projects like Django, but all my scripts are in Spyder. Cheers.",
+            "As a begginer, I really like Thonny.",
+            "Both are way behind PyCharm. VSC is worst than Spyder\n\nPython shines with good IDE. Not text editor, like VSC"
         ]
     },
-    "Beginner Level Projects": {
-        "title": "Beginner Level Projects",
-        "score": 4,
-        "url": "https://www.reddit.com/r/learnpython/comments/1dloeaz/beginner_level_projects/",
-        "content": "So I just finished Py4e by Umich to get a better understanding of python itself and am now looking for some places to get some recs for some sites with good beginner level projects to start my journey",
-        "num_comments": 1,
+    "Photoperiod clock ": {
+        "title": "Photoperiod clock ",
+        "score": 3,
+        "url": "https://www.reddit.com/r/learnpython/comments/1dr8u5f/photoperiod_clock/",
+        "content": "Hi all - would like some direction or hints on how to approach building the following in Python:\n\nI want to have a widget  \nthat indicates where a controlled greenhouse unit is in it's day/night cycle,  \nusing the current time (see image) I have been searching for a method to do  \nthis, but I haven't found anything similar. \n\n  \n[Concept](https://ibb.co/0MntgNY)\n\nI want to be able to  \nchange the times for the \"night period\" to be displayed as I like. \n\nAny guidance, pointers or  \ntutorials appreciated. I have looked down a route like analogue clocks but it  \ndoesn't fulfill 24 hours or the ability to indicate day/night as set over 24  \nhours in this way. \n\n\u00a0\n\nMany thanks! \n\n\u00a0\n\n\n\n",
+        "num_comments": 4,
         "comments": [
-            "1\\. Create a bot to reply to \"what are some beginner projects\" questions on r/learnpython, using [PRAW](https://praw.readthedocs.io/en/latest/index.html).\n\nOther than that, here are some beginner project ideas:\n\n* [a list of programming projects on Github](https://github.com/karan/Projects)\n* [another (archived) list from Github](https://web.archive.org/web/20180612183650if_/https://github.com/jorgegonzalez/beginner-projects)\n* [a curated list of Python projects for beginners, intermediate & advance level programmers](https://www.theinsaneapp.com/2021/06/list-of-python-projects-with-source-code-and-tutorials.html)\n* [Tech with Tim Youtube channel, full of Python projects](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lkJOu1AWab-nFtjDw7aPek)\n* [resources in the subreddit wiki](https://www.reddit.com/r/learnpython/wiki/index#wiki_tools_for_learning_python)\n\nGood luck!\n\n^(Downvote me if the post wasn't a question about examples of beginner projects. Thank you.)"
+            "Matplotlib? Your question is super ambiguous.",
+            "So if I'm thinking right, could I set the x axis to 24 hr time, then update the x value every second based on the current time as the basic setup? Then format to hide y axis and shade portions of the background colour according to time periods I set - would that be the optimal solution? \n\n Apologies it's vague, but I am here trying to learn something coming from tutorials which are not based in Matplotlib so it wasn't apparent.",
+            "Sounds like maybe you could do something like that. You should learn how to manipulate basic graphs first though and move up from there.",
+            "Your [submission](https://www.reddit.com/r/learnpython/comments/1dr8u5f/photoperiod_clock/) in /r/learnpython may be automatically removed because you used imgbb.com. The reddit spam filter is very aggressive to this site. Please use a different image host. \n\nPlease remember to post code as text, not as an image.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/learnpython) if you have any questions or concerns.*"
         ]
     },
-    "VSCode: How can I add Method Examples similar to those shown in PyCharm?": {
-        "title": "VSCode: How can I add Method Examples similar to those shown in PyCharm?",
+    "Should you always use Asyncio instead of Multithreaded in python??": {
+        "title": "Should you always use Asyncio instead of Multithreaded in python??",
         "score": 2,
-        "url": "https://www.reddit.com/r/learnpython/comments/1dluh6o/vscode_how_can_i_add_method_examples_similar_to/",
-        "content": "In PyCharm typing x. would bring up a method list with included examples. I.E: count(self, x, \\_start, \\_end) str\n\nIn VScode the methods in the list would just show up as: count\n\nYou can see what I'm talking about at 19:58 in this [video](https://www.youtube.com/watch?v=kqtD5dpn9C8).\n\nAre there any extensions or settings to add this functionality to VSCode? I'm very new so this would be very helpful.\n\nThanks.\n\n",
+        "url": "https://www.reddit.com/r/learnpython/comments/1draie1/should_you_always_use_asyncio_instead_of/",
+        "content": "Is there anyone with experience to help me answer my questions",
         "num_comments": 0,
         "comments": []
     }

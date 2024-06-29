@@ -16,58 +16,65 @@
         "comments": [
             "The real issue is that the industry is full of solution jockeys and very few actual engineers. The solution in business is to have these people baby sitted by engineers. The solution online is to troll and shame them for being retards.",
             "Pinning this because it should be considered before posting for help. Thanks for writing this up!",
-            "I\u2019m going to add a few more:\n\nTo the requester: If it\u2019s important, or you\u2019re not getting the response you need in the time you need it, pick up the phone and call. Phone calls are always prioritized over ticket entries and emails.\n\nTo the support provider: I cannot overstate the importance of u/rpedrica\u2019s statement on asking leading questions. Ask how it\u2019s supposed to work, ask why they feel it\u2019s not working (even caveat with \u201cI\u2019m not familiar with how you use it, so help me see it from your eyes\u201d), ask if anything has changed, and while this is not your fault, show empathy, I\u2019m not saying apologize, but do acknowledge the frustration, after all you\u2019re their last life line, they would have taken all steps (as few/many as those were) before calling you.",
-            "Having read numerous support tickets with only the statement *X doesn't work* I couldn't agree more on this.   \nI tell all customers and partners to be very specific with what the perceived issue is, when did it happen, was something changed before the issue happened, what troubleshooting steps has been taken, etc. The more relevant information you provide, the better the answer from TAC will be. \n\nRespone times is another thing I often see people having opinions about. Mostly it comes down to people not knowing the SLA and the terms in the support contract. Be sure to know what to expect when you register a ticket with a certain priority level.",
             "Thanks for the reply - I agree with you to an extent although I don't think it's that simple. My post assumes a minimum level of capability on the engineer's side. If we don't have that, then yes, it's a crapshoot.",
-            "Thanks u/afroman_says!",
-            ">To the requester: If it\u2019s important, or you\u2019re not getting the response you need in the time you need it, pick up the phone and call.\n\nBad idea. It often happens that CSRs verbal promises to do something, only to never follow through, and then later feign ignorance of even making the assurance. Even for simple callbacks. \n\nThat's where written communication keeps an audit trail. Which, sometimes, is also a corporate requirement.\n\n>Phone calls are always prioritized over ticket entries and emails.\n\nI hope not. Issues should be assigned a priority depending on the criticality, no matter how they are reported, and dealt with according to this assigned priority.",
             "Thanks for the expansion u/ultimattt. It's great to see discussion on this topic.\n\nI'll add another from my side: never make assumptions ... always confirm each piece of information as fact before acting on it (of course if possible, sometimes there is no choice). I've been down the rabbit hole many times before realising that it's the wrong rabbit hole.",
             "Thanks u/EyePnetworks some very good points made here especially when dealing with external vendors.",
-            "[deleted]"
+            "Oh duuuuude, that f-ing feeling when you realize you\u2019ve been chasing the wrong thing for too long.",
+            "There is no doubt situations where one should call and ask for urgency, but this shouldn't be abused for every small request someone have. This is all I am saying :)",
+            ">To the requester: If it\u2019s important, or you\u2019re not getting the response you need in the time you need it, pick up the phone and call.\n\nBad idea. It often happens that CSRs verbal promises to do something, only to never follow through, and then later feign ignorance of even making the assurance. Even for simple callbacks. \n\nThat's where written communication keeps an audit trail. Which, sometimes, is also a corporate requirement.\n\n>Phone calls are always prioritized over ticket entries and emails.\n\nI hope not. Issues should be assigned a priority depending on the criticality, no matter how they are reported, and dealt with according to this assigned priority.",
+            "Let me tell you something from experience, the majority of \"IT engineers\" calling on a hotline, are the worst from the OP lists e.g. the ones that are too lazy or under qualified or both and wants someone else to do the hard work (have you heard the term \"do the needful\" ?). Not all, but the majority!  \n  \nThe problem with this calls is, just ask yourself a question: Would a really expert engineer in any field accept a job where he sits there and waits for random phone calls e.g. like call center ? Knowing that the majority of those calls are almost scam and waste of skills and time ? \n\nLet me answer it for you - No! Skilled engineers does not work on a phone hot line. \n\nThe chance to get someone experienced by calling on the phone is slim, and the chance to get someone experienced in the specific topic you have issue with is even smaller.\n\nThe minority of the calls which are really reasonable, for real P1 situations, suffer the most from this, because vendors cannot afford to put enough skilled engineers which would answer the high amount of scam calls and maintain reasonable price for the service at the same time.\n\nOn the other side, if you report your query properly and point to the issue with the corresponding logs and information, the chance to get someone more experienced in that field is much higher.\n\nAlso adjust your expectations according to the SLAs in the contract you have signed, it should also list the specific conditions required for ticket prioritization.",
+            "And at times it can be.   \n\n\n\"Waiting for Vendor to email back\"   \n\n\nExecutives loves this one response!!!"
         ]
     },
-    "Which Fortinet certification should I look at? ": {
-        "title": "Which Fortinet certification should I look at? ",
-        "score": 5,
-        "url": "https://www.reddit.com/r/fortinet/comments/1dqz503/which_fortinet_certification_should_i_look_at/",
-        "content": "I am looking to take a Fortinet certification in the coming months.  The company I work for is beginning to deploy them to our customers so in more of an MSP/ISP based role.  Is there any one certification that would lend more of a focus on this aspect?  I am currently looking at the FCP-Network Security. ",
-        "num_comments": 8,
+    "Fortigate 200f available": {
+        "title": "Fortigate 200f available",
+        "score": 3,
+        "url": "https://www.reddit.com/r/fortinet/comments/1drc0bu/fortigate_200f_available/",
+        "content": "Good day... I just pulled a 3 year old fortigate 200f from a rack.\nLicensing expired early June.\nFirewall is still in mint condition..\nWhat would it sell for and where would you sell it? \nIt is currently registered to me and would be transfered to new owner.\n\n",
+        "num_comments": 12,
         "comments": [
-            "The FCP is the right cert to start with.\nJust got mine this week \ud83d\ude42",
-            "Make sure your company registers as a partner. Get your FCF and FCA, they are both free to take in the partner portal. Reach out to your channel team to claim a fortigate 70f as a gift (sometimes supply chain prevents, but last I checked they were doing this). Use tolhe 70F to prepare for your FCP.",
-            "Start with fcf and fca if you're new to fortigate",
-            "None. You don\u2019t need it. Just learn it.",
-            "Fortinet it self has a \"training institute\" (https://training.fortinet.com/). Everything you need to learn and to prepare for exams is available there. For free.\n\nUnless you decide yourself that you need other sources as well (there is always youtube and other learning platforms that might offer Fortinet stuff) - there is no need. Just make sure that you always use the Fortinet training as the main source (because this is the exam is based on).\n\nAnd yes, the FCP woud be the first (bigger) exam to take - from there it is up to you which path you want to take next (you can't \"block\" yourself from an certificate by doing another cert - the only thing you might \"lose\" is time).\n\nGood luck on your journey",
-            "Why would you waste time on certificates? \nNo bigger time waster than IT certifications.\nI have CCNA, beyond CCNP knowledge and I earn more than many CCIEs \ud83d\ude05",
-            "How was your exam? What did you use for studying?",
-            "I believe they are offering a 70F, switch and AP now. At least that is what our channel reps told us."
+            "2500 for a used 200F? Jesus new with our discount they are only a tad more.",
+            "Market is ultimately going to decide, but I feel like you could get somewhere between $2000 and $2500 based on what I see on ebay history. Might take awhile to move it though, you could try r/homelabsales",
+            "You could contract Fortinet for a trade up / trade in. They have a dedicated division for that. Probably only get a minor discount for a newer model, but at least less e-waste or the hassle of transferring ownership.( Sometimes it's a pain)",
+            "Use that for a trade in for a new Forti ;-)",
+            "Heck, I just got an NFR quote back on a 120G for under $2500 with 1yr of UTM",
+            "I tried that when upgrading... Didn't make sense what they where offering for it.. Should still be able to get at least 2 grand for it the way I see it",
+            "Hahah I got it for 1500$ as nfr",
+            "Damn, why the heck is Ingram/Forti ripping me off",
+            "Yeah, we had that conclusion as well, dont get much value. But to sale a corporate asset is pain for accounting and asset management. Therefore, we chose for trade up or just have another third party do digital shedding. If you are not in a heavy regulated section, e.g. health or financial. You should just sale it online and make sure you could transfer the ownership successfully. I have a occasion that Fortinet screwups a firewall's ownership and was under another guys name. They outsource so much resources, it's hard to find support on account level right away.( Not talking about tech support)",
+            "Was that with licensing/support? Legit curious how you got that"
         ]
     },
-    "Fortimanager": {
-        "title": "Fortimanager",
-        "score": 5,
-        "url": "https://www.reddit.com/r/fortinet/comments/1dqtn7z/fortimanager/",
-        "content": "An abundance of changes were made on the Fortigate, APs added, and DHCP reservations created.  What is the proper steps to pull those changes into FMG?  Needless to say their local admin login has been removed. ",
-        "num_comments": 11,
+    "Problem Fortclient VPN post update to version 7.4.0.1658": {
+        "title": "Problem Fortclient VPN post update to version 7.4.0.1658",
+        "score": 3,
+        "url": "https://www.reddit.com/r/fortinet/comments/1drbgvd/problem_fortclient_vpn_post_update_to_version/",
+        "content": "After updating fortclient VPN, icon disappeared from systemtray and does not connect to SSL VPN, freezes in connecting status",
+        "num_comments": 5,
         "comments": [
-            "Device Manager - > Managed Devices - > Double click the FortiGate - > Dashboard - > Summary - > 'Configuration and Installation' widget - > Revision - > select the menu icon  - > Retrieve",
-            "Overwrite the local changes, and have the person responsible enter them on the FortiManager.",
-            "If you want them to learn a lesson, follow u/FrequentFractionator's advice. \n\nOtherwise depending on the changes you might be able to retrieve them.",
-            "If a config change was made locally on the gate, Fortimanager will pick this up automatically and show \"auto-update\" under status instead of \"synchronized\". If a policy change was made on the gate too then you could get a conflict error. If in doubt you can either diff the configs between the manager and the gate or just \"retrieve config\" on the manager and do a fresh policy import and overwrite what you already have to essentially get back to a clean state between both.",
-            "Depending on the version of FortiOS and FortiManager you are running, all of those are device level changes and should be synced back to the FortiManager automatically.",
-            "Most has been already said about \"device settings\" - there are different approaches (some are more optimal, others maybe not as much or have more worked involved).\n\nI just want to add - the config part that is definitively NOT being synced back from the Fortigate to the Fortimanager are local changes on the Fortigate to firewall policies (and some other related configs - address objects, etc.).  \nThose are NOT synced back as they are not \"device settings\\* and you will need to deal with that sync specifically and with due care.",
-            "https://community.fortinet.com/t5/FortiManager/Technical-Tip-How-to-fix-synchronization-issue-in-FortiManager/ta-p/223802",
-            "I would love to but that would take the entire wireless down. I\u2019m not looking for what I\u2019d like to do but how can I get those changes into FMG",
-            "This is the way",
-            "In that case have them enter the changes into FortiManager and check the install preview. If there are still changes pending, they are not done entering all changes."
+            "Resolved: Install Visual C++ Redistributable for Visual Studio",
+            "Well shit.  We tried 7.4 without success.  This may be it....\n\nThanks",
+            "How did you figure out that you needed this installed?",
+            "On the fortnet forum. One user said they solved it by manually running the executable fortray.exe\n\nI tried to do this and it gave DLL not found error.  \nAnd from previous experience I already knew that this DLL was included in Visual C++ Redistributable\n\nI installed it and it worked",
+            "Where and how?"
         ]
     },
-    "Question about old fortiap": {
-        "title": "Question about old fortiap",
-        "score": 1,
-        "url": "https://www.reddit.com/r/fortinet/comments/1dquqz2/question_about_old_fortiap/",
-        "content": "My work gave me a few old fortiaps to mess around with, model 220b, I am able to access them with the serial cli, but when logging into the web console it flashes the proper screen the kicks me back to the login screen. I cannot upgrade the firmware because the fortinet website wants them to be licensed, but they are old and no longer licensed to my knowledge. I tried using an old version of firefox to see if it was a browser issue and no luck. This is my cfg -s output if it helps:\n\n    FAPxxxxxxxxxxxxx # cfg -s\n    BAUD_RATE:=9600\n    LOGIN_PASSWD_ENC:xxxxxxxxxxxxxxxxxxxxxxx\n    ADMIN_TIMEOUT:=5\n    ADDR_MODE:=DHCP\n    AP_IPADDR:=192.168.1.9\n    AP_NETMASK:=255.255.255.0\n    IPGW:=192.168.1.1\n    AP_MODE:=0\n    DNS_SERVER:=208.91.112.53\n    STP_MODE:=0\n    AP_MGMT_VLAN_ID:=0\n    TELNET_ALLOW:=0\n    HTTP_ALLOW:=1\n    DDNS_ENABLE:=0\n    AC_DISCOVERY_TYPE:=0\n    AC_IPADDR_1:=192.168.1.1\n    AC_HOSTNAME_1:=_capwap-control._udp.example.com\n    AC_DISCOVERY_MC_ADDR:=224.0.1.140\n    AC_DISCOVERY_DHCP_OPTION_CODE:=138\n    AC_DISCOVERY_FCLD_APCTRL:=\n    AC_DISCOVERY_FCLD_ID:=\n    AC_DISCOVERY_FCLD_PASSWD:=\n    AC_CTL_PORT:=5246\n    AC_DATA_CHAN_SEC:=2\n    MESH_AP_TYPE:=0\n    MESH_MAX_HOPS:=4\n    MESH_SCORE_HOP_WEIGHT:=50\n    MESH_SCORE_CHAN_WEIGHT:=1\n    MESH_SCORE_RATE_WEIGHT:=1\n    MESH_SCORE_BAND_WEIGHT:=100\n    MESH_SCORE_RSSI_WEIGHT:=100",
-        "num_comments": 0,
-        "comments": []
+    "Losing connectivity after enabling HA": {
+        "title": "Losing connectivity after enabling HA",
+        "score": 3,
+        "url": "https://www.reddit.com/r/fortinet/comments/1dr8nfc/losing_connectivity_after_enabling_ha/",
+        "content": "SOLVED - Issue wasn't with Fortigate-VM. Needed to turn on Port Mirroring for the Virtual Switch in Hyper-V. Thanks all for your help.\n\nRecently got 2 Fortigate-VM 7.4 to practice on and wanted to activate HA.  This is the setup prior to enabling HA.\n\nFW-Primary: [192.168.1.39/24](http://192.168.1.39/24)\n\nFW-Secondary: [192.168.1.40/24](http://192.168.1.40/24)\n\nAt this stage, I can access both FW like normal through the browser and SSH. However, once I configure HA and click on Save, as per below config:\n\n**FW-Primary**\n\n    config system ha\n      set group-id 1\n      set group-name \"TEST-CLUSTER\"\n      set mode a-p\n      set password <omited>\n      set hbdev \"port2\" 0\n      set priority 255\n      set monitor \"port1\"\n\n**FW-Secondary**\n\n    config system ha\n      set group-id 1\n      set group-name \"TEST-CLUSTER\"\n      set mode a-p\n      set password <omited>\n      set hbdev \"port2\" 0\n      set priority 129\n      set monitor \"port1\"\n\nI immediately lose access and cannot ping or connect to the FW-Primary anymore. Even after clearing the ARP-Cache on the switch multiple times, I still cannot access the the FW-Primary and it just shows ping unreachable.\n\nIf I console into FW-Primary and ping itself (192.168.1.39) then it succeeds but I cannot ping the gateway.\n\nIf I console into FW-Secondary, I can see it syncing with FW-Primary and the configuration is duplicated over.\n\nOnce I console into FW-Primary and change the HA mode back to standalone, then I regain access. I'm not sure if I'm missing anything and would appreciate some help and guidance.\n\nhttps://preview.redd.it/j70tfsn4sh9d1.png?width=567&format=png&auto=webp&s=b727c40aa3bb66314a94ad7de9984fb67b255d35",
+        "num_comments": 9,
+        "comments": [
+            "If you still want to reach them on their individual ips you need to set up individual management ips (In band or out of band as you prefer or need).\nYou can find a guide in the knowledge base.",
+            "Primary should have the lower number to have the higher priority.",
+            "For me, I can't even access the Primary IP. After activating HA, both the IP of FW-Primary and FW-Secondary becomes unreachable. So once I activate HA, I'm fully locked out from the FW apart from using console.",
+            "Yes, I have done that. Same result. After the duplication is done, both FW-Primary and FW-Secondary shows that they are holding .39\n\nCore Switch still can't ping .39 even after 30 mins.",
+            "Yeah agreed. It looks like OP issue is on your hyper-v networking side.\n\nHA sounds like it's working as intended.",
+            "Holy hell, you're right. I enabled the port mirroring then it works. So it was actually the IP/MAC issue. Thanks!",
+            "If those are the Lan interfaces. Turning on HA mode will make the secondary match the first one. As said you need to make dedicated management interfaces if you want to access the GUI of both at the same time. Once in HA, the firewall with the longest uptime and lowest serial number will become the HA primary. You have also set the secondary with the lower priority number. Meaning it is the preferred device. \n\nOnce done you will only see the primary IP as the IP of the cluster. The second IP is gone. They will fail over and take over the use of that one primary IP. \n\nYou can force failovers by resetting the HA uptime through the cli of the primary firewall at the time. What your finding is normal operation in other words.\n\n\nEdit: deleted link as I posted the wrong one.",
+            "Setup your primary .39 first, leave it running with HA turned on for 5 minutes at least. Set it as having the lower priority number.\n\nReboot the secondary .40 unit and join it to the HA. With the higher priority number (reverse your current config). Allow time to sync. You will only ever see 1 IP after Ha is turned on. The secondary unit mirrors the primary. In active-passive mode one unit is in essentially standby mode. In active active you hand over sessions for processing but still only ever see one unit and again only ever see one IP.",
+            "My guess is that this is an issue with the Hyper-V switch and the FGT mgmt virtual IP/MAC. However, could also be split brain due to HA not working correctly.\n\nDoes \"get sys ha status\" show them members in-sync? If not try unicast heartbeat: [https://docs.fortinet.com/document/fortigate-private-cloud/6.4.0/microsoft-hyper-v-administration-guide/397100/high-availability](https://docs.fortinet.com/document/fortigate-private-cloud/6.4.0/microsoft-hyper-v-administration-guide/397100/high-availability)"
+        ]
     }
 }

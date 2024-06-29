@@ -1,7 +1,7 @@
 {
     "Ask Away Wednesday!": {
         "title": "Ask Away Wednesday!",
-        "score": 3,
+        "score": 5,
         "url": "https://www.reddit.com/r/F1Technical/comments/1dojhr1/ask_away_wednesday/",
         "content": "Good morning F1Technical!\n\n*Please post your queries as posts on their own right, this is not intended to be a megathread*\n\nIts Wednesday, so today we invite you to post any **F1 or Motorsports in general** queries, which may or may not have a technical aspect.\n\nThe usual rules around joke comments will apply, and we will not tolerate bullying, harassment or ridiculing of any user who posts a reasonable question. With that in mind, if you have a question you've always wanted to ask, but weren't sure if it fitted in this sub, please post it!\n\nThis idea is currently on a trial basis, but we hope it will encourage our members to ask those questions they might not usually - as per the announcement post, sometimes the most basic of questions inspire the most interesting discussions.\n\nWhilst we encourage all users to post their inquiries during this period, please note that this is still F1Technical, and the posts must have an **F1 or Motorsports** leaning!\n\nWith that in mind, fire away!\n\nCheers\n\nB",
         "num_comments": 2,
@@ -12,74 +12,67 @@
     },
     "How are there \u201cmidfield cars\u201d in Formula 2 when all of them are technically the same?": {
         "title": "How are there \u201cmidfield cars\u201d in Formula 2 when all of them are technically the same?",
-        "score": 228,
+        "score": 259,
         "url": "https://www.reddit.com/r/F1Technical/comments/1dqjml8/how_are_there_midfield_cars_in_formula_2_when_all/",
         "content": "",
-        "num_comments": 36,
+        "num_comments": 39,
         "comments": [
-            "We remind everyone that this sub is for technical discussions.\n\nIf you are new to the sub, please [read our rules](https://www.reddit.com/r/F1Technical/about/rules/) and [comment etiquette post.](https://www.reddit.com/r/F1Technical/comments/zlo2qf/comment_etiquette_update/?utm_source=share&utm_medium=web2x&context=3)\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/F1Technical) if you have any questions or concerns.*",
-            "Money, \n\nMore money means you can hire better quality engineers and mechanics. The engineers will give you better setups and the mechanics will be able to hit that setup more accurately and more often.\n\nBetter data tools to inform the setup.\n\nGive's you the ability to buy more chassis and more parts, due to tolerances some components will be better than others. Also all these components will have a life and will generally degrade from when they are first fitted, so by replacing them more frequently you will have a higher profomance level.",
             "There are still components that you can setup on the car. Wings, ballast, etc. Then you have race strategy. Good teams are consistent at creating faster car setups and strategies making them quicker than other teams.",
             "There also (used to be?) is a rich team advantage in equipment. They used to buy multiples of the parts they needed and picked the best ones to actually use.",
             "Top teams have better engineers, who are better at setup and also better in coaching the driver to get right setup and strategy.",
-            "I've often wondered this myself, and googling never seemed to give me an answer. Now I have one and my curiosity is sated. Thank you for asking the question, and thank you to everyone who answered.",
             "Setups are not the same",
+            "I've often wondered this myself, and googling never seemed to give me an answer. Now I have one and my curiosity is sated. Thank you for asking the question, and thank you to everyone who answered.",
             "you\u2019re gonna see the same thing in every spec racing series in the world. more resources = more performance. add to that the fact that better drivers are hired by better teams and you have that 2-3% difference that adds up to a 30 seconds deficit over a race distance.",
+            "Is there cost cap in Formula 2? If there is wouldn't that even them out or if there isn't, why?",
             "sorta like why are some football teams better than others, they all have 11 players.",
-            "Just ask papa Stroll how you get a top of the field F2 car with unique parts on it....."
+            "Just ask papa Stroll how you get a top of the field F2 car with unique parts on it.....",
+            "Because they aren\u2019t technically the same?\n\nEdit: why are we posting F2 questions in an F1 sub."
+        ]
+    },
+    " F1 car question (sort of)": {
+        "title": " F1 car question (sort of)",
+        "score": 0,
+        "url": "https://www.reddit.com/r/F1Technical/comments/1drcpsw/f1_car_question_sort_of/",
+        "content": "Ok. I don't think I was high.  I remember watching a car show about this little car that alot of f1 drivers had . I thought it was a little hatchback but not sure.  They basically said that since it was so low with a wide stance it was the closest you can get to feeling racing g forces in a street legal little car at the time.  I'm thinking sort of mini Cooper like but not a mini.  Any suggestions",
+        "num_comments": 3,
+        "comments": [
+            "Sainz drives (drove?) a VW Golf",
+            "This post appears to discuss regulations.\n\n[The FIA publishes the F1 regulations.](https://www.fia.com/regulation/category/110)\n\nRegulations are organized in three sections:\n- **Technical** for the design criteria of the car\n- **Sporting** for how the competition is executed\n- **Financial** for how money is spent \n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/F1Technical) if you have any questions or concerns.*",
+            "We remind everyone that this sub is for technical discussions.\n\nIf you are new to the sub, please [read our rules](https://www.reddit.com/r/F1Technical/about/rules/) and [comment etiquette post.](https://www.reddit.com/r/F1Technical/comments/zlo2qf/comment_etiquette_update/?utm_source=share&utm_medium=web2x&context=3)\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/F1Technical) if you have any questions or concerns.*"
         ]
     },
     "What would be the visual or physical diffrence between the tyre compounds?": {
         "title": "What would be the visual or physical diffrence between the tyre compounds?",
-        "score": 6,
+        "score": 8,
         "url": "https://www.reddit.com/r/F1Technical/comments/1dqyzgu/what_would_be_the_visual_or_physical_diffrence/",
         "content": "\n\nHappy middle race weekend everyone! This may seem a silly question. I understand that each tyre compound behaves very differently on the track but how different are they, really? For example, if I were to have an unmarked soft, medium and hard tyre in front of me, would I be able to tell the difference  based on sight or touch alone?",
         "num_comments": 6,
         "comments": [
-            "We remind everyone that this sub is for technical discussions.\n\nIf you are new to the sub, please [read our rules](https://www.reddit.com/r/F1Technical/about/rules/) and [comment etiquette post.](https://www.reddit.com/r/F1Technical/comments/zlo2qf/comment_etiquette_update/?utm_source=share&utm_medium=web2x&context=3)\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/F1Technical) if you have any questions or concerns.*",
             "No. They're similar enough you'd never be able to tell. Though in case you didn't know there are actually  5 compounds and one weeks soft can be the next week's hard.",
-            "If you heat them all to about 80-100\u00b0C and then felt their hardness _maybe_ you could tell a difference? But also you'd have burnt hands so wouldn't recommend",
             "Thanks, yep, I know they work within a range, maybe should have asked the question in terms of the difference between the very softest and the very hardest. Still, it's pretty amazing that such small increments of difference have such a big impact on the way a car behaves. Thanks again!",
             "I'd probably have trouble keeping up while running next to the car at that point, too. \ud83d\ude42",
-            "It\u2019s all about the construction of the tyres inside. Pirelli look into the data from previous years and choose the range, for a race with pitstops and strategy. Otherwise, I remember Mario Isola saying they could easily build a tyre that can last the whole race if they want"
+            "It\u2019s all about the construction of the tyres inside. Pirelli look into the data from previous years and choose the range, for a race with pitstops and strategy. Otherwise, I remember Mario Isola saying they could easily build a tyre that can last the whole race if they want",
+            "If you heat them all to about 80-100\u00b0C and then felt their hardness _maybe_ you could tell a difference? But also you'd have burnt hands so wouldn't recommend",
+            "We remind everyone that this sub is for technical discussions.\n\nIf you are new to the sub, please [read our rules](https://www.reddit.com/r/F1Technical/about/rules/) and [comment etiquette post.](https://www.reddit.com/r/F1Technical/comments/zlo2qf/comment_etiquette_update/?utm_source=share&utm_medium=web2x&context=3)\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/F1Technical) if you have any questions or concerns.*"
         ]
     },
     "Hos much and what, is allowed to be different on the two cars?": {
         "title": "Hos much and what, is allowed to be different on the two cars?",
-        "score": 32,
+        "score": 35,
         "url": "https://www.reddit.com/r/F1Technical/comments/1dqiwg1/hos_much_and_what_is_allowed_to_be_different_on/",
         "content": "The basic principle is that the cars should be identical, except for setup, right? \nBut there are many examples of significant differences between two cars of the same team. Like now, with Gasly and Ocon. So what is allowed? And when is it too much? \nI hope you understand the question, even though its awkwardly formed :)",
         "num_comments": 17,
         "comments": [
-            "This post appears to discuss regulations.\n\n[The FIA publishes the F1 regulations.](https://www.fia.com/regulation/category/110)\n\nRegulations are organized in three sections:\n- **Technical** for the design criteria of the car\n- **Sporting** for how the competition is executed\n- **Financial** for how money is spent \n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/F1Technical) if you have any questions or concerns.*",
             "I don\u2019t think there\u2019s any specific rules on the cars being the same. The budget alone tends to police this, the only differences beyond setup you\u2019ll tend to see is one car getting upgrades first when teams can\u2019t get two sets ready in time.\n\nThe engines are about the only thing that\u2019s mandated to be the same but that\u2019s across every team using a given engine not just within one team.",
-            "No. The formula is a set of parameters which constrain the design of the car. Teams can make any design they like as long as it fits with the parameters. Some parts are prescribed, i.e., wheels and tires. Some parts are highly constrained to the point they are practically identical regardless of who makes them. Other than that, the teams can go wild.\n\nEven within teams , if that's what you are referring to, the teams could run 2 totally different cars if they wanted, but that's totally impractical from a development point of view\n\nThis [wiki](https://en.wikipedia.org/wiki/Formula_One_regulations) gives a nice overview of the main rules.",
             "It would be entirely legal for a team to run two completely different car specs between their two drivers, as long as both met the Technical Regulations. \n\nThe cars are aligned most of the time because, in most cases, the team will feel there's one best way to get performance out of their car, and to keep things fair between the two drivers.",
             "I think the only thing that absolutely has to be substantially the same between drivers (apart from all the standard components) is the livery design. All the other components can be different (though in practical terms the differences between cars are usually very small and driven by practical manufacturing/spares situations)",
             "Not at all. There's no need for the cars to have the same spec. For example, you can see different cars running different parts for the weekend - e.g. new spec wings, upgraded engines, etc.",
             "It\u2019s completely fine for them to be fully different, we see this often with lower tier teams giving one driver an upgrade first.",
-            "We remind everyone that this sub is for technical discussions.\n\nIf you are new to the sub, please [read our rules](https://www.reddit.com/r/F1Technical/about/rules/) and [comment etiquette post.](https://www.reddit.com/r/F1Technical/comments/zlo2qf/comment_etiquette_update/?utm_source=share&utm_medium=web2x&context=3)\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/F1Technical) if you have any questions or concerns.*",
             "Many things are allowed.\n\nFor instance, there are team mates with different brake constructors. (disks/pads/calipers)",
-            "there can be different version of engines"
-        ]
-    },
-    "Engine allocations for the season ": {
-        "title": "Engine allocations for the season ",
-        "score": 3,
-        "url": "https://www.reddit.com/r/F1Technical/comments/1dqx86d/engine_allocations_for_the_season/",
-        "content": "I hear about drivers having 'used up' their engine allocations for the season. And swapping might give them a grid panelty. Does this mean swapping mid weekend or any swap going forward?\n\nI can imagine that they would use all engines in the beginning of the season and keep using the better performing ones for the latter part. Surely if a driver has used up all their engines now, he died have to keep using that exact engine for the whole of the rest of the season?\n\nDoes anyone know how this works? \n\nThanks.",
-        "num_comments": 10,
-        "comments": [
-            "We remind everyone that this sub is for technical discussions.\n\nIf you are new to the sub, please [read our rules](https://www.reddit.com/r/F1Technical/about/rules/) and [comment etiquette post.](https://www.reddit.com/r/F1Technical/comments/zlo2qf/comment_etiquette_update/?utm_source=share&utm_medium=web2x&context=3)\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/F1Technical) if you have any questions or concerns.*",
-            "The different parts of the engine have different numbers of allowed units per season. The internal combustion engine, the battery, the mgu-k, mgu-h, exhaust, etc. the numbers are different, but the concept is the same. For example, you are allowed 4 internal combustion engines for the duration of the season. Max is already on his 4th. As soon as he puts in the 5th, he will take a grid penalty at the next race event. I believe it's a 10-place penalty for the first offence. However, if those engines aren't destroyed but just a little worn out, he can put back in any of the previous 3 engines with no penalty. So he has 4 legal engines he can use. Once he adds a 5th (and takes the penalty), his pool is now 5 engines to use as he pleases with no more penalties. \n\nIt's very common for teams to exceed their allowable components. They will often strategically take those penalties at tracks like spa and Monza where it's easier to pass and make up the places from the grid drop.",
-            "when a driver takes a penalty for a part, say an engine, over the allocation, that engine just gets added to the pool of engines that the driver can use for the rest of the season",
-            "A penalty will be assessed if a team \u201cuses up\u201d 4 of either the block, pistons, con rods, crank and cam shafts and takes a 5th of any components.  So they will \u201creplace\u201dan engine if it\u2019s not performing.  If it can be repaired without touching any of the above parts, it can be reused without penalty.\n\nFrom what I can tell, Max is in his actual 4th meaning he has scrapped 3 of one of the components listed above.  I don\u2019t know though if they can use a frankenEngine meaning random parts from the old 3 or not.  I suspect no, it\u2019s a matched set and once a part grenades it\u2019s just done.\n\nI do know that engine number 3 went to Japan for inspection and the news looks hopeless for it being usable again.\n\nI suspect that Honda (or whoever) will build a \u201cfleet\u201d of engines and Max gets the best 4, then maybe Yuki, etc.  I also suspect the differences in 1st to Last just isn\u2019t that significant.",
-            "There you go. Thanks, it's what I thought. Also makes the statement \"he's on his last engine\" rather useless.",
-            "How is max already on his 4th engine ?",
-            "I don't think they can give them out that way to customer teams anymore - don't have the regs, but I believe it's random",
-            "They just bring all 4 in the pool and rotate. It\u2019s not like the first three are destroyed and he\u2019s on his last one.",
-            "Well there are rules and there are rules\u2026the rest still applies",
-            "just read somewhere one of his lower milage eninges could not be used anymore so next to his current engine he has 2 higher milage engines left en it could be likely he would be taking an engine penalty in Spa"
+            "there can be different version of engines",
+            "You\u2019ve already answered this I think but I\u2019ll ask anyway just to be sure: am I correct in thinking that there\u2019s nothing in the rules (other than the budget cap) stopping a team developing a completely different car from scratch for each driver?\n\nI assume not because I\u2019m sure there\u2019s been examples in the past where a team has run the previous season\u2019s car for the first few races, and then one of the drivers has been given the \u201cnew\u201d car before the second one is ready.",
+            "Wow, I don't know why I thought the two cars of a team have to be the same! Thanks!",
+            "and have the same livery"
         ]
     }
 }

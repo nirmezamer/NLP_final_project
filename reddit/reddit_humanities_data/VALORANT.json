@@ -1,88 +1,97 @@
 {
-    "VALORANT 8.11 Bug Megathread": {
-        "title": "VALORANT 8.11 Bug Megathread",
-        "score": 10,
-        "url": "https://www.reddit.com/r/VALORANT/comments/1dejz8d/valorant_811_bug_megathread/",
-        "content": "Greetings Agents!\n\nNew patch, new Bug Megathread! To avoid bug reports cluttering the subreddit and/or going unnoticed, a Megathread is posted after every patch so users may submit reports in one place. This allows Riot to easily keep track of the bugs by providing a central hub and also allows other users to confirm that they might have encountered the issue as well.\n\n##[**View the Current VALORANT Patch Notes!**](https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-811/)\n\n> ###Official Sources\n\n>> #####[**Submit an Official VALORANT Support Ticket**](https://support-valorant.riotgames.com/hc/en-us/requests/new)\n\n>> #####[**Official Article on VALORANT Error Codes**](https://support-valorant.riotgames.com/hc/en-us/articles/360045619633-Error-Codes-in-VALORANT)\n\n>> #####[**VALORANT Server Status by Region**](https://status.riotgames.com/valorant?)\n\n\n> ###Community Help\n\n>> #####[**Find Additional Help on /r/ValorantTechSupport**](https://reddit.com/r/ValorantTechSupport)\n\n>> #####[**Seek Help In the /r/VALORANT Discord**](https://discord.gg/zGkN8upuf7)\n\n---\n\n# Reporting a Bug\n\n1. A bug will ideally be accompanied with a screenshot or a video. This provides credibility to your report.\n2. Steps to recreate the bugs should be submitted if possible. This helps Rioters recreate the bug and helps them find the cause behind it.\n3. Unformatted, mematic, or joke reports are automatically indexed and may be removed by moderators to reduce the effort needed from Riot to view all reports.\n\n---\n\n# Formatting\n\n[**Reddit Formatting Guide**](https://reddit.zendesk.com/hc/en-us/articles/360043033952-Formatting-Guide)\n\n######When reporting a bug, please provide as much information as you can about your computer.\n\n    - Region:\n    - Type of Bug:   \n    - Description:   \n    - Video / Screenshot:   \n    - Steps to Reproduce:   \n    - Expected Result:\n    - Observed Result:\n    - Reproduction Rate:   \n    - System Specs:\n\nCopy paste the above text as a comment below and fill in your details!\n\n---\n\n\n# Example Bug Report\n\n\u2022 **Region:** EU ^(*<The region you are playing in when you encountered the bug.>*)\n\n\u2022 **Type of Bug:** Matchmaking ^(*<Client Bug, In Game Bug, etc.>*)\n\n\u2022 **Description:** Matchmaking doesn't work properly ^(*<Describe what was the bug that occurred.>*)\n\n\u2022 **Video / Screenshot:** image/video hosting site link ^(*<Example of the bug that occurred.>*)\n\n\u2022 **Steps to Reproduce:** Try to launch a game ^(*<Provide the steps necessary if someone else had to reproduce the bug.>*)\n\n\u2022 **Expected Result:** Match starting ^(*<What should have been the result when you follow the steps mentioned above?>*)\n\n\u2022 **Observed Result:** Getting stuck in infinite queue ^(*<What was the result you obtained when you followed the steps mentioned above?>*)\n\n\u2022 **Reproduction Rate:** 10/10 (happened 10 out of 10 times) ^(*<How successful are you in causing it to occur, out of 10?>*)\n\n\u2022 **System Specs:** Intel i5 Processor, Windows 7, Nvidia Graphics card (insert model number) etc. ^(*<System specifications hardware/software details.>*)\n\n---\n\n*From this Megathread the list of bugs will not be summarized and put up in the main body of the thread. Instead, Rioters go through and log all comments -- don't worry if you submit the 1500th or 3000th comment, they will all be progressively read.*",
-        "num_comments": 65,
-        "comments": [
-            "**Please ensure that your comment is formatted with the template above** and that you have looked to see if your bug has already been reported by another user. Sometimes common bugs have already been listed (and even solutions discussed). Un-formatted or off-topic comments will be removed.\n\n_If you would like to discuss and ask for additional technical support, please head over to /r/ValorantTechSupport!_\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/VALORANT) if you have any questions or concerns.*",
-            "    - Region: Pacific (Mumbai Server)\n    - Type of Bug:   1068  \n    - Description:   Game crashes suddenly with the error that you lost connection  \n    - Video / Screenshot:   \n    - Steps to Reproduce:   Open game, happens on it's own\n    - Expected Result: Game crashes\n    - Observed Result: Game crashed\n    - Reproduction Rate:   100% with this new update\n    - System Specs: Ryzen 5000 series, integrated graphics",
-            "- Region: EU\n\n- Type of Bug: In Game Bug\n\n- Description: It seems like Dizzy is holding Gekko's gun for a moment. (Maybe Gekko's gun was just a few meters away from him and looking down, but still connected to him idk)\n\n- Video: [https://vimeo.com/957420849](https://vimeo.com/957420849)\n\n- Steps to Reproduce: I have no idea. I tried playing Gekko in a custom game, but it didn't work\n\n- System Specs: AMD Ryzen 5 3600X 6-Core Processor, Windows 11, NVIDIA GeForce GTX 1660 SUPER",
-            "- Region: Oceania\n- Type of Bug:   in game\n- Description:   if you fall off the map and die you can't ping the map while dead.\n- Video / Screenshot:   \n- Steps to Reproduce:   fall off the map, press tab, click on map.\n- Expected Result: should ping as normal\n- Observed Result: not able to ping\n- Reproduction Rate:   100%\n- System Specs: doesn't matter",
-            "* Region: EU\n* Type of Bug: In Game\n* Description: Lower Framerates + Abnormally high Game-to-render latency. While this only seems to be minor and not having any impact on the game, some data seems to be misread.\n* Screenshot: [Image](https://imgur.com/xIfS3Ua)\n* Steps to reproduce: Simply boot up the game and be at least in the agent selection, mode + map doesn't matter.\n* Expected Result: Normal latency numbers \n* Observed result: Latency numbers that would result in a 54 year latency delay.\n* Reproduction Rate: 10/10\n* System Specs: AMD Ryzen 7 5800X, Windows 11 23H2, Nvidia GeForce RTX 3080 OC from ASUS, updated on newest drivers with yesterdays patch.",
-            "* Region: APAC\n* Type of bug: Agent selection\n* Description: FPS drop then freezes during agent selection\n* Video / screenshot: N/A I can't record when it freezes haha help\n* Steps to reproduce:\n   * Open VALORANT\n   * Queue to any game mode\n   * Even when not selecting or selecting, FPS drop happens\n* Expected result: should not FPS drop by a lot, should be at least 700 FPS based on stats before patch\n* Observed result: After FPS drop, game freezes and causes \"queue dodge\" when I have no choice but to wait\n* Reproduction rate: Happens 100% during the first game queued, happens not as much as more games queued\n* System specs:\n   * Windows 11\n   * 32gb 5200hz\n   * R9 7900X3D\n   * Radeon 7900 XTX",
-            "- Region: North America\n- Type of Bug: In-game\n- Description: If you are in the process of collecting an ult orb and the spike finishes planting, you can hold the interact key to continue \u201ccollecting\u201d a nonexistent orb.\n- Video/Screenshot\n- Steps to reproduce: have a teammate start planting the spike, start collecting an ult orb, finish planting the spike\n- Expected result: The collection animation ends\n- Observed result: The collection animation does not end\n- Reproduction rate: 100%\n- System specs: doesn\u2019t matter (I have observed this in various versions of the game)",
-            "- Region: APAC\n- Type of Bug: Frame drops during Agent Select\n- Description: In any gamemode with an Agent Select, frames drop significantly to a slideshow and immediately goes back up to normal framerate rapidly\n- Video / Screenshot: \n- Steps to Reproduce: Queue for a game and wait until Agent Select\n- Expected Result: Normal framerate\n- Observed Result: Framerate drops significantly and goes back to normal and vice versa rapidly\n- Reproduction Rate: 10/10\n- System Specs: AMD Ryzen 5 3500, AMD RX560, Windows 11, 16GB DDR4 RAM 3.2GHz",
-            "- Region: BR\n- Type of Bug: In Game bug\n- Description: Bullet tracer issues, setting bullet tracer to off doesn't apply for all guns, only yours, when it\u2019s my own gun/skin, I do not see a single bullet tracer. However, if it is someone else\u2019s gun, or even spectating an ally I would see the bullet tracers even if I have the settings to off\n- Steps to Reproduce: Turn off bullet tracers, get a skin from someone dropped on the floor, shoot it and you'll see bullet tracers\n- Expected Result: Don't see the bullet tracers, even when spectating an ally or shooting any weapon/skin\n- Observed Result: Able to see bullet tracers even when you have it turned off\n- Reproduction Rate: 10/10\n- System Specs: doesn't matter",
-            "Region: US west\nType: controls \nDescription:\nHeads up I\u2019m not sure what causes it but there\u2019s a glitch in the beta that\u2019s keeps u frozen once u leave the buy menu. I think what happened was I bought a gun while also voting no on a surrender and it broke it but I\u2019m not sure. I would just be careful doing too many inputs at once. \nExpected results: able to buy and vote surrender\n\nObserved results: frozen locked out of your controls\n\nReproduction rate: unsure not willing to test it since I don\u2019t want to get penalized \n\nSystem specs: PS5 beta"
-        ]
-    },
     "VALORANT Console Limited Beta Megathread": {
         "title": "VALORANT Console Limited Beta Megathread",
-        "score": 759,
+        "score": 793,
         "url": "https://www.reddit.com/r/VALORANT/comments/1dfpxse/valorant_console_limited_beta_megathread/",
         "content": "### Greetings Agents!\n\nToday the VALORANT Console Limited Beta officially launches and codes are released. This thread will act as a megathread for sharing codes, discussing the release, and finding help as players begin their console journey.\n\nPlease be sure to check the below resources first if you have any questions.\n\n---\n\n###[VALORANT Console Beta Main Page](https://beta.playvalorant.com/en-gb/)\n\n###[VALORANT Console Beta FAQ](https://playvalorant.com/en-gb/news/game-updates/console-beta-faq/)\n\n###[VALORANT Console Limited Beta Support Guide](https://support-valorant.riotgames.com/hc/en-us/articles/29205299064595-VALORANT-Console-Limited-Beta-Guide)",
-        "num_comments": 14937,
+        "num_comments": 15445,
         "comments": [
-            "\n# !!!!!!!!! Do not accept any requests for payment via PMs. Please report any users trying to sell codes. !!!!!!!!!\n\n\nMonetary transactions are **not permitted**. Attempts to sell or buy codes will be met with a ban. We do not want any users being scammed during this launch.",
             "if anyone wants to share codes to each other if some of us get lucky just reply",
             "I only have one friend to play with so if i get a code ill be sure to share the extras here\n\nEdit: I didnt get a code. Good luck friends",
-            "Let me in!!!",
             "I like to imagine thousands of Valorant players frantically checking their email",
-            "[removed]",
             "I don\u2019t have any friends on Xbox so I\u2019ll give 4 codes on Xbox ! \ud83e\udd1d",
-            "I'm the only one with PS5 among my friends. If I'm lucky, I will have 4 codes to give out. Stay tuned.\n\nPs. I'll prioritize SEAsia, Asia and Oceania compatriots.\n\nPss. Looks like I'm probably not getting it. Only available for US, Canada, EU and JPN. RIP. Please share amongst yourselves.",
             "Codes are still not out yet, 1PM PT or 4PM eastern if you on the east coast. Sorry I have to say for the 10,000th time but yeah. Also be weary of sending complete strangers on X your Riot ID for codes. I try to be optimistic but some people online are no good liars. Have patience everyone, better to wait and have peace of mind\u2026 than to be scammed or hacked.",
-            "**XBOX PLAYER THREAD POST**: All players looking for Codes. Reply under message. All players looking to support players by giving them codes also post here. UPVOTE THIS TO REACH TOP!"
+            "I hope I get one. I played Valorant on PC but I could never get mouse and keyboard feeling natural, so I'm hyped. I will also share any extra codes I get.",
+            "I\u2019ll share the code if i get it, hopefully someone else will with me if i don\u2019t!",
+            "LETS MAKE A MEGA POST: UPVOTE THIS FOR ALL PEOPLE WHO STILL NEED XBOX CODES!",
+            "Could share 4 codes if I get an invite. If not, I would need one :)",
+            "I\u2019m desperate for one! Do we know if they already got released?"
         ]
     },
-    "Welcome back, Iso (Art by me @NikkiKaji)": {
-        "title": "Welcome back, Iso (Art by me @NikkiKaji)",
-        "score": 809,
-        "url": "https://i.redd.it/32d98csgf08d1.png",
+    "VALORANT 9.00 Bug Megathread": {
+        "title": "VALORANT 9.00 Bug Megathread",
+        "score": 19,
+        "url": "https://www.reddit.com/r/VALORANT/comments/1do7rbt/valorant_900_bug_megathread/",
+        "content": "Greetings Agents!\n\nNew patch, new Bug Megathread! To avoid bug reports cluttering the subreddit and/or going unnoticed, a Megathread is posted after every patch so users may submit reports in one place. This allows Riot to easily keep track of the bugs by providing a central hub and also allows other users to confirm that they might have encountered the issue as well.\n\n##[**View the Current VALORANT Patch Notes!**](https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-811/)\n\n> ###Official Sources\n\n>> #####[**Submit an Official VALORANT Support Ticket**](https://support-valorant.riotgames.com/hc/en-us/requests/new)\n\n>> #####[**Official Article on VALORANT Error Codes**](https://support-valorant.riotgames.com/hc/en-us/articles/360045619633-Error-Codes-in-VALORANT)\n\n>> #####[**VALORANT Server Status by Region**](https://status.riotgames.com/valorant?)\n\n\n> ###Community Help\n\n>> #####[**Find Additional Help on /r/ValorantTechSupport**](https://reddit.com/r/ValorantTechSupport)\n\n>> #####[**Seek Help In the /r/VALORANT Discord**](https://discord.gg/zGkN8upuf7)\n\n---\n\n# Reporting a Bug\n\n1. A bug will ideally be accompanied with a screenshot or a video. This provides credibility to your report.\n2. Steps to recreate the bugs should be submitted if possible. This helps Rioters recreate the bug and helps them find the cause behind it.\n3. Unformatted, mematic, or joke reports are automatically indexed and may be removed by moderators to reduce the effort needed from Riot to view all reports.\n\n---\n\n# Formatting\n\n[**Reddit Formatting Guide**](https://reddit.zendesk.com/hc/en-us/articles/360043033952-Formatting-Guide)\n\n######When reporting a bug, please provide as much information as you can about your computer.\n\n    - Region:\n    - Type of Bug:   \n    - Description:   \n    - Video / Screenshot:   \n    - Steps to Reproduce:   \n    - Expected Result:\n    - Observed Result:\n    - Reproduction Rate:   \n    - System Specs:\n\nCopy paste the above text as a comment below and fill in your details!\n\n---\n\n\n# Example Bug Report\n\n\u2022 **Region:** EU ^(*<The region you are playing in when you encountered the bug.>*)\n\n\u2022 **Type of Bug:** Matchmaking ^(*<Client Bug, In Game Bug, etc.>*)\n\n\u2022 **Description:** Matchmaking doesn't work properly ^(*<Describe what was the bug that occurred.>*)\n\n\u2022 **Video / Screenshot:** image/video hosting site link ^(*<Example of the bug that occurred.>*)\n\n\u2022 **Steps to Reproduce:** Try to launch a game ^(*<Provide the steps necessary if someone else had to reproduce the bug.>*)\n\n\u2022 **Expected Result:** Match starting ^(*<What should have been the result when you follow the steps mentioned above?>*)\n\n\u2022 **Observed Result:** Getting stuck in infinite queue ^(*<What was the result you obtained when you followed the steps mentioned above?>*)\n\n\u2022 **Reproduction Rate:** 10/10 (happened 10 out of 10 times) ^(*<How successful are you in causing it to occur, out of 10?>*)\n\n\u2022 **System Specs:** Intel i5 Processor, Windows 7, Nvidia Graphics card (insert model number) etc. ^(*<System specifications hardware/software details.>*)\n\n---\n\n*From this Megathread the list of bugs will not be summarized and put up in the main body of the thread. Instead, Rioters go through and log all comments -- don't worry if you submit the 1500th or 3000th comment, they will all be progressively read.*",
+        "num_comments": 118,
+        "comments": [
+            "Region-mumbai\nBug- voice chat gets disabled every agent selection lobby \nDescription- at the launch of the game it works in party vc but as i start the game in agent selection it gets disabled. Neither i can hear them nor they. Sometimes it works in agent selection and early rounds of the match but after 6-7 rounds it gets disabled automatically. Pls give a solution for this issue.  I am facing it  from last patch",
+            "This error splash screen make me tired. Please fix it as soon as posible. This is new act i wanna grind.... I hope i can go radiant this episode..",
+            "Not really a bug but on the new map Abyss when the map is set to \"Fixed, Always the same side\" attackers spawn is on the upper part of the map. A site is on the left side, and B is on the right. On every other map attacker spawn is on the bottom and A is on the right side.",
+            "enemy neons highlight color is a weird blend of red and yellow. I have enemy highlight color set to yellow. She comes sprinting out with her head yellow but her body is red. anyone know a fix?",
+            "Same issue not same specs",
+            "I'm having the exact same issue. I have the same GPU.",
+            "I have the same issue, did anyone find a workaround?",
+            "Could you zip up %localappdata%\\\\valorant\\\\saved\\\\logs and send it my way?",
+            "~~Same exact issue. Reinstalling the game did NOT fix the issue~~ I fixed it with my latest comment",
+            "Solution doesnt work for me Region: Europe"
+        ]
+    },
+    "2 Second Valorant Round": {
+        "title": "2 Second Valorant Round",
+        "score": 432,
+        "url": "https://v.redd.it/c5ybwha3dh9d1",
         "content": "",
-        "num_comments": 44,
+        "num_comments": 15,
         "comments": [
-            "Don't worry people, many are wondering where Chamber's participation is.\n\nHe's under the wheels of the car, run over. Now Viper is reversing to finish the job \ud83d\udc80",
-            "WELCOME TO ELO HELL, MUTHAFUCKA!",
-            "His 2-week prime will be remembered",
-            "draw jett and chamber in the backseat looool",
-            "Hmm, still oppressive,  but much more manageable. He's getting the Jett Dash treatment, and I don't think it's enough to push him back into obscurity, but enough to stop him from dominating.",
-            "This is really good(artwork)",
-            "Technically he\u2019s **ISO**lated in the car with Viper\n\n^(im sorry)",
-            "he's still really good though?????",
-            "as someone who is out of the loop, what did they do to viper?",
-            "I love your artstyle man,"
+            "Fnatic manager yadda yadda you know the drill...",
+            "isn't this a world record?",
+            "Thats the craziest ace i've ever seen ngl",
+            "mans was blinded for a second n came back to an ace",
+            "my type of luck when i play one game to chill before work\ud83d\ude02\ud83d\ude02 seriously this is insane thi",
+            "I think it is. In the clip you linked it looks like you can see the timer go from 1:37 to 1:36 right before the round ends, in OP's clip you don't see that. So probably faster by literally a fraction of a second.",
+            "Why are your comms off",
+            "Don\u2019t see 1:36 in that clip, but when comparing the two videos it\u2019s easy to see this one IS slightly faster\u2026 world record indeed.",
+            "insane",
+            "Crazy clip, well done!"
         ]
     },
-    "Yoru and Iso cosplay by me and my bf \ud83d\udc9c": {
-        "title": "Yoru and Iso cosplay by me and my bf \ud83d\udc9c",
-        "score": 27,
-        "url": "https://i.redd.it/frqz64gu148d1.jpeg",
-        "content": "I wanted to share me and my boyfriends Yoru and Iso cosplay with you! This is definitely one of my favourite valorant cosplays I have done to date \ud83d\udc99 \n\nYoru: https://www.instagram.com/brookiku?igsh=czB5bmVnZmdweXpl&utm_source=qr\n\nIso: https://www.instagram.com/ethn_dzn?igsh=MWJ2ZWF4M3EybmV5NA==\n\nphotographer: https://www.instagram.com/gepard79?igsh=MWQ3eDMzM3Q4YmdlcA== ",
-        "num_comments": 1,
+    "My dad disowned me for getting the new bundle.": {
+        "title": "My dad disowned me for getting the new bundle.",
+        "score": 3211,
+        "url": "https://www.reddit.com/r/VALORANT/comments/1dqpitm/my_dad_disowned_me_for_getting_the_new_bundle/",
+        "content": "I was playing valorant as usual, while dad was walking across my room he noticed the teddy bear reloading the ghost , he commented \"wtf is this gay shit\", i mistakenly admitted liking and buying the new  bundle, he said \"  is that what you spent my money on, get out of my house you f'ing  furry\". I am still  trying to get back to the house but i still can't convince my dad that i am not a furry. I will update you later.\n\n  \nUpdate: He still doesn't believe me but he decided to give me a chance, i am now back home and we agreed i won't shave my beard for the next 3 months as part of my rehabilitation.",
+        "num_comments": 192,
         "comments": [
-            "that's sick"
+            "well atleast riot statement of \"we want to make skins for every possibility\" is going good",
+            "he shoulda disowned u for playing valorant to start with",
+            "I absolutely can not tell if this is legitimate or not.",
+            "the amount of people taking this as real is concerning",
+            "I bought the vandal skin, and I have been giving it away to my teammates telling them it has the power of friendship. I am on a win streak with almost no kills.",
+            "I too bought the bundle\u2026. Yes he is right\u2026. But nothing is more insulting than getting beat over the head with a wand from Sailor Moon.\n\nAlso, I am sorry if that actually happened.",
+            "jokes aside. this bundle is not for me",
+            "Atleast you don\u2019t need to worry about having to change the litter box if you\u2019re stuck outside. \n\nGlass half full",
+            "Back in my day we used the pinkest girliest skins and wore them as a badge of honor.",
+            "I was playing valorant as usual, while dad was walking across my room he noticed the teddy bear reloading the ghost , he commented \"wtf is this gay shit\", i mistakenly admitted liking and buying the new bundle, he said \" is that what you spent my money on, get out of my house you f'ing furry\". I am still trying to get back to the house but i still can't convince my dad that i am not a furry. I will update you later.\n\nUpdate: He still doesn't believe me but he decided to give me a chance, i am now back home and we agreed i won't shave my beard for the next 3 months as part of my rehabilitation."
         ]
     },
-    "Flaming in Unrated is Cringe": {
-        "title": "Flaming in Unrated is Cringe",
-        "score": 116,
-        "url": "https://www.reddit.com/r/VALORANT/comments/1dlmbib/flaming_in_unrated_is_cringe/",
-        "content": "Pearl is back in the unrated pool and I played my first ever game on Pearl. When I started playing Pearl and haven were out of the pool.\n\nBefore the game even started I said over voice \"hey guys I haven't played this map yet bare with me\"\n\nThe Rayna on the team bailed in the first round so it was a 4v5 all game. We started on attack and we were even all the way up to the switch. At these point our Sova had 30+ kills and the Jett had 13 kills and I had 9 but I didn't get anymore because I somehow defended the wrong site everytime and because I still don't know the map well my rotation was slow\n\nNow the Jett decided they want to start talking shit. \n\nIn ranked I understand you grind all day and now someone is playing bad and it's going to lower your rank but unrated are you so unstable that you can't have fun when you are losing a no stakes game where people are clearly trying to learn.\n\nAlso I am pretty sure my Sova was cheating I'm not sure how but he always pinged exactly where the enemy was every round. A couple times and I can call it good game sense but evertime was a bit suspicious.\n\nSorry to rant but I just find it crazy that my unrated matches have been more toxic than my ranked matches. Anyone else experience this?",
-        "num_comments": 30,
+    "clove got a silent buff i guess \ud83e\udd37\u200d\u2642\ufe0f": {
+        "title": "clove got a silent buff i guess \ud83e\udd37\u200d\u2642\ufe0f",
+        "score": 447,
+        "url": "https://v.redd.it/zhrgrjgs6f9d1",
+        "content": "",
+        "num_comments": 21,
         "comments": [
-            "Happened to me in swiftplay today, just mute them, there's no escaping it.",
-            "unrated and swiftplay, im usually just playing to chill or knock out challenges, so i usually mute everyone off the rip. in ranked i'll keep it unmuted unless there is some weirdness or toxic shit happening.",
-            "Flaming in anything is cringe.",
-            "a lot of people never touch ranked so unrated is their ranked.  and they treat it like vct finals or some shit.  just mute them and move on.",
-            "Just play Swiftplay. Any toxicity can only last 9 rounds at most, and you get to cycle through and familiarise yourself with more maps.",
-            "It's so painful being a brand new player and having to get to level 20 through unrated before being able to play ranked. I understand why, but damn.",
-            "I am coming back into FPS after 20 years not seriously playing. I was good when Action Quake 2 and Half Life DM where the things to play.\n\nThe ratio I get when I am playing poorly is about 1:4 of advice or help versus toxic assholes asking if I'm a girl or telling me to stop playing\n\nWe knew maybe half the people who played regularly in person, back in the day. One server based out of Christchurch, so that probably helped. Now if they aren't in your party, everyone is a stranger so that doesn't help. But I dunno if I want my kids playing this game because of the attitudes and language they will get exposed to. I can't police them to keep comms off all the time.\n\nEveryone started somewhere",
-            "If you flame in any mode other than Competitive, that says a lot about your character",
-            "Just yesterday somebody was so tilted in spike rush that they left the game. Its sad, what some people in the community have come to",
-            "I don't ever get the point to call out that u are new or don't know something, feel like for the ppl that flame it opens up the floodgates and besides if we are spectating we can tell but yes getting tilted in anything than comp is stupid"
+            "Looks like Reyna\u2019s dismiss but more invisible lol.",
+            "I main Clove and the past couple days I've noticed some weird stuff- like I'll go to throw a smoke, and the orb will disappear from my hand, but it won't deploy my smoke and the little butterflies will just be flying around my palm.",
+            "I\u2019m dead ass in a game rt now against a clove and that happened to me wtf!",
+            "\"Immortality wasn't enough, so I trained myself to clip in and out of reality.\"",
+            "Oh so this is why all of a sudden I don't suck with her ult, makes a lot of sense",
+            "Do you like your Oni Vandal?",
+            "Bro got the reyna buff",
+            "Was it your internet? Your ping seems to have spiked. I didn't see it properly but it felt like it.",
+            "Apparently it's possible to cancel ult by pressing the ult button a second time, I suspect that's what happened here. (I've not tried this as Clove)",
+            "You were dead anyways breach got u from the side."
         ]
     }
 }

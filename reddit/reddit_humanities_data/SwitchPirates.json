@@ -1,7 +1,7 @@
 {
     "r/SwitchPirates Moderator Application": {
         "title": "r/SwitchPirates Moderator Application",
-        "score": 10,
+        "score": 12,
         "url": "https://www.reddit.com/r/SwitchPirates/comments/1cdv339/rswitchpirates_moderator_application/",
         "content": "SwitchPirates is now recruiting new mods for the subreddit! \n\nWe are looking for people who are highly active on reddit and are willing to handle reports/posts that do not follow the subreddit rules. There will be no bias handling the rules and we want them applied to all users and post as-is regardless of personal opinions/relationships/experiences/etc.  \n\nPlease only apply if you are willing to and are able to regularly read through comments/post throughout the day. To apply, simply dm your responses to these following questions to the subreddit modmail: \n\n1. Do you have any prior experience moderating a forum or subreddit? If so can you provide more information such as the type of forum/subreddit, your duties, and any other relevant information?\n2. How often are you active on reddit?\n3. Any other reasons we should pick you over other applicants?\n\nOnce again, we are specifically looking for neutral people who can apply the rules fairly and equally and who use reddit often compared to other social services. ",
         "num_comments": 0,
@@ -9,7 +9,7 @@
     },
     "PSA: Paper Mario: The Thousand-Year Door has leaked": {
         "title": "PSA: Paper Mario: The Thousand-Year Door has leaked",
-        "score": 245,
+        "score": 250,
         "url": "https://www.reddit.com/r/SwitchPirates/comments/1cxzn6q/psa_paper_mario_the_thousandyear_door_has_leaked/",
         "content": "Leaked roughly 13 hours ago.\n\n**Reminder that asking for or providing links is against the rules and the team will be handing out bans.**\n\nAs always with game leaks, this will be the main thread for discussion of the game. I encourage the use of spoiler tags.\n\nExample: \n\n    >!Spoiler goes here!<\n\nOutputs as >!Spoiler goes here!<",
         "num_comments": 187,
@@ -19,11 +19,11 @@
             "Think there will be a way to force 60 fps on emulator? Idk if I wanna play there or on console yet",
             "I'm a relatively new switch modder and have only installed games using freeshops. This will be my first time using DBI since my 3DS days. But oh well, I just found it so wish me luck!",
             "A LOT of people seeding right now too which is great.",
-            "[removed]",
             "Excellent, just checked and it's up on most good private tracker torrent sites as well.\n\nDownloading now",
-            "Running it on ROG Ally now on latest Yuzu build before shutdown.\n\nPlays normal with some missing/not loaded textures.\n\nWhen progressing into the sewer in the tutorial, the game goes to black screen. Can still be played but can not progress without seeing the moving platform.\n\nEdit: Same issues with Ryujinx except for missing/not loaded shaders. It does better in that regard.\n\nRYUJINX UPDATE CAME OUT. IT FIXED THE BLACK SCREEN.",
             "Yep been playing it since evening last night",
-            "Yay I have been playing the GameCube version on my legion go up resolution but playing it even higher will be amazing can't wait to play it on the 1600p screen it's going to look beautiful im sure"
+            "Yay I have been playing the GameCube version on my legion go up resolution but playing it even higher will be amazing can't wait to play it on the 1600p screen it's going to look beautiful im sure",
+            "Been playing for a couple of hours and had two crashes. Anyone else?",
+            "Most sites have uploaded it by now"
         ]
     },
     "OFW not booting after turning on nintendo switch with no sd card": {
@@ -33,10 +33,10 @@
         "content": "https://preview.redd.it/1aie8pmgp39d1.png?width=791&format=png&auto=webp&s=0ec8503963c6b591420e4670b9090016f1ac106a\n\nidk why it was removed",
         "num_comments": 5,
         "comments": [
-            "this.\n\npress and hold + and powerbutton for 21 seconds, then let go and tap power button.\n\nyour switch is stuck in firmware mode",
             "The OFW working woth a partition in SD, obviusly dont work without. You need a compatible SD with the archives for CfW",
             "You're supposed to be able to boot OFW using the method that OP used, with or without an sdcard.",
             "Nah, because OFW works jump e-fuse security system and emulate with atmosphere. Op try my solution.",
+            "this.\n\npress and hold + and powerbutton for 21 seconds, then let go and tap power button.\n\nyour switch is stuck in firmware mode",
             "It absolutely is supposed to work to boot to ofw/sysnand without sd card when pressing vol+/-.\n\nI do it all the time.\n\nOP when you say \u201cstuck\u201d, how long did you wait? I\u2019ve had that happen to me once before, and I had to hard reboot the switch I.e hold power switch for 15 seconds to force shut down.\n\nIt was fine after that."
         ]
     },
@@ -52,30 +52,30 @@
             "First thing that comes to mind is either a bad dump or a bad install. Try uninstalling and reinstalling from a different source if you can since your save will carry over if it's the same update version.",
             "you could try installing updates for the game",
             "This is usually the correct answer to these errors! \ud83d\udc4d\ud83c\udffb",
-            "worked for me before",
-            "This \u261d\ufe0f",
             "Do you have a list of known program numbers would be great to help people trouble shoot errors (or did you just happen to know this one in particular).",
             "I googled the Number and found out what it was haha",
-            "Yeah fair enough hahaha could have probably done the same lol"
+            "Yeah fair enough hahaha could have probably done the same lol",
+            "worked for me before",
+            "This \u261d\ufe0f"
         ]
     },
     "I have a question: how can I recover game saves, e.g. Zelda Botw, which I played before jailbreaking the console? I have saves from it on my older sd card so do I need to extract it? And what do I have to do to get back my game saves that I bought digitally?": {
         "title": "I have a question: how can I recover game saves, e.g. Zelda Botw, which I played before jailbreaking the console? I have saves from it on my older sd card so do I need to extract it? And what do I have to do to get back my game saves that I bought digitally?",
-        "score": 2,
+        "score": 3,
         "url": "https://www.reddit.com/r/SwitchPirates/comments/1dpoat9/i_have_a_question_how_can_i_recover_game_saves_eg/",
         "content": "I hope someone can help me, thank you in advance for helping :)",
         "num_comments": 12,
         "comments": [
             "All saves are in your internal system when using the stock (normal system) since Nintendo doesn\u2019t allow save backup without paying for their service. You should just be able to boot back into your sysnand and extract the old save.",
-            "Boot to syscfw, open up JKSV from Homebrew menu, backup saves. Boot back to emu, restore saves.\n\nIdk if you can backup saves of uninstalled games though.\n\nSaves are saved in internal memory by the way.",
             "Do you mean even if I play on EmuMMC but game saves are still in the stock system? I have game never played in stock system and when I boot to it, the game doesn't show up?",
             "What about the game saves on EmuMMC?",
             "Yup this is what I did\n\nRegarding uninstalled I did it for a game that I had a cartridge for but not in the console so maybe \ud83e\udd1e",
-            "You can backup saves from games you've uninstalled there saved in different areas unless you've completely removed the ticket with tinfoil(or manually removed them)it should still see them",
             "I'm new to this and it's really overwhelming, it seems very complicated, let me know if you could help me, thanks :)",
             "I am having a similar issue that my SD card corrupted, and I can't boot. I still can access files on sd card using laptop and try to figure out a way to backup my saves on EmuMMC\u00a0",
             "Depending on your setup, it's either in emu hidden partition or inside a file. But it's in the sdcard, so in this case you will need the sdcard inserted.",
-            "He said before he jailbreak the switch so it has to be in your stock system, therefore in your internal memory. Games played in the emunand are save to the SD partition and is not connected to your stock saved games."
+            "He said before he jailbreak the switch so it has to be in your stock system, therefore in your internal memory. Games played in the emunand are save to the SD partition and is not connected to your stock saved games.",
+            "Hekate allows you to make your EmuNAND be an exact copy of your sysNAND as of the time of creation. So as long as you do it that way (which if I recall correctly is how the most popular modding guide instructs you to make the EmuNAND in the first place) your  digital gams and saves will already be there. You'll just need to apply sigpatches so that the games can actually boot.",
+            "To the SD partition where the emunand is stored"
         ]
     }
 }

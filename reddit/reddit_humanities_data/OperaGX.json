@@ -1,44 +1,54 @@
 {
+    "Sidebar: The whatsapp chat window is completely black.": {
+        "title": "Sidebar: The whatsapp chat window is completely black.",
+        "score": 3,
+        "url": "https://i.redd.it/lqpkccvymh9d1.png",
+        "content": "",
+        "num_comments": 3,
+        "comments": [
+            "Having the same problem.  \nI tried to revert to a previous version of Opera GX from last month and it had the same problem.  \nHope they fix it soon.",
+            "same",
+            "Reset entire chache"
+        ]
+    },
+    "Que h\u00e9roes": {
+        "title": "Que h\u00e9roes",
+        "score": 0,
+        "url": "https://youtube.com/shorts/yJfo4aFMCe4?si=l2U3-hgca9SScKuk",
+        "content": "Joder",
+        "num_comments": 0,
+        "comments": []
+    },
+    "Max size for animated wallpaper?": {
+        "title": "Max size for animated wallpaper?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/OperaGX/comments/1dr8eg6/max_size_for_animated_wallpaper/",
+        "content": "Hi all,\n\nI recently made a custom animated WebP wallpaper which I want to use as the wallpaper for my browser Speed Dial. I have made similar backgrounds before with this method, and they have worked perfectly fine. However, when I click on the file to add it to the wallpaper collection, it doesn't seem to add to the collection. I have a feeling this is because my file is too big (483 MB). As such, I wanted to ask if there is a maximum size allowable for such wallpapers on Opera? Googling this question has provided no real answers unfortunately.\n\n  \nThanks yall.",
+        "num_comments": 3,
+        "comments": [
+            "hello my friend,\n\nI tried the first method and unfortunately that doesn't work even when i changed the name. \n\nI have tried the second method before, but I wasn't aware i needed the png file of the first frame. Can that picture be anything, or does it specifically need to be the first frame?",
+            "It can be anything.\n\nIf you need an example of the persona.ini and first_frame setting, install one from <https://addons.opera.com/en/wallpapers/?tag=animated>, goto the URL ```opera://about```, take note of the \"profile\" path, goto the \"Themes\" folder in the profile folder and extract the zip file for the wallpaper.",
+            "Not sure if there's a file-size and or resolution limit.\n\nAre you talking about just a webp file that you add by going to the URL ```opera://settings/opera-gx```, setting \"Wallpaper\" to custom and clicking \"Add your wallpaper\"? If so, make sure the filename doesn't have any parentheses in it.\n\nOr, did you create a wallpaper package (zip file with the webp file, the first_frame.png file and a persona.ini file that references them in it)? If so, what's your persona.ini look like?\n\nOr, did you create a mod (like the ones at <https://store.gx.me/mods/> that has an animated wallpaper (using the webp file) in it?\n\nAlso, after you set the webp wallpaper, did you goto the URL ```opera://settings/opera-gx``` and keep clicking the left arrow for \"All wallpapers\" till you get to the front to see if your wallpaper is there so you can select it?"
+        ]
+    },
+    "profile not getting added to desktop?": {
+        "title": "profile not getting added to desktop?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/OperaGX/comments/1dr4116/profile_not_getting_added_to_desktop/",
+        "content": "ok so recently i made a new profile and found out that it just wasn't showing up in the desktop, so to spare anyone else the brainrot i went through just click on the restore icon button on the manage profiles page\n\nhttps://preview.redd.it/4y16hbao6g9d1.png?width=1199&format=png&auto=webp&s=d3f3fef40d264eef06de395a26d8325680ed601d\n\nedit: the image didn't attach itself last time\n\n",
+        "num_comments": 1,
+        "comments": [
+            "By default, a shortcut won't be created on the desktop anymore. It'll just be pinned to the taskbar. But, starting with Windows 11 23H2, you have to have Notifications turned on in settings in Windows so that you get a notification asking if you want to pin the taskbar button. If you never get the notification, things won't be set up right. But, once they are, \"Restore icons\" will indeed add a desktop icon. \"Restore icons\" will also show a notification asking for permission *if* the pinned taskbar icon is gone.\n\nSo, the first thing to do is to go to System -&gt; Notifications and turn on notifications. Then, if Opera is in the list of apps there, might sure notifications for it are enabled and click the &gt; at the end to make sure the settings for Opera's notifications are correct.\n\nNow, if you're running an insider build of Windows 11 24H2, some others have said that the creation of profiles is broken there (probably due to some changes in Windows). But, I can't test myself."
+        ]
+    },
     "Any site related to opera gx just isn't loading at all on my computer.": {
         "title": "Any site related to opera gx just isn't loading at all on my computer.",
         "score": 1,
         "url": "https://www.reddit.com/r/OperaGX/comments/1dr6e3y/any_site_related_to_opera_gx_just_isnt_loading_at/",
         "content": "GX itself just says failed to reach site, and if I try the same site on Firefox, it says a secure connection can't be reached. My VPN is disconnected so that isn't the issue... and even opera's own AI on their site just gives up with a failed to fetch error. What's going on?",
-        "num_comments": 0,
-        "comments": []
-    },
-    "Windows and Mac browser RAM usage comparison for 2024": {
-        "title": "Windows and Mac browser RAM usage comparison for 2024",
-        "score": 2,
-        "url": "https://www.reddit.com/r/OperaGX/comments/1dr1343/windows_and_mac_browser_ram_usage_comparison_for/",
-        "content": "I done this test because I could not find a recent data set with every browser I use compared together.\n\nThese amounts were found out by visiting the top 10 most visited sites according to Brave Search data:\n\nGoogle.com, Youtube.com, Facebook.com, Amazon.com, Wikipedia.org, Instagram.com, eBay.com, Apple.com, Reddit.com and Yahoo.com\n\nAll websites had accounts signed in and all browsers used either Ublock Origin or the browsers native ad block (Safari used Adguard for Mac) Ad blockers were the only extensions enabled and private mode were turned on for all browsers to ensure the least amount of personal data was shared with the sites.\n\nThere are 2 sets of numbers, and they are categorized by High and Average. High is the max amount of ram found to be used during the testing and average is well the average amount found during testing. Testing time was 4 minutes per site.\n\nNow the numbers:\n\n|Browser|Windows High (MB)|Windows Avg (MB)|Mac High (MB)|Mac Avg (MB)|\n|:-|:-|:-|:-|:-|\n|Chrome|1603|1444|2219|1966|\n|Edge|1703|1437|2328|2048|\n|Brave|1471|1288|1874|1798|\n|Firefox|2308|2143|3239|3077|\n|Vivaldi|1698|1463|2213|1906|\n|Floorp|2439|2125|3681|3414|\n|DuckDuckGo|2497|2327|3827|3513|\n|Arc|1427|1273|1876|1670|\n|Opera/Opera GX|1723|1545|4075|3810|\n|Safari|-|-|2480|2213|\n\n*Note: Safari is exclusive to Mac. Sites were visited at the same time on each browser.*\n\n*Machine for Windows: Surface Laptop 3 with Intel Core i5-1035G7 CPU @ 1.20GHz, 8 GBs of RAM*\n\n*Machine for Mac: MacBook Air Late 2020 with Apple M1, 8 GBs of RAM*",
-        "num_comments": 0,
-        "comments": []
-    },
-    "profile not getting added to desktop?": {
-        "title": "profile not getting added to desktop?",
-        "score": 1,
-        "url": "https://www.reddit.com/r/OperaGX/comments/1dr4116/profile_not_getting_added_to_desktop/",
-        "content": "ok so recently i made a new profile and found out that it just wasn't showing up in the desktop, so to spare anyone else the brainrot i went through just click on the restore icon button on the manage profiles page\n\nhttps://preview.redd.it/4y16hbao6g9d1.png?width=1199&format=png&auto=webp&s=d3f3fef40d264eef06de395a26d8325680ed601d\n\nedit: the image didn't attach itself last time\n\n",
-        "num_comments": 0,
-        "comments": []
-    },
-    "Problems siging in": {
-        "title": "Problems siging in",
-        "score": 1,
-        "url": "https://www.reddit.com/r/OperaGX/comments/1dr1u3m/problems_siging_in/",
-        "content": "I try signin in to opera but every time i try to go through google or the sync way it just brings me to the create your account page. Every time i try the normal way my password was wrong and when i went to reset it, it tells me link expired after i just sent the link to change it to my email",
-        "num_comments": 0,
-        "comments": []
-    },
-    "Application not starting correctly": {
-        "title": "Application not starting correctly",
-        "score": 2,
-        "url": "https://i.redd.it/dr0plrza6e9d1.png",
-        "content": "So I have restarted my pc, un-installed, and even renamed the autoupdate file like I have seen in multiple cases but nothing has worked. Anyone got any other ideas?",
         "num_comments": 1,
         "comments": [
-            "Try this https://forums.opera.com/topic/40064/solved-cannot-start-opera-0xc0000022-error"
+            "Are you in [one of these countries](/r/operabrowser/wiki/opera/known_issues/#wiki_some_countries_block_the_opera.com_domain)?"
         ]
     }
 }

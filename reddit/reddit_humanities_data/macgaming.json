@@ -1,86 +1,69 @@
 {
     "M1 Mac Up-to-date Game Compatibility List": {
         "title": "M1 Mac Up-to-date Game Compatibility List",
-        "score": 1267,
+        "score": 1271,
         "url": "https://www.reddit.com/r/macgaming/comments/t44vqc/m1_mac_uptodate_game_compatibility_list/",
         "content": "TLDR: [THE LIST!](https://www.applegamingwiki.com/wiki/M1_compatible_games_master_list)\n\nThis is the latest, open and most up-to-date list of games that are compatible with the M1 Mac, whether it uses the original M1 chip or the M1 Pro or M1 Max. Compatibility is broken down to Native ARM, Rosetta 2, iOS, CrossOver or Parallels.\n\nThe wiki is free to add information to, you can edit any page without an account. If you have any questions please read the [Editing guide](https://www.applegamingwiki.com/wiki/AppleGamingWiki:Editing_guide) or come to the [Discord](https://discord.com/invite/28CAAr6SpB).",
-        "num_comments": 411,
+        "num_comments": 414,
         "comments": [
             "There is a Mac version of Hades in Steam, which for me runs flawlessly. I'm assuming Steam counts as \"Native\"?",
-            "Boot camp was a simple utility to permit easy booting of Windows x86/64 on Intel Macs. \nApple has since moved from Intel Macs to Apple Silicon.  Apple Silicon can\u2019t (natively) run Windows 10 for Intel. \nApple Silicon can (natively) run Windows 10 for ARM (via Parallels and a download of Windows 10 ARM Edition), and then within Windows 10 ARM Edition, Microsoft includes an X64 emulator (and now a x86 32 bit emulator too, I think) to emulate and run Windows 10 x86/64 apps (ie standard Windows apps).  But just be aware you\u2019re running MacOS, running the Parallels app, running Windows for ARM, and then using a Microsoft emulator to emulate X86/x64 on ARM.  That\u2019s a LOT of work.  While I\u2019ve done this, and it does work (on an 8GB M1 Air), I see it more as a crutch, rather than as something to use for full-time use. \n\nMaybe with the Apple Studio and many-cores, and those apps in Windows 10 (x64/x86) that are multi-threaded, maybe the experience will improve.  But \u2018even\u2019 with Apple Studio, the per-core speed hasn\u2019t improved - one just gets more of them.",
-            "Great list! I've also built a simple site to find compatible Mac games along with their metacritic score and completion time:\n\n[macgameslist.com](https://macgameslist.com)\n\nYou can filter by genres and by Apple Silicon native games. The data used is mostly from applegamingwiki and applesilicongames, as well as personal testing (mostly to verify).\n\nI'm also trying to see if we can petition devs to port highly demanded games to Mac (see the most wanted games page).",
             "It would be good to add API to that list (OpenGL / Metal) so we can see which games we won't be able to play in 2024.",
-            "Wasteland 3 does not run well on M1 Pro/Max. There is an issue that the devs are aware, but say can only be fixed once apple and Unity work on the issue.   \n\n\nI updated the list =(",
             "Im considering to coming back to wow. The game seems to run flawless and smooth on M1x chips",
             "Sorry, not sure how to go about editing the list but I\u2019d like to inform that 7 Days to Die (7D2D) had a recent developer update through Steam and is now fully playable native on M1 MBP Pro Max. \n\nI\u2019ve maxed out the graphic settings and logged at least 5 hours with no issues so far.",
-            "This is too funny. MacOS on ARM now supports 10000x more windows games than Windows11 on ARM",
-            "I noticed these were not confirmed in the Native column, I have played all of them on an M1 MacBook Air natively without issue:\n\n- Mount and Blade Warband (I've even modded this one with great success)\n\n- Total War Napoleon\n\n- Total War Empire\n\nAlso I was able to successfully run Star Wars Jedi Knight: Jedi Academy \"natively\" using [Mac Source Ports](https://macsourceports.com/game/swjkja). Big shoutout to the person on the list who suggested this option and confirmed it works for Jedi Outcast for the inspiration.",
-            "The Game Porting Kit has blown a hole wide open for new games to run. I hope the community continues to update the wiki with their results. Happy gaming everyone!"
+            "The Game Porting Kit has blown a hole wide open for new games to run. I hope the community continues to update the wiki with their results. Happy gaming everyone!",
+            "any good  rpg for air m1 8gb ?",
+            "This list should either be properly updated or unpinned.",
+            "I'm not sure if this is possible but it would be awesome to have the feature added enabling one to to sort games by date added and/or modified. This would enable users who frequent the list to easily see new additions and potential compatibility updates.",
+            "crossover is amazing software. so worth it.",
+            "Do the games working on M1 work on M2 as well?"
         ]
     },
-    "DXMT, a new open-source Metal translation layer, runs NieR: Automata": {
-        "title": "DXMT, a new open-source Metal translation layer, runs NieR: Automata",
-        "score": 161,
-        "url": "https://github.com/3Shain/dxmt/discussions/7",
-        "content": "",
-        "num_comments": 22,
+    "Please go and buy great games!!": {
+        "title": "Please go and buy great games!!",
+        "score": 76,
+        "url": "https://www.reddit.com/r/macgaming/comments/1dr12s1/please_go_and_buy_great_games/",
+        "content": "Like the title says go and buy great games like resident evil , nine sols, grid legends, no man\u2019s sky, and especially lies of p ! Because if you buy these they will make more mac ports!! Lies of p was actually released together in all consoles including mac ! Therefore I am encouraging y\u2019all to buy that game! The best way to get more games on mac is buy more games on mac!!!\n",
+        "num_comments": 47,
         "comments": [
-            "Cool progress!",
-            "Some very impressive work here,  building a shader converter that targets LLVM IR in such a way that the metal driver is happy to suck that up and use it is very impressive (MoltenVK from my understanding does not attempt this instead creating a txt representation of shaders and compiling them from source JIT).",
-            "Amazing!!!",
-            "Nice callout to dxvk's origins :)",
-            "they really combined dmt and dxm\ud83d\ude02\ud83e\udd28",
-            "Please make this support SteamVR on Mac somehow",
-            "That was the first game that worked in dxvk so pretty good",
-            "Can you explain why the effort? What is the advantage to gptk, wine, whisky?",
-            "Can it run on 8gb of ram if capped at 30fps?",
-            "lol what? Nier Automata  was working perfectly a couple of months ago on crossover. Tested it."
+            "I\u2019ve been playing Resident Evil 4 on my Mac Mini and it looks amazing!",
+            "\ud83e\udee1\n\nI agree, Mac-ports will only be considered by publishers if the community is willing to buy them.",
+            "I recently got Lies of P for my mac. Works very well on my MacBook Pro (M3 Pro). Best $42 I've ever spent. lol.",
+            "To never play them ever later",
+            "Only if the macOS version of those games will be available on steam",
+            "How does No Mans Sky play on Mac compared to Xbox? I have watched my friend play on his Xbox and looks great. Will it look better on Mac? I have the M3 pro 18gb model. Thanks",
+            "It\u2019s okay, I have the majority of them on Xbox",
+            "its the best time right now!! steam sales\n\nI got Valheim, Metro Exodus and Redux, Dying Light and the Tome Raider Trilogy",
+            "I have a M2 Air 8 gb, what all games will play smoothly in this spec?",
+            "How do they run on m2 macbook air (8gb)?"
         ]
     },
-    "Cyberpunk 2077 Path Tracing FSR3 M3 Max": {
-        "title": "Cyberpunk 2077 Path Tracing FSR3 M3 Max",
-        "score": 18,
-        "url": "https://youtu.be/ZXsaWkyAOYI",
-        "content": "",
-        "num_comments": 6,
+    "Whisky + Shadow of Erdtree DLC Worked Great on M1 Pro!": {
+        "title": "Whisky + Shadow of Erdtree DLC Worked Great on M1 Pro!",
+        "score": 36,
+        "url": "https://v.redd.it/dmzi7f7ske9d1",
+        "content": "Amazed that this worked so well! Unfortunately didn't record much, but I just finished the final boss of the DLC. \n\nHad to play with online off so missed out on the fun messages and co-op.\n\nTotally playable on low settings. Very rarely had some stuttering in one or two areas, but not on bosses. ",
+        "num_comments": 2,
         "comments": [
-            "Seeing how much I can push the ray tracing on the M3 Max. Granted, this isn't really a true test, as the multiple layers of translation, running through 2 sets of beta software, are hurting the performance. Have to use an FSR3 frame gen mod to get it to a playable frame rate. The frame gen causes a lot of artifacts. Usually in the bottom 25% of the screen while driving but easily noticeable anywhere with quick camera movements. Tested this with a lowered resolution, but high graphic settings. It is certainly playable like this, but not ideal. The ray / path tracing can get very noisy, but can look pretty damn impressive at times. One of the best showings of the path tracing comes in at the end. The orange fluorescent light that spreads out and fills the alcove, that gets broken up by lighter store signs, looks, mostly okay. I'm not sure if some of the floor tiles are a hard cut off for the ray bounces, or if they are actually a different color. Hopefully, the non max versions of the M4 chips can pull off RT performance like this. I feel like they might already have some solid hardware, that just needs some more fluent software. The frame graph is hilarious...",
-            "We are nearing rog ally level performance levels on a few thousand dollar machines, what a time to be alive /s",
-            "Wow that\u2019s damn impressive dude. Might try this out. I have the same system as yours",
-            "Thanks for sharing my very good dude! but TBH this kind of look awful? I mean the game. I have zero clue on how frame generation and path tracing work so I'm an absolute noob here. What are the frame rates when you push up the resolution?\n\n2 things that realy stood out:\n\n- The way the image reconstruct from a cloud of dots, exactly like real time editing in Blender. Is it due to path tracing?\n- Is it common for frame generation to miss 25% of the bottom of the frame like that, or do you think it's a software issue with the mod?\n\nAnyway, thank you very much for your post. Very informative.",
-            "When I bought a Steam Deck is when I completely gave up on Mac gaming. I\u2019ve saved a lot of money on my Mac purchases because of that. I\u2019m happy there\u2019s progress but I\u2019m out for good.",
-            "The thing is even if the performance is good the experience is pure garbage, the way ui reacts for full screen stuff is just atrocious"
+            "What fps to expect on m1 max 32, 32 on slightly above 1080p with a mixture of high and medium?",
+            "In my m2 pro 16gb 10/16 I get 45-55 in high settings, but with cracked crossover."
         ]
     },
-    "What free native multiplayer fps games are there on Mac now that csgo is no longer an easy option?": {
-        "title": "What free native multiplayer fps games are there on Mac now that csgo is no longer an easy option?",
-        "score": 5,
-        "url": "https://www.reddit.com/r/macgaming/comments/1dls6ip/what_free_native_multiplayer_fps_games_are_there/",
-        "content": "",
-        "num_comments": 9,
-        "comments": [
-            "Combat master is probably the only decent working multiplayer fps game. It\u2019s a ported mobile game but it still works",
-            "I have hopes that XDefiant could come to MacOs as a native game considering that ubisoft is lately bringing the Assassins Creed games.",
-            "Well,                Is available ! Best game ever",
-            "Wolfenstein Enemy Territory can be played on macOS with ETLegacy.\n\n\u00a0https://www.etlegacy.com/",
-            "There is [Zero Grounds](https://store.steampowered.com/app/2402450/Zero_Grounds/). It has antigravity mechanics.",
-            "It's fun",
-            "I agree with this. Been playing for a few months. Its good times. I've found a few glitches. But overall its a great game.",
-            "I doubt it'll happen because of Battle eye anticheat. They'd have to convince those guys to support Mac",
-            "Hadn't thought about that. If they do it'll be great. Not sure if the game works on crossover"
-        ]
+    "Gaming on VMware ": {
+        "title": "Gaming on VMware ",
+        "score": 2,
+        "url": "https://www.reddit.com/r/macgaming/comments/1dr9xgi/gaming_on_vmware/",
+        "content": "Hello someone know if game like Counter-Strike 2 run good on VMware because I am interested in the MacBook Air M3 and now we can have VMware for free if it is for personal use ",
+        "num_comments": 0,
+        "comments": []
     },
-    "Free Games on GoG": {
-        "title": "Free Games on GoG",
-        "score": 9,
-        "url": "https://www.reddit.com/r/macgaming/comments/1dlof43/free_games_on_gog/",
-        "content": "For those who like old classics (+ one new)\n\n*  Flight of the Amazon Queen: [https://www.gog.com/en/game/flight\\_of\\_the\\_amazon\\_queen](https://www.gog.com/en/game/flight_of_the_amazon_queen)\n* OpenTTD (Transport Tycoon Deluxe): [https://www.gog.com/en/game/openttd](https://www.gog.com/en/game/openttd)\n* Beneath a Steel Sky: [https://www.gog.com/en/game/beneath\\_a\\_steel\\_sky](https://www.gog.com/en/game/beneath_a_steel_sky)\n* Lure of the Temptress: [https://www.gog.com/en/game/lure\\_of\\_the\\_temptress](https://www.gog.com/en/game/lure_of_the_temptress)\n* Ultima 4 (Quest of the Avatar): [https://www.gog.com/en/game/ultima\\_4](https://www.gog.com/en/game/ultima_4)\n* Jill of the Jungle: [https://www.gog.com/en/game/jill\\_of\\_the\\_jungle\\_the\\_complete\\_trilogy](https://www.gog.com/en/game/jill_of_the_jungle_the_complete_trilogy)\n* Samorost 1 (not new but free and worth mentioning): [https://www.gog.com/en/game/samorost\\_1](https://www.gog.com/en/game/samorost_1) \n\n",
-        "num_comments": 4,
+    "What are some good games playable on RPCS3?": {
+        "title": "What are some good games playable on RPCS3?",
+        "score": 3,
+        "url": "https://www.reddit.com/r/macgaming/comments/1dr6vvi/what_are_some_good_games_playable_on_rpcs3/",
+        "content": "Hi, I have a base MacBook Air (M2, 8GB ram) and I want some good playable games for RPCS3. By playable there shouldn't be any audio bugs, no major visual bugs and runs at least like a PS3 in terms of performance. Thanks in advance!",
+        "num_comments": 1,
         "comments": [
-            "Beneath a steel sky is great old skool game.",
-            "cool, how do you find these?",
-            "Yes, great classic on par with several of those by LucasArts Games",
-            "On [gog.com](http://gog.com) click on \"Store\" -> Browse All Games -> All Games for Mac.  \nThen in the left menu filter choose \"Show only free games\""
+            "Haven't tested on m2 air but the original pvz is great multiplayer game to play with a buddy, but he has to be near you or you have to use parsec"
         ]
     }
 }

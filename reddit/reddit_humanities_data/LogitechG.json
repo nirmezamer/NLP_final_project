@@ -1,52 +1,62 @@
 {
     "Battery Percentage in GHUB": {
         "title": "Battery Percentage in GHUB",
-        "score": 8,
+        "score": 13,
         "url": "https://www.reddit.com/r/LogitechG/comments/1diuh4y/battery_percentage_in_ghub/",
         "content": "We have identified an issue that may cause the reported battery percentage being incorrectly displayed in G HUB for some of the following headsets:\n\nG533  \nG733  \nG933/G933S  \nG935  \nPro X Wireless\n\nPlease note this situation affects the reporting of the battery, but not the battery of the headsets itself.\n\nWe are actively working on a fix for the next update as part of our ongoing effort to resolve any product issues that arise.\n\nA temporary workaround is possible following these steps : \n\nStep 1: If the device is charging, unplug the charging cable  \nStep 2: Unplug the receiver, wait for a couple of seconds and reconnect it  \nStep 3: This will help to display the actual battery percentage.\n\nWe appreciate your patience and understanding as we tackle this issue head-on and we will keep you updated.\n\nDo not hesitate to reach out for support to our Customer Service team (at [https://support.logi.com/hc/en-us](https://support.logi.com/hc/en-us) ) if you experience any further problems.\n\nCheers!\n\n",
-        "num_comments": 3,
+        "num_comments": 8,
         "comments": [
+            "you can also close the g hub application, run it again and then it shows the correct percentage (G733)",
+            "my g935 is being reported as \"inactive\" despite being on and able to play sound",
             "where do you see the exact battery percentage in ghub? all i see is the battery condition.",
-            "I literally can't find out the charge of my headphones. Jumps from 48 to 99%. delusion. I will never buy products from Logitech again. Such critical bugs in the software should be solved quickly.",
-            "It would be nice if you actually fixed g hub so it would open. I have tried every \" fix \" and still can't get it to open. Basically bought a mouse I cant even use"
+            "It would be nice if you actually fixed g hub so it would open. I have tried every \" fix \" and still can't get it to open. Basically bought a mouse I cant even use",
+            "the battery percentage is constantly wrong for both my keyboard and mouse. also, the RGB for both is completely broken on the new G HUB software. I have been forced to find a use the 2021 version of G HUB that I found in this sub-reddit actually. y'all really need to simplify this app down and make it easier to use while working correctly. really infuriating spending all this money on keyboards and mice for them to not work right since i got them.\n\nALSO, my F2 key IS CONSTANTLY YELLOW, the dynamic lighting windows setting or something interferes with G HUB and random keys on my keyboard just stay lit as yellow and its just so obnoxious. can yall please update the software this shit has been going on for too long",
+            "Its been glitched for ages the battery percentage in ghub its so wrong and doing those steps only last until ya shut down ya pc then restart then its back to glitching out i got a g935 btw",
+            "No, it doesn't work anyway. There was a charge of 14%, restarted - 99%. I restarted it again - 2%. We need to wait for the update.",
+            "[http://puu.sh/K9STy/6f84cde755.jpg](http://puu.sh/K9STy/6f84cde755.jpg)"
         ]
     },
-    "G Pro X Superlight side button not working/need to put more force to work.": {
-        "title": "G Pro X Superlight side button not working/need to put more force to work.",
-        "score": 4,
-        "url": "https://www.reddit.com/r/LogitechG/comments/1dlo52v/g_pro_x_superlight_side_button_not_workingneed_to/",
-        "content": "Sensor works fine, i can move the mouse without any issues.  \nIts just the side buttons dont work correctly all the time.  \nSometimes it registers twice with 1 button press. At times  \nI have to press harder one the lower side button for it to work.\n\nWhat I tried:  \n1. Updating the firmware  \n2. Unpairing and pairing dongle/mouse  \n3. Changing it  \n4. Different computer.\n\nI have this mouse since 2022.\n\nAnyone had this? Is there a simple solution for it?",
+    "which one is better?": {
+        "title": "which one is better?",
+        "score": 25,
+        "url": "https://i.redd.it/g91mshoiad9d1.png",
+        "content": "",
+        "num_comments": 40,
+        "comments": [
+            "I would say the 535 are at least 103 better than the 432. Plus two G's, you can't really argue with facts.",
+            "Well, do you want a wired or a wireless one?",
+            "5 is a higher number so go for that",
+            "both kinda suck imo. logitech headphones are pretty ass from my experience",
+            "I went from the G430 to a G535 and I gotta say I prefer the comfort of the G430 but the sound of the G535 is better.",
+            "I got the G432\u2019s recently cause my old G230\u2019s from 4 years ago finally gave in. Was thinking of getting the G535 too, but all Logitech wireless headsets I\u2019ve had in the past started having issues with the wireless connection after some time, so I decided on the G432\u2019s. So far so good, they are comfortable and sound good. The only thing is they\u2019re a bit of tight and leaving red marks around my ears after prolonged wear, but this is cause my head is big and they will stretch out after a while like akin models always do.",
+            "I'm currently wearing the G432's (bottom one) whilst typing this message. The audio itself is amazing, however from my experience the built in mic breaks long before the headphones do so I'd consider a standing mic alongside it? \n\nTLDR: I own the G432, they're very good headphones, I don't know about the other pair",
+            "I\u2019ve had 432 for years and years until one day they just broke. They\u2019re very light and sound is good as far as I remember. The only issue I\u2019ve had that the cable from headphones to the volume slider was sooo bloody long it was ridiculous. It\u2019s like 2m to the slider and then another 2 m to usb. Long cable is good, but I remember thinking why the hell is not the slider higher. I didn\u2019t have the other one so can\u2019t judge. Just throwing my 2 cents in.",
+            "wireless is better at least to me. i hate wires",
+            "Depending on your budget I would look at purchasing an Antlion Audio ModMic Wireless on Amazon. It's $140 bucks USD but you can pair it with any pair of headphones and it sounds like a podcasting microphone. However, I used to have a pair of G432's for work and they were awesome if you're sticking with either of those two."
+        ]
+    },
+    " logitech g pro x wireless headset Battery charging issue": {
+        "title": " logitech g pro x wireless headset Battery charging issue",
+        "score": 1,
+        "url": "https://www.reddit.com/r/LogitechG/comments/1drb6k5/logitech_g_pro_x_wireless_headset_battery/",
+        "content": "Is it common for the battery of my Logitech G Pro X Wireless headset to drain and power off even while it's charging and in use",
         "num_comments": 0,
         "comments": []
     },
-    "G PRO X Wireless White noise": {
-        "title": "G PRO X Wireless White noise",
+    "G Hub question about transfering profiles": {
+        "title": "G Hub question about transfering profiles",
         "score": 1,
-        "url": "https://www.reddit.com/r/LogitechG/comments/1dluu6o/g_pro_x_wireless_white_noise/",
-        "content": "I just bought a G PRO X Wireless, and the headset does not stop reproducing a kinda loud white noise, even when the dongle isnt connected to any audio source, is there any fix to this issue?  \nI did not see any reviews talking about it, and other then this issue the headset works flawlessly.",
-        "num_comments": 2,
-        "comments": [
-            "mic sidetone maybe?",
-            "I wish, it happens with/without mic. And with sidetone enabled/disabled"
-        ]
-    },
-    "G Pro Wireless and GHub issues": {
-        "title": "G Pro Wireless and GHub issues",
-        "score": 1,
-        "url": "https://www.reddit.com/r/LogitechG/comments/1dlu6xr/g_pro_wireless_and_ghub_issues/",
-        "content": "Been having multiple issues:\n\n1. Despite not opening games G Hub software keeps changing my DPI settings at random.  \n2. Re-installed GHub which is now stuck on the Logitech animated logo.  \n3. G Pro Wireless reporting low battery despite being 90%+ charged. \n\nAny fix suggestions would be greatly appreciated. ",
+        "url": "https://www.reddit.com/r/LogitechG/comments/1drakmn/g_hub_question_about_transfering_profiles/",
+        "content": "Hello  \nRecently purchased the G502 X and upgrading from a G402 hyperion after several years. My issue is that i have profiles loaded and customized for the G402 for a lot of my games, and i want to transfer these profiles so that the 502X will follow them.   \nIs there a native tool/function in GHub that let's me \"copy-paste\" the profiles of old mouse to new mouse ? been clicking around for 30mins and cant find anything. \n\nThanks !",
         "num_comments": 0,
         "comments": []
     },
-    "Will light settings carry over from Windows to Linux?": {
-        "title": "Will light settings carry over from Windows to Linux?",
+    "Logitech G102 Lightsync": {
+        "title": "Logitech G102 Lightsync",
         "score": 1,
-        "url": "https://www.reddit.com/r/LogitechG/comments/1dlu3oy/will_light_settings_carry_over_from_windows_to/",
-        "content": "I have a G715 keyboard and I\u2019m planning to dual boot Linux soon (and use it as my daily system)\nWill my RGB settings carry over? I don\u2019t care for profiles etc, I use one of the premade animations all the time. If I set it through G Hub in Windows, will the animation stay when using Linux?",
-        "num_comments": 2,
-        "comments": [
-            "I found behaviour seems to vary depending on your BIOS. Settings may or may not be remembered between power cycles. \n\nHowever:\nhttps://github.com/MatMoul/g810-led\nAnd\nhttps://github.com/keyleds/keyleds\n\nI use the first option - but you may need to investigate further if you want animation.\n\nEdit: I see the first option can control animated effects too, so maybe that's all you need. I also see g810-led in some repos - so depending on your choice of distro it may be a simple install.",
-            "You could use inboard mode.\nI think this was the goal with sign in profiles in g hub but I've never used it so can't comment properly"
-        ]
+        "url": "https://www.reddit.com/r/LogitechG/comments/1dra2y1/logitech_g102_lightsync/",
+        "content": "I just bought this mouse and after i installed Logitech G Hub but it dosent get detected. \n\nI tried everything i saw on this sub. \n\nReinstalling the app, changing the usb sockets, drivers update, nothing...",
+        "num_comments": 0,
+        "comments": []
     }
 }

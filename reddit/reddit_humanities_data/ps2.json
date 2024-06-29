@@ -1,0 +1,92 @@
+{
+    "Monthly PlayStation Tech Support and Frequently Asked Questions Megathread": {
+        "title": "Monthly PlayStation Tech Support and Frequently Asked Questions Megathread",
+        "score": 100,
+        "url": "https://www.reddit.com/r/ps2/comments/v1jhyi/monthly_playstation_tech_support_and_frequently/",
+        "content": "#  This is the thread where subscribers should bring their PS2 issues. \n\n**New users, please read the entire  FAQ. You may find your question is already answered here.** \n\n&#x200B;\n\n&#x200B;\n\n# How do I install homebrew on my PS2?\n\n[**FreeDVDBoot**](https://github.com/CTurt/FreeDVDBoot) **(Prefered way, does not support all PS2's yet.)**\n\nPlayStation 2 DVD Player Exploit. This allows you to burn your own PlayStation 2 homebrew discs and play them on an unmodified console as seen in the [demo video](https://www.youtube.com/watch?v=ez0y-hz3VuM). With uLaunchELF as the initial program, users can include multiple homebrew programs on the same disc.\n\nRead from [here](https://github.com/CTurt/FreeDVDBoot#easy-setup-for-all-ps2-slim-consoles--bravia-tv) if you have a Slim PS2.\n\nRead from [here](https://github.com/CTurt/FreeDVDBoot#phat-consoles) if you have a Phat PS2.\n\n# I have a modern tv, how do I make my PS2 Look the best?\n\nI recommend [this video](https://youtu.be/brMW6KFue-I) by My Life In Gaming\n\nTL:DR If your tv supports it, use component cable, you can do a search on any online store for \"PS2 Component cables\" and you should get some good results. \n\n#  How Do I make my ps2 region free?\n\nTry [Swapmagic](https://en.wikipedia.org/wiki/Swap_Magic), You'll have to search for a disk though. \n\n# Can I play  PS1 backups using the Free DVD Exploit/FreeMcBOOT? \n\nNo\n\n\"Due to the way the hardware is designed, it is not possible to use native hardware on backup copies without modifying the hardware (e.g. installing a modchip).\n\nSo forget about USB/HDD + FMCB + native backwards compatibility. It is simply not possible because of the architecture. Also no \"partial\" native backwards compatibility.\n\nAs long as you stick with software based modding, there is nothing else you can do to use the native hardware for PS1 backup games. That is just the way it works.\"-/u/laughms\n\n&#x200B;\n\nAs more common Questions come in, I'll update this thread as time goes on.",
+        "num_comments": 1835,
+        "comments": [
+            "Could I move memory card data from an emulator onto a usb, and from that usb, to a memory card on a ps2?",
+            "My left joystick won't return to the middle whenever it's moved. Help?",
+            "This thread is honestly so dumb. Please can you just stop this horrible idea",
+            "I have a phat PS2 and the laser finally gave up the ghost. Ordered a replacement of the same laser model and installed it. It\u2019s not doing anything. Just spins. I can see the laser focusing and eventually become a pin point but never loads disks.  If I put a ps1 or CD PS2 game it will jerk three-five times but never fully spin. Any ideas? Also, I did remove the solder strap",
+            "Can anybody install homebrew for me to my HDD for me I don\u2019t have a pc",
+            "Hi! I have recently tried fixing my PAL ps2 slim. I have a disc read issue with my ps2 slim and I believe the problem might be something with the dvd laser potetiometer. I have scavanged the internet for answer without luck to finding out what i should try setting it to (ohms). My model number is \"75004\".\n\nEdit: My dvd ohms is currently at 750 or something close to that",
+            "\nI got a Fat Ps2 SCPH-50004 that won't read GT4 or blue disks.  \nWhen i got it, it wouldn't boot any disks, so i got a dry ear cleaning stick (i know i should have done it with isopropyl alcohol but i don't have any on me) and slightly touched the laser. Then it booted every game except a pretty scratched (not that much tho) Gt4, so i bought a new one and Midnight club 1 and 2. And here we are today, Gt4 and Midnight club 1 still doesn't work but Midnight club 2 does. Any ideas how to fix that? I looked for anything to regulate the laser but i couldn't find anything.",
+            "Hi there. So basically, I used Mechapwn to change my european 7000 version ps2 slim into a japanese console (still retail not dev) so I could play my authentic copy of Nights into Dreams. Thing is, when I put the disc into the console, it'll show up in the browser as \"Playstation 2 Disc\", and upon booting it I'm met with a black screen for a few seconds and then I fade back into the browser. It's the same result no matter how many times I try doing it, and I've already tried cleaning out the laser in case that was the issue. Anyone have any ideas as to why this is happening? Thanks a ton :)",
+            "Hi - PS2 SCPH 30001 recognizeds PS2, PS1, DVD discs but does not boot them. Once I click on the disc to load, the screen fades to black and then immediately returns to the browser screen. Any help would be appreciated Thanks!",
+            "When my ps2 boots up it gives the menu when there is no disk even though there is a disk inside."
+        ]
+    },
+    "Knowledgeable about the PlayStation 2? Consider contributing to the community console modding, repair, and restoration wiki!": {
+        "title": "Knowledgeable about the PlayStation 2? Consider contributing to the community console modding, repair, and restoration wiki!",
+        "score": 45,
+        "url": "https://consolemods.org/wiki/PS2:PS2_Mods_Wiki",
+        "content": "",
+        "num_comments": 5,
+        "comments": [
+            "Hey what is going on? Why can't I see any comments on here?",
+            "Awesome I\u2019ll have to give it a look over once I get some time, I\u2019d be happy to contribute what I can.",
+            "I'm trying to make a freemcboot memory card, but I'm stuck at the freedvdboot step.\n\nI have a slim PS2 model number: SCPH-70004\n\nI know of the issues the slim model has with the laser, and was wondering if that's also the case here. Because dvd and cd games both work. But all dvd5 and dvd9 films I've tested won't. I don't have any double layered dvd games to try.\n\nI've cleaned the laser but this hasn't worked.\n\nDoes anyone know how to fix this or what the issue might be?",
+            "Which resistor or how much resistance is on point 27? pic:  https://circuit-board.de/forum/index.php/Attachment/186222-IDE-PS2-Slim-SCPH-700XX-jpg/?s=0946fe4f25288e75abcb9702246d840f89270908",
+            "Hi! Some time ago I bought a Hyperkin PS2 cable. It worked great, until recently. Now I'm having these weird color problems, that sometimes pop up. I'm not sure whether it depends on the brightness or specific color of what's being displayed at the moment in-game, or if it's just completely random.\n\nAs you can see in the link (I can't attach a video to this post), the problem is that sometimes the display flickers and adds this red or pink-ish \"filter\" to the whole picture. This problem comes up with other games, as well as the console's system menu.\n\nCan anyone help me determine if it's a fault of one of the cables, the Hyperkin itself or the power adapter?\n\nI'm attaching the recording of the screen below:\nhttps://youtu.be/jwvGduSbnSE?si=p4mXcxDoTDVlscW8"
+        ]
+    },
+    "Which one should I play first? \ud83e\udd14": {
+        "title": "Which one should I play first? \ud83e\udd14",
+        "score": 95,
+        "url": "https://i.redd.it/1r2he6gjrf9d1.jpeg",
+        "content": "don\u2019t mind the single ps1 game lol",
+        "num_comments": 80,
+        "comments": [
+            "Hit and Run or gta liberty city stories",
+            "ALWAYS Road Rage, all day, every day",
+            "Hit & Run is definitely a rare breed, fun but high stakes.",
+            "Metal gear solid all the way",
+            "Metal gear over there tucked in the corner",
+            "I haven't seen an original copy of Blood Money in a looooong time. Still my favourite Hitman (even though the modern trilogy is suuuuper good too)",
+            "Call of Duty 2, Hit&Run and Hitman Blood Money",
+            "I see metal gear solid over there.",
+            "Can't believe I haven't seen someone say Narnia yet",
+            "Tiger Woods PGA Tour '06 is the only choice obviously."
+        ]
+    },
+    "Which do you prefer?": {
+        "title": "Which do you prefer?",
+        "score": 144,
+        "url": "https://i.redd.it/q6xuzrt6me9d1.jpeg",
+        "content": "",
+        "num_comments": 62,
+        "comments": [
+            "I haven\u2019t played either yet. \n\nHow are they?",
+            "unreal tournament. but, the best arena shooter for the PS DOUBLE is Red Faction 2",
+            "Both excellent games. But they shine the most on PC due to movement mechanics",
+            "I sunk countless hours in Unreal Tournament.",
+            "UT everyday. quake 3 was good but unreal tournament was juat better",
+            "Don't have a preference, have, love and play both quite often!",
+            "One of those is mouse and keyboard compatible but I don't remember which one",
+            "Unreal Tournament. I owned it. I\u2019m not crazy about either though.",
+            "On PC there\u2019s no better retro FPS than UT. But on console probably Quake.",
+            "In my brain, if you must play on a console, UT should be played on a PS2 and then Q3 on a Dreamcast."
+        ]
+    },
+    "Best Friday score of all time?": {
+        "title": "Best Friday score of all time?",
+        "score": 75,
+        "url": "https://www.reddit.com/gallery/1dqwczp",
+        "content": "Grabbed this for 20 bucks, literally shaking right now. ",
+        "num_comments": 18,
+        "comments": [
+            "Def Jam inside was just icing on the cake.",
+            "What model SCPH is it?",
+            "Nice! I recently got one from eBay from a seller that claimed it was broken, but really they just didn't know how to plug in the S-Video cable. Came with 1 controller, 1 memory card, S-Video cable, and power cable. Console itself was in great shape. All for $33.99.",
+            "wow..i thought it was just the controllers..nice score",
+            "Now that's a score \ud83d\ude01",
+            "Damn Fight for NY is a steal I have it for my original Xbox and it\u2019s not cheap!",
+            "My jealousy is only rivaled by my envy",
+            "Last time I checked (at least a year ago or more) Def Jam was worth like $100. So yea, hell of a score.",
+            "Very good deal, I bought my pre owned PS2 a couple of years ago for $40, two controllers and 4 games I think. But they were all crap games lol",
+            "nice and for an extra $40-50 you can set it up to have like every game you want."
+        ]
+    }
+}

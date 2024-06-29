@@ -1,70 +1,75 @@
 {
+    "Does localsend compress images": {
+        "title": "Does localsend compress images",
+        "score": 2,
+        "url": "https://www.reddit.com/r/androidapps/comments/1dr8rug/does_localsend_compress_images/",
+        "content": "",
+        "num_comments": 3,
+        "comments": [
+            "It just for sending files, why would it compress the files?",
+            "Srry I'm not tech savy, just asking to make sure"
+        ]
+    },
     "Which abandoned apps do you all still use (which don't have any alternative) ?": {
         "title": "Which abandoned apps do you all still use (which don't have any alternative) ?",
-        "score": 79,
+        "score": 86,
         "url": "https://www.reddit.com/r/androidapps/comments/1dqi21f/which_abandoned_apps_do_you_all_still_use_which/",
         "content": "For me it is andro search , index based search app more useful than sesame search",
-        "num_comments": 115,
+        "num_comments": 135,
         "comments": [
-            "I'm down to one device that can still use ES File Explorer 2.5, and it also has Wallpaper Changer that let's me change wallpaper to my preferences - though it can't do different ones on different screens.\n\nI was just telling my son the other day that at least in my experience, updates tend to break functionality more than they add useful features.\n\nI used to love having random logon screens I could customize in Linux. As well, the ability to have all those cool compiz effects. Compiz now ain't near as robust, cool stuff wise.",
-            "**Iconzy**, a search-only icon pack, it'll index all icons from all installed icon packs so you can search them by name. Useful if you want to mix-match icons, especially to cover the ones not available in other icon packs. Though the only launcher so far that support Iconzy and treat it as an \"Icon Pack\" is Nova Launcher lol.\n\n**App Dialer**, when opened it'll present you with T9 style keyboard where you can type app name (or just the number with that app's letter) and it'll present the matching apps. There's newer one AppDialer 11 by same developer, a bit pricey though, but since the old one still works, I won't buy the latest one yet.",
-            "Historial of purchased apps at the play store \n\n[Purchased Apps](https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=735419&key=6b867fcaa71db053018122563cd3e5a03546f418)\n\nNot avaliable anymore at the play store.",
-            "Reddit is Fun",
             " Titanium Backup Pro and Link2SD Plus on my rooted Samsung Galaxy J3 Pro (China Telecom version), I have been able to use my phone with 16GB of internal memory for over 6 years because of them!",
-            "I used to use an app called S Converter all the time until I got a new phone and can't find it anymore. It was a free unit conversion app, super clean UI, material design, all of the units in a particular group of measurement would update as you were typing with no extra pop up windows for input or confirmation buttons before getting results. If you wanted measurements for distance, you could just type a 1 into meters and you'd get an instant conversion to every other distance measurement they had. It was so nice. \n\nTechnically there are alternatives but they all take so much longer to get results. You have to navigate several menus just to get to an input, then you have to select the desired units you want to convert to, confirm your inputs, repeat the process for every other conversion. They simply don't compare\n\nHere's a promo video for it\n\nhttps://youtu.be/wTtyOcZQEkc?si=6QU93Eqb2R3ghPZJ",
             "Better open with, because I'm still on android 10",
-            "Calibre Companion. Calibre Sync is 90% there (and has some features CC lacks) for regular use, but Calibre Companion is much more usable on e-ink.",
+            "Calibre Companion. Calibre Sync is 90% there (and has some features CC lacks) for regular use, but Calibre Companion is much more usable on e-ink.\n\nEDIT: I have actually tried to buy the rights to Calibre Companion for the purpose of taking it open-source, but the current owner's Mobileread account is inactive. If you know how to get in touch with them please let me know.",
             "Appdialer Pro.\n\nI'm still using the depreciated version,  you can pry it out if my cold dead hands. I've not looked but I'm sure the dev made a newer version and charging the big bucks for it but I'm sticking with the old one that works.",
-            "[Flyperlink](https://www.apkmirror.com/apk/flyperinc/flyperlink/): An app that opens web pages as individual, floating bubbles, without interrupt my workflow. \nBesides, I can read those pages at my convenience, and easily switching different pages between them with a click on each bubble."
+            "Google Podcasts. I liked that app so much that I am thinking about coding a clone. Not saying it's going to be easy, but should be doable.",
+            "ImgurViewer has been abandoned, anyone wants to pick it up? \u2639\ufe0f\n\nBtw not abandoned, but I still use Nova Launcher 6 since forever because I didn't like where the newer versions were going. Still works well even tho it's a bit long in the tooth.",
+            "What do you search in there, I have universal search in Nova launcher, and it is really amazing. I like the universal search in Smart Launcher better than Nova.",
+            "HD Widgets\nI have yet to find another clock widget app that has that level of customization.",
+            "I used Minuum until 2021.",
+            "Palabre RRS reader/Feedly client...nothing else looks near as good, and I still count on its ability to extract aticles from The Guardian (woorks 100%) and NYT (60%) etc all the time...LONG abandoned now, alas"
+        ]
+    },
+    "Auto Tap": {
+        "title": "Auto Tap",
+        "score": 0,
+        "url": "https://www.reddit.com/r/androidapps/comments/1dr98u5/auto_tap/",
+        "content": "Keyboard keeps spazzing out after I used an auto tap app, doesn't seem to matter which one I use, even though I exited the app and restarted the phone. And on reddit, if I jump to body the keyboard returns to title, any explanation?",
+        "num_comments": 7,
+        "comments": [
+            "The auto tap app ain't gone. \n\nYou sure it wasn't a keylogger?",
+            "It only starts after i install and use an auto click app from the playstore even after uninstall it stayed, but i only noticed it in chrome when opening a new tab just after opening the app, and when I try to make a post on reddit, and again these persisted even after uninstall, I even scanned the apps with ESET and Kaspersky, if you want more details, I would be more than happy.",
+            "What app? \n\nLink to store please",
+            "No, not at the same time, but I tried each one on its own.",
+            "So you installed multiple at the same time??\n\n\ud83e\udd26\u200d\u2642\ufe0f Good grief. \n\nMight need to factory reset.",
+            "Did you read the reviews? The negative ones? \n\nI don't know what to tell you... These apps are all sketchy, because of what they do. \n\nGood luck.",
+            "Multiple links actually:\n\nhttps://play.google.com/store/apps/details?id=com.truedevelopersstudio.automatictap.autoclicker\n\nhttps://play.google.com/store/apps/details?id=com.speed.gc.autoclicker.automatictap\n\nhttps://play.google.com/store/apps/details?id=autoclicker.clicker.autoclickerapp.autoclickerforgames\n\nhttps://play.google.com/store/apps/details?id=com.buzbuz.smartautoclicker\n\nI got the last one from droid-ify the client for f-droid."
+        ]
+    },
+    "searching for a launcher ": {
+        "title": "searching for a launcher ",
+        "score": 0,
+        "url": "https://www.reddit.com/r/androidapps/comments/1dr7ut5/searching_for_a_launcher/",
+        "content": "i tried nia gara launcher , and i like it but there are some stuff about it i don't like , so i want to find a launcher with these requirements:\n\na minimal launcher , with easy to access apps , and when you slide you can search , or see the app drawer\n\nphone / message easy to access  \nwidgets not only on main screen , since i have a lot of widgets  \ndouble click to turn off / on the phone  \nability to add my own wallpaper\n\ni can see notification , but not the message's content and sender (since i don't like this about nia gara launcher and didn't find a way to remove it )\n\ni don't want the kind of boring minimalism , not black screen and no icons\n\ni just want it to be simple and a clean look",
+        "num_comments": 11,
+        "comments": [
+            "Total would be my recommendation as well.\n\nThey have a couple \"official\" Telegram groups where skilled users will assist you in setting it up how you want.",
+            "Not found a more feature rich launcher ... still using latest version for years (with Nova Prime) .. no obvious bugs for my use case. But \"tracking software\" ... what exactly is it tracking and why (there's no advertising so who buys my tracking data from them and what would they do with it?)",
+            "Nova launcher is good, does everything you need. You can use it as a simple launcher, but it's also good as a advanced launcher.\n\nSmart Launcher is also good. You need the paid version if you want to use some features, but you said you want a simple launcher, its good.\nAnd it has a bit different design if you like it.\n\nLawnchair is a cool open source launcher, it has most of the features you need.\nBut I don't think it's good as Nova.\n\nTry all 3, but Nova would be the best for most people.",
+            "Somebody's bound to say this, so I thought it may as well be me.\n\nNova 'was' once a great launcher, I'd even go so far as to say, it was the best but times have changed and the Nova sell out to 'Branch' makes it a non contender as far as I'm concerned.\n\nThe tracking software sucks and end users are reporting more bugs than ever before.\n\nThe only way to run Nova now, is to install an older version and don't update.",
+            "Yeah that's what i do, I use an older version(not reallllly old but old). But I will probably switch to Lawnchair later.\n\nI don't remember seeing much bugs, but idk about the latest version. If you don't care about tracking(you should) it's still a really good launcher I think.\n\n\nThanks!",
+            "They track your usage and sell it. \n\nWhat apps you open, when, for how long.\n\nIt isn't directly for advertising, just data gathering in Nova. \n\nAnd you cannot opt out. \n\nI use a firewall to block it outright- it tries to phone home constantly.",
+            "I use smart launcher",
+            "Smart Launcher or Nova.",
+            "This kind of request comes up regularly on here and usually garns a ton of great recommendations.\n\nImho, launchers are very much a personal thing, settling on one that exactly meets your requirements and offers everything you need, without also offering a load of bloat you don't want or require, is probably one of the hardest, most time consuming things to go through.\n\nThe quest to find that perfect fit can go on and on and the only real way to test all the offerings is to install and eliminate.\n\nThe suggestions you'll receive here, will for the most part, be well established, quality Apps, so hopefully that'll narrow things down a bit.\n\nTired of constantly swapping and changing launchers in the hope of hitting the jackpot, I gave all this up a few years back in favour of what I would term as a 'launcher builder' or 'DIY Launcher' App.\n\nTotal Launcher has enabled me to create a setup, that precisely suites my needs.\n\nTotal, isn't perfect by any means and there's some strange anomalies but for the most part, I have full control and freedom of choice.\n\nThe learning curve is described by some as \"steep\" and and it could take many hours of work before you fully understand the App, so be warned.\n\nTL is free to try, with a one off paid upgrade to release all the features.\n\nTL, isn't for everyone and it may be a non contender for you but I thought I'd throw it out there for your consideration.\n\nTotal Launcher, Playstore Link.\n\nhttps://play.google.com/store/apps/details?id=com.ss.launcher2",
+            "Did you try this one\n\nhttps://github.com/MM2-0/Kvaesitso\n\nhttps://kvaesitso.mm20.de/"
         ]
     },
     "ISO screensaver app": {
         "title": "ISO screensaver app",
-        "score": 2,
+        "score": 1,
         "url": "https://www.reddit.com/r/androidapps/comments/1dr3tdh/iso_screensaver_app/",
         "content": "Just like an old school screensaver i want something that starts when idle and stops on touch. I know newer devices can do that but i am looking for an app so i can add it on a custom android 11. Please and thank you",
         "num_comments": 2,
         "comments": []
-    },
-    "Any good hentai streaming app?": {
-        "title": "Any good hentai streaming app?",
-        "score": 0,
-        "url": "https://www.reddit.com/r/androidapps/comments/1dr5zta/any_good_hentai_streaming_app/",
-        "content": "",
-        "num_comments": 1,
-        "comments": [
-            "... Firefox?"
-        ]
-    },
-    "More apps like chromite": {
-        "title": "More apps like chromite",
-        "score": 0,
-        "url": "https://www.reddit.com/r/androidapps/comments/1dr2yd2/more_apps_like_chromite/",
-        "content": "There is that chrome like app, chromite which has great adblocker and is better overall than chrome. Is there same alternative to reddit, and.youtube which has great adblocker. ",
-        "num_comments": 6,
-        "comments": [
-            ">Is there same alternative to reddit, and.youtube\n\nRevanced. It's an app that can add patches other apps, YouTube and Reddit are one of those apps. Those patches include removing ads and for YouTube, there's also a bunch of customization. You need MicroG if you want to login with your Google account.\n\nCheck out r/RevancedApp for a guide.",
-            "Hermit would be a option too",
-            "Yes, ReVanced",
-            "Infinity for reddit, Brave , firefox or its forks like fennec with extensions.",
-            "How can I use it with sizuku and not root",
-            "You don't need Shizuku, or root. You need to download the apk from APKMirror, and either uninstall or disable the YouTube app. You would also need to uninstall Reddit."
-        ]
-    },
-    "Alternative to Sound Assistant - pixel": {
-        "title": "Alternative to Sound Assistant - pixel",
-        "score": 3,
-        "url": "https://www.reddit.com/r/androidapps/comments/1dqv86v/alternative_to_sound_assistant_pixel/",
-        "content": "Pixel doesn't allow individual app volume control. \nAre there any alternatives that could be recommended to me?",
-        "num_comments": 7,
-        "comments": [
-            "Maybe try Sound Assistant [https://www.apkmirror.com/apk/samsung-electronics-co-ltd/soundassistant/](https://www.apkmirror.com/apk/samsung-electronics-co-ltd/soundassistant/) from Samsung and see if it works on your device.",
-            "https://github.com/legendsayantan/ShizuTools\nThe \"Sound master\" tool.\n\nCould try this one, I don't know if root is required or not, but probably some ADB commands. \n\nIt's not as straightforward and the UI isn't the best. It also doesn't seem to work for Spotify. \n\nUsing Pixel 7 Pro A14.",
-            "Would permanently silencing certain apps help wit this?  I found this discussion [https://support.google.com/pixelphone/thread/247203554/permanently-silencing-sounds-from-individual-apps?hl=en](https://support.google.com/pixelphone/thread/247203554/permanently-silencing-sounds-from-individual-apps?hl=en) which discussed that very thing.  I know its not exactly what you want but maybe it would narrow down the problem a bit.  \n\nHere is another discussion from xda [https://xdaforums.com/t/per-app-volume.4573445/](https://xdaforums.com/t/per-app-volume.4573445/) but it seems to not work for everyone using MacroDroid or Tasker.    Good luck .  I hope you find a workable solution.\n\nMaybe you could check one of the Pixel sections [https://xdaforums.com/f/google-pixel-6.12311/](https://xdaforums.com/f/google-pixel-6.12311/) at XDA and put the work in to use a different ROM if it is that important to you.  It seems Google really is turning into Apple 2.0 in not wanting you to control the devices you own.",
-            "Nah it doesn't work, I wished it did though.",
-            "Root isn't required, the app works based on Shizuku :)",
-            "Yeah I got this phone, as it was a cheaper alternative to Samsung's that I've used for many years. But I thought, it's android so it will be customisable to what I want, and it's as rigid as my wife's iPhone, I'm done with it. But I can't justify buying a new phone so I'm trying to learn to live with it.\n\nI'll check those out, thanks for your response",
-            "One thing I noticed in researching your question was inexpensive Motorola phones support this feature.  The Moto G Stylus 2023 has been on special a lot lately as the 2024 version is coming out.  If it were me I would buy one of these and plan on it being my device for the next 4 years or so or until you find something better.  It is cheaper than a Pixel and if you watch for sales you can save a lot of money on an already inexpensive device.  Anyway just some food for thought..."
-        ]
     }
 }

@@ -1,90 +1,86 @@
 {
     "Daily Questions Thread - Ask All Your Magic Related Questions Here!": {
         "title": "Daily Questions Thread - Ask All Your Magic Related Questions Here!",
-        "score": 2,
-        "url": "https://www.reddit.com/r/magicTCG/comments/1dls9s1/daily_questions_thread_ask_all_your_magic_related/",
+        "score": 4,
+        "url": "https://www.reddit.com/r/magicTCG/comments/1dr7tm9/daily_questions_thread_ask_all_your_magic_related/",
         "content": "This is a place for asking simple questions that might not deserve their own thread. For example, if you have a question about a rules interaction, want sleeve and accessory recommendations, or suggestions for your new deck, then this is the place for you.\n\nWe encourage that you post any questions that you may have concerning Magic the Gathering here rather than make a separate thread for each question, though for now we won't require that you do so.\n\n**Rules Questions**\n\nRules questions and interactions are allowed to be posted here, but if you need an answer quickly it may be best to use a dedicated resource like the [24/7 Magic the Gathering Rules Chat](https://chat.magicjudges.org/mtgrules/).\n\n**Deckbuilding Questions**\n\nIf you're trying to get help with a deck, it is recommended that you post your decklist to a deckbuilding website so that it is easier to view. Some popular sites are Aetherhub, Archidekt, Deckbox, Deckstats, Moxfield, MtgGoldfish, and TappedOut.\n\nAdditionally, please include some description of what you are trying to accomplish. Don't just give us a decklist with no explanation, and don't ask extremely vague questions such as \"what cards should I add to my deck to make it better?\", because it's hard to give good advice in those cases. Let us know details, the more the better. Are you building with a particular strategy or theme in mind? Are there any non-obvious combo lines or synergies that people should be aware of? Are you struggling with a particular matchup, or are you finding yourself missing consistency in an important area, and need some help specifically for it? Let us know.\n\n**Commonly Asked Questions**\n\n> _I opened a card from a different set in my booster pack, is this unusual?_\n\nDon't worry, this is completely normal. If you opened a set booster, you have a small chance of obtaining a bonus card from a previous set. This is an extra card that does not replace any of the other cards in your pack, and is from a curated set of past hits that Wizards of the Coast has selected, which they call \"The List\".\n\nYou can view the contents of The List on Wizards of the Coast's official website. For example, the contents of The List for Streets of New Capenna boosters can be found [here](https://magic.wizards.com/en/articles/archive/feature/whats-new-list-streets-new-capenna-2022-04-14).\n\n> _My foil card has a shooting start symbol over the bottom left. I can't find anything about it online._\n\nAll old-bordered foils have the shooting star symbol. Most sites that display card images just overlay a generic foil graphic over all foil cards, which doesn't include the shooting star. Your card is normal.",
-        "num_comments": 6,
+        "num_comments": 0,
+        "comments": []
+    },
+    "Magiccon Amsterdam - Megathread (no spoilers, no PT)": {
+        "title": "Magiccon Amsterdam - Megathread (no spoilers, no PT)",
+        "score": 24,
+        "url": "https://www.reddit.com/r/magicTCG/comments/1dqgv7r/magiccon_amsterdam_megathread_no_spoilers_no_pt/",
+        "content": "I think people could use a thread like this just to post their experience, ask questions etc.\n\nMods, if this is not allowed (if you would like to make a big thread with more specific rules in the first post etc), please delete or alter this one freely.\n\n\n\nPlease be kind to each other in this thread; let's make this a nice and unforgettable experience for everyone.\n\n**What is covered in other threads (not in this one)**\n\n\nThere is a seperate thread (pinned) for the Pro Tour, so please post anything related to that in that thread.\nI also think this thread should be spoiler free, so please use a different thread for anything related to previews (there are of course usually large seperate threads for all the cards/sets/art).\n\n\n**Feel free to post/ask:**\n\n\n* Your experience of the overall event\n* Things you are excited for\n* Your (non-PT) tournament results and experience\n* Merchandise/Store related posts (\"I got this amazing T-shirt, and also an Urza's Saga sealed booster!\")\n\n\n**Also feel free to post other indirect questions (non-Magic) but related to the event:**\n\n\n* questions about the venue (for example: \"are there ATM's?\" answer:yes)\n* tips/ask about other great things to do/see in the neighboorhood (I recommend anyone with a couple of spare hours or an evening to fill, to also checkout the cities Haarlem or Utrecht as well. They are less crowded/touristy than Amsterdam and only take 30 mins by train)\n* Restaurant tips/requests\n\nEnjoy your time!",
+        "num_comments": 41,
         "comments": [
-            "If you flicker a Saga when the last lore counter is put on it, can you resolve the final chapter's triggered ability without sacrificing the Saga?",
-            "What type of slivers should I use? I've sent the giant list of lost popular ones on edhrec, but I'm not sure which effects are best. I'm running a [[sliver legion]] deck but only want 20-30 slivers in there. It's a multi tribal deck with a main silver theme. So which static abilities from my slivers should I be focusing on most? What's the balance of evasion and anthems and other stuff? I hope they makes sense",
-            "Yes, assuming you flicker the saga while the final chapter ability is still on the stack. Once the final chapter ability triggers, it will resolve even if the Saga leaves the battlefield. And when the Saga re-enters the battlefield, it's treated as a new object with no relation to the one you flickered.\n\nWhat you **can't** do is wait for the final chapter ability to resolve, then flicker it. The Saga will be sacrificed before you even get priority to cast your flicker spell.",
-            "[sliver legion](https://cards.scryfall.io/normal/front/8/7/87545415-2e27-4841-a3af-7653af2ba6d3.jpg?1619404140) - [(G)](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=sliver%20legion) [(SF)](https://scryfall.com/card/tsr/261/sliver-legion?utm_source=mtgcardfetcher) [(txt)](https://api.scryfall.com/cards/87545415-2e27-4841-a3af-7653af2ba6d3?utm_source=mtgcardfetcher&format=text)\n\n^^^[[cardname]] ^^^or ^^^[[cardname|SET]] ^^^to ^^^call",
-            "Okay, thanks for the answer!",
-            "Guess I should add that Legion is my only expensive sliver and I probably won't be buying any others. Looking for ratios not cards if that helps"
+            "Not sure if this question belongs here, but will there be a video of the 1pm preview panel available?",
+            "anyone found all scavenger hunt qr codes? what's the prize?",
+            "How many here sent Twitch their phone number to be able to chat on the Twitch stream?",
+            "If anyone has the locations of Fblthp I'd appreciate it! The scavenger hunt is fun but I injured my hip so walking is hard \ud83d\ude05",
+            "Unfortunately I had to cancel my travel plans due to a family emergency :(\n\nEmrakul is my favorite Eldrazi, so I was looking forward to getting the MC Amsterdam playmat with her on it. Is anyone interested in selling their playmat?",
+            "Amsterdam is notorious for pick pockets. Sounds like you were robbed and should file a police report.",
+            "The prize consists in three Fblthp in Amsterdam postcards",
+            "I'm still looking for #1, if anyone knows where that one is I'm happy to hear it.",
+            "I'm missing #4 if anyone knows where it is",
+            "Still need #2 and #7"
         ]
     },
-    "Weekend Free Discussion Thread": {
-        "title": "Weekend Free Discussion Thread",
-        "score": 1,
-        "url": "https://www.reddit.com/r/magicTCG/comments/1dl0k0a/weekend_free_discussion_thread/",
-        "content": "Normally, all posts in this subreddit need to be both Magic-related and at least somewhat \"high effort\". This weekly thread gives you the chance to relax and talk with your fellow Magic redditors about things that would normally go against those rules.\n\nWant to share a funny story about a recent game of Magic you had, or post a picture of the cool cards you opened in your latest booster? Want to talk about your favorite movie or tv show, or share a personal accomplishment? This is the place to do so.\n\nKeep in mind that the \\*only\\* subreddit rules that you can ignore in this thread are rule 2 (all posts must be Magic-related) and rule 7 (no low effort posts that are just pictures of cards). Just because this thread is meant for open discussion does not mean you are allowed to insult people or post explicit content, for example.",
-        "num_comments": 7,
-        "comments": [
-            "Staying mad about the reserved list and offering anybody that supports it to eat a brick.",
-            "How come Ive seen a lot of Standard Red aggro decks on deck lists not running slickshot showoff? It seems like one of the best cards in the deck to me.\n\nIt does get removed a lot but that opens up space for ur other creatures. It just seems all around really good, both in a specific way as a threat that can one shot a lot of damage,  has haste and versatility in plot and flying both to dodge attacks and block flying for a kill with an instant.",
-            "Wizards should print [Gem Bazaar](https://scryfall.com/card/past/12/gem-bazaar) in paper. It's a cool card. The art is good. And the effect is easy to achieve with a D6.",
-            "Since polls can't be made, is it safe to say that around 80% of people store their magic cards in a BCW cardboard box yes? If that's most peoples main method of storage, I don't see how talk about the storage containers themselves isn't relevant to the cards people are putting in them? Are people using magnetic fields to store their cards and I missed that memo or a hole in the ground an I also missed that memo? Would it not be cool to have a vector template for the most commonly used storage container for their MTG cards so people could get custom art printed on their MTG storage container?",
-            "Make that two bricks. One from me also",
-            "I'm assuming you're talking about on Arena?\n\nWithout Slickshot Showoff, the deck is still positive winrate in BO1. Granted, it's probably like (I don't know the actual figures, sue me) 55% as opposed to 60%, but it still works. Don't get me wrong;, you're right. Slickshot is the best creature in the deck by a significant margin. It's just worth noting that Electrostatic Infantry and Khenra Spellspear aren't *bad* cards. They're just bad in *comparison* to Slickshot.\n\nHell, people are hitting mythic with lists that include even the bad red-aggro cards like Phoenix Chick and Shock.\n\nBudget go brrr.",
-            "I'd love to see it included in the next WUBRG commander precon."
-        ]
-    },
-    "Our wedding invitations were Magic: the Gathering inspired booster packs!": {
-        "title": "Our wedding invitations were Magic: the Gathering inspired booster packs!",
-        "score": 823,
-        "url": "https://www.reddit.com/gallery/1dlkzcc",
+    "Mark Rosewater on the mixed reactions to the modernity aesthetics featured on Duskmourn: \"We\u2019re trying something new. Some people seem to like it, some don\u2019t. Time will show whether it was overall a good idea. There are a lot of very popular Magic things that had an initial negative opinion.\"": {
+        "title": "Mark Rosewater on the mixed reactions to the modernity aesthetics featured on Duskmourn: \"We\u2019re trying something new. Some people seem to like it, some don\u2019t. Time will show whether it was overall a good idea. There are a lot of very popular Magic things that had an initial negative opinion.\"",
+        "score": 366,
+        "url": "https://markrosewater.tumblr.com/post/754581843202981888/hi-mark-there-were-a-few-people-who-had-commented#notes",
         "content": "",
-        "num_comments": 40,
+        "num_comments": 310,
         "comments": [
-            "That is legit so cool. Wow.",
-            "This kicks so much ass dude",
-            "Now that the big day has come and gone, we can finally share our wedding invitations with this sub! My husband and I are tremendous MtG fans (and in fact spent a great deal of our wedding weekend slinging spells with our wedding party, who are also our playgroup), so we thought it most fitting to celebrate our favorite game with our favorite people.\n\nI designed the booster packaging, card fronts, and backs (which are a nod to the anime movie Your Name - we walked down the aisle to Katawaredoki by RADWIMPS), and we worked with the folks at\u00a0[Board Games Maker](https://www.boardgamesmaker.com/)\u00a0to format it correctly. We made sure to include a custom Treasure token for our Magic-playing friends, though we knew a bunch of our family members might be left scratching their heads haha. We received a bunch of texts from friends saying they've sleeved the Treasure tokens and are using them in play, which is just the highest compliment we could be paid. We were both incredibly pleased by how it all turned out - the cards even smelled like a freshly cracked pack!\n\nWe sent these to our invitees in a green bubble mailer with cardboard backings so they wouldn't bend in transit, along with a customized note for each couple/friend/family unit. We were JUST on the cusp of the envelope counting as a letter, so we thankfully only had to pay extra for non-machinable mail!\n\nAll together, the packs cost just shy of $5 a unit to print (we made 65 of them), and about $2 to send. It was a bit on the spendy side for invites, but we were really happy that these set the tone for a relaxed, playful, fun wedding celebration.\n\nHappy to share any insights from this process for anyone who is interested in doing something similar! I had a ton of fun putting these together - I'd say designing these, cracking open the first pack, sending these to our friends and hearing all their elated and excited feedback was one of the best parts of our planning process. :)",
-            "Haha I'm doing custom mtg cards for my grooms boxes. I gonna make a little custom pack too for them to open as well. You guys did well with your invitations!",
-            "Hey if you\u2019re trying to blur out personal info (which I would heartily suggest) I would white out the event date/location and the names of the couple as they\u2019re still visible on the handwritten note.",
-            "This is rad. [[Best Wishes]]",
-            "YOU CRUSHED THIS!!!!",
-            "Oh my god I love this so much!",
-            "Very cute! Although I like that they aren't too specific, they're not covered in Magic logos or characters, and the overall design has the common tcg style of an art box and a text box, but otherwise the design is very unique - clearly inspired by Magic but not being overtly themed that way, very classy.",
-            "Really excellent. Great concept, fabulous execution.\n\nI wish you both health, happiness, and drawing your outs."
+            "I wasn't convinced until I saw the art, and learned about the concept of the plane: a demon bound to never leave a house, so it expanded the house until it devoured the whole plane. That's rad.",
+            "i think it looks pretty good, but why does it need 80' tv?",
+            "People bitched about Neon Dynasty being futuristic until it came out and was one of the best sets.\u00a0\u00a0",
+            "It's so funny to me how at one point they didn't want to do D&D books because they thought it would dilute the Magic brand.",
+            "It's interesting how this brings Universes Beyond sets closer to the magic main set flavor. Because Duskmourn is pretty much the same setting as Stranger Things.",
+            "I wasn't too keen on the idea of an \"80s aesthetic\" the way it was described in the original announcement. There's still a little bit of that in what we've seen so far - stuff like the TV screens and other electronics - but there's also a lot more going on that I didn't initially expect.\n\nTo me, a lot of the vibe feels closer to an \"80s kids movie that probably wasn't appropriate for kids\" type of horror. By that I mean movies like Willow, Neverending Story, Legend, Labyrinth, and Dark Crystal. It's like there's one layer where the scary evil is actually kinda cheesy but a second layer where the horror is actually unnerving in the context of that world.",
+            "I think malleability is the life blood of any franchise, but with Magic it's especially so because they have to assume Magic will exist forever. I'm not saying you have to like it but how are people still surprised when the series takes these bold new aesthetic choices? I mean we JUST had a cowboy deck!\u00a0",
+            "Really? I did not expect this at all. I think its some of the coolest and original looking while staying as a magic card look we've gotten in a long time.",
+            "Duskmourn looks pretty cool. Tbf I'm not even sure what the people who are complaining were really expecting it to be",
+            "If *this* level of tech aesthetic is okay, then I really don't understand the effort they went through with Thunder Junction in not introducing straight up firearms..."
         ]
     },
-    "NO OKO WATCH OUT KELLANS GOING FOR THE PILE DRIVER": {
-        "title": "NO OKO WATCH OUT KELLANS GOING FOR THE PILE DRIVER",
-        "score": 615,
-        "url": "https://www.reddit.com/gallery/1dlj4yb",
+    "[DSK] Screaming Nemesis": {
+        "title": "[DSK] Screaming Nemesis",
+        "score": 3532,
+        "url": "https://i.redd.it/h8zg30ihva9d1.png",
         "content": "",
-        "num_comments": 37,
+        "num_comments": 1025,
         "comments": [
-            "Not to be pedantic, but that's an elbow drop. A piledriver is when you lift your opponent up so they fall head-first into the ground [Like this.](https://i.pinimg.com/originals/0b/66/14/0b661463cc21216e5098526f3be566ac.jpg)\n\nI do like the art, though. Kinda what Oko deserves.",
-            "Mmm, how can I get in on one of Kellan's \"signature\" slams?",
-            "There's a Rey Mysterio and Oko being deadbeat dads to Dominic and Kellan being criminals joke in here somewhere",
-            "By god is that Nadu's music?",
-            "Love this",
-            "Not a pile driver",
-            "Oko's Signature Slam is a lot different.  Just ask Kellan's mom",
-            "RKOKO [Outta Nowhere!](https://www.youtube.com/watch?v=t1XzYMQkXDU)",
-            "As gawd as my witness he is broken in half!",
-            "That's what not paying child support will do to you"
+            "For the rest of WHAT?",
+            "Arena BO1 players in shambles.",
+            "Man remember when wotc banned [[Rampaging Ferocidon]]?",
+            "Stigma Lasher... After so many years, you've come home to me.",
+            "Should have been red, red, red. They are playing so fast and loose with mana requirements.",
+            "I feel like when there are effects like this - it should work like a planeswalker and give out an insignia. \n\nLike ongoing effects without cards seems wrong in a card game to me.",
+            "They weren\u2019t lying when they said this was a Horror set damn",
+            "Not sure I\u2019d see that line of text on a Magic card, certainly not on an on rate 3 drop.",
+            "So this will act like an emblem essentially? Even if the card isn\u2019t on the battlefield anymore?",
+            "The anti life gain on this is WAY easier to trigger than Stigma Lasher's, for those who keep bringing up Lasher. Lasher you can just bolt or block with any creature and the effect doesn't go off. This one has Haste and also triggers when it itself is damaged so your only option is to use removal that doesn't damage and never tap out."
         ]
     },
-    "LGS please make sure your websites are right!": {
-        "title": "LGS please make sure your websites are right!",
-        "score": 286,
-        "url": "https://www.reddit.com/r/magicTCG/comments/1dljc5a/lgs_please_make_sure_your_websites_are_right/",
-        "content": "I am so exaughsted of trying to play magic, and I get to the store, and they tell me their website is wrong. Today I went to draft Outlaws for 25$  (first place is 50$ store credit so there is prizes hence the price) but I arrive and it's MH3 for 50$ I asked about and they said \"Yeah we changed it\"  really  unlucky part is thar there were other stores with outlaws drafts... but they were at the same time and 10 miles away, so I missed it. I don't get many chances to play magic. This isn't the first time this has happened it's just frustrating. The worst part is I wasn't even alone, so It disappointed multiple people, and I had to apploligize. I showed them the website. We went to play pinball instead it's just ugh, man. ",
-        "num_comments": 64,
+    "My mother handcrafted a stained glass Stasis lantern for me.": {
+        "title": "My mother handcrafted a stained glass Stasis lantern for me.",
+        "score": 533,
+        "url": "https://i.redd.it/m0mcbdofgd9d1.jpeg",
+        "content": "",
+        "num_comments": 16,
         "comments": [
-            "The lucky part is, next time you get a chance, it sounds like there are a number of other stores for you to choose from.",
-            "Many moons ago when I was in the height of trying to grind my way into some semblance of standing a chance winning a PTQ I learned to call ahead to each store I was going to play at. Sometimes I would have someone say \u201cIt\u2019s all up on our website. You can read about it there.\u201d But I already had. So I tell them what I read. And once in a blue moon someone would be like oh yeah that\u2019s incorrect. So then I\u2019d ask for the proper info. It didn\u2019t happen often. But I wasn\u2019t going to risk driving X hours only to find out in person their website was wrong.",
-            "At least that place has a website. I\u2019m tired of stores who only put their event schedule in a Discord or Facebook that someone forgets to update half the time.",
-            "Sometimes it's not the store's fault. I'd often schedule drafts for the current format, only to have too many people say they aren't interested but would love to draft a different set. The other people who don't care are fine switching because they just want to play magic.\n\nObviously, this is less of an issue if you get 60 people, but if your group is closer to 16 sometimes you just need to adapt, or nobody gets to do anything.",
-            "That store would lose my business since there\u2019s other stores around.",
-            "must be wild to be an american/european... here in Brasil, there's a law which says if a website shows you a price the business has to offer you that product/service for the shown price... and everyone pretty much knows about this, so much so that it's usually enough for you to say \"ik that's my right\" and stores will oblige... worst case scenario, you ask if they wanna get the authorities involved (they never do, because there's a fine for this type of behavior)",
-            "Is there 1 LGS website in the world that isn't dog shit and devoid of information?  I live in the Chicago area and have to go to independent Facebook groups to find event calendars for the area.\n\nIf attendance is down and shit doesn't fire, consider having a website that says when events are.  You don't need any fancy calendar or anything. Could be a white background with only black text and it will be better than anything I've seen.",
-            "My LGS still says I can preorder Murders at Karlov Manor.",
-            "Always call ahead when going somewhere unfamiliar to check",
-            "If I don't know the store or I haven't been a while I always call or send en email. Really saves the hassle of being there for something not to happen."
+            "That is fuckin sick. Cool mom!",
+            "This is actually so wholesome I know the original art was done by one of the creators Aunts.",
+            "There is some joke about Stasis, stax and lantern control here...",
+            "I stopped in my tracks when I saw this beautiful work! And not just because I can no longer cast anything ;) Great stuff!",
+            "Dang. I want one. Can I ask your mom?",
+            "awesome! for those who forgot the card... (me)... [[stasis]]",
+            "This is really relaxing to look at. Wonderful work!",
+            "It is truly an iconic piece of art and a really unique card.",
+            "I like how you are thinking.",
+            "I can tell her, you liked it. :)"
         ]
     }
 }

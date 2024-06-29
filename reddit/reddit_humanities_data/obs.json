@@ -1,7 +1,7 @@
 {
     "Please use official OBS Discord and forum as primary support channels": {
         "title": "Please use official OBS Discord and forum as primary support channels",
-        "score": 130,
+        "score": 129,
         "url": "https://www.reddit.com/r/obs/comments/avbwr0/please_use_official_obs_discord_and_forum_as/",
         "content": "This subreddit is not maintained as official help resource and not  visited very often by the developers and most community supporters and moderators.\n\nPlease use the official support channels for urgent or specific support, especially for macOS and Linux issues.\n\n* Live Chat on the OBS Project Discord (recommended): https://discord.gg/obsproject\n* Forum: [https://obsproject.com/forum/](https://obsproject.com/forum/)\n* Help Portal: [https://obsproject.com/help/](https://obsproject.com/help/)",
         "num_comments": 0,
@@ -9,46 +9,46 @@
     },
     "How to hide private stuff while live streaming": {
         "title": "How to hide private stuff while live streaming",
-        "score": 6,
+        "score": 13,
         "url": "https://www.reddit.com/r/obs/comments/1dqymnh/how_to_hide_private_stuff_while_live_streaming/",
         "content": "I wanted to record me and my friends playing Minecraft. They says no because they don\u2019t want people to see there usernames. That makes me think how to block these stuff on obs. If I\u2019m live streaming and I accidentally pop up like a personal thing I worked on or I personal thing I did I can\u2019t just click out because people can rewind slow down then pause the screen to see it. So what can I do",
-        "num_comments": 18,
+        "num_comments": 28,
         "comments": [
-            "If you're talking about hiding their usernames in discord, then discord will automatically hide that and other sensitive info if it detects that obs is running. If it fails to detect obs, then you can always turn it on in the in the settings before going live. If you're talking about their minecraft username, then you're going to have to find a mod that censor usernames. Since iirc, vanilla minecart doesn't have that option. \n\nIf you're worried about accidently leaking sensitive documents while live, two things. First, close them before going live. Second thing, instead of capturing the entire desktop, tell obs to only capture specific windows that you want it to. But this can be tedious if you constantly switch between a lot of windows, and you do have to pay attention to obs to see if it's capturing the right window. Also, I did recently discover that obs have a studio mode feature where you can preview your changes before broadcasting them. I haven't had the chance to test this feature out, so your mileage may vary.\n\nBut if you're asking if obs can detect and auto censor personal information, then it doesn't have that feature, since that's not what it's designed for.Plus, that probably require an advanced AI model to analyze and censor every sensitive info in every frame of the broadcast.",
-            "Depends a lot on the game.\n\nDisable discord overlay, stream selecting the game windows as the source, not the screen, this are 2 tips.\n\nNow, if the game shows their username, you cant do anything aside from not stream.",
             "You could actually use some kind of Minecraft Mod to hide their usernames, or a plugin to change it to a different nickname instead of going through tedious shit with OBS.",
             "if use game capture and not desktop capture then no one will see any thing but the game..  as for in game names that would have to be something in  game to hide those.",
             "OBS allows for Blur & pixilated overlays of sections. Considering most game setups have static positions for common games elements (usernames, stats...), it shouldn't be too hard to use a still image with holes in those sections as a key mask.",
+            "In general, capture only window you want to stream, not the whole desktop view.",
             "One thing I don\u2019t see mentioned that I used when I worked in college esports production. Run your stream with a delay. College esports keeps a 3 minute delay as standard but for personal streams I would run maybe a 20 second delay. You still interact with chat in a timely manner but if you show something you don\u2019t want seen you have 20 seconds to think about it, switch to obs, and stop stream while dropping delay. Dropping delay allows you to just tell obs to stop sending twitch video and to cut anything that hasn\u2019t been shown yet. Definitely something that helps a ton",
-            "You could try using mods to hide your friend's name tags: [Toggle Nametags](https://modrinth.com/mod/hidetags) (Fabric) or [No Render Name Tags](https://modrinth.com/mod/no-render-name-tags) (Forge).",
-            "Anytime i pull up OBS my discord immediately goes into streamer mode and blocks not only mine but other user except the very first letter of their name. If its in game maybe you could turn off gamertags in the settings or something",
             "Does the game have any streamer mode setting, or a plugin that can do the same thing?",
-            "Ask chatgpt, it's been pretty helpful for niche needs like this for me lately.  Chances are though it's not a thing yet, even though you'd think AI would easily be able to receive input like specific text or programs (like password managers) and auto hide them."
+            "Ask chatgpt, it's been pretty helpful for niche needs like this for me lately.  Chances are though it's not a thing yet, even though you'd think AI would easily be able to receive input like specific text or programs (like password managers) and auto hide them.",
+            "Oh just it seems like it\u2019s would have to do so much in little time manually",
+            "You mean Minecraft well idk",
+            "You guys stop asking chatgpt for everything."
         ]
     },
-    "Capture Card just shows black screen": {
-        "title": "Capture Card just shows black screen",
+    "bad lag spikes when trying to stream, even on old games from 2004": {
+        "title": "bad lag spikes when trying to stream, even on old games from 2004",
         "score": 1,
-        "url": "https://www.reddit.com/r/obs/comments/1dr5qgv/capture_card_just_shows_black_screen/",
-        "content": "I\u2019m on Mac, and the USB 3.0 video capture card is just a black screen on OBS. the capture card isn\u2019t broken because when I open FaceTime the video is playing fine. OBS also has access to my camera and screen recording in my settings.",
+        "url": "https://www.reddit.com/r/obs/comments/1drba6t/bad_lag_spikes_when_trying_to_stream_even_on_old/",
+        "content": "I'm trying to stream on obs, I play low demanding games and there's 0 lag when obs is closed so its definitely an obs issue. But I'm trying to play games like Counter Strike Source  & Momentum mod which are very light weight games, I should be able to get 300+ fps on my 3070 with 0 issue, but i get really bad lag spikes when playing. \n\nAny advice?  \n\nhttps://obsproject.com/logs/kvKL0VV6p8qDjLKa",
         "num_comments": 1,
         "comments": [
-            "**It looks like you haven't provided a log file**. Without a log file, it is very hard to help with issues and you may end up with 0 responses.\n\nTo make a clean log file, please follow these steps:\n\n1) Restart OBS\n\n2) Start your stream/recording for at least 30 seconds (or however long it takes for the issue to happen). **Make sure you replicate any issues as best you can**, which means having any games/apps open and captured, etc.\n\n3) Stop your stream/recording.\n\n4) Select Help > Log Files > Upload Current Log File.\n\n5) Copy the URL and paste it as a response to this comment.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/obs) if you have any questions or concerns.*"
+            "See your log analysis here: https://obsproject.com/tools/analyzer?log_url=https%3A%2F%2Fobsproject.com%2Flogs%2FkvKL0VV6p8qDjLKa\n\nYou shouldn't put Game Capture and Window Capture sources in the same scene as they conflict. Apart from that, you've gor a small amount of encoder overload and render lag. \n\nYou'll likely need to cap your in-game frame rate, ideally to a multiple of 60, to give OBS some resources that are currently being siphoned off to run the game. Try 120 fps in game and see how that goes. If it's still overloading, cap it at 60fps."
         ]
     },
-    "Issues with GV-USB2 Capture Card with OBS?": {
-        "title": "Issues with GV-USB2 Capture Card with OBS?",
+    "Bitrate and frames drops, need of ping notification when someone send a chat msg.": {
+        "title": "Bitrate and frames drops, need of ping notification when someone send a chat msg.",
         "score": 1,
-        "url": "https://www.reddit.com/r/obs/comments/1dr4qv3/issues_with_gvusb2_capture_card_with_obs/",
-        "content": "I've seen this a few times before but not sure if anyone has found the reason.\n\n  \nEssentially, sometimes the audio will just introduce static, become choppy, until becoming normal shortly after. \n\nSometimes theres choppy video but that can be sorted usually with framerate/deinterlacing settings.\n\n  \nHowever, the sound is very annoying to deal with and changing framerate, using amarec, etc. doesn't seem to help. Any recommendations? ",
+        "url": "https://www.reddit.com/r/obs/comments/1dr9t0o/bitrate_and_frames_drops_need_of_ping/",
+        "content": "To who has experience in OBS Studio, I need help with two things and couldn't find a solution/guide for them.\n\n1. The first issue is when I broadcast and someone sends me a message in the chat, I don't realise it, I want a msg notification like a little ping sound that is only hearable by me.\n\n2. The second issue is when I stream using OBS, sometimes it uses just 500 kbps bitrate, and the broadcast disconnects and doesn't reconnect, even though the internet and the device are good,\n\n  The server I broadcast on is auto/recommended \n  My set bitrate is 6000kb ( my upload is about 90 megabytes ) ",
         "num_comments": 0,
         "comments": []
     },
-    "Video took all my storage but the file cannot be found?": {
-        "title": "Video took all my storage but the file cannot be found?",
+    "Av1, need help": {
+        "title": "Av1, need help",
         "score": 1,
-        "url": "https://www.reddit.com/r/obs/comments/1dr3tqt/video_took_all_my_storage_but_the_file_cannot_be/",
-        "content": "So for whatever reason it seems I accidentally left my video recording. Looks like I was sleep deprived maybe forgot but it was recording for 212 hours and it took up 100% of my 1tb storage and the problem is I cannot delete the video file since I can't physically find it. It's not showing up as a \"hidden file\" or anywhere. It's not even showing up as corrupted its almost as if it doesn't exist but despite this I have only 20 MB left on my 1tb hard drive. I tried restarting, searching \"size: gigantic\" and going into event viewer and I didn't really find much other than errors the video size has caused. OBS support has also seemed to completely ghost me so no luck in talking with them there. Is there any way I can recover my hard drive storage?",
+        "url": "https://www.reddit.com/r/obs/comments/1dr9fwv/av1_need_help/",
+        "content": "i choosed the AV1 encoder option and every time i want to start recording it says:\n\n\"AV1 encoding is not available with the current settings. try disabling any re scaling or GPU options that may be set. check the log for more details\"\n\nany help? idk iven where to check logs or what i need to chnage on gpu options.",
         "num_comments": 0,
         "comments": []
     }

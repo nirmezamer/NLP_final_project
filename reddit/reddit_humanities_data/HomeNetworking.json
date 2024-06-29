@@ -6,16 +6,16 @@
         "content": "Here\u2019s a list of common questions posted that usually have the same solution.\n\n**\u201cWhy won\u2019t my Ethernet cable plug into the weird looking Ethernet jack?\u201d or \u201cWhy is this Ethernet jack so skinny?\u201d**\n-UTP cable used for Ethernet transmission is usually terminated with an RJ45 connector. This is an 8 conductor plug in the RJ series of connectors. You\u2019ll find similar looking jacks which are used to plug in a landline phone. These jacks could be an RJ11, RJ14, or RJ25 which are 4 or 6 wire jacks. This will not work with your RJ45 cable for Ethernet. \n\nRefer to these sources to identify the type of jack you have.\n\nhttps://www.digikey.com/en/articles/understanding-and-specifying-modular-connectors\n\nhttps://www.diffen.com/difference/RJ11_vs_RJ45\n\n**\u201cIs this Ethernet?\u201d or \u201ccan I convert this to Ethernet\u201d or \u201cwhat category cable do I need\u201d**\n-Fortunately many homes built in the 21st century use cat 5e cable and use 2 or 3 of the twisted pairs for phone use. (This is where you\u2019d see the 4 or 6 pin RJ connectors). However not every build used 8 conductor so if you have less than 8 conductors and 4 twisted pairs. You will need to look into other methods of getting your lan from A to B. \n\nAs far as choosing the type of cable you need, look into cat 5e, cat 6, or cat 6a. Building your home network you most likely don\u2019t need cat 7 or 8. If you don\u2019t know the exact reason you need cat 7 or 8 you don\u2019t need them because these standard typically aren\u2019t used to access the internet.\n\nInformation for reference for UTP cabling \n\nhttps://stl.tech/blog/what-is-a-utp-cable/#Different_Categories_of_UTP_cable\n\n**I bought this flat cat 8 cable from Amazon but I\u2019m only getting 50 Mbps**\n\n-Sorry but it\u2019s become a common issue of Chinese companies putting out cable that don\u2019t meet its category\u2019s specs. Try to return it and go to your local store that sells computer stuff and get one there. On top of that cat 7 and 8 patch cable will not do you any good you will not get any benefit even if you are paying for the best internet available.\n\n**Helpful resources:**\n\n[Terminating cables](https://www.truecable.com/blogs/cable-academy/how-to-terminate-an-unshielded-pass-through-rj45-connector)\n\n[Understanding internet speeds](https://www.comparitech.com/internet-providers/internet-and-broadband-terms-explained/)\n\n[Home network structure examples](https://lazyadmin.nl/home-network/home-network-diagram/)\n\n[Wired connection alternatives to UTP Ethernet](https://www.techreviewer.com/tech-answers/moca-vs-powerline/)\n\n[Understanding WiFi](https://www.duckware.com/tech/wifi-in-the-us.html)\n\n\nIf anyone has other FAQs to add I can add that to the post.",
         "num_comments": 22,
         "comments": [
-            "A FAQ is a good concept, but yours is already long enough that a typical new poster here won't bother reading it.  \n\nEveryone wants personalized attention, not to poke around a huge FAQ with tons of links and reading that feels like homework.  \n\nEveryone also wants personal confirmation that their problem is not some kind of special exception by having a human review it.  \n\nAny FAQ that's like ten pages or more including links will be read as much as those online \"Service Agreement\" terms everyone auto-agrees to without even a glance.  It's just too idealistic to require every new poster to read a huge FAQ before participating.\n\nA real solution could also be a FAQ teaching people how to Search this sub for previously answered questions, of which just about everything has been covered extensively.  It'd be much shorter, where you list the common problems, and just list the key words to search for (\"moca\", \"access point\", \"Tailscale\", etc.) But that will be completely ignored too.  People want to talk about their issues with a human, not an automated response robot.\n\nAlso, it's weird you chose 50 Mbps as the arbitrary number for a low speed test when 96-100 Mbps due to a bad cable or punch down is by far one of the most posted topics on here.",
-            "For the visual learners Home Networking Basics https://youtu.be/fjRKID2ucPY",
-            "Not a FAQ, but a really good ressource for understanding wifi: https://www.duckware.com/tech/wifi-in-the-us.html",
             "Can we get something added to the text that warns people authoring posts? A warning along the lines of:\n\n> **POWERLINE ADAPTER NOT PERFORMING TO EXPECTATIONS?** Power line adapters work for some people, but they are generally considered to be the least reliable way of extending your home network, and their performance is frequently subpar. See [link any of a million powerline threads here]",
             "also people think fiber is lighting proof... it is not, never has been. if its a direct strike.",
             "hi. im unable to set my hg8245h5 into wireless bridge. need help",
             "I am using the GT-AXE11000 router with Merlin. It seems good. However, sometimes I am away from home and every three weeks randomly the internet would stop working and I would need someone to manually go to my home to unplug my cat5 cable or power cycle my cable modem. Is this normal or should I replace my cat5 cable? Also, should I use cat5 or cat6 cable with this configuration? I need 100% reliability and downtime like this won't allow me to remotely connect",
             "This is great, thank you.",
             "Excellent work Austin. Answered lots of my queries!",
-            "Fibre to RJ45, ONT"
+            "Hello I just bought from ebay a fritz 7590 router. Ive never bought a used router.. any recommandation about what to do before installang it?",
+            "Is double nat a big deal? I have a fibre modem that\u2019s a gateway, and a larger mesh network behind it.\n\nEverything seems to work.",
+            "Disagree, I found this subreddit from Google and I read the FAQ *and* it answered my questions lol",
+            "This FAQ was helpful for me!"
         ]
     },
     "We have a Discord!": {
@@ -25,63 +25,58 @@
         "content": "The mods of r/HomeNetworking are pleased to announce the new Discord server that we have created. There isn't much there right now, but we intend it as another place where people can ask for and receive help with their home networking issues as well as an outlet for hanging out and discussing related topics.\n\nWe welcome any and all feedback regarding the server's direction, what channels it offers, and things like custom emoji. You can leave that here or in the #feedback channel in the Discord server.\n\nJoin our Discord at https://discord.gg/DAW9gu4ztK",
         "num_comments": 10,
         "comments": [
+            "I get: Unable to accept invite.",
+            "Thank You here is all my money",
+            "Yep, my bad.  I seem to have to open another window and login often, otherwise I get this error.  Thanks for the help!",
             "There's already plenty of discord in the sub. \n\nI'll be here all week and join. Cheers",
             "I feel dumb with Discord for some reason. I click on \"accept invite\" and then... nothing. I end up in the friends section and I don't see the sub's server anywhere.",
-            "I get: Unable to accept invite.",
             "We have discord and datcord.",
             "If discord doesn't work try datcord.",
-            "When in discord, you could follow the following steps:\n\n* Click the plus sign on the left side, near the bottom of the servers list\n* \"Join a Server\"\n* Copy and paste the link into the \"Invite Link\" text field",
             "If the account is brand new, wait a day and try again. Otherwise, try accessing the invite link from an incognito/private window. If that fails, check if you\u2019re already at the server limit or it is possible that your account is flagged by discord as being unable to join new servers (no idea how that works but searching around indicates it is a thing)",
-            "Thank You here is all my money",
-            "Yep, my bad.  I seem to have to open another window and login often, otherwise I get this error.  Thanks for the help!"
+            "When in discord, you could follow the following steps:\n\n* Click the plus sign on the left side, near the bottom of the servers list\n* \"Join a Server\"\n* Copy and paste the link into the \"Invite Link\" text field"
         ]
     },
-    "What is this?": {
-        "title": "What is this?",
-        "score": 79,
-        "url": "https://www.reddit.com/gallery/1dlcbyx",
-        "content": "Anybody know what this cable is for? Just bought my first house and I'm trying to go through and clean things up. I have no idea what this cable is for, and while I've been trying to embrace the \"if the cable is there put a plug in the wall so someone can use it someday if they want\" mentality, I'm really tempted to cut this and patch the hole. Any advice would be greatly appreciated, thanks!",
-        "num_comments": 44,
+    "Finally got an UPS for my network: 1h battery life. ": {
+        "title": "Finally got an UPS for my network: 1h battery life. ",
+        "score": 10,
+        "url": "https://i.redd.it/c7g1ugbtph9d1.png",
+        "content": "",
+        "num_comments": 7,
         "comments": [
-            "Fiber, likely from an ISP which previously provided service to your place or which may provide service to your place in the future.  Given the date code on the back plate, it was likely installed no earlier than 2017. \n\nUsing the principle of \u201cdon\u2019t randomly cut out potentially useful things that are probably functionally good and might be hard to replace\u201d, I\u2019d leave it there until it was my very last home project to pursue.\n\nI\u2019d likely raise it to the level of the power outlet and clean it up so it doesn\u2019t look all weird.",
-            "That would be a Fiber outlet. \n\n\nPlease never look at the end of a fiber, and make sure to cover it to keep children and animals from looking at it. \n\nIt's 100% possible that there's no light on it. You won't be able to see it. And if it is there it can severely damage your eyes.",
-            "Thank you for a \"What is this?\" post where the answer isn't a six position phone jack...",
-            "That is a coupler. The ISP installed it. The ONT (converts the fiber to electrical/copper) plugs into the bottom of the coupler.\n\nSide note, I would avoid pointing or looking directly at the fiber connector. The laser light can damage eyes.",
-            "In Germany we call this the future. \nCongratulations that other countries have already arrived there\n\n\nBot. It's fibre optic",
-            "Ooooooooooo fiber you lucky if this belongs to a previous isp",
-            "Retina tickler.",
-            "Its fiber, you are in luck. I recommend calling the ISP and switching over.",
-            "Its fiber. Leave it alone!!",
-            "Thanks! Good to know - I'll leave it and eventually shift the level of it so it looks better"
+            "1 hr at 18 w \ud83d\ude02\n\nExpect under 10 mins at load.",
+            "if everything including cell signal etc drops out there's a good chance the fibre would too, only something like a starlink on a generator would keep you up in that situation really, all the corporate sites I manage as part of my job generally have 2/3 circuits now, at least 1 fibre in, a 4/5G cellular and a starlink. \n\nMost of the time we see serious outages it's due to either power or fibre, but generally during proper power outages the fibre goes too.",
+            "The beauty is the OLT I'm connected is in another town, so local outages wouldn't affect fiber. Larger outages are exceptional, as I live in a dense urban area.",
+            "Last power failure my ONT stayed up with help of a relocated UPS. Need to find an affordable one that'll keep it up eight hours.",
+            "PON has no active components in the field between the OLT and ONT. In most deployments, the OLT is in the Central Office, backed by battery and generator. If you can keep your end powered, it will often stay up for days.",
+            "ah yeah fair enough, makes sense. hopefully that 1 hour serves you well :)",
+            "This is my 3rd UPS.   \nI have one for my PC that gives 15 min. just to shutdown, another for my Synology NAS and ap/switch in 1st floor where my pc is, and this new one which essentially powers ONT, Router and AP on ground floor.\n\nWe don't have too many power outages, but the last one just cut off the world : no cell signal, no nothing. Now I can have a bit of autonomy and keep internet up if power goes down."
         ]
     },
-    "30mbps down, 1.5mbps up for 3 people": {
-        "title": "30mbps down, 1.5mbps up for 3 people",
-        "score": 9,
-        "url": "https://www.reddit.com/r/HomeNetworking/comments/1dlobhl/30mbps_down_15mbps_up_for_3_people/",
-        "content": "I am looking for new internet since my roommates and I moved. Would 30mbps down, 1.5mbps up be okay for 3 people? \n\nWe only stream for TV and movies, I watch a lot of YouTube and we play the occasional online video game. \n\nAlso, I checked and it is megaBITS, not megaBYTES. (I don't know if that is relevant or not I just saw it mentioned on a post here)",
-        "num_comments": 20,
-        "comments": [
-            "1.5 up is brutal, barely good enough for a single user.",
-            "30 down is good for YouTube 4K but 1.5 up is gonna be so painful for even just one person.\n\nHad this before from Breezeline (Formerly Atlantic Broadband) and I was having trouble submitting my homework.",
-            "4k streaming recommended is what, 15 mpbs? so 2 streams at a time and it will be tight",
-            "30Mbps is going to be awful for 3 people. I wouldn't go with less than 100Mbps down for that many people.",
-            "I'm on a 50Mbps/10Mbps plan. Live alone, and it works for me, usually have TV going 1080p, and laptop with youtube, or Xbox online gaming. If another person lived here, it wouldn't be enough. \n\nI worked for an ISP (in NZ), i would suggest something like a 300/100 megaBITS plan for 3 people. If our customers were getting 1.5Mbps upstream, they'd be on the phone having a massive whine that they couldn't do Zoom calls an such.",
-            "We are currently at my in-laws for the week and they have close to that and it\u2019s brutal.  I needed to work and the upload wasn\u2019t cutting it, thankfully my phones hotspot was faster with 20 upload.",
-            "Barely and likely a problem if everyone hammering it at same time.  We are family of 4 with 20mbps down and 3mbps up.   Rarely have problems as such \u2026 but it\u2019s a close call most days.",
-            "I decided to look at my throughput for the last month.\n\nIn a household of four adults my maximum download speed was 17 Mbps and my maximum upload speed was 8 Mbps. We are heavy consumers of YouTube, IPTV, online video games and work video calls and meetings.\n\nYou are going to struggle with that upload speed if you want to do any kind of facetime or web meetings where you have to send audio and video. Uploading documents or files will take longer too.\n\nOnline games shouldn't have too much of an impact but that link will become saturated pretty quickly.\n\nI personally would be looking for 100Mbps down and 20Mbps up minimum.",
-            "1.5 up... jeez, even the best QoS will struggle there, but it can work, if you cant get a decent router dont bother unless you want total war",
-            "FYI - I bought a 5G router - costs me \u00a320 a month (actually just gone up a couple quid due to annual increase).\n\n20mbps Bt fibre still in use - but I also have 80-100mbps available from 5G  \ud83d\ude0e"
-        ]
-    },
-    "wireless router or access point": {
-        "title": "wireless router or access point",
+    "TP-Link Introduces Pocket-Size Wi-Fi 6 Travel Router With VPN Support": {
+        "title": "TP-Link Introduces Pocket-Size Wi-Fi 6 Travel Router With VPN Support",
         "score": 2,
-        "url": "https://www.reddit.com/r/HomeNetworking/comments/1dlu2yh/wireless_router_or_access_point/",
-        "content": "hi All. I'm going to run ethernet cable from a wireless modem + router to another point in home for wifi. do i need router or access point? I'm confused",
-        "num_comments": 1,
+        "url": "https://www.forbes.com/sites/marksparrow/2024/06/27/tp-link-introduces-pocket-size-wi-fi-6-travel-router-with-vpn-support/",
+        "content": "",
+        "num_comments": 0,
+        "comments": []
+    },
+    "Should I get mesh for 4k sq ft home with basement?": {
+        "title": "Should I get mesh for 4k sq ft home with basement?",
+        "score": 5,
+        "url": "https://www.reddit.com/r/HomeNetworking/comments/1dr39wu/should_i_get_mesh_for_4k_sq_ft_home_with_basement/",
+        "content": "1GB internet with cable.\n\nModem located in basement. 2k sq ft on each floor.\n\nBeginner about networking, want something that just works.",
+        "num_comments": 18,
         "comments": [
-            "Modem -> Router -> Access Points\n\nYou probably have a \\*wireless\\* router . Modem is normally passive and cannot have wireless if it doesn't have routing capabilities.\n\nYou are looking for access points, though a lot of router + wireless aps all in one (like Asus) can be configured in a AP mode that disables routing functions."
+            "Why do you want mesh? If to improve coverage, wired access points will do a better job.",
+            "About the same size home here with a mesh system from tp-link and it works just fine without a wired backhaul. Get around 500mbps but that's also what I pay for. I have the main router and then two satellites. One satellite on the 2nd level, then the router and another satellite on the first floor.\n\nIf you go through with a mesh system just make sure to get a tri band system that uses a dedicated 6ghz connection for the backhaul",
+            "Do you have Ethernet or Coax RG6 on each floor? Mesh should work well for you.",
+            "Simple would be to setup mesh. That\u2019s what I\u2019d do",
+            "I don\u2019t really want wires run through the house. I want something simple",
+            "I think I only have coax in basement. How hard is it to get coax on both floors? Is that possible",
+            "Just have the ISP install their wireless device as central as you can in the home, and call it a day.  It doesn't get simpler than that.",
+            "seems like everyone on this sub just suggests blasting through the walls to set up freaking internet wifi it's all a bit much",
+            "I just ask because you could do a Mesh/MoCA (which needs coax cables) combo network. That\u2019s what I did in my parent\u2019s CA home. I had 4 nodes covering 3,000sqft on two floors. \n\nHard to put more coax/ethernet? Not really. The tricky parts would be between floors because there\u2019ll definitely be some drywall to be repaired on ceiling/wall.",
+            "Because most of us here understand the many conns of using a mesh instead of ethernet backbone."
         ]
     }
 }

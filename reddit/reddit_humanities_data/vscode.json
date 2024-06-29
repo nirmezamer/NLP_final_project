@@ -9,41 +9,53 @@
             "I converted the 35+ PowerShell ISE themes in my [https://github.com/marzme/PowerShell\\_ISE\\_Themes](https://github.com/marzme/PowerShell_ISE_Themes) repo into VS Code themes: [https://github.com/marzme/marzme-VSCode-Themes](https://github.com/marzme/marzme-VSCode-Themes) . Don't really have the time or desire to publish them on VS Code Marketplace so sharing them here."
         ]
     },
-    "extension to highlight specific lines with a different background": {
-        "title": "extension to highlight specific lines with a different background",
-        "score": 2,
-        "url": "https://www.reddit.com/r/vscode/comments/1dqwy6c/extension_to_highlight_specific_lines_with_a/",
-        "content": "Hi everyone,\n\nI'm looking for an extension for Visual Studio Code that allows me to highlight specific lines of code with a different background color. Essentially, I want to mark some important lines so they stand out visually, making the code easier to read and understand.\n\nDoes anyone know of an extension that has this functionality? Any recommendations or tips would be greatly appreciated!\n\nThanks!",
-        "num_comments": 0,
-        "comments": []
-    },
-    "Interacting with a GUI app inside a devcontainer ": {
-        "title": "Interacting with a GUI app inside a devcontainer ",
-        "score": 2,
-        "url": "https://www.reddit.com/r/vscode/comments/1dqupub/interacting_with_a_gui_app_inside_a_devcontainer/",
-        "content": "I have a devcontainer and when I run my playwright tests headed, I cannot see the browser launched inside the container.\n\nI read about x11 and noVNC but struggle to make these work\n\nDo you guys have a repo working with a devcontainer and a GUI app running?\nAlso, would you recommend devcontainers with playwright? So far the setup has been taugh for me..",
-        "num_comments": 0,
-        "comments": []
-    },
-    "Invalid python interpreter selected": {
-        "title": "Invalid python interpreter selected",
-        "score": 0,
-        "url": "https://www.reddit.com/r/vscode/comments/1dqyobo/invalid_python_interpreter_selected/",
-        "content": "Whenever I try to set my python interpreter to /bin/python3.12, it just says its invalid. If I use /bin/python3, the version is 3.11.9 for some reason and there is no other valid interpreter available. In the terminal \"python -V\" shows 3.12.3, I installed torch and some other modules which work perfectly fine in a jupyter notebook (version is also 3.12.3), but in vscode its always 3.11.9 and no modules work. Also same thing in pycharm. I am completely clueless on why this could be, also pretty new to linux which definitely doesnt help me figure this out. Im using Fedora 40\n\nhttps://preview.redd.it/6q1t5cshoe9d1.png?width=454&format=png&auto=webp&s=62e21ceec8ee598f002c09d053e5c816e3c3c4e6\n\n",
-        "num_comments": 2,
+    "Coding for multiple languages. Multiple (portable) VS Code directories, or just one?": {
+        "title": "Coding for multiple languages. Multiple (portable) VS Code directories, or just one?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/vscode/comments/1dr82vj/coding_for_multiple_languages_multiple_portable/",
+        "content": "I regularly code for:\n\n - C/C++\n - PHP\n - MySql\n - Angular\n - nodeJs\n - HTML/CSS\n - ADA, but I use other IDE for that\n\nGive that each has multiple plug-ins, should I have a single instance of VS code, or one per language, with appropriate plug-ins? Disk space is not a factor. Whichever way I go, it will be portable.\n\nDoes anyone else code multiple languages? If so, how do you do it?",
+        "num_comments": 8,
         "comments": [
-            "Are you sure that\u2019s where your 3.12 interpreter is? In your terminal use the command:\n\nwhich python \n\nIt will tell you where your 3.12 interpreter location is (since invoking python -V shows 3.12)",
-            "Youre right its not where it actually is, but it still doesnt work. the location is /usr/bin/python, inside vscode its 3.11.9, in terminal its 3.12.3."
+            "I use a separate profile for each language, there\u2019s probably a better way tho",
+            "I wouldn't bother with multiple directories or profiles. Seperate workspaces would do just fine, at least it works for me.",
+            "You can set the folders as per the language and then open it in vscode as per that and then set the disable or enable for workspace as per you usecase",
+            "Plug-ins are lazy loaded. You can freely install as many as you want.",
+            "Came here to say that. Profiles are made for this. You also can install docker and create devcontainer for each environment you need.",
+            "This",
+            "Why do you want to go for multiple setups? \n\nI would just install extensions for each language. Extensions are activated only when language support is required. Plus you can setup profiles for each language.",
+            "There's support for profiles now, but it really doesn't matter. Just install the extensions you need and write code.\n\nYou can also include a workspace file in your source code folders that specify which extensions are recommended for that particular project."
         ]
     },
-    "Java on Visual Studio Code Update - June 2024": {
-        "title": "Java on Visual Studio Code Update - June 2024",
-        "score": 6,
-        "url": "https://devblogs.microsoft.com/java/java-on-visual-studio-code-update-june-2024/",
+    "I tried reinstalling it make times but it always popup": {
+        "title": "I tried reinstalling it make times but it always popup",
+        "score": 2,
+        "url": "https://i.redd.it/phyb2f1ikh9d1.png",
         "content": "",
-        "num_comments": 1,
+        "num_comments": 4,
         "comments": [
-            "Update includes Project Settings Page Enhancements, Testing Coverage, and Spring Feature Updates."
+            "How to hide the top bar including the Close/Minimize buttons?",
+            "You can go to View, which is next to Selection, then select Appearance and hide the menu bar. You can still access the menu bar by pressing Alt. Hope that helps. Wait, I am the one who is asking for help here.",
+            "Thank you very much. I'm using Windows and hide the Menu Bar does make the Close/Minimize buttons disappear.",
+            "Oh you are using windows I use arch btw \ud83d\ude01"
+        ]
+    },
+    "Can't detect the python interpreter": {
+        "title": "Can't detect the python interpreter",
+        "score": 0,
+        "url": "https://www.reddit.com/r/vscode/comments/1dravih/cant_detect_the_python_interpreter/",
+        "content": "Hello, sorry if this is questioned frequently but I haven't been able to find anything. \n\nI will start with my \"ideal situation/objective\": I want to have a common folder with the different Virtual Environments that I use, each named acordingly for their respective duties. However, when I create said folder, VSCode can't detect the interpreters. To circumnavigate this I have been creating the environments in the project's folder, but now I want to use the same environment in a different project/folder, since it's basically an extension but I also want to leave the original project intact. Is this even possible? ",
+        "num_comments": 0,
+        "comments": []
+    },
+    "How do get GPU rasterization working?": {
+        "title": "How do get GPU rasterization working?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/vscode/comments/1dr6w4y/how_do_get_gpu_rasterization_working/",
+        "content": "I suspect that VSCode isn't utilizing GPU rasterization despite showing GPU usage, especially on modest hardware like my Intel Celeron 2955U running Linux. The scrolling performance is notably choppy, yet neither the CPU nor GPU usage exceeds 60%, with the GPU peaking at around 45%. This leads me to believe that GPU rasterization isn't enabled. How can I enable GPU rasterization in VSCode to potentially improve scrolling performance?",
+        "num_comments": 2,
+        "comments": [
+            "Which VSCode version do you have?",
+            "1.90(specifically 1.90.2-1718751586 debian package)"
         ]
     }
 }

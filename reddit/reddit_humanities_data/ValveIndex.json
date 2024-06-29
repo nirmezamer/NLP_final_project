@@ -1,7 +1,7 @@
 {
     "r/ValveIndex Moderator Recruitment": {
         "title": "r/ValveIndex Moderator Recruitment",
-        "score": 7,
+        "score": 5,
         "url": "https://www.reddit.com/r/ValveIndex/comments/16z9n0k/rvalveindex_moderator_recruitment/",
         "content": "Hey Everyone,  \n\n\nWe've always had a rather small team here, but to try to improve the community we are looking for additional moderators.\n\n&#x200B;\n\nIf you'd like to help us make the community better, please apply at [this Google Form.](https://forms.gle/PsGtMFVtHUQ3VtaR8)\n\n&#x200B;\n\nThanks!",
         "num_comments": 0,
@@ -9,78 +9,69 @@
     },
     "r/ValveIndex New User Megathread": {
         "title": "r/ValveIndex New User Megathread",
-        "score": 15,
+        "score": 18,
         "url": "https://www.reddit.com/r/ValveIndex/comments/188x5qt/rvalveindex_new_user_megathread/",
         "content": "Welcome to the r/ValveIndex community! This thread serves as a starting point for new users and those considering joining. We'll cover key topics to help you get started.\n\n\n\n---\n\n\n\n## Getting Started with Valve Index\n\n\n\n### What is the Valve Index?\n\n\n\n- The Valve Index is a high-end virtual reality headset developed and manufactured by Valve.\n\n- Known for its high-fidelity visuals at launch, precise tracking, and quality audio, it's a popular choice among VR enthusiasts, especially for Full Body Tracking users.\n\n\n\n---\n\n\n\n## Should I buy the Index in 2023?\n\n\n\n**Short Answer**: Probably not. The Index, while competent, is somewhat dated.\n\n**Long Answer**: It depends on various factors. Let's explore:\n\n\n\n\n\n### Cons of the Valve Index\n\n\n\n- **Visuals**: Resolution of 1440x1600 per eye is low by current standards. Fresnel lenses can cause glare and edge clarity issues.\n\n- **Reliability**: Joystick drift is a common issue.\n\n- **Price**: At $1000 USD, it may not offer the best value. If you can find a good condition refurbished kit or used, this is still a good deal in today's market.\n\n\n\n\n\n### Pros of the Valve Index\n\n\n\n- **SteamVR Integration**: No additional software required.\n\n- **Tracking**: Market-leading tracking capabilities and full-body tracking support (Vive Trackers, Tundra).\n\n- **Audio Quality**: Excellent audio experience with off ear BMRs.\n\n- **Comfort**: Comfortable to wear, despite its weight.\n\n- **Controllers**: Feature finger tracking, useful for social VR.\n\n- **Microphone**: High-quality microphone for clear communication.\n\n\n\n### Ideal Use-Cases for the Valve Index\n\n\n\nBest suited for social VR platforms like VRChat, Resonite, or ChilloutVR. Alternatives like the Bigscreen Beyond or the Quest 3 are also worth considering.\n\n\n\n### What About the Index 2?\n\n\n\nThe Index 2 is unannounced (Deckard pls), and its release is uncertain. You could be waiting a while (Or no time at all!)\n\n\n\n---\n\n\n\n## Decided to buy or Already have an Index?\n\n\n\n### Setting Up Your Valve Index\n\n\n\n- **Space Requirements**: Ensure you have enough space for a safe VR experience. 2x2m is advised as a minimum.\n\n- **Installation**: Follow the setup guide carefully to install the hardware and software.\n\n- **SteamVR**: Learn how to navigate [SteamVR](https://store.steampowered.com/app/250820/SteamVR/), the main platform for using the Index. Grab tools like [OVR Advanced Settings](https://store.steampowered.com/app/1009850/OVR_Advanced_Settings/) and [fpsVR](https://store.steampowered.com/app/908520/fpsVR/).\n\n\n\n---\n\n\n\n## Community Guidelines and Resources\n\n\n\n- **Guidelines**: Review the community [rules](https://www.reddit.com/r/valveindex/wiki/rules/) to ensure a friendly and respectful environment.\n\n\n\n- **Resources**: Check out our [Wiki](https://www.reddit.com/r/ValveIndex/wiki/index/) for helpful information. Rather chat live? Join the [VR Discord](https://discord.gg/virtualreality)\n\n\n\n---\n\n\n\n## Join the Discussion\n\n\n\nWe encourage you to ask questions, share your experiences, and connect with fellow Index users below.\n\n\n\n---",
         "num_comments": 10,
         "comments": [
-            "i'm going to leave my [extensive list of index and vr related copypasta here](https://www.reddit.com/r/lostcomments/comments/l73hsb/list_of_links_to_longer_posts_and_copypasta_ive/).\n\nmaybe it'll even help someone!",
             "Thanks to u/ridgeminecraft for some good ways to word a few things on this and the reminder to get this going ;)",
             "Something to add, for reliability, just today had my joystick somehow catch my clothes, and it popped right out, broke the ribbon cable and whatnot. Gonna see if I can get a replacement",
-            "Hi there,\n\nI imagine this is a common question but when I turn off my PC, the index base stations turn blue but still emit a continuous high pitched whining sound. I have enabled power management and the base stations do appear to go to 'sleep' with the lights turning blue, but both base stations continue emitting the same high pitched whine.\n\nIs there any way to make the basestations properly power down when not in use, without simply unplugging them manually?\n\nThanks.",
             "Valve Index is trash and you shouldn't give them your money.  \n\nThat's all.",
             "I\u2019m getting poor tracking/grey flashes ONLY outside of games, while navigating steam VRs menus.  Why is this?  Once I get into a game it works like a charm.",
-            "Why didnt valve just make a version of the valve index that you could pair with inside-out camera tracking and blue tooth?\n\n\nI have a Reverb G2, which is not know for good tracking. By default I don't have any way of gripping things with different fingers, and I can't upgrade either.",
             "That\u2019s why you should always play naked, smh.",
             "Yes! There is an option in the power settings to turn off both the lasers and the motors when SteamVR closes. You'll want to enable that. The motors make that sound.",
-            "\ud83d\uddff"
+            "Hi there,\n\nI imagine this is a common question but when I turn off my PC, the index base stations turn blue but still emit a continuous high pitched whining sound. I have enabled power management and the base stations do appear to go to 'sleep' with the lights turning blue, but both base stations continue emitting the same high pitched whine.\n\nIs there any way to make the basestations properly power down when not in use, without simply unplugging them manually?\n\nThanks.",
+            "Why didnt valve just make a version of the valve index that you could pair with inside-out camera tracking and blue tooth?\n\n\nI have a Reverb G2, which is not know for good tracking. By default I don't have any way of gripping things with different fingers, and I can't upgrade either.",
+            "\ud83d\uddff",
+            "i'm going to leave my [extensive list of index and vr related copypasta here](https://www.reddit.com/r/lostcomments/comments/l73hsb/list_of_links_to_longer_posts_and_copypasta_ive/).\n\nmaybe it'll even help someone!"
         ]
     },
     "Valve's customer support is goated": {
         "title": "Valve's customer support is goated",
-        "score": 103,
+        "score": 238,
         "url": "https://i.redd.it/8xaudo77se9d1.jpeg",
         "content": "I woke up this morning and literally watched my Lighthouse go from solid green to the blinking red light of death. I've dealt with this before as I've had my Index since 2019 or 2020 and they RMA'd it with no issue whatsoever. \n\nSpent the morning stressed out that I'd have to fork over 150 dollars for a new Lighthouse but Steam came through and went ahead with issuing the RMA process to get me a replacement Lighthouse. \n\nAt this point I'm having a hard time understanding how anyone can have an issue with Steam, I've had nothing but pleasant experiences whenever I've had to deal with Steam support. ",
-        "num_comments": 22,
+        "num_comments": 45,
         "comments": [
-            "Amazing. Well done Valve!",
             "My cable started to twist and eventually got damaged. I sent them a message just to see if they can do anything. I didn\u2019t think they could since damage isn\u2019t covered. They told me the same thing however they added \u201cI\u2019ll see what I can do\u201d at the end. One week later I got a free cable.",
-            "Valve Support did the exact same thing for me a year or two back when I accidentally reduced one of my controllers to atoms playing Beat Saber. I was only contacting them because i was seeing if it was possible to buy only the one controller i needed and not a pair as it wasnt possible to only buy one at the time unlike now. Very surprisingly they initiated an Advance RMA without me being in warranty (not like what i did to that poor controller wouldve been covered anyway). I was extremely grateful and made sure to make that clear to the rep.\n\nI still wonder to this day what they did with the ghost of a controller i sent them back. I had to dispose of the battery before shipping it from how bad the damage was.",
             "That is true commitment to customer service.  Stuff like this builds brand loyalty and contrary to a lot of naysayers, I think there is a new Index somewhere on the horizon.  If there weren't, they would have zero reasons, from a marketing perspective, to offer this kind of largesse.  Kudos to Steam for being so forward thinking.",
             "They also did this for me, but with the cable when it stopped working!",
-            "Also have had positive experiences in and out of warranty, including physical damage that they could easily have denied as not covered. \n\nSometimes it takes a bit of back and forth like  when a controller wouldn't charge and the first response was to try a hard reset.    Um, kind of tough when the controller has no power...... \n\nSent pix of it plugged in, no light, and confirmed I'd tried multiple chargers and cables.  RMA initiated. \n\nLike someone else wrote, definitely builds brand loyalty, and if an Index 2/Deckard is on the horizon then these responses from Steam Support are the types that will make me want to remain a Valve customer.",
+            "I'm so happy this happened for you, I've never managed an out of warranty replacement from valve myself unfortunately, despite my controllers and tether going bad",
+            "Had broken cables, lighthouses and a broken index after warranty. Every time they told me to go F myself.",
             "They did this to me for replacing a lighthouse after I had already assumed they wouldn't and bought a new one anyway. Now I have 3 in my setup and it works great lol",
-            "They told me to kick fucking rocks when i asked for an advance replacement the day i received mine new.\u00a0\n\n\nThen they gave me the run around- sending me defective controller after doa controller 3 times until i asked for a refund the day before my return window closed.\u00a0\n\n\nAt least they honored that.",
-            "They really should make a lighthouse that isn't so expensive.",
-            "Had broken cables, lighthouses and a broken index after warranty. Every time they told me to go F myself."
+            "At this point I'm convinced that Valve has almost 1:1 spare Index parts in storage vs how many they sold.",
+            "Very happy for you that they did this. When my trident cable went bad I asked them for a new one and they said that since I wasn't in the warranty window they wouldn't send another unless I paid so they definitely don't make these gestures for everyone.\n\nSome piece of trash porch pirate stole the first one that came to my home and they did send another one for free though so that is my happy Valve customer service tale.",
+            "This is the kind of thing that makes sure when they release the next gen headset, people won't flinch about buying one.",
+            "They really should make a lighthouse that isn't so expensive."
         ]
     },
     "Have you modded your headset?": {
         "title": "Have you modded your headset?",
-        "score": 172,
+        "score": 221,
         "url": "https://i.redd.it/j6bx1dkwpc9d1.png",
         "content": "Hey, just curious how many of you people have modded your headset? And if you did, is it rather a janky monstrosity or something sleek? What did you add?\n\nI didn't care about how it looks, i just wanted the functionality, so my little monster looks like this. Still have to reapply hot glue here and there if i accidently slam my face on a wall or knuckle xD",
-        "num_comments": 89,
+        "num_comments": 96,
         "comments": [
             "I can almost feel the neckpain",
             "Fucking hot glued fans to 1000 \u20ac device lmao",
             "I want a slimmer lighter headset not whatever monstrosity this is haha.",
             "Do you think you'd benefit from a 3D printer? Make a custom bracket to hold much of that stuff?",
-            "People act like this would be super annoying but I doubt it\u2019s that much weight. And as far as vrchat this is far less weight and annoyance than strapping on 8 body trackers and messing with their usb dongles.\n\nI\u2019m tempted to do the eye track mod but I think I\u2019ll build vr gloves first",
             "Okay my brotha, you have to tell me what's going on here......I see the little pc fans on it but what's all the other stuff",
-            "Fans should be exhaust",
+            "People act like this would be super annoying but I doubt it\u2019s that much weight. And as far as vrchat this is far less weight and annoyance than strapping on 8 body trackers and messing with their usb dongles.\n\nI\u2019m tempted to do the eye track mod but I think I\u2019ll build vr gloves first",
             "This kinda looks like it\u2019s from boneworks",
             "Looks great. I wish I had the know how to install that mod myself. Currently resorting to Quest Pro for face tracking but whenever I\u2019m not recording my vrc content I\u2019m right back to my index",
+            "Yes, with the Vive face tracker and Eyetrack VR\n\nBtw, your mod is making me anxious just by the sheer amount of covered photodiodes lol",
             "The hot glue cracks me up - but if it works... \n\nNot sure it's a mod if it's plug n play - but I have a Kiwi Frunk Fan that pulls the hot air out it really does help."
         ]
     },
-    "My solo-developed game, CONVRGENCE, about exploring the Anomaly Zone, recently got its first update and is now 20% off during the Steam Summer Sale! Check out the new trailer!": {
-        "title": "My solo-developed game, CONVRGENCE, about exploring the Anomaly Zone, recently got its first update and is now 20% off during the Steam Summer Sale! Check out the new trailer!",
-        "score": 45,
-        "url": "https://v.redd.it/i0u27prvab9d1",
-        "content": "",
-        "num_comments": 22,
+    "Should I place 2 of my 4 base stations at a lower height when doing ankle and waist tracking?": {
+        "title": "Should I place 2 of my 4 base stations at a lower height when doing ankle and waist tracking?",
+        "score": 4,
+        "url": "https://www.reddit.com/r/ValveIndex/comments/1dra5wz/should_i_place_2_of_my_4_base_stations_at_a_lower/",
+        "content": "And how low relative to my waist and pointed where?",
+        "num_comments": 1,
         "comments": [
-            "Hey, it's Nik, the dev of CONVRGENCE. My game was released in Steam Early Access at the end of April and has since received numerous improvements and fixes, as well as its first content update with night raids. There's still a long way to go until the full release and plenty of new content to come, but if you're interested in the game now, this is a great opportunity to get it at a 20% discount. Thank you for your support!\n\nSteam: [https://store.steampowered.com/app/2609610/CONVRGENCE](https://store.steampowered.com/app/2609610/CONVRGENCE)\n\nDiscord: [https://discord.gg/9t79QCHvPc](https://discord.gg/9t79QCHvPc)",
-            "Hey there. May I shoot a quick question? I get super motion sick with continuous movement in VR. Is there teleportation movement or any kind of help to cope with motion sickness?\n\nLove how the game looks and would really like to try it out.",
-            "Can I play this game using my pro tube?",
-            "Has there been work on optimization and AI yet? Previews of the game bring up these two things.",
-            "[removed]",
-            "Quick question. Can i kinda compare the gameplay to how Into the Radius plays?",
-            "Thank you! Yes, there is teleportation movement\u00a0in the game.",
-            "Unfortunately at this time the game does not have support for physical stocks",
-            "There's still a lot of work to be done on this, but yes, this update has greatly improved performance on the first raid map and also slightly improved the AI: enemies can now patrol the locations.",
-            "There's a dog in the game so it seems that itr has lost"
+            "Nah, not really, as long as there is direct line of sight, it should be just fine"
         ]
     }
 }

@@ -1,74 +1,86 @@
 {
     "Show Your Work Thread": {
         "title": "Show Your Work Thread",
-        "score": 3,
+        "score": 4,
         "url": "https://www.reddit.com/r/reactnative/comments/1dqk3oq/show_your_work_thread/",
         "content": "Did you make something using React Native and do you want to show it off, gather opinions or start a discussion about your work? Please post a comment in this thread.\n\nIf you have specific questions about bugs or improvements in your work, you are allowed to create a separate post. If you are unsure, please contact u/xrpinsider.\n\nNew comments appear on top and this thread is refreshed on a weekly bases.",
-        "num_comments": 3,
+        "num_comments": 4,
         "comments": [
             "I made a react native youtube video. Does that count?\n\nIf so, I'd be happy if you guys would check it out.\n\nIt is a tutorial of how you would create a turbo module for ios [https://youtu.be/Xn1fzgRSHPo](https://youtu.be/Xn1fzgRSHPo)\n\nI am planning to do an Android version. As well as get to c++ turbo modules",
+            "# I published my first ever app: Ai audio/podcast\n\n  \nSometimes I like to listen to podcasts about niche topics that I just can't find anywhere else.\n\nThat's why I built my very first ever app: Contxt. It enables unlimited audio content on any topic. the app uses Ai to generate the audio content seamlessly.\n\nFirst of all, App development is super hard. I used react-native, expo, and typescript. We had a lot of built issues, especially with native dependencies and native apis. Expo apis are really basic and often not enough.\n\nSecond, I used rntp for the track player functionality. Really hard to get running with expo and even then it is buggy. Also making it all an seamless experience while generating the content was very difficult.\n\nBut the hardest part was getting good quality content using Ai. I think it is pretty good now, but still has a lot room for improvement.\n\nIt is free to use, I would love to get feedback on how to improve :)\n\n[https://apps.apple.com/de/app/contxt-ai-podcasts/id6472961799?l=en-GB&utm-referrer=reddit](https://apps.apple.com/de/app/contxt-ai-podcasts/id6472961799?l=en-GB&utm-referrer=reddit)",
             "I just launched HealthMode: Fitness for Free\n\nA 100% free fitness app with no premium subscriptions on Product Hunt today!\n\nMore information here: https://www.producthunt.com/posts/healthmode-fitness-for-free"
         ]
     },
-    "Just finished creating a time-lapse app using Expo, Firebase, and FFMPEG. Looking for feedback on the app and design.": {
-        "title": "Just finished creating a time-lapse app using Expo, Firebase, and FFMPEG. Looking for feedback on the app and design.",
-        "score": 26,
-        "url": "https://v.redd.it/c3yc96z8sd9d1",
+    "Have seen such": {
+        "title": "Have seen such",
+        "score": 39,
+        "url": "https://i.redd.it/5zh6i13toc671.jpg",
         "content": "",
-        "num_comments": 11,
+        "num_comments": 9,
         "comments": [
-            "Link to the app:\n\n* iOS: [https://apps.apple.com/us/app/ptl-camera-plant-timelapse/id6476889599](https://apps.apple.com/us/app/ptl-camera-plant-timelapse/id6476889599)\n* Android: [https://play.google.com/store/apps/details?id=com.arrygoo.ptlcamera](https://play.google.com/store/apps/details?id=com.arrygoo.ptlcamera)\n* Web: [www.ptl.camera](http://www.ptl.camera)\n\n  \nIn terms of architecture, I'm using expo49, and firebase for auth, database, and storage. I store all images on the server, and use FFMPEG to stitch them together and apply various options like fps, speed, deflicker, etc.\n\nFeel free to ask any questions!",
-            "This looks neat, nice work! My app has somewhat similar functionality where I stitch many photos together and create a video using ffmpeg. I\u2019d be interested to see the ffmpeg code just to compare the approach.",
-            "Bro looking great!\n\nIf there also file upload from within app? If so checkout react native compressor (not mine)\n\nOne advice i would give is the modals, maybe a black overlay opacity or a blur would be nice to separate the rhe modal from the background",
-            "It's Amazing and looks clean, never knew there's a library for this, so you are just stitching the images and making a time lapse? Did you manually add FPS and speed rate or is it provided by FFMPEG?",
-            "Oh cool! what's your app about?\n\nI'm using node and fluent-ffmpeg. It's super simple stuff so far, things like\n\n    ffmpeg()\n        .addInput(`/tmp/ptl/${inputFolder}/%04d.jpg`)\n        .inputFPS(fps)\n\nfor merging images,\n\nFor rotation:\n\n        const command = ffmpeg(inputPath)\n          .videoFilters(`rotate=${rotationAngle}*PI/180`)\n\nfor speed:\n\n       const command = ffmpeg(inputPath)\n          .videoFilters(`setpts=${setptsValue}*PTS`)\n\n\n\nHow about you? What's your stack?",
-            "Yes, from the app! Thanks, going to look into that package. And thanks for the UI advice, that makes sense",
-            "It\u2019s provided by FFMPEG. Apparently FFMPEG is the main library for editing video via cli, and many applications use it",
-            "Ah, neat! My app is a local media library / camera. The user can select a bunch of photos from their device (or generates selections from a given time range) and the app stitches them together into a slideshow.  [The result looks like this.](https://imgur.com/a/z07Nr7c)\n\nI do it all on device without any back end \u2014 basically it goes like this:\n\n\u2022\t\u2060put all the images into a ScrollView  \n\u2022\t\u2060programmatically scroll through the list and capture a screenshot at each index  \n\u2022\t\u2060write a temp file with each screenshot\u2019s local URI and duration (playback speed is a piece of local state)  \n\u2022\t\u2060execute ffmpeg\u2019s concat command on the temp file  \n\u2022\t\u2060save the output video to the local library\n\nI might eventually implement a server, but it\u2019s been a fun challenge to keep it entirely on-device.",
-            "Oh nice! I tried doing it on the phone, but with timelapse there are so many frames it kept crashing on the phone.",
-            "Interesting, I started getting crashes from this feature when I tried updating to Expo 51, which has kept me from doing so (I\u2019m using 50 right now.) How many images are you working with in a timelapse?"
+            "Although nothing beats the joy of finally understanding dom manipulation through javascript after hours of just html+css, but jumping straight to easy react tutorials is like playing as a leveled character in MMO at the start of the game, helps with motivation a bit ig so who knows which way is better: basics first or trying out midgame for few hours beforehand",
+            "Tbh they won't really get that far until they learn the other 3 anyway",
+            "People make mistake, if they want to move foward they still have to learn them. If they only think in the react way you know how far their progress is.",
+            "Something you should always ask yourself before learning a new tool is: \"What problem does it solve for me?\"\n\nIf you can't answer this conclusively then you don't need it.",
+            "I dont think that people jump steps, but that they dont know how to properly learn something. Like\u2026 where to find what i need to find, the patience to read all the thing and the mental power to be able to fail. Its fcking hard.",
+            "Let's be realistic what does a git and github have to offer to a very new dev? Nothing really, they can just code locally until they know of their existence later on, not everyone will be faced with a collaborative environment early on.\n\nIf we extrapolate this to RN, we have a very limited CSS feature set, so any basic youtube series would do the job, flexbox being the most complex stuff to learn.",
+            "This is a great metaphor.",
+            "facts"
         ]
     },
-    "Guide: Securing Your React Native App: Best Practices and Strategies": {
-        "title": "Guide: Securing Your React Native App: Best Practices and Strategies",
-        "score": 6,
-        "url": "https://www.reddit.com/r/reactnative/comments/1dr4sku/guide_securing_your_react_native_app_best/",
-        "content": "Here\u2019s a helpful guide on securing your React Native app, great reminders of best practices for experienced developers or a good introduction for new developers: https://www.themorrow.digital/blog/securing-your-react-native-app-best-practices-and-strategies ",
-        "num_comments": 1,
+    "What the hell are people using to debug?? ": {
+        "title": "What the hell are people using to debug?? ",
+        "score": 14,
+        "url": "https://www.reddit.com/r/reactnative/comments/1dr71de/what_the_hell_are_people_using_to_debug/",
+        "content": "Obligatory - I'm not using Expo, so I can't use their dev tools. \n\nI work on a large-scale, old app that has been updated fairly regularly. We are in the process of upgrading from \\`0.71.0\\` to \\`0.74.0\\`. One drawback is that the team mostly uses \\`[react-native-debugger](https://github.com/jhen0409/react-native-debugger)\\` (which has been fantastic), but is not compatible with Hermes. \n\nIt looks as though you can upgrade to \\`0.74.0\\` but support for remote JS debugging has been dropped. So naturally, it means switching Hermes on is a no-brainer. \n\nHowever you're then left with using Flipper (however support for this is being dropped as well), or using a combination of the Hermes debugger that is a pain in the ass to set up in chrome via \\`chrome://inspect\\`, and then maybe Reactotron for network requests. \n\nWhat are people using to debug? To me, the best option to use now is the Hermes debugger for logs along with Reactotron for network requests. ",
+        "num_comments": 21,
         "comments": [
-            "Thanks. Are you OP? I would be interested in learning more about biometrics security especially detection of changes in fingerprint / faceID detection"
+            "We use Reactotron for every project",
+            "I never could use Expo dev tools? Is it easy to setup? I think I once tried and failed because it needed EAS build (which I did) or something like that, which at that moment was to much headache, as it didn\u2019t worked out so I just stopped after hours and hours of setup madness.",
+            "Console log, when native stuff go adb logcat with tag (android) or attach process to xcode and use their logger (iOS) .\n\nBut there are better tools on the market\u2026",
+            "With the Hermes debugger I assume? What about network calls?",
+            "I'm gonna use it just because of the name",
+            "Have you used it? I used the beta version when it was first released and found it brilliant for logging, find component code etc but found it quite laggy. Has it improved?",
+            "Never had issues with Expo dev tools. You don't even need any extra steps to setup. And also needing EAS build is strange.",
+            "console.log on metro, Proxyman for network requests (mac only, commercial)",
+            "Well, it's not the final version yet, it's still a beta release. But as far as I can see it's the most promising react native debugger. It's developed by Software Mansion.",
+            "I might mistaking something, I really tried out a lot of options, only to realize that with expo some options are not possible etc, already spent way to much time until it got too messy and I stopped. I might give it a try again.   \n  \nWhat I forgot to say is, that of course I can start the debugger with the command \"j\" but extension like Redux debugger are not present that way,  also adding breaklines was not possible due to not being able to see my source code on the interface. Tried out VSCode debugger, but it was way too buggy and unreliable so I stopped."
         ]
     },
     "Frustrated by Google Play's New 20 Testers Policy ?": {
         "title": "Frustrated by Google Play's New 20 Testers Policy ?",
-        "score": 6,
+        "score": 24,
         "url": "https://www.reddit.com/r/reactnative/comments/1dr3ps2/frustrated_by_google_plays_new_20_testers_policy/",
         "content": "Hey ReactNative developers, especially those just starting out! I'm facing the same hurdle as you \u2013 the new Play Store policy requiring a closed beta test with\u00a0**20 testers for 14 days**. I built a simple app to solve a personal problem, but I think it could be helpful for others too. The problem? Launching it as a new dev (post-November 13th, 2023) requires this test, and paid services seem expensive or unreliable, with some even using automated testing that might violate Google's policy.\n\nHere's my idea: a community of developers who can\u00a0**test each other's apps**! This would not only fulfill the 20-tester requirement but also provide valuable feedback from developers who understand our struggles.\n\n**Does this sound good?**\n\n**I have identified, a community like this already exists!**\u00a0Check out\u00a0[Android Closed Testing Community](https://chat.whatsapp.com/JGqRGOO48ka69JkRrmv8d3).\n\nPlease let me know if you find it helpful.\n\nTogether, we can help each other with this new policy and launch our apps to the playstore.",
-        "num_comments": 4,
+        "num_comments": 8,
         "comments": [
-            "Does the group exist outside of Whatsapp? Is there a discord? A reddit?",
-            "r/androidclosedtesting",
+            "Hey yes it is really confusing and frustrating :( I am at 6/20 now. Do you want to test my app and I test yours? If you want we could also chat a bit, I am a little confused by this whole process",
             "WhatsApp as far as I know",
-            "There's an awful lot of IP infringement going on in that one. I would be very wary about an associated account ban because you helped someone out testing their \"Redbull\" watch face.\n\nNot saying it will happen but that it could, should be enough to scare the heck out of you, it does me.\n\nI'm sure there are a lot of legitimate people who need help but there's probably a metric shit tonne of people setting up new accounts to skirt bans or try their luck"
+            "I have 15 devices, dont worry.",
+            "There's an awful lot of IP infringement going on in that one. I would be very wary about an associated account ban because you helped someone out testing their \"Redbull\" watch face.\n\nNot saying it will happen but that it could, should be enough to scare the heck out of you, it does me.\n\nI'm sure there are a lot of legitimate people who need help but there's probably a metric shit tonne of people setting up new accounts to skirt bans or try their luck",
+            "This policy is asinine",
+            "r/androidclosedtesting",
+            "Does the group exist outside of Whatsapp? Is there a discord? A reddit?",
+            "Also try [this app](https://play.google.com/store/apps/details?id=com.andro.zm.tools.androidtesterspayforward). It helped me a lot."
         ]
     },
-    "I Made a 100% Free Alternative to Blinkist / Shortform with React Native!": {
-        "title": "I Made a 100% Free Alternative to Blinkist / Shortform with React Native!",
-        "score": 25,
-        "url": "https://www.reddit.com/gallery/1dqr715",
-        "content": "",
-        "num_comments": 13,
+    "Where did you guys learn react native?": {
+        "title": "Where did you guys learn react native?",
+        "score": 9,
+        "url": "https://www.reddit.com/r/reactnative/comments/1dr5a6f/where_did_you_guys_learn_react_native/",
+        "content": "Any recommendations guys? I want something that is structured for beginners. I know the documentation will do but I learn by watching videos. I've seen a lot on youtube but I don't know which one is good? Thanks\n\n  \nI already know JS but I don't know react yet but I am familiar with it.",
+        "num_comments": 18,
         "comments": [
-            "I've made a completely free alternative to Blinkist/Shortform for reading non-fiction book summaries in under 15 minutes. It's currently available on web and ios, and I'm recruiting beta testers for the Android app!\n\n[https://www.summrize.com/](https://www.summrize.com/)",
-            "This is impressive. I like that the website provides a sample of the app's functionality.\n\nHow do you plan to monetize this?\n\nEdit: The categories page seems to have numbers that are much bigger than the number of books listed for the category? For example, the [AI category](https://www.summrize.com/categories) says \"40\" but when I click it [I see only 2 results](https://www.summrize.com/categories/Artificial%20Intelligence)?",
-            "Looks like we both made 100% free alternatives today lmao",
-            "Well done - looks really good and functions well.",
-            "Looking dope!",
-            "Hey looking good! Saw that you are looking for beta testers for android. If you want, I could test your app and you could test mine. I am currently looking for these 20 testers for the PlayStore",
-            "I believe this is illegal but nice work from a coding standpoint",
-            "Bro that good. But the main question, from where are you getting the data? Books?\n\nIts is not legit, it doesn't make sense to call it a free alternative, since it will eventually be flagged for malpractice.",
-            "I'm in for Android",
-            "It\u2019s based on the number of books and snippets !"
+            "Hot take - Dont do courses now days I learned react native by doing two things skiming the documentation and feeding that documentation to  chatgpt. Just know I knew programming before chatgpt came out. So I suggest to know the fundamentals. And using expo.",
+            "I watched some LinkedIn learning course, but don\u2019t recommend it really since it was several years old and has some outdated info.\n\nStill, it connected a few dots for me, so that part helped.",
+            "Just start building. Read the doc\u2019s, ask questions on this sub. \nBut if you don\u2019t have JS experience maybe start there first",
+            "I haven\u2019t got a video series to recommend but I\u2019d suggest looking for recent videos where the developer uses Typescript, hooks & functional programming. And please do go through the docs as well as they are the \u201cmain source of truth\u201d",
+            "FreeCodeCamp.org has many awesome tutorials and articles. Go there and search for React Native and find a basic one to start. The format is usually an article which refers to a YouTube video made for the article by a FreeCodeCamp expert that is detailed and easy to follow. Good luck.",
+            "Doc and applying on projects",
+            "JSmastery. Also check out maximillions undemy course.",
+            "How about their react native tutorial that was posted a year ago? Do you still recommend tutorials that was posted a year ago? Does it matter?",
+            "And yet, 99.9% of the apps barely do any heavy processing and react native apps run so smoothly you wouldn't be able to tell them apart from native ones.",
+            "Yes a year ago is still good. I would go back to 3 years for most stuff, maybe longer"
         ]
     }
 }

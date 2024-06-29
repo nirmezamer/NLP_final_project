@@ -1,7 +1,7 @@
 {
     "Recommended wiki articles (including malware removal)": {
         "title": "Recommended wiki articles (including malware removal)",
-        "score": 739,
+        "score": 737,
         "url": "https://www.reddit.com/r/techsupport/comments/oroick/recommended_wiki_articles_including_malware/",
         "content": "## Check out these recommended threads on our wiki:\n\n[A breakdown of the rules](https://rtech.support/rules)\n\n[How to ask a good question](https://rtech.support/docs/guides/how-to-describe-a-technical-problem.html)\n\n[How can I remove this malware/virus?](https://rtech.support/docs/safety-security/malware-guide.html)\n\n[What AV do we recommend?](https://rtech.support/docs/recommendations/av.html)\n\n[How do I maintain Windows? What cleaner programs do I use?](https://rtech.support/docs/recommendations/maintenance.html)\n\n[How do I reinstall Windows?](https://rtech.support/windows)\n\n[I have ransomware!](https://rtech.support/docs/safety-security/ransomware.html)\n\n[How do I make backups?](https://rtech.support/docs/backups)\n\n[How can I log my hardware and performance for diagnostics?](https://rtech.support/docs/guides/hwinfo.html)\n\n[How can I wipe my HDD/SSD to sell/trash it?](https://rtech.support/docs/disks/disk-wipe.html)\n\n### We have more articles as well, check them out at [https://rtech.support](https://rtech.support)\n\nUpdated 2022-06-30",
         "num_comments": 2,
@@ -9,59 +9,45 @@
     },
     "AI chat bot responses are not permitted": {
         "title": "AI chat bot responses are not permitted",
-        "score": 130,
+        "score": 133,
         "url": "https://www.reddit.com/r/techsupport/comments/18xxj33/ai_chat_bot_responses_are_not_permitted/",
         "content": "Hello /r/TechSupport visitors,\n\nWanted to clarify something that the mod team has been informally enforcing, and I expect to be added to our rules soon:\n\n##***Post replies written by AI chat bots such as ChatGPT, Bing AI, Google Bard, Ernie, etc. are not allowed here.***\n\nChat bots can be fun and interesting, but they are far away from being able to offer reliable technical help. They lack nuance, give bad advice, can be \"bullied\" into saying outlandish stuff, and do all of these things while sounding confident and authoritative. \n\nAnyone can type their issue into ChatGPT and get an AI response. Real people can use real experience and reasoning to give better support, and that is what people expect when they post on a \"forum\" or \"social media\" or \"whatever garbage spez has turned Reddit into\"",
         "num_comments": 0,
         "comments": []
     },
-    "I'm locked in a constant battle with my dad over CCleaner": {
-        "title": "I'm locked in a constant battle with my dad over CCleaner",
-        "score": 24,
-        "url": "https://www.reddit.com/r/techsupport/comments/1dlorvj/im_locked_in_a_constant_battle_with_my_dad_over/",
-        "content": "I'm hoping this is the right place for this. But it basically boils down to this: \n\nPeriodically the family computer will bog down really badly. Files will take forever to open, programs will stutter and lag, webpages will get frozen on load and the entire computer will seize up for a few minutes at a time. \n\nIf I'm the one who takes care of the issue, I uninstall CCleaner and performance immediately returns to where it should be, I have no problems and things continue as normal. \n\nIf my dad is the one who gets to it first or gets on shortly after I do, he re-installs it to clean the hard drive and all that Naturally he leaves it installed because he hates the native program and is convinced it does more to organize and clean up the computer and faster than the native programs. \n\nCcleaner has also seen fit (or perhaps my dad chose to of his own free will) to install it's own web browser application, and I seem to be the only one really put off by this.\n\nIs there any way or program I can use to get my parents to ditch the CCleaner? I'm honestly convinced it's the thing killing the computer to keep itself relevant",
-        "num_comments": 50,
+    "Tech-illiterate Android parent wants to \u2018FaceTime\u2019 with a friend who has an iPhone. What do?": {
+        "title": "Tech-illiterate Android parent wants to \u2018FaceTime\u2019 with a friend who has an iPhone. What do?",
+        "score": 74,
+        "url": "https://www.reddit.com/r/techsupport/comments/1dqz4aj/techilliterate_android_parent_wants_to_facetime/",
+        "content": "My mom has an Android phone, and her best friend has an iPhone. They\u2019ve wanted to be able to do video calls together, but obviously FaceTime isn\u2019t gonna work.\n\nWhat\u2019s the easiest, lowest tech way I can connect them? Hopefully something like an app with a really easy setup and UI.\n\nAny advice is appreciated. Thanks!",
+        "num_comments": 71,
         "comments": [
-            "Sounds like a losing battle.  Probably the only way to win is to get your own PC and let them do whatever they want with the family one.",
-            "Delete the files of CC cleaner and leave the shortcut on the desktop.\n\nNo but seriously, CC cleaner has its pros but it's pretty much useless to have it running if you don't want to clear cached data. Just remove it from autostart... It's good if you have no clue what you re doing and don't trust Microsoft to do the job right. The native tools suck. Cc cleaner could well... Delete way more than you want to if you re stupid enough to select the wrong boxes.",
-            "Install it, but be smart enough to not say yes to everything during installation. Also, make sure nothing about it is running, such as not allowing it to run on startup and no scheduled scans from within the settings.",
-            "If you didn't pay for the computer, you don't get to control what it's used for.\n\nIt's unfortunate, but being a child doesn't last forever. You'll have your own computer one day to do with what you please, and you'll understand this argument better",
-            "You could create an account with administrator powers for yourself and a standard user for your family members and prevent them from installing programs without permission .",
-            "First up, a backdoor 2017 attack compromised ccleaner installed on 32-bit Windows systems, and an estimated 2.27 million machines were affected by the attack.  \nThen, in 2019, Avast revealed that malicious actors breached its network and were likely planning to target CCleaner in a supply chain attack but were foiled. Here, the hacker used stolen credentials to gain admin privileges but was unsuccessful at pushing out a malicious release.  \nThought is was pretty well known this program isn't good nor necessary. Just the security implications are what put me off from ever using is again (used it once on my phone in like 2010). What are you even using this program for? What is it actually doing that your father NEEDS it?",
-            "Try to convince him to use PC Manager a windows app instead it does all the same things- and something more. I dont think its the main cause of the problem - i mean any modern (last 10 years) really shouldn't be that affected by clearing temp files. I like PC Manager as it can clear temp files from RAM and actually save some GBS by deleting old windows update install files.",
-            "Buy them iPads.",
-            "Keep telling him he's stupid until he is too embarrassed to install that malware crap.",
-            "Sorry, I'm confused. Why is CCleaner bad?"
+            "Literally just send her the link to the FaceTime call. FaceTime works perfectly fine on android",
+            "Google Meet. WhatsApp. Facebook Messenger.\n\nAll three are free, cross-platform, and work more or less like the phone app.",
+            "I have an iPhone but my son has a Samsung.\n\nWe use WhatsApp to video call and he gets to see me.",
+            "Surprised not many said this yet but Google duo now called Google meet",
+            "What other comms apps do they use? If they already use an app like whatsapp or telegram, mostnof these messaging platforms offer video calls",
+            "Over the past five years my entire family and friend group became Apple users. Makes me sad but oh well. Ran into this and even though I could never get anyone to actually follow through, my suggestion was everyone install Google Duo. I haven't looked at it in a while so idk if Google shit canned it or if there's a better one but it or its equivalent would probably be the simplest most user friendly one for people who are tech illiterate.",
+            "ever heard of Whatsapp, telegram, Instagram, Facebook and tons of app solely based to videocall{IMO , Skype,Google meet",
+            "Messenger is great for that as is Whatsapp, insta, and a few others.  I used to work for Verizon (2.5 yrs ago) and my last few months there we learned Apple was rolling out something that let Androids FaceTime via a link but I think it had to be initiated by Apple and not vice versa.",
+            "For a moment i thought you meant that your parent was an android lol",
+            "you can create a link from facetime for people who don't have an Apple device. Must be at least on iOS 17 i think"
         ]
     },
-    "Got hit with a trojan, hacked. Panicking.": {
-        "title": "Got hit with a trojan, hacked. Panicking.",
-        "score": 57,
-        "url": "https://www.reddit.com/r/techsupport/comments/1dlhrdy/got_hit_with_a_trojan_hacked_panicking/",
-        "content": "Got hit with a trojan named \"Pyengyloader.trojan\" (or something). \n\nInstagram, Steam and reddit were hacked (reddit was only attempted, but caught). Somehow got past 2FA on Steam, Instagram did not have 2FA. My mail seemingly was left completely untouched (as far as I can see).\n\nNone of the accounts were taken, I lost some of my steam wallet, and my instagram was used to spam follow some accounts. This is confusing to me, why not change the emails/passwords etc? \n\nWent on a huge spree of adding 2FA to everything, cleaning everything up, changed every password, cleaned every cookie, logged out on everything that's logged in etc etc, but I didn't realize it was a trojan yet at this point. \n\nRan every virus scan known to man (probably not), even a paid one, everything comes out clean now, but I guess my question is: do I have to do a clean wipe. My backup plan stupidly wasn't very adequate and there's files I'd prefer to not lose.",
-        "num_comments": 63,
-        "comments": [
-            "If you suspect you may have malware on your computer, or are trying to remove malware from your computer, please see our [malware guide](https://rtech.support/docs/safety-security/malware-guide.html)\n\n*Please ignore this message if the advice is not relevant.*\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/techsupport) if you have any questions or concerns.*",
-            "check your emails rules or forwarding, my mom got hacked recentley and they got into her email and set it upt to automatically forward password reset requests then delete them from her inbox.",
-            "2FA is useless if someone has gained access to your computer, with the access they can steal your session tokens, each time you log in to something session token is created and they do not reset once you close the browser for example, that is why you are able to log in once and every time you visit the page you do not need to log in, that is because of session token that can easily be stolen with the access to your computer",
-            "I knows it sucks but always reinstall windows after. It would be foolish not to. What's stopping you from backing up your stuff now?",
-            "Meta is a horrible company for security. My accounts got hacked once, but I use 2fa on almost everything so they couldn't get anything, except Facebook and Instagram. They somehow logged in  facebook and insta and changed my password and email without even having access to my email. I had 2FA on too",
-            "Can I asked how you got the trojan?",
-            "on an uncompromised machine, create a linux live installation like Tails, etc., on a thumbdrive that was never connected to the compromised machine.\n\nBoot your machine with the linux thumbdrive, mount your drives, back everything up manually from within linux to a drive or device that was never connected to the uncompromised machine, or that was wiped within this live linux boot -- this prevents things from coming along with it that would need to be loaded within windows to be active.\n\nunmount and remove the backup drive/drives\n\ndelete partitions from your installation drives and other drives\n\nformat the drives\n\non another uncompromised machine, download the firmware for your motherboard, etc.,\n\nflash your motherboard firmware\n\nunplug all drives except for your installation drive\n\ninstall windows from a new source copied to a USB drive on an uncompromised machine  \nupdate windows immediately  \nupdate all drivers to latest for everything\n\ninstall a trial version of BitDefender, enable all levels of scanning and boot scanning  \nmalwarebytes as well if you wish (unless it complains with BitDefender)  \ndisable the auto-scan / file access of other solutions while you run scans from any particular one solution\n\npower off computer, re attach your extra drives\n\nboot up, scan everything with BitDefender\n\nshut down, reattach your backup drive(s)\n\nboot, copy back your data.\n\nfull re-scan of everything with BitDefender\n\nchange all your passwords for everything you have once again (unique passwords, do not re use any old passwords)\n\nThis has been my routine for 25 years and has kept me safe from any events I have had to recover from or prevent against\n\nShould be confidently good from there.",
-            "i just got hit by the same trojan rn",
-            "My other post is being downvoted by trolls.\n\n\nPlease see here:\n\n\nhttps://security.stackexchange.com/questions/7204/is-making-a-clean-install-enough-to-remove-potential-malware\n\n\nThis can be a deep deep malware. Do not assume the best.",
-            "This is going to sound sarcastic and stuff but remember to take deep breaths and make sure you try to relax your eyes and muscles (though ironically going for a long hard walk and straining your muscles may help).\n\nYou are in a very bad situation but feeling it's bad won't make it less bad, just will make it feel worse.\n\nYou can't even do a clean wipe btw, idk why people are being optimistic. That thing is properly in your system potentially at kernel level, you're not even sure what permissions you allowed to the executive file. You can reinstall and still have it lingering as a driver that the fresh OS picks up as part of the system it's meant to run on. You literally may need to purchase a new computer (make it cheap as you can get in general as it's only the motherboard that's key) and then replace in the fan, graphics card etc from this one if this one has very good stuff in that sense. Of course you may even need to put in entire cables from this into the worse computer as they often come with the bare minimum.\n\nThis is a red alert emergency, so take it step by step. Don't feel bad or pathetic for feeling overwhelmed, it is what it is. Try to use task manager and see what's running currently. Try using:\n\n  \n[https://www.malwarebytes.com/solutions/trojan-scanner](https://www.malwarebytes.com/solutions/trojan-scanner)\n\n  \nwhich is free. This doesn't scan for the virus file but frankly that's the least of your worries right now as you already activated it. What this is good at is finding non-virus files of already active viruses/worms etc and spotting the malware drivers and such that it's activated in your system."
-        ]
-    },
-    "Got hit with trojan called (Pyengyloader.trojan)": {
-        "title": "Got hit with trojan called (Pyengyloader.trojan)",
+    "wifi works for only 5 minutes": {
+        "title": "wifi works for only 5 minutes",
         "score": 2,
-        "url": "https://www.reddit.com/r/techsupport/comments/1dlu86e/got_hit_with_trojan_called_pyengyloadertrojan/",
-        "content": "The hacker got in reddit account yesterday and he was using it to comment and help people in antiviruses subreddits. before 1h had entered my facebook account and changed the email and password. What is the right thing to do now  ",
-        "num_comments": 2,
-        "comments": [
-            "If you suspect you may have malware on your computer, or are trying to remove malware from your computer, please see our [malware guide](https://rtech.support/docs/safety-security/malware-guide.html)\n\n*Please ignore this message if the advice is not relevant.*\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/techsupport) if you have any questions or concerns.*",
-            "reset your device and force the trojan to not reinstall, and change all your passwords, before doing a reset scan with malwarebytes just to be safe and after reinstalling scan again"
-        ]
+        "url": "https://www.reddit.com/r/techsupport/comments/1dr9v2a/wifi_works_for_only_5_minutes/",
+        "content": "Wifi is on and works on everything in the house, but yesterday it stopped working on my laptop :/ it says it\u2019s on but doesn\u2019t actually work. but! if i restart the computer, the internet works but only for about 5 min. ???? help pls",
+        "num_comments": 0,
+        "comments": []
+    },
+    "Screen flickering and can\u2019t access any apps": {
+        "title": "Screen flickering and can\u2019t access any apps",
+        "score": 2,
+        "url": "https://www.reddit.com/r/techsupport/comments/1dr96v2/screen_flickering_and_cant_access_any_apps/",
+        "content": "I was downloading some pictures on my windows 10 pc but it suddenly stopped working and restarted but now the screen keeps flickering in 2 second intervals that don\u2019t allow me to access any apps or the task bar. Any idea how to fix this?",
+        "num_comments": 0,
+        "comments": []
     }
 }

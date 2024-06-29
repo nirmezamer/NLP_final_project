@@ -1,97 +1,97 @@
 {
     "[Topic][Open] Open Discussion Thread \u2014 Anybody can post a general visualization question or start a fresh discussion!": {
         "title": "[Topic][Open] Open Discussion Thread \u2014 Anybody can post a general visualization question or start a fresh discussion!",
-        "score": 0,
+        "score": 6,
         "url": "https://www.reddit.com/r/dataisbeautiful/comments/1d5lerv/topicopen_open_discussion_thread_anybody_can_post/",
         "content": "Anybody can post a question related to data visualization or discussion in the monthly topical threads. **Meta questions are fine too,** but if you want a more direct line to the mods, [click here](https://www.reddit.com/message/compose?to=%2Fr%2Fdataisbeautiful.)\n\nIf you have a general question you need answered, or a discussion you'd like to start, feel free to make a top-level comment.\n\n**Beginners are encouraged to ask basic questions**, so please be patient responding to people who might not know as much as yourself.\n\n---\n\nTo view all Open Discussion threads, [click here](https://www.reddit.com/r/dataisbeautiful/search?q=author%3Aautomoderator+title%3A[Open]&sort=new&restrict_sr=on).\n\nTo view all topical threads, [click here](https://www.reddit.com/r/dataisbeautiful/search?q=author%3Aautomoderator+title%3A[Topic]&sort=new&restrict_sr=on).\n\n**Want to suggest a topic?** [Click here](https://www.reddit.com/message/compose?to=%2Fr%2Fdataisbeautiful&subject=[Topic]+Topic+Suggestion&message=I+have+a+topic+suggestion+for+the+monthly+threads:+).",
-        "num_comments": 23,
+        "num_comments": 28,
         "comments": [
-            "I just posted a 2-minute video of Hans Rosling explaining the data behind population growth using rolls of toiiet paper. I explained that I met him in 2013 when he came to the WHO in Geneva to deliver a talk and that he explained the data behind population growth using rolls of toilet paper. It was an excellent talk.\n\nThe moderators removed it and I am trying to understand why. As the post was taken down, I am asking my question here.\n\nFor reference, the video is at: [https://www.youtube.com/watch?v=dnmDc-oR9eA](https://www.youtube.com/watch?v=dnmDc-oR9eA)",
-            "I have a little data set which I would like to make beautiful, and I would appreciate tips. \n\nThe data pool is about 100 items, each one being a date and numerical value from 0 to 9--if this goes well, I may break down the 0-9 values into finer granularities--I would like to set the date as an independent variable, and look at how the 0-9 value differ from a random baseline.\n\nBecause I fear this isn't going to be clear enough of an explanation for how the 0-9 value can differ from random baseline, my point is: assuming random numbers, any of the numbers from 0 to 9 would be equally likely to come up ; I would like to visualize how much more often (or less frequently) any given number comes up.\n\nAnd the thing about using the dates as an independent variable--I would like to see if the frequency of numbers coming up more often than random evolves over time.",
             "I spent hours trying to get insights from Tableau and PowerBI. The tools were too complex and not designed for marketing needs. Then I found Whatagraph. It was a relief! Whatagraph is built specifically for marketing performance monitoring and reporting. It's easy to use and gives me the insights I need to make informed decisions. I've been using Whatagraph for a while now, and it's saved me so much time and frustration.",
-            "What are better ways to display US county-level (or equivalent sub-state government level) data? State data has this problem too but the variance in size between counties is much larger.\n\nI \\*hate\\* the use of US map to depict these data. The colossal counties in the western US overwhelm the small-but-far-more-populous counties east of the Mississippi. The eye is drawn to the wrong places - big areas, not the interesting data. Examples abound here and elsewhere online.\n\nA ranked list avoids the distortion-by-area, but those have the problem that there are thousands of counties, more than one duplicated name, and most aren't recognizably named (as the states and big cities are).\n\nI'm perplexed as to how best to make county-level data beautiful. Ideas?",
-            "Hi, \n\nI am looking to export usage metrics that are more granular than \"you spent 20 minutes on instagram today\". What I really want is:\n\n- You opened your phone between 09:03-09:12.\n- [Bonus] You used instagram between 09:03-09:08, and youtube between 09:08-09:12.\n\n\nHere's what I've tried:\n\n- *Digital wellbeing* will not export data.\n\n- *Stayfree*, *ActionDash* &  *AppUsage - Manage/Track Usage* all give me aggregate usage (33 mins on instagram in the day, but not specific times).\n\n- *YourHour* in theory should do it but the button does not work and does not export anything.\n\n\n**I know the data exists, as all the above apps can display the data in-app. How can I export it?**",
             "Hopefully this question / comment is allowed here. \n\nI have noticed that I do not have a flair showcasing my number of submissions. Is this something I do manually? Thank you.",
-            "I'm starting a personal project for my data analytics class where I am to develop a few novel questions that data can answer, then I'll spend the next 1-2 months centered around that topic/question. \n\nWhich of the following questions sound most intriguing to you and would make a good personal project? Or alternatively, what's a data-driven question you'd love to see answered? \n\n* *PokemonGO/Niantic*: Is player usage increasing or decreasing? How can we increase user retention and keep them engaged longer?\n* *Video Game Creators*: How does user spending differ between mobile and console games? How can we maximize profits based on this?\n* *Airlines*: What are the root causes of flight delays? How can we improve on-time performance in order to increase customer satisfaction?\n* *Hospitals/Doctor Office*: Can we use patient data to detect early signs of chronic diseases? What types of preventative measures can we create?\n* *Travel Agency*: Can our travel booking data predict peak travel seasons to specific destinations? How can we adjust prices based on this data to maximize profits?\n* *Fitness App Developer*: Why aren't users sticking with their workout plans? How can we help users stay motivated and achieve their fitness goals?\n* *Health/Fitness*: How does sleep quality impact my calorie expenditure?\n* *Local Governments*: Can we predict emerging religious movements or trends? How can we predict and prevent potential areas of conflict between different faiths?\n* *Local Governments*: How can social media alert us to potential public safety threats? Can we prevent these?\n* *Education and Employment*: What are the most in-demand skills for data analysts and data scientists? How can I best prepare myself for this career?\n* *University*: How can we predict our student's success? Can we create personalized learning strategies for the student?\n* *Music Streaming Service*: What are the emerging musical trends and artists that we should push/recommend to users?\n* *Environmental Science*: What are the safest/most dangerous days/times to be outside for individuals with asthma?",
-            "Does anyone know where I can find a dataset of Student earning that have a breakdown by the university the student attended and the SAT score of the student, and income of the student parent ...\n\nAll i could find is :  \n1-average earning or earning range for a particular graduation year.  \n2-average or lowest SAT score for a particular graduation year.\n\nBasically I am trying to do an infographic showing the relative effect of multiple variable on futur Earning.  \nBut I need a dataset where each row have a value for each dimension not a simple summary for each dimension.\n\nDoes this dataset even exist?",
             "Can anybody recommend any digital books or sites that provide a ton of non-specific data diagrams and visualizations? Sorta like this sub but in an organized pdf or archive format.",
-            "I have data that shows health status for 55 websites. It'll scale up to 100-200 at some point in the future. \n\nThe health status is either \"up\" or \"down.\" I'm happy to hear if there's a better name for it. \n\nBut I'm more interested in how to visualise the data over time. Let's say the time range is 3 hours. \n\nI tried using a line chart, but 55 lines blended together.\n\nI'm looking for a visualisation type that clearly shows each website health status over 3 hours on the same chart, and each service would have to be distinguished clearly. \n\nAny suggestions?"
+            "I'm looking for this one post I saw years ago. It showed data describing how people interpret moidfies (e.g., extremely > very > fairly > quite...). It had a lot of words and each one was displayed as a distribution of ratings. I imagine it was motivated by some specific scholarly paper. Anybody got a clue?",
+            "I feel like an idiot asking this but can anyone identify the software used to create a lot of these job search charts? I want to use them for tracking my medication and symptoms (for myself not for publication) and I've been sent a few hate messages for asking how the charts are made. Please help?",
+            "I have personal data on some fanfic writing I do. I'd like to organize the data into charts for hits, kudos, and chapter word length. I use Google a lot like Sheets for charts and data collecting. I was curious if anyone had any other data tools I could try, preferably for free.",
+            "I want to represent the daily routine of villagers. Their should be 2 tables 1 for men 2nd for women. Under whcih women who are in SHG's, women during harvest and women migrating.",
+            "This is a very small sample to understand how a random variable changes over time. But, generally speaking, if 0-9 is continuous, you could use a kernel density plot and overlay different years (or have them side by side). If it\u2019s ordinal or discrete, histogram or bar chart I guess.",
+            "Is it a popular tool  for companies?",
+            "Maybe like an upside down pyramid chart and for each row you could overlay two colours to show difference between may and June"
         ]
     },
-    "[OC] The United States of Drug Use": {
-        "title": "[OC] The United States of Drug Use",
-        "score": 4868,
-        "url": "https://www.reddit.com/gallery/1dl2pg6",
+    "5 weeks of job hunting (AUS) [OC]": {
+        "title": "5 weeks of job hunting (AUS) [OC]",
+        "score": 280,
+        "url": "https://i.redd.it/hi9smn4fyh9d1.jpeg",
         "content": "",
-        "num_comments": 686,
+        "num_comments": 50,
         "comments": [
-            "You can tell the northeast is doing all the corporate stuff.",
-            "Who in Missouri is getting prescription pills? I'm 99% sure it's either heroin or meth.",
-            "Meth for New Mexico checks out",
-            "Florida being relatively\"low\" on Total drug use is Hilarious... people literally plan vacations to Florida to stock up on pain killers.",
-            "Not a chance PA isn't opioids or heroin. I grew up near the Kensington area of Philadelphia. It's maybe the worst open-air drug use/markets in the country. Cocaine?!? Yeah, right. Lol",
-            "What exactly does 'usage' mean? Tried it once? Daily? Monthly?\n\nI'm not American and I don't think I've ever seen a meth user in my life other than on social media clips. If there's a state out there with 2.37% of the adult population hooked onto meth, that is... scary.",
-            "The lack of hallucinogens in the south tracks. Makes me think of the Neo Nazi guy who microdosed lsd and realized his entire world view was fucking stupid. Maybe the south just needs more LSD",
-            "West Virginia knows what it likes and that\u2019s the hardest, cheapest shit. And lots of it. Fucking balls to the wall, burning the candle from both ends.\n\nThey need something else to do out there.",
-            "Nevada's top is hallucinogens? There's no way. Meth by a long shot.",
-            "This is either very old data or incorrect- NC has really low heroin use because it\u2019s all fentanyl now. Unless the chart was including fentanyl in with heroin? \n\n(I work in overdose response/harm reduction in NC, so we follow this pretty closely)"
+            "Jeesh, any potential employer that puts you through the hell of 3 interviews, then has you write up a case study, and then ghosts you deserves to go bankrupt.",
+            "I wanna know why you walked out of 3 interviews!",
+            "The 3 interviews plus case study just to be ghosted is brutal",
+            "The data is from my own job search in the marketing field and made using SankeyMATIC.",
+            "Congratulations on the new job!",
+            "What the heck is a case study?",
+            "Such a cool graph.   May I ask your profession and location?  Just curious.   Congrats on landing a new position!  \ud83d\udcaa\ud83c\udffb\ud83d\ude0e",
+            "What hunting techniques did you use to actually get noticed?\n\nApplying early? Tailored resume for each?",
+            "Why did you \u201cwalk out\u201d 3 times?",
+            "I'm at 2000 in the US.  2000 with no response."
         ]
     },
-    "[OC] Measured vs Self Reported BMI Categories by Gender": {
-        "title": "[OC] Measured vs Self Reported BMI Categories by Gender",
-        "score": 335,
-        "url": "https://i.redd.it/5skjpl0ig08d1.png",
+    "Public perception of scientists' credibility in the US has gone down": {
+        "title": "Public perception of scientists' credibility in the US has gone down",
+        "score": 1947,
+        "url": "https://phys.org/news/2024-06-survey-perception-scientists-credibility.html",
         "content": "",
-        "num_comments": 98,
+        "num_comments": 400,
         "comments": [
-            "What population is this?\u00a0\n\n\n\"The latest data indicate that 39.6 percent of U.S. adults are obese. (Another 31.6 percent are overweight and 7.7 percent are severely obese.)\"",
-            "What's the error bar looks like for this data? I feel like this could plausibly just be statistically insignificant with\u00a0the self reported difference being\u00a0that\u00a0narrow.",
-            "It is data. But it's not that interesting.",
-            "Breaking news: people know how much they weigh.",
-            "This is not beautiful. It is certainly data",
-            "Source: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6210375/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6210375/)  \nTool: Python\n\nPopulation: The study involved 1500 college students across eight U.S. institutions who provided their height and weight via an electronic survey.\n\nNote: Sorry about the naming convention. The visuals reflect the naming convention in the data, which is only focused on BMI and does not consider situations where people might have a high BMI but are not obese, like highly built bodybuilders and such. Thanks for pointing this out in the comments.",
-            "Why did you use relative % differences instead of absolute % differences?",
-            "That's close. Probably a few rounding errors and that's it",
-            "Scatterplot with the individual data might pull out the misreporting trends a bit more clearly",
-            "I don\u2019t think the differences between the self reporting justifies gender or weight split."
+            "According to who? A bunch of nerd scientists? Like I'd believe that.",
+            "You don\u2019t \u201ctrust scientists\u201d. It\u2019s not a religion you put faith into. \n\nPeople can and should be skeptical of science. That\u2019s how science is supposed to operate. Knowing how the scientific method works is what\u2019s more important here than just \u201ctrusting science\u201d.",
+            "When you constantly tell people that facts don't matter, some of them will actually believe you it turns out.",
+            "\"Share My Values\"? What a weird thing to ask. What's really concerning is half the people thought they knew enough to give an answer.",
+            "This is by design.  Politicians felt like science was interfering with their ulterior motives, so they made their own science and discredited science.  People were trusting science instead of politics and television.",
+            "It\u2019s no coincidence that education is constantly being defunded at the exact same time.\n\nThe people who are in charge of running this country want to keep us stupid.",
+            "I\u2019m pretty progressive, but my lack of trust in scientists developed due to learning more about how broken the system of scientific publishing is. Scientists are very heavily pushed to publish first, good practice be damned. Furthermore there\u2019s a clear influence of big business within science. Plus many scientists have displayed that being very well informed in a specific area does not mean a general expertise, and if anything indicates a lack of development in other areas. So I still respect scientists and academics, but my faith in large institutions and broken systems has waned.",
+            "The thing is anyone can be corrupt.  People assume its anti-intellectual to distrust \"experts\", but many people are aware that not everyone smarter than you is looking out for you.",
+            "Now break those out by political identity.",
+            "There needs to be a clear, standardized, legal identifier that forces study results to be accompanied by who funded the study."
         ]
     },
-    "[OC] Most winning metropolitan areas: 21st century, and all-time (MLB, NBA, NFL, NHL) ": {
-        "title": "[OC] Most winning metropolitan areas: 21st century, and all-time (MLB, NBA, NFL, NHL) ",
-        "score": 15,
-        "url": "https://www.reddit.com/gallery/1dltqll",
+    "Which Topic-specific Words Dominate UK Political Party Manifestos? [OC]": {
+        "title": "Which Topic-specific Words Dominate UK Political Party Manifestos? [OC]",
+        "score": 104,
+        "url": "https://i.redd.it/xa7mxiuq6h9d1.png",
         "content": "",
-        "num_comments": 27,
+        "num_comments": 31,
         "comments": [
-            "Cambridge and Newton have to start carrying their weight.",
-            "On a per franchise basis, Boston and Montreal crush NYC. Remember, New York and Los Angeles have two of everything.",
-            "Could I ask what makes this data beautiful?",
-            "The notes symbols along the right edge are flipped between Miami and Edmonton",
-            "Detroit coming for that city of Champions mantra",
-            "Detroit has Wings in 2002 & 2008 and Pistons in 2004.  No Lions or Tigers.  What is the 4th?",
-            "Feel like MLS should count at this point, it\u2019s basically on par with the NHL in terms of viewership",
-            "The Montreal Canadians are doing some serious work standing up against those other cities",
-            "Thank you for correctly tying the 5 Lakers titles to Minneapolis.  \n\nA note: Bloomington is a part of the Minneapolis-St. Paul metro area, it\u2019s not usually added/singled out like that. So you could actually just take that out.  \n\nThough the Vikings and Twins played in Bloomington until 1983/4 (and the North Stars until they moved to Dallas), no Championships were ever won there, all of them were won in Minneapolis.",
-            "San Antonio up here, with only the 1 major league sports team.\n\nThanks, Pop"
+            "So most people concern about housing, there should be one more option of cost of living.",
+            "I'm surprised healthcare or NHS was not one of the topics listed. On several polls it is frequently one of the top 3 issues cited",
+            "What is the total word count for each manifesto?\n\nGreens coming second on the environment! OK.",
+            "Seems like everyone agrees the rent is too damn high.",
+            "This is very simple (maybe too some will say) and interesting. Is there the same for France ?",
+            "The Greens lagging behind on the environment, and it being overall only their third priority, behind housing and weirdly Israel-Palestine...\n\nGuys, you literally had **one job**.",
+            "Nice work.  \nHow did you assert whether a word was related to some topic? Did you build the list \"by hand\" before analysis, or was it a more advanced tool?  \nReally interested because I ran a similar analysis with New Year's Eve presidential speech in France, and lexical fields were very arbitrary.",
+            "Ah the UK, a country with a two-party system with six parties, and where a party with the same amount of votes as another party can get 10x the seats in parliament if the votes are more concentrated in one region instead of scattered across the entire country.",
+            "Notice how the greens care more about palestine than the environment.",
+            "So the Putin apologists don't say anything about Ukraine....\ud83e\udd14"
         ]
     },
-    "[OC] Most common cause of unnatural death by country for American citizens": {
-        "title": "[OC] Most common cause of unnatural death by country for American citizens",
-        "score": 379,
-        "url": "https://i.redd.it/m7ncqoriay7d1.png",
+    "[OC] Most-subscribed YouTube channels worldwide (May 2024)": {
+        "title": "[OC] Most-subscribed YouTube channels worldwide (May 2024)",
+        "score": 4312,
+        "url": "https://i.redd.it/7cxhwlvfha9d1.png",
         "content": "",
-        "num_comments": 156,
+        "num_comments": 750,
         "comments": [
-            "Those shades of green are really hard to tell apart.",
-            "So the most common cause of unnatural death in ine of the driest countries on earth (Mali) is drowning?? Oh the irony",
-            "This map got stranger the longer I looked at it.",
-            "TIL Mongolia and Cambodia are American drug vacation destinations apparently.",
-            "That's a fun correlation: the more Americans that commit suicide in your country, the safer the roads are.",
-            "Source:  \n[https://docs.google.com/spreadsheets/d/1LJ0X748ngm0MNkRBl7IFjiPyyCTKFv6PnUGdYP1R9r8/edit?gid=0#gid=0](https://docs.google.com/spreadsheets/d/1LJ0X748ngm0MNkRBl7IFjiPyyCTKFv6PnUGdYP1R9r8/edit?gid=0#gid=0)  \nwhich is based on:  \n[https://travel.state.gov/content/travel/en/international-travel/while-abroad/death-abroad1/death-statistics.html](https://travel.state.gov/content/travel/en/international-travel/while-abroad/death-abroad1/death-statistics.html)\n\nTools:  \nPython for Google sheets [https://workspace.google.com/marketplace/app/neptyne\\_python\\_for\\_sheets/891309878867](https://workspace.google.com/marketplace/app/neptyne_python_for_sheets/891309878867)",
-            "Me googling after seeing this map: \"Why are Americans coming to my country to commit suicide!?\" haha",
-            "Mostly what you expect I would say:\n\n\\* Mali showing up for drowning is weird. And it happened in the capital, not some ferry on the Niger  \n\\* Mostly you'll die in traffic in countries with dangerous traffic, otherwise suicide mostly  \n\\* Except for a bunch of wet countries where you might drown  \n\\* And some obvious candidates for terrorism, though if you look at the source that is mostly military",
-            "Btw, some \"suicide\" cases can still be flipped to homicide cases.",
-            "Ah yes. All the colors of the rainbow. Red, orange, yellow, green, green, green, blue-green, blue, and..... Tan.\n\nR/dataishardtoread"
+            "wtf it was just yesterday pewdiepie and t-series were fighting for top spot",
+            "this chart is how i know i am out of touch",
+            "Wow the last time I have seen a graph like this was when PewDiePie was battling with T-series \n\nI can't believe how long ago that was",
+            "Might be a weird question but what made you pick the top nine instead of the top ten?",
+            "I'm still stuck with the pewdiepie vs t series war",
+            "What a cesspool of content",
+            "Don\u2019t go down to two decimal places if you don\u2019t consistently have two decimal places worth of data.",
+            "What is beautiful about this data visualisation?\u00a0",
+            "I've never watched a single video by any of these and I've only heard of 4 of them.",
+            "I have not watched a single video of Mr. Beast. Not on purpose, it's never been suggested on my YT feed. Same as PewDiePie. I know these guys from the news feed but never actively looked for a video of them."
         ]
     }
 }

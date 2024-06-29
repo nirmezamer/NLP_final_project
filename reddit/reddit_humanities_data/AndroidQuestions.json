@@ -1,67 +1,66 @@
 {
     "We Have a New Discord Server!": {
         "title": "We Have a New Discord Server!",
-        "score": 80,
+        "score": 81,
         "url": "https://www.reddit.com/r/AndroidQuestions/comments/7iqnh2/we_have_a_new_discord_server/",
         "content": "Hello everyone!\n\nWe now have a Discord server available for those who need in-depth support. Yes, the same rules apply there as the rules on the subreddit. Please be respectful, and most of all, have fun!\n\nhttps://discord.gg/bWYTh46",
         "num_comments": 20,
         "comments": [
             "Kernel page size file 0 error Android Kitchen\n\nDoes anybody know how to fix this error no matter which rom / firmware I use I get this error when unpacking kernel and ramdisk, the boot images from roms I use, I know are working, not coorupt or missing, whether it's muiu global fastboot rom or pixel os after using payload dumper, I still get this error, anyone have any suggestions, i have  checked to make sure I have libs, extensions required in cygwin",
-            "do all the cool subs have discord now?",
-            "Cool",
-            "Can you ELI5 - what benefit does the discord server bring to the table?",
-            "Just joined the discord to search for some help, but why is NSFW sub link invite is in the general and even other chats and haven't been deleted by mods?? It even mentions teenagers which is gross. The discord clearly states no NSFW content.",
             "can i hav yor  ton nn",
             "Why? So all the morons here can ask how to bypass FRP and use thier stolen phones over voice? This sub is absolute garbage now..",
-            "that's great news",
             "Can't find ANY info on using the uber delivery app for tablets! Only for restaurant side tablets. Looking to get into the game. I hear the Z-Fold phones can work since they're phones perhaps? At least doordashers can use them. And what of plug-in external touchscreen monitors for phones? Some E-Ink ones look nice. (Do those drain phone battery? Does the phone screen need to be on?",
-            "soup alive foolish sugar deserve rotten beneficial sharp versed meeting\n\n *This post was mass deleted and anonymized with [Redact](https://redact.dev)*"
+            "Hey, if you ever got an answer to this, please make a post with your question and answer you found !\n\nIf you never found an answer, please copy the post text that you made here, and make a new post! Thanks so much",
+            "Cool",
+            "that's great news",
+            "faster answer",
+            "Ok thanks",
+            "do all the cool subs have discord now?"
         ]
     },
     "Need a phone recommendation in the US? Check here.": {
         "title": "Need a phone recommendation in the US? Check here.",
-        "score": 26,
+        "score": 23,
         "url": "https://www.reddit.com/r/AndroidQuestions/comments/12mig84/need_a_phone_recommendation_in_the_us_check_here/",
         "content": "Hey everyone. For the last year or so, I've been working with a startup called PerfectRec. They're trying to make a website for recommending products to people. They just launched their [phone recommendation engine](https://www.perfectrec.com/), and we'd love your feedback on it.\n\nHow PerfectRec works is they hire product experts from places like Reddit and have them work with a machine learning team to build a personalized product recommendation model.\nI'm looking forward to how well it recommends products vs other websites, but we would love some early feedback. Keep in mind - this is based in the US and at the moment doesn't really take into account \"global\" or \"international\" options.\n\nWhat do you think works? What doesn't? Do the Android recommendations seem good to you?",
         "num_comments": 156,
         "comments": [
-            "[removed]",
-            "Too me, its showing phones any other recommendation website or even Amazon App picks up on.\n\nWhat about Customization, Rooting, Privacy, Security, Years of Upgrades, Storage, RAM, etc...\n\nCoordinate with Magisk, Custom ROM creators, Security experts & privacy experts(REAL ONES), conduct surveys through out years on the same phones to see how users still feel/like them etc\n\nIdk, it just does not stand out at the moment. \n\nI will say congrats on trying to make things easy for the users... if its sincere..  i may look at it more in detail later.",
-            "I used the website fully expecting a Galaxy A54 recommendation. I chose Android, Small (also medium), up to $400, 1 cam, 1 battery life, checked OLED display and refresh rate 90hz+, and it recommended me the p7a, s23, and p7. P7A wasn't a bad recommendation, but I give it an L because the A54 is cheaper, and higher refresh rate. \n\nI think you guys should pivot a bit and try to become pcpartpicker but for phones.\n\nI'd rather see a [pcpartpicker-esque](https://i.imgur.com/C9dt4Zu.png) view of looking at phones where there's a bunch of filters on the left side (sliding price, size, refresh rate, manufacturer, screen res, OS, battery, etc), and a filterable/sortable table that displays the most important info, and like in pcpartpicker, you can click on the phone and it'll show you literally all of its specs and features, and a list of best deals like [gsmarena](https://www.gsmarena.com/google_pixel_7-price-11903.php), but display them how [pcpartpicker does it](https://i.imgur.com/IycbuyX.png) so you can see other options.\n\nFor example, I'm currently in the market for finding an Android phone that has 120hz, is unlocked, has an oled screen, and under $500. From my own personal researching, I was able to find a Galaxy A54 for $320 on Amazon. I feel like there's a lot of options out there that satisfy those parameters, but googling \"best 120hz midrange phones\" or some other variations leads to me terrible looking websites that didn't really answer my question, showed expensive phones, or very long articles that required to do way more research anyway.\n\nI feel like the website would unironically do a much better job of \"recommending\" you something with an extensive list of filters and sortable table at first glance like pcpartpicker versus strictly an algorithm. \n\nImagine I could just check a box on the left side that said 120 hz and OLED screen, put under $500 on a sliding scale, and sort the table by ascending order of price. I'd instantly have a table of ALL the phones out there with the best prices that satisfy all my desired parameters instead of having to go through several arbitrary questions and answers. Imagine these results having a shareable link? Experts (or ppl who know about phones) would LOVE this, and experts would also have a much easier time recommending phones to askers with a tool like this. Basically, put the onus of the actual recommending part on the experts instead of an algorithm, and create a platform with a great UI & UX that'll make that easy. \n\nAll that being said, the recommendation part and the pcpartpicker part can definitely both co-exist on the platform for sure, so it's not like you'd have to scrap the rec algo entirely since it most certainly is very useful for complete newbies, but I think a shift of focus and priority would solve way many more needs and use cases.\n\nIMO you have a clear goal and a good idea here that is definitely needed, but I urge you to take heavy inspiration from pcpartpicker and think about that approach too, as I could easily see it potentially being super useful for newbies and experts alike.",
             "I've been working with Fatalstryke on PerfectRec. One thing I'd add is our target audience for the site isn't product enthusiasts, but rather everyday consumers like my mom and dad who might call and ask what phone they should buy. People who find researching and comparing electronics overwhelming. \n\nI'm super curious what you think of the recommendations we are providing right now. Are they what you'd recommend to a family member who asked?",
             "I like it, especially the feature that recommends a phone that is slightly above budget. Users won't miss a recommendation just because a good option is a few dollars more than the base price. Good job.",
             "As an engineer, I would strongly suggest look at pre-installed non-removable and updating bloatware and make your own decision.  Remember most phones out there have all apps installed in the internal memory.",
-            "I didn't get any benefit from this whatsoever. I tried to be relatively vague with my answers just to see how it worked and just kept recommending me a Samsung.\u00a0\n\n\nThe only metrics it had was that cameras were a three out of four in importance and battery was a three out of four and importance and that I wanted OLED.\u00a0\n\n\nLol\u00a0\n\n\nUS market is so limited... 93% of characters sales go to two companies and I think there's almost no utility here.\u00a0\n\n\nMight I have some value at the super budget level where there's more options I suppose",
-            "general speaker question; i have a moto a12 phone one speaker   \ni listen to a lot of audio books, where one speaker does a fair job.    \n(yes, i also have buds, headphones, bt speakers, but i'm asking about the phone itself)  \ni notice a lot of new phone spec lists claim to have two speakers    \nso my question is... does having two actually make a noticeably   \ndifference in the volume output and clarity of sound off a phone?  \ndoes any maker of phone do a better job with external speakers?",
             "MI phones and XiaoMI OS in USA too. LineageOS currency and not. Are THICC hydrogels a thing? (Only on backs or maybe lo rez phones?)",
-            "what I want is a phone from a company that doesn't just force updates down people's throats and allows people to choose if they want to update or not, I also would like the phone to have as little bloatware as possible"
+            "what I want is a phone from a company that doesn't just force updates down people's throats and allows people to choose if they want to update or not, I also would like the phone to have as little bloatware as possible",
+            "The phone it suggested to me was way higher cost than I would prefer... ;o;\n\nWell 10 out of 10 for effort, was interesting! :D",
+            "Is there a modern phone like the Galaxy S9/S9+? I've never been happier with a phone than my S9, but unfortunately it's gotten too old to be usable anymore (even if I replaced it with a sealed one), and my eyes have gotten to the point where I can no longer read such a small display. So I'm looking for a modern phone with the features I loved about the S9 - notification LED, SD card slot, no holepunch/notch, no camera bump, and a fingerprint sensor on the back. Unfortunately it seems like all the modern flagships use under-display sensors (which suck), the only ones that have rear or side sensors are mid-to-low-end, none of them bave notification lights, and all of them have holepunches. It has to have flagship features like an OLED display and a Snapdragon 8 series chip (865 or better). Ideal size is between 6.1\" and 6.5\" display, so more like an S9+ as it has the perfect width, just a tad bit too long..",
+            "Much to be desired.\n\nLike MUCH.",
+            "Very great I tested it and work very and I mean very well",
+            "What's with the high end android phones not having sd card slots anymore? I'm looking to upgrade probably soon with my S10 and was baffled to see it not an option for alot of higher end/ high spec android phones"
         ]
     },
     "How to remove people from the share option? ": {
         "title": "How to remove people from the share option? ",
-        "score": 2,
+        "score": 6,
         "url": "https://www.reddit.com/r/AndroidQuestions/comments/1dr5uvq/how_to_remove_people_from_the_share_option/",
         "content": "Whenever I choose to share a link, video or picture, my ex still shows up on my email who I blocked a long time ago and also a girl I spoke to like 6 years ago on twitter. How do I remove them as options? Because my gf might see and think I'm up to no good \ud83d\ude02",
+        "num_comments": 2,
+        "comments": [
+            "I don't know how to remove specific people, but for Samsung phones, I know how to turn off having people shown at all.\n\nSettings>advanced features>show contacts when sharing>turn off.",
+            "CORRECT"
+        ]
+    },
+    "How do I get rid of all the junk files on my phone?": {
+        "title": "How do I get rid of all the junk files on my phone?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/AndroidQuestions/comments/1drd5y6/how_do_i_get_rid_of_all_the_junk_files_on_my_phone/",
+        "content": "My phone has been filled with junk for a long time and it keeps eating up all my space. I haven't had more than 100 megabytes free at a time for a long time, and I'm getting sick of it. The total of all my apps and files on internal storage is only around 2 gigabytes despite the fact that i'm supposed to have \\~16. How do I get rid of them so I can have space again? Downloading an app for it isn't an option right now due to the fact that I don't have the space to be able to download said app, but I'll still take app suggestions that can clean it up for once I do have space again.",
         "num_comments": 0,
         "comments": []
     },
-    "What is this white circle on my screen?": {
-        "title": "What is this white circle on my screen?",
-        "score": 5,
-        "url": "https://www.reddit.com/r/AndroidQuestions/comments/1dr0qqr/what_is_this_white_circle_on_my_screen/",
-        "content": "The circle appears intermittently and keeps moving as if someone is controlling it.\nImages: https://ibb.co/3TZLcR9\nhttps://ibb.co/6YpLCgh",
-        "num_comments": 3,
-        "comments": [
-            "Might be a chat bubble that has bugged out.",
-            "It's a notification but the phone didn't know what to make of it.\n\nHere's something that might clear the problem. Turn off phone. Completely off. Wait 10 minutes. Restart\n\nHopefully y'all goid",
-            "It could be a chat bubble or the accessibility button."
-        ]
-    },
-    "Is there any way to remove the upgrade app notification popping up on old apps": {
-        "title": "Is there any way to remove the upgrade app notification popping up on old apps",
+    "Camera -> gallery preview -> opens SMS": {
+        "title": "Camera -> gallery preview -> opens SMS",
         "score": 1,
-        "url": "https://www.reddit.com/r/AndroidQuestions/comments/1dr6fpn/is_there_any_way_to_remove_the_upgrade_app/",
-        "content": "I want to play old apps but it says I need to upgrade, is there a way to remove it",
+        "url": "https://www.reddit.com/r/AndroidQuestions/comments/1drcsvv/camera_gallery_preview_opens_sms/",
+        "content": "Hello benevolent concil of Android wizards,\n\nMy parents (Nokia X20), have somehow managed to find themselves in the following situation which I had no luck searching or trying to reacreate:\n\nWhen taking a photo in the normal camera app, the image appears in the gallery preview in the bottom right circle. When pressing this, instead of being taken to the gallery, it opens up options to share the image by SMS Upon backing out of this dialogue, they are returned to the camera app, but the photo is not saved.\n\nAny advice on how to return this situation back to normal [gallery opens, photo has already been saved] would be much appreciated.\n\nMy parents are old and love accidentally pressing all the buttons at once. Thanks for understanding my stress.",
         "num_comments": 0,
         "comments": []
     }

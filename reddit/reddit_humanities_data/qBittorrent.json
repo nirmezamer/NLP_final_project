@@ -9,45 +9,53 @@
     },
     "Finally got my fiber drop. After a decade as a leech its time to repay my debts.  One-day results on a Pi 4 with qBT + WireGuard.": {
         "title": "Finally got my fiber drop. After a decade as a leech its time to repay my debts.  One-day results on a Pi 4 with qBT + WireGuard.",
-        "score": 17,
+        "score": 34,
         "url": "https://i.redd.it/qycrot7j8to61.jpg",
         "content": "",
-        "num_comments": 5,
+        "num_comments": 11,
         "comments": [
             "Thank you for your service!",
             "i dream of getting a connection like this, and helping as much people as possible",
             "How do i view this?",
+            "How do you manage a VPN drop and the torrents going out un protected is it a matter of just binding to the wire guard interface",
+            "Wish we could transfer our stats to different devices. I had to do a fresh install and lost my 20tb up and 6tb down :(",
+            "ctri i on qbittorrent on windows",
+            "how? i'd love to know",
             "I wish I could do this but randomly hard links will fail and I can\u2019t have that storage just keep building so I\u2019ve set my share ratio to 5 or 1 month, whatever comes first. \n\n\nI\u2019ll try to troubleshoot why hard links will randomly fail so I can set it to infinity eventually, but until then, at least I\u2019m doing something",
-            "How do you manage a VPN drop and the torrents going out un protected is it a matter of just binding to the wire guard interface"
+            "by backing up your appdata folder and taking it with you. if you're on windows, you need your local appdata and roaming appdata.\n\nc:\\users\\user\\appdata\\roaming\\qbittorrent \nhas configs for your categories, watched folders, rss feeds. qbittorrent.ini is all of your settings, and qbittorrent-data is your statistics file.\n\nc:\\users\\user\\appdata\\local\\qbittorrent\nBT_backup has your active torrents with all of their individual stats and resume files. \n\nif you back up these 2 folders, reinstall os, then reinstall qbit and repopulate your appdata folders with what was in them before the wipe, it will be as if nothing changed. all settings, active transfers, stats. EVERYTHING comes back!",
+            "you can do this"
         ]
     },
-    "(debian) How do I stop qbittorrent from autostarting and make it terminate on SIGTERM?": {
-        "title": "(debian) How do I stop qbittorrent from autostarting and make it terminate on SIGTERM?",
-        "score": 1,
-        "url": "https://www.reddit.com/r/qBittorrent/comments/1dr5tgc/debian_how_do_i_stop_qbittorrent_from/",
-        "content": "Its really dangerous that it won't terminate when you close and and that it autostarts because it puts me at risk of torrenting without vpn. I don't want to know how many hours I've accidentally torrented with my VPN off because it kept running in the background without me knowing. There don't seem to be any options for this in the settings menu at all.",
+    "Retrieving metadata forever": {
+        "title": "Retrieving metadata forever",
+        "score": 3,
+        "url": "https://www.reddit.com/r/qBittorrent/comments/1dr9y7i/retrieving_metadata_forever/",
+        "content": "Hi, I've been using qbittorrent with nordvpn on win11 for a while now, but since yesterday, no download has started at all. It's basically stuck on retrieving metadata.  \nI've looked for a bunch of potential solutions, tried without the vpn, tried some earlier versions of qbittorrent, uninstalled it, and tried different torrents that I know have a lot of seeders.\n\nI also tried another torrent software thingy, transmission, that I did not like using at all and it seemed to work okay, for like half of the torrents I wanted and very slowly.\n\nWhen I do \"start\" the torrents even if the loading hasn't finished (or started for that matter) it's stuck on \"downloading\" status with nothing in the content window, no progress whatsoever \n\nhttps://preview.redd.it/thr9v8q48i9d1.png?width=1160&format=png&auto=webp&s=e1548c0bd24d48ca317d2c2ef8552230cf83fbac\n\nDo you have any idea what could be the issue for qbit ?  \nthx\n\nhttps://preview.redd.it/t0ifq3et7i9d1.jpg?width=1919&format=pjpg&auto=webp&s=cac7a6398e011dcd23931d1d6126616eeb68f0a2\n\n",
         "num_comments": 1,
         "comments": [
-            "idk what SIGTERM is but you can disable autostart on qB\n\nAlt+O, Desktop, uncheck Start qBittorrent on start up"
+            "This has happened to me a few times. One time I uninstalled and reinstalled and we were good. Another time I switched port forwarding addresses in the Vpn and updated in qbit and I was good. Yesterday it switched my qbit to the wrong I think interface (qbit was in utun8 and my VPN was on utun6). Double check all of those things"
         ]
     },
-    "can someone please explain where do i find my passkey? PLEASE": {
-        "title": "can someone please explain where do i find my passkey? PLEASE",
-        "score": 0,
-        "url": "https://www.reddit.com/r/qBittorrent/comments/1dr2jpq/can_someone_please_explain_where_do_i_find_my/",
-        "content": "im trying to change it using the passkey-replace program and i cant find my previous passkey to make a new one.\n\nthere is literally no answer to this on the internet please help im desperate ",
-        "num_comments": 0,
-        "comments": []
-    },
-    "Mixed up downloads list, how to get it properly organized?": {
-        "title": "Mixed up downloads list, how to get it properly organized?",
-        "score": 1,
-        "url": "https://www.reddit.com/r/qBittorrent/comments/1dr2a3l/mixed_up_downloads_list_how_to_get_it_properly/",
-        "content": "So I was clicking a queued torrent to initiate \" force resume \", fumbled my mouse a little, and suddenly the whole queued list, seeding, downloading and completed is all disorganized and mixed up where it used to be all of one in a list, the next listed, etc, so you had a full band of green, a full band of blue and a band all teal or whatever that color is...  How do I get that back? I can find nothing to sort it in settings/options... Thanks in advance!",
-        "num_comments": 2,
+    "Downloads are very slow": {
+        "title": "Downloads are very slow",
+        "score": 2,
+        "url": "https://www.reddit.com/r/qBittorrent/comments/1dravs5/downloads_are_very_slow/",
+        "content": "I'm trying to download a 90gb batch but my download speed is only 100b/s most of the time, my internet is fine, all settings are default and other torrents had worked fine. The seeds is 2( 24) and the peers is 28 (172)\n\nIt also occasionally goes to stalled",
+        "num_comments": 1,
         "comments": [
-            "Choose which column you want to be sorted, for example I sort mine by \"completed date\"; and click on the column title till it is sorted the way you want.",
-            "Thank you. But what I'm trying to get back to is where I had \" all \" selected and I had all the items  \" downloading \" as a separate green band from all the \" seeding \" as a separate blue band, and all the queued a separate teal band. Now with \" all \" selected, these are a mixed up mess. All because my finger slipped while doing a \" force resume \" Aw man, now it's even worse, all the category colors are gone, it's all teal colored now Edit: ok at this point what I need to do is return to default view. I can't find anything like that in options/settings.. Anyone?"
+            "are you port forwarded\n\n  \nalso it could just be the torrent being saturated, just wait a while"
+        ]
+    },
+    "I Need Some Help With Port Forwarding w/PIA VPN! :) ": {
+        "title": "I Need Some Help With Port Forwarding w/PIA VPN! :) ",
+        "score": 2,
+        "url": "https://i.redd.it/kmqruw5rzi9d1.jpeg",
+        "content": "",
+        "num_comments": 3,
+        "comments": [
+            "What are you trying to do?? If you route all your traffic through the VPN, you don't need any setup on your router.",
+            "I only route torrent traffic through the VPN with split tunneling. I have port forwarding requested through my VPN and have it setup in qBittorrent. I want to make sure it is working as it should with port forwarding through my router.",
+            "Hey crew! I use PIA vpn service and have port forwarding requested. I'm fumbling through my Asus router trying to setup port forwarding.\n\nI have the port set in qBittorent the same as the port PIA has given me. Now, I need some guidance on what to set here in the router. Should that port number be entered in both internal and external ports in the router settings here, or just one or the other? \n\nDo I set the \"external port\" number to the same open port PIA has given and I have set in qBittorent?\n\nDo I set the \"internal IP address\" to my computers actual IP address, or am I supposed to set it as my VPN IP address?\n\nWhat protocol should I set it to here in these settings?\n\nWhat other setting do I need to enter or adjust to get this working right?\n\nThanks a whole bunch for your help!!! :)"
         ]
     }
 }

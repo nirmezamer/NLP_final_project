@@ -1,88 +1,68 @@
 {
+    "What's next ! After M.Sc physics ": {
+        "title": "What's next ! After M.Sc physics ",
+        "score": 3,
+        "url": "https://www.reddit.com/r/AskPhysics/comments/1drbofp/whats_next_after_msc_physics/",
+        "content": "Hello guys, I am from India. I have done my PG in physics, i really want to work in any industry but finding job as a M.Sc fresher is quite hard. I don't know what to do next.\n\nI can do PhD but I feel it is not for me \n\nI did searched for any m.tech program where I am eligible but there is very few and it requires high fees structure\n\nIf I switch to completely different fields like software development. I have to start from scratch. But nowadays market only recruit engineering graduates\n\nSo, i don't know what to do next !! I hoping for some suggestions regarding this.",
+        "num_comments": 0,
+        "comments": []
+    },
     "I know it\u2019s impossible for people to go back in time, but can anything else go back in time?": {
         "title": "I know it\u2019s impossible for people to go back in time, but can anything else go back in time?",
-        "score": 28,
+        "score": 55,
         "url": "https://www.reddit.com/r/AskPhysics/comments/1dquhx6/i_know_its_impossible_for_people_to_go_back_in/",
         "content": "I\u2019m only 15 so I\u2019ll try my best to explain my question. You know how the universe is a sheet and time is more like a dimension? Well, kind of like quantum mechanics, but can subatomic particles hop between different times? Going forward in time, staying the same, or going back? Or maybe since the universe is a sheet possibly stacked on top of other universes in different times, could it be possible for the sheets to go through each other? Just saying, I\u2019m 15, in high school, and barely understand physics. Although, I try.",
-        "num_comments": 50,
+        "num_comments": 70,
         "comments": [
             "It's worth learning that there is _nothing special about humans_. We are just clusters of matter and energy no different from a spring onion, or a chunk of Halley's comet, or a cloud of gas from a distant nebula. If you know a human can't break a physical law then you also know that any other nondescript matter in the universe can't do it either.",
-            "There's a rule in physics called causality.  There are basically 2 parts to causality.\n\n1) An effect MUST come after the event.\n\n2) effects of said event travel no faster than the speed of light.\n\nWe have found no evidence of causality being broken, ever. A particle going backwards in time, even if its a tiny amount, would break causality.",
-            "The closest you'll get is anti-particles being modelled as moving backwards in time",
             ">but can subatomic particles hop between different times?\n\nThe rules of QFT explicitly enforce casuality",
-            ">Or maybe since the universe is a sheet possibly stacked on top of other universes in different times, could it be possible for the sheets to go through each other?\n\nWhat you are referring to here is interesting. The answer is no, i believe.\n\nImagine you are a 2 dimensional being, and a 3 dimensional thing enters your universe. Lets say a sphere goes through. What you would see is a circle getting bigger, then smaller , then disappearing.\n\nIf the sheets went through each other, you will see an infinitely thin line appear. \nThe only way you will be able to understand what is going on is if yourselve were 3 dimensional.\n\n>but can subatomic particles hop between different times? Going forward in time, staying the same, or going back?\n\nNo, but atleast you can see back in time if you just look up",
+            "The closest you'll get is anti-particles being modelled as moving backwards in time",
             "the universe is not a sheet. it is 'like' a sheet in that a shadow is a 2d representation of a 3d object. the time as a dimension is not really as a 4th dimension, other than time can be thought of as dimensional I.e. time can possess geometric properties. thus time-space as the properties of one necessarily affect the other. the universe is NOT a sheet. we can think of it that way to try to conceptualize the multitudes of dimension our perception cannot fully grasp. time appears to us to flow - that appearance is as real as we can hope for. how time behaves outside our perception is impossible to determine currently.",
-            "You can rearrange the atoms, but it would be cool if you send back just information. \n\nI had a theory that if you had enough energy to shift atoms and particles into the position you want to achieve, then, even the created memories in your brain would seem real.",
-            "You might like \u201cImagining the 10 dimensions\u201d video on YouTube",
-            "There was a paper out in the last year or so that showed how time travel to the past actually is possible without making any laws of physics. However, the time traveler would become stuck in a sort of temporal loop at the destination, so it\u2019d be kind of pointless.",
-            "Tachyons are a theoretical type of particle that always travel faster than light and therfore travel backwards in time. In fact, much in the same way it would take an infinite amount of energy to accelerate  normal matter to the speed of light, it would take an infinite amount of energy to slow down a tachyon to the speed of light."
-        ]
-    },
-    "Two people passing each other in a spaceship, in an inertial frame, where both could equally say they are at rest and the other person is travelling relative to them. If they were to live the exact same age, who would die first?": {
-        "title": "Two people passing each other in a spaceship, in an inertial frame, where both could equally say they are at rest and the other person is travelling relative to them. If they were to live the exact same age, who would die first?",
-        "score": 15,
-        "url": "https://www.reddit.com/r/AskPhysics/comments/1dqyi54/two_people_passing_each_other_in_a_spaceship_in/",
-        "content": "This confuses me a lot because person A would see person B\u2019s time moving slower, but person B would see person A\u2019s time moving slower at the same time. So even though the two people in each spaceship will never run into each other again and will never know who died first, this would mean that wile person B would see person A die first, person A would see person B die first. Which is impossible right? \n\nNote that each space ship stays at a constant velocity forever and both are in an inertial frame, so there\u2019s no decelerating to turn back around like the twin paradox.",
-        "num_comments": 26,
-        "comments": [
-            ">So even though the two people in each spaceship will never run into each other again and will never know who died first, this would mean that wile person B would see person A die first, person A would see person B die first. Which is impossible right?\n\nNope. Not impossible at all. Disagreement on the order of events is a central feature of relativistic time dilation. \n\nIt seems like a paradox because you are trying to observe the result from a third FoR and reconcile the disagreement between the first two by appealing to this third \"true\" reference, but the trick with that is that both the travelers are going to disagree with your third FoR on the order of events, as well.",
-            "Your problem is the idea of \u201cFirst\u201d. This assumes there\u2019s some universal time in which you can tell which of two events in different places happens first. This is absolutely not the case in Relativity. \n\nIn A\u2019s frame A dies first, in B\u2019s frame B dies first. Someone positioned exactly in the middle of them would see them die at the same time.",
-            "The order of some events *can* be different in different reference frames. So what is the reference frame that you want to use when asking \"who will die first?\"\n\nAlso you are wrong about each one seeing the other die first.\n\n-----\nEach one measures the other's clocks running *slower* than their own.\n\nSo they determine that the other is currently younger than themselves and thus further from death than they are.\n\nTherefore each will calculate that they will be the one to die first.\n\n(And because of the time it takes for light to travel between the ships, confirmation that the other died will arrive at an even later date.)\n\nSo there's no way either one would actually see the other die.\n\n-----\n[I've mapped it out for you from A's frame of reference.](https://www.desmos.com/calculator/2aklcctnuf)\n\nI picked a relative velocity between the two ships to be 0.8c, and decided that each person would have exactly 5 years of subjective time until they died.\n\nThe vertical axis is time in years.\n\nThe horizontal axis is distance in light-years.\n\nThe blue line is A's worldline, and the green is B's worldline.\n\nB sends a radio message to A every time that B's clock says that a year has gone by. Those are the red lines.\n\nA sends a radio message to B every time that A's clock says that a year has gone by. Those are the orange lines.\n\nThe purple line is A's line of simultaneity at the moment of his death.\n\nYou can see that when A is moments from death, he would measure B to have only aged 3 years and so still have two years of life remaining And A wouldn't even have received the second anniversary message from B yet.\n\nIf B sends his last (5 year) anniversary message just before he dies, it won't reach A's ship until 15 years (A's time) which will be 10 years *after* A died.\n\nSo there's no way for A to see B's death.\n\nSimilarly, B will never be able to see A's death.",
-            "The time something happens is relative to a reference frame. Things that are simultaneous in one reference frame are not necessarily simultaneous in another. They both would see what they see. Neither is what a different observer would see",
-            "It's not impossible to disagree on the order of events. When two events separated by a distance in space are simultaneous is relative to your reference frame.\n\nSeems like most relativity \"paradoxes\" are about only considering one or two relativistic effects instead of all of them.",
-            "Well person A would never see person B die, and person B would never see A die.\n\n\nAnyway yeah your measurements are only valid in your own reference frame. Each person is living in each other's past.",
-            "Not impossible at all. The order of events is relative. They would both be right. A And 3rd observer would see something compeletely different.",
-            "Isn't it the other way around? Both people would die believing the other out-lived them,  and you as a third observer between both A and B die at the same time (assuming you're perfectly in the middle of the two)",
-            "Two people moving at the same speed regardless of the direction are inhabiting the same frame of reference and are  aging at the same rate.",
-            "Exactly, there is no \"neutral\" frame. And there's no way to communicate instantaneously anyway so the question becomes moot."
-        ]
-    },
-    "Hypothetically, Is it possible to form a black hole singularity with just information alone, no actual matter?": {
-        "title": "Hypothetically, Is it possible to form a black hole singularity with just information alone, no actual matter?",
-        "score": 7,
-        "url": "https://www.reddit.com/r/AskPhysics/comments/1dr2fof/hypothetically_is_it_possible_to_form_a_black/",
-        "content": "I have a computer that places 1s & 0s into a folder an infinite amount of times, would the information at some point be enough to collapse into a singularity?",
-        "num_comments": 21,
-        "comments": [
-            "You can\u2019t have information stored somewhere without there being an associated energy density in that region, whether that energy density takes the form of matter or electromagnetic energy. So it\u2019s true that there\u2019s a maximum amount of information that can be in a particular volume of space before a black hole must form, but this is related to the fact that information must be associated with some energy density.",
-            "That\u2019s an interesting question, but how are you storing your bits without mass or energy?",
-            "It should also be noted that a computer does not \"add\" or \"place\" information anywhere. A computer changes its state as computation takes place but you're effectively just converting non-useful patterns of bits into useful ones.",
-            "Did you watch the debate last night? We're living in it brother",
-            "Info in a computer is still stored physically as charges or magnetized atoms.\n\nHow do you expect to have info without particles? I say particles because you can still have info in \"non matter\" like photons. But you can also create a kugelblitz (photon black hole) this way.",
-            "What exactly is matter? \n\nMatter is just an abstraction we use to think about the causes of our sensations and measurements.\n\nIf you decide to instead use the abstraction of \"information\", and it makes the same predictions, you'll probably end up with the same thing.",
-            "1s and 0s are physically represented by essentially on/off positions of switches. What you are talking about is the allocation of a certain number of \u201cswitches\u201d (transistors) to a certain task, or for data storage. The total number of switches won\u2019t change in this ordeal, and we would need a lot more of them to form a black hole.\n\nNow, we might be able to form a black hole by concentrating an enormous amount of light in a tiny space, but the energies involved would be tremendous.",
-            "If you store Graham's number in the size of a brain it would turn into a black hole.",
-            ">information must be associated with some energy density\n\nDo you have a source for this? My understanding of information theory is in the context of communications theory. I'd like to understand this better.",
-            "\"I'm just thinking really hard about it\""
-        ]
-    },
-    "Why is it that photons emitted from galaxies tens of billions of light years away will continue to reach us despite the distance between us increasing at a greater rate than the speed of light?": {
-        "title": "Why is it that photons emitted from galaxies tens of billions of light years away will continue to reach us despite the distance between us increasing at a greater rate than the speed of light?",
-        "score": 11,
-        "url": "https://www.reddit.com/r/AskPhysics/comments/1dqxelr/why_is_it_that_photons_emitted_from_galaxies_tens/",
-        "content": "Additionally, will those galaxies reach a point where they appear to disappear or fade out of existence on follow-up images like the Deep Field, as if they just switched off?",
-        "num_comments": 13,
-        "comments": [
-            "> Why is it that photons emitted from galaxies tens of billions of light years away will continue to reach us despite the distance between us increasing at a greater rate than the speed of light?\n\nThey won\u2019t.  Any photon now emitted from a galaxy beyond ~18B ly away (proper distance) will never *ever* reach earth.  Any light we see in the future was emitted from those galaxies before they crossed that threshold.\n\n> Additionally, will those galaxies reach a point where they appear to disappear or fade out of existence on follow-up images like the Deep Field, as if they just switched off?\n\nYes, but not blink away, but they will redshift into the noise floor of the CMB.  Take a star like Earhendel which is *currently* about 23B ly away.  That\u2019s the proper distance.  It probably supernovae awhile ago, but regardless, any light leaving it now will never reach us.  But there was light emitted a billion years ago when it was still within the cosmic event horizon and that light will reach us in perhaps 100B yrs due to expansion.",
-            "The current speed of the galaxy doesn't affect the photons that started travelling long ago. It does affect photons that leave today, so we will never receive those.\n\nThese galaxies won't suddenly \"switch off\", they will just get increasingly dimmer and more redshifted. A hypothetical \"final photon\" emitted just as the galaxy left our Hubble sphere will be stretched to infinite wavelength by the time it arrives.",
-            "I think this topic is often misunderstood: it is possible for light to reach us from galaxies that have and always will be receding from us greater than c. Finding out how far we can see is most easily thought of it terms of a conformal comparison between cosmological spacetime and flat spacetime, so is not the most immediately intuitive. There is a very accessible paper which does cover the topic of recession velocities and observation limits: [https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://arxiv.org/abs/astro-ph/0310808&ved=2ahUKEwiLoOGVwf-GAxWvTEEAHa9cAcgQFnoECBoQAQ&usg=AOvVaw0JhNln4PdRQbsjmXWFarAW](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://arxiv.org/abs/astro-ph/0310808&ved=2ahUKEwiLoOGVwf-GAxWvTEEAHa9cAcgQFnoECBoQAQ&usg=AOvVaw0JhNln4PdRQbsjmXWFarAW)\n\nOne way to think of it, is that even though the galaxy is receding from us at c, if it is close enough the light is still eventually able to enter our Hubble sphere.",
-            "[deleted]",
-            "Not *tens* of billions of light years, but we can still receive light from some objects which are receding faster than light (between about 14 billion and 18 billion light years distance).\n\nThe rate at which an individual galaxy recedes increaes over time. This is commonly referred to as the \"accelerating expansion of the universe\".\n\n**However**: if you look at the rate of an expansion for a fixed distance, rather than a galaxy that is already moving away, that rate is actually going *down*.\n\nThis means light emitted in our direction from a superluminal galaxy, while it initally recedes from us as well, does so \"slowly\" enough that the region of space it is in will eventually *not* be receding from us faster than light. Then it will start approaching us, \"slowly\" at first but getting \"faster\" over time.\n\nVeritasium covers it well in this video: https://www.youtube.com/watch?v=XBr4GkRnY04",
-            "If the galaxy is that far away, the light will never reach us.",
-            "The fact that the source is going away faster than the speed of light doesn't make a photon halfway along impossible just like a traffic jam on the highway behind you doesn't make you late.\n\nThe last photon that will just barely reach us is from a patch of space at a certain distance away that isn't quite going light speed yet. The calculus calculation shouldn't be that hard.\n\nWatching a receding galaxy is seeing the light energy emitted by it show up more spread out like a friend sending you a letter once per day but you start to get them every 1.1 days then 1.5 days then 2 8 15 30 100 10000 days apart. Visually the light gets redder and dimmer like a campfire burning out.",
-            "Simplest possible answer: particle horizon",
-            "> They won\u2019t. Any photon now emitted from a galaxy beyond ~18B ly away (proper distance) will never ever reach earth. Any light we see in the future was emitted from those galaxies before they crossed that threshold.\n\nRight, but we *can* eventually receive new light from an object currently at 17B ly distance, even though it's receding from us at a rate greater than the speed of light. That's what OP's interested in, they just got the \"ten**s**\" bit wrong.",
-            "I blame the phrase \"accelerating expansion of the universe\" for that misunderstanding."
+            "people are made of particles too",
+            "Not quite what you\u2019re asking, and I\u2019m going to need someone else to elaborate further, but isn\u2019t there an extension to the double split experiment where an observation in the future collapses the waveform in the past?",
+            "There\u2019s something called a closed timelike curve which was discovered somewhat recently which involves things going backwards and forwards in time. However because it\u2019s a closed curve, nothing can just \u201center\u201d a ctc without already being in it. Also, because it\u2019s a loop, nothing can change between each cycle through the curve ie. a person in a ctc can\u2019t gain memories and a camera can\u2019t record a video because it has to return to the same state at each cycle. (Physicists, correct me if I\u2019m wrong on these points, which I may be as I don\u2019t know if I properly understand these aspects)",
+            "A signs point to \"no\"",
+            "I can't parse your question sorry, but I will say that technically we don't have any proof that going back in time is impossible, it's just an assumption we've made (we have a huge amount of experience of things not going backwards in time yes, but that doesn't make a proof)",
+            "A better question is what does it even mean to go back in time."
         ]
     },
     "why do all em waves have the same speed in a vaccum even tho they have different energies and frequncies?": {
         "title": "why do all em waves have the same speed in a vaccum even tho they have different energies and frequncies?",
-        "score": 2,
+        "score": 6,
         "url": "https://www.reddit.com/r/AskPhysics/comments/1dr6jyv/why_do_all_em_waves_have_the_same_speed_in_a/",
         "content": "this is not making sense to me \ud83d\ude2d can the explanation be like high school friendly; im a person likes to ask 'why' for every process in an explaination, so put as much detail needed, thanks!!!",
-        "num_comments": 1,
+        "num_comments": 22,
         "comments": [
-            "It's because photons are massless. Relativity tells us that massless particles must travel at the speed of light in vacuum."
+            "You can walk slowly but wiggle you arm quickly",
+            "Look at the well known derivation of the speed of light from Maxwell's equations. Notice that the frequency of the wave doesn't affect the speed.",
+            "Kinda the same reason that sound always travels at the speed of sound regardless of amplitude or frequency(granted there are differences but this should be a simple enough explanation) ie your witnessing \u201cenergy\u201d not \u201cmatter\u201d moving so the only thing that matters is the medium through which it passes, which creates the \u201cresistance\u201d(dictates the speed)",
+            "It's important to note that this is not exclusive to EM waves. Any wave that follows the wave equation within some medium will travel at a constant velocity, regardless of the energy or frequency it carries. \n\nIf this isn't true, we say that the medium is \"dispersive\", that is, waves of different frequencies will travel at different speeds.",
+            "I don't think this is a question that has an answer.  That's just how our universe works.",
+            "It's because photons are massless. Relativity tells us that massless particles must travel at the speed of light in vacuum.",
+            "Another answer is special relativity: no photon actually has a fixed, unequivocal frequency. If you measure a photon with a certain E and frequency while standing on earth it will of course have a speed of c. If you now get in a spaceship and travel 99.9% of c you will still measure that photon as going away from you at c. HOWEVER, you will measure a higher frequency for the same photon.",
+            "the processing speed of relativity is what limits light's speed. it really is that simple. gravity and light move at the speed of relativity.",
+            "Are there such mediums? I suppose a prism might qualify, given how it splits light, but I\u2019m not sure if that\u2019s the material or *just* the surface. I\u2019d imagine the later",
+            "This does not answer the frequency vs speed question."
         ]
+    },
+    "Particle decaying": {
+        "title": "Particle decaying",
+        "score": 3,
+        "url": "https://www.reddit.com/r/AskPhysics/comments/1draehw/particle_decaying/",
+        "content": "Hello everyone!\n\nNeed help with a problem and would appreciate all the help.\n\nThe particle A with the rest energy 18 MeV decays into the particle B with the rest energy 10 MeV and a massless particle C. What energy does particle C have in the rest system of particle B? The answer must be given in the unit MeV and rounded to the nearest number.\n\nAnd what energy does the particle C have in the rest system of particle A\n\nMethod:\n\np\\_c=(m\\_A\\^2)-(m\\_B\\^2)/(2\\*m\\_B)\n\nbut its wrong.",
+        "num_comments": 3,
+        "comments": [
+            "copy n paste it in AI dont quote me",
+            "Thank you but i kinda need to be precise since i cant  see the right or wrong answers. But i appreciate the help",
+            "To find the energy of particle C in the rest system of particle B, we can use the given method. Let\u2019s denote the rest mass energy of particle A as ( m\\_A c\\^2 ) and that of particle B as ( m\\_B c\\^2 ), where ( c ) is the speed of light. The rest mass energies are given as 18 MeV for particle A and 10 MeV for particle B.\n\nThe momentum of particle C in the rest system of particle B can be calculated using the formula:\n\npc\u200b=2mB\u200bmA2\u200b\u2212mB2\u200b\u200b\n\nSubstituting the given values (and remembering that ( c = 1 ) in natural units):\n\npc\u200b=2\u00d710\u00a0MeV(18\u00a0MeV)2\u2212(10\u00a0MeV)2\u200b\n\npc\u200b=20324\u2212100\u200b\u00a0MeV\n\npc\u200b=20224\u200b\u00a0MeV\n\npc\u200b=11.2\u00a0MeV\n\nSince particle C is massless, its energy in the rest system of particle B is equal to its momentum:\n\nEc\u200b=pc\u200b=11.2\u00a0MeV\n\nRounded to the nearest number, the energy of particle C in the rest system of particle B is **11 MeV**.\n\nNow, for the energy of particle C in the rest system of particle A, we need to consider that in the rest system of particle A, particle B will have some kinetic energy due to the conservation of momentum. However, since particle C is massless, its energy will be the same in all reference frames. Therefore, the energy of particle C in the rest system of particle A is also **11 MeV**. This is because the energy of a massless particle is invariant under Lorentz transformations"
+        ]
+    },
+    "Why does rocking a sailboat make it move forward?": {
+        "title": "Why does rocking a sailboat make it move forward?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/AskPhysics/comments/1drc0rk/why_does_rocking_a_sailboat_make_it_move_forward/",
+        "content": "I just saw a post showing some guys manually rocking a small sloop left and right, causing the boat to move forwards.\nGiven it's shape, my instincts say it would move backwards if at all.\nCan someone explain why that isn't the case, is it because during the movement it's displacing more water towards the rear than the front?",
+        "num_comments": 0,
+        "comments": []
     }
 }

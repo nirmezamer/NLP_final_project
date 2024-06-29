@@ -1,31 +1,30 @@
 {
-    "/r/MechanicalKeyboards Ask ANY Keyboard question, get an answer (June 22, 2024)": {
-        "title": "/r/MechanicalKeyboards Ask ANY Keyboard question, get an answer (June 22, 2024)",
-        "score": 2,
-        "url": "https://www.reddit.com/r/MechanicalKeyboards/comments/1dlprxi/rmechanicalkeyboards_ask_any_keyboard_question/",
+    "/r/MechanicalKeyboards Ask ANY Keyboard question, get an answer (June 29, 2024)": {
+        "title": "/r/MechanicalKeyboards Ask ANY Keyboard question, get an answer (June 29, 2024)",
+        "score": 1,
+        "url": "https://www.reddit.com/r/MechanicalKeyboards/comments/1dr5c4e/rmechanicalkeyboards_ask_any_keyboard_question/",
         "content": "Ask ANY Keyboard related question, get an answer.      But \\*before\\* you do please consider running a search on the subreddit or looking at the /r/MechanicalKeyboards wiki [located here](http://www.reddit.com/r/MechanicalKeyboards/wiki/wiki_navigation)!  If you are NEW to Reddit, [check out this handy Reddit MechanicalKeyboards Noob Guide](http://www.reddit.com/r/MechanicalKeyboards/wiki/redditnoob_tips). Please check the r/MechanicalKeyboards [subreddit rules if you are new here.](https://www.reddit.com/r/MechanicalKeyboards/wiki/subreddit_rules/)",
-        "num_comments": 26,
+        "num_comments": 29,
         "comments": [
-            "a bit of a dumb question but I'm building my first keyboard and the stabilizers seem to be pre-lubed with some grease.\n\nI was planning to lube them krytox 205g0. Should I wipe down the grease or just apply the lube over it?",
-            "Keyboard: Realforce R3HD13\n\nQuestions: \n- I want to replaces all the keycaps. I am getting tired of this dark grey prints on dark grey key caps. Shall I buy key caps that are compatible with Topre switches?\n\n- Could you please recommend some specific brands or what I should look for?\n\nThanks!",
-            "Anyone can recommend an original Numeric key set from GMK that will fit with the 80082 Pink (out of stock)? I've almost matched it with keychron PBT dolch grey keycaps, but it kills my OCD.\n\nhttps://preview.redd.it/qqd260hnc38d1.jpeg?width=4032&format=pjpg&auto=webp&s=c9c6f6009a1b9b363861fc9f2948cb6ef5828d19",
-            "Recommendation for Youtuber with decent keyboard review? Hypio Tech is like the only channel that i know of.",
-            "About hall effect keyboard, can you use magnetic switches as analog input in games ? I'm looking to buy one for slow and precise movement in FPS, is it possible let's say to walk slowly if you press the walk key halfway ?",
-            "Is it a good idea to buy used switches? (I have a specific listing in mind and the seller claims she has not used them all that much.)",
-            "Hi, I just got into building keyboards and I was confused because the Outemu Silent Peach is considered very silent but I also got reviews from friends and online saying boba u4 switches and KTT Kang White are just as quiet. If you are curious my build is Zuoya GMK67, one of these switches and EVANGELION-04 Keycaps off Ali Express (I like Megatron and the keycaps were the closest to his color scheme)",
-            "Putting together my first board and wanted something that I would main for a while. Got myself a switch tester and did some research, so I\u2019ve decided to get the q1 max and add in the kailh midnight pro tactiles.\n\nMy plan is to get them and assemble the board as is and use it before figuring out what it is I think I need to do in terms of modding (if any is needed at all).\n\nDo any of you have any recommendations about this as a first timer? Anything from tips about putting stuff together or specifically about the board and switches in terms of modding would be greatly appreciated!",
-            "Getting a Tofu 2 with HHKB layout and hotswap PCB. Looking at the layout, it seems I can use either 6.25 or 7u spacebar with the HHKB layout with hotswap PCB. Just wanted someone to confirm if this is the case, or is the spacebar restricted to 7u.",
-            "I was looking to do something small, wireless, and with integrated mouse control.  Think corne/nicenano.  I don't know so much about options or pros/cons of trackpoints, trackballs and trackpads.  For example, battery life and keyboard controller compatibility?  Could someone recommend where I could look for these things?"
+            "I doubt this will get an answer here, but here goes anyway;\n\nI recently bought an Attack Shark M87, it sounds and feels great, and the RGB features are bountiful, however, it seems the board wont turn itself off automatically when not in use? Is there a key combo to set the shutdown time?",
+            "Hi I have an Akko PC75b Plus that was purchased like 3 years ago and the volume knob just works right out the box on my android phone, recently I just built on a LMK67 kit and even with the same phone I can't get the volume knob to work, even assigning keys to change volume up/down with VIA doesn't work on my Pixel 5, while everything is perfect on PC, is there any chance I can get volume/media control (either by keys or knob) to work on my phone?",
+            "I\u2019m definitely new to the keyboard scene here on reddit so hello all. I\u2019m a cs student and find myself needing a keyboard to bring on the go (preferably mac and windows). My only issue is that i need something with silent switches as I tend to do my work in the library and can\u2019t be using a blue switch. Anything 75% or 80% will do as size isn\u2019t major as my backpack is a turtle shell. Thanks!",
+            "Hello guys, I would like a budget low-profile keyboard that is more or less adequate in quality. I noticed that quite high-quality keyboards are now being made on the Chinese market, what models could you recommend? Prefer for games, linear switches",
+            "Why nobody puts Shift keys next to spacebar? I don't mean 40%, ortholinear or ergo keyboards, just regular staggered QWERTY keyboard. I using keyboard with additional shift keys in the bottom row for five years and found it very convenient. But it still no PCBs, plates and keycaps for this layout. I have to using custom PCB and split spacebar made of 2u keycaps.",
+            "Planning on doing my first budget from-scratch build soon. I've seen the Skyloong GK104PRO around aliexpress for a while now and the little screen they have that just plugs into the 6-key area where page up and whatnot would be. Wondering if anyone knows where I could buy that on its own. Wanna add it to my custom build.",
+            "anyone know a good low profile 75 keyboard i can get that is customisable and has buttons or knobs for volume and those kind of things?",
+            "I have never used an Alice layout keyboard. However, have you considered a split row staggered keyboard like the Keebio Quefrency or Nullbits Snap?",
+            "The RGB on Keychron and Monsgeek boards can be toggled on/off.\u00a0",
+            "The RGB can be turned off in every QMK/VIA compatible PCB/keyboard, and it should work perfectly fine out of the box. I used a regular QMK PCB board with my iPad just fine (can't try the phone bc of lightning, yikes, and I'm not buying a cable just for that), so I'm sure Android phones aren't gonna be an issue.\u00a0"
         ]
     },
     "Mykeyboard EU is bankrupt": {
         "title": "Mykeyboard EU is bankrupt",
-        "score": 956,
+        "score": 962,
         "url": "https://www.reddit.com/r/MechanicalKeyboards/comments/1ctgniw/mykeyboard_eu_is_bankrupt/",
         "content": "[Mykeyboard.eu](http://mykeyboard.eu/)\u00a0filed for bankruptcy. Do not order anything from their store and report the money they owe you (Liquidator's name should be in the official document iirc).\n\n[https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?lang=en&nummer=0537.972.391&actionLu=Zoek](https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?lang=en&nummer=0537.972.391&actionLu=Zoek)\n\n[https://ismykeyboardbankruptyet.fyi/](https://ismykeyboardbankruptyet.fyi/)\n\n[News from their discord](https://preview.redd.it/2sog6n71ct0d1.png?width=2512&format=png&auto=webp&s=579b644fcbe2c9bd9875608012a6298a12218a19)\n\nDo not refer to other vendors/ Oblotzky when reporting/ claiming/ doing a chargeback. Jae already experienced legal investigations due to Noxary exit scamming; so please do not let other vendors experience the same!\n\nGood luck to all people Mykeyboard still owes money/ products! I hope you can at least get parts back!\n\n  \nSeeing that this post gathered some attraction and will probably be pinned for a day or so:\n\nThis is not the only vendor with some issues. This post was stickied a couple of days ago and is still definitely relevant: [https://www.reddit.com/r/MechanicalKeyboards/comments/196hreg/mykeyboard\\_thickthock\\_other\\_vendor\\_issues/](https://www.reddit.com/r/MechanicalKeyboards/comments/196hreg/mykeyboard_thickthock_other_vendor_issues/)\n\nOblotzky (The European keycap goat - not affiliated with mykeyboard.eu) sells the already produced GMK keycaps, which Mykeyb failed to pay the invoices for in batches. The second batch opened today. You can get a good price for a keycap set you ordered but Mykeyb failed to deliver. Further/ more detailed reading here: [https://oblotzky.industries/pages/myleftovers](https://oblotzky.industries/pages/myleftovers) and here: [https://www.reddit.com/r/MechanicalKeyboards/comments/1bzvmd8/gmk\\_statement\\_on\\_current\\_keycap\\_projects\\_handled/](https://www.reddit.com/r/MechanicalKeyboards/comments/1bzvmd8/gmk_statement_on_current_keycap_projects_handled/)\n\n  Small edit: If you are affected by mykeyboard, Jae (Prototypist (another Goat in this hobby) and definitely not affiliated with mykeyb) is offering to sell any item you were scammed out of and still in stock on Prototypist for the Groupbuy price. Further information on his discord.\n\nThe website (mykeyboard.eu) should also be down now.\n\nEdit 2: Their discord is deleted. https://www.reddit.com/r/MechanicalKeyboards/s/FxJtwZzDhZ\n\nAnd last but not least:\n\nDo **NOT** order from [Mykeyboard.eu](http://Mykeyboard.eu)",
-        "num_comments": 260,
+        "num_comments": 261,
         "comments": [
-            "Looks like their site and discord is deleted too now https://www.reddit.com/r/MechanicalKeyboards/comments/1cx2xq0/mykeyboard_eu_discord_deleted/",
             "How many **good** vendors do we even have in the EU?",
             "We're going to piggyback on this post for awareness. Please make sure you are not purchasing from their site as nothing will be fulfilled.",
             "I just had to buy the nice purple epbt witch set... there goes my money",
@@ -34,56 +33,61 @@
             "I scored some nice deals during their sales past 6 months, always PayPal tho cuz it could boom any day, best of luck to those not so fortunate",
             "Took them long enough, the 33 Euro GMK sets were a nice deal tho.",
             "They've been ghosting everyone for about a year already, so this was expected, but sure would've been nice to get our refunds before it happened. Absolute thieves.",
-            "Lmao I swear I only see this shit in the keyboard community."
+            "Lmao I swear I only see this shit in the keyboard community.",
+            "The groupbuy model is absolute bs and needs to go away. Down 1.5k \u20ac because of this"
         ]
     },
-    "Helped my Fianc\u00e9 Build her First Board": {
-        "title": "Helped my Fianc\u00e9 Build her First Board",
-        "score": 149,
-        "url": "https://www.reddit.com/gallery/1dljfyp",
+    "Any better feeling than a totally dialed spacebar?": {
+        "title": "Any better feeling than a totally dialed spacebar?",
+        "score": 120,
+        "url": "https://v.redd.it/xkfxth7ouf9d1",
         "content": "",
-        "num_comments": 21,
+        "num_comments": 18,
         "comments": [
-            "ANY content that features products, services you sell, your prototypes in progress or items you were sponsored to post MUST use the Promotional flair, with disclosure of who you represent.\n\n*When posting your build, please provide a description* of the build, preferably as a Top Level Comment or Reply to this Comment, with the following information:\n\n*   Your keyboard featured and its layout\n\n*   The Switches, Keycaps, and Other Accessories Featured\n\n*   Any notable mods you performed\n\n*   Other helpful information such as low profile, lesser known firmware, etc.\n\nExample: Unobtanium Southpaw 1800 with DSA Salt with MorningCaps Artisan and Alps Rainbow Switches, modded with Sorbothan Foam on KMK\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/MechanicalKeyboards) if you have any questions or concerns.*",
-            "After seeing me build so many boards, a few months ago my fianc\u00e9 asked me to help her pick out and build a keyboard with her. She's very particular and it took a few weeks to find a keyboard she loved. Then it took another few months to find her perfect keycap set (at one point I had to put together a slide deck of options).\n\nThe build experience was really special and getting to share the hobby I loved with her made this my favorite build to date.\n\n- HIBI HIBIKI\n- GMK Chladni\n- Boba U4T (lubed and broken-in)",
-            "It looks like a hersey bar! \ud83c\udf6b",
-            "Super clean",
-            "Just a minor thing, but the top case needs to be rotated. The HIBI logo should be with the USB-C port. Great looking build otherwise!",
-            "looks really nice, great choices",
-            "god damn that\u2019s a nice first board lmao",
-            "HIBIKI CHOC (i knew Chladni would look good on this)\n\nwhat a first board! bet she loves it!",
-            "As a fellow Choc Hibiki fan your wife has great taste in keyboards! The keycaps look super nice with it!",
-            "Yay Tsangan !"
+            "Just wait until a week or two from now when one side ticks.  Always happens.  Always",
+            "Blow jobs are pretty good...",
+            "How did you do it?",
+            "a totally dialed _reversed_ ` \u00a0spacebar\u00a0 `",
+            "What did you do to make it sound so good??? I want that \ud83e\udd7a",
+            "How light us that spring weight?",
+            "couple months later the lube is gonna wear out and you're gonna have the ticks again.",
+            "A hug might feel better lol",
+            "Stabs were the thing I was scared the most when building first keyboard. It was the best feeling ever when I tried spacebar and they were perfect out of the box (it was barebone Keychron V1).",
+            "If GMK didn't send me 10 spacebars that are all bent ..."
         ]
     },
-    "Seafoam Terror Below": {
-        "title": "Seafoam Terror Below",
-        "score": 85,
-        "url": "https://i.redd.it/fypp6cild18d1.jpeg",
+    "#freepalestine charity raffle": {
+        "title": "#freepalestine charity raffle",
+        "score": 779,
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLScrdvK4cHpPKq1FyP7wq4mMxlMIDVA1yXi0cZzBGjaJAagLPA/viewform?usp=sf_link",
         "content": "",
-        "num_comments": 9,
+        "num_comments": 204,
         "comments": [
-            "ANY content that features products, services you sell, your prototypes in progress or items you were sponsored to post MUST use the Promotional flair, with disclosure of who you represent.\n\n*When posting your build, please provide a description* of the build, preferably as a Top Level Comment or Reply to this Comment, with the following information:\n\n*   Your keyboard featured and its layout\n\n*   The Switches, Keycaps, and Other Accessories Featured\n\n*   Any notable mods you performed\n\n*   Other helpful information such as low profile, lesser known firmware, etc.\n\nExample: Unobtanium Southpaw 1800 with DSA Salt with MorningCaps Artisan and Alps Rainbow Switches, modded with Sorbothan Foam on KMK\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/MechanicalKeyboards) if you have any questions or concerns.*",
-            "* Bauer Lite Seafoam\n* GMK Terror Below \n* KNC Keys Green Jacket tactiles\n* Durock V2 stabilizers\n\nNot sure of any other set of keycaps that would fit this board this much but if anyone has a Grim Bauer Lite with Terror Below on it I'd like to see the difference. Also for anyone who got the weight or alu plates that Omnitype released a bit ago, how are they?",
-            "My favorite keycap set ever",
-            "I'm not a big fan of green, but man that looks crisp",
-            "yum",
-            "This is fantastic.",
-            "SUBLIME",
-            "i- I- I- SIR SIR is this creamy?",
-            "mmMMmmm. Love the layout!"
+            "it will go directly to UNICEF and a donation receipt will be posted",
+            "[deleted]",
+            "Can you provide transparency to ensure the proceeds go directly to humanitarian causes and not politically motivated ones?\n\nI'm ok with supporting the needs of displaced Palestinians. But I am not in support of Hamas.",
+            "hey\n\nim excited to announce a special charity raffle to support UNICEF's work helping children affected by the ongoing conflict in Gaza. it will be a raffle for a limited number of artisans featuring the Palestinian flag. all proceeds will go towards charity.\n#freepalestine\n\ud83d\udc40 \n\nblanksy #freepalestine \u2013raffle \u2013 cherry esc profile\n\n[photos]( https://imgur.com/a/rRLXmtZ) \n\n[enter raffle here]( https://docs.google.com/forms/d/e/1FAIpQLScrdvK4cHpPKq1FyP7wq4mMxlMIDVA1yXi0cZzBGjaJAagLPA/viewform?usp=sf_link)\n\n[ping only discord for updates](https://discord.gg/hNRBJN6sUa)\n\n$50usd\n20 winners \u2013 fundraising goal of $1000 usd\n\n[see more of my work on instagram](https://www.instagram.com/blanksy.caps)",
+            "[removed]",
+            "[removed]",
+            "[removed]",
+            "[removed]",
+            "[removed]",
+            "[removed]"
         ]
     },
-    "New build - KBDFans Odin R4 with Rome SA keycaps": {
-        "title": "New build - KBDFans Odin R4 with Rome SA keycaps",
-        "score": 19,
-        "url": "https://www.reddit.com/gallery/1dlsyoi",
-        "content": "",
-        "num_comments": 3,
+    "Jelly Evolv is my first build!": {
+        "title": "Jelly Evolv is my first build!",
+        "score": 38,
+        "url": "https://i.redd.it/rctugu1jag9d1.jpeg",
+        "content": "The Jelly Evolv is one amazing board, I knew that if I was going to be getting into the hobby I would eventually end up purchasing a premium board anyway, so why not just skip the entry tier boards and go premium as a first custom keeb? I couldn't be happier with the way this board looks and feels. I bring this thing into work every day aha. \n\n-Jelly Evolv\n-Gateron Baby Kangaroos\n-Hotswap pcb all foam FR4 Plate\n-PBT Cherry Notion keycaps\n\nWhat was your first custom board?\n\n",
+        "num_comments": 6,
         "comments": [
+            "well god damn.. a fucking Jelly Evolv for your first?\n\nhell yeah! be sure to show off them side profiles",
+            "Looking incredibly clean - quality first build. Gonna be hard to move up from this!",
+            "Mine was an Monsgeek M1 but I'm planning on getting a new one. Would you recommend that board?",
             "ANY content that features products, services you sell, your prototypes in progress or items you were sponsored to post MUST use the Promotional flair, with disclosure of who you represent.\n\n*When posting your build, please provide a description* of the build, preferably as a Top Level Comment or Reply to this Comment, with the following information:\n\n*   Your keyboard featured and its layout\n\n*   The Switches, Keycaps, and Other Accessories Featured\n\n*   Any notable mods you performed\n\n*   Other helpful information such as low profile, lesser known firmware, etc.\n\nExample: Unobtanium Southpaw 1800 with DSA Salt with MorningCaps Artisan and Alps Rainbow Switches, modded with Sorbothan Foam on KMK\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/MechanicalKeyboards) if you have any questions or concerns.*",
-            "First off all looks great, but secondly can I say I like the fact it seems 96% are getting more popular and wide spread",
-            "* KB: KBDFans Odin R4\n* Switches: formerly Gateron Blues, now I replaced with Kailh Box White V2 that I extracted from my 8bitdo C64. They are very stable and the keys have zero wobble.\n* Keycaps: formerly ePBT SAT3000 Cherries, now replaced with Rome SA from Amazon. I found the cherry profile to be too low for me after trying SA for the first time on the 8bitdo, just mere two weeks ago.\n* Layout: Took me a while to settle on this 1800 layout, could not get used to it, thought about selling this kb because I NEED Home/End and Pgup/Pgdown block as a programmer. I am coming from 10 years of using Gamdias Hermes which was fullsize. Now I settled on this layout, where the End and Home NEEDS to be above the arrows, so my muscle memory works with it."
+            "Great first build. Enjoy.",
+            "good job, have fun!"
         ]
     }
 }

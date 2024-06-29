@@ -6,6 +6,7 @@ import shutil
 import google.generativeai as genai
 from tqdm import tqdm
 import time
+import re
 
 # genai.configure(api_key="AIzaSyA_a9NStJj6XoMDaGXlbz-v35xCQzTlDqA")
 # model = genai.GenerativeModel('gemini-1.5-flash')
@@ -83,13 +84,14 @@ def gen_single_reddit_json(subreddit, file_name, num_posts=5):
     
     posts_dict = {}
     for post in posts:
+        comments = [comment.body for comment in post.comments.list() if type(comment) == praw.models.Comment]
         posts_dict[post.title] = {
             "title": post.title,
             "score": post.score,
             "url": post.url,
             "content": post.selftext,
             "num_comments": post.num_comments,
-            "comments": sorted([comment.body for comment in post.comments.list() if type(comment) == praw.models.Comment], key=score_comment, reverse=True)[:10]
+            "comments": sorted(comments, key=score_comment, reverse=True)[:10]
         }
     with open(file_name, "w") as file:
         json.dump(posts_dict, file, indent=4)

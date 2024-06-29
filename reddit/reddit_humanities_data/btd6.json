@@ -1,97 +1,97 @@
 {
-    "BTD6 Community event Conclusion!": {
-        "title": "BTD6 Community event Conclusion!",
-        "score": 481,
-        "url": "https://www.reddit.com/r/btd6/comments/1djyb5z/btd6_community_event_conclusion/",
-        "content": "[Happy 6 Years!](https://preview.redd.it/rqf3hk7ocm7d1.png?width=1024&format=png&auto=webp&s=369b1c335b3524ab8b6b7eb66196c83908f4463f)\n\nCongratulations! You all managed to get **1,642,838** pops!\n\nThis means you completed **6 out of 7 milestones**!  \n  \nHere is your list of rewards!\n\n**400 Monkey Money**  \n**19 Random Powers**  \n**90 Trophies**  \n**Two Race Passes**  \n**A Tier 1 insta pack**  \n**A Tier 2 insta pack**   \n**Five Tier 3 instas**\n\nThese will be sent out to all who participated soon!\n\nThanks for playing and keeping More Awesomer for another year!\n\n\n\n",
-        "num_comments": 163,
+    "Update: Bloons TD 6 v43.1 - Update Notes!": {
+        "title": "Update: Bloons TD 6 v43.1 - Update Notes!",
+        "score": 381,
+        "url": "https://www.reddit.com/r/btd6/comments/1d4ivhu/update_bloons_td_6_v431_update_notes/",
+        "content": " \n\n**Update: Bloons TD 6 v43.1 - Update Notes!**\n\n# Changes\n\n* Fixed some idle animation loop issues with Rosalia so she no longer visually freezes\n* Rosalia should now play sound on target priority arrows (first, last, close, strong)\n* Extended the Resolution Selection UI as the last option was not visible on all resolutions\n* Resolved a crash that could occur using the \"Restrict\" button in Edit Odyssey menu\n* Players are no longer unable to view the team page for teams they have applied to\n* Standard game hints will no longer display during Boss Rush even when enabled\n* Team Message Board has been updated with better descriptions for \u2018Improved Scores\u2019\n* Relics on the Boss Rush Milestone Complete screen can now display their description\n* Paragons are now correctly localized in the Challenge Editor Tower Restrictions UI\n* Corrected an issue causing a large number of \u2018things\u2019 to not work as normally expected\n   * The main note here is for 'changed CHIMPS starts' on many expert maps. This occurred in 43.0 due to work in the background of the game rebuilding older more rigid parts to be more flexible and moddable, one improvement also caused a number of strange issues including collision detection to be checked slightly less frequently and wasn't noticeable in most cases aside from the very precise requirements of high end chimps maps.\n   * We are now looking into incorporating some of these 'precise CHIMPS starts' into automated testing to catch strange niche situations like this earlier in the future\n\n\\_\\_\\_\n\nFull list of changes for update 43.0 can be found here: [https://www.reddit.com/r/btd6/comments/1d3029q/update\\_bloons\\_td\\_6\\_v430\\_update\\_notes/](https://www.reddit.com/r/btd6/comments/1d3029q/update_bloons_td_6_v430_update_notes/)",
+        "num_comments": 50,
         "comments": [
-            "Tell us what the 7th milestone rewards were....",
-            "i got one pop, can i also get an avatar that says \"participation trofy\" in comic sans ms font",
-            "I feel like having this be a reddit-only thing was a significant misplay. Not only did a lot of active players certainly miss out (many will find out later and likely be annoyed). \n\nIts also poor design. If players in game got the announcement there'd be more hype. If there wasn't a nearly 3-day gap towards the finish line where we had no idea what our progress was we'd have pushed harder. Particularly if there was an in-game meter that showed progress...that would have been awesome and so much more fun.\n\nThe event was better than nothing but not by much.",
-            "I think the game needs to do a slightly better job in game of advertising the events tbh. Without Reddit I would have had no idea just game it was happening.",
-            "19 random powers... can you please add one more to make it 20? Please?",
-            "I have no idea if I participated or not, because it was unclear. I did the birthday BAD event already so it said it was completed and it gave me a extra reward the other day but there wasn't any note that there was a special event going on with it?",
-            "The fact that I only found out about this event after it had gotten to milestone 3 AND it wasn\u2019t clear how to actually enter and submit scores makes this pretty annoying. I had even gone back to major announcements to see if anything had been made clear and found very little information.",
-            "Respect to everyone who grinded the quest out, I got way too bored to do it after a bit",
-            "Why was there not an in game notice for this? I didn\u2019t even know it existed until seeing this post and only who participated get rewarded :( I don\u2019t even know if I participated or how to participate",
-            "Was there even a popup in game about this? I only found this event because of the discord pings. I had to dig back through the event quests to find it too, and it said \"already completed\", so if I didn't know better I wouldn't have even done it."
+            "shoutout ninjakiwi team for being so fast to fixing a bug like the chimps starts \n\nthis is why you guys are the goat ! ! !",
+            "auto-checking expert chimps starts for updates is a very cool idea",
+            "Now this mini update is awesome. Good explanation with the whole issue with ruined precise CHIMPS starts and the issues behind the bug. Also, your efforts to automate CHIMPS starts as part of your game testing is a brilliant idea.",
+            "There was a bug i think i ran into whilst playing Rosalia, and it's that the keybind that allows her to switch between weapons (i think its Monkey Special 1 or 2) doesn't work when trying to switch from the Laser pistol to the grenade launcher. Little tiny thing that would help me be able to manage her better. Thanks for fixing these issues so quickly as well!",
+            "Other game devs: Oh, there's a bug you found? Wait until the next big update for us to fix it. Should take about a few months\n\nNinja Kiwi: Releases 2-3 mini-updates in 2 or so weeks just to patch all bugs possible",
+            "I appreciate you guys pushing this update out so quickly so that Expert CHIMPS works again",
+            "I love you NK but please make Rosalia attack when repositioning. The downtime is huge specially if you wanna micro her in advance and expert maps",
+            "I've found this weird issue with Rosalia where she just stops aiming at the bloons. I think, after a few leave her range, she gets stuck aiming at one spot, and when new bloons enter her range she just shoots off into nothing. Hoping this can get fixed in a patch? It's kind of annoying",
+            "Thanks for getting this out so quickly!",
+            "I had an odd bug happen to me after update 43, not sure how to repeat it but after repositioning Rosalia she would attack towards the top of the screen for a few seconds before targeting bloons. This happened twice but I'm not sure why"
         ]
     },
-    "Daily Challenge - June 22, 2024": {
-        "title": "Daily Challenge - June 22, 2024",
-        "score": 3,
-        "url": "https://www.reddit.com/r/btd6/comments/1dlqlry/daily_challenge_june_22_2024/",
+    "Daily Challenge - June 29, 2024": {
+        "title": "Daily Challenge - June 29, 2024",
+        "score": 6,
+        "url": "https://www.reddit.com/r/btd6/comments/1dr66dq/daily_challenge_june_29_2024/",
         "content": "Discussion about the today's daily challenge in Bloons TD 6.\n\nPlease keep all discussion, question and strategies about the daily challenge and advanced challenge to this post to keep subreddit clutter low.\n\nMake sure to distinguish whether you are posting about the daily challenge or the advanced challenge clearly in your comment.\n\n[Click here to see previous daily challenge posts](https://www.reddit.com/r/btd6/search?q=flair:\"Daily%20Challenge\"&restrict\\_sr=1&sort=new)\n\nHappy popping!",
-        "num_comments": 21,
+        "num_comments": 12,
         "comments": [
-            "AC: 502 Buccaneer\n\n[Video here.](https://www.youtube.com/watch?v=2KCSE1w8uqY)",
-            "052 ace, use ability",
-            "502 boat",
-            "Ac: 502 bucaneer or a cheaper way: 103 ninja",
-            "AC: 502 Buccaneer.\n\nDC: Rosalia, 420 Sub, 502 Wizard.\n\nOdyssey: https://www.reddit.com/r/btd6/s/fthDj5SrGi",
-            "AC: 024 mortar",
-            "502 buccaneer",
-            "[AC: 050 Ace Monkey - use Ability](https://prnt.sc/k_s97NPagRkt)\n\n[DC: Rd 140+](https://prnt.sc/Zz5--6142kP9)",
-            "[AC: 5-0-2 Buccaneer.](https://i.imgur.com/NpzsWOg.jpeg)\n\nIt's not that advanced lol.",
-            "023 ninja also works."
+            "Ac: x4x super just spam ability (though 042 is faster and better) or 025 boomerang",
+            "AC: 250 spike factory, spam ability.",
+            "AC (unintended solution): 402 sniper until the zomg pops, then sell for 040 pirate and spam ability",
+            "AC: 0-5-0 plane & spam ability",
+            "Daily Challanges Review:\n\n\n\n\n\nAC: This is a repeat from the AC 2 days ago (an ZOMG with an absurd amount of money so it really isn't hard at all), although there's some modifier and stuff so there's atleast some substance this is just... wow, 0/10\n\n\n\nDC: It's just pat with some random towers with nothing in common with eachother, idk what to expect but it's not the worst thing out there, 4/10",
+            "025 boomerang",
+            "Or 205.",
+            "AC: Place 250 Spike factory anywhere.\n\n[Video here.](https://www.youtube.com/watch?v=tmtASDaHNPg)",
+            "[AC: 2-5-0 Ace, spam the ability.](https://i.imgur.com/5PCXFff.jpeg)",
+            "[AC: 250 Spike Factory](https://prnt.sc/3IKmxIFrVVpu)\n\n[DC: Rd 200+](https://prnt.sc/Gm9nlpBuCmuY)"
         ]
     },
-    "Why can't towers speak but Heroes can?": {
-        "title": "Why can't towers speak but Heroes can?",
-        "score": 849,
-        "url": "https://i.redd.it/26k90bak508d1.png",
+    "Tell me your Bloons hot takes and I\u2019ll rate them based off of how hot they are": {
+        "title": "Tell me your Bloons hot takes and I\u2019ll rate them based off of how hot they are",
+        "score": 667,
+        "url": "https://i.redd.it/wqed3yoblg9d1.jpeg",
         "content": "",
-        "num_comments": 94,
+        "num_comments": 144,
         "comments": [
-            "Imagine every single monkey on the screen screaming in terror when they see a blimp, and then cheering once it's popped.",
-            "Why is Brickell on non talking monkeys",
-            "I think it's canonically cuz they're shy",
-            "Because the towers know their place",
-            "What do you expect from banana farm dude",
-            "They *can* speak, but canonically, the monkeys don't see you as a god but rather their chief-in-command or something, so they do talk to each other but only the heroes have clearance to speak with you",
-            "They can talk they just prefer to remain focused on the task at hand.",
-            "We can? You just don't listen.",
-            "They have stage fright",
-            "The Heroes are their own Characters, the other Monkeys are more meant to be just that, the other monkeys, not Characters."
+            "quincy is a nice hero if utilized properly",
+            "Corvus should level up faster at base and nourishment should be nerfed hard to compensate. Currently the Corvus strats are very boring and its just constantly spoonfeeding him XP which isnt engaging or fun",
+            "Bloonchipper should be in Bloons Card Storm and Bloons TD Battles 2, but ***NOT*** Bloons TD6. Card Storm and Battles 2 have ways of making balancing the 3 paths functional (Such as Card Storm, um, not having paths lol) but BTD6 doesn't really have that luxury.",
+            "Crossbow master is a good tower, some people just dont understand that the tower wasnt made for insanely high challenges and was made for the purpose of being cheap and good for its cost, not to be reliable late game",
+            "rosalia needs a buff: instead of switching between weapons and duel wielding during ability, she should (maybe at level 15 or higher for 'balancing' sake) always duel wield her weapons if she's able to do so, theres no reasonable explanation why she shouldnt be able to duel wield while pursuing bloons but be unable to duel wield when standing or flying in place without moving it just feels weird",
+            "challenges are getting repetative, most of them are not original but are still popular and that's what I don't like.",
+            "Geraldo is easy to use, people just get overwhelmed by the options and assume he\u2019s as hard to use as corvus",
+            "Glue gunner is amazing for mid to early-late game. Especially top path, but I might be biased because I like using it. Recently learned bottom path is better because of slowdown instead of pierce, but then again idk, I don't use relentless enough like I should",
+            "Hot take: beast handler is good",
+            "Super Monkeys are cool but not worth the cost."
         ]
     },
-    "maid monkey": {
-        "title": "maid monkey",
-        "score": 401,
-        "url": "https://i.redd.it/w6vk3oa5318d1.jpeg",
-        "content": "Collaborative painting with friend thinkin, each drawing a part",
-        "num_comments": 38,
-        "comments": [
-            "smash, next question",
-            "would",
-            "Why\u2019s Brickell so mad for? Who hurt her ship?",
-            "Churchill?",
-            "I assume Reddit did some automatic NSFW label? Cringe.\n\nAnyway good art",
-            "Bunny Sauda? Nice.\n\n![gif](giphy|YR8neVRcCSqwmJkb1D)",
-            "How is this nsfw",
-            "\"I'm waiting for you Sauda \ud83d\ude0c\"",
-            "Great fanart, good job. \\^\\^",
-            "Instant follow \ud83d\udde3\ufe0f\ud83d\udd25\ud83d\udd25"
-        ]
-    },
-    "What upgrade do you think is really cheap for how good it is?": {
-        "title": "What upgrade do you think is really cheap for how good it is?",
-        "score": 184,
-        "url": "https://i.redd.it/qg792ynua28d1.png",
+    "And they say he is ass": {
+        "title": "And they say he is ass",
+        "score": 150,
+        "url": "https://i.redd.it/ifa47axjmh9d1.jpeg",
         "content": "",
-        "num_comments": 94,
+        "num_comments": 19,
         "comments": [
-            "drat mkoney\n\nalso jungle drums",
-            "Moab glue for sure.",
-            "Dragon Breath, triple fireballs made very good job for R63",
-            "neva missing targets (or something like that)",
-            "Glaive ricochet is crazy. For like $600 or $700 you can get a massive pierce buff and the glaives now bounce from target to target. Basically the Ninja's shuriken but on steroids.",
-            "Bit of an obvious one but robo monkey (especially with discount village). Also dragons breath and druid of the jungle",
-            "airburst sub",
-            "Honestly spike storm is ridiculously broken for clearing out moabs",
-            "Glue Strike, +1 damage fir that price is really good",
-            "Artery Battery"
+            "he receives $850 and a hero slot smh",
+            "What do you mean Camo Detection is good ? How about giving the bloons \"You arent camo anymore!\" treatment.\n\n* This message was written by Decamo Squad.",
+            "camo isnt exactly hard to come by in 2024. You'd much reather be running almost anything else in almost any situation",
+            "850 gold, a hero placement, 100-25% of the exp depending on how many other heroes. If his main drones were just a tiny bit better, I'd agree that he's good. Or if Phayze couldn't dispel the camo detection he provides.",
+            "many monkeys can see camo and the village exists, he's way weaker for start up and mid rounds he's okay but still he isnt powerful or weak he's good that's it",
+            "Say what you will, he's an absolute beast in late game meta",
+            "Free global camo detection is something I will rarely turn down.",
+            "\u201cNinja _monke has entered the chat\u201d",
+            "this is exactly what i was gonna say",
+            "Best decamo is hand bands"
+        ]
+    },
+    "Aw hell nah yo ass tweaking ninja kiwi": {
+        "title": "Aw hell nah yo ass tweaking ninja kiwi",
+        "score": 90,
+        "url": "https://i.redd.it/yy2py2mcxg9d1.jpeg",
+        "content": "muddy puddles?",
+        "num_comments": 19,
+        "comments": [
+            "btd6 players when slight adversity",
+            "The boss is not a problem it's the rock bloons that will kill you...",
+            "This is one of the bosses of all time",
+            "speak for yourself man i love muddy puddles its my favourite map",
+            "Why ninja kiwi why this map",
+            "It's easy prices so you can snowball.",
+            "I'm only worried about the Rock Bloons. Those things will end my run.",
+            "Or a  tower that had a gun that had full map range with either great strength or great pierce or great speed or a mini gun like tower that shot bullets that did huge damage to moab class bloons or a tower that shot a missile at the strongest bloon on screen when you hit a button like really man we should be developers for ninja kiwi we have great ideas",
+            "Boss Events do seem to be getting harder every month. At least this Dreadbloon isn't stacked with ridiculous rules.",
+            "I just like clumping up my defenses"
         ]
     }
 }

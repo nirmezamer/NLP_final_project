@@ -1,7 +1,7 @@
 {
     "PSA: Please read the RULES before posting": {
         "title": "PSA: Please read the RULES before posting",
-        "score": 34,
+        "score": 39,
         "url": "https://www.reddit.com/r/PokemonROMhacks/comments/1dqwmgx/psa_please_read_the_rules_before_posting/",
         "content": "Lately there's been some posts from people who clearly haven't checked the rules, such as a few idea posts literally with \"idea\" in the title, in which case I'm assuming they're new and didn't read the rules rather than just being ignorant\n\nHopefully this helps deter naive/new rule breaking. Anyone else please ignore this as it's just to pin for any new posters. We're not struggling to run the sub at all but this is just to make things clear to anyone new here\n\n**All rules can be found on the sidebar / \"About\" section and exist to both ensure quality control and keep the sub as one of the most engaged subs on Reddit**\n\nThank you",
         "num_comments": 0,
@@ -9,75 +9,75 @@
     },
     "Weekly Questions Thread & Pok\u00e9ROM Codex": {
         "title": "Weekly Questions Thread & Pok\u00e9ROM Codex",
-        "score": 11,
+        "score": 9,
         "url": "https://www.reddit.com/r/PokemonROMhacks/comments/1dn7chh/weekly_questions_thread_pok\u00e9rom_codex/",
         "content": "**Have any questions about Pok\u00e9mon ROM Hacks that you'd like answered?**\n\nIf they're about playable ROM hacks, tools, development or *anything* Pok\u00e9mon ROM Hacking related, feel free to ask here - no matter how silly your questions might seem!\n\nBefore asking your question, make sure that you've tried searching for prior posts on the subreddit or Google. ROM hacks and tools may have their own documentation and their communities may be able to provide answers better than asking here. The Pok\u00e9community Discord server is also a great place to ask questions if you need a quick response or support!\n\n**Looking for recommendations or a new ROM hack to play?**\n\nThe [**Pok\u00e9ROM Codex**](https://pokeromcodex.notion.site/8f188f1761b9430f9adb68833c44e5b8?v=bb31503a729442f798b4233509dacab8) is an updated list of all the different ROM hacks available, listing features and more in a simple-yet-detailed, mobile-friendly format. It is made and managed by u/themanynamed, has a [Discord server](https://discord.com/invite/bGksMvxqgv) and can be contributed to by viewers.\n\nThis is a *safe* hack-sharing site that doesn't share ROMs and links to the official release threads! Instead of asking for recommendations or download links on the subreddit *(which break the rules)*, please refer to the Codex as it is safe, legal and contains a lot of information on each hack.\n\n**A few useful sources for reliable Pok\u00e9mon ROM hack-related information:**\n\n* [Pok\u00e9Community](https://www.pokecommunity.com/forumdisplay.php?f=289)\n* [Pok\u00e9Community Discord](https://discord.com/invite/pokecommunity)\n* [Pok\u00e9ROM Codex](https://pokeromcodex.notion.site/8f188f1761b9430f9adb68833c44e5b8?v=97db40c0c0b14c08a52c5805adb64cf0&p=abfe7673db3a4e09849663c7b24a6e6f&pm=s)\n* [Previous Question Threads](https://www.reddit.com/r/PokemonROMhacks/search?q=title%3A%22questions+thread%22&restrict_sr=on&sort=new&t=all)\n\n*Please help the mod team by downvoting & reporting submission posts outside of this thread for breaking Rule 7. Please avoid answering questions that break this rule as well to deter users from breaking it.*",
-        "num_comments": 189,
+        "num_comments": 193,
         "comments": [
             "Is Pok\u00e9mon Firered or Emerald better for creating a rom hack? And is it possible to make custom tiles, and additionally modify existing sprites such as the trainer sprite?",
             "Does anyone know of a Crystal ROM hack that runs on third gen?",
-            "Need help with coding follower Pokemon sprite associations;\n\nWorking on small romhack on top of Radical Red via HMA. Successfully added a custom Pokemon to the dex that plays a role in the sideplot/storyline I've added to the rom. This Pokemon is supposed to be a partner Pokemon version of Vulpix, and has customized sprite art/unique moves.\n\nI want to associate it with the follower sprite for regular vulpix, which already can be used for following in Radical Red. How do I do this? Where is that data stored? I don't necessarily even need to add a new follower sprite, just having Vulpix's normal one would be sufficient.\n\nI can't seem to locate any of the follower sprites in the hex code or how they're associated with specific Pokemon through the index. Can anyone point me in the right direction please?",
             "Does anyone know if there is a \"collection\" of the best Rom Hacks (would like for my rg35xx)\n\nThank you legends!!",
-            "# Looking for a Pokemon Emerald Rom Hack\n\n  \nI wanted to play some Hoenn but I don't wanna replay pokemon emerald or ORAS. Any good romhacks which don't have fakemons or very big changes to mechanics?",
             "Gonna ask again because I don't get an answer last week\n\nHas any hack managed to add a cutscene like the one from Emerald with Rayquaza? Is it possible to do?",
             "Any rom hacks with gen 5 or 6 moving sprites that have access to all pokemon up to that generation and somewhat decent story,gameplay?",
             "Hey! I\u2019ve started playing run and bun on my phone recently, but since I\u2019m using delta rather than mgba on a pc, I\u2019m not sure if there\u2019s a way to get the showdown export to use in the damage calc. Is there some trick to doing this using delta? Or do I have to enter it all in manually?",
             "Using HMA, and for some reason the default \u201cpokemart\u201d special code doesn\u2019t work. The mart menu opens in game but you can\u2019t move the cursor, and if you try to buy the item in the first slot it says \u201c???????\u201d for 0. The only item change I made is replacing the sprites of some existing ones in the middle of the list of items. Anyone know why this would happen or where the pokemart code is that I could try to fix this?",
-            "Which Emerald romhack has the hardest AI (preferably without fakemons and includes updated Battle Frontier pokemon with competitive movesets)?"
+            "Which Emerald romhack has the hardest AI (preferably without fakemons and includes updated Battle Frontier pokemon with competitive movesets)?",
+            "Any ROM hacking tools especially for Mystery Dungeon? I don't have a PC. Any Android PMD ROM hacking tools?",
+            "Does anyone know if there is a romhack for gen 5 that just makes everything a double battle? Similar to the emerald double battle romhack or the fire red double battle romahck? Trying to comb through everything here but i either cant find anything or I have misread something! thanks :)"
+        ]
+    },
+    "Pokemon Emerald Seaglass - My WIP Emerald Hack": {
+        "title": "Pokemon Emerald Seaglass - My WIP Emerald Hack",
+        "score": 51,
+        "url": "https://i.redd.it/8wq58wg9di9d1.jpeg",
+        "content": "For the past few months, I\u2019ve been working on Pokemon Emerald Seaglass, a rom hack based on the pokeemerald expansion. It is a complete overhaul to the graphics of Pokemon Emerald, resembling a cross between the old Gameboy games and SNES RPGs!\n\nI\u2019ve wanted a rom hack in this style for years, and after some experimentation with making other (incomplete) projects, I decided to take a stab! \nThe overworld is pretty much complete, so I expect a release sometime this summer!\n\nFeature list:\n- Graphical overhaul in the overworld, UI menus, and the Pokemon themselves\n- Many traditional pokeemerald expansion features: Physical/Special split, learnsets updated to USUM, Fairy type, etc. \n- All Pokemon from Generation 1-3 available, plus cross-gen evolutions up to Gen 9!\n- New \u201cside quests\u201d and interesting NPCs to make Hoenn even more alive\n- More under development!! :)\n\nI hope you look forward to the release of Pokemon Emerald Seaglass!\n",
+        "num_comments": 12,
+        "comments": [
+            "This looks incredible! Very much looking forward to more!",
+            "Holy crap, this looks fantastic! Will definitely be playing this!",
+            "Unreal stuff im seeing on those screenshots. Count me in if its Hoenn. Rustboro buildings are crazy. Totally looking forward to something else other than QOL difficulty versions of vanilla emerald. The only other hack on the horizon is Pisces afaik, other than that there's three spanish rmxp fangames in the works with a revamped/reimagined Hoenn. Take your time with gameplay related stuff cause those screenshots alone from the overworld already bumped this badboy very far up my want-to-play list. Thank you for all your effort you've already put into this.",
+            "A full credits list (and more details) will come with the release, but i want to highlight Zaebucca on Twitter/itch.io for many of the incredible tilesets! I\u2019d also like to mention Egg3ggEgg and Nuukiie on Twitter for many of the GBC-style Pokemon sprites, making this hack possible!",
+            "Looks sick, looking forward to playing it.",
+            "This is amazing, wish you luck on development! from these pictures I'm really looking forward to it. Has everything I'd love on a gen 3 hack and with beautiful graphics.",
+            "Damn, this looks dope!",
+            "Absolutely brilliant",
+            "Looks really cool!",
+            "thank you!! :)"
         ]
     },
     "Pokemon Saiph 2- holy crap!": {
         "title": "Pokemon Saiph 2- holy crap!",
-        "score": 301,
+        "score": 366,
         "url": "https://i.redd.it/57behnk61d9d1.jpeg",
         "content": " Hello! \nI\u2019m writing this post to kind of gush over Pokemon Saiph 2.\n\nI\u2019ve played a TON of rom hacks so far. Unbound, radical red, inclement emerald, emerald redux, rocket edition, Gaia, Sors, I could go on and on. \n\nI had a ton of fun especially with unbound and emerald redux.\n\nI am one of the unfortunate souls that didn\u2019t know you weren\u2019t supposed to play unbound as your first rom hack because it sets a yet unobtainable standard in rom hacking\u2026 until today. \n\nPokemon Saiph 2 has absolutely blown me away so far. I mean it\u2019s wild. The graphics and story are so great. The creative cities and the art? Mind blowing.  Saiph really takes the cake as my personal favorite in the trilogy is making its way into being a strong contender for a Pokemon unbound level of fun for me. \n\nI am a casual player. I don\u2019t know much about iv training, best moves, competitive play. I am just a \u201cflamethrower wins. If it doesn\u2019t? Hydro pump. If that doesn\u2019t? It\u2019s going to have to. Spam full restores and revives so I don\u2019t lose\u201d kind of guy. I\u2019m in it for the story, the world building etc. let me tell you i almost gave up radical red cause of the difficulty (fantastic game absolutely loved it I am just bad) and Saiph 2 is absolutely scratching the itch I feel after playing unbound. \n\nIf you haven\u2019t played it, I highly recommend it. I also recommend the original Saiph and Pokemon Sors. The first two parts of the series. \n\nI started off with Sors and I would recommend playing that before Saiph and Saiph 2 though. \n\nTo me, the story to the original Saiph isn\u2019t as impactful on Sors as Sors story is to Saiph 2. You can play any of the games in any order and still have a blast with each one. \n\nMy one gripe? The creators hard stance against cheating. \n\nListen I understand \u201cdon\u2019t cheat!\u201d But I\u2019m just trying to blast through battles and get to the story. Catch as my Pokemon as I want without it taking forever. Some cheats do work with this game but USER BEWARE! It could break your game. Thats not the creators fault, it\u2019s just how cheats work with hacks. \n\nAnyways, go play Saiph 2! I would love to know others opinions on it! \n",
-        "num_comments": 65,
+        "num_comments": 79,
         "comments": [
             "\"I'm just a flamethrower wins\" xD",
             "I'm surprised to see how fast the creator made the hack, and how good it is. I remember the first Saiph pretty much corrupting itself after finishing the E4\n\nPS: Does the anticheat thing also trigger with the emulator's fast forward? Or how does it work exactly?",
-            "https://preview.redd.it/oez0al5nod9d1.jpeg?width=3000&format=pjpg&auto=webp&s=7d0b4d52d0246afa9adb1745a0b0d1d92ed7535d\n\nWorks on my RG35XXSP",
             "Can you play it without playing Saiph 1 first?",
             "You're same type of player as me lol",
             "I am 36 and work a bunch to live life. I don't have the time to grind out video games as much as I'd like. easy grinding spots or cheats make it so I can play more tbh.",
             "What is it for? GBA?",
             "Dude you have me sold! I relate so much about being a casual player and not caring about iv\u2019s or competitive play. What i really take a kick out of is an amazing story, and that\u2019s why firered rocket edition was always my number one romhack. Can\u2019t wait to play this!",
-            "Epic hack!",
-            "It\u2019s great so far but how do I access the Item PC? It\u2019s only showing me the option for: Professors and the map."
+            "It\u2019s great so far but how do I access the Item PC? It\u2019s only showing me the option for: Professors and the map.",
+            "Is it complete, and can I play it solo?",
+            "I\u2019ll definitely check it out"
         ]
     },
-    "Pok\u00e9mon Azure Platinum (V1.1.0) - Difficulty Modes and Pok\u00e9mon World Tournament !": {
-        "title": "Pok\u00e9mon Azure Platinum (V1.1.0) - Difficulty Modes and Pok\u00e9mon World Tournament !",
-        "score": 124,
-        "url": "https://www.reddit.com/gallery/1dquvhx",
-        "content": "",
-        "num_comments": 13,
-        "comments": [
-            "Hello everyone!\n\nThe new version of **Pok\u00e9mon Azure Platinum (1.1.0)** is now available to play!\nIt has been just over two months since the release of the game and it has been an awesome time interacting with you!\nIt has been really heartwarming to see people playing my first project that I had spent more than a year on!\n\nThe initial release was marked with two main concerns, notably the harsh difficulty and the limited accessibility.\nV1.1.0 fixes these issues and implements many new features:\n* **Two difficulty modes** (normal for more casual players / hard for more competitive players) which can be selected at any point during the game\n* **Console compatibility** (the game can be played on TwilightMenu++ as well as many different emulators)\n* **Pok\u00e9mon World Tournament** (challenge **every major character of the franchise** and try to win exciting tournaments)\n*Many new themes imported from other Pok\u00e9mon titles\n*Bug Fixes\n\nQuick summary for those who have missed the original release:\n**Pok\u00e9mon Azure Platinum** is a Pok\u00e9mon Platinum Rom Hack that expands the story by adding **new characters, story-arcs and areas** from the DPPT anime.\nThere are a lot of **QoL features** : a Portable PC, infinite rare candies, uncapped framerate, reusable TMs and more ...\nThe game has been made more diverse with **all 493 Pok\u00e9mon being available** and NPCs using them.\nThe postgame has been largely expanded and **Operation Azure** (an equivalent of the Delta Episode) will lead you to the legendary Pok\u00e9mon ARCEUS...\n\n\nThe game is **100% complete** (including a larger postgame) and **fully documented** (in both English and French).\n\nFeel free to join my [Discord Server](https://discord.gg/9VQTJEyVZu) if you want to chat with the community!\n\n[Original thread](https://www.reddit.com/r/PokemonROMhacks/comments/1cakrh8/pokemon_azure_platinum_enfr_expanded_anime_story/)",
-            "I\u2019m not a big fan of no Evs unless all pokemon have 31 ivs in all stats. It makes getting a pokemon with bad ivs feel a lot worse imo.",
-            "Out of dumb curiosity, does this work with the following Pokemon patch?",
-            "Saving this for the discord link, I just started Scorched Silver but it's been a while since I've played in Sinnoh, I'm looking forward to it!",
-            "Ooo damn this looks nice, looks like my steam deck will finally be the emulator i had originally planned for it to be",
-            "Wow this looks great. Since Gen 4 is my favorite I\u2019ll have to try it out.",
-            "This looks awesome",
-            "Awesome and thank you for putting in a casual mode. I loved Sinnoh and the Sinnoh anime so this a definite download.",
-            "Hype!",
-            "The hack is extremely fun! Any chance in a future update you could make the Nuzlocke mode also track when it's the 1st pokemon in each route? I feel that's the most important feature if you're including a Nuzlocke mode since it lowers the amount of times you need to keep track of things outside the game (like keeping notes of what you've caught on which route)"
-        ]
-    },
-    "[Pok\u00e9mon Obsidian] Here is a smallish update, but some fun map progress! I have formatted my Pok\u00e9dex entries for each pokemon, as well as, showing off my reverse evolution mechanic that allows you to swap the alternate evolutions! I have used Poliwhirl as an example for how it works!": {
-        "title": "[Pok\u00e9mon Obsidian] Here is a smallish update, but some fun map progress! I have formatted my Pok\u00e9dex entries for each pokemon, as well as, showing off my reverse evolution mechanic that allows you to swap the alternate evolutions! I have used Poliwhirl as an example for how it works!",
-        "score": 23,
-        "url": "https://www.reddit.com/gallery/1dqwm96",
-        "content": "",
+    "Lol the GBA pokemon fan experience. Also funny number is funny.": {
+        "title": "Lol the GBA pokemon fan experience. Also funny number is funny.",
+        "score": 12,
+        "url": "https://i.redd.it/ji6qi69i7i9d1.png",
+        "content": "I was organizing my Roms and had a bit of a surprise at how few official Pokemon games there were on GBA, at least without downloading the different but pretty similar versions. ",
         "num_comments": 7,
         "comments": [
-            "Basically the pokedex is meant to be an actually helpful tool, letting you know how pokemon evolve since there is going to be a lot of changes, and then basic info about Effort Points gained for defeating them in battle, egg types, and base stats! \n\nThe reverse evolution would allow you to de-evolve politoad back to poliwhirl to then re-evolve into poliwrath. This mechanic could make for new team strategies, and fun move sets that were previously impossible to get! \n\nEdit: Some added context, the region the game takes place in is known for their gigantic evolution stone deposits, a world class evolution research facility, and their prestigious university. They have innovated and changed how Pok\u00e9mon evolve, effectively removing trading, held items, and beauty. They can\u2019t seem to find a replacement for friendship though :) \n\nSo basically there will be almost 100 new ways to evolve Pok\u00e9mon, so having the data base in the game instead of on a wiki page was the goal. As well as base stat changes, simplified egg types, and hidden abilities \n\nLet me know what you all think of these!",
-            "Looks sick in many ways! Good luck and am hyped to try it some day!",
-            "Is the game out yet?",
-            "Woah woah! This is such a neat feature. And the maps look beautiful too. Congratulations. Looking forward to this \u2728",
-            "I never understood why the Pok\u00e9dex offered almost 0 useful information. Even just adding multiple pages to a Dex entry to stop us from having to Google everything would have been awesome",
-            "I agree it is a cool feature, it\u2019s just going to be a ton of data entry, so not exactly looking forward to that aspect XD \n\nBut thank you! I love how the farm areas turned out",
-            "haha that\u2019s a great change. I don\u2019t even remember the last time I looked at the pok\u00e9dex in all honesty\u2026"
+            "Any archive with fan hacks to share please? \ud83d\ude4f",
+            "Other than poke harbor no sadly! I also enjoy looking up \"top 10 fan hacks\" or something to get general recommendations",
+            "Pokeharbor is really a godsend",
+            "I mean, would you accept doing a zip of your fan rom folder and share it please?",
+            "Sure! It'll have to wait till after work. How would i share that?",
+            "Thank you very much! \nYes of course, I\u2019ll wait! I don\u2019t know if we can share files on pm. If not, maybe using wetransfer?",
+            "Yeah me too, I could use something like that"
         ]
     }
 }

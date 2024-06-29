@@ -1,21 +1,21 @@
 {
     "Kafka Guide (Courtesy of KafkaMains Theory-Crafters)": {
         "title": "Kafka Guide (Courtesy of KafkaMains Theory-Crafters)",
-        "score": 849,
+        "score": 852,
         "url": "https://docs.google.com/document/d/1h1bUTfZ6O1cTLZE4MruICg__WtugojKRWpdolHwiODQ",
         "content": "",
         "num_comments": 172,
         "comments": [
-            "We will likely submit this guide to KQM shortly after Kafka's release, so you will hopefully be able to view the guide there, as well. If any other theory-crafters want to contribute the work they've done and compare it to what we have so far, join the reddit's Discord located in the sidebar! We hope the guide is helpful to everyone interested in playing Kafka.",
             "Mods should Pin this ASAP! Nice work \ud83e\udd19\ud83c\udffd",
             "Seems like it\u2019s worth mentioning the DoT synergy with Freeze effects and keeping that in mind when interacting with Sampo/Luka dmg debuff.",
-            "So from reading this it seems like versus a single boss target Kafka - Luka - SW - Luocha will be the best general purpose setup. Then for any setup with a group of enemies you would want Kafka - Sampo - Pela - luocha. This is assuming Sampo = Luka and SW = Pela gear wise. \n\n\nIt sounds like the Asta team would be the best general team but the restriction on the rotation seems pretty difficult to overcome. Even with an ERR rope and Von Waq set you need a full S5 lightcone for it so for most people you'll be stuck with a 3 star lightcone. I guess Astas stats don't matter for her buffs with neither the speed buff or Attack% buff scaling with her stats just with the level of the ultimate and talent traces. \n\n\nAm I missing something or is that about right?",
             "Cool guide! Thanks for posting. Something I didn't see talked about was the relative effect of building Break Effect on the Dot flex character. This may only be tangentially related to Kafka's build herself, but it is important for her team. As far as I can tell Break Effect is fairly mid on most characters not named Serval, but would a Kafka team benefit from Sampo or Luka focusing on Break effect with her ability to trigger the dot so often with high speeds? I don't know if anyone here did any TC about it (and I certainly haven't done any calculations) so I'm curious if it's worth it on anyone except Serval.",
-            "From this guide.\n\n>**134 SPD** \\- this gives you an extra turn in the first cycle and another in the third and sixth cycles; very useful and important to have.\n\nThat's incorrect. 134 speed is an extra turn in the **1st**, **4th**, **7th** and **10th** cycle. Not 3rd and 6th.",
             "If genshin player have KQM then hsr player should have KKM(Kafka main)",
             "Oh, kqm has star rail guides? I had no idea.",
             "I disagree with the label of the Triple DOT team (Kafka, Sampo, Luka) being 'jack of all trades, master of none'.  Testing has shown overwhelmingly that the Bleed mechanic from Luka is insanely OP.  Guoba did a wonderful video on this that I highly recommend.  Bleed and the way it enhances other DOTs will be vital and the numbers from that particular team setup should be head and shoulders above all other compositions for Kafka.",
-            "great guide"
+            "Thank you for the hardwork!",
+            "Why does this guide say that Asta needs Vonwacq?  You just need an ER% rope/cogs for a two turn rotation.  You do not need Vonwacq on top of that.\n\nI also have no idea why you're going with a squishy Asta build with the attack% body and fire dmg orb.  That's asking for Asta to get deleted when she contributes very little damage to begin with.",
+            "I wanna raise the possibility of using the Eagle Set and Tutorial Mission on Kafka for a faster Ult rotation, as long as you have a source of DEF down in the team: 5 (Ultimate) + 30 (Skill) + 10 (followup) + 30 + 10 + 5x8 (Tutorial) = 125 Energy, for a 2-turn Ult rotation, which in turn can give her more turns through Eagle Set's 4-pc.\n\nI don't know if this is worth dropping Kafka's personal damage, and obviously the 40% Effect Hit Rate from Tutorial is a bit wasted unless you have E1 Kafka, plus if you're running Pela she might want Tutorial more instead. But I think having a faster Ult for more DoT triggers that also gives her a psuedo-SPD boost is worth exploring.",
+            "Won't you lose damage if you go for EHR chest piece instead of attack% at E1, or is the E1 payoff worth it?"
         ]
     },
     "[General Questions Megathread] Ask questions here! Click the bell icon in the top right to get notified when there are new questions.": {
@@ -23,59 +23,61 @@
         "score": 5,
         "url": "https://www.reddit.com/r/KafkaMains/comments/1dn7d67/general_questions_megathread_ask_questions_here/",
         "content": "This is a weekly megathread for all general questions. You can also use this to add friends. Just put your server and UID below. Have fun gaming!\n\nPlease do not post joke questions or comments here. It makes it harder for others to answer questions. The megathread will be refreshed every week.\n\n# RM/BS Update:\n\nIf you're wondering who or what to pull, ask here.\n\n**General guide to all \"who should I pull\" questions** [**HERE**](https://www.reddit.com/r/KafkaMains/comments/18s9tmc/an_answer_to_your_should_i_pull_questions/)**.**\n\n**Some early calculations of different team comps with BS and RM** [**HERE**](https://www.reddit.com/r/KafkaMains/comments/193kjft/some_recent_swan_theorycrafting_how_much_of_an/)**.**\n\n# Helpful Links:\n\n* [**Full Kafka Guide**](https://docs.google.com/document/d/1h1bUTfZ6O1cTLZE4MruICg__WtugojKRWpdolHwiODQ/edit) **by our Theorycrafters**\n* [**Video Guide**](https://www.youtube.com/watch?v=jJDlCBYWIQQ&feature=youtu.be) **by GuobaCertified**\n* [Kafka's current kit](https://honkai-star-rail.fandom.com/wiki/Kafka)\n* [Kafka's signature LC](https://honkai-star-rail.fandom.com/wiki/Patience_Is_All_You_Need)\n* [Guides & Tips](https://www.reddit.com/r/KafkaMains/?f=flair_name%3A%22Guides%20and%20Tips%22)\n* [Theorycrafting](https://www.reddit.com/r/KafkaMains/?f=flair_name%3A%22Theorycrafting%22) by our members",
-        "num_comments": 6,
+        "num_comments": 7,
         "comments": [
-            "I\u2018m currently looking to optimize my Kafka team and I\u2018m a bit clueless about what to do. \n\nSo, the base team is E1 Kafka and E0 BS, both with their signature LC.\n\nNow for the 3rd slot I could use Pela or Silver Wolf, but would strongly prefer not to, as I want them in my Acheron team. I have neither Robin nor RM (and don\u2019t really plan on pulling for her, as I\u2018d rather keep saving for Jade). \nOther options I have are maybe Asta (E6), Tingyun (E4), Bronya and Sparkle (E0 without their LC). But I don\u2019t know if they\u2019re that good with Kafka.\n\nFrom what I\u2018ve read, adding another DoT unit like Sampo, Gui or Luca would be a waste of dmg potential? Otherwise these would be options available, too. \n\nWho would be the currently BiS support for her? So I can consider pulling that in the future (or look into replacing Pela/SW in Acherons team).",
             "Just double checking my math here. With PAYN (14.4 speed) and Ruan Mei (9.7 speed) , 136 speed on Kafka will end up being 160, right? So is 136 speed a good place to stop?",
             "With the news of Huohuo AND Black Swam rerun next patch, I wanted to ask which is better to roll for my DoT team: a e0 Huohuo (I already have Gallagher, FuXuan and Aventurine built) or e1 BS (I already have her, and would be rolling for her e1) ?",
-            "It depends on your available lightcones.\n\nThird dot is the best option, especially when Kafka eidolons come into play. The higher the eidolons, the more noticeable the gap. Guinafen with RAP s5 is very potent, stacking defense shred on top of vulnerability is particularly good. Sampo uses EOTP but makes up the difference with their high personal damage and break. The Prisoner - Glamoth combo turned the tide in their favor.\n\nHowever, if you're aiming for low cycle clears Tingyun with DDD s5 is the better pick, spamming ultimates and advancing forward pair really well. Asta is of a similar power level but requires planning and managing sp.\n\nDon't use Pela/Silver Wolf for dot, almost every other 4 \u2606 support performs better.\n\nYou already mentioned two BiS supports for Kafka and plan on skipping one. I don't understand the question.\n\nRegardless, Black Swan > Ruan Mei > Robin.",
+            "Black Swan e1 is tremendously powerful. If you want to ignore weakness this is the way, get her lightcone too if you can.\n\nPull Huohuo if you want comfort.",
+            "is 3 dot team kafka, bs, sampo (e6) any good even against non wind? or should i add pela, asta instead of sampo?\n\ni have double bs lc so can give it to bs, sampo.\n\nif im not running rm, is e1 swan more effective than running with her?",
             "Yes, that is correct.",
-            "Black Swan e1 is tremendously powerful. If you want to ignore weakness this is the way, get her lightcone too if you can.\n\nPull Huohuo if you want comfort."
+            "I\u2018m currently looking to optimize my Kafka team and I\u2018m a bit clueless about what to do. \n\nSo, the base team is E1 Kafka and E0 BS, both with their signature LC.\n\nNow for the 3rd slot I could use Pela or Silver Wolf, but would strongly prefer not to, as I want them in my Acheron team. I have neither Robin nor RM (and don\u2019t really plan on pulling for her, as I\u2018d rather keep saving for Jade). \nOther options I have are maybe Asta (E6), Tingyun (E4), Bronya and Sparkle (E0 without their LC). But I don\u2019t know if they\u2019re that good with Kafka.\n\nFrom what I\u2018ve read, adding another DoT unit like Sampo, Gui or Luca would be a waste of dmg potential? Otherwise these would be options available, too. \n\nWho would be the currently BiS support for her? So I can consider pulling that in the future (or look into replacing Pela/SW in Acherons team).",
+            "It depends on your available lightcones.\n\nThird dot is the best option, especially when Kafka eidolons come into play. The higher the eidolons, the more noticeable the gap. Guinafen with RAP s5 is very potent, stacking defense shred on top of vulnerability is particularly good. Sampo uses EOTP but makes up the difference with their high personal damage and break. The Prisoner - Glamoth combo turned the tide in their favor.\n\nHowever, if you're aiming for low cycle clears Tingyun with DDD s5 is the better pick, spamming ultimates and advancing forward pair really well. Asta is of a similar power level but requires planning and managing sp.\n\nDon't use Pela/Silver Wolf for dot, almost every other 4 \u2606 support performs better.\n\nYou already mentioned two BiS supports for Kafka and plan on skipping one. I don't understand the question.\n\nRegardless, Black Swan > Ruan Mei > Robin."
+        ]
+    },
+    "Unofficially crafted stunning Kafka statue figure (by Hakimi Studio)": {
+        "title": "Unofficially crafted stunning Kafka statue figure (by Hakimi Studio)",
+        "score": 120,
+        "url": "https://www.reddit.com/gallery/1dr78qs",
+        "content": "",
+        "num_comments": 2,
+        "comments": [
+            "Now *this* is a proper figure, looks great!",
+            "These statues are so restorative\uff01It's very delicate\uff01Cool\uff01"
+        ]
+    },
+    "Really wish they would release a dedicated DoT support": {
+        "title": "Really wish they would release a dedicated DoT support",
+        "score": 92,
+        "url": "https://www.reddit.com/r/KafkaMains/comments/1dr6tce/really_wish_they_would_release_a_dedicated_dot/",
+        "content": "Currently the best DoT supports are either Ruan Mei or Robin, but even so they're not designed for DoT teams. Robin is a FUA support and Ruan Mei is a break/generalist (also Firefly stole her from my Kafka's team). It would be cool if they release a specific support for DoT archetype, they already did it with Robin for FUA >!and Jiaoqiu for Acheron!< so i don't see why they won't do it for DoT.",
+        "num_comments": 47,
+        "comments": [
+            "I'm sure they will eventually",
+            "And with some spd buffs please. Reaching 160 is a pain",
+            "I am hoping it's something which makes dot crit, and heal you like the SU blessing on dot taken by enemy. Would be insane, I skipped firefly cuz I didn't want my ruan mie to be taken away lol",
+            "I prefer dot to be a more unique in comp, not needing harmony, and rise with 3 nihility dot + dot healer comp!!",
+            "i have a feeling someone in 2.5 or 2.6 is going to be dot focused bc they're rerunning BS soon, and they tend to release characters from the same archetype consecutively...",
+            "ngl, i think what we have is completely fine but i suspect there's prob a unit that inflicts bleed in the future.",
+            "Closest we got is Guinaifen (with vulnerability debuffs), but not really.",
+            "Its a bit iffy imo with a dedicated DoT sup. RM and robin can fit every team and shine but to use them to full potential they need to be in their BiS teams. JQ for now seems to be a 5* pela, in some situations they are equal, but still JQ can be sloted in every team but acheron profits the most out of him. My question is do u really think HYV gonna release a dedicated dot sup? I doubt it. I think if a dot sup comes its gonna be a very good general sup with some traces for dot dmg, just like robin.",
+            "harmony/nihility\u2014 dot crit with an ult that advances the enemies turn to take the dot while taking x% additional damage, but the enemies will not actually take their turn to attack\u2014 this one\u2019s pretty dot specific, make it happen",
+            "I know people like talking about the blessing cards getting implemented into some kits but I truly feel the \u201cdots can crit\u201d will be someone\u2019s e2 not base kit. No biases for this of course I see more of a chance of \u201ceverytime a dot is triggered heal team and or the owner of the dot\u201d to be more likely."
         ]
     },
     "Traveling with Kafka (by HaDy)": {
         "title": "Traveling with Kafka (by HaDy)",
-        "score": 854,
+        "score": 985,
         "url": "https://i.redd.it/dwkjfm4avb9d1.jpeg",
         "content": "",
         "num_comments": 7,
         "comments": [
+            "So uhhhhh, is she IN the suitcase? Or is it just hers?",
             "WHY ARE YOU SO HOT!?\n\nhttps://preview.redd.it/jqfvmg11mc9d1.jpeg?width=706&format=pjpg&auto=webp&s=2d525920434a2afa848acff6cd7e72e84995497f",
             "[Twitter Source](https://x.com/Kuro_hady/status/1806305669156589679/photo/1)\n\nMommy looking good as always, love her outfit",
-            "https://preview.redd.it/s4zn9dgpvc9d1.png?width=1080&format=pjpg&auto=webp&s=7c14a24dc4a8640e50d757ed644ca8ea144252c9",
             "https://preview.redd.it/d8jfomju0f9d1.jpeg?width=828&format=pjpg&auto=webp&s=f621fff43edb5725d9558bf033ac753d83e94358",
+            "https://preview.redd.it/s4zn9dgpvc9d1.png?width=1080&format=pjpg&auto=webp&s=7c14a24dc4a8640e50d757ed644ca8ea144252c9",
             "https://preview.redd.it/avm7dxkilf9d1.jpeg?width=416&format=pjpg&auto=webp&s=ef5486d283ed9e89591acce408daa47ce24ac6cb",
-            "https://preview.redd.it/u6g7pnhuwe9d1.png?width=1080&format=pjpg&auto=webp&s=df2a5c5f1a5c7e5616d9c51b2e897607f04a3afe",
-            "So uhhhhh, is she IN the suitcase? Or is it just hers?"
-        ]
-    },
-    "Summer (By ZZO)": {
-        "title": "Summer (By ZZO)",
-        "score": 984,
-        "url": "https://i.redd.it/tihz20iem99d1.jpeg",
-        "content": "",
-        "num_comments": 5,
-        "comments": [
-            "https://preview.redd.it/iapd7h010a9d1.png?width=936&format=png&auto=webp&s=3c964c6eb35f2d7e2458220c668ca29c7282b88e",
-            "https://preview.redd.it/u8206sbnp99d1.png?width=550&format=pjpg&auto=webp&s=c2cd59d78c1e9726e177f596290210224cad5edd",
-            "https://preview.redd.it/ivi95uvyy99d1.jpeg?width=800&format=pjpg&auto=webp&s=f82bcfae5c48bb913aee432c5db766eaecfbceed",
-            "[Source](https://www.pixiv.net/en/artworks/120046470)",
-            "Oh... Non canonical milkers I see... Sorry but I pass"
-        ]
-    },
-    "my Kafka cosplay \u2602\ufe0f": {
-        "title": "my Kafka cosplay \u2602\ufe0f",
-        "score": 249,
-        "url": "https://i.redd.it/wxi2tfh7sb9d1.jpeg",
-        "content": "cosplayer: bbrisscos (me)\nphotographer: ele__ph",
-        "num_comments": 6,
-        "comments": [
-            "Beautiful! Fits her",
-            "BOOM!",
-            "Awesome cosplay!! :D",
-            "thank you !!",
-            "\ud83d\ude42\u200d\u2195\ufe0f",
-            "thank you\ud83e\udd79\ud83d\ude4f\ud83c\udffb"
+            "https://preview.redd.it/u6g7pnhuwe9d1.png?width=1080&format=pjpg&auto=webp&s=df2a5c5f1a5c7e5616d9c51b2e897607f04a3afe"
         ]
     }
 }

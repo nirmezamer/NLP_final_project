@@ -1,0 +1,67 @@
+{
+    "Showoff Saturday (June 29, 2024)": {
+        "title": "Showoff Saturday (June 29, 2024)",
+        "score": 1,
+        "url": "https://www.reddit.com/r/javascript/comments/1dr5bvs/showoff_saturday_june_29_2024/",
+        "content": "Did you find or create something cool this week in javascript?       \n\nShow us here!",
+        "num_comments": 2,
+        "comments": [
+            "I'm celebrating off saturday lol",
+            "I made a [very tiny library](https://github.com/henrygd/semaphore) for fast inline semaphores and mutexes"
+        ]
+    },
+    "Your /r/javascript recap for the week of June 17 - June 23, 2024": {
+        "title": "Your /r/javascript recap for the week of June 17 - June 23, 2024",
+        "score": 1,
+        "url": "https://www.reddit.com/r/javascript/comments/1dn97r2/your_rjavascript_recap_for_the_week_of_june_17/",
+        "content": "**Monday, June 17 - Sunday, June 23, 2024**\n\n###Top Posts\n\n| score | comments | title & link |\n|--|--|--|\n| 104  | [39 comments](/r/javascript/comments/1dis0p5/i_made_a_website_where_you_can_write_a_message_to/)  | [I made a website where you can write a message to the next visitor &#40;+ source&#41;](https://www.dearnextvisitor.com/)|\n| 80  | [60 comments](/r/javascript/comments/1dhz3ny/how_react_19_almost_made_the_internet_slower/)  | [How React 19 &#40;Almost&#41; Made the Internet Slower](https://blog.codeminer42.com/how-react-19-almost-made-the-internet-slower/)|\n| 58  | [9 comments](/r/javascript/comments/1dkik51/announcing_typescript_55/)  | [Announcing TypeScript 5.5](https://devblogs.microsoft.com/typescript/announcing-typescript-5-5/)|\n| 39  | [1 comments](/r/javascript/comments/1dmmfub/detecting_element_visibility_using_css/)  | [Detecting Element Visibility Using CSS](https://pillser.com/engineering/2024-06-23-detecting-element-visibility-using-css)|\n| 38  | [25 comments](/r/javascript/comments/1dk944h/state_of_javascript_2023_frontend_frameworks/)  | [State of JavaScript 2023: Front-end Frameworks](https://2023.stateofjs.com/en-US/libraries/front-end-frameworks/)|\n| 34  | [22 comments](/r/javascript/comments/1di1oyf/i_made_a_300_byte_async_queue_that_outperforms/)  | [I made a 300 byte async queue that outperforms p-limit, fastq, or any other library I've tested it against.](https://github.com/henrygd/queue)|\n| 33  | [8 comments](/r/javascript/comments/1dmje8k/promises_from_the_ground_up/)  | [Promises From The Ground Up](https://www.joshwcomeau.com/javascript/promises)|\n| 28  | [60 comments](/r/javascript/comments/1djb6kj/askjs_what_are_your_favorite_javascript_features/)  | `[AskJS]` &#91;AskJS&#93; What are your favorite JavaScript features?|\n| 16  | [60 comments](/r/javascript/comments/1dmcj83/askjs_what_are_existing_solutions_to/)  | `[AskJS]` &#91;AskJS&#93; What are existing solutions to compress/decompress JSON objects with known JSON schema?|\n| 16  | [14 comments](/r/javascript/comments/1dkyj4i/signalizejs_modular_javascript_framework/)  | [Signalize.js - Modular Javascript Framework](https://signalizejs.com)|\n\n\n&nbsp;\n\n###Most Commented Posts\n\n| score | comments | title & link |\n|--|--|--|\n| 0  | [26 comments](/r/javascript/comments/1dm6mtw/why_you_might_be_using_enums_in_typescript_wrong/)  | [Why you might be using Enums in TypeScript wrong](https://tduyng.com/blog/enum-typescript/)|\n| 8  | [24 comments](/r/javascript/comments/1dk4usz/askjs_how_do_you_efficiently_manage_state_in/)  | `[AskJS]` &#91;AskJS&#93; How do you efficiently manage state in large-scale React applications without Redux?|\n| 1  | [22 comments](/r/javascript/comments/1dkfcaw/askjs_how_much_js_is_enough_to_learn_react_js/)  | `[AskJS]` &#91;AskJS&#93; How much js is enough to learn react js ??|\n| 0  | [18 comments](/r/javascript/comments/1di0yzv/a_couple_of_rules_to_avoid_writing_slow/)  | [A couple of rules to avoid writing slow Javascript code.](https://github.com/webNeat/performant-js)|\n| 0  | [17 comments](/r/javascript/comments/1djlgth/i_made_a_free_and_open_source_saas_boilerplate_in/)  | [I made a Free and Open Source SaaS Boilerplate in JavaScript: An Alternative to $500+ Paid Ones, perfect to build your own SaaS.](https://github.com/ixartz/SaaS-Boilerplate)|\n\n\n&nbsp;\n\n###Top Ask JS\n\n| score | comments | title & link |\n|--|--|--|\n| 10  | [12 comments](/r/javascript/comments/1dhpku1/askjs_dsa_for_absolute_beginner/)  | `[AskJS]` &#91;AskJS&#93; DSA for absolute beginner|\n| 8  | [8 comments](/r/javascript/comments/1djl86h/askjs_is_it_possible_to_generate_a_customized_pdf/)  | `[AskJS]` &#91;AskJS&#93; Is it possible to generate a customized PDF file from a HTML page using JS?|\n| 7  | [10 comments](/r/javascript/comments/1dk8pa3/askjs_how_can_i_efficiently_visualize_audio_in_my/)  | `[AskJS]` &#91;AskJS&#93; How can I efficiently visualize audio in my app?|\n\n\n&nbsp;\n\n###Top Showoffs\n\n| score  |  comment  |\n|--|--|\n| 1  |  /u/7_select said [I may be late for this showoff but i'd love to get some feedback on my &#91;European 90 Day Tourist Visa Calculator&#93;&#40;https://www.touristvisacalculator.com/&#41;](/r/javascript/comments/1dlprn1/showoff_saturday_june_22_2024/l9wqutg/?context=5) |\n| 1  |  /u/pouchlabs said [pouchrealtor  socket.io alternative pure websocket that's simple blazingly fast autoreconnects  &#91;pouchrealtor&#93;&#40;https://github.com/pouchlabs/pouchrealtor&#41;](/r/javascript/comments/1dlprn1/showoff_saturday_june_22_2024/l9rc6pf/?context=5) |\n| 1  |  /u/isumix_ said [Please review the\u00a0&#91;frontend library &#40;Fusor&#41;&#93;&#40;https://github.com/fusorjs/dom&#41;\u00a0I have been developing. While it shares some concepts with **React/Solid**, it distinguishes itself...](/r/javascript/comments/1dlprn1/showoff_saturday_june_22_2024/l9r17qt/?context=5) |\n\n\n&nbsp;\n\n###Top Comments\n\n| score  |  comment  |\n|--|--|\n| 103  |  /u/Fine-Train8342 said [No way React would make anything slower. They're known for their best-in-class decision-making and for prioritizing performance and DX above all else. I just don't see it going down that way.](/r/javascript/comments/1dhz3ny/how_react_19_almost_made_the_internet_slower/l90g0mp/?context=5) |\n| 67  |  /u/queen-adreena said [It\u2019s funny to think that if Wordpress accidentally shipped some errant JavaScript in their wp_includes, they could probably increase global daily bandwidth by PBs.](/r/javascript/comments/1dhz3ny/how_react_19_almost_made_the_internet_slower/l90ubi7/?context=5) |\n| 40  |  /u/boilingsoupdev said [I like the shorthand for objects when the key name is the same as the variable name. And the opposite for destructuring.  &#96;&#96;&#96; const name = \"Bob\"; const obj = { name };   const obj2 = { age...](/r/javascript/comments/1djb6kj/askjs_what_are_your_favorite_javascript_features/l99rzo6/?context=5) |\n| 35  |  /u/SecretAgentKen said [For those that just read the headline and don't bother with the link, this is an API for Facebook's Threads application.   JavaScript did NOT suddenly get threading.](/r/javascript/comments/1diymr5/threads_api_is_here/l978i3w/?context=5) |\n| 34  |  /u/dronmore said [I like that you can use an underscore as a numeric separator. It increases readability of big numbers.      const million  = 1_000_000     console.log&#40;'// output:', million&#41;     // output: 100...](/r/javascript/comments/1djb6kj/askjs_what_are_your_favorite_javascript_features/l99zbkw/?context=5) |\n\n\n&nbsp;",
+        "num_comments": 1,
+        "comments": [
+            "If you would like this roundup sent to your reddit inbox every week [send me a message with the subject 'javascript'](https://www.reddit.com/message/compose?to=subredditsummarybot&subject=javascript&message=x). Or if you want a daily roundup, [use the subject 'javascript daily'](https://www.reddit.com/message/compose?to=subredditsummarybot&subject=javascript%20daily&message=x). Or send me a chat with either javascript or javascript daily.\n\n#####Please let me know if you have suggestions to make this roundup better for /r/javascript or if there are other subreddits that you think I should post in. I can search for posts based off keywords in the title, URL and flair - sorted by upvotes, \\# of comments, or awards. And I can also find the top comments overall or in specific threads."
+        ]
+    },
+    "I've created a cryptographic website challenge:": {
+        "title": "I've created a cryptographic website challenge:",
+        "score": 2,
+        "url": "https://idanhajbeko.github.io/decrypt_me",
+        "content": "",
+        "num_comments": 15,
+        "comments": [
+            "Awesome, how come not mobile first? Most traffic nowadays is mobile.",
+            "Wait, you're hacking on a mobile device? I don't think so. People on mobile devices are generally glued to facecrack.",
+            "Yeah, I know, sorry, but the website looks weird and gross on mobile. It is so bad that it is unusable on mobile. Sorry for the inconvenience.",
+            "What does mobile traffic have to do with cryptography? The post is not about UI or mobile devices.",
+            "I know right? I guess everyone's definition of a long time is different",
+            "Stop playing. You *are not* hacking or experimenting with JavaScript on a mobile device. At best you are just consuming some RSS feed on mobile devices.\n\nNotice your complete lack of anything about cryptography in your comment. You're talking about UI - because you are on a device with a 2 inch screen...",
+            "Yea that why this is a challenge for them",
+            "No problem just curious, organic traffic mostly comes through mobile nowadays so it might help to get one up and build traffic in future",
+            "You are right i will make it compatible with mobile thanks",
+            "> Please don't use a mobile device to view this site\n\n>This site is designed for large screens\n\n> This website took a lot of time to design so I don't want you to see it on mobile.\n\nHoly crap, the contact embarrassment. \n\nWhy not just stick a \"Designed for Netscape Navigator 800x600\" button on there like the late 90s and have done with it? \ud83d\ude02\n\n**Edit:** Oh my god, I just switched my mobile browser into desktop mode, and *that's* the beautiful design you took so long over that can't possibly be butchered by rendering it on a mobile device? \ud83d\ude02"
+        ]
+    },
+    "I have created a simple json query tool, jproc": {
+        "title": "I have created a simple json query tool, jproc",
+        "score": 0,
+        "url": "https://www.npmjs.com/package/jproc?activeTab=readme",
+        "content": "Please have a look at the npm package...",
+        "num_comments": 5,
+        "comments": [
+            "Looking at inconsistency in your code, I can almost guarantee that you stole parsers from someone else project. Like, using 6 space tabs instead of 4 spaces for indents...\n\nAnyway, good job. But this tool is redundant. JSON is 1to1 representation of JS object/arrays. There is no needs in another parser on top of JSON parser. It would be more interesting to see if you made a similar library for a programming language that does not have a built-in JSON parser, for example C, Rust, C++, Go...",
+            "Why are people upset by this?",
+            "why did you create json parser when there is 100x faster built-in one using native code? self education?",
+            "Yes",
+            "Hi @dusttailtale, thank you for your review. I have followed the following tutorial to create the parser and stripped that down to work only for json [https://youtube.com/playlist?list=PL_2VhOvlMk4UHGqYCLWc6GO8FaPl8fQTh&si=oNLoEvoLnvoloOfN](https://youtube.com/playlist?list=PL_2VhOvlMk4UHGqYCLWc6GO8FaPl8fQTh&si=oNLoEvoLnvoloOfN).\n\nAnyways, I am planning to build the same in Go.\nThanks again! \ud83d\ude04"
+        ]
+    },
+    "Exploring Randomness In JavaScript": {
+        "title": "Exploring Randomness In JavaScript",
+        "score": 9,
+        "url": "https://www.bennadel.com/blog/4669-exploring-randomness-in-javascript.htm",
+        "content": "",
+        "num_comments": 3,
+        "comments": [
+            "Interesting article, and I like the visualization at the end. I also agree with the final sentiments. Math.random() is probably fine for 99% of the cases in which you would want a random number. There are definitely use-cases where you might want something \"more\" random, but I'd wager most developers don't need anything more than just Math.",
+            "I don't think you'll see any difference unless you run specialized randomness tests.\n\n>Of course, the\u00a0Crypto\u00a0module is significantly slower (half of which is all the Typed Array allocation cost).\n\nYou could do just one call with a big array and then every time pick the next random number until it needs refill."
+        ]
+    }
+}

@@ -1,10 +1,10 @@
 {
     "What have you done with PowerShell this month?": {
         "title": "What have you done with PowerShell this month?",
-        "score": 83,
+        "score": 88,
         "url": "https://www.reddit.com/r/PowerShell/comments/1d5letk/what_have_you_done_with_powershell_this_month/",
         "content": "",
-        "num_comments": 161,
+        "num_comments": 168,
         "comments": [
             "Started using powershell 7 :)",
             "I converted my onboarding script from MSOnline and Azure AD modules to Graph and thus said goodbye to PowerShell 5",
@@ -12,58 +12,67 @@
             "The same thing I always do pinky. \n\nWrite simple software installers the engineers are too lazy to write themselves...",
             "Creating a script to read data coming in from a serial port (Daktronics) and use a reference csv file to match the raw data to correctly output racing splits",
             "I automated SSL certificate creation/approval/download using the Sectigo API using a CSR automatically created with OpenSSL.",
-            "I wrote [Decode-AsusRouterConfig.ps1](https://github.com/VladDBA/Asus-Router-Config-Decoder) - a script to decode Asus router config backups and retrieve admin username & password, and SSIDs and passwords.\n\nThis is besides my constant work on [PSBlitz](https://github.com/VladDBA/PSBlitz) (a PS script that outputs SQL Server health and performance diagnostics data to either Excel or HTML, and saves execution plans and deadlock graphs as .sqlplan and .xdl files)",
             "Wrote a function that takes an array of objects and turns their properties into into columns and then uploads them into an azure storage table, I built a powerBI report that reads the azure table and pretty visual visuals",
-            "Work related \n\n- uninstall stubborn apps\n- Patching\n- get win logon events\n- created a del profile except mentions profile (Extremely proud of this one)\n- create a deployable debloater\n- create a script to boot pc in Safe mode , add a run value to launch the uninstall of an AV , take the pc out of safe mode and restart it back into normal",
-            "Found that the C/C++ compiler for Windows has a powershell command line as well as a CMD one."
+            "Found that the C/C++ compiler for Windows has a powershell command line as well as a CMD one.",
+            "Deployed a logon script that collects the user\u2019s work station information (Get-ComputerInfo) and save it to a network share so I can have my Jira process pick them up and update my Asset Management project.",
+            "worked powershell graph api sdk"
         ]
     },
-    "Powershell Useless but fun projects": {
-        "title": "Powershell Useless but fun projects",
-        "score": 26,
-        "url": "https://www.reddit.com/r/PowerShell/comments/1dlo6hx/powershell_useless_but_fun_projects/",
-        "content": "I\u2019m making a joke portfolio full of pointless, silly or amusing projects. So far I have a script to have pop up windows with sarcastic error messages, auto launching a Rick-roll, and changing the default cursor to a pickle. \n\nIt\u2019s fun but I need more ideas.",
-        "num_comments": 28,
+    "PowerShell Series [Part 6] More Commands": {
+        "title": "PowerShell Series [Part 6] More Commands",
+        "score": 11,
+        "url": "https://www.reddit.com/r/PowerShell/comments/1dr2v4y/powershell_series_part_6_more_commands/",
+        "content": "If anyone is interested, I just released \\[Part 6\\] in my PowerShell web series.  In this video, I dive deeper into commands and modules, including how to discover new commands to load into your arsenal of tools.\n\nYouTube Video: [https://youtu.be/h4ajh\\_4RliA](https://youtu.be/h4ajh_4RliA)",
+        "num_comments": 1,
         "comments": [
-            "As mentioned elsewhere in this thread, here's the guts from my much longer invoke-catfact.ps1 script I wrote. If you can etsn or ssh into another PC on your domain, this would do the job to randomly play a cat fact on another computer..\n\n    [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072\n    Add-Type -AssemblyName System.speech\n    $speak = New-Object System.Speech.Synthesis.SpeechSynthesizer\n    $speak.SelectVoice('Microsoft Zira Desktop')\n    $RandomCatFact = (ConvertFrom-Json (Invoke-WebRequest -Uri \"https://catfact.ninja/fact\" -UseBasicParsing).Content).fact\n    Write-Host $RandomCatFact\n    $speak.Speak(\"did you know that $RandomCatFact\")    \n\nThe full script was set to run as a scheduled task, and would add a random delay of up to 30mins, but then my target kept muting their speakers, so I added a bit to unmute them and set the volume to max.. When they started plugging in headphones, I updated the final version to change the audio back to speakers, unmute, set max volume, then play the 80s \"the more you know\" jingle, and then speak the random cat fact.\n\nThe final script is a bit too long to post here in the comments, but if someone is really interested, either reach out or upvote and i can toss it on pastebin or something..",
-            "Set a scheduled task to have powershell invoke the text to speech feature to say random messages at random intervals. I did this to a buddy years ago who kept his speakers at high volume to listen for alerts.\n\nAdd-Type -Assemblyname system.speech \n\n$jerkbot = New-object System.Speech.Synthesis.SpeechSynthesizer \n\n$jerkbot.speak('I am watching you')",
-            "Something which sets the user\u2019s wallpaper to a random picture of a goat",
-            "I have a function called Get-CatFact that calls the Cat Fact API (Google it) then uses text to speech to read it aloud.",
-            "I made functions to roll 6 sided dice, 8ball, d20, and coin flip that I think are amusing",
-            "Awesome!",
-            "Turn off someones display\n\nPlay a sound file on repeat that they cant stop, even if they close the powershell window.\n\n  \nIve done both through powershell so I know they are possible.",
-            "Care to share the script for sarcastic error messages",
-            "I've got Snake on Powershell somewhere on my computer still :p",
-            "An interesting one I did on Fiver sometime ago was make a script to launch and play 4 copies of the same video on 4 separate screens at full screen. I never really understood the point, but I imagined it as a pseudo-presentstion setup. Was an interesting problem to solve at least."
+            "Thank you sir.\n\n  \nFor those like me who would prefer to start earlier in the series, here's all of them thus far; choose your start point:\n\n# [PowerShell Series \\[Part 1\\] Installing PowerShell 7](https://www.youtube.com/watch?v=oZ8nxnwzUBU)\n\n# [PowerShell Series \\[Part 2\\] Help System](https://www.youtube.com/watch?v=08Qc9SHob-U)\n\n# [PowerShell Series \\[Part 3\\] Commands](https://www.youtube.com/watch?v=Rc89DqGJlhc)\n\n# [PowerShell Series \\[Part 4\\] Providers](https://www.youtube.com/watch?v=sKQdYhYCmPQ)\n\n# [PowerShell Series \\[Part 5\\] The Pipeline](https://www.youtube.com/watch?v=rxgYMqcVne0)\n\n# [PowerShell Series \\[Part 6\\] More Commands](https://www.youtube.com/watch?v=h4ajh_4RliA&t=7s)"
         ]
     },
-    "Remove old and add new permissions to document library": {
-        "title": "Remove old and add new permissions to document library",
-        "score": 1,
-        "url": "https://www.reddit.com/r/PowerShell/comments/1dlv1h9/remove_old_and_add_new_permissions_to_document/",
-        "content": "I\u2019m trying write a script that will create a document library on a SharePoint online site and give it different permissions to the site.\n\nI can create the library, the relevant group, break inheritance and add the group but I can\u2019t remove the other site groups.\n\nDoes anyone know how I can do this?",
-        "num_comments": 0,
-        "comments": []
+    "Losing my love for Powershell": {
+        "title": "Losing my love for Powershell",
+        "score": 48,
+        "url": "https://www.reddit.com/r/PowerShell/comments/1dqpv0w/losing_my_love_for_powershell/",
+        "content": "Hello everyone,\n\nBefore diving into the core of my post, I\u2019d like to introduce myself. I\u2019m a production engineer with a devops culture/background, boasting over a decade of experience, especially in Windows server environments, though I\u2019m no stranger to Linux.\n\nMy journey with Powershell began 10 years ago, and it quickly became a language I deeply admire. Despite continuously learning new aspects of it, I feel confident enough to consider myself an expert.\n\nMy portfolio of projects with Powershell is extensive. Recently, I\u2019ve ventured into writing my own APIs using Pode and developing web interfaces with Powershell Universal - and it\u2019s been incredibly fulfilling.\n\nI used Powershell for many things : automation, monitoring, data manipulation and injection, playing with Azure and Apis, databases management etc.\n\nBeyond that, I\u2019ve authored my own modules and established CI/CD pipelines for publishing them. \n\nYet, I often find myself feeling misunderstood. Colleagues and peers question my preference for Powershell, citing other market solutions like Ansible, Terraform, and Python [add here any devops tools and language].\n\nAt a crossroads, I\u2019m contemplating a job change. However, the DevOps job market seems to echo the same sentiment - Powershell is not really in demand.\n\nAfter updating my resume and having it reviewed, the feedback was perplexing. \u201cWhy emphasize Powershell so much? It\u2019s not that important,\u201d they said. But to me, it\u2019s crucial. I\u2019ve tackled complex challenges with Powershell that my team couldn\u2019t address.\n\nLately, my passion for Powershell has been waning, and I can\u2019t shake off the feeling that it might be fading into obsolescence.\n\nI\u2019m well aware that Powershell isn\u2019t the solution to everything and shouldn\u2019t be the only solution. It\u2019s not the only skill I possess, but it has enabled me to learn a tons of stuff and solve numerous problems.\n\nWhat are your thoughts? Is Powershell still relevant in today\u2019s, or is it time for me to adapt to the job market?\n",
+        "num_comments": 55,
+        "comments": [
+            "This seems less about Powershell and more about your career path. If you want to branch out of Microsoft environments, then yeah, you're not gonna need Powershell as much. \n\nHowever, it is still very much relevant and the best solution for anything Azure/Windows/Intune/M365 (in my opinion)",
+            "Powershell is the best tool for managing windows and MS365 in bulk.\n\nBut for some specific tasks, there are better tools, in that they don't require the depth of knowledge PS often does to do some intricate things.",
+            "Coach for powershell. There\u2019s people out there like me who suck at it and need guidance",
+            "Your feedback of \"Why emphasize Powershell so much? It\u2019s not that important\" sounds very similar to feedback I received of \"Do you have a life outside of work?\" (after seeing my github contribution history) \ud83d\ude02 I think most people just can't understand having a passion for something, and they don't realise the versatility that it brings you as an engineer.",
+            "We use ansible but it runs powershell scripts lol.",
+            "I used to love PowerShell and even contributed a small chapter about PowerShell to a community book. Today my job no longer using PowerShell anymore. It\u2019s just me who just has an enthusiastic to write scripts and automations. I can say PowerShell was a stepping stone for my career, it\u2019s very lovely DSL, familiar syntax and easy to understand. So what I think is you just need to decide whether you are like me who actually loves to build automations and scripts where you didn\u2019t realising yourself and addicting to PowerShell or just want to be a PowerShell guy and going down the rabbit hole deep into the core of PowerShell.",
+            "I've also observed PowerShell the language and related skills not getting the respect it really deserves. I have plenty of first hand experience to see how impressive it can be. Perhaps PowerShell would benefit from better marketing or demonstrations. Until then, the general advice here is correctly, it's wise to supplement those skills with another tool. I've personally found Python to be worthy of the hype. Beyond its great popularity, it's cross platform nature, better performance than PowerShell, and its following a more traditional programming paradigm are worth learning, using, and adding to your resume. I highly recommend learning it sooner than later. I think my heart is big enough to love both languages equally.",
+            "Personally I've long felt that MS is putting PowerShell in the backseat. Look at their examples in their documentation and you'll see it's all python, C# and az cli. I'd strongly recommend taking that as an indicator...",
+            "Ansible, terraform and python are tools that have their uses. Powershell is a tool that has its uses. \n\nA true craftsman doesn\u2019t try to use one tool for all things. Not to mention that most of them can easily interact with the others when needed.",
+            "It sounds like Powershell is your hammer and every problem is seen as a nail. I would find it very suspicious too if you were using Powershell for things like API development."
+        ]
     },
-    "SecretBackup PowerShell Module": {
-        "title": "SecretBackup PowerShell Module",
-        "score": 40,
-        "url": "https://www.reddit.com/r/PowerShell/comments/1dl5sb6/secretbackup_powershell_module/",
-        "content": "The official SecretManagement module is excellent for securely storing secrets like API tokens. Previously, I used environment variables for this purpose, but now I utilize the local SecretStore for better security and structure. However, I've encountered a significant limitation: portability. Moving API tokens to a new machine or restoring them after a rebuild is practically impossible. While using a remote store like Azure Vault is an option, it's not always practical for small projects or personal use.\n\nTo address the lack of backup and restore features in the SecretManagement module, I developed a simple solution: the SecretBackup module. You can easily export any SecretStore (local, AzureVault, KeePass, etc.) as a JSON file, which can then be easily imported back into any SecretStore.\n\n# Key Features\n\n* **Backup and Restore Secrets**: Easily create backups of your secrets and restore them when needed.\n* **Cross-Platform Portability**: Move secrets between different machines seamlessly.\n* **Backend Migration**: Migrate secrets from one backend store to another (e.g., KeePass to Azure Vault).\n\n# Module Source Code\n\n* **Module Link**: [PSGallery](https://www.powershellgallery.com/packages/SecretBackup)\n* **Repository Link**: [GitHub](https://github.com/belibug/SecretBackup)\n\nIt's a straightforward module. If you're hesitant about installing it, you can copy the source code directly from the GitHub repository.\n\n**Note**: The exported JSON is in plain text by design. I plan to implement encryption in the next release.\n\n**Note 2**: This is definitely not for everyone, It addresses a niche requirement and use case. I wanted to get my first module published to PSGallery (and learn automation along the way). Go easy on me, feedback very welcome.",
+    "curl.exe": {
+        "title": "curl.exe",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PowerShell/comments/1dr9t95/curlexe/",
+        "content": "Hello everyone,  \nI recently wanted to create a powershell script that maintains a tcp connection. Unfortunately, curl always aborted the connection, even with the --kepalive option. Have I done something wrong, or does this function not exist? Do you know other commands to maintain a tcp connection or can someone help me with curl?  \nThanks",
         "num_comments": 4,
         "comments": [
-            "I'll be happy to be your first official fork on GitHub :). Looking to contribute to this VERY relevant and important project to ANY automation lover.",
-            "Nice! That was a pain point I had too. I built one of these for the company I'm at now. You can import/export secrets, and load them up to your session's environmental variables for usage by calling that secret's name. Unfortunately that was specifically for work so I can't release it.",
-            "Please do. Call out your contribution in issue tracker so we can brainstorm and track.",
-            "I did write adhock export command by simply looping. But it miserably failed to export PS credentials and metadata types. Built this module to address that once for all."
+            "Why are you using curl from a powershell session?\n\nInvoke-webrequest or Invoke-RestMethod arent good for your use case ?",
+            "So bear in mind, for some reason curl is an alias for invoke-webrequest despite it not having feature parity with the real curl.  So make sure you're using the full path for curl.exe if  that's what you want to use.",
+            "he just posted the same thing in the cmd sub, theres no reason to use curl, its just what he thinks he needs to do\n\nOP maybe ask us to help with what you are trying to accomplish without setting requirements and see what people come up with, you needing to use curl is distracting from whatever you are trying to do\n\n\u201cMaintain a TCP connection to WHAT?\u201d",
+            "Look up `[System.Net.Sockets.TcpClient]`\n\n[https://learn.microsoft.com/en-us/dotnet/fundamentals/networking/sockets/tcp-classes](https://learn.microsoft.com/en-us/dotnet/fundamentals/networking/sockets/tcp-classes)"
         ]
     },
-    "53504 event": {
-        "title": "53504 event",
-        "score": 1,
-        "url": "https://www.reddit.com/r/PowerShell/comments/1dlr5k1/53504_event/",
-        "content": "Hello when I recently turned my laptop on after 6 hours turned off (not hibernation) I saw what I think were three command terminal windows open and close in one second. I don't really recall if the windows were blue-background powershell or black cmd but I checked event viewer to see what it might have been and saw three processes in quick succession around that time: powershell opens (40961), IPC listening (53504), then ready for input (40962) happening within a second, but NO remote command is executed (4104) after nor are any security logs deleted. \n\nIs 53504/IPC listening a normal process or should I be concerned? Thanks ",
-        "num_comments": 0,
-        "comments": []
+    "?Anyone else have a red lock icon when using powershell 7.4?": {
+        "title": "?Anyone else have a red lock icon when using powershell 7.4?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/PowerShell/comments/1dr5ebl/anyone_else_have_a_red_lock_icon_when_using/",
+        "content": "I have no idea why but a red lock icon just kind of showed up a few days ago. Anyone else have this?\n\n[https://imgur.com/a/msaKlQX](https://imgur.com/a/msaKlQX)",
+        "num_comments": 6,
+        "comments": [
+            "In every directory? Or just system ones?",
+            "What are you actually showing us? Is this your prompt? Do you use a custom one? Or is it something else?",
+            "Check installed modules (including those installed long ago but updated recently), check your profile.",
+            "I think it may be oh-my-posh\nCheck your profile and see what is loaded",
+            "So just normal pwsh window running any command?",
+            "It's in all."
+        ]
     }
 }

@@ -1,86 +1,97 @@
 {
     "Cumulative Updates: June 11th, 2024": {
         "title": "Cumulative Updates: June 11th, 2024",
-        "score": 34,
+        "score": 38,
         "url": "https://www.reddit.com/r/Windows11/comments/1ddjbuc/cumulative_updates_june_11th_2024/",
         "content": "Changelists linked here for your convenience:\n\n* Windows 11, version 21H2: [KB5039213 (OS Build 22000.3019) - Microsoft Support](https://support.microsoft.com/en-us/topic/june-11-2024-kb5039213-os-build-22000-3019-162ab53e-6c89-4991-9c16-37633fdb0be0)\n* Windows 11, version 22H2/23H2:\u00a0 [KB5039212 (OS Builds 22621.3737 and 22631.3737) - Microsoft Support](https://support.microsoft.com/en-us/topic/june-11-2024-kb5039212-os-builds-22621-3737-and-22631-3737-d7f574c0-2b13-48ca-a9fc-a63093b1a2c2)\n\nGeneral info:\n\nFor details about how to file problem reports and collect traces, please see here:\u00a0[http://aka.ms/HowToFeedback](http://aka.ms/HowToFeedback)\n\nTo learn about the different types of updates, see here:\u00a0[Windows quality updates primer - Microsoft Community Hub](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/windows-quality-updates-primer/ba-p/2569385)\n\nReminder - if you did not install the preview updates, these cumulative updates include those changes too.\n\n*  [May 29, 2024\u2014KB5037853 (OS Builds 22621.3672 and 22631.3672) Preview - Microsoft Support](https://support.microsoft.com/en-us/topic/may-29-2024-kb5037853-os-builds-22621-3672-and-22631-3672-preview-dcf14fd8-84d6-4234-9d5b-784c319cd7cf). Note, some of the features in this list are rolling out so not everyone will have them yet. Looking forward to your feedback once they're available for you! \n\nFor details about how to get 23H2, see here:\u00a0[How to get the Windows 11 2023 Update | Windows Experience Blog](https://blogs.windows.com/windowsexperience/2023/10/31/how-to-get-the-windows-11-2023-update/)\n\nTo see known issues, please check the release health dashboard:\u00a0[Windows release health | Microsoft Learn](https://learn.microsoft.com/windows/release-health/)",
-        "num_comments": 43,
+        "num_comments": 44,
         "comments": [
-            "If you've tried basic troubleshooting steps for the issues you're encountering and these don\u2019t help, submit your problem to the Feedback Hub! This is the best approach to get your feedback properly sent to the Engineering Team, which can also gather additional details and information about your issue. Follow these simple steps:\n\n1. Open the \"Feedback Hub\" app and click *\"Report a problem\"*\n\n2. Follow the on-screen instructions and click *\"Submit\"*\n\n3. Click *\"Share my feedback\"* and open the feedback you submitted\n\n4. Click *\"Share\"* and copy the unique link\n\n5. [Send the link you copied to u/JenMSFT](https://www.reddit.com/message/compose/?to=JenMSFT)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Windows11) if you have any questions or concerns.*",
             "VPN problems should not occur!\n\nI hope the problems with explorer.exe will be solved already :)",
             "Wow, Ive noticed a huge difference in my photo and video folders using explorer! The thumbnails load so much more quickly, I almost feel like I'm back in Windows 8.1 haha.",
             "Seems like they've fixed the profile picture bug for local accounts.",
             "For over 30 years, I've been looking in the bottom right corner of the screen to check the clock. Now, the copilot icon moved there. Is there a way to move it back to where it was, next to the start menu? (In the taskbar settings, there's only an enable-disable option)",
-            "I'm on Windows 11 24H2 through the Release Preview Channel and I did not receive any security update! So what now? I have to clean install 23H2 ?",
             "Why dodn't they write disappearing taskbar icons or broken media controls, or stuttery animations under known issues? Seems like everyone is aware of those problems except Microsoft.",
             "Finally, the File Explorer Address Bar Breadcrumbs is finally fixed for me. I can now drag the breadcrumbs to make shortcuts as well as drag items to the breadcrumbs to move them.",
             "I guess 24H2 is not on monthly updates yet :)\n\nIt has actually been rock solid for me, but security updates are of course good.",
-            "[deleted]"
+            "Widgets (with news etc.) moved to the right. Don't see an option to move it to the left next to the search bar -- intended?",
+            "What's causing this Install error - 0x80070017 for the new 2024-06 Cumulative Update for Windows 11 Version 23H2 for x64-based Systems (KB5039212)",
+            "This update finally solved the checkered pattern that happens on chrome? I've read that the major cause of it is the W11 (even if you have the latest GPU drivers)"
         ]
     },
     "Simple questions and Help thread - Month of June": {
         "title": "Simple questions and Help thread - Month of June",
-        "score": 11,
+        "score": 13,
         "url": "https://www.reddit.com/r/Windows11/comments/1d5lfh3/simple_questions_and_help_thread_month_of_june/",
         "content": "Welcome to the monthly Simple questions and Help thread, for questions that don't need their own posts!\n\nBefore making a comment, we recommend you [search your problem on Bing](https://www.bing.com/search?q=Windows+issue) and check if your question is already answered on our [Windows Frequently Asked Questions wiki page](https://www.reddit.com/r/Windows/wiki/faq). This subreddit no longer accepts tech support requests outside of this post, if you are looking for additional assistance try r/TechSupport and r/WindowsHelp.\n\n\nSome examples of questions to ask:\n\n- Is this super cheap Windows key legitimate? (probably not)\n\n- How can I install Windows 11?\n\n- Can you recommend a program to play music?\n\n- How do I get back to the old Sound Control Panel?\n\nSorting by New is recommend and is the default.\n\n----\n\nBe sure to check out the [Windows 11 version 22H2 Launch Megathread](https://www.reddit.com/r/Windows11/comments/xj877b/windows_11_version_22h2_build_22621_launch/) and also the [Windows 11 FAQ](https://www.reddit.com/r/Windows/wiki/faq) posts, they likely have the answers to your Windows 11 questions already!",
-        "num_comments": 139,
+        "num_comments": 184,
         "comments": [
-            "Was transferring folders from the old pc to the new one and noticed that the users folder of the new pc (windows 11 one) is being shared too .  \nThen researched about it and found the solution.  \nI have already removed the users folder from the things set to share over network by default using remove-smbshare command.  \nWhat are the other things listed here other than IPC one for which I can do the same?\n\nhttps://preview.redd.it/u4gzld4qaz3d1.png?width=406&format=png&auto=webp&s=334b703bf94827d41c0d731ffb72685bee45bf0b",
+            "i have windows 11 installed on my computer, i have two ssds (one with windows 11 and one is another storage pool)\n\ncan i take these harddrives out and put in another computer and will it boot? if not what do i need to do",
+            "How to put WIndows 11 to actual sleep like windows 10?\n\nSo my windows 11 laptops when put to sleep, actually still stay on. It leads to a lot of battery drain and unnecessary heat generation as well. Anyone know of a setting that can be changed to address this issue?",
             " Copying of files from the shared folder (from the old pc) to the new pc was happening at a very slow speed (about 3mbps) , What could be the cause of it and How can I improve this speed?  \n(Don't have suitable USB cables and external storage devices to do file transfer, this is the only way I have.)  \nBy the way, I was using my mobile hotspot as the private network to transfer files over.",
             "I have an oled so I don\u2019t want too much for static images so i like to hide my taskbar. However, when it goes away it I move my cursor to the bottom of my screen to bring it back the animation is laggy/choppy. \n\nIt bothers me much more than it should, but is there anyway to fix this?",
             "Enabled FnLock by accident, there's no designated button for it on my keyboard, and Fn + Esc or Shift, Caps lock, Ctrl, ect are NOT working. How disable.",
             "Anyway to increase the scroll speed or lines per scroll on trackpad, I have tried both the Settings App and the Pointer Options window but neither seem to have an effect on trackpad scroll speeds. I want to be able to reach the bottom of a page with one two finger swipe like on a MacBook. Right now it is unbearably slow.",
-            "Can you shed some light on this plz, I really appreciated. I made this post but was taken out before it published, obviously it was extremely dangerous to our community. \n\n[https://www.reddit.com/r/Windows11/comments/1ctx6yz/textlnputhost\\_in/?utm\\_source=share&utm\\_medium=web2x&context=3](https://www.reddit.com/r/Windows11/comments/1ctx6yz/textlnputhost_in/?utm_source=share&utm_medium=web2x&context=3)",
             "Can't activate Windows after reinstall\n\nI've bought a Samsung 990 Pro SSD and a new Windows 11 Pro key when I first got my G14. After recently finding out that Bitlocker was only using software encryption, I was forced to reinstall the OS again to enable hardware encryption. Now Windows claims it's unable to activate, even after manually typing in my own key because \"it looks like the hardware on this device has changed\" when it definitely hasn't. Now looking at the product key on the bottom of that settings page, it clearly seems to insist on using what seems like the original key that was preinstalled with my G14 which was for the Home edition and it's not letting me replace it with my Pro key due to the error message above.",
             "I can't find how to remove this god awful Terminal in Start menu right click options with cmd again. All Google results only show how to change provider which does nothing: menu still says \"Terminal\" and opens Terminal instead of cmd.",
             "So Firefox , Edge and Chrome have started opening up a link in a new tab if I right click, I don\u2019t know why exactly. I have a Logitech Mouse so I uninstalled GHub but even then the behavior continued.\n\nIs there some setting I turned on that makes my right clicks open browser links in new tabs and not show me the right click context menu?",
             "I change my processor power limits and now when I go onto the advanced power settings on my laptop, processor power management does not come up. What should I do to change my processor power limits?"
         ]
     },
-    "Just a cozy setup. If i must use windows, it will be this": {
-        "title": "Just a cozy setup. If i must use windows, it will be this",
-        "score": 45,
-        "url": "https://www.reddit.com/gallery/1dldnn3",
+    "I had a go redesigning File Explorer, let me know what you think!": {
+        "title": "I had a go redesigning File Explorer, let me know what you think!",
+        "score": 25,
+        "url": "https://www.reddit.com/gallery/1dr4nnx",
         "content": "",
-        "num_comments": 30,
+        "num_comments": 16,
         "comments": [
-            "\nFor more designs, concepts and ideas related to Windows, check out r/Windows_Redesign!\n_____\n\n*This submission has NOT been removed. Concept posts are always allowed here as per our community rules.*\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Windows11) if you have any questions or concerns.*",
-            "[komorebi: A tiling window manager for Windows ](https://github.com/LGUG2Z/komorebi)",
-            "think you'd be better off on r/unixporn",
-            "Wallpaper link please",
-            "What is that top bar?",
-            "Wallpaper?",
-            "Nice rice, but I think this isn't the subreddit for that \ud83d\ude43.",
-            "What software did you use? I've been wanting to do the same thing on my desktop computer, but I'm too lazy to research, haha.",
-            "Ohhh another love is my favorite song \u2764\ufe0f",
-            "Wallpaper link please!"
+            "It looks nice but if Microsoft where to implement this it would be the 5th skin on top of the rest, have issues with flickering and will be twice as slow as explorer in the previous version of Windows",
+            "It is the most beautiful file explorer I have ever seen.",
+            "Native FE is ugly, but these just look like the app Files, which microsoft should just copy.",
+            "how are you doing this? does it require any 3rd party program to be running 24/7?",
+            "The contrast on some links might not be accessible, but apart from that looks great!",
+            "Gigantic drive button like it was made for 176x220 phone screen. I hate modern design so damn much.",
+            "That is true, it seems like something that needs to be rebuilt entirely to be fixed.",
+            "This is only a mockup in Figma currently",
+            "Thank you! I think you're right, after looking at some images of the dark theme settings (which that text is based on), it looks like they use a lighter and more saturated accent colour. I made the light theme first and didn't think to change it.",
+            "The voices told me to"
         ]
     },
-    "After 2 years of release, which is your opinion about Windows 11?": {
-        "title": "After 2 years of release, which is your opinion about Windows 11?",
-        "score": 300,
-        "url": "https://i.redd.it/jlyzxshu0w7d1.jpeg",
+    "Inconsistent behavior for quick action shortcuts(windows search doesn't go away unlike start menu, quick settings and notifications)": {
+        "title": "Inconsistent behavior for quick action shortcuts(windows search doesn't go away unlike start menu, quick settings and notifications)",
+        "score": 8,
+        "url": "https://v.redd.it/volwg4nqyg9d1",
         "content": "",
-        "num_comments": 680,
+        "num_comments": 10,
         "comments": [
-            "Some things I like better in 10, some things in 11.\n\nAs long as I can get my development environments working and my games running, I'm as happy as can be.",
-            "Not great, not terrible....",
-            "It looks cute but regarding the performance and bugs, I find it in every way worst than Win 10.\n\nSorry for the hate, but, it stills too green for me  \n1 year has passed and still fells like a beta OS\n\nI think that the only thing that has win 11 on point, is just the uniform UI (in not all, but most of the cases)",
-            "When it works, it works but when it doesn't, it's really frustrating.\n\nOff the top of my head, remember, these are my subjective opinions:\n\n**Things I love:**  \nIt looks good and modern (I guess it's the rounded corners and moving away from the monoline icons, mostly)  \nTabbed file explorer  \nThe snipping tool that can extract text  \nDark mode task manager  \nThe arrangement of items in Settings  \nViewing CR3 files directly  \nMicrosoft Store\n\n**Things I don't like:**  \nTaskbar not being customizable to reposition  \nThe right click menu  \nSometimes the cursor just disappears when I open Office apps (Makes it more awkward when I have client calls)  \nSearching files (I find it very unpredictable)  \nThere's always wrong with my sound system. I have used two different laptops and the issues occur. But a quick restart most of the time solves the issue. (But again, it's really frustrating when you're on Teams call and had to do that)  \nSlower",
-            "I miss having just the taskbar on the left (vertical) on a daily basis, but I'm not willing to compromise with a third-party taskbar.",
-            "[deleted]",
-            "Windows 10 was better. This one feels more bloaty and buggy, some of the UI looks smoother but it doesn\u2019t compare to the problems",
-            "So, I'm just a let's say, causal user, the only thing I do with my PC is web browsing, office use, entertainment apps, but mainly gaming. \nFor every day use, for me it's perfect. I love the new UI, I have a high spec PC because of gaming of course and maybe it's because of that I never noticed any lag or general slowness. For what I do, W11 is a good improvement.",
-            "unfinished, rushed, inconsistent",
-            "Wow whole lot of Microsoft fan boys in the comments, Windows 11 is bloated trash."
+            "Absolutely, MS as usual can't coordinate or decide on the shortcuts they want to use across products. I wish Google would come out with that Fuschia OS faster and we could bid farewell to windows.\n\nI can't believe some players can do things 100% right and have 3 times more features.",
+            "Maybe it's a bug in the Insider Preview ?  There is a sub for the previews.",
+            "You expect way too much from Microsoft. The Windows UX has always been like this. They'd rather spend money implementing ads and useless \"features\" than refining the experience and performance.",
+            "Not an Insider problem. You can try it right now by pressing Win+S to open specifically the search panel  \npress Win+S again and it will/should pop up like that again instead of disappearing like all the other panels do.",
+            "regardless, ill probably file a feedback and post a link here",
+            "yeah this is something i noticed from the beginning. not a insider thing",
+            "Noticed it a few months ago and noticed it again two days ago. I usually use win and directly type in. But when i tried win + s to close it and it didn\u2019t pop back down. That was annoying.",
+            "Tbh i never noticed it but i quickly checked and could confirm since i am not on an insider version, either.",
+            "yeah same, i usually type straight from the start menu and USUALLY i use windows search not as an actual search but as a quicklaunch. it's just quicker for me to type a few letters than to switch my grip to my mouse and click on an icon.",
+            "Recently ive been trying to adapt to powertoy run to do most things. It feels nice. It\u2019s like having a command line (sort of) but with a sleek bar interface."
         ]
     },
-    "small rant you don't have to comment or even read": {
-        "title": "small rant you don't have to comment or even read",
-        "score": 1,
-        "url": "https://www.reddit.com/r/Windows11/comments/1dluzpq/small_rant_you_dont_have_to_comment_or_even_read/",
-        "content": "look, windows.\n\nWhen i'm searching something up in the start bar thingy, i am looking for something that is already on my pc, not something random from google, i have a browser for that (not edge)\n\nlike damn, i was just looking for a small document called \"Houses\" and i only got pictures of that weird docter called house like damn.\n\nis it so hard to just let me look up things that are already on my pc and let the web browsing happen on my browser and not somewhere else?",
-        "num_comments": 0,
-        "comments": []
+    "Can I remove this feature?": {
+        "title": "Can I remove this feature?",
+        "score": 56,
+        "url": "https://i.redd.it/gibsdekeod9d1.jpeg",
+        "content": "The title is pretty self explanatory. Is there any way to disable this side bar that pops up from the bottom left corner?\n",
+        "num_comments": 22,
+        "comments": [
+            "right cklick on taskbar, choose taskbar settings and there turn off widgets\n\ndone",
+            "Settings -> Personalization -> Taskbar -> Widgets (there\u2019s a toggle to turn it off)",
+            "Remove Windows Web Experience Pack via winget and it'll do the job",
+            "It is just a way to push MSN services and Edge browser (no matter what your default is) so I just disable it",
+            "God, I hate that crap. \n\nYou got ome job and it can't even do that half the time, open apps and make it easy and quick. And they add all this bs, which probably causes a lot of slowness and issues \ud83d\ude44",
+            "what are the benefits of disabling this? I will disable it too if the benefits are good",
+            "turn off edge running in the background.",
+            "\u201cGavin newsom\u2019s chances\u201d\nHaha oh brother. That guys even worse then Biden.",
+            "why would you say this on a windows 11 subreddit???",
+            "This is the way to go. I just can't seem to turn of the feeds no matter much I try to customise, had to disable the widgets entirely."
+        ]
     }
 }

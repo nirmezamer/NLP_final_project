@@ -1,65 +1,74 @@
 {
     "Weekly Show & Tell! Share what you've created with Next.js or for the community": {
         "title": "Weekly Show & Tell! Share what you've created with Next.js or for the community",
-        "score": 1,
-        "url": "https://www.reddit.com/r/nextjs/comments/1dlabk1/weekly_show_tell_share_what_youve_created_with/",
+        "score": 3,
+        "url": "https://www.reddit.com/r/nextjs/comments/1dqpzq9/weekly_show_tell_share_what_youve_created_with/",
         "content": "Whether you've completed a small side project, launched a major application or built something else for the community. Share it here with us.",
-        "num_comments": 3,
-        "comments": [
-            "Free online tools website using Next.js static exports: [https://utilful.com](https://utilful.com)",
-            "Find boilerplates with the technologies you want.\n\nYou can filter based on router type, authentication, db, free/paid, styling \u2026 etc\n\nhttps://www.nextjsboilerplateslist.com/",
-            "End-to-end encrypted secret management app: [https://phase.dev/](https://phase.dev/)"
-        ]
-    },
-    "Is there a Github repository with a lot of small projects demonstrating how to use every Next.js features?": {
-        "title": "Is there a Github repository with a lot of small projects demonstrating how to use every Next.js features?",
-        "score": 45,
-        "url": "https://www.reddit.com/r/nextjs/comments/1dlilqc/is_there_a_github_repository_with_a_lot_of_small/",
-        "content": "Is there a Github repository with a lot of small projects demonstrating how to use every Next.js features? I sometimes take a course and forget some of the more niche features, so I was wondering if there was some kind of repository with useful code snippets.",
-        "num_comments": 11,
-        "comments": [
-            "We do have this one:\n\n- https://github.com/vercel/app-playground\n- https://app-router.vercel.app",
-            "I know this might sound bad, but the docs are good and have all the code examples.",
-            "You may find this useful: [https://vercel.com/templates/next.js](https://vercel.com/templates/next.js)",
-            "not every, but definitely a lot of features:\n\n[github.com/bcms/starters](https://github.com/bcms/starters)",
-            "You are a good guy Lee \ud83d\udd25",
-            "thanks lee.",
-            "Lee the link on that repo needs to be updated",
-            "Wow what a coincidence. I found this project last night on my own and thought it was heaven sent. \n\nI'm not a frontend dev but have created a few UIs for side projects. Used Next on my last one but it's been almost 18 months so I forgot a ton of the functionality, plus v.14 introduced a bunch of different features. I just started a new side project, using next for the frontend. Spent the whole week looking for a project like this one and finally found it last night. Can't believe it's not more well-known. I found it by looking thru a bunch of demos in vercel, but it didn't come up on Googke or Reddit searches. Of course now that I found it on my own, someone posted it \ud83e\udd37\ud83c\udffb\u200d\u2642\ufe0f",
-            "I think he means to something to check to help his memory, you know docs are very detailed and hard to navigate if you don't know you are looking for.\n\nThe top comment in this thread is the one what he is looking for.",
-            "Nextjs docs are awesome if you are a beginner but if you are a pro guy then docs may or may not be useful!."
-        ]
-    },
-    "Besides Antonio & JS mastery, what are some good channels to watch ?": {
-        "title": "Besides Antonio & JS mastery, what are some good channels to watch ?",
-        "score": 5,
-        "url": "https://www.reddit.com/r/nextjs/comments/1dlss9q/besides_antonio_js_mastery_what_are_some_good/",
-        "content": "I can't stand Udemy anymore, can't stand 90 hours of content to build nothing, instructors wasting my time for hours and hours and hours without delivering anything worthwhile, I started subscribing to Javascript Mastery and Code with Antonio and both seem to be great, I want recommendations similar to these,\n\n  \nback when I started to learn I benefited from Traversy media's basic crash courses as well as udemy ones but now they're either way too toy-ish ( like his new nextjs course ) or too old.",
         "num_comments": 7,
         "comments": [
-            "Is JS mastery really good? Like is his style of teaching good as compared to udemy instructors?",
-            "I wouldnt recommend js mastery too much. Saw a few of his videos and he overuses client components imho",
-            "Depens what you want to learn",
-            "what udemy instructors do you find useful ? mind sharing your favorites ?\n\n  \nto me they're all trash besides Jonas, maybe I've taken courses from wrong instructors.",
-            "Web development focused content preferably with Nextjs/fullstack Javascript."
+            "nice job on the job board. what's preventing you to go all in on that? seems like you have a few offers submitted by employers there.",
+            "Thank you!! I have a few thinks to polish but the main issue right now is SEO (Im totally a noob with it) and acquiring traffic. The offers you see have been manually submitted by me lol",
+            "I really liked the design on [moaijobs.com](http://moaijobs.com) I just started manually submitting job offers to hopefully atract some traffic. Do you know why Lemon Squeezy banned job boards? Also, do you have any tip regarding SEO? How many users do you have now?",
+            "I made a CLI that lets you create a Next.js portfolio + blog that automatically links to your GitHub. It\u2019s one of my first projects so would love some feedback. \n\nTry it out here:\n[create-boring-portfolio](https://create-boring-portfolio.vercel.app) \n\nOr just use `npx create-boring-portfolio`.",
+            "I started learning NextJS like 8 months ago and I have built   \n- my personal website [https://mrksph.com](https://mrksph.com)   \n- a job board focused on remote jobs in spain (still working on it) [https://teleworker.es](https://teleworker.es) \n\nI'd like to jump into a new project soon but I'm short of ideas",
+            "I built a new job board boilerplate with Next.js 14, Supabase Postgres, Shadcn/UI, TailwindCSS, Resend, and Stripe.\n\nYou can checkout the launch here: \n\n[https://x.com/NithurM/status/1806700988826529860](https://x.com/NithurM/status/1806700988826529860)\n\nPlease let me know if you have any feedback. Thanks :)",
+            "I have built an open-source Next.js AI template.\n\n[https://next-js-ai-tool-layout-1.vercel.app/](https://next-js-ai-tool-layout-1.vercel.app/)\n\nHere's the github link [https://github.com/soulbliss/next-js-ai-tool-layout-1](https://github.com/soulbliss/next-js-ai-tool-layout-1)\n\nFeatures\n\nIt's a GitHub repository having a full Next JS 14 code  \n  \n- Uses layout files  \n- Loading screens  \n- Dashboard template  \n- Billing page template  \n- Support page template  \n- AI Image generator APP template  \n- Has an awesome login screen with magic link support  \n- Uses Next auth v4\n\nYou can go check it out and let me know the review on it \ud83d\ude4f"
         ]
     },
-    "Tips for creating a new application": {
-        "title": "Tips for creating a new application",
-        "score": 1,
-        "url": "https://www.reddit.com/r/nextjs/comments/1dlv140/tips_for_creating_a_new_application/",
-        "content": "I am primarily a backend person. Passionate about building end to end applications. I had played around with the base react. And then with next.js based react applications.  (Using the some of the templates provided by vercel).  I like next.js because of the clean design/JAM stack approach etcI want to create some brand new applications. Challenges.\n\n1. I am still not very comfortable with the overall syntax, styling.\n\n2. These days, if you look at some of the UI/UE out there, they are mind blowing. I dont think I can ever match this.\n\nSo, I want to know how to go about creating next.js applications. Should we pick some existing template and modify it?  Or should I use some headless cms?. Also, vercel has this generative ai based product caled v0 which generates code. ( Personally I dont like such tools. But it increases the producity and we can focus more on the actual use cases, it may be worth considering). How good is this?  Lastly, does copilot help in some way? . Thanks in advance.",
-        "num_comments": 1,
+    "It\u2019s not just you, Next.js is getting harder to use": {
+        "title": "It\u2019s not just you, Next.js is getting harder to use",
+        "score": 20,
+        "url": "https://medium.com/@PropelAuth/its-not-just-you-next-js-is-getting-harder-to-use-5ab30a24282a",
+        "content": "",
+        "num_comments": 46,
         "comments": [
-            "First, remember that you don't need to create everything from scratch. Your mission is to find the best solutions available.\n\nSecond, there are excellent resources like shadcn/ui and Framer Motion that can help you build impressive UIs without starting from zero"
+            "Fun fact: none of you read the article",
+            "\u201cGetting harder to use for those who can\u2019t be bothered reading the docs\u201d\n\nFTFY",
+            "Wtf, next has a very good dx, imagine having to set up all these in node + react by youself lol",
+            "I've spent the past 2 months as the only person on our team using next14 with the app router and it is confusing but im getting there. The app router documentation isn't written well compared to the old pages router. It certainly is a big jump in complexity and as someone new to next it's been tough to work out. \n\nI don't think it's a framework problem as such, but the documentation could be a LOT better.",
+            "Based OP, just trying to peddle his own framework.",
+            "Fun fact, Next.js has saved me from a couple of headaches by not needing to handle the router, creating simple middleware APIs, thinking in a layout system, forcing me to use naming conventions in the files (page.tsx, layout.tsx), configuring cache, having a SSC by default and many other features.\n\nC Programming is harder. But I believe most people from here don't have a degree in CS and don't even know  what are low level programming languages such as Assembly to really know and understand what's hard.",
+            "Any repo that becomes abandoned becomes incompatible. Is this normal? it sounds like something that would happen on WordPress. Which makes it a large mess.",
+            "I think the larger issue is compatibility and maintenance of already deployed projects that were using pre-nextjs 13-ish. There is a developer overhead required here to keep these projects going, slightly higher than similar full stack frameworks.",
+            "If it\u2019s hard, then you are a bad dev. \ud83e\uddd0",
+            "Fun fact: you suck at programming"
         ]
     },
-    "Show case: QR Code Generator Free": {
-        "title": "Show case: QR Code Generator Free",
-        "score": 1,
-        "url": "https://qrcodemaster.com",
-        "content": "Results after 2 months with Next.js 14: I have completed a website for generating QR codes",
+    "Wasn\u2019t me": {
+        "title": "Wasn\u2019t me",
+        "score": 175,
+        "url": "https://i.redd.it/hybrzhf9rc9d1.jpeg",
+        "content": "",
+        "num_comments": 21,
+        "comments": [
+            "Heh, just scraped every directory on github.com for .env files.\n\nI think you mean *our* OpenAI API key\ud83d\ude0e",
+            "git reset --hard oldcommit  \ngit push -f",
+            "Some of my friends told me, don't worry I deleted it... \ud83e\udd26\u200d\u2642\ufe0f Hopefully it was for a school's project and it wasn't important password \ud83e\udd23 and now, before every project, it's the first thing that I put in my .gitignore. and let a .env.example",
+            "As a beginner, I\u2019m so excited to understand this \ud83d\ude05",
+            "retarded ass thing to do",
+            "just use .gitignore to prevent .env variables from being commited",
+            "If you're not smart enough to know what .gitignore is then you're probably not smart enough to know when to not put secrets in the wrong file.",
+            "I can barely read, but I did get the part where you said .env files should be included in the repository. Thanks for the tip internet stranger.",
+            "I've never done this, but you've made me realize this sounds like exactly how it will play out when I inevitably do. I'm the one who loses my car keys, spends forever looking, finds them, then loses them again before I get out the door (It's exhausting misplacing things so frequently). How can it not happen to me? lol",
+            "Common sense isn't common :)"
+        ]
+    },
+    "My Journey with Next.js and Vercel: From Overwhelmed Teen to Confident Developer": {
+        "title": "My Journey with Next.js and Vercel: From Overwhelmed Teen to Confident Developer",
+        "score": 12,
+        "url": "https://www.reddit.com/r/nextjs/comments/1dr4jg5/my_journey_with_nextjs_and_vercel_from/",
+        "content": "\nI wanted to share my journey with Next.js and Vercel, which I've been using for the past three years. I started learning web development at 16 with just HTML, and I remember feeling overwhelmed with the complexities of installing Node.js, pnpm, GitHub, and resolving dependencies for frontend frameworks.\n\nGrowing up in Singapore, I wasn't allowed to have a credit card, and my teachers discouraged its use. This made exploring cloud services even more daunting, especially with news about people overspending or misconfiguring their cloud setups.\n\nInitially, I didn't like the pages router in Next.js and decided to stick with Flask for development and hosting, using Railway for my database. Managing database migrations was a hassle, but it was my only option at 16. The pages router felt clunky at that time. Eventually, I got banned from Railway, which forced me to migrate to Replit. There, I had to deal with overwriting Linux commands, changing network configurations to keep the app online from the command line, and finding workarounds for unavailable pip packages. It quickly became unsustainable.\n\nAt the time, many influencers advised against using Vercel, so I avoided it. But when Vercel released the app router and one-click deployment, I decided to give it a try for both my app router and Flask apps. It was a breeze\u2014every time I committed code, it got deployed instantly. Migrating my Railway database to Neon was also smooth, thanks to the excellent documentation for Next.js.\n\nIt was easy to transition from the page router to the app router. Influential YouTubers like Coding with Antonio and Web Dev Cody provided great insights into this framework, and I found myself enjoying it more and more. I've been coding with Next.js and Vercel ever since.\n\nI wanted to take this post to express my gratitude to this community and the Vercel team for making things simple and efficient for teens like me to explore new technologies. Thank you!\n\nFeel free to share your experiences or tips if you've had a similar journey. Let's keep learning and growing together!\n\nCheers,  sven",
         "num_comments": 0,
         "comments": []
+    },
+    "Minimal Waitlist Template, I would love your feedback! ": {
+        "title": "Minimal Waitlist Template, I would love your feedback! ",
+        "score": 2,
+        "url": "https://v.redd.it/xc7ebyhndi9d1",
+        "content": "",
+        "num_comments": 1,
+        "comments": [
+            "Repo: [https://github.com/Samicostox/waitlist-template](https://github.com/Samicostox/waitlist-template) \n\nTwitter : [https://x.com/DynauiDesign](https://x.com/DynauiDesign)\n\nThe live link is in the repo :) give a star if you like it!"
+        ]
     }
 }

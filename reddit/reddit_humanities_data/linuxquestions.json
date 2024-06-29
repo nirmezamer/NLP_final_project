@@ -1,82 +1,97 @@
 {
     "Please do not delete your posts in this subreddit": {
         "title": "Please do not delete your posts in this subreddit",
-        "score": 2226,
+        "score": 2223,
         "url": "https://www.reddit.com/r/linuxquestions/comments/ou5cma/please_do_not_delete_your_posts_in_this_subreddit/",
         "content": "I try to help people often with their technical issues in this subreddit.  It feels good to help.  I also know I'm not just helping that person, but anyone else that may run across it in the future from a search.\n\nBut often, the questions are deleted by the OP, leaving me disappointed and frustrated.  I'm less and less motivated to help as it happens.\n\nPlease.  Give back in the most minimal way possible to this subreddit, and avoid deleting your posts if they've been upvoted and answered.\n\n(I'm not a mod, btw)",
         "num_comments": 245,
         "comments": [
-            "The obly posts that should be removed are post asking for help with windows.",
             "I not only keep my posts, I actually make the title as if I were googling it, so it shows up for others when they Google a similar issue.",
-            "[deleted]",
-            "Waiting for OP to delete this thread...\n\nFrustration is understandable. This should go into the sidebar. If you're asking for someone's help, you're bound not to be an asshole and delete information that helped you, as in \"I've got mine so F you all\".\n\nBut you're neglecting social media dynamics. Some might get really uncomfortable when being down voted, for their further questions or the way they stated the thread. You just need one persistent a-hole to keep pushing it, and the thread will most likely end up deleted.\n\nMaybe having more mechanisms involved would help here, but you can't undo bad character with technology.\n\nAnd these reddit posts do end up in search machine results, so it can help others.",
-            "I agree. I wish people would not delete. Oh well.\n\n[Obligatory xkcd](https://xkcd.com/979/)",
-            "The /r/zfs sub-reddit was [having the same problem](https://old.reddit.com/r/zfs/comments/o6hqx2/warning_deleting_posts_instaban/) and has made removing comments/posts a *banning* offense.",
-            "I am equally frustrated by this when searching for **answers**.  Sometimes the top-posted ANSWER has been deleted - it's madness.\n\nCorollary: WHY do posts get deleted?  Did the OP get mad, banned, sell their account for profit...???  What is actually happening here?  confused...\n\n[A perfect example](https://www.reddit.com/r/GIMP/comments/d9dcxk/best_way_to_remove_every_color_except_one/)",
-            "[deleted]",
-            "https://www.reddit.com/r/linuxquestions/comments/s1vhth/whats_a_good_file_explorer/\nhttps://www.reddit.com/r/linuxquestions/comments/s1us4v/looking_for_a_nice_terminal/\nhttps://www.reddit.com/r/linuxquestions/comments/s1yikg/issues_with_user_access/\n\nAnd these are only the cases of the last few hours where I answered. \n\nEven though it won't change anything and probably has little impact, I will probably stop helping here soon.",
-            "Deleting a post is even worse than the guys that tell you \u201csearch for it, it\u2019s everywhere.\u201d When in fact that very post was the first result in your search. It\u2019s just not helpful what so ever in both cases."
+            "Deleting a post is even worse than the guys that tell you \u201csearch for it, it\u2019s everywhere.\u201d When in fact that very post was the first result in your search. It\u2019s just not helpful what so ever in both cases.",
+            "What bugs me. People need help to switch to Linux. We all give them the best help we can. But I never see that OP come back with a specific Linux question afterwards. Like did they ever go through with it or their good on their own. It's like we are wasting our breath, trying to get Windows user to become Linux users.",
+            "and until they heed your advice you should archive those threads on archive.today hopefully some search engine will start indexing that too",
+            "I'll never understand why people just remove this kind of post. If there's some leaked info or something, you could always just edit it.",
+            "The mods should add this as a rule.",
+            "Time to delete posts from here.\n\nThe moderators have lost the battle and the war.",
+            "I often google \" 'linux question' + reddit\" and find things here. its nice to get my reddit answers + w/e google throws my way.",
+            "Would it be feasible to add a Reddit bot that copy-and-pastes the OP post as a comment, while censoring any usernames?",
+            "There are cehtainly times when I have to ask Reddit to find what to search for, or to filter the varied results that I have gotten. Like you said, having other threads to go through can easily be the difference between finding lore vs having to ask the same question for the umpteenth time for myself."
         ]
     },
     "Which Distro should you choose? Ask in this thread": {
         "title": "Which Distro should you choose? Ask in this thread",
-        "score": 17,
+        "score": 19,
         "url": "https://www.reddit.com/r/linuxquestions/comments/1dfozjj/which_distro_should_you_choose_ask_in_this_thread/",
         "content": "To prevent having multiple daily threads repeating variations on this same question, we are asking everyone seeking help in choosing a distribution to ask in this thread, or at  r/DistroHopping or r/FindMeALinuxDistro. \n\nEach response to this post should be a question asking for assistance. Each comment in reply to those should be helpful. All other comments will be removed.",
-        "num_comments": 58,
+        "num_comments": 68,
         "comments": [
             "hi im looking for a good distro for gaming on a modern pc. i really like hyprland so its instantly locked to a few distros. i also use fedora for school already but im not sure if its good for gaming. so fedora, nixos or a arch distro?  \nor are there completely other distros i could consider?",
             "I'm using ubuntu right now i was wondering if there was anything else better for performance and gaming and that stuff or should i stay with ubuntu.",
-            "[https://distrowatch.com](https://distrowatch.com) helps chosing the distribution that fits your needs and favor.",
             "Hi I'm looking for a distro that's able to run pretty much any windows apps and works similar to the steam deck (almost everything working fine and polished and pretty much everything just ''works'') Thanks in advance.\n\nI mainly use Adobe software and Clip Studio Paint + steam games",
             "hi i have a lenovo ideapad 114igl05 that i use for school work and very very light gaming (risk of rain 1) what would be a distro thats light  to put on it to replace windows 11 as i already know it will begin to slow down",
-            "Is there a windows like Linux os that is easy for beginners?\n\nI'm very used to windows and the way it handles programs and files, and I would like a Linux os that is very similar.\n\nI heard about Windows 11 Microsoft recall, which feels very unsecure. It's opt in for now, but they'll likely activate on Windows update in the near future and I don't want it.",
-            "I ran a server on the internet: apache, mariadb, php, postfix (with dkim, dmarc, tls, rspamd), shorewall, munin for monitoring, vsftp (I know, I know\u2026), Bind, fail2ban, dovecot.\nSo what distro should I pick?",
-            "Recommendations for a distro for my Alienware laptop?\n\nIn 2019 I bought a Alienware 17 R5 i9-8950HK, QHD, GTX 1080OC, 32GB RAM, 256GB SSD+1TB HDD. For $3000 USD. I hate it. I wanted it to be an everything laptop. Games, SteamVR, and the WSL (Windows Subsystem for Linux). Bad idea. Laptops aren't that expensive. I now wish I'd bought a few cheaper systems for their own purpose. But here I have this expensive ol' thing with pretty OK specs. It's full of Alienware everything. Almost like half Windows 10 Pro, half Alienware. I wanted it to power my Steam VR games with my old Vive Pro. But now I use the Meta Quest 3 and have a desktop that can power Steam VR both on my old timey Vive and on my Quest.  I'm a 20 year developer who existed mostly in the B2B space as CTO of a small company of 10 people. We sold to private equity a couple years ago and I'm now doing a startup. I had an Ubuntu laptop as my main daily computer for about 3 years, and tragically it was stolen about 5 years ago. I seriously think about that laptop a lot. The simplicity. The no BS performance. Living on the command line. Not Windows. Especially not Windows 11.  \nMy usage/wishlist would be:\n\n1. Lots of cloud infrastructure design and building. AWS, Azure, etc. Automation scripts. Nothing performance heavy.\n2. Code reviews. Administrative oversight. Approving merge requests. No Microsoft software except VSCode. For Azure I have a secondary Windows box to do PowerShell and MSSQL if we ever choose to use those. Emails, documents, correspondence.\n3. Steam VR that I occasionally pipe to my Meta Quest via Steam Link. It's fairly supported on Ubuntu. ( [https://help.steampowered.com/en/faqs/view/18A4-1E10-8A94-3DDA](https://help.steampowered.com/en/faqs/view/18A4-1E10-8A94-3DDA) )\n4. I would love to utilize my video card and specs because I love to toy with 3D modeling and audio/video production. I have a separate tower computer for these things, but I dream of going open source completely.\n\nI love this sub so I figured I'd ask here. Yes. That's a velvet painting of E.T. with a Coors.\n\nhttps://preview.redd.it/fe8v22dyef7d1.jpeg?width=2087&format=pjpg&auto=webp&s=9b0a3cd8c4ae7cb1dd69482226bb06aa7d103e61",
-            "Admin if you are listening, please un-archive older posts. Linux related answers are quite debate worthy and I get extremely frustrated when I know a answer or have some contribution that I can make only to realize that the post is archived!!\n\n  \nPlease turn off auto archive by default!!! ASAP!",
-            "A friend of mine has an Intel Celeron N3010 Dual Core 1.04 GHz notebook, with 4GB of RAM and a 32GB SSD. I tried installing Lubuntu 24.04, but it ran significantly slower than Windows 10. However, Windows 10 takes over half of the SSD.\n\nI'll be trying a minimal NixOS install with XFCE. Does anyone have more distro and desktop environment suggestions?"
+            "A friend of mine has an Intel Celeron N3010 Dual Core 1.04 GHz notebook, with 4GB of RAM and a 32GB SSD. I tried installing Lubuntu 24.04, but it ran significantly slower than Windows 10. However, Windows 10 takes over half of the SSD.\n\nI'll be trying a minimal NixOS install with XFCE. Does anyone have more distro and desktop environment suggestions?",
+            "Which distro should I choose?",
+            "With the release of Plasma 6.1, which I am yet to try, are there now any DE's that fully intergrate all apps with cohesive uniform window borders, font, operation, scaling etc? Or are we still at the piecemeal stage where some Flatpaks, Snaps, native packages etc still look and operate as if they are emulated or feel like foreign entities?  If the latter are we ever going to see a cohesive DE?",
+            "Which distro should I choose.",
+            "I havent logged onto Linux in months but my go to is Garuda.",
+            "What Linux Distro should I use for a Dell Inspiron 5368 with i7-6500U with 16gb of ram?"
         ]
     },
-    "Using non Google services for a month.": {
-        "title": "Using non Google services for a month.",
-        "score": 147,
-        "url": "https://i.redd.it/hmhnekqf8y7d1.png",
-        "content": "I am going to be using these alternatives of the Google Products/Services/Features from 1st of July, 2024 to 31st of July, 2024. Since I already use Firefox instead of Chrome, that'll be easy for me. Finding an email client was a bit hard, but I ended up choosing Tuta mail.\n\nI won't be able to switch to Tuta mail completely because I am in the process of college admissions, and I already gave my gmail ID to the college, so that will be an exception for this challenge.\n\nIf you guys have any suggestions for an alternative, do let me know before 30th of June. I will post again here after I am done with the challenge to update on how the challenge went.\n\nThank you guys, in advance, for the suggestions.",
-        "num_comments": 115,
+    "Why does everyone seem to be so opposed to immutability and atomic updates?": {
+        "title": "Why does everyone seem to be so opposed to immutability and atomic updates?",
+        "score": 18,
+        "url": "https://www.reddit.com/r/linuxquestions/comments/1dr4rhw/why_does_everyone_seem_to_be_so_opposed_to/",
+        "content": "Hello!\n\nI\u2019ve been daily driving Linux for about 4 months now (Arch, btw) and learning a lot of new concepts. Ones that peaked my interest were immutability and atomic updates. So much so I had decided that my next distro will be something like openSUSE Kalpa or Arkane Linux, unless I figure out a way to setup Arch itself to be immutable and have atomic updates.\n\nAt least for me personally, I see no downside to the safety and robustness these concepts introduce. A minimal, practically unkillable base OS which is built with containers in mind to improve the overall robustness? Hell yeah!\n\nHowever, when I ask about these, I often get comments like \"rolling release and atomic updates are incompatible\", \"back to the wiki, stop imposing on others\", \"this is gonna be a painful experience\".\n\nSo, I genuinely wonder, is there an aspect to these concepts that I don\u2019t know yet that ruins them to the core? Do I not understand something? Thanks.",
+        "num_comments": 57,
         "comments": [
-            "F-droid appstore is pretty good, all open source as well",
-            "Proton mail is much better",
-            "Just install lineageOS with microg.\nIt's a fork of lineageos that have microg installed by default.\nMicrog can act as google services so you don't miss anything",
-            "OSM is great, lacks Street View and Satellite Imagery, but overall detail is better than Google and get updates very fast since it's crowdsourced:\n\n[https://www.openstreetmap.org](https://www.openstreetmap.org)\n\nOSMAnd Map, based on OSM, you can do routing and there is a mobile app for it too:\n\n[https://osmand.net](https://osmand.net)\n\nI understand, it's just a temporary test but if you want something longterm, then also consider hosting your own Nextcloud. If your ISP allows port forwarding, you can run this on Raspberry PI or some old Dell Micro.",
-            "For email, use k9. Its the most well supported and privacy respecting email client. For e2e, tuta is fine but consider proton. \n\nAvoid use \"alternative\" frontends for anything. Youre expanding the number of people you must trust. Now instead of trusting f-droid, you also have to trust the frontend maintainers. Its not worth it. Just use f-droid and aurora if you absolutely need proprietary apps. \n\nFor MFA, use Aegis. FreeOTP / AndOTP is fine, but Aegis has the best support for encrypted exports.\n\nAndOSM for maps is fine. Organic maps is like a simple version of andosm. Both are good.\n\nFor cloud backups, syncthing is fine. Preferable syncthing over a private network (like tailscale, if you have the skills you can run your own control server via head scale).\n\nIf you have the skills, Davx + radicals (caldav/carddav server) works well. Preferably on a private network (I.e. tailscald). Alternatively, nextcloud might be easier to setup..\n\nAntennapod for podcasts. Best app.\n\nAuxio for local music. \n\nBitwarden for passwords.\n\nNewpipe for YouTube. \n\nLogseq for notes (not on f-droid yet but installable from izzydroids repo or from source)\n\nMedito for meditation (Foss, installable from.source or aurora).\n\nFast n fitness for tracking lifts\n\nPedometer for steps \n\nRunner up for tracking runs.\n\nFirefox / web apps for twitter. Tusky for mastadon.\n\nFeeder for RSS feeds",
-            "For keyboard, I prefer Heliboard.  You can get it from F-Droid.  Be sure to read the directions for some extras like gesture typing dictionaries.\n\nI see you have Clock You, also there is a CalcYou (no spaces) that is a good calculator.\n\nEDIT:  Link to Heliboard: https://f-droid.org/en/packages/helium314.keyboard/\n\nLink to CalcYou:  https://f-droid.org/en/packages/net.youapps.calcyou/",
-            "- GrapheneOS for the replacement of Android stock OS (if your phone supports it),\n\n- F-Droid to replace PlayStore,\n\n- FreeOTP+ to replace any \"Authenticator app\",\n\n- OSMAnd to replace google map,\n\n- GraphHopper for directions too,\n\n- K-9 as a multi purpose email client,\n\n- Weather by BeoCode, to replace any weather app (it has widgets),\n\n- I am using proton, so I got my ProtonCalendar / Email / PasswordManager / VPN with them so...\n\n- Firefox (you are using it already),\n\n  \nWith that, you should be quite good for the month!",
-            "Obtanium is a really nice open source app for installing apps directly from source. One of the approved sources is F-Droid if you can't find APK sources anywhere else. I've really been loving it.",
-            "Why would you need Aptoide if you got Aurora Store?",
-            "CLOCK YOU \ud83d\udd2b sounds like an threat"
+            "I don't think 'everyone seems so opposed to immutability and atomic updates'\n\nWhere's this from?",
+            "Rolling release and atomic updates are very much compatible.\n\nThat said, I hope that Arch never does this. You are welcome to create your own Arch or Fedora based distribution though.",
+            "It's another layer of complexity for something I don't need. The complexity is the downside. That's why I personally don't like (for lack of a better word) or use them.\nFor you though, I don't think there's something fundamental you wouldn't understand, since the concept seems not too complicated. No idea what people would mean with \"imposing on others\", but it could be another irrationally negative response to something you see on Reddit occasionally. I doubt you need to try and find some kind of hidden meaning here, if it works for you, please just use it. Why not save time and work? Ignore the negative comments.",
+            "I use it. The problem nowadays is that people are bombarded with some opinion on social media and dont realize that the sample size of that is <0.01% of all users of said thing. In other words, its only in your head that seemingly \"everyone\" us opposed to it. Thats probably not true at all.",
+            "welcome to the Linux community with all what comes along with it.\n\nImmutable/atomic distros have their place but it is not for most probably. WHy? because the majority of linux users at this point want to tinker their systems, and immutable distros does not allow you to do that.",
+            "I like to mess around with my base system. Btrfs with snapshots is the sweet spot for me",
+            "Update sizes are huge.  The OS image updates can be huge. Apps installed as Flatpak/Snap also have large updates.  It will get better, and internet speed will get faster, but for now the difference with a \"normal\" distro is significant.",
+            "Clear Linux is my go-to distro for everything and is built around the idea of being immutable. Definitely worth looking at (Intel's own distro, very performant, optimized for Intel CPUs).",
+            "Who's the people saying that? Frankly I use vanilla os on my desktop and although the distro isn't completely ready (version 2 is in beta and they are doing a lot of impressive work), the concept of those two things plus containers seem like a good future direction for noob friendly Linux distros",
+            "People like to tinker with things, which is the entire purpose of Arch. People like to break things, too, or they don't seem to be happy. Neither of these things are easily accomplished with an immutable distro.\n\nForget about the collective hive mind; if immutable distros work for you, use them. If not, don't."
         ]
     },
-    "how to debug instant freezes": {
-        "title": "how to debug instant freezes",
-        "score": 2,
-        "url": "https://www.reddit.com/r/linuxquestions/comments/1dlu793/how_to_debug_instant_freezes/",
-        "content": "Hi\n\n  \nIt happens from time to time (let's say once per month) that my machine freezes completely and at once.   \nIt is an instant freeze: music stops playing mouse and keyboard are dead, all gui aps look frozen.  \nI cannot do a thing: no reaction to ctrl + alt +Fx nor to alt + sysrq + X.   \n  \n`journalctl -b-1` after the recent freeze:  \n`cze 22 13:28:19 Kicer systemd[1]: systemd-coredump@11-49340-0.service: Deactivated successfully.`  \n`cze 22 13:28:19 Kicer drkonqi-coredump-processor[49345]: \"/home/michal/projects/sources/broom/out/gcc/src/gui/gui_ut\" 49339 \"/var/lib/systemd/coredump/core.gui_ut.1000>`  \n`cze 22 13:28:19 Kicer systemd[1577]: Started Launch DrKonqi for a systemd-coredump crash (PID 49345/UID 0).`  \n`cze 22 13:28:19 Kicer systemd[1]: drkonqi-coredump-processor@11-49340-0.service: Deactivated successfully.`  \n`cze 22 13:28:19 Kicer drkonqi-coredump-launcher[49361]: Unable to find file for pid 49339 expected at \"kcrash-metadata/gui_ut.5df3c7c51ba249e49f56837666780644.49339.in>`  \n`cze 22 13:28:19 Kicer drkonqi-coredump-launcher[49361]: Nothing handled the dump :O`  \n`cze 22 13:29:14 Kicer systemd-coredump[49571]: Process 49570 (gui_ut) of user 1000 terminated abnormally with signal 6/ABRT, processing...`  \n`cze 22 13:29:14 Kicer systemd[1]: Started Process Core Dump (PID 49571/UID 0).`  \n  \nIt ends with an (expected) crash of an app I was working on. It looks like it was the last thing before freeze, but I cannot see why would it cause it. \n\nAny idea how can I investigate any future problems of this kind?   \nIt seems to me it is related to my hardware (I never had such hard freezes in the past, it started after a hardware upgrade I made about a year ago).\n\n",
-        "num_comments": 0,
-        "comments": []
-    },
-    "how to install chrome on debian": {
-        "title": "how to install chrome on debian",
-        "score": 3,
-        "url": "https://www.reddit.com/r/linuxquestions/comments/1dlrbb1/how_to_install_chrome_on_debian/",
-        "content": "hello all,\n\n  \nI\u1e3f running a debian VM and decided to install chrome.  It gives me a .deb file. I googled around and the information I got is to open it via synaptic. I open via synaptic and synaptic opens and then nothing. \n\n  \nWondering if someone could give me some more direction? \n\nThanks.",
-        "num_comments": 6,
+    "Any Linux distro that boots automatically?\n": {
+        "title": "Any Linux distro that boots automatically?\n",
+        "score": 6,
+        "url": "https://www.reddit.com/r/linuxquestions/comments/1dr8ul7/any_linux_distro_that_boots_automatically/",
+        "content": "\"I need to test the apparently faulty WiFi hardware of a computer without a keyboard, and I need a distro that doesn\u2019t go through GRUB or require pressing Enter. Is there one? Thanks!\n\nEdit: To explain myself better, I'm booting from a live USB and I need a distro that doesn't stay indefinitely like that, one that has a countdown or something similar.\n\n[screen I want to avoid](https://preview.redd.it/s4qa0kkw3i9d1.jpg?width=3705&format=pjpg&auto=webp&s=cde018357ae750748cfa6616f26e7dd900325c67)",
+        "num_comments": 18,
         "comments": [
-            "thought\u00a0 I always used..\n\n\n\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 sudo\u00a0 apt install ./whatever.deb",
-            "wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb\n\nthen\n\nsudo dpkg -i google-chrome-stable_current_amd64.deb",
-            "> sudo dpkg -i google-chrome-stable_current_amd64.deb\n\nThis will not install dependencies.  Use\n\n    # apt install ./package-name.deb",
-            "i think I got it. How do I open it now? The command finished and now what? Sorry for the basic quuestions",
-            "Thanks!",
-            "Should be in your list of installed programs iirc. Make a shortcut for it where you like or open it from there.\n\nDon't worry about basic questions. I had to do the exact same thing to install Chrome on Mint (Debian).\n\nThey do not make it easy as they seem to be not really that pro-Google.\n\nIt's also possible I gave incomplete instructions...because I had to Google it. \n\nOn Chrome."
+            "Just about every distro has boot options other than grub, I don't get why grub is a problem here though, it can boot a default entry after a timeout.",
+            "Most Linux distros will boot into a live session and let you use the mouse to continue.",
+            "You should configure your UEFI or BIOS if that's what you mean",
+            "You don't need to press enter at grub it has a 5 (or so) second timer then continues",
+            "You can set grub timeouts to be minimal, and to boot a specific entry in the table.  This is true irrespective of distro.",
+            "Pop!OS in its default configuration uses systemd-boot instead of GRUB, and boots without any bootloader interaction.",
+            "You can just change this from your GRUB config file, no need for a different distro.",
+            "The problem is that before starting, I need to choose a mode and I don't have a wired keyboard.",
+            "The problem is that before starting, I need to choose a mode and I don't have a wired keyboard.",
+            "This depends on the grub configuration.  It can wait at the menu indefinitely or it can have a timer of whatever length is set in the config file."
+        ]
+    },
+    "Coming Back To Linux, Is this Still a Concern in 2024?": {
+        "title": "Coming Back To Linux, Is this Still a Concern in 2024?",
+        "score": 38,
+        "url": "https://www.reddit.com/r/linuxquestions/comments/1dqu7iz/coming_back_to_linux_is_this_still_a_concern_in/",
+        "content": "So I used to use a Linux Laptop on the regular - but that was like a decade ago. Back then, I remember friends who had their OS get corrupted due to a hard shutdown, or a power outage, or what have you. One friend backed up a good chunk of their DIY Nas' (I think it might have been a Pi hooked up to a bunch of harddrives, I forget) system settings and files to a second partition and wrote a script so that his linux would overwrite any changes so that it wouldn't care about hard shutdowns, and at the time, in Windows 7, that was not a serious concern unless you were installing a windows update when it happened.\n\nI just put Zorin OS on my desktop, yesterday.\n\nHow big of a concern is that in 2024? Is that still a real concern today, or have the various Linux distros become more resilient in that area since 2014? Do I need to take special steps to prevent major data loss or system corruption in case of power outage?\n\n----------\n\n## **Edit**\nI'm glad to hear it's essentially a nonissue, and back in 2013-2014 the instability my friends were running into may have had something to do with a Pi and SD Cards rather than the file system. That's great news. Thanks guys.",
+        "num_comments": 44,
+        "comments": [
+            "Linux is less likely to break after a hard shutdown than Windows, it just does less stuff in the background on its own than Windows does. Unless you are mid update when pulling the plug it is unlikely to break.\n\nModern filesystems such as Btrfs are less susceptible to dataloss due to their copy-on-write behavior. If regular random powerloss is an issue consider a filesystem with COW functionality.",
+            "In my experience it has never been an issue with ext4, BTRFS, or Bcachefs. That said, I haven't used every possible file system.",
+            "I have done a few hundred hard shutdowns of Linux, and never had a crash. I did have a Windows 10 crash recently though.",
+            "Perhaps on a raspberry pi, I might be concerned but on my main desktop, no concern at all.",
+            "I have a crumby defective laptop that locks up frequently and gets hard shutdown several times per week.\u00a0 The Linux fs (ext4) has never missed a beat.\u00a0\u00a0 Not so for Ms office running on the win10 VM on top of it though.\u00a0\u00a0 Corrupted my dissertation unrecoverable the evening final formatting revisions were due (fortunately I had a version up on the cloud, but it cost about 12 hours or so of work, a night's sleep, and some cortisol poisoning).\u00a0 I think that was more Word's fault than NTFS though.",
+            "Avoid wonky new distros. Stick to debian, ubuntu or fedora for stability",
+            "Recently I experimented with many different file systems, I tried all the major ones, I then simulated a power outage by watching a video while writing to a text file, then I would perform a hard reboot, I did it multiple times on each file system and I never encountered any issues, it rebooted just fine, the video was still there, and so was the text file, just stick to one of the popular file systems and you'll be fine, personally I use XFS.",
+            "I haven't had any issues with this, but then, I've been using Linux for over a decade and I can't recall experiencing any issues with data loss in all that time. At least, not any that weren't ultimately hardware failures.",
+            "The only filesystem that has done that to me is XFS, which did it twice on two different systems in under 6 months. \u00a0That was when I said \u201cscrew this\u201d and switched everything back to ext4. \u00a0Never an issue before or since. \u00a0I have heard *lots* of reports of hard shutdowns screwing up btrfs though",
+            "If the power loss happens during a serious system update, then a typical Linux install is perhaps more likely to break, outside of that it should be the other way around."
         ]
     }
 }

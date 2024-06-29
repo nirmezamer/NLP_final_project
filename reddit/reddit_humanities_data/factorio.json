@@ -1,94 +1,97 @@
 {
     "Weekly Question Thread": {
         "title": "Weekly Question Thread",
-        "score": 9,
-        "url": "https://www.reddit.com/r/factorio/comments/1dhxhtj/weekly_question_thread/",
+        "score": 1,
+        "url": "https://www.reddit.com/r/factorio/comments/1dncwy6/weekly_question_thread/",
         "content": "Ask any questions you might have.\n\nPost your bug reports on the [Official Forums](https://forums.factorio.com/viewforum.php?f=7)\n\nPrevious Threads\n\n* [Weekly Questions](https://www.reddit.com/r/factorio/search?q=flair%3AWeekly%3AThread&sort=new&restrict_sr=on)\n* [Friday Facts](https://www.reddit.com/r/factorio/search?q=flair%3AFFF&sort=new&restrict_sr=on) (weekly updates from the devs)\n* [Update Notes](https://www.reddit.com/r/factorio/search?q=flair%3AUpdate&sort=new&restrict_sr=on)\n* [Monthly Map](https://www.reddit.com/r/factorio/search?q=flair%3AMonthly+Map&sort=new&restrict_sr=on)\n\n[Subreddit rules](https://en.reddit.com/r/factorio/about/rules)\n\n[Discord server](https://discord.gg/factorio) (and [IRC](https://webchat.esper.net/?channels=#Factorio))\n\nFind more in the sidebar ---->",
-        "num_comments": 114,
+        "num_comments": 101,
         "comments": [
-            "can you name circuit signals, like variables in code? so you don't have to remember 'Y' means 'Yes this inserter should be active'",
-            "Longtime player but been away for a while and seeing a lot of excitement building for v2.0. Do we have even a rough ballpark estimate of when that may release?",
-            "Asked this in the last thread and got no response.\n\nI'm using Space Exploration and LTN, with the mod to allow space elevator LTN deliveries. Every now and then I get a 'train out of fuel' warning which lasts only a second or two. It disappears before I can click it and find out where the train is, and I can never see any stopped trains in the network. All my depots refuel trains with nuclear fuel and the network isn't very large - they should never run out of fuel in normal circumstances.\n\nWhat's causing these alerts?",
-            "I\u2019m not exactly sure how to word this question, but it\u2019s something I\u2019ve wondered about with Factorio but also other games like Transport Fever 2, Big Pharma, Kerbal Space Program, etc. I really love games about engineering and system-building, but I feel like I\u2019m lacking in some kind of basic mindset or skills that make people good at these games.\n\nIt\u2019s exciting and fun in the early game, but I often hit a wall as things get more complex. Tutorials tend to ruin the fun, but without them it feels like trying to play a really complicated board game without the rule book.\n\nI guess I\u2019m wondering if I should take a basic class in engineering or problem solving or something, just to develop the brain skills that make these games \u201cclick\u201d for others. Are many players here engineers or have STEM backgrounds? Did you enjoy math in school and end up taking advanced stuff like calculus? What about coding? Any other things you have learned or done that gave you skills that translate to Factorio?\n\nTL;DR - Have you found that any math or engineering classes you\u2019ve taken irl helped you in Factorio? Would you recommend anything like that for someone who loves the game but struggles with the figuring out the more complex parts?",
-            "Is there a way to use spidertrons as artillery deployers? Walk them out behind enemy lines, stamp a blueprint, and run away kind of thing? I'm guessing no but not sure if I'm missing something obvious.",
-            "If I offload my game to a beefy headless server, will I be able to play the game on lesser hardware as a client or does my local client need to do a load of processing too?\n\nI realise there's a trainload of \"it depends\" regarding the specs, network, etc - the essence of my question is: am I actually offloading any heavy lifting to the server or am I just running the game in two places instead of one?",
-            "In a vanilla base where all resources are transported through train in city blocks, is there a way I could have a module build that doesn't drain my chips from science? Ie. A priority system.\n\nI am open to solutions with or without circuit networks.",
-            "so, I started 2nd world, launched 2 rockets with satellites and still do not understand how I can finish this world. I am playing with peaceful mode on. Am I supposed to play with biters?  \nI am a new player. I have some modes but space exploration is off. I don't think I have something like changing anything related to finishing the game",
-            "I'm looking for a new modded experience.\u00a0\n\n\nI have previously played through Nullius and Industrial Revolution 3.\n\n\nI recently attempted SE+KR2 but bounced off, removed KR2 and bounced off SE alone shortly after reaching space science in Nauvis orbit.\n\n\nI'm looking for similar overhauls. Does anyone have any recommendations?",
-            "In unmodded. \nI feel like when I look at a machine's stats/recipie it only shows a cycle. Not more important stats like how many gears/min is needed.\n\nIs there some tooltip I'm missing that shows per/min or per/second cost machine will use/make?"
+            "Any good mods for editing blueprints?",
+            "any good sub specializing in space exploration mod discussion?",
+            "I'm pretty excited for all the new QoL changes as announced so far in all the blog posts.\n\nDoes anyone know whether it's possible to play a \"classic\" game with all the QoL without DLC? With DLC?",
+            "How do i make my trains leave their depot to load/unload stuff i need at different outposts?  \nI am using ElderAxe's Rail Network blueprint and my trains are not going anywhere... i think it might be something with how the circuits are setup and they'll call trains only when the chests are full/empty right? I'm a train noob and also a circuit noob so using this blueprint is very confusing to me.",
+            "SE question\n\nThough I doubt it, but is there a way to make SE rockets have travel time? (kind of like a spaceship) or a least a delay in between start and landing.",
+            "Subreddit rules related: Do rule 6 or 8 capture \"I asked ChatGPT\" posts? If so, does it matter under which one it is reported? If not, can we expand the rules?",
+            "How do people deal with blueprints before construction robots have been researched? Is there a better way than using \"Q\" + LMB? I know there are mods, but I'm primarily interested in how people deal with this in vanilla.",
+            "Why are the settings for the craft hotkeys (1, 5, and all) limited to mouse control only? I recently bought an \"mmo-style\" mouse with 12 thumb buttons which need to be assigned keyboard inputs; it defaults to numpad but i've since changed it to the right side of the keyboard, and while trying to rebind the controls, i realized my previous muscle memory is no longer an option.\n\nDon't get me wrong, im sure im not the most typical use case, but can someone help me understand the design intentions behind preventing anything but the M1-M5 keys being used for these binds?",
+            "Does anyone use the colored space belts in SE/ K2SE? You find some of them in the wrecked space station, they are great since the standard belts can only go underground for a very short distance. But you can't unlock them before way into late game, when most of your space factory is complete anyway. What is the purpose of that?\n\nAny idea how that may be adjustable in the .lua files?",
+            "Hello! I did the vanilla version couple of years ago and then Krastorio 2 mod a year ago. Now I want to put some hours in to the game during the summer. What mod should I go with next if I want a bit more challenging game? Thank you!"
         ]
     },
-    "Friday Facts #416 - Fluids 2.0": {
-        "title": "Friday Facts #416 - Fluids 2.0",
-        "score": 1884,
-        "url": "https://factorio.com/blog/post/fff-416",
+    "Friday Facts #417 - Space Age development": {
+        "title": "Friday Facts #417 - Space Age development",
+        "score": 1403,
+        "url": "https://factorio.com/blog/post/fff-417",
         "content": "",
-        "num_comments": 955,
+        "num_comments": 715,
         "comments": [
-            "Didn\u2019t expect a fluid rework and also didn\u2019t expect to see a Minecraft mod being used as inspiration",
-            "\\*sees the headline\\*  \nI felt a great disturbance in the Force. Like the millions of voices suddenly cried out in joy and then shut up to read.",
-            "Would this also benefit UPS? I suppose so but im only guessing",
-            "If you can now cram any amount of fluid into a pipe network (within the 100 fluid per tick per pipe restrictions) nuclear plants in particular should now be much easier to design. You should be able to cram all or at least most of your intake water into a single pipe network, and all or most of your steam into a single pipe network.\n\nIt simplifies the fluid puzzle quite a bit, but I'll happily take this over the old opaque weirdness.",
-            "After years of tears and anguish, God heard the cries of his people",
-            "Am I the only one who ran out of lube halfway through this FFF?",
-            "Hiring skilled and motivated members from the community proves to be a good choice, again. Thanks raiguard!\n\nWhen players have to look up a wiki to play well, that's a sign that something with the game design is off. (And I like stardew valley, but my point stands). The new system has a bit less realism, but also a lot less of the unrealistic surprises, and I'm looking forward to it. Pull rate could be scaled down relative to the length or size of the segment to bring a bit of realism back, but I doubt that's necessary.\n\nBut this left me wondering: if segments can no longer contain different fluids, what happens in 2.0 when bots connect segments with different fluids? Does the bot keep hovering as if waiting for someone to clear a cliff or tree?\n\n/edit: and will this system be used for heat pipes as well, or does the old system live on?\n\n/edit: and how do boiler-chains and other passthrough-machines work? Do they become part of the segment? Do they use the old logic?",
-            "The entire Factorio subreddit community have genuinely been crying out for this FFF for so long.",
-            "No more tough pump circuitry at train stations! Praise Wube!",
-            "This should make sushi pipes less of a headache, right? I remember trying it before and getting stuck with a tiny bit of fluid left in one section blocking everything else."
+            "Every development picture I've seen in these FFFs for Space Age look *absolutely wild*",
+            "Might be the most interesting Space Age FFF so far, despite the lack of new content revealed. Those mass-production screenshots are nuts.\n\nSo anyway... How long til we see a mod in which molten metals \"spoil\" into solids inside fluid wagons?",
+            ">Earendel's drafts were always over the top when it comes to gameplay complexity\n\nWho'd have thunk???",
+            ">We finished the first iteration of the Gleba enemy (to be shown later)\n\nI am ready for the trees to fight back",
+            "I guess I\u2019ll need to set aside 2025 to Factorio, and only Factorio.  2026 will be the same, but with the inevitable mods for 2.0/DLC. \n\n2027 is not looking good for other games, either\u2026",
+            "Yes! Release date announcement next week!",
+            "#EIGHTY FIVE BLUE BELTS????\n\nQuality is going to go so hard, I love it",
+            "All these screenshots are crazy. That green circuit build and the intersection. Just the sheer amount of resources produced and that absolutely chaos of that intersection",
+            "From what I understand the team went for a vanilla megabase equivalent with that LAN base. But even the possibility of large, complex, multi-lane railway intersections becoming necessary in a normal factorio run is making me giddy with joy. I was on the fence about Quality but if this is the result, sign me up.",
+            ">Shortly after that, we had an office LAN party, where we tried to do a multiplayer playthrough, to get more feedback and also to test the multiplayer. We played from Monday to Friday, and we barely got to the last planet quite exhausted on the last day, never really being able to finish the whole thing.\n\nI feel like QA testing sessions are a lot more fun at Wube than they are at my office..."
         ]
     },
-    "Accidentally left an open chest of naquium heat pipe longs, there goes 56000 naquitite plates...": {
-        "title": "Accidentally left an open chest of naquium heat pipe longs, there goes 56000 naquitite plates...",
-        "score": 154,
-        "url": "https://i.redd.it/4uhkd7bt528d1.png",
+    "Is this overkill for a starter base as a new player": {
+        "title": "Is this overkill for a starter base as a new player",
+        "score": 63,
+        "url": "https://i.redd.it/gypl9yex9h9d1.png",
         "content": "",
-        "num_comments": 7,
+        "num_comments": 32,
         "comments": [
-            "Oh well, time to create the biggest reactor SE has ever seen",
-            "You will use them in Foenestra energy setup. Like half of the for sure, so dont worry :)",
-            "https://mods.factorio.com/mod/reverse-factory",
-            "You\u2019re laughing? JugglingMaster accidentally made 56000 naquitite plates and you\u2019re laughing?!",
-            "Nice",
-            "There's a mod for that: https://mods.factorio.com/mod/chest-auto-limit",
-            "I just use a blueprint with a blue chest and either a red or purple depending on use. With an inserter each. Slots limited in red or purple. Edit forgot to add the one with the purple chest is limited by a circuit wire between chest and inserter"
+            "The best way to put it: remove the world overkill from your vocabulary when you load up this game. The only rule is that the factory must grow",
+            "Overkill is when your computer can\u2019t handle your base anymore\u2026before that: play!",
+            "Nah this is fine, you'll need all that and more as you scale up",
+            "Honestly at least in my play throughs I just kill any easy enemies that could be in my pollution radius at the start, then get lazer turrets and tanks and become invisible, walls kinda suck cause they stop the factory from growing.",
+            "Too small.\n\nAlso consider adding radars to your walls.",
+            "Nothing is overkill in this game. \nYour construction dont look like \"new player\" construction tho",
+            "in factorio nothing is overkill unless it kills your pc, I'm not even joking, you will need that space at some point.",
+            "You can never have too much space",
+            "Nice death world rampant base, bro",
+            "Maxim 37:   \nThere is no \"overkill.\"   \nThere is only \"open fire\" and \"reload.\""
         ]
     },
-    "2.0 Sushi Pipe Controller": {
-        "title": "2.0 Sushi Pipe Controller",
-        "score": 83,
-        "url": "https://i.redd.it/2zpzd0ikr28d1.png",
+    "I call this one \"Vertical Integration\"": {
+        "title": "I call this one \"Vertical Integration\"",
+        "score": 88,
+        "url": "https://www.reddit.com/gallery/1dr5j87",
         "content": "",
-        "num_comments": 21,
+        "num_comments": 17,
         "comments": [
-            "Don't show this to dosh",
-            "Blueprint:  \n[https://paste.ee/p/Se1zi](https://paste.ee/p/Se1zi)\n\nExplanation: With the Fluid rework for 2.0 Sushi Pipes become usable. This build emptys and fills the main base sushi Pipe (Connection to base at bottom) once a second with a new fluid.  \nEach fluid need to be connected to a storage tank farm, with these connections being at the top of this build.  \nThe emptying process is done in 2 stages, to get a greater amount of pumpes working. The first stage is the bottom half, emptying the main base sushi pipe into the 2nd stage at the top where the fluid get sorted to their individual storages. This 2 stage apporoach greatly increases the pipes with access to the main sushi pipe thus empting it faster, and can get away with few pipes for individual fluids, becasue the 2nd stage sushi pipe segment is much smaller thus the pumps can work faster.",
-            "What in the seven hells is this\u2026.",
-            "r/factoriohno",
-            "The undergrounds dodging pipes of the same fluid are so cursed.",
-            "Ah finally my refinery train loading stations will be legendary",
-            "perfect XD, I'm pretty sure there will be some throughput limit, it would be weird of there wasn't one",
-            "add a mod that turns all resources into liquids",
-            "For when paste.ee inevitably nukes your blueprint:\nhttps://factoriobin.com/post/X5_ShnjA",
-            ">paste.ee\n\nyou people continue to surprise me with random text uploading sites that i've never heard of.\n\nplease just use factorio specific sites like [factoriobin](https://factoriobin.com/), [factorioprints](https://factorioprints.com/), or similar to upload blueprints. as they are way less likely to just randomly delete data and have some nice extra features like visualizations and item counts"
+            "What is \"G\" on the production tab for copper wires, is that billion!?",
+            "I need more images that are not in map view. This is really aesthetically pleasing.",
+            "What is your power output with all those solar panels? And how many nuclear reactors do you have? And most of all, what is that pollution looking like \ud83d\udc80",
+            "32 blue belts of plates is about 1k spm depending on modules. Far less than eight silos can handle.",
+            "There is some lane balancing to even out occasional gaps when a train gets confused and misses its stop. I plan to go back and undo all the lane balancing when I've fully troubleshooted the train situation. Currently I get great ups so I haven't worried about optimizing for that.",
+            "I think they can still be unbalanced despite looking full. So op is probably just making sure that they're balanced",
+            "Yes, 1.2B. I kind of treat this map like a zen garden or idle game, maybe put a few hours in here and there and just let it run in the background.",
+            "K for kilo, means 1,000  \nM for mega, means 1,000,000  \nG for giga, means 1,000,000,000",
+            "He said nothing about science, and everything about launching rockets though",
+            "Hold on, why do we care about this exactly?"
         ]
     },
-    "Rail Blueprints": {
-        "title": "Rail Blueprints",
-        "score": 84,
-        "url": "https://i.redd.it/4o588chli18d1.png",
-        "content": "",
-        "num_comments": 18,
+    "FFF-416 Fluids 2.0 are are actually physical": {
+        "title": "FFF-416 Fluids 2.0 are are actually physical",
+        "score": 56,
+        "url": "https://www.reddit.com/r/factorio/comments/1dr71vi/fff416_fluids_20_are_are_actually_physical/",
+        "content": "I like when a game tries to be realistic, and too much magic kills the immersion (beacons, I'm looking at you!)\n\nBut I'm OK with Fluids 2.0 because they are actually somewhat realistic. Maybe even more realistic then previous fluids, if we assume that the surface is flat.\n\nHere is the diagram:\n\nhttps://preview.redd.it/s2oed6tv1h9d1.png?width=1590&format=png&auto=webp&s=d70a4d0acfe48127853e4a8b129c2d80ef4ca78a\n\nLiquid is moved along the pipe due to gravity, so the level of liquid in the pipe is more or less always even (if we neglect liquid viscosity and a couple other effects).\n\nPump on the left just pours the liquid to the top of pipe-reservoir. The flow rate is not limited as long as pipe-reservoir is not full.\n\nPump on the right can pull liquid only at the rate proportional to the level of liquid in the pipe-reservoir.\n\nThat's it, it explains liquids 2.0 model.\n\nWell, except for underground pipes, but here I need to suspend disbelief a little.",
+        "num_comments": 57,
         "comments": [
-            "Some prefab rail things I made for my up coming megabase.\n\nI'm having issues posting the string for the book (3426969 characters long) so if you want the book I'll have to send a text document.\n\n  \nEdit: [https://drive.google.com/file/d/12t-YIm-hdCxXl6xTOkEkBBEKTnS-CcRk/view?usp=drive\\_link](https://drive.google.com/file/d/12t-YIm-hdCxXl6xTOkEkBBEKTnS-CcRk/view?usp=drive_link)\n\nEdit 2: I realized that the link was restricted access, it\u2019s now publicly accessible.",
-            "hmm, I think I will save this blueprint and never build it.",
-            "Gee this reminds me of Game of Life",
-            "Awesome, thank you very much",
-            "How can I bookmark this post :))))?",
-            "Have you tested those stackers? When stackers are different in length, it can lead to situation where train tries to go to already occupied shortest stacker, blocking it. It's the reason why usually exit and entrance are placed diagonally, to ensure all stackers are of the same length.",
-            "Now add solar to them all.",
-            "Try pastebin for blueprints. I think there is also a similar site dedicated to factorio.",
-            "Can you send it to me please?",
-            "doesn't a chain signal solve this?"
+            "It's more realistic for various reasons.  In the old physics, the fluid level of two neighboring pipes is balanced every tick, an effect that propagates 1 square per tick, or about 60 m/s.  In real life, pressure propagates along the system at the speed of sound (about 1481 m/s in fresh water), so as long as you're pumping with a tight seal, you will be displacing a lot of water downstream very quickly.  At those speeds, it should be basically instantaneous.",
+            "I think the assumption the surface is flat no matter the circumstances is exactly the one people take issue with. You can connect a ton of machines through a single pipe bottleneck and still get full throughput.\n\nRealistically such a bottleneck would cause a very quick drop in fluid level",
+            "2.0 is not realistic, but better for gameplay. That is all that matters.",
+            "> if we neglect liquid viscosity\n\nActually, we shouldn't neglect the viscosity of the liquids, because some of the liquids in the game are very viscous (oil and its by-products, and now liquid metals).",
+            "Given that it\u2019s all 2D, I\u2019m not sure we know how 2D fluids work irl.  Perhaps there is a PhD in modelling that? /s",
+            "Liquid doesn't teleport from one end to the other though.",
+            "indeed fluids now are just stupid",
+            "Not to mention the funny \"a pipe built right to left is slower with lower throughput than a pipe built left to right\" and \"pipe intersections/splits work in VERY FUCKY WAYS depending on the order that they were plopped down in\". Real pipes don't work like that at all.",
+            "Can we assume tiles are 1m though? I guess trains and cars ruin my pedantry",
+            "I doubt the water itself is moving at the speed of sound, but that is what it sounds like you are saying. Can you be a bit more clear? You mean pressure itself in the laws of physics goes at the speed of sound correct? I don't think water can move that fast without causing a lot of problems."
         ]
     }
 }
