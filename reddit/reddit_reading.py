@@ -5,9 +5,10 @@ import os
 import shutil
 import google.generativeai as genai
 from tqdm import tqdm
+import time
 
-genai.configure(api_key="AIzaSyA_a9NStJj6XoMDaGXlbz-v35xCQzTlDqA")
-model = genai.GenerativeModel('gemini-1.5-flash')
+# genai.configure(api_key="AIzaSyA_a9NStJj6XoMDaGXlbz-v35xCQzTlDqA")
+# model = genai.GenerativeModel('gemini-1.5-flash')
 
 def call_prompt(prompt):
     answer = call_prompt_with_retry(prompt)
@@ -88,7 +89,7 @@ def gen_single_reddit_json(subreddit, file_name, num_posts=5):
             "url": post.url,
             "content": post.selftext,
             "num_comments": post.num_comments,
-            "comments": [comment.body for comment in post.comments.list() if type(comment) == praw.models.Comment]
+            "comments": sorted([comment.body for comment in post.comments.list() if type(comment) == praw.models.Comment], key=score_comment, reverse=True)[:10]
         }
     with open(file_name, "w") as file:
         json.dump(posts_dict, file, indent=4)
@@ -199,6 +200,39 @@ def generate_reddit_data_set():
         
     return data_set
         
+import re
+
+def score_comment(comment):
+    score = 100
+
+    # Check for presence of links
+    if re.search(r'http[s]?://', comment):
+        score -= 50
+
+    # Check for promotional language
+    promotional_keywords = ["subscribe", "join", "channel", "discord", "server", "support"]
+    if any(keyword in comment.lower() for keyword in promotional_keywords):
+        score -= 30
+
+    # Check for offensive language
+    offensive_keywords = ["delusional", "burn", "sequel"]
+    if any(keyword in comment.lower() for keyword in offensive_keywords):
+        score -= 20
+
+    # Check for very short comments
+    if len(comment.split()) < 5:
+        score -= 20
+
+    # Check for excessive formatting
+    if comment.count('\n') > 2 or comment.count('#') > 2 or comment.count('[') > 2:
+        score -= 10
+
+    # Check for comments indicating deletion or removal
+    if "removed" in comment.lower():
+        score = 0
+
+    return score
+
 def clean_up_jsons():
     dir_path = "./reddit/reddit_humanities_data_new"
     for file in os.listdir(dir_path):
@@ -214,8 +248,8 @@ def clean_up_jsons():
 # Example usage
 if __name__ == "__main__":
     
-    data = generate_reddit_data_set()
-    print(len(data))
+    # data = generate_reddit_data_set()
+    # print(len(data))
 
-    # generate_many_humanities_reddit_json()
+    generate_many_humanities_reddit_json()
     # clean_up_jsons()
