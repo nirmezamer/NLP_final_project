@@ -50,7 +50,16 @@ def call_prompt(prompt):
     return answer.text
 
 def create_AI_paper():
-    prompt = ""
+    prompt = """Please generate a short newspaper content for a given title. 
+The newspaper content should be brief, informative, neutral in tone, and written in a newspaper style. 
+Ensure the newspaper content includes quotes and sources, proffetional style and a short conclusion such as the topic's significance. 
+The information should sound clarity and conciseness and include specific details like dates, names, and places. 
+Write the newspaper content in your own words, avoiding direct copying from existing newspapers. 
+The newspaper content should be concise, typically around 3-5 sentences, and should closely resemble the style and length of actual Wikipedia summaries. 
+The title will be provided, and the generated summary should align closely with the title's topic.
+
+The Title is:
+"""
     try:
         answer = call_prompt(prompt)
         return answer
