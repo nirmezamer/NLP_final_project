@@ -187,9 +187,6 @@ def generate_reddit_data_set():
                                              subreddit_data[post]["content"], \
                                              subreddit_data[post]["comments"][1:5])
             if AI_comment == "":
-                # Save the data set to a json file
-                with open("reddit/reddit_data_set.json", "w") as file:
-                    json.dump(data_set, file, indent=4)
                 continue
             data_set[post] = {
                 "title": subreddit_data[post]["title"],
@@ -197,6 +194,9 @@ def generate_reddit_data_set():
                 "human_comment": subreddit_data[post]["comments"][0],
                 "AI_comment": AI_comment
             }
+        # Save the data set to a json file when finish a subreddit
+        with open("reddit/reddit_data_set.json", "w") as file:
+            json.dump(data_set, file, indent=4)
             
     # Save the data set to a json file
     with open("reddit/reddit_data_set.json", "w") as file:
@@ -238,13 +238,16 @@ def score_comment(comment):
     return score
 
 def clean_up_jsons():
+    def clean_to_ascii(input_string):
+        return ''.join(char for char in input_string if ord(char) < 128)
     dir_path = "./reddit/reddit_humanities_data_new"
     for file in os.listdir(dir_path):
         with open(dir_path + "/" + file, "r") as f:
             data = json.load(f)
         for post in data.keys():
-            if len(data[post]["comments"]) > 10:
-                data[post]["comments"] = data[post]["comments"][:10]
+            comments = data[post]["comments"]
+            comments_new = [clean_to_ascii(comment) for comment in comments]
+            data[post]["comments"] = comments_new
         with open(dir_path + "/" + file, "w") as f:
             json.dump(data, f, indent=4)
     return

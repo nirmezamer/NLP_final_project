@@ -8,7 +8,7 @@
         "comments": [
             "Always happy when things move forward but for the average user not using ZFS I don't see much benefit here. I'll be hanging back for a while until things are completely stable.",
             "For Plex, does anyone know on UnRAID 7 Beta how I need to configure it to use my Intel ARC card? I set the device to \"/dev/dri\" and it still uses my iGPU instead of the Intel ARC card. Not sure why Plex doesn't see the GPU. My Windows 11 VM sees it just fine though",
-            "Docker engine v25 plz, no idea why it\u2019s taking this long when stable was released 6 months ago.",
+            "Docker engine v25 plz, no idea why its taking this long when stable was released 6 months ago.",
             "Did you already pass it to the vm when trying to access it from Plex?\n\nAlso there is a setting to choose which card to use in Plex settings.",
             "Safe to assume you haven't watched the video then? :P",
             "Not everyone wants to run an beta version",
@@ -26,7 +26,7 @@
         "num_comments": 73,
         "comments": [
             "Never have I been so excited for something that I refuse to try, before at least a couple of months have passed",
-            "Is it weird the feature I was most eagerly awaiting was the hardware database mentioned in the video months ago. I\u2019d love to get failure rates and brand stats on hard drives and SSDs",
+            "Is it weird the feature I was most eagerly awaiting was the hardware database mentioned in the video months ago. Id love to get failure rates and brand stats on hard drives and SSDs",
             "\"Unraid array now optional\" huzzah!",
             "Unraid arrays are optional now. I can now use my ZFS pool without keeping some random USB drive connected to act as an array device. Lol",
             "I bought a second license for exactly this! *hard nips* LETS GOOOOO!",

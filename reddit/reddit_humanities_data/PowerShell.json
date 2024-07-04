@@ -14,7 +14,7 @@
             "I automated SSL certificate creation/approval/download using the Sectigo API using a CSR automatically created with OpenSSL.",
             "Wrote a function that takes an array of objects and turns their properties into into columns and then uploads them into an azure storage table, I built a powerBI report that reads the azure table and pretty visual visuals",
             "Found that the C/C++ compiler for Windows has a powershell command line as well as a CMD one.",
-            "Deployed a logon script that collects the user\u2019s work station information (Get-ComputerInfo) and save it to a network share so I can have my Jira process pick them up and update my Asset Management project.",
+            "Deployed a logon script that collects the users work station information (Get-ComputerInfo) and save it to a network share so I can have my Jira process pick them up and update my Asset Management project.",
             "worked powershell graph api sdk"
         ]
     },
@@ -37,13 +37,13 @@
         "comments": [
             "This seems less about Powershell and more about your career path. If you want to branch out of Microsoft environments, then yeah, you're not gonna need Powershell as much. \n\nHowever, it is still very much relevant and the best solution for anything Azure/Windows/Intune/M365 (in my opinion)",
             "Powershell is the best tool for managing windows and MS365 in bulk.\n\nBut for some specific tasks, there are better tools, in that they don't require the depth of knowledge PS often does to do some intricate things.",
-            "Coach for powershell. There\u2019s people out there like me who suck at it and need guidance",
-            "Your feedback of \"Why emphasize Powershell so much? It\u2019s not that important\" sounds very similar to feedback I received of \"Do you have a life outside of work?\" (after seeing my github contribution history) \ud83d\ude02 I think most people just can't understand having a passion for something, and they don't realise the versatility that it brings you as an engineer.",
+            "Coach for powershell. Theres people out there like me who suck at it and need guidance",
+            "Your feedback of \"Why emphasize Powershell so much? Its not that important\" sounds very similar to feedback I received of \"Do you have a life outside of work?\" (after seeing my github contribution history)  I think most people just can't understand having a passion for something, and they don't realise the versatility that it brings you as an engineer.",
             "We use ansible but it runs powershell scripts lol.",
-            "I used to love PowerShell and even contributed a small chapter about PowerShell to a community book. Today my job no longer using PowerShell anymore. It\u2019s just me who just has an enthusiastic to write scripts and automations. I can say PowerShell was a stepping stone for my career, it\u2019s very lovely DSL, familiar syntax and easy to understand. So what I think is you just need to decide whether you are like me who actually loves to build automations and scripts where you didn\u2019t realising yourself and addicting to PowerShell or just want to be a PowerShell guy and going down the rabbit hole deep into the core of PowerShell.",
+            "I used to love PowerShell and even contributed a small chapter about PowerShell to a community book. Today my job no longer using PowerShell anymore. Its just me who just has an enthusiastic to write scripts and automations. I can say PowerShell was a stepping stone for my career, its very lovely DSL, familiar syntax and easy to understand. So what I think is you just need to decide whether you are like me who actually loves to build automations and scripts where you didnt realising yourself and addicting to PowerShell or just want to be a PowerShell guy and going down the rabbit hole deep into the core of PowerShell.",
             "I've also observed PowerShell the language and related skills not getting the respect it really deserves. I have plenty of first hand experience to see how impressive it can be. Perhaps PowerShell would benefit from better marketing or demonstrations. Until then, the general advice here is correctly, it's wise to supplement those skills with another tool. I've personally found Python to be worthy of the hype. Beyond its great popularity, it's cross platform nature, better performance than PowerShell, and its following a more traditional programming paradigm are worth learning, using, and adding to your resume. I highly recommend learning it sooner than later. I think my heart is big enough to love both languages equally.",
             "Personally I've long felt that MS is putting PowerShell in the backseat. Look at their examples in their documentation and you'll see it's all python, C# and az cli. I'd strongly recommend taking that as an indicator...",
-            "Ansible, terraform and python are tools that have their uses. Powershell is a tool that has its uses. \n\nA true craftsman doesn\u2019t try to use one tool for all things. Not to mention that most of them can easily interact with the others when needed.",
+            "Ansible, terraform and python are tools that have their uses. Powershell is a tool that has its uses. \n\nA true craftsman doesnt try to use one tool for all things. Not to mention that most of them can easily interact with the others when needed.",
             "It sounds like Powershell is your hammer and every problem is seen as a nail. I would find it very suspicious too if you were using Powershell for things like API development."
         ]
     },
@@ -56,7 +56,7 @@
         "comments": [
             "Why are you using curl from a powershell session?\n\nInvoke-webrequest or Invoke-RestMethod arent good for your use case ?",
             "So bear in mind, for some reason curl is an alias for invoke-webrequest despite it not having feature parity with the real curl.  So make sure you're using the full path for curl.exe if  that's what you want to use.",
-            "he just posted the same thing in the cmd sub, theres no reason to use curl, its just what he thinks he needs to do\n\nOP maybe ask us to help with what you are trying to accomplish without setting requirements and see what people come up with, you needing to use curl is distracting from whatever you are trying to do\n\n\u201cMaintain a TCP connection to WHAT?\u201d",
+            "he just posted the same thing in the cmd sub, theres no reason to use curl, its just what he thinks he needs to do\n\nOP maybe ask us to help with what you are trying to accomplish without setting requirements and see what people come up with, you needing to use curl is distracting from whatever you are trying to do\n\nMaintain a TCP connection to WHAT?",
             "Look up `[System.Net.Sockets.TcpClient]`\n\n[https://learn.microsoft.com/en-us/dotnet/fundamentals/networking/sockets/tcp-classes](https://learn.microsoft.com/en-us/dotnet/fundamentals/networking/sockets/tcp-classes)"
         ]
     },

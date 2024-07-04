@@ -7,7 +7,7 @@
         "num_comments": 11857,
         "comments": [
             "Why does my strategem sometimes bounce from enemies and sometimes stick?",
-            "In the new update whenever I log back into the game my character voice, emote and weapons are all reset and it keeps telling me \u201cnew stratagems are available\u201d when their not; \u201ccustomise your arsenal\u201d; and \u201ccheck the war table\u201d where it keeps giving me the major order from super earth every time. How I fix?",
+            "In the new update whenever I log back into the game my character voice, emote and weapons are all reset and it keeps telling me new stratagems are available when their not; customise your arsenal; and check the war table where it keeps giving me the major order from super earth every time. How I fix?",
             "Do Helldivers have a weak spot? Damaging limbs seems to be very effective until they seemingly harm themselves with a stick to their thorax. How is DEMOCRETY destroyed? Any help is thankful.",
             "When are they going to fix friend requests on cross play? I convinced my friend to buy this game and now we can't play together.",
             "Can anyone explain what the new booster does?",
@@ -25,15 +25,15 @@
         "content": "# \ud83c\udf0dOverview\n\nFor this patch, we have made improvements and changes to the following areas:\n\n* Crash fix related to the FAF-14 Spear\n* General fixes\n\n# General\n\n* Japanese language voice-overs are now available globally on PS5 (also on PC).\n\n# \ud83d\udd27Fixes\n\n**Crashes**\n\n* Fix for crash happening when players with unique hellpod patterns leave during hellpod launch cutscenes\n* Crash fix while aiming with the FAF-14 Spear\n\n**Misc fixes**\n\n* Fixed corrupted text showing \"?\" for some characters when having Traditional Chinese language selected\n* Fix for Plasma Punisher being unable to shoot out of the SH-32 Shield Generator Pack and the FX-12 Shield Generator\n* Fixed so the Quasar Cannon has the correct change to its heat when on hot and cold planets\n* Fixed issue where Spore Spewer would appear purple on certain planets\n* Fixed some cases where pink question marks would appear in missions on various planets\n* Fixed Peak Physique armor passive not properly affecting weapon ergonomics\n* Fixed issue where available Operations were reset after player reconnected from getting kicked due to inactivity\n\n# \ud83e\udde0Known Issues\n\nThese are issues that were either introduced by this patch and are being worked on, or are from a previous version and have not yet been fixed.\n\n* Sending friend requests via friend code in game currently does not work\n* Players may be unable to be joined or invited to the game\n* Players added to the Recent Players list will appear in the middle of the list\n* Players may experience delays in Medals and Super Credits payouts\n* Enemies that bleed out do not progress Personal Orders and Eradicate missions\n* Deployed mines may sometimes become invisible (but remain active)\n* Arc weapons sometimes behave inconsistently and sometimes misfire\n* Most weapons shoot below the crosshair when aiming down the sights\n* Stratagem beam might attach itself to an enemy but will deploy to its original location\n* Hand Carts ship module does not reduce Shield Generator Pack's cooldown\n* Superior Packing Methodology ship module does not work\n* Bile Titan sometimes does not take damage to the head\n* Players may become stuck in the Loadout when joining a game in progress\n* Reinforcement may not be available for players who join a game in progress\n* Planet liberation reaches 100 % at the end of every Defend mission\n* Raise Flag of Super Earth objective does not show a progress bar\n* Mission count in the Career tab is being reset to zero after every game restart\n* Some weapons\u2019 descriptions are out-of-date and don\u2019t reflect their current design\n\n...................\n\n[Patchnotes Megathread](https://www.reddit.com/r/Helldivers/comments/1bd6hse/helldivers_2_patch_notes/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)",
         "num_comments": 992,
         "comments": [
-            "Spear users tentatively holding their breath.... \"is it working? Can we come out now?\"\u00a0",
+            "Spear users tentatively holding their breath.... \"is it working? Can we come out now?\"",
             "* Fixed Peak Physique armor passive not properly affecting weapon ergonomics: time to test",
             "Superior Packing Methodology still not fixed. Bummer...",
-            "ballistic shield bugs aren\u2019t even in the known issues smh",
+            "ballistic shield bugs arent even in the known issues smh",
             "why i feel like there's going to be some new bug with spear.. hope it's finally fixed.",
-            "I\u2019ll be back when pc optimisation is better, hopefully soon because i actually want to be back \ud83d\udc4d\ud83c\udffd",
-            "when will they fix those \u00ab\u00a0known issues\u00a0\u00bb I feel like they are \u00ab\u00a0known\u00a0\u00bb but unfixed for 5 patches in a row  lmao",
+            "Ill be back when pc optimisation is better, hopefully soon because i actually want to be back ",
+            "when will they fix those known issues I feel like they are known but unfixed for 5 patches in a row  lmao",
             "Salute to General Fixes! Long time no see! Send my regards to General Crash!",
-            "Still haven\u2019t been able to play with my brother. Fix the damn friends system!",
+            "Still havent been able to play with my brother. Fix the damn friends system!",
             "Where are my frames Arrowhead?"
         ]
     },
@@ -63,7 +63,7 @@
         "content": "",
         "num_comments": 460,
         "comments": [
-            "\u201cI like your cut, G.\u201d",
+            "I like your cut, G.",
             "This is the coolest shit I've ever seen",
             "Holy shit that was brutal as fuck",
             "Was that their head falling out of the sky at the very end?",

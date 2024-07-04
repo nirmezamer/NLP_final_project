@@ -8,14 +8,14 @@
         "comments": [
             "Reddit is just so painless to use.",
             "yaaay I love Discourse forums!",
-            "Love Obsidian and the ease of use but, I swear, if there is a way to screw things up, I will find it! I have my notes in two different vaults (unsure what my thinking was), but I want to consolidate them into one vault. I'm not concerned with formatting as much as I am with having the notes in just one vault. Other than copy and pasting, is there a way to compile all into one vault?\n\nThanks from an obviously na\u00efve bumbler.",
+            "Love Obsidian and the ease of use but, I swear, if there is a way to screw things up, I will find it! I have my notes in two different vaults (unsure what my thinking was), but I want to consolidate them into one vault. I'm not concerned with formatting as much as I am with having the notes in just one vault. Other than copy and pasting, is there a way to compile all into one vault?\n\nThanks from an obviously nave bumbler.",
             "I think it is just a advertisement of a forum at the Obsidian site. Is that correct?",
             "Does this site provide light theme? I had been wandering for an hour but found no options for dark/light switch",
             "Is this the best resource for beginners?",
             "Does anyone gets error with daily quote?",
             "obsidian is similar to vscode in terms of plugins.",
             "unless you want to discuss a complex topic or want to paste images in then it becomes a PITA",
-            "Reddit also doesn\u2019t close your thread"
+            "Reddit also doesnt close your thread"
         ]
     },
     "Holy smokes! This thing is amazing.": {
@@ -27,13 +27,13 @@
         "comments": [
             "Yep. Start small and let the magic of Obsidian happen.",
             "Yeah, it's a religious experience. Angels sang for me.",
-            ">  I'm a legit graybeard\n\nShouldn't you be using emacs with org mode then? \ud83d\ude0f",
-            "Absolutely! Obsidian is a total game-changer \u2013 it's like having a personal assistant for all my notes.",
+            ">  I'm a legit graybeard\n\nShouldn't you be using emacs with org mode then? ",
+            "Absolutely! Obsidian is a total game-changer  it's like having a personal assistant for all my notes.",
             "\"A local graph in the sidebar is a game changer\" is a strong statement. Can you explain how?",
-            "Making \"Luke Skywalker face when first sitting in an X-Wing\" is about the normal reaction for people when they first use the big O.\u00a0",
-            "Curious how you organize your todos? I\u2019ve yet to find a visually appealing workflow that organizes things the way a notion can. Any suggestions or examples of what works for you?",
+            "Making \"Luke Skywalker face when first sitting in an X-Wing\" is about the normal reaction for people when they first use the big O.",
+            "Curious how you organize your todos? Ive yet to find a visually appealing workflow that organizes things the way a notion can. Any suggestions or examples of what works for you?",
             "May I ask you how you use the graph sidebar (related to todos)?",
-            "So glad you\u2019ve found something that works for you! I\u2019ve never found the graph view to be useful but you\u2019ve inspired me to give it another try.",
+            "So glad youve found something that works for you! Ive never found the graph view to be useful but youve inspired me to give it another try.",
             "How do YOU want to organise your todos? What's YOUR end goal? Maybe someone here can help make that end goal a reality....."
         ]
     },
@@ -44,7 +44,7 @@
         "content": "[Screenshot of my setup](https://preview.redd.it/o9rbndk7ch9d1.png?width=1919&format=png&auto=webp&s=e8458dada8f35d95dcb1c81e330a75ff1a6d28f6)\n\nIts been 1 month since using obsidian , its great and highly recommend it    \nas for my suggestion for beginners who are just starting out , just start writing and keep it simple , eventually dots will start to connect. \\[ Still Learning that part \\]   \nkudos to obsidian team for creating such a wonderful product !\n\nAny Plugins or settings suggestions will be highly appreciated , Happy Learning !!  ",
         "num_comments": 4,
         "comments": [
-            "If you haven\u2019t installed it yet, I suggest using the linter plugin",
+            "If you havent installed it yet, I suggest using the linter plugin",
             "FYI: Editing toolbar leaves a lot of fragments behind. Colors, indentation, justification, alignment, etc, and other formatting is done in HTML.",
             "It looks complex but here is some [info and instructions.](https://amerpie.lol/2024/06/05/dont-be-afraid.html)",
             "One understandable reason some people are hesitant to use community plugins is the fear that the plain text data they've worked hard to create will be altered, negatively affecting the portability of their notes, one of Obsidian's most attractive features. That's a wise attitude to take for plugins that affect data, but what about plugins that just make Obsidian easier to use? What's the reason for not trying those? These 10 plugins don't leave any code fragments in your notes. They just make Obsidian better.\n\n## 1. [Commander](https://github.com/phibr0/obsidian-commander)\n\nCommander lets you add and remove commands from the Obsidian interface. I use it to create ribbon bar buttons for shortcuts that add content to my daily note and to run the Linter plugin on demand. Commander can also edit commands, hide commands and for sync customers, choose what devices commands appear on.\n\n## 2. [Editing Toolbar](https://github.com/cumany/obsidian-editing-toolbar)\n\nEven for seasoned Markdown writers, having access to an editing toolbar can come in handy for doing things like indenting or unindenting text. It also has very handy undo/redo buttons, superscript and subscript buttons and convenient color pickers for text and highlights. Inserting code blocks or inline code is also a breeze.\n\n## 3. [File Explorer++](https://github.com/kelszo/obsidian-file-explorer-plus)\n\nOne of the most frequently asked questions on Reddit is how to manually order folders and files. This simple plugin lets you both pin and hide folders and files with a click in the file menu.\n\n## 4. [Mononote](https://github.com/czottmann/obsidian-mononote)\n\nAnother simple but useful plugin is Mononote, by the same developer who created the super useful Actions for Obsidian, Mac and iOS shortcuts enhancer. Mononote does one thing, it keeps you from having multiple copies of the same note open at once. If you ever looked at your tab bar and seen multiple copies of your daily note staring at you, install this plugin to prevent that from ever happening again.\n\n## 5. [Note Refactor](https://github.com/lynchjames/note-refactor-obsidian)\n\nNote Refactor helps you split and extract content from your current notes. If you've clipped a long web article and you want to break it down into smaller more easily digestible atomic notes, Note Refactor is the tool you want. You can preselect the location where you want your notes to go and even chose a naming convention for them.\n\n## 6. [Plugin Update Tracker](https://github.com/swar8080/obsidian-plugin-update-tracker)\n\nI'm not the least bit ashamed to admit that I run between 50-60 plugins in my vault at any one time. Plugin Update Tracker lets me know at a glance if I have any updates and to what plugins. It will let me read the release notes and even wait a specified number days before notifying me when updates become available so that the early adopters can get the kinks worked out. If there are plugins you wish to ignore updates from, you can do that too.\n\n## 7. [Read It Later](https://github.com/DominikPieper/obsidian-ReadItLater)\n\nReadItLater collects information from your clipboard and creates notes based on the type of content you have saved there. Videos from YouTube, Billibilli, TikTok and Vimeo will be displayed in an inline iFrame based on the clipboard URL. Mastodon toots and URLs will be imported as complete notes generated from nothing more than a URL on your clipboard. It's one of the easiest ways to get web content in your blog. For plain text, the entire clipboard will be used to create a new note.\n\n## 8. [Recent Files](https://github.com/tgrosinger/recent-files-obsidian)\n\nThis plugin displays a list of most recently opened files in the sidebar. Optionally include paths of files which should be excluded from the list. That's it. but it's something I use every single day.\n\n## 9. [Tag Folder](https://github.com/vrtmrz/obsidian-tagfolder)\n\nI use Tag Folder primarily to do one thing, show me which notes I have forgotten to tag. It will, of course show your tags as folders and even let you create time-based virtual tags for one hour, six hours, 3 days, 7 days and older than 7 days. You can configure ignored tags and folders if you want to.\n\n## 10. [Tag Wrangler](https://github.com/pjeby/tag-wrangler)\n\nI use this plugin to keep my tags clean. It makes it easy to correct typos (mis-spellings) and capitalization errors."
@@ -71,10 +71,10 @@
             "poor internet connection becoming an opportunity to optimize learning, that's awesome (I'm referring to your story and your work)",
             "Excellent job. Care to give us a quick rundown of the plugins and other details used to create something like this?",
             "i have no idea how to make setups like this on obsidian. with the columns and all. how do you do that? which plugins and snippets?",
-            "Los memes LOL\nBuen setup \ud83d\udc4d",
-            "It looks SO good!! How did you make the little picture in the sidebar?? The one behind the \u201cTareas\u201d word.",
+            "Los memes LOL\nBuen setup ",
+            "It looks SO good!! How did you make the little picture in the sidebar?? The one behind the Tareas word.",
             "can you explain how you constructed your setup the first and second screenshots to be precise",
-            "This is the kinda stuff I wanna learn how to do \ud83e\udd7a\n\nIt looks amazing OP! You did an awesome job",
+            "This is the kinda stuff I wanna learn how to do \n\nIt looks amazing OP! You did an awesome job",
             "Hey since you look like an obsidian user with frontend knowledge. I wanted to ask is there a way to use tailwind directly I obsidian for css?",
             "Do you have a tutorial on how to set this up? It looks really cool!"
         ]

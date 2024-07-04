@@ -54,9 +54,9 @@
         "comments": [
             "Next: 5 reasons you only need SQLite, or 5 reasons you only need Redis... after that: 5 reasons you only need the file system. Maybe even: 5 reasons you should write your own disk read/write primitives, and finally 5 reasons you should not store anything at all.",
             "> In the database world, MongoDB and PostgreSQL are both highly regarded choices\n\nBwahahahaha",
-            "I\u2018m pretty sure MongoDB saves me time (and money) on some projects, so I\u2019ll keep using it. Thanks.",
+            "Im pretty sure MongoDB saves me time (and money) on some projects, so Ill keep using it. Thanks.",
             "But is postsgresql web scale?",
-            "No data, no problems \ud83d\udc4c",
+            "No data, no problems ",
             "5 reasons to use perforated cards.",
             "I memorize my user data",
             "Don't forget the series of articles after that, about how insane it was to write everything yourself.",

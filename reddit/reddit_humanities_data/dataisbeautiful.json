@@ -13,7 +13,7 @@
             "I feel like an idiot asking this but can anyone identify the software used to create a lot of these job search charts? I want to use them for tracking my medication and symptoms (for myself not for publication) and I've been sent a few hate messages for asking how the charts are made. Please help?",
             "I have personal data on some fanfic writing I do. I'd like to organize the data into charts for hits, kudos, and chapter word length. I use Google a lot like Sheets for charts and data collecting. I was curious if anyone had any other data tools I could try, preferably for free.",
             "I want to represent the daily routine of villagers. Their should be 2 tables 1 for men 2nd for women. Under whcih women who are in SHG's, women during harvest and women migrating.",
-            "This is a very small sample to understand how a random variable changes over time. But, generally speaking, if 0-9 is continuous, you could use a kernel density plot and overlay different years (or have them side by side). If it\u2019s ordinal or discrete, histogram or bar chart I guess.",
+            "This is a very small sample to understand how a random variable changes over time. But, generally speaking, if 0-9 is continuous, you could use a kernel density plot and overlay different years (or have them side by side). If its ordinal or discrete, histogram or bar chart I guess.",
             "Is it a popular tool  for companies?",
             "Maybe like an upside down pyramid chart and for each row you could overlay two colours to show difference between may and June"
         ]
@@ -31,9 +31,9 @@
             "The data is from my own job search in the marketing field and made using SankeyMATIC.",
             "Congratulations on the new job!",
             "What the heck is a case study?",
-            "Such a cool graph.   May I ask your profession and location?  Just curious.   Congrats on landing a new position!  \ud83d\udcaa\ud83c\udffb\ud83d\ude0e",
+            "Such a cool graph.   May I ask your profession and location?  Just curious.   Congrats on landing a new position!  ",
             "What hunting techniques did you use to actually get noticed?\n\nApplying early? Tailored resume for each?",
-            "Why did you \u201cwalk out\u201d 3 times?",
+            "Why did you walk out 3 times?",
             "I'm at 2000 in the US.  2000 with no response."
         ]
     },
@@ -45,12 +45,12 @@
         "num_comments": 400,
         "comments": [
             "According to who? A bunch of nerd scientists? Like I'd believe that.",
-            "You don\u2019t \u201ctrust scientists\u201d. It\u2019s not a religion you put faith into. \n\nPeople can and should be skeptical of science. That\u2019s how science is supposed to operate. Knowing how the scientific method works is what\u2019s more important here than just \u201ctrusting science\u201d.",
+            "You dont trust scientists. Its not a religion you put faith into. \n\nPeople can and should be skeptical of science. Thats how science is supposed to operate. Knowing how the scientific method works is whats more important here than just trusting science.",
             "When you constantly tell people that facts don't matter, some of them will actually believe you it turns out.",
             "\"Share My Values\"? What a weird thing to ask. What's really concerning is half the people thought they knew enough to give an answer.",
             "This is by design.  Politicians felt like science was interfering with their ulterior motives, so they made their own science and discredited science.  People were trusting science instead of politics and television.",
-            "It\u2019s no coincidence that education is constantly being defunded at the exact same time.\n\nThe people who are in charge of running this country want to keep us stupid.",
-            "I\u2019m pretty progressive, but my lack of trust in scientists developed due to learning more about how broken the system of scientific publishing is. Scientists are very heavily pushed to publish first, good practice be damned. Furthermore there\u2019s a clear influence of big business within science. Plus many scientists have displayed that being very well informed in a specific area does not mean a general expertise, and if anything indicates a lack of development in other areas. So I still respect scientists and academics, but my faith in large institutions and broken systems has waned.",
+            "Its no coincidence that education is constantly being defunded at the exact same time.\n\nThe people who are in charge of running this country want to keep us stupid.",
+            "Im pretty progressive, but my lack of trust in scientists developed due to learning more about how broken the system of scientific publishing is. Scientists are very heavily pushed to publish first, good practice be damned. Furthermore theres a clear influence of big business within science. Plus many scientists have displayed that being very well informed in a specific area does not mean a general expertise, and if anything indicates a lack of development in other areas. So I still respect scientists and academics, but my faith in large institutions and broken systems has waned.",
             "The thing is anyone can be corrupt.  People assume its anti-intellectual to distrust \"experts\", but many people are aware that not everyone smarter than you is looking out for you.",
             "Now break those out by political identity.",
             "There needs to be a clear, standardized, legal identifier that forces study results to be accompanied by who funded the study."
@@ -72,7 +72,7 @@
             "Nice work.  \nHow did you assert whether a word was related to some topic? Did you build the list \"by hand\" before analysis, or was it a more advanced tool?  \nReally interested because I ran a similar analysis with New Year's Eve presidential speech in France, and lexical fields were very arbitrary.",
             "Ah the UK, a country with a two-party system with six parties, and where a party with the same amount of votes as another party can get 10x the seats in parliament if the votes are more concentrated in one region instead of scattered across the entire country.",
             "Notice how the greens care more about palestine than the environment.",
-            "So the Putin apologists don't say anything about Ukraine....\ud83e\udd14"
+            "So the Putin apologists don't say anything about Ukraine...."
         ]
     },
     "[OC] Most-subscribed YouTube channels worldwide (May 2024)": {
@@ -88,8 +88,8 @@
             "Might be a weird question but what made you pick the top nine instead of the top ten?",
             "I'm still stuck with the pewdiepie vs t series war",
             "What a cesspool of content",
-            "Don\u2019t go down to two decimal places if you don\u2019t consistently have two decimal places worth of data.",
-            "What is beautiful about this data visualisation?\u00a0",
+            "Dont go down to two decimal places if you dont consistently have two decimal places worth of data.",
+            "What is beautiful about this data visualisation?",
             "I've never watched a single video by any of these and I've only heard of 4 of them.",
             "I have not watched a single video of Mr. Beast. Not on purpose, it's never been suggested on my YT feed. Same as PewDiePie. I know these guys from the news feed but never actively looked for a video of them."
         ]

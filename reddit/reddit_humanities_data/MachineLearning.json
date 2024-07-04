@@ -57,16 +57,16 @@
         "content": "KANs were all the hype everywhere (including Reddit), and so many people had so much to say about it, although not all good. It's been around 3 months now. Has anyone seen anything to either corroborate or contradict the \"believers\"? Personally, I have not seen the adoption of KANs anywhere noteworthy. Would like to hear from the community.",
         "num_comments": 22,
         "comments": [
-            "No, I think the problem with Kolmogorov Arnold it\u2019s not locally smooth like NN",
+            "No, I think the problem with Kolmogorov Arnold its not locally smooth like NN",
             "Can someone ELI20 KANs? I just haven't a chance to read up on it at all.",
             "The KAN hype is really bizarre because the main point seems to be that they are supposedly better than MLPs, but MLPs never \"worked\" for regression. There is a reason why MLPs were seldomly used in the early 2000s, they just don't work. Then doing better than MLPs is not really that impressive.",
-            "People have unrealistic expectations where they expect AI to bootstrap itself to the moon by next Tuesday because \u201cit\u2019s all moving so fast!\u201d\u00a0\n\nIn reality it takes time for ideas to spread and be adopted, even if they work. And KANs haven\u2019t even been proven to work yet.",
-            "and the concept is not a entirely new one, with similar approaches in the 80s. It is worth revisiting, but it\u2019s not like we will get a better architecture overnight",
+            "People have unrealistic expectations where they expect AI to bootstrap itself to the moon by next Tuesday because its all moving so fast!\n\nIn reality it takes time for ideas to spread and be adopted, even if they work. And KANs havent even been proven to work yet.",
+            "and the concept is not a entirely new one, with similar approaches in the 80s. It is worth revisiting, but its not like we will get a better architecture overnight",
             "You can think about it as development of trainable ReLU. Replace ReLU with spline - nonlinear approximator with a lot of parameters. Because spline have built-in multiplications we don't need matrix multiplication after spline layer. Instead it's simple row sum. Effectively matrix merged into nonlinear layer. Relation to Kolmogorov-Arnold representation is tangential. Kolmogorov-Arnold theorem saying about representing any continious function  as composition and sum of single variable functions. But composing functions in theorem are *very* bad. Like Banach-Tarski bad (not literally but you get the idea). Not like nice, smooth splines at all.",
-            "Huh? MLPs are widely used and are sort of the \u201cdefault\u201d neural network. Transformers are just MLPs + attention layers.",
+            "Huh? MLPs are widely used and are sort of the default neural network. Transformers are just MLPs + attention layers.",
             "They are used in there not because they are good at regression, but they are easy to use as a module that provides non-linearity in end-to-end deep learning stuff. A lot of papers in the 2000s benchmarked various models for regression, and MLPs were  never really particularly good at it.",
             "Pretty much all neural architecture are small variations on MLPs. I would even call attention as basically 3 MLPS except even less than that.",
-            "Can you elaborate on what \u201cfor regression\u201d means?"
+            "Can you elaborate on what for regression means?"
         ]
     },
     "[D] When using embedding models \u2026.": {

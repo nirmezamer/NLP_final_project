@@ -30,7 +30,7 @@
             "Is postgres part of the compose file as well?\n\nAlso, when asking for help with a specific configuration, it's generally advisable to share said configuration (both the docker run command and the compose file), else we're all just guessing based on incomplete information.",
             "How do you run your postgres container via docker run? Do you specify the name pgkeydb or keycloak-postgres?",
             "There's really minimal difference.  Compose is basically just a task runner.  A way to declarative define/create docker stuff (networks, volumes, containers).  You can do all the same stuff with either.",
-            "I mean can you share how you run the pg container via docker run? docker run\u2026? What name parameter do you use?",
+            "I mean can you share how you run the pg container via docker run? docker run? What name parameter do you use?",
             "So from my understanding the issue is coming from the keycloak image then? But they are the same image. Probably might have to ask on r/keycloak?",
             "Well it's part of the `docker-compose` file (both the keycloak and the postgres services are run from there) so it starts fine. I just leave the postgres instance running for further `compose` tests and then also when I run the `docker run...` command... \n\nIf I shut the postgres instance down then it does not connect, obviously.",
             "I will rebuild the image with `KC_URL` of `jdbc:postgresql://keycloak-postgres/keycloak` then and get back to you. I cannot see how this will make a difference as the `docker run` command is using the same ENV but succeeeding... (if it was incorect then `docker run` would also error...",
@@ -51,9 +51,9 @@
             "I would add portainer and use stacks you can easily convert docker yml file to a portainer stack... you would get some easier monitoring tools and you can install watch tower which will keep your dockers upto date... after that I think next option would be os like proxmox which allows containers basically and VMs .... you can even install portainer or docker on it... with lxc and VM you get more things you can do and run beyond just dockers...",
             "Apparently I have two different accounts. One on my phone and another on my computer. Never noticed lolol",
             "Yup. I have Portainer BE and it has been great. I tied Traefik and Authentik into my system and I love it. All three apps make life way easier.",
-            "Absolutely, give me a yell. I'll be futzing with it all weekend. \ud83d\ude01",
-            "Great. More stuff to play with. \ud83d\ude01",
-            "I'vebeen using NPM but\u00a0I've been having issues with it. I will check\u00a0thoseout. TY!",
+            "Absolutely, give me a yell. I'll be futzing with it all weekend. ",
+            "Great. More stuff to play with. ",
+            "I'vebeen using NPM butI've been having issues with it. I will checkthoseout. TY!",
             "I do like this idea! Ty!",
             "Portainer for management. Just put it into a compose file like you normally do and run it normally. Boom. Nice GUI for all your docker needs.\n\nAs to backups. Just run a cron rsync job for your compose files and the persistent data folders to a NAS. Or the host if you don't have any type of network storage available. But please sort that out or at least have an external HDD for backups.\n\nI just run a backup once a week and it has been good enough. I'm sure there are more advanced backup methods, but a simple cron job goes a long way."
         ]

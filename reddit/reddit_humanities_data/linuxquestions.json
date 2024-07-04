@@ -7,7 +7,7 @@
         "num_comments": 245,
         "comments": [
             "I not only keep my posts, I actually make the title as if I were googling it, so it shows up for others when they Google a similar issue.",
-            "Deleting a post is even worse than the guys that tell you \u201csearch for it, it\u2019s everywhere.\u201d When in fact that very post was the first result in your search. It\u2019s just not helpful what so ever in both cases.",
+            "Deleting a post is even worse than the guys that tell you search for it, its everywhere. When in fact that very post was the first result in your search. Its just not helpful what so ever in both cases.",
             "What bugs me. People need help to switch to Linux. We all give them the best help we can. But I never see that OP come back with a specific Linux question afterwards. Like did they ever go through with it or their good on their own. It's like we are wasting our breath, trying to get Windows user to become Linux users.",
             "and until they heed your advice you should archive those threads on archive.today hopefully some search engine will start indexing that too",
             "I'll never understand why people just remove this kind of post. If there's some leaked info or something, you could always just edit it.",
@@ -86,11 +86,11 @@
             "In my experience it has never been an issue with ext4, BTRFS, or Bcachefs. That said, I haven't used every possible file system.",
             "I have done a few hundred hard shutdowns of Linux, and never had a crash. I did have a Windows 10 crash recently though.",
             "Perhaps on a raspberry pi, I might be concerned but on my main desktop, no concern at all.",
-            "I have a crumby defective laptop that locks up frequently and gets hard shutdown several times per week.\u00a0 The Linux fs (ext4) has never missed a beat.\u00a0\u00a0 Not so for Ms office running on the win10 VM on top of it though.\u00a0\u00a0 Corrupted my dissertation unrecoverable the evening final formatting revisions were due (fortunately I had a version up on the cloud, but it cost about 12 hours or so of work, a night's sleep, and some cortisol poisoning).\u00a0 I think that was more Word's fault than NTFS though.",
+            "I have a crumby defective laptop that locks up frequently and gets hard shutdown several times per week. The Linux fs (ext4) has never missed a beat. Not so for Ms office running on the win10 VM on top of it though. Corrupted my dissertation unrecoverable the evening final formatting revisions were due (fortunately I had a version up on the cloud, but it cost about 12 hours or so of work, a night's sleep, and some cortisol poisoning). I think that was more Word's fault than NTFS though.",
             "Avoid wonky new distros. Stick to debian, ubuntu or fedora for stability",
             "Recently I experimented with many different file systems, I tried all the major ones, I then simulated a power outage by watching a video while writing to a text file, then I would perform a hard reboot, I did it multiple times on each file system and I never encountered any issues, it rebooted just fine, the video was still there, and so was the text file, just stick to one of the popular file systems and you'll be fine, personally I use XFS.",
             "I haven't had any issues with this, but then, I've been using Linux for over a decade and I can't recall experiencing any issues with data loss in all that time. At least, not any that weren't ultimately hardware failures.",
-            "The only filesystem that has done that to me is XFS, which did it twice on two different systems in under 6 months. \u00a0That was when I said \u201cscrew this\u201d and switched everything back to ext4. \u00a0Never an issue before or since. \u00a0I have heard *lots* of reports of hard shutdowns screwing up btrfs though",
+            "The only filesystem that has done that to me is XFS, which did it twice on two different systems in under 6 months. That was when I said screw this and switched everything back to ext4. Never an issue before or since. I have heard *lots* of reports of hard shutdowns screwing up btrfs though",
             "If the power loss happens during a serious system update, then a typical Linux install is perhaps more likely to break, outside of that it should be the other way around."
         ]
     }

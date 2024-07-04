@@ -36,7 +36,7 @@
             "Yea that why this is a challenge for them",
             "No problem just curious, organic traffic mostly comes through mobile nowadays so it might help to get one up and build traffic in future",
             "You are right i will make it compatible with mobile thanks",
-            "> Please don't use a mobile device to view this site\n\n>This site is designed for large screens\n\n> This website took a lot of time to design so I don't want you to see it on mobile.\n\nHoly crap, the contact embarrassment. \n\nWhy not just stick a \"Designed for Netscape Navigator 800x600\" button on there like the late 90s and have done with it? \ud83d\ude02\n\n**Edit:** Oh my god, I just switched my mobile browser into desktop mode, and *that's* the beautiful design you took so long over that can't possibly be butchered by rendering it on a mobile device? \ud83d\ude02"
+            "> Please don't use a mobile device to view this site\n\n>This site is designed for large screens\n\n> This website took a lot of time to design so I don't want you to see it on mobile.\n\nHoly crap, the contact embarrassment. \n\nWhy not just stick a \"Designed for Netscape Navigator 800x600\" button on there like the late 90s and have done with it? \n\n**Edit:** Oh my god, I just switched my mobile browser into desktop mode, and *that's* the beautiful design you took so long over that can't possibly be butchered by rendering it on a mobile device? "
         ]
     },
     "I have created a simple json query tool, jproc": {
@@ -50,7 +50,7 @@
             "Why are people upset by this?",
             "why did you create json parser when there is 100x faster built-in one using native code? self education?",
             "Yes",
-            "Hi @dusttailtale, thank you for your review. I have followed the following tutorial to create the parser and stripped that down to work only for json [https://youtube.com/playlist?list=PL_2VhOvlMk4UHGqYCLWc6GO8FaPl8fQTh&si=oNLoEvoLnvoloOfN](https://youtube.com/playlist?list=PL_2VhOvlMk4UHGqYCLWc6GO8FaPl8fQTh&si=oNLoEvoLnvoloOfN).\n\nAnyways, I am planning to build the same in Go.\nThanks again! \ud83d\ude04"
+            "Hi @dusttailtale, thank you for your review. I have followed the following tutorial to create the parser and stripped that down to work only for json [https://youtube.com/playlist?list=PL_2VhOvlMk4UHGqYCLWc6GO8FaPl8fQTh&si=oNLoEvoLnvoloOfN](https://youtube.com/playlist?list=PL_2VhOvlMk4UHGqYCLWc6GO8FaPl8fQTh&si=oNLoEvoLnvoloOfN).\n\nAnyways, I am planning to build the same in Go.\nThanks again! "
         ]
     },
     "Exploring Randomness In JavaScript": {
@@ -61,7 +61,7 @@
         "num_comments": 3,
         "comments": [
             "Interesting article, and I like the visualization at the end. I also agree with the final sentiments. Math.random() is probably fine for 99% of the cases in which you would want a random number. There are definitely use-cases where you might want something \"more\" random, but I'd wager most developers don't need anything more than just Math.",
-            "I don't think you'll see any difference unless you run specialized randomness tests.\n\n>Of course, the\u00a0Crypto\u00a0module is significantly slower (half of which is all the Typed Array allocation cost).\n\nYou could do just one call with a big array and then every time pick the next random number until it needs refill."
+            "I don't think you'll see any difference unless you run specialized randomness tests.\n\n>Of course, theCryptomodule is significantly slower (half of which is all the Typed Array allocation cost).\n\nYou could do just one call with a big array and then every time pick the next random number until it needs refill."
         ]
     }
 }

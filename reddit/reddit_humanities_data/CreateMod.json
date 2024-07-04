@@ -12,7 +12,7 @@
             "Woah this is just what i need you could make a modpack with ALL of the addons!",
             "When will it be avaible ??? Also great work , it will be very helpfull ty",
             "This would be dope, thanks for working on this!",
-            "Not sure if you\u2019re accepting addon requests, but if you want to add mine: Create Aquatic Ambitions for forge 1.20.1",
+            "Not sure if youre accepting addon requests, but if you want to add mine: Create Aquatic Ambitions for forge 1.20.1",
             "This is gonna be an awsome resource! I've always wanted somthing to simplify finding all the addons like this",
             "Looks similar to modrinth, very cool!",
             "i think this would be very useful, i making a website for a course im on"
@@ -45,7 +45,7 @@
         "num_comments": 39,
         "comments": [
             "Check how you glued it, glued space should not be under it",
-            "a falling minecart contraption isn\u2019t the best at getting all the blocks without two layers of drills",
+            "a falling minecart contraption isnt the best at getting all the blocks without two layers of drills",
             "If this is a dropped minecart contraption like it seems to be, then the reason is that you don't have two layers of drills, gravity powered drills are pretty buggy unless you do that. The alternative is using a rope pulley to move it up and down, and that would let you keep its current aesthetic more intact",
             "I did not ever consider minecart contraptions as dropped machines! I swear every time I use this subreddit I learn something new",
             "Before I even read the title I said to my self \"is that the fucking drillevator in create\" all I can say is, ROCK AND STONE BROTHER!",
@@ -78,7 +78,7 @@
             "This mod run better now?  I tried it a while back and had a ton of compatibility and lag issues",
             "I assume the ship is an entity? You could try to `/kill` it",
             "> was too big\n\nWe often dream bigger than what we can.",
-            "pretty sure OP meant that he didn\u2019t realize what he had made (hindenburg reference) until he took a look at it from the ground",
+            "pretty sure OP meant that he didnt realize what he had made (hindenburg reference) until he took a look at it from the ground",
             "Op could have at least hid the hotbar or the debris on  the ground.",
             "Just tried, it doesn't seem to work for assembled vehicles. I believe they're targeted with \"@v\", (at least for teleportation), but \"@v\" isn't an option for /kill",
             "You don't need the selector. If you're typing a command like `/kill` or `/tp` while looking at an entity, apart from the usual selectors, it'll also show that entity's UUID, which refers to that entity in particular. It's possible it won't show up, but it is worth a shot",

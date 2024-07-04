@@ -16,7 +16,7 @@
         "content": "I regularly code for:\n\n - C/C++\n - PHP\n - MySql\n - Angular\n - nodeJs\n - HTML/CSS\n - ADA, but I use other IDE for that\n\nGive that each has multiple plug-ins, should I have a single instance of VS code, or one per language, with appropriate plug-ins? Disk space is not a factor. Whichever way I go, it will be portable.\n\nDoes anyone else code multiple languages? If so, how do you do it?",
         "num_comments": 8,
         "comments": [
-            "I use a separate profile for each language, there\u2019s probably a better way tho",
+            "I use a separate profile for each language, theres probably a better way tho",
             "I wouldn't bother with multiple directories or profiles. Seperate workspaces would do just fine, at least it works for me.",
             "You can set the folders as per the language and then open it in vscode as per that and then set the disable or enable for workspace as per you usecase",
             "Plug-ins are lazy loaded. You can freely install as many as you want.",
@@ -36,7 +36,7 @@
             "How to hide the top bar including the Close/Minimize buttons?",
             "You can go to View, which is next to Selection, then select Appearance and hide the menu bar. You can still access the menu bar by pressing Alt. Hope that helps. Wait, I am the one who is asking for help here.",
             "Thank you very much. I'm using Windows and hide the Menu Bar does make the Close/Minimize buttons disappear.",
-            "Oh you are using windows I use arch btw \ud83d\ude01"
+            "Oh you are using windows I use arch btw "
         ]
     },
     "Can't detect the python interpreter": {

@@ -16,7 +16,7 @@
         "comments": [
             "Battery health from 100% to 94% in 27 days ? 14 pro",
             "That's not good. Brand new iPhone? If so, then take it back to Apple!",
-            "I\u2019ve recently noticed that the battery on my iPhone 15 Pro is draining significantly overnight. It goes from 80% to 65%, and it seems like the Find My app is the culprit.\n\nI\u2019ve tried several solutions that I\u2019ve seen here on Reddit, like disabling background app refresh, turning off Find My, uninstalling the app, and even disabling Always on Display (AoD), but none have worked.\n\nIs anyone else experiencing this issue? If so, have you found a solution?\n\nFor context, I have a couple of AirTags connected, second-generation AirPods Pro, and a Watch Series 9 that I wear to monitor my sleep. I expect some battery drain due to these devices, but not this much."
+            "Ive recently noticed that the battery on my iPhone 15 Pro is draining significantly overnight. It goes from 80% to 65%, and it seems like the Find My app is the culprit.\n\nIve tried several solutions that Ive seen here on Reddit, like disabling background app refresh, turning off Find My, uninstalling the app, and even disabling Always on Display (AoD), but none have worked.\n\nIs anyone else experiencing this issue? If so, have you found a solution?\n\nFor context, I have a couple of AirTags connected, second-generation AirPods Pro, and a Watch Series 9 that I wear to monitor my sleep. I expect some battery drain due to these devices, but not this much."
         ]
     },
     "This new update to maps was announced in 2022 & they said it would slowly roll out.": {
@@ -26,16 +26,16 @@
         "content": "Anyone actually have this yet?",
         "num_comments": 14,
         "comments": [
-            "When I drive in parts of my city the perspective switches to 3d, and all the 3d buildings cover up the road and I can\u2019t see where the hell I am",
+            "When I drive in parts of my city the perspective switches to 3d, and all the 3d buildings cover up the road and I cant see where the hell I am",
             "Yes it works in munich for example",
             "Are you referring to the 3d bits? It seems to be in select areas. Theres a bit in Miami Beach.",
             "It works in Philly, but not all over the city.",
-            "I\u2019ve used it so far in DC, LA, and SF. It was amazing from when I used it. Lane guidance is top notch and the maps also look super beautiful.",
-            "Yep, I think it\u2019s mainly for landmarks.\n\nTry it out for London: The London Eye, Buckingham Palace, Piccadilly Circus, Shakespeare\u2019s Globe and the Tate Modern, St Paul\u2019s Cathedral.",
+            "Ive used it so far in DC, LA, and SF. It was amazing from when I used it. Lane guidance is top notch and the maps also look super beautiful.",
+            "Yep, I think its mainly for landmarks.\n\nTry it out for London: The London Eye, Buckingham Palace, Piccadilly Circus, Shakespeares Globe and the Tate Modern, St Pauls Cathedral.",
             "Still 2 years and no update in Europe Czech Republic. What a shame",
             "I love that 3D. I wish I can change it to default.",
-            "It\u2019s worth pointing out that it\u2019s expanding further from city centers. There\u2019s a shocking amount of New England that has the road/highway lanes last time I was up there, not even near major cities. Same around Baltimore/washington.",
-            "Yes we all have it if you have Apple Maps. It\u2019s just available in select cities:\n(I just loaded up that casino theatre and Fenway park on Boston, both have 3D models)\nAtlanta, GA\nBerlin, Germany\nBoston, MA\nChicago, IL\nHamburg, Germany\nLas Vegas, NV\nLondon, United Kingdom\nLos Angeles, CA\nMelbourne, Australia\nMiami, FL\nMontr\u00e9al, Canada\nMunich, Germany\nNew York, NY\nParis, France\nPhiladelphia, PA\nSan Diego, CA\nSan Francisco Bay Area, CA\nSeattle, WA\nSydney, Australia\nToronto, Canada\nVancouver, Canada\nWashington, DC"
+            "Its worth pointing out that its expanding further from city centers. Theres a shocking amount of New England that has the road/highway lanes last time I was up there, not even near major cities. Same around Baltimore/washington.",
+            "Yes we all have it if you have Apple Maps. Its just available in select cities:\n(I just loaded up that casino theatre and Fenway park on Boston, both have 3D models)\nAtlanta, GA\nBerlin, Germany\nBoston, MA\nChicago, IL\nHamburg, Germany\nLas Vegas, NV\nLondon, United Kingdom\nLos Angeles, CA\nMelbourne, Australia\nMiami, FL\nMontral, Canada\nMunich, Germany\nNew York, NY\nParis, France\nPhiladelphia, PA\nSan Diego, CA\nSan Francisco Bay Area, CA\nSeattle, WA\nSydney, Australia\nToronto, Canada\nVancouver, Canada\nWashington, DC"
         ]
     },
     "Always love to see some wackiness in these early beta iOS versions \ud83d\ude02\ud83d\ude02 ": {
@@ -45,7 +45,7 @@
         "content": "",
         "num_comments": 3,
         "comments": [
-            "That\u2019s just the translation key. They didn\u2019t put any actual texts so it defaults to that.",
+            "Thats just the translation key. They didnt put any actual texts so it defaults to that.",
             "r/iosbeta",
             "r/softwaregore"
         ]
@@ -57,16 +57,16 @@
         "content": "",
         "num_comments": 23,
         "comments": [
-            "It\u2019s a glitch that does not have a fix. The only way to fix it is to reset your phone. This happened to a couple users in my organization. We have to wipe the phone every time.",
+            "Its a glitch that does not have a fix. The only way to fix it is to reset your phone. This happened to a couple users in my organization. We have to wipe the phone every time.",
             "iOS cache creep. Cache builds up whenever you use an app yet iOS is never advanced enough to allow clearing.",
             "do you use carplay? I have the same issue. found no solution",
             "Happened with Google Drive on mine. Over 16gb of data for some reason. Just tap on the app, tap offload and then reinstall it. I did it on mine, and Google Drive is now down to 5gb of data.",
-            "bro just delete and re-download isn\u2019t it that simple ?",
+            "bro just delete and re-download isnt it that simple ?",
             "Just delete the app and reinstall it",
             "Lol, delete the app and use google maps. Its better and quick imo",
             "They wouldn't let you clear cache so app will run smoothly.",
             "Did you download maps for offline use ?",
-            "Yet another reason we need a clear cache option. \n\nBut Apple being shits, won\u2019t do it."
+            "Yet another reason we need a clear cache option. \n\nBut Apple being shits, wont do it."
         ]
     }
 }

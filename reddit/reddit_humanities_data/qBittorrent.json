@@ -21,7 +21,7 @@
             "Wish we could transfer our stats to different devices. I had to do a fresh install and lost my 20tb up and 6tb down :(",
             "ctri i on qbittorrent on windows",
             "how? i'd love to know",
-            "I wish I could do this but randomly hard links will fail and I can\u2019t have that storage just keep building so I\u2019ve set my share ratio to 5 or 1 month, whatever comes first. \n\n\nI\u2019ll try to troubleshoot why hard links will randomly fail so I can set it to infinity eventually, but until then, at least I\u2019m doing something",
+            "I wish I could do this but randomly hard links will fail and I cant have that storage just keep building so Ive set my share ratio to 5 or 1 month, whatever comes first. \n\n\nIll try to troubleshoot why hard links will randomly fail so I can set it to infinity eventually, but until then, at least Im doing something",
             "by backing up your appdata folder and taking it with you. if you're on windows, you need your local appdata and roaming appdata.\n\nc:\\users\\user\\appdata\\roaming\\qbittorrent \nhas configs for your categories, watched folders, rss feeds. qbittorrent.ini is all of your settings, and qbittorrent-data is your statistics file.\n\nc:\\users\\user\\appdata\\local\\qbittorrent\nBT_backup has your active torrents with all of their individual stats and resume files. \n\nif you back up these 2 folders, reinstall os, then reinstall qbit and repopulate your appdata folders with what was in them before the wipe, it will be as if nothing changed. all settings, active transfers, stats. EVERYTHING comes back!",
             "you can do this"
         ]

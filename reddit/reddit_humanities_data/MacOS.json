@@ -12,7 +12,7 @@
             "one day i'll risk this update, one day",
             "Quite sad to see the first feature announced was ... screensavers.",
             "Common! Correct your spelling. It's Sonoma, not Senoma.",
-            "Sonoma stinks. Avoid installing it at all costs. It\u2019s deeply unstable.",
+            "Sonoma stinks. Avoid installing it at all costs. Its deeply unstable.",
             "someone explain the spelling error",
             "the widget feature from iPhone apps to Mac is cool.",
             "A pedant writes: it's Sonoma."
@@ -27,13 +27,13 @@
         "comments": [
             "If you've never used a better screenshot app, you don't know what you are missing. For example, Skitch is way ahead of built-in tools, even though it has not been updated for 4 years.",
             "It's great that the built-in tools cover your bases but not everyone's workflow is the same. One-size-fits-all solutions are rarely that.\n\nSo to insinuate anyone using third party tools is a \"*Windows switcher who just doesn't know*\" how good the built in mac tools are is just dismissive and arrogant. I could just as easily suggest they might know the limitations of those tools better than you... But the reality would be - you just have different needs.",
-            "Can the built-in screenshot tool draw red rectangles or circles around parts of the screenshot, underline things, redact or blur parts of it? I work in cybersecurity and my reports have some company\u2019s worst details in screenshots and that stuff has to be annotated and sensitive information blurred out.",
+            "Can the built-in screenshot tool draw red rectangles or circles around parts of the screenshot, underline things, redact or blur parts of it? I work in cybersecurity and my reports have some companys worst details in screenshots and that stuff has to be annotated and sensitive information blurred out.",
             "I use Greenshot. Works great for my job",
             "For video  capture free OBS is superior to any Apple tools - it is industry standard with extra features  like video cards capture.... multi sources...",
             "You don't have to be so judgemental as you see from the comments you have little idea about what good screenshot tools are",
             "CleanShot X is fantastic for video recordings with pointer highlights and uploading to a cloud quickly.",
             "I use shottr mainly for its floating window",
-            "It\u2019s a lot of windows users who aren\u2019t used to having good applications built in.",
+            "Its a lot of windows users who arent used to having good applications built in.",
             "The only thing that I don't like about using the Mac's built-in screen shot mechanisms is that when creating a screen shot within Photoshop, is that the Ps brush is never captured showing the brush tip. The generic cursor is captured. Most of my screen shots involve showing things using Ps at the Ps subs. It'd be nice to have a mechanism for showing the brush tip rather than the generic cursor arrow."
         ]
     },
@@ -46,14 +46,14 @@
         "comments": [
             "Am I the only one hoping for this feature?",
             "Because the interest is so low.\n\nJust use hotspot from your phone.",
-            "I\u2019m guessing their analytics tells them there\u2019s not enough interest.",
-            "Because Apple hasn\u2019t added the required hardware.\n\nThere are rumors they have done some internal testing but for whatever reason haven\u2019t added this to production",
+            "Im guessing their analytics tells them theres not enough interest.",
+            "Because Apple hasnt added the required hardware.\n\nThere are rumors they have done some internal testing but for whatever reason havent added this to production",
             "So they can sell more iPhones which, by the way, are designed for such.",
             "So they can sell more iPhones which, by the way, are designed for such.",
             "Writing this as I've been using my iPhone as hotspot for the past 6 hours, it'd be an unnecessary cost.",
             "If I have my laptop, I have my phone. No need for me personally.",
-            "SIM card alone is not enough for cellular network access if that\u2019s what you\u2019re assuming. It requires cellular modem designed into motherboard and the device needs to have antenna to send/receive signals which needs to be properly placed on the device to ensure least interference etc..",
-            "The same reason you can\u2019t get a SIM on an Apple laptop \u2014 no hardware to use it. It quite probably could be an antenna placement problem that Apple hasn\u2019t figured out to their satisfaction. Or it could be a marketing reason like not enough demand for it."
+            "SIM card alone is not enough for cellular network access if thats what youre assuming. It requires cellular modem designed into motherboard and the device needs to have antenna to send/receive signals which needs to be properly placed on the device to ensure least interference etc..",
+            "The same reason you cant get a SIM on an Apple laptop  no hardware to use it. It quite probably could be an antenna placement problem that Apple hasnt figured out to their satisfaction. Or it could be a marketing reason like not enough demand for it."
         ]
     },
     "Wondering if there's an add-on like libredirect for safari?": {
@@ -76,13 +76,13 @@
         "content": "Of course, there are dozens of them, and that's the problem - which would be the best one for me?  I'm clearly in the same position as lots of other people on this and similar forums: I started using Unix way back on the good old PDP-11, have used various flavours of it along the way both at work and at home, have been using mainly Debian since Oracle took Solaris over.  I'm retired now and getting to the point where I really just want something that works, hence looking at switching from Debian to MacOS.  I've set up an aging Mac Mini running Monterey to try things out and decide if that's the way to go.\n\nOne of the things I've realised is that instead of simply trying to duplicate X11/KDE behaviour on the Mac, it would be good to know how MacOS natively handles various tasks.  I've found a couple of things in my quest to get things working the way I'm used to where I would never have thought of tackling the problem that way, but it's just as good, and as it's native to the OS, not a bad thing to adopt it.\n\nI've had a brief look at a few \"Getting Started on a Mac\" guides but most assume either that you're coming from Windows (which I have never used other than trivially and really don't know at all) or that you're a complete idiot - frequently both.  Anyone found anything useful out there?  I'd prefer something I can read rather than a youtube video.  It doesn't necessarily have to be free or even online, I'd be perfectly happy to buy a book (though I am looking for a fairly straightforward guide, not the O'Reilly 800 page manual that covers MacOS's most obscure nooks and crannies, though maybe not the obvious bits).\n\nThanks in anticipation!",
         "num_comments": 7,
         "comments": [
-            "Have you tried just YouTubing like \u201cgetting started macOS\u201d and filtering for +20min videos?",
+            "Have you tried just YouTubing like getting started macOS and filtering for +20min videos?",
             "Wow, PDP-11. How many people even know what that was without looking it up. I too have been around for more spins around the sun than I care to consider. I went over to macOS maybe 3 years ago after 35 years on Windows. It's different, but after a month you just get used to it. And coming from Linux, you will probably find it pretty similar.",
             "As an example, while trying to work out how to open extra iTerms (rather than just being pointed at the one already running) I found out about Automator.  This is clearly useful, but I never looked up how to use it, because I didn't know about it.  I'm looking for something that would introduce me to useful ways of doing things on a Mac that I wouldn't necessarily know about because they are different to what I would find on Debian.",
             "Yes I have tried that, but the odd thing I have dipped my toe into has taken about 10 minutes to show you how to change the location of the dock.  Longer on youtube often means even slower.  If you know of any specific good ones, I'd be happy to try them, though I would generally prefer something written as its easier to refer back to.",
             "You are right, Apple support is very good, but I have found that it gives you the answers to the questions you knew to ask.  I have not yet seen any really good youtube videos.  I have found a couple of answers to questions on MacRumours so I will peruse the site a bit more thoroughly.",
             "I am confident you would find something suitable among this series of books:\n\n[Take Control Books](https://www.takecontrolbooks.com)\n\nI have perused several of them, they are competent and to the point.",
-            "Honestly, between official Apple Support on their [website](https://support.apple.com/en-ca/guide/mac-help/mchl3a2c2cb0/mac) and [YouTube](https://youtube.com/playlist?list=PLIl2EzNYri0emtB96zErQCSnoNf_VOdLd&si=46z6kdJlXby6wCuK), those are the best places to start. Also, search [MacRumors.com](https://MacRumors.com) for anything you can\u2019t find the answer to."
+            "Honestly, between official Apple Support on their [website](https://support.apple.com/en-ca/guide/mac-help/mchl3a2c2cb0/mac) and [YouTube](https://youtube.com/playlist?list=PLIl2EzNYri0emtB96zErQCSnoNf_VOdLd&si=46z6kdJlXby6wCuK), those are the best places to start. Also, search [MacRumors.com](https://MacRumors.com) for anything you cant find the answer to."
         ]
     }
 }

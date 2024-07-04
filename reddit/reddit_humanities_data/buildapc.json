@@ -45,14 +45,14 @@
         "num_comments": 36,
         "comments": [
             "You'd have to test it on 3d cache and 14900 to know for sure",
-            "Yes, the KS is the best you can get. Feel free to disable the E cores and OC it.\u00a0",
+            "Yes, the KS is the best you can get. Feel free to disable the E cores and OC it.",
             "14900ks. It's possible, bit unlikely that extra cache could help in which case the 7800x3d would be better, but unless you have the money to experiment with both, the 14900ks would be a safer bet.",
-            "It really depends on what your workload is. Is it purely computational, in which case you'll definitely want the program to fit in cache, but which cache will depend on the size of your program. If it will only fit in ram then maybe ram speed or latency is more important. Does it include floating point calculations? We need more info...\u00a0",
+            "It really depends on what your workload is. Is it purely computational, in which case you'll definitely want the program to fit in cache, but which cache will depend on the size of your program. If it will only fit in ram then maybe ram speed or latency is more important. Does it include floating point calculations? We need more info...",
             "just out of curiosity, what is your cooling solution?",
             "Is there not a benchmark for that programme?",
             "I don't think I can test without buying",
-            "This.  Without knowing what your application likes there\u2019s nothing for it but to test it.  A higher cache hit percentage can easily make up the clock speed difference if the application is architected in a way that will get those cache hits.",
-            "There is zero chance that a 3D cache CPU will be better in single threaded performance.\u00a0",
+            "This.  Without knowing what your application likes theres nothing for it but to test it.  A higher cache hit percentage can easily make up the clock speed difference if the application is architected in a way that will get those cache hits.",
+            "There is zero chance that a 3D cache CPU will be better in single threaded performance.",
             "Most likely a synthetic test would resemble the custom productivity software that most likely isn't caching a lot. It's probably just number crunching over a big data set were your don't have a lot of stuff to cache. I might be wrong though, I don't know how cpu architecture would affect that."
         ]
     },
@@ -85,7 +85,7 @@
             "People use dual monitors all the time to play games on one, while web browsing, watch videos, check guides, etc on the other.",
             "Assuming that you're only playing games on one monitor at a time, no.",
             "Multiple monitors does not have a significant impact on graphical performance, unless you run intensive applications on both the monitors. \n\nYour question is essentially \"whats the performance difference between a 4k and 1080p monitor\".",
-            "I have 2 4K monitors and 1 1440p 240hz monitor and don\u2019t have any performance loss",
+            "I have 2 4K monitors and 1 1440p 240hz monitor and dont have any performance loss",
             "If it's something like youtube on the other screen then there will be very little difference in fps. Try it out. If your gaming screen maced out at 100 GPS then u may experience zero FPS loss.",
             "Yeah about half the resolution lol",
             "You'll be fine. And if, by chance, you also have iGPU - plug your secondary monitor into it (and enable it) - it'll void any possible problems with multi monitor setup and also pass arbitrary tasks to other gpu (liked playing YouTube or drawing desktop) thus freeing your main gpu for the game you play.",

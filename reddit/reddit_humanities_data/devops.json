@@ -10,7 +10,7 @@
             "I find this interesting, just a new DevOps here with a background in Linux systems administration this is a helpful one for me especially the roadmap.",
             "Forgive my ignorance, but I'm interested as to why this pinned item is tagged as NSFW?",
             "My first time in this subreddit, and I'm happy that I have and have read all of the books in that page.\n\nI'd also love to add \"The Kubernetes Bible\" to that list!",
-            "Have only had a chance to briefly skim the roadmap but this is exactly what I\u2019ve been looking for in my life.",
+            "Have only had a chance to briefly skim the roadmap but this is exactly what Ive been looking for in my life.",
             "For someone who is a student / new grad, and isn't yet working in a professional team environment, how would you recommend they practice and gain DevOp skills while they job hunt?",
             "Would like to add some reading material. Please let me know if you know of some other books that should be added!\n\n* Accelerate: The Science of Lean Software and DevOps",
             "you MUST listen to the Phoenix project audio book!",
@@ -64,11 +64,11 @@
         "num_comments": 6,
         "comments": [
             "For just an MVP, I would deploy to Digital Ocean. The cheapest droplet can go a long way.",
-            "AWS & Azure do offer free tier for a year if you need limited services, for small projects free tier is well suited \u270c\ufe0f",
-            "I agree. Aim for lean & simple.\n\nYou\u2019ll have the opportunity to think about further steps when it\u2019s time to scale.\n\n\nGood luck!",
+            "AWS & Azure do offer free tier for a year if you need limited services, for small projects free tier is well suited ",
+            "I agree. Aim for lean & simple.\n\nYoull have the opportunity to think about further steps when its time to scale.\n\n\nGood luck!",
             "DigitalOcean or Hetzner",
-            "Vultr if you truly need an on demand cloud.\u00a0\n\n\nIonos or another dedicated server provider if you only need a few servers to test your ideas. It's MUCH cheaper to go with dedicated server providers than on demand cloud instances. 10x+ cost savings.",
-            "AWas and Azure for private Projects are ridiculously expensive.\nTwo exceptions\u00a0\n1. You have access to the free tier\n2. You can built it all on serverless infrastructure.\n\n\nIf you have no need for \"cloud\" the just rent some virtual server from other providers. 10\u20ac a Month will get you a sloid machine."
+            "Vultr if you truly need an on demand cloud.\n\n\nIonos or another dedicated server provider if you only need a few servers to test your ideas. It's MUCH cheaper to go with dedicated server providers than on demand cloud instances. 10x+ cost savings.",
+            "AWas and Azure for private Projects are ridiculously expensive.\nTwo exceptions\n1. You have access to the free tier\n2. You can built it all on serverless infrastructure.\n\n\nIf you have no need for \"cloud\" the just rent some virtual server from other providers. 10 a Month will get you a sloid machine."
         ]
     },
     "Is LPIC-1 worth it?": {

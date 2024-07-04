@@ -46,14 +46,14 @@
         "comments": [
             "If you want to game on Linux I wouldn't pick Mint personally, because Kernel, MESA and so on are always fairly dated. In your case you could look at Fedora (KDE) and also openSUSE Tumbleweed, if you want to stay on a rolling distro.",
             "I think Fedora may be a good option for you, stable but also gets updated frequently.",
-            "Mint. Honestly. I'm happy I switched to it.\u00a0",
+            "Mint. Honestly. I'm happy I switched to it.",
             "Yeaa that's what I was thinking, I remember it being really reliable back when I used it and never had too many issues with nvidia drivers either",
             "Yeahh my mate uses openSUSE tumbleweed aswell, I've been meaning to have a look at it for a while tbf and fedora is another I've been meaning to try aswell",
             "Yeaaa, I'll defo check it out, thank you :)",
             "Yeaa it was the distro I ran on my own system as a daily so I'm quite familiar with it, and used to love it",
             "Yeaa it was the distro I ran on my own system as a daily so I'm quite familiar with it, and used to love it",
-            "I have a ryzen 7 4800h with a 2060 in this \"new\" laptop and since i won't really be playing massively demanding games on it I'm pretty much free for any distro. I've just been having alot of issues getting proprietary nvidia drivers for 20 series cards like both on this laptop and my daily system at home so I've deemed it the right time to distro hop \ud83d\ude05",
-            "Why'd you \"used to love\" Mint? What changed for you at the time? Curious.\u00a0"
+            "I have a ryzen 7 4800h with a 2060 in this \"new\" laptop and since i won't really be playing massively demanding games on it I'm pretty much free for any distro. I've just been having alot of issues getting proprietary nvidia drivers for 20 series cards like both on this laptop and my daily system at home so I've deemed it the right time to distro hop ",
+            "Why'd you \"used to love\" Mint? What changed for you at the time? Curious."
         ]
     },
     "guy's how is android MIT Licence when linux is GPLed?": {
@@ -86,7 +86,7 @@
             "Ok. Then doing that from the command line, e.g. using `dd` or even `cp` should work. Of course you have to make absolutely sure you're using the correct device file. Otherwise you might be overwriting your computer's internal drive.",
             "Besides Balena Etcher which has already been mentioned, there's also the option of the MX Linux/antiX live USB maker utility. It's pretty good, and [also available on AppImage](https://mxlinux.org/blog/live-usb-maker-tool-now-available-as-an-appimage/) to use with other distros. I don't know if [the .deb package](https:///download.html?project=home%3Amx-packaging&package=mx-live-usb-maker) will work on Ubuntu, but it might.",
             "Assuming you are trying to create a bootable flash drive from a .ISO (not mount it), re-read [Get started . Ventoy](https://www.ventoy.net/en/doc_start.html).  Ventoy is \"the\" way to do this task nowadays almost always, IMHO.  Create a bootable ventoy flash drive, just copy one or more ISOs to the flash drive, boot ventoy, choose your ISO, job done.\n\nTo create the bootable ventoy flash drive, I'd go with the terminal frankly (less moving parts), but ventoy has GUIs, too. See the \"For Linux - GUI mode\" section of the Get started doc.\n\nBTW, I like to use \"gnome-disk-utility\" for many disk and partition level tasks (aka, \"Disks\" in the launcher after installed). I've not made a bootable drive with it recent, but [Create USB bootable disk using GNOME Disks | Unixmen](https://www.unixmen.com/create-usb-bootable-disk-using-gnome-disks/) says how. Also, if you need to know things for the Ventoy CLI like the device name, GNOME Disks makes that easier, too.  `sudo apt install gnome-disk-utility` to get going with that great tool (or install from Discover).",
-            "\n**\u273b** Smokey says: always mention your distro, some hardware details, and any error messages, when posting technical queries! :)\n\n^Comments, ^questions ^or ^suggestions ^regarding ^this ^autoresponse? ^Please ^send ^them ^[here](https://www.reddit.com/message/compose/?to=Pi31415926&subject=autoresponse+tweaks+-+linux4noobs+-+programs).\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/linux4noobs) if you have any questions or concerns.*"
+            "\n**** Smokey says: always mention your distro, some hardware details, and any error messages, when posting technical queries! :)\n\n^Comments, ^questions ^or ^suggestions ^regarding ^this ^autoresponse? ^Please ^send ^them ^[here](https://www.reddit.com/message/compose/?to=Pi31415926&subject=autoresponse+tweaks+-+linux4noobs+-+programs).\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/linux4noobs) if you have any questions or concerns.*"
         ]
     }
 }

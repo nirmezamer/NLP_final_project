@@ -15,7 +15,7 @@
             "What's the difference between this sub and r/homelab",
             "Is there a way to search posts within SelfHosted! using keywords?",
             "Im surprised n8n is not there",
-            "Currently I hosted for wordpress, and want to built forum for my running \ud83c\udfc3 community"
+            "Currently I hosted for wordpress, and want to built forum for my running  community"
         ]
     },
     "April Announcement - Quarter Two Rules Changes": {
@@ -31,7 +31,7 @@
             "I apologize that the moderation has been lacking recently. Real Life priorities have taken its toll on my personal efforts on this subreddit (hence why this post ended up being 2 weeks later than I had intended originally...)\n\nAny sincere thoughts on how this subreddit could be moderated better, or would you like me to try and infer based on your cynicism?",
             "Wow - I didn't come across the github repo.. Now they've got my attention, I'm much more intrigued!",
             "Ignore him. Small subs thrive with less heavy moderation. Yes, the same questions get reposted often. Sometimes there are nuances in the questions and sometimes there are interesting answers!\n\n\nIn general, the sub seems fine. There isn't too much noise and it's still helpful for people new to the hobby.",
-            "The best moderation is one you don't even notice.\u00a0\n\n\nThe biggest complainers seem to offer the least constructive benefit. At best, they are mildly entertaining",
+            "The best moderation is one you don't even notice.\n\n\nThe biggest complainers seem to offer the least constructive benefit. At best, they are mildly entertaining",
             "Since they started, they engaged the selfhoster and prosumer communities, giving support, promoting usage, even blog posts of how to deploy it into a home lab - and most importantly, they've kept that going... even recently adding new features such as the ControlD... then they've also supported OSS, and not only the client, but there is also full self-hostable alternative called Headscale, whilst not built or supported by Tailscale, then have been positive about it (rather than teying to shut it down)... taken all together, they've built up a huge amount of trust and support.\n\nIt also helps, they are available of every platform, from my phone, to my NAS, to my VPS with ARM cores - also there is huge amounts of documents and troubleshooting.available online.",
             "Quick update: the CEO is https://www.reddit.com/user/PeopleCallMeBob !\n\nI'm also part of the Pomerium team and will participate with answers when relevant.",
             "I'm assuming this is the Pomerium website: https://www.pomerium.com\n\n\nAt a quick glance it looks like a potential alternative to Cloudflare, it'll be interesting to see how they engage here, there website is unabashedly comparing itself to Enterprise focused tools, which typically market themselves to CTO's (who control the purse strings), rather than directly to the Sysadmin/Engineering teams..\n\n\nHopefully they'll look at the Cloudflare and Tailscale models, and see the benefits it's brought for everybody."
@@ -48,12 +48,12 @@
             "What do you do for shared storage?",
             "what do you actually do with this?",
             "I think my wife would divorce me. Where can I get those mini-PCs. ;-)",
-            "It looks like two of them are not numbered you should hang your head in shame \ud83d\ude02 \n\nHats off to you  on a nice mini cluster",
+            "It looks like two of them are not numbered you should hang your head in shame  \n\nHats off to you  on a nice mini cluster",
             "Ok, I'll bite. Why do you have 0% \"wine\"?",
             "Why have 12 mini instead of 1-2 powerful machines?",
             "How many units of energy does this consume on average?",
             "Don't you mean a \"k12s\" cluster? \n\nBadum tssss!",
-            "I'm so jealous. I'm struggling to get even 3. \ud83d\ude06\n\nWhat are the specs on those? I'm also going to build a k8s cluster."
+            "I'm so jealous. I'm struggling to get even 3. \n\nWhat are the specs on those? I'm also going to build a k8s cluster."
         ]
     },
     "Unpopular opinion: I don't need new features; I just want everything to function as intended, be rock solid, and work reliably...": {
@@ -72,7 +72,7 @@
             "Hey this is not unpopular at all!",
             "Literally why I can't use Immich. It already does everything it needs to, but they keep adding stuff at the expense of stability",
             "Some times .. the people who create these tools on their own time are scratching a personal itch and have needs and wants that are different from you.",
-            "If a company puts together a product that is rock solid and only maybe gets security updates, then it could maybe be profitable. But in today\u2019s investment culture it\u2019s not enough to be profitable, a company that is not increasing its user base year over year is considered a failure. In fact, it\u2019s common practice for tech companies to be unprofitable for years while they grow their user base, propped up by investor money. Additionally in tech, hype is almost more important than the fundamentals. If you make a product and all your competitors are adding the newest hype like NFTs or AI and you\u2019re not, then you\u2019ll be considered a failure, regardless of whether or not any actual users want these features."
+            "If a company puts together a product that is rock solid and only maybe gets security updates, then it could maybe be profitable. But in todays investment culture its not enough to be profitable, a company that is not increasing its user base year over year is considered a failure. In fact, its common practice for tech companies to be unprofitable for years while they grow their user base, propped up by investor money. Additionally in tech, hype is almost more important than the fundamentals. If you make a product and all your competitors are adding the newest hype like NFTs or AI and youre not, then youll be considered a failure, regardless of whether or not any actual users want these features."
         ]
     },
     "Self hosting a password manager - Vaultwarden - Do I, Don't I ?": {
@@ -88,7 +88,7 @@
             "Not the point of the post I realise but as I had similar concerns I pay for Proton for VPN and use their password manager. I like their email service and need their VPN anyway for my Linux distro stuff so seemed like a logical solution.",
             "I keep a kdbx file in a cloud service(and multiple copies as backups) and different clients on different platforms, like Strongbox, MacPass and KeePassXC.",
             "Yes do it , why wait ???",
-            "I\u2019ve contemplated it, as I\u2019m on Bitwarden right now, but I\u2019ve not seen enough of a benefit for me vs. free tier personal Bitwarden.\nI might look at it eventually, but I\u2019d rather focus on stuff that is less critical if it fails (yes yes make backups of the vault lol).",
+            "Ive contemplated it, as Im on Bitwarden right now, but Ive not seen enough of a benefit for me vs. free tier personal Bitwarden.\nI might look at it eventually, but Id rather focus on stuff that is less critical if it fails (yes yes make backups of the vault lol).",
             "A simpler solution would be to use KeePassXC and always keep the pw database file local, never on cloud.  Keep good backups of it.",
             "With the bitwarden addon in your browser of choice, it will ask to store passwords for many sites (but not all, tho) like the browser asks to store it.",
             "I use Microsoft and Authenticator. I can access from Edge in my devices as well as my iPhone via Authenticator (which I also use for 2FA).\n\nSelf-hosting is good, but I do have the same concerns as you. I suspect I am much more likely to break things, especially something critical, even if temporarily, than Microsoft."

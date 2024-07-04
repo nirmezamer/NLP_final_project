@@ -23,7 +23,7 @@
             "I may be an exception but I started my Linux journey ~2015 on Arch. Had an opensuze for 3 weeks and started trying to install arch. After ~1 week of tinkering I had gpu & hibernation working on my laptop.",
             "I won't lie, I clicked the thread because it was marked MOD and opening a dialog is something you could Google, and I wondered why a mod of the Arch Linux subreddit didn't do that first.\n\nI've realized English is funny sometimes.",
             "> there isn't much that one can do to \"quickly\" and \"politely\" acquaint such newcomers to the nature of Archlinux.\n\nI think this is a valuable goal, and it is important for new users if they wish to continue using Arch long-term. Your concerns in the first paragraph are also well-put and of course shared by us too. We'll see what we can do to improve on both aspects.",
-            "Hey, if we can\u2019t even TALK about things, how are we going to change anything? \n\nYou\u2019re the exact sort of person that SHOULD be part of the conversation to make sure every bodies needs are seen."
+            "Hey, if we cant even TALK about things, how are we going to change anything? \n\nYoure the exact sort of person that SHOULD be part of the conversation to make sure every bodies needs are seen."
         ]
     },
     "The nvidia 555.58-2 driver has now been added to the Extra repository.": {
@@ -64,12 +64,12 @@
         "num_comments": 9,
         "comments": [
             "Works as well as any other linux distro, provided you have the same packages and configurations.",
-            "CS2 works really well for me with an nvidia card. It\u2019s basically the same as on windows for me when using X11. On wayland it wasn\u2019t really usable last time i tried.",
+            "CS2 works really well for me with an nvidia card. Its basically the same as on windows for me when using X11. On wayland it wasnt really usable last time i tried.",
             "Doesn't CS2 have a native Linux version? CS:GO did.",
             "CS:GO 2 is offered natively for Linux. Proton is therefore not necessary.",
             "Everything works perfectly on gnome Wayland. I uninstalled all xorg related packages leaving only xkbd and xorg-wayland and it's dependencies.\n\n\nPCSX2(everything), Yuzu(zeldas, It takes two, dark souls remastered, etc), Steam (CS, teackmania,alien swarm, call of duty etc) everything runs perfectly on Linux gnome with Wayland.",
-            "As someone who games a lot on Mac(and thus - Wine): If the game has a kernel level anti-cheat/an anti-cheat that cannot be bypassed, the game will 100% not run. For example, Valorant. \n\nCS2 should run through proton(I mean, it works via GPTK on macOS), Genshin will run with the help of An anime game launcher.\n\nBut I digress. I haven\u2019t really tried anything gaming related on my Linux machine, so take my words with a grain of salt.",
-            "Hello Ashen one. I am a Bot. I tend to the flame, and tend to thee. Do you wish to hear a tale?\n\n> *\u201cThe beings who possess these souls have outlived their usefulness, or chosen the path of the wicked. Let there be no guilt\u2014let there be no vacillation.\u201d* - Kingseeker Frampt\n\nHave a pleasant journey, Champion of Ash, and praise the sun \\\\[T]/",
+            "As someone who games a lot on Mac(and thus - Wine): If the game has a kernel level anti-cheat/an anti-cheat that cannot be bypassed, the game will 100% not run. For example, Valorant. \n\nCS2 should run through proton(I mean, it works via GPTK on macOS), Genshin will run with the help of An anime game launcher.\n\nBut I digress. I havent really tried anything gaming related on my Linux machine, so take my words with a grain of salt.",
+            "Hello Ashen one. I am a Bot. I tend to the flame, and tend to thee. Do you wish to hear a tale?\n\n> *The beings who possess these souls have outlived their usefulness, or chosen the path of the wicked. Let there be no guiltlet there be no vacillation.* - Kingseeker Frampt\n\nHave a pleasant journey, Champion of Ash, and praise the sun \\\\[T]/",
             "I use AMD cards purely for their Linux support, but other than that I had no issues running most of my games. I've played hours of Valheim, NMS, ArmA III and Left 4 Dead 2 on Arch KDE, all online. All of these don't use any kernel interleaved anti cheat or anti piracy mechanisms so your mileage may vary.",
             "https://www.reddit.com/r/linux_gaming/s/Ma0UXVTrx3"
         ]

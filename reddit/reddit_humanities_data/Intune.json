@@ -18,9 +18,9 @@
         "comments": [
             "Check the password replication policy on the rodc. If the user is in a built in group other than domain users, the default policy is deny.",
             "Universal Print is now we solved this.",
-            "Yes i can ping the domain! Face recognision and fingerprint auth. Are working to sign on the laptop.\n\nAzure ad kerberos read only domain controller has been created in azure ad\u2026",
+            "Yes i can ping the domain! Face recognision and fingerprint auth. Are working to sign on the laptop.\n\nAzure ad kerberos read only domain controller has been created in azure ad",
             "User is also a Domain user. Password replication has value allow",
-            "Nice solution but it wil cost a Lot of extra money\u2026 \ud83d\ude0b",
+            "Nice solution but it wil cost a Lot of extra money ",
             "Did you create a config in InTune to tell the devices to use it? There is a CSP or I think it's in the catalog now under windows hello.",
             "Are they also in any of the groups where the policy is deny ?",
             "Well it's free with our licensing. And I have thousands of print jobs running through it weekly without issue.",
@@ -36,7 +36,7 @@
         "num_comments": 2,
         "comments": [
             "Thank you, so in other words the user starts with a sign in, if that tenant then have a corp identifier it enrolls.\n\nIf the serial number is added to another tenant it would still not enroll as the tenant and upn does not match",
-            "RE: Security question\n\nAs it\u2019s a user-led provision, you still need a username/password to start the enrolment. It then looks up the serial number in the tenant the user is attached to in order to validate it as a corporate device. \n\nThey will probably have to introduce a mechanism when/if they look to bring in device pre-provisioning. Obviously the mechanism with v1 is that you can only bind a hardware hash to a single tenant."
+            "RE: Security question\n\nAs its a user-led provision, you still need a username/password to start the enrolment. It then looks up the serial number in the tenant the user is attached to in order to validate it as a corporate device. \n\nThey will probably have to introduce a mechanism when/if they look to bring in device pre-provisioning. Obviously the mechanism with v1 is that you can only bind a hardware hash to a single tenant."
         ]
     },
     "OneDrive silent sign-in on Mac - help please": {
@@ -47,7 +47,7 @@
         "num_comments": 2,
         "comments": [
             "Thanks for the link! It is deployed through Intune.\nI deploy the built-in Microsoft 365 package as Required. This seems to include OneDrive.",
-            "With the asking for permission, if OneDrive is installed via the MDM it won\u2019t ask for permission.\n\nSee this blog as a reference. https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/inside-the-new-files-on-demand-experience-on-macos/ba-p/3058922"
+            "With the asking for permission, if OneDrive is installed via the MDM it wont ask for permission.\n\nSee this blog as a reference. https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/inside-the-new-files-on-demand-experience-on-macos/ba-p/3058922"
         ]
     },
     "Ransomware Recovery & Strengthening Logins: Is Windows Hello for Business & Passwordless a Good Fit?": {
@@ -57,12 +57,12 @@
         "content": "Hello everyone,\n\nMy new organization was recently hit by a ransomware attack. In response, they started resetting passwords for a few users and are now enforcing stricter requirements (longer, more complex passwords). This is a crucial step. However, I'm concerned about the burden of remembering and entering these new complex passwords for Windows login, VPN (SSO), applications, etc. Most of the users are working remotely, and devices are joined to the domain (HAADJ).\n\nI'm wondering if deploying Windows Hello for Business + passwordless login with MS Authenticator or FIDO2 security keys alongside a broad password reset would be a win-win solution. We would require a more complex passwords but would mitigate it by going passwordless.\n\nWould love to hear your thoughts! Should we prioritize a rapid and broad password reset and then followed by a gradual rollout of WHfB and then phone/FIDO2 login options? \n\nThanks in advance for your insights!",
         "num_comments": 6,
         "comments": [
-            "We are so heavily into WHfB with face, pin or FIDO2 being the only login methods (along with number matching push auth) that people are forgetting their passwords because they so rarely use them. \n\nIt\u2019s a good thing.",
+            "We are so heavily into WHfB with face, pin or FIDO2 being the only login methods (along with number matching push auth) that people are forgetting their passwords because they so rarely use them. \n\nIts a good thing.",
             "How were you randomed?  When it happened to me it was a bad link that infected a pc then took the creds of a help desk person in the SAM file",
-            "Good idea to reset the passwords and just provide TAP if a user gets a new phone and needs to register the Authenticator app. That\u2019s what I am planning to do in case they saved their password somewhere insecure.\u00a0",
+            "Good idea to reset the passwords and just provide TAP if a user gets a new phone and needs to register the Authenticator app. Thats what I am planning to do in case they saved their password somewhere insecure.",
             "Yes, all three of those options are passwordless and multi-factor.  \n\nWHfB - pin/biometric + Windows device\n\nAuthenticator app - pin/biometric + mobile device \n\nFIDO Key - pin/biometric + FIDO key \n\nAll are much better forms of authentication over long complex often changing passwords",
             "To add to this; set complex passwords, forget them, set passwords to never expire and start using TAP.\n\nO, and move away from that silly hybrid join stuff ...",
-            "I\u2019m just starting to roll out WHFB. It took a while to iron out the issues but now it\u2019s working great. I started out deploying Hybrid joined computers to see how well it does on the domain network. Now I\u2019m deploying Entra ID computers. It seems to me the users have a better experience with WHFB + SSO if they on Entra ID joined devices.\n\nOh\u2026BTW - if you\u2019re going SSO for VPN, I would suggest for you to restrict users to only use Phish resistant MFA methods. You can set this up in Microsoft Conditional Access."
+            "Im just starting to roll out WHFB. It took a while to iron out the issues but now its working great. I started out deploying Hybrid joined computers to see how well it does on the domain network. Now Im deploying Entra ID computers. It seems to me the users have a better experience with WHFB + SSO if they on Entra ID joined devices.\n\nOhBTW - if youre going SSO for VPN, I would suggest for you to restrict users to only use Phish resistant MFA methods. You can set this up in Microsoft Conditional Access."
         ]
     }
 }

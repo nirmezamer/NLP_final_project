@@ -13,7 +13,7 @@
             "I am trying to install pillow (using pip), but I keep getting \"\\[WinError 87\\] The parameter is incorrect\". Even trying to use something like easy\\_install didn't work and gave me \"future feature annotations not defined\". Is there any way I can fix this issue, or any other way to install pillow? \n\nI used the following prompt: pip install pillow",
             "is learning Python too much for a 15 y/o ?",
             "No, either keep track manually or append to a list.",
-            "Geoparquet? : edit you aren\u2019t actually storing geojson or the like, so you can use normal parquet",
+            "Geoparquet? : edit you arent actually storing geojson or the like, so you can use normal parquet",
             "It would help a lot if you showed us what you typed in at the CMD prompt.",
             "It looks like you are typing the command into the python IDLE prompt (`>>>`).  You should type the command into a commandline prompt.  Either a shell prompt or CMD, depending on your operating system."
         ]

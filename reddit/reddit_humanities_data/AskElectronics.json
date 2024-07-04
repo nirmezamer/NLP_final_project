@@ -9,13 +9,13 @@
             "It's a ferrite rod antenna in an AM receiver.",
             "That thing actually IS the freekin' antenna",
             "Yet again Reddit makes me feel old.",
-            "AM broadcast band radio is such a low frequency that \u2018normal\u2019 antennas would be too big. So they use this instead which electrically is the right \u2018length\u2019 to perform \u2018well enough\u2019 for AM radio reception. They are directional, so if you\u2019re getting bad reception try reorienting the radio to see if you get better reception.",
+            "AM broadcast band radio is such a low frequency that normal antennas would be too big. So they use this instead which electrically is the right length to perform well enough for AM radio reception. They are directional, so if youre getting bad reception try reorienting the radio to see if you get better reception.",
             "When I see this kind of questions and I remember of this antenna with rotating mechanism in tube radio receivers....I'm really old.",
             "Ferrite antenna receiver.\n\nI had a little transistor radio that had one. It's pretty cool because the antenna is directional.",
             "This post makes me feel old AF.",
             "Back in the day we would have called it the tuning coil, the ferrite rod is the antenna. We used to wind our own when I was a lad.",
-            "Noob question: is the impedance of the antenna (reception) measurable as load on the transmitter side, if it works like a  \u201clong distance transformer\u201d?",
-            "It\u2019s a ferrite rod found in all radios"
+            "Noob question: is the impedance of the antenna (reception) measurable as load on the transmitter side, if it works like a  long distance transformer?",
+            "Its a ferrite rod found in all radios"
         ]
     },
     "If this circuit worked how it was supposed to, I should be reading something other than 0V if I place the probes here right?": {
@@ -27,12 +27,12 @@
         "comments": [
             "Is the 5VSB a DC voltage? If so you should see zero where the probes are. The transformer is a short at DC.",
             "That's likely a flyback power supply. The point you're measuring have high frequency pulses commonly around 50kHz. Most multimeters are too slow to measure this pulses but reading should not be zero, in my experience the values are random on my cheapo multimeter. An oscilloscope is best tool for this, the cheap $20 STM32 oscilloscope works too.",
-            "Let me guess, you drew a SMPSU the wrong way around? Or is this supposed to be a 50/60 Hz iron-core transformer?\n\nDepending on your meter you might measure everything from 0 to x V. If the PWM/SMPSU controller is **not** working you\u2019ll likely see 0 V.",
+            "Let me guess, you drew a SMPSU the wrong way around? Or is this supposed to be a 50/60 Hz iron-core transformer?\n\nDepending on your meter you might measure everything from 0 to x V. If the PWM/SMPSU controller is **not** working youll likely see 0 V.",
             "As mentioned, assuming supply is working normally, there should be a high frequency AC where your probes are eg between about 25kHz & 200kHz or so depending on supply design. A regular multimeter can't read this even on the AC range. You'd need a scope.\n\nAlso take care as the right side (mains side) of the supply will have lethal voltages...",
             "Is the oscilloscope ground connected to the same GND node as shown in the schematic?",
             "Place your black probe on the other side of D950, and make sure the meter is set to DC range.",
-            "Ya, it\u2019s DC standby voltage. From what I can tell the primary (right hand side) of the transformer is using AC",
-            "How do I make sure I\u2019m getting 5V out then?",
+            "Ya, its DC standby voltage. From what I can tell the primary (right hand side) of the transformer is using AC",
+            "How do I make sure Im getting 5V out then?",
             "This is the answer. Multimeters typically have LPFs on the front end so SMPS frequencies won't be read.",
             "What is the right side of the transformer connected to?"
         ]
@@ -63,7 +63,7 @@
             "As the others said: put a capacitor on the output of your rectifier. \n\nIf you measure >0 V while in DC measurement mode, then your rectifier is rectifying. Otherwise it should show 0 V in DC mode, as the AC waveform should cancel out.",
             "ah shit I thought I put that in there I'm using 1N4001. Awesome I do have some schottky diodes I'll have to try out.",
             "Okay I think I understand that but try explaining it like you're talking to a kindergartener. what do you mean >0v like a negative reading? or would my multimeter really throw up a less than symbol.",
-            "Any suggestions on multimeter? I'm using a AstroAI AM33D. I measured my output at the ends of the wires lol \ud83d\ude06. I got all three phases isolated when I'm reading the voltage and it's just from the \"negative\" and \"positive\" leads coming from my alternator. there's seems to be plenty of voltage coming out of each coil pack, as I fried an LED I hooked up to one of the coils outputs. I'll have to try putting a cap on there when I work on it next. Thanks for the input.",
+            "Any suggestions on multimeter? I'm using a AstroAI AM33D. I measured my output at the ends of the wires lol . I got all three phases isolated when I'm reading the voltage and it's just from the \"negative\" and \"positive\" leads coming from my alternator. there's seems to be plenty of voltage coming out of each coil pack, as I fried an LED I hooked up to one of the coils outputs. I'll have to try putting a cap on there when I work on it next. Thanks for the input.",
             ">0V means greater than zero volts",
             "oh shit that's right greater than; my dumb ass. yeah so I'm getting a .3v reading when I hook it up so somethings messed up with it?",
             "No, meters are slow so they always read some small amount of DC in the output. You can test this by *carefully* checking for DC in an AC wall outlet. You'll always \"see\" some DC there.",
@@ -78,7 +78,7 @@
         "content": "https://preview.redd.it/c2ygbqa6ii9d1.png?width=1920&format=png&auto=webp&s=f9ca07cb9bda49b9c34d1030517dab83516b5e8d\n\nwith decoupling capacitor\n\nhttps://preview.redd.it/3y0j7a6lii9d1.png?width=1920&format=png&auto=webp&s=80c7cde80dc3d4c6eb769cff98a5ca83a415fe71\n\nwithout decoupling capacitor",
         "num_comments": 1,
         "comments": [
-            "Well sure, your current sink is way too weak for a 32\u03a9 load.\n\nA full class B or AB output stage would work best if you want the average output voltage to be zero."
+            "Well sure, your current sink is way too weak for a 32 load.\n\nA full class B or AB output stage would work best if you want the average output voltage to be zero."
         ]
     }
 }

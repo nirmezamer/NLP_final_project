@@ -27,11 +27,11 @@
         "comments": [
             "Just chiming in to say that I'm always so impressed with the HA team's ability to consistently deliver, innovate and improve the \"product\". I have not seen a project that goes \"we are going to do x\" and then easily, measurably, consistently does so.  \nI religiously check for the latest version and am always excited by what's new. Thank you for making such a brilliant and open-standard product!",
             "definitely want to +1 for the dashboards to have definable permissions for users and guests. I'd really like visitors to my home to have a landing page when they connect to the wifi that tells them how to adjust stuff in their room and see temperatures and things. It should be a customized dashboard that I've made just for guests and they shouldn't be able to get to anything else. Also, this would be even more important for people have short-term rentals like airbnb homes - when a guest comes into the home and connects to wifi, they could be shown a customized dashboard with all the things they need, including the checkout instructions, and not be able to get to anything else in home assistant. And lastly, I think it would be very useful to give kids a dashboard for their controls without them having the ability to get to anything else other than what is on their dashboard. Just some basic permissions settings on dashboard pages would allow for all of these use cases and people could get really creative with them. Thanks HA!",
-            "Any hope for a full user friendly version? There's a dumpster out there now that I don't want to learn it a second time. I set up a dashboard a few years ago and I don't want to go through it again.\u00a0",
+            "Any hope for a full user friendly version? There's a dumpster out there now that I don't want to learn it a second time. I set up a dashboard a few years ago and I don't want to go through it again.",
             "It would be great to have a strategy built into automations for validation. As you start to scale up, it becomes difficult to know when a device failed to update within an automation, unless you experience it firsthand.",
             "That's not really much of a roadmap, is it",
             "For me this is total irrelevance, I need better things like **global variables that will work on trigger conditions and actions and variables that don't have local scope** so we can create better automation's but ya I understand flashy things like AI, Assistants and Dashboard drag and drop can be flashy for the beginners eye and attract more ppl.",
-            "Definitely what I\u2019m waiting for. \n\nEvery time Alexa turns on a light and\u2019s then \u201cDid you know\u2026\u201d\u2019s me, I want to throw it through the window.",
+            "Definitely what Im waiting for. \n\nEvery time Alexa turns on a light ands then Did you knows me, I want to throw it through the window.",
             "If they made a voice assistant similar to a Google nest with the screen and it just automatically could display selected dashboards of your choice that would be a game changer. No more tablet hacks or clunky programming of open hass. I would definitely pay 100$+ for something that worked seamlessly with HA!",
             "Where exactly are the good hardware choices to start using voice? Other than building your own (which I'm not against) I haven't seen anything \"good\" yet.",
             "Really do want to make the jump to this, but I don't want to spend hours getting everything working. Currently Alexa can do 90% of what I need, but if something was plug and play falling in with everything set up in HA I would be sold immediately."
@@ -47,10 +47,10 @@
             "This looks awesome. I am definitely going to install this, spend a few hours configuring the shit out of it, and then never use it again.",
             "Amazing! Will try soon, could be a sick combo with the mqtt-ps5 addon I use.",
             "Just installed it, super easy and works well. Awesome work!",
-            "Hi, I'm actually here because of your dashboard. I use the same one, and I was wondering if you could share your sidebar.yaml. \ud83d\ude03",
-            "This is pretty sweet. I wouldn\u2019t use any of those things aside from now playing :> but since I go between Nvidia shield and ps5, it would be cool to have the ps5 game being played displayed so I can have what\u2019s on the tv.\n\nNicely done good sir",
+            "Hi, I'm actually here because of your dashboard. I use the same one, and I was wondering if you could share your sidebar.yaml. ",
+            "This is pretty sweet. I wouldnt use any of those things aside from now playing :> but since I go between Nvidia shield and ps5, it would be cool to have the ps5 game being played displayed so I can have whats on the tv.\n\nNicely done good sir",
             "YOOOOO!!!! THIS IS AWESOME!!! Just installed it. Can't figure out how to get the trophy cards though",
-            "Out pretty much moments after getting my first PS5? That\u2019s a good sign right there",
+            "Out pretty much moments after getting my first PS5? Thats a good sign right there",
             "Would the now playing be a perfect time tracker? How long what game is played? Maybe with account info?",
             "+1 on this! This looks exactly like the sort of thing I NEED for absolutely no reason",
             "Thanks! Hope you enjoy it"
@@ -64,7 +64,7 @@
         "num_comments": 18,
         "comments": [
             "Conditionals.\nFor example, have a helper toggle that when on shows your video feed. Then set up your video feed cards to display when the toggle is on OR when the motion sensors detect motion. You could do the same thing for the meat/grill temps. Only show that card when the grill is in use by using a conditional badges on temp being anything other than NaN. I create a helper toggle. Then create a vertical stack card. Next, create an entities (not entity) card with the toggle entity for the top card in the stack. Finally, first the bottom card in the stack create a conditional card that only displays when the helper toggle is on. I leave the masonry view for the panel. However, if the page is only for a wider screen, I like the 2 column panel layout. In that scenario, I place all of my toggle helper entities in one card, and make separate cards for all the other stuff using the new visibility tab for each card. The visibility tab works like the conditional.",
-            "Automate all of it so the dashboard isn't needed? \ud83d\ude00",
+            "Automate all of it so the dashboard isn't needed? ",
             "You can hide stuff so that it only shows up when it's some state that you like to see it. Example when some is open or am alert. Saves space and less cluttered.",
             "Definitely conditional cards, anything that is an alert should only be on the screen when the alert is active. I have mine as individual cards that blink red so when they are active it gets your attention, then goes away when not.",
             "> You could do the same thing for the meat/grill temps. Only show that card when the grill is in use by using a conditional badges on temp being anything other than NaN\n\nThat is really a good one!",
@@ -84,8 +84,8 @@
         "comments": [
             "I can't wait to see how well they review.  I'm sure the Erics have it all figured out.  Hopefully they aren't shipping those from the US.",
             "Hopefully we get some stock in Australia",
-            "Man sold out already? I\u2019m curious to try too. 220v Asian countries need some smart switch love",
-            "No man, they haven\u2019t released pre sales yet. Hopefully it comes soon!"
+            "Man sold out already? Im curious to try too. 220v Asian countries need some smart switch love",
+            "No man, they havent released pre sales yet. Hopefully it comes soon!"
         ]
     }
 }

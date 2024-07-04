@@ -23,7 +23,7 @@
             "Yeah, I know it too. It doesn't have anything that the other tools on the list can't do, so it's not included.",
             "While these are nice challenges, they lie in the realm of modern cryptography. Not really helpfull with \"codes and codebreaking\" and stuff you encounter at r/codes.",
             "lemme try again english is not my first languange sorry, so theres this cipher that imply that it use A1Z26 but instead of normal A1Z26 its differentiate between upper case and lower case letter. so it will be A=1 B=2 ........ Z=26 a=27 b=28 c=29 and it continues until z=52.  space that usually have the value of 0 instead have the value of 53. is there a way to brute force it considering the cipher dont have any separator. I also only have really basic coding knowledge so I probably need some help setting stuff up",
-            "okay thats a good idea (Im sorry if its basic and Im supposed to think it myself, puzzle is one of my biggest weakness because I tend to overthink one thing unless Im high af) rn O and r keep appearing over and over in what I assume 3-4 long letter word. r in particular seems like the letter e or vowel.  \nif you dont mind me asking another question, the cipher that im talking about have other part where its composed of bunch of APL symbol and honestly it doesnt make any sense I wont be sending the full cipher for obvious reason it have bunch of random symbols like \u236e \u2372 \u2369 \u237b \u2379 \u238c I want to assume I to sum their unicode or something like that"
+            "okay thats a good idea (Im sorry if its basic and Im supposed to think it myself, puzzle is one of my biggest weakness because I tend to overthink one thing unless Im high af) rn O and r keep appearing over and over in what I assume 3-4 long letter word. r in particular seems like the letter e or vowel.  \nif you dont mind me asking another question, the cipher that im talking about have other part where its composed of bunch of APL symbol and honestly it doesnt make any sense I wont be sending the full cipher for obvious reason it have bunch of random symbols like       I want to assume I to sum their unicode or something like that"
         ]
     },
     "Found in an \"adult animation\" (tagged nsfw, but it's only the code)": {
@@ -34,9 +34,9 @@
         "num_comments": 7,
         "comments": [
             "Looks like a numeric representation of letter position. First word is \"find\".",
-            "This is a nine inch nails song lol, it\u2019s eraser",
+            "This is a nine inch nails song lol, its eraser",
             "What was the animation of?",
-            "FIND YOU\n\nTASTE YOU\n\nFUCK YOU\n\nUSE YOU\n\nSCAR YOU\n\nBREAK YOU\n\nEach array has a certain number of dots. The number is the corresponding letter of the alphabet. If you don\u2019t mind me asking, is the material you\u2019re watching BDSM/fetish? It\u2019s a creepy message.",
+            "FIND YOU\n\nTASTE YOU\n\nFUCK YOU\n\nUSE YOU\n\nSCAR YOU\n\nBREAK YOU\n\nEach array has a certain number of dots. The number is the corresponding letter of the alphabet. If you dont mind me asking, is the material youre watching BDSM/fetish? Its a creepy message.",
             "Thanks for your post, u/boy_kissser! Please follow our [RULES][rules] when posting.\n\nMake sure to include **CONTEXT**: where the cipher originated (link to the source if possible), expected\nlanguage, any clues you have etc.\n\nIf you are posting an **IMAGE OF TEXT** which you can type or copy & paste, you **MUST** comment with a\n**TRANSCRIPTION** (text version) of the message. Include the text `[Transcript]` in your comment.\n\nIf you'd like to mark your post as **SOLVED** comment with `[Solved]`\n\n**WARNING!** You will be **BANNED** if you **DELETE A SOLVED POST!**\n\n[rules]: https://www.reddit.com/r/codes/comments/w4ap6s/read_me_before_posting/\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/codes) if you have any questions or concerns.*",
             "[removed]"
         ]
@@ -58,16 +58,16 @@
         "content": "I found this design in the entrance of our office building. When I enquired about it, some of the senior folks mentioned that it is some sort of a cryptic message and it is not cracked yet. Can any of you would like to give a try to it? It must be simple I guess!",
         "num_comments": 14,
         "comments": [
-            "Ugg. 180 blocks, each in 1 of 5 configurations: 1 of four corners, plus a square. And it seems \u2026 some surprisingly long runs of squares compared to the others.",
+            "Ugg. 180 blocks, each in 1 of 5 configurations: 1 of four corners, plus a square. And it seems  some surprisingly long runs of squares compared to the others.",
             "What language is expected? English?",
             "looks like a 4-segment letter display but i could only see the letter D. Idk the others",
             "Can you get us a photo of this from a different angle?",
             "Yep, only the squares (zeroes) have long runs, none of the corner positions do. Which makes me think alphabet substitution: that fifth column you wrote, for example, adds up to only 5 which could be \"e.\"",
-            "Meaning would be in English. But he said, don\u2019t expect to see English characters there. Even though some of the characters appear to be English alphabets. I do not have much information about it.",
+            "Meaning would be in English. But he said, dont expect to see English characters there. Even though some of the characters appear to be English alphabets. I do not have much information about it.",
             "Sure, I will post different angle pics on Monday. Once I go to office!",
             "You arbitrarily assigned values to the orientations, so maybe other values would work. Shrug.",
             "Yep, I tried all the combinations of 1 thru 4 in rotation (i.e., 1 is always next to 2 which is always next to 3, etc.) but it didn't lead anywhere. Plus there's only 18 letters, so if there's no fixed offset (e.g. rot13) and any letter substitution is valid ... there are many nonsense results.",
-            "Discussion: my first guess would be to use a 1x2 grid. Each square should have five options (square+4 quarter positions), so 5x5=25 \u201cletters\u201d. Unfortunately, I\u2019m at work so can\u2019t transcribe. (It would probably be easier to transcribe each square and multiply, as visually it gets pretty chaotic pretty quick).\n\nEdit:\n\n32\t41\t00\t03\t00\t01\t02\t20\t01\t42\t20\t41\t20\t00\t02\t32\t41\t00\n40\t04\t10\t00\t31\t42\t31\t13\t00\t40\t34\t40\t00\t30\t40\t40\t04\t10\n32\t10\t31\t00\t31\t00\t42\t12\t30\t00\t01\t02\t40\t30\t41\t32\t10\t32\n30\t40\t31\t10\t00\t32\t00\t32\t10\t21\t00\t02\t10\t30\t30\t30\t40\t31\n23\t01\t00\t03\t04\t00\t32\t31\t42\t31\t00\t33\t10\t04\t32\t23\t01\t00\n\nEdit 2:\n\nquc abjavjuj bqu \ntd pvph tst ottde\nqe p vgo abtouqeq\note q qek beoootp\nmacd qpvp redqma\n\nEdit 3:\nNot looking good - three o\u2019s in a row on line 4"
+            "Discussion: my first guess would be to use a 1x2 grid. Each square should have five options (square+4 quarter positions), so 5x5=25 letters. Unfortunately, Im at work so cant transcribe. (It would probably be easier to transcribe each square and multiply, as visually it gets pretty chaotic pretty quick).\n\nEdit:\n\n32\t41\t00\t03\t00\t01\t02\t20\t01\t42\t20\t41\t20\t00\t02\t32\t41\t00\n40\t04\t10\t00\t31\t42\t31\t13\t00\t40\t34\t40\t00\t30\t40\t40\t04\t10\n32\t10\t31\t00\t31\t00\t42\t12\t30\t00\t01\t02\t40\t30\t41\t32\t10\t32\n30\t40\t31\t10\t00\t32\t00\t32\t10\t21\t00\t02\t10\t30\t30\t30\t40\t31\n23\t01\t00\t03\t04\t00\t32\t31\t42\t31\t00\t33\t10\t04\t32\t23\t01\t00\n\nEdit 2:\n\nquc abjavjuj bqu \ntd pvph tst ottde\nqe p vgo abtouqeq\note q qek beoootp\nmacd qpvp redqma\n\nEdit 3:\nNot looking good - three os in a row on line 4"
         ]
     }
 }

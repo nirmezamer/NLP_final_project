@@ -23,7 +23,7 @@
             "that should be possible, yeah. Thank you for the suggestion.",
             "Can destroy can place on and keep on death are in bedrock. In java we have can place on and can break and other people already make a soulink datapack (keep on death item)",
             "Everything else? Don't downplay bedrock like that - bedrock actually has fully custom data driven items, something Java is getting a glimpse of with these changes.",
-            "They change how /give and /item works, now instead of nbt we have this \u201citem components\u201d. Click on the wiki link (or minecraft oficial link) to see examples"
+            "They change how /give and /item works, now instead of nbt we have this item components. Click on the wiki link (or minecraft oficial link) to see examples"
         ]
     },
     "All the info is on the image. Help": {
@@ -34,11 +34,11 @@
         "num_comments": 10,
         "comments": [
             "There is unfortunately not currently a way to have a dynamically moving or fading sound. The common way I've seen it done is having whatever song you want to play broken up into a bunch of smaller and shorter sound files, and playing them one after the other, while updating the location. It's not a perfect solution for the obvious reasons of jank and lag, but it's the best one we have right now, as far as I'm aware.",
-            "You can\u2019t move the source of a sound once it\u2019s started playing, so the song really wouldn\u2019t work. \n\nWhat you could try instead is to have a heartbeat sound that gets louder and louder when the seeker is near.",
+            "You cant move the source of a sound once its started playing, so the song really wouldnt work. \n\nWhat you could try instead is to have a heartbeat sound that gets louder and louder when the seeker is near.",
             "dead by daylight terror radius?",
-            "You can\u2019t move music. So cut it down to small tracks and make them play one after the other or use note block sounds as other comments said",
+            "You cant move music. So cut it down to small tracks and make them play one after the other or use note block sounds as other comments said",
             "The only way I can think of is with sound effects, because a song would be too long and instead of moving with the seeker, it would leave a trail behind him where the song is costantly playing until it stops. With a sound effevt of maybe one second of duration, you can just sudo the /playsound @s command to the seeker and put the location to ambient, so that it plays the sound to the seeker, but also where the seeker is, so the closer you are to it, the louder you hear it.",
-            "Yo, I LOVE \u2764\ufe0f the diagram and how you clearly presented your information!",
+            "Yo, I LOVE  the diagram and how you clearly presented your information!",
             "You can use selectors in the /playsound command.\nIt should go something like this(for seeker):\nexecute at @e[tag=seeker] run playsound @s{music name goes here} music 1 15 15\n\nAnd for runner just changr thr @s to @a[distance=..x] and the volume and minVolume for 15 - x. However, you will need 15 command blocks for this to work. Hope that helps",
             "Sorry I'm on mobile rn so I can't use command boxes but here it is (just replace u/ with @)\n\n/execute at u/a\\[tag=seeker\\] run playsound minecraft:yoursoundid \\~ \\~ \\~ 1 1\n\nThis is from memory so the playsound syntax may be a little bit out of the right order. Remember that 100% volume or pitch = 1",
             "Terror radius ahh",
@@ -63,7 +63,7 @@
         "content": "I'm making a One Piece map, and I want the characters with devil fruits not be able to swim.\n\nI know that you can use an execute if block command to detect if water is beneath you, but is there a way to detect if the water is a full block? i.e. not only a few pixels tall?\n\n  \nI just don't want them to get all the negative effects from water that's not waist deep.\n\nhttps://preview.redd.it/7y8lpvmjwe9d1.png?width=957&format=png&auto=webp&s=fd1df3cc107d1f56b7fb7f0db7631c97b3c78410\n\n",
         "num_comments": 6,
         "comments": [
-            "Id=water is a full block Id=flowing_water is any other level of water, try that but if that doesn\u2019t work you can use block states\u00a0",
+            "Id=water is a full block Id=flowing_water is any other level of water, try that but if that doesnt work you can use block states",
             "From what I know 'water_flowing' can be very unreliable, so you'll probably have to use block states",
             "/testforblock <location> water [\"liquid_depth\"=0]\nJust tested it and it worked. Should work but I'm not 100% sure",
             "ima be honest I forgot the \"liquid\\_depth\" block state existed lol but my solution also works I guess",

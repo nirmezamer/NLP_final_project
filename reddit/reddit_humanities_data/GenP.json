@@ -7,15 +7,15 @@
         "num_comments": 259,
         "comments": [
             "new here - thanks for posting this!",
-            "AS someone that can\u00b4t read guides with text cos of my neurodivergence i appreciate the visual guide",
+            "AS someone that cant read guides with text cos of my neurodivergence i appreciate the visual guide",
             "Thank you for posting this.",
             "new here - thank you for posting this, can't wait to use this!",
-            "I\u2019m a noob. So apologies in advance. Is it possible to have a pirated version of creative suits for a MacBook?",
+            "Im a noob. So apologies in advance. Is it possible to have a pirated version of creative suits for a MacBook?",
             "This subreddit is a gold mine. I shall thank this community and its moderators very much. ![gif](emote|free_emotes_pack|smile)",
             "Is GenP a safer option than m0nkrus? (In risk of getting malware etc.).",
             "Im so knew at all ov this, even to reddit! lol thank you so much !",
-            "I just want to know what GenP developers get from providing these methods for free \u061f",
-            "Hello everyone! I\u2019m new to this Reddit tho I have dabbled a bit with Adobe apps before. I was wondering if there is a way to get \u201cAdobe Fonts\u201d to work with either of these programs? As far as I remember it\u2019s the only feature I ever needed that you couldn\u2019t \u201chack\u201d. Thanks I\u2019m advance"
+            "I just want to know what GenP developers get from providing these methods for free ",
+            "Hello everyone! Im new to this Reddit tho I have dabbled a bit with Adobe apps before. I was wondering if there is a way to get Adobe Fonts to work with either of these programs? As far as I remember its the only feature I ever needed that you couldnt hack. Thanks Im advance"
         ]
     },
     "Compatibility List | 2024 Creative Suite": {
@@ -30,7 +30,7 @@
             "i checked the photoshop 2024 with genp v3, it worked well after the patch",
             "when will photoshop and premier pro become fully working?",
             "Has the new Creative Cloud version (v 6.3.0.207) been tested yet?",
-            "just stumbled across this GenP patch, works great for all the programs i use...you guys are doin gods work, muchly appreciated \ud83d\udc4a",
+            "just stumbled across this GenP patch, works great for all the programs i use...you guys are doin gods work, muchly appreciated ",
             "Let's hope people do read the latest news on this updated post...",
             "The latest Audition seems to have problem. I get the \"can not verify\" popup. Roll back to 23 resolves the problem",
             "Out of all the versions over the years, this is the most different one! Thank you",
@@ -44,7 +44,7 @@
         "content": "https://preview.redd.it/r03udsk6ah9d1.png?width=1919&format=png&auto=webp&s=f84948aff9966fe00371cf4e65091f14cfffe418\n\nI've gone through the full uninstall process and tried to reinstall to see if it fixes but it's been persistent. Any help would be appreciated. The \"block popup\" button on genp hasn't worked for me. I downloaded it from the link in the tutorial. Currently on v3.4.13.4 of genp.\n\nEDIT: Forgot to mention, but i've followed the troubleshooting section on the community bookmarks, with no luck.",
         "num_comments": 2,
         "comments": [
-            "Also, silly question but needs checking.\n\nHave you made sure that you've patched both your Adobe CC app and Adobe Illustrator app with the GenP tool?\n\nEspecially after any updates as when you apply updates it knocks out the modifications of the GenP tool.\n\nHence why you need to repatch with the GenP tool after every update.\n\nIt needs checking as the Adobe CC app has recently had an update applied, which has taken it from v6.2.0.554.2\u00a0to\u00a0v6.3.0.207.",
+            "Also, silly question but needs checking.\n\nHave you made sure that you've patched both your Adobe CC app and Adobe Illustrator app with the GenP tool?\n\nEspecially after any updates as when you apply updates it knocks out the modifications of the GenP tool.\n\nHence why you need to repatch with the GenP tool after every update.\n\nIt needs checking as the Adobe CC app has recently had an update applied, which has taken it from v6.2.0.554.2tov6.3.0.207.",
             "You're just wasting your time uninstalling and reinstalling.\n\n\nThe Popup Blocker button on the GenP tool does two things.\n\n\nIt adds lines into your Host file for you.\n\n\nHowever, the guide section also clearly states that you should check the list yourself to make sure that you are using the latest version.\n\n\nYou need to check your folder here:\n\n\nC:\\Windows\\System32\\drivers\\etc\n\n\n\nSee if you haven't also got two Host files added, as you can only run with one.\n\n\n\nIf you have two Host files as the automated method may have added a new one, then you'll need to simply copy and paste the lines into your existing one and save it.\n\n\nThen delete the new one so that you only have the one Host file again.\n\n\nIt also adds a firewall rule for you into Outbound Rules of Windows Defender.\n\n\nHowever, again the guide section clearly states that if you use a third party antivirus firwall, then you'll need to create your own rule in that manually.\n\n\nIf you use a third party antivirus with it's own firewall, then that is what will be taking precedent on your computer and being used.\n\n\nThis would all be clearly shown to you in your Windows Settings under Windows Security.\n\n\nAdding a firewall rule to Windows Defender when you're running your own third party antivirus firewall, will do completely nothing as it Windows Defender is completely ignored.\n\n\nOtherwise, my normal reply to those who keep posting many times over about unlicensed popup appearing is this...\n\n\n\nRegardless of if you are using GenP or Monkrus, both versions will end up needing to do the fix.\n\n\nThis issue gets posted about many times and it's easily fixable.\n\n\nUnlicensed popup can be simply fixed by following the guide here:\n\n\nhttps://www.reddit.com/r/GenP/wiki/redditgenpguides/#wiki_.28....29_troubleshoot_section_.7C_unlicensed_popup\n\n\nAdd lines to your Host file and block the Adobe app being used in your used firewall.\n\n\nOut of all the Adobe apps, most run just fine with just the Host lines added for me.\n\n\nHowever, I now have six apps that require blocking in my used firewall to avoid unlicensed popup or accept terms popup.\n\n\nUnlicensed Popup: Photoshop, Premiere Pro, Illustrator, Lightroom Classic.\n\n\nAccept Terms Popup: InDesign, After Effects.\n\n\nIf you get a popup for Adobe Genuine Service, then again that is an easy fix too.\n\n\nSimply go to your Windows Settings and Apps.\n\n\nUninstall Adobe Genuine Service just like a normal Windows app.\n\n\nThen go here and delete the AdobeGCClient folder.\n\n\nC:\\Program Files (x86)\\Common Files\\Adobe"
         ]
     },
@@ -56,7 +56,7 @@
         "num_comments": 16,
         "comments": [
             "Try deleting and downloading again. Then completely disable or whitelist your install folder and try the install again. If you get it directly from one of Monkrus links, it's safe.",
-            "I know.. it just came with my pc and I didn't bother to change it \ud83d\ude2d",
+            "I know.. it just came with my pc and I didn't bother to change it ",
             "Thank you for replying. I did had to download it again two times. But now it is working alright! Thanks!",
             "What even the heck is QuickHeal LMFAO tho",
             "Then now bother to uninstall it quick and take something like Kaspersky or bit defender or eset as paid, try to see if any of them got free version too and for completely free there's Malwarebytes",
@@ -74,7 +74,7 @@
         "content": "I wanted to know if its possible to just make a new account for creative cloud or if I have to go through the whole patching process again to make a new one.  \nI used a temporary email for my current account which I did not activate because the guide doesnt mention that you strictly have to, so I figured it wouldnt matter oops...but now when I open apps it asks me to verify my email despite the apps still somewhat working (atleast it looks like they do).",
         "num_comments": 2,
         "comments": [
-            "oh yeah fair enough \ud83d\ude05  \nalright i'll do that, thank you!",
+            "oh yeah fair enough   \nalright i'll do that, thank you!",
             "So you just need to make a new Adobe account to verify your email.\n\nIn that case, you just sign out of Adobe CC app so that you are signed out completely.\n\nThen you simply sign back into your CC app with your new verified account.\n\nFor more info about signing out completely go here and scroll down to 'What is sign out?'.\n\nhttps://helpx.adobe.com/ie/creative-cloud/help/sign-in-out-activate-apps.ug.html\n\nFinally, with regards to the guide not mentioning that you had to verify it.\n\nWell, it shouldn't need to as it is part of the actual process of setting up the Adobe account in the first place.\n\nAnd skip the part of adding a telephone number as a backup method."
         ]
     }

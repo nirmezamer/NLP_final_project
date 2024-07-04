@@ -10,7 +10,7 @@
             "Looking for a good Chromium-based browser with Chrome sync (other than Chrome). I use Chrome on mobile but want something else for my laptop.",
             "I would like to use a browser that is as efficient as, or nearly as efficient as, Safari in terms of power consumption. I alternated between Firefox and Brave, but still couldn't figure out which one is more efficient to use on an Apple Silicon chip. Can you guys recommend a browser to go forward with?",
             "can web browsers steal my data or sell my data? what do google know about me?",
-            "Looking for a browser that can separate my personal account from my school account. What I like about chrome is that feature but chrome is taking up too much of my CPU which is annoying when you\u2019re taking a timed exam (it only started doing this recently). Now I know opera can have separate workspaces but can you separate profiles like you can in Google (like separate windows for both gmail accounts)? Sorry if someone asked this already or it isn\u2019t making sense.",
+            "Looking for a browser that can separate my personal account from my school account. What I like about chrome is that feature but chrome is taking up too much of my CPU which is annoying when youre taking a timed exam (it only started doing this recently). Now I know opera can have separate workspaces but can you separate profiles like you can in Google (like separate windows for both gmail accounts)? Sorry if someone asked this already or it isnt making sense.",
             "What's the best browser out there and why is it Baidu Spark Browser?",
             "I've been using Waterfox lately and have been enjoying the experience. I don't need many features and it feels quite minimalistic, and having installed uBlock Origin it is running great. Also, not being based on Chromium is a huge plus.",
             "I switched from Chrome to Opera/Opera GX earlier this year. I've found Opera better. But recently I've learnt about all their privacy scandals and ownership. Should any of the concern me specifically? Is my data/info under risk? I know almost all browsers sell data, but the general distaste of Opera is making me uncomfortable. Purely performance-wise and feature-wise, I do prefer Opera.",
@@ -25,7 +25,7 @@
         "content": "I like brave but i hate all the web 3 and crypto things and addons they are adding   \nis it possible to create something like ungoogled chromium but for brave? or is it closed source like Edge ? ",
         "num_comments": 19,
         "comments": [
-            "Why need a brave fork when you can just ignore it? \ud83d\ude2c \nI don\u2019t like them too, I turned them off and ignored their existence.",
+            "Why need a brave fork when you can just ignore it?  \nI dont like them too, I turned them off and ignored their existence.",
             "And why someone for free will maintain entire browser fork without any similar crap? It's easy money from stupid people for them.",
             "theoretically possible, but the only people bothered by any of braves flaws are those incapable of coding anything more advanced than a bat file.",
             "Yes, brave is open source.",
@@ -78,7 +78,7 @@
             "Encrypted client hello method only works if you have cloudflare. But it doesn't unlock every non cloudflsre website if i remember",
             "Assuming that you value your security and privacy at all, there's absolutely no reason to use a Chromium fork by some commercial company when Ungoogled Chromium exists.",
             "Used Mullvad. Its one of the best. The only issue is wireguard connection issue in my country. But sometimes solved by getting wireguard config and putting in the app of wireguard.",
-            "A lot of major websites ban Tor. Also it's slow. It's not a substitute for a good VPN.\u00a0\n\n\nNo browser maker can afford to provide a good VPN to all its users for free, either.\u00a0\n\n\nBite the bullet and buy a good VPN. If you absolutely can't, use Proton VPN.",
+            "A lot of major websites ban Tor. Also it's slow. It's not a substitute for a good VPN.\n\n\nNo browser maker can afford to provide a good VPN to all its users for free, either.\n\n\nBite the bullet and buy a good VPN. If you absolutely can't, use Proton VPN.",
             "This\n\n  \nI would recommend mullvad for the VPN btw",
             "For extra security and a fix for that issue I use a different method no one talks about\n\nRun a wireguard server on vercel and connect to that",
             "Even if TOR is banned in these websites, some of them like torrent websites have onion support.\n\nAnd some of these browsers like Cyberghost, avast, Norton, AVG are closed source chromium with limited support of addons and typically have free trial of a VPN until it became a subscription based.\n\nI already bit the bullet multiple times, and I love Proton plus, windscribe pro, Mullvad and AirVPN and the other open source privacy VPNs as a whole."

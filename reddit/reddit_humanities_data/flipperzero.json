@@ -7,13 +7,13 @@
         "num_comments": 372,
         "comments": [
             "Happy to see that Joom is your new partner just bought one from there",
-            "So the joom thing isn\u2019t a scam?  It says that the store is temporarily closed when I clicked on it.",
+            "So the joom thing isnt a scam?  It says that the store is temporarily closed when I clicked on it.",
             "Please dm, call, knock at my fuckin door, whatever you gotta do too let me know when I can buy one in the USA. Been searching for a week now and starting to get depressed",
             "Joom appears sort of scammy themselves. Like, throwing around 10% vouchers for new customers, even 20% on singles day - and then letting you know you get only 1%(!) when the egg is in the basket.   \nFeeling screwed. Will not buy anything else from them.",
             "I live in the US/MX border. Will probably order one to my friend's house in MX although I wish I could just order directly to the US",
             "How to report scam sites",
             "Are there any plans to have UK stock rather than shipping from outside the UK as VAT adds on an extra $40 or so.",
-            "**Beware of eBay price gougers and scammers!**\n\nI see a FlipperZero listed on eBay right now for $300 (\"Buy It Now\") and others similarly priced all the time.   I asked the seller why so high a price when anyone can buy it on the manufacturer's website for $165.  The response:  \"*Well first if you buy it from the website it\u2019s $200 after tax and shipping, second takes over a month to get to you and even then they get seized all the time. It\u2019s extremely hard getting these.*\"  I say horse crap to that.  I bought mine from Flipper Devices Inc and got it for $169 (plus tax and shipping (shipping was less than $10)) and it shipped in about two weeks.",
+            "**Beware of eBay price gougers and scammers!**\n\nI see a FlipperZero listed on eBay right now for $300 (\"Buy It Now\") and others similarly priced all the time.   I asked the seller why so high a price when anyone can buy it on the manufacturer's website for $165.  The response:  \"*Well first if you buy it from the website its $200 after tax and shipping, second takes over a month to get to you and even then they get seized all the time. Its extremely hard getting these.*\"  I say horse crap to that.  I bought mine from Flipper Devices Inc and got it for $169 (plus tax and shipping (shipping was less than $10)) and it shipped in about two weeks.",
             "Just bought one from Joom, looking forward to receiving it.",
             "Why are these selling for so much on Amazon? They are like $270!"
         ]
@@ -47,7 +47,7 @@
         "num_comments": 2,
         "comments": [
             "you cannot currently write amiibo files to ntag215s correctly. amiibos being encoded into ntag215s requires the password and other data fields to be diversified based on the tags UID and lock bits needs to be set, this functionality has not yet been added to the flipper and is why you're facing this problem.",
-            "Use AmiiBoss\ud83d\ude4f\ud83c\udffc"
+            "Use AmiiBoss"
         ]
     },
     "Parking gate opening protocol": {
@@ -57,12 +57,12 @@
         "content": "Hi, how can I figure out what kind of communication does my office parking is using? To emulate the parking card with flipper. \n\nThe way it works:\nYou drive with the car into dedicated spot (I assume it activates the reader). \nThen I point the card (2nd photo) to the reader (1st photo) and the gates open. \n3rd photo - bearly bisible conture of the coil inside the card. \n\nI tried reading card as nfc and rfid with flipper - no results. \n\nPlease advise what kind of comunicatiin protocol this is, and how can I emulate it with flipper. \n \n\n",
         "num_comments": 23,
         "comments": [
-            "Bunch of vocal vigilantes here. This isn\u2019t hacking. It\u2019s not even cracking for crying out loud. Go sign up to city councils and be unproductive there. It\u2019s UHF btw.",
+            "Bunch of vocal vigilantes here. This isnt hacking. Its not even cracking for crying out loud. Go sign up to city councils and be unproductive there. Its UHF btw.",
             "If you don't own it don't try and hack it!",
             "Ask the person that gives you the cards...",
-            "Flipper can\u2019t read that , u need a different antenna with 300 megahertz and 3 gigahertz. I don\u2019t know if someone make an extension for that",
+            "Flipper cant read that , u need a different antenna with 300 megahertz and 3 gigahertz. I dont know if someone make an extension for that",
             "Did you scan the card reader?",
-            "This is what many new people on the sub miss. If it isn\u2019t yours it\u2019s illegal to hack it.",
+            "This is what many new people on the sub miss. If it isnt yours its illegal to hack it.",
             "Da fuck, where is hacking here mentioned. This is my parking space I have the card. I just want to copy it to flipper, learn about the communication protocols",
             "Thats how I got my first card, but each copy is extra. I want to open with flipper and don't cary that parking card",
             "Perhaps, you mean while opening the door with card scan the communication?",

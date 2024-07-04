@@ -29,10 +29,10 @@
             "The push on jumpers for the coax splitter have got to go.  That RF looks like its grounded together, but not actually tied to actual ground.  You may want to terminate all the unused coax ports for RF cleanliness.\n\nOtherwise the Ethernet looks tight, and thats a really clean looking install.",
             "Finally a hotel with faster then 256kbps wifi connection",
             "cable management is teh sEx",
-            "Maybe switch the U6-LR for an -Pro or something. The U6-LR is the orange duck here. The rest is based on the Qualcomm chipset and the LR (like the -Lite and + models) based on the MediaTek chipset. And the LR is WiFi4 at 2,4GHz. A strange AP that should not be in production (ok\u00e9, my opinion).",
+            "Maybe switch the U6-LR for an -Pro or something. The U6-LR is the orange duck here. The rest is based on the Qualcomm chipset and the LR (like the -Lite and + models) based on the MediaTek chipset. And the LR is WiFi4 at 2,4GHz. A strange AP that should not be in production (ok, my opinion).",
             "Clean and Tidy.  \n\nI like the idea of tape over the ports as a temporary dust cover.  Which I assume that's what you used it for.  Unless it was for labeling.",
             "Looks so good nice and clean looking great job",
-            "Wouldn\u2019t it have been easier for them to paint the room before your install?",
+            "Wouldnt it have been easier for them to paint the room before your install?",
             "Awesome work. How much time do you estimate it took to complete?"
         ]
     },
@@ -46,12 +46,12 @@
             "I strongly agree with this! I'm a Network Engineer and have worked with both Cisco and Palo Alto firewalls for decades. The firewall management Unifi has come up with makes absolutely no sense and is downright difficult to create firewall rules.",
             "The tips are pretty much useless as well",
             "Ok, I'll bite -- what exactly do you find difficult about setting up FW rules?\n\nI've set up a couple of VLANs -- for IoT and cameras -- with rules to isolate them from everything but a single machine on the main VLAN, rules to allow access to the devices from the main VLAN (but not the other way), have some port forwards from the Internet to a couple machines, etc. Took a few minutes to set up all of it coming at it from basically nowhere and it just works.",
-            "This is why I\u2019ve had a pfSense router and an aging CloudKeyGen2+ controller for 5 years despite the \u201cprogress\u201d UI have made with management and firewall hardware. Router configuration is bare-bones and unintuitive.",
-            "I have one, if you have a doorbell, you are away from the house, the device needs to talk to the internet to send voice, I don\u2019t the cameras clam to talk to the internet. Conclusion, people are able to hear me but I cannot hear them.  \nWhat is the right way to define the cameras vlan?\nThx",
+            "This is why Ive had a pfSense router and an aging CloudKeyGen2+ controller for 5 years despite the progress UI have made with management and firewall hardware. Router configuration is bare-bones and unintuitive.",
+            "I have one, if you have a doorbell, you are away from the house, the device needs to talk to the internet to send voice, I dont the cameras clam to talk to the internet. Conclusion, people are able to hear me but I cannot hear them.  \nWhat is the right way to define the cameras vlan?\nThx",
             "You know they are kind of ass backwards, but it was pretty easy to find guides and eventually it just made sense.  \n\nI have a fairly typical network, 3 VLANs, a few rules like LAN can talk to most other VLANs but not vice versa and several instances of AdGuard Home functioning as an ad blocker that everyone but Guest uses for DNS.",
             "Look into firewalla. Much better way to configure rules",
-            "I agree that improvements would be lauded, but I figured it out well enough to accomplish my goals \ud83e\udd37\ud83c\udffc\u200d\u2642\ufe0f.",
-            "Maybe it\u2019s because the UDM was the first \u201creal\u201d firewall I had experience with but the rules are fairly straightforward.",
+            "I agree that improvements would be lauded, but I figured it out well enough to accomplish my goals .",
+            "Maybe its because the UDM was the first real firewall I had experience with but the rules are fairly straightforward.",
             "I'll be waiting for comments here. If I may ask, since I'm in the same situation. Are there any good practices to go about with this? It's been like pulling teeth making sure everything is functioning as it should."
         ]
     },
@@ -63,7 +63,7 @@
         "num_comments": 2,
         "comments": [
             "On the UDM SEs it will send a notification of failover to WAN2 after a period of time. But for short outages it only sends after the restore.",
-            "Hello!  Thanks for posting on r/Ubiquiti!\n\nThis subreddit is here to provide unofficial technical support to people who use or want to dive into the world of Ubiquiti products.  If you haven\u2019t already been descriptive in your post, please take the time to edit it and add as many useful details as you can.\n\nPlease read and understand the rules in the sidebar, as posts and comments that violate them will be removed.  Please put all off topic posts in the weekly off topic thread that is stickied to the top of the subreddit.\n\nIf you see people spreading misinformation, trying to mislead others, or other inappropriate behavior, please report it!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Ubiquiti) if you have any questions or concerns.*"
+            "Hello!  Thanks for posting on r/Ubiquiti!\n\nThis subreddit is here to provide unofficial technical support to people who use or want to dive into the world of Ubiquiti products.  If you havent already been descriptive in your post, please take the time to edit it and add as many useful details as you can.\n\nPlease read and understand the rules in the sidebar, as posts and comments that violate them will be removed.  Please put all off topic posts in the weekly off topic thread that is stickied to the top of the subreddit.\n\nIf you see people spreading misinformation, trying to mislead others, or other inappropriate behavior, please report it!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Ubiquiti) if you have any questions or concerns.*"
         ]
     },
     "Help designing network for new apartment": {

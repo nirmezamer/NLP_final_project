@@ -6,14 +6,14 @@
         "content": "I feel like with the Microsoft stack there is a common favoring of MSSQL. Though all things being equal, I prefer Postgres as my database of choice. Before I start building a bigger project, ARE all things equal? Am I going to encounter any weird roadblocks as a consequence of picking Postgres?",
         "num_comments": 24,
         "comments": [
-            "It\u2019s probably the most common non-Microsoft database used with EF Core. Never had any issues with it!",
+            "Its probably the most common non-Microsoft database used with EF Core. Never had any issues with it!",
             "The big difference is out of the box MSSQL is case insensitive and PG is case sensitive, all other things are very similar. If you want PG to behave like MS in terms of case insensitive look at collations. EF works fine with PG.",
-            "Used it for years at my previous job. Works great, sometimes better than MSSQL because it takes advantage of Postgres\u2019 strengths e.g. array types.",
+            "Used it for years at my previous job. Works great, sometimes better than MSSQL because it takes advantage of Postgres strengths e.g. array types.",
             "One issue I faced is using tolower more often while creating queries. Thought I suppose there are maybe some configuration that solves that.",
-            "EFCore + Npgsql + NodaTime = \ud83d\udc99",
+            "EFCore + Npgsql + NodaTime = ",
             "Nothing, efcore can use fine with postgre, mysql/mariaDB, mysql/mariaDB, cockroachDB. Oracle is 90% fine but 10% quirk case is cause by DB itself not the fault of efcore. Mssql is favor is the fact you have a localDB that often come buit-in with VS so easier for setup. But in term of query generate, DB transaction most should work fine",
             "Assuming it's the right technical choice I don't think you'll encounter any roadblocks. Npgsql has been around for a while and is very much battle tested.",
-            "Postgres might work in some scenarios, while EF Core is designed to work with MS SQL. But if you need special operations \u2013 or use Stored Procedures making changes to the db \u2013 you'll still need to use old skool SQL-queries anyway. Depending on the project EF Core might not be the right solution at all.",
+            "Postgres might work in some scenarios, while EF Core is designed to work with MS SQL. But if you need special operations  or use Stored Procedures making changes to the db  you'll still need to use old skool SQL-queries anyway. Depending on the project EF Core might not be the right solution at all.",
             "They are not equal but most likely you won't notice any differences.\nEspecially with ORM",
             "Been using it for years, very few issues."
         ]
@@ -62,14 +62,14 @@
         "comments": [
             "looks similar to what I am using.  did you also include:\n\n`app.UseAuthentication();`",
             "Please show more of your Program.cs",
-            "Don\u2019t remember exactly but In netcore8, there is new deserializer or some internal parts of the mechanism that also does the translation for your various claims for example from user to some standard name that user uses, you have to turn that remapping off (there is an option for that). To detect that, look at the handler and whether your claims matches those that in your token",
+            "Dont remember exactly but In netcore8, there is new deserializer or some internal parts of the mechanism that also does the translation for your various claims for example from user to some standard name that user uses, you have to turn that remapping off (there is an option for that). To detect that, look at the handler and whether your claims matches those that in your token",
             "Are you calling \"SignInAsync\" anywhere in your code?",
             "Have you tried moving builder.services.AddAuthorization below builder.services.AddAuthentication?  Pretty sure you have it backwards.",
             "You just need to call the .AddCookie(...) before .AddJwtBearer(...) just like what the error said, I think...",
             "Did it work. Else dm I will send my solution",
             "Does that matter or is it just the app.Use order that matters?",
             "The order services are added to the DI container only matter if one needs to overwrite another, which is not the case with these. Unless you mean the middleware order, where order does matter, but those are added to the host.",
-            "The two I mentioned are middleware.\n\nEdit: The see other user\u2019s comment that replied to me. They provided a link to the ms documentation on middleware order."
+            "The two I mentioned are middleware.\n\nEdit: The see other users comment that replied to me. They provided a link to the ms documentation on middleware order."
         ]
     }
 }

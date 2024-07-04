@@ -42,14 +42,14 @@
         "comments": [
             "Love to see the grind pay off , congrats",
             "What was your study schedule? Were you unemployed? How did you study from morning to night?",
-            "It makes me happy to see posts like these when people's hardwork finally pays off. It makes me believe that work that we put in never get wasted and makes me want to work harder because if you can do it then I can too.\n\nCongratulations \ud83c\udf89",
+            "It makes me happy to see posts like these when people's hardwork finally pays off. It makes me believe that work that we put in never get wasted and makes me want to work harder because if you can do it then I can too.\n\nCongratulations ",
             "What geo are you in?",
-            "Congrats! Any list that you\u2019ve followed particularly? What is the order and how did you judge what problems to solve? \n\nI am slightly confused on what problems to solve to  have a maximum coverage. Your answer might give me some clarity, thank you!",
+            "Congrats! Any list that youve followed particularly? What is the order and how did you judge what problems to solve? \n\nI am slightly confused on what problems to solve to  have a maximum coverage. Your answer might give me some clarity, thank you!",
             "Congrats!!! You got good resolve. I wish I had the same discipline.\n\nHow did you scheduled the interviews. Like how far apart from each others and after getting the offers did you asked the recruiter to wait while you get results from other interviews?",
             "Sicne you have 7 offers, how long do you had too decided?\n\nI thoughts it's 1 week. So how did you line it all up so well?",
             "Did you study any system design? If so, how did you study for it?",
             "Maybe im thinking of another company, I thought Stripe didn't do exactly leet code. Maybe they changed recently? Congrats! Whats your YOE?",
-            "Happy to hear positive feedback for you op! Hoping to make such a post \ud83d\ude00 congratulations to you"
+            "Happy to hear positive feedback for you op! Hoping to make such a post  congratulations to you"
         ]
     },
     "I haven\u2019t touched LC in 2years and got laid off recently ": {
@@ -66,7 +66,7 @@
             "H1b can change to b visitor visa and legally stay here, have you tried or know anyone who has done this? I heard it can extend 6 month longer than original 2 month unemployment restrain.",
             "To be honest it's difficult for most people to get anything even with unconstrained amount of time. So may also be good to take a look at jobs at your returning country as well to be safe. You may not even hear back in 2 months with how much backlog of candidates and the industry with too much supply and not enough demand to keep up with it.",
             "apply now, worry about leetcode once you hear back",
-            "Definitely read this as \u201cgot laid recently\u201d",
+            "Definitely read this as got laid recently",
             "Dm me if you need help in clearing OAs and coding interviews.",
             "I have just 2 month to prepare, find job as well. I am extremely worried."
         ]
@@ -78,15 +78,15 @@
         "content": "I am working in Goldman Sachs. I also cracked JPMorgan Chase & Co. But every time I get a chance to interview at FAANG, something goes wrong but I don\u2019t understand what.\n\nAmazon - 2022 - SWE Intern - Was asked a question on LCA. Gave 2 approaches and solved correctly. Was then asked Longest Palindromic Substring. Gave the brute force and then the 2 pointer approach and coded it. Discussed complexities. In last 5 min he asked for the DP equation for same question - couldn\u2019t write that in time perfectly. Rejected :/\n\nGoogle - 2024 - SWE - Gave the approach in the first 10 min. Assumed the structure was a graph (not explicitly given - the structure formed from 2 hypothetical API\u2019s response) Coded it up. Optimised along the way. He pointed out while giving time complexity why I wrote n + e and that\u2019s when I realize it\u2019s a tree. Doesn\u2019t change my code in any way. Then asked me to optimize further. I didn\u2019t see a place where it could be done. He mentioned check the heap. I then gave the optimised solution. Again rejected. :/\n\nI know the interviews weren\u2019t perfect but they are not so bad that I get straight up rejected. Am I missing something? \n\nI always think out loud, use good coding practices and ask questions at the end. I really need tips I can implement in future interviews to not get rejected. ",
         "num_comments": 91,
         "comments": [
-            "The coding question are a pretext to see how you think and how you work. No one is interested in the solution. They already know the solution. What is interesting is how you talk about problems, how you approach a new problem. Can you identify tradeoffs and how you would decide to do one implementation vs the other. For instance you can talk about the trade off of making a simple brute force approach vs making a complex DP solution. Or maybe just talk about existing libraries that could do it for you.\n\nCompare this to a driving test where the instructor doesn\u2019t care if you can parallel park perfectly. They want to see how you behave under pressure and make sure you won\u2019t be dangerous to other people if they give you a driver license. Same thing here",
-            "Leetcode isn\u2019t the only skill you need to be good at to crack these companies. How are you selling yourself?",
-            "A tree is a graph, and you\u2019re fair to assume these things. Don\u2019t beat yourself up on that one you\u2019re correct.",
+            "The coding question are a pretext to see how you think and how you work. No one is interested in the solution. They already know the solution. What is interesting is how you talk about problems, how you approach a new problem. Can you identify tradeoffs and how you would decide to do one implementation vs the other. For instance you can talk about the trade off of making a simple brute force approach vs making a complex DP solution. Or maybe just talk about existing libraries that could do it for you.\n\nCompare this to a driving test where the instructor doesnt care if you can parallel park perfectly. They want to see how you behave under pressure and make sure you wont be dangerous to other people if they give you a driver license. Same thing here",
+            "Leetcode isnt the only skill you need to be good at to crack these companies. How are you selling yourself?",
+            "A tree is a graph, and youre fair to assume these things. Dont beat yourself up on that one youre correct.",
             "You are almost definitely lacking communication skills",
             "Most of it has to do with luck. This will be an unpopular opinion for people who think they are smarter than others bc they managed to pass the interview process a single time. I think it would be in your best interest to objectively obsess what you can do better but not to obsess over the outcome.",
             "bro you are in India, even if you answer perfectly you might get rejected. Also i think gs to amazon is a downgrade lol",
             "There's so many people applying to these companies trying to get in that even if you complete the assignment, you can still get rejected because they liked another candidate better.",
             "You were exclusively asked LC questions in these interviews? Or are you omitting other parts?\n\nAlso what race and gender are you? Unfortunately, this matters especially in big tech.",
-            "Sometimes you can get unreasonable asshole interviewers too. Just because somebody is conducting interview doesn\u2019t mean they magically become some omniscient perfectly objective beings",
+            "Sometimes you can get unreasonable asshole interviewers too. Just because somebody is conducting interview doesnt mean they magically become some omniscient perfectly objective beings",
             "I used to be in an interview loop at FAANG-adjacent companies. I found the discussions with engineers from financial institutions super interesting because they operated so differently from us. Some operated similar to software companies, but many that came from the investment or trading organizations of the business operated so differently. They were very siloed. Did not share best practices or learnings with peers or other teams. They often lacked experience working on systems with dependent systems maintained by other teams. For lower level engineers this was fine as they will learn with experience. For senior level roles, we often chose the engineer that had experience collaborating with engineers outside of their team. Obviously they had to nail the Leetcode, but as someone else said that's not the only thing they are looking for."
         ]
     }

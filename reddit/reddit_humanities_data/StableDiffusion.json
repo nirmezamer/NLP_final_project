@@ -9,13 +9,13 @@
             "Damn, from SD2 they skipped all the way to SD404.",
             "Confirmed: SD3 Cannot do hands. Worse than SDXL hands. Worse than SD 1.5 hands.",
             "Well after testing a bit, for now I have SD2 vibes.\n\nI hope I'm wrong",
-            "What platform will the weights work on when they\u2019re available?",
-            "Cool, let me know when a model that isn\u2019t complete ass comes out though",
+            "What platform will the weights work on when theyre available?",
+            "Cool, let me know when a model that isnt complete ass comes out though",
             "5 months of leading us on and hyping it up btw",
             "Is it just me or can SD3 not generate Anthropomorphic characters at all.",
             "They really want full openai on us. Wow",
             "And how can pictures harm me?",
-            "So let me be the first to officially kick things off....SD4 WHEN? \ud83d\ude00"
+            "So let me be the first to officially kick things off....SD4 WHEN? "
         ]
     },
     "How To Run SD3-Medium Locally Right Now -- StableSwarmUI": {
@@ -27,7 +27,7 @@
         "comments": [
             "ty sir, now i am go bake cirnos with SD3",
             "back to the mergeing board",
-            "time for a week of finding the right training settings (o\u309c\u25bd\u309c)o\u2606",
+            "time for a week of finding the right training settings (o)o",
             "Nai3 open source just a week away",
             "Downloading SD3 was a huge waste of bandwidth.",
             "I installed stable swarm yesterday, I just clicked update-windows.bat, it pulled the latest changes but when I want to try SD3 model I get 09:39:26.913 \\[Warning\\] \\[BackendHandler\\] backend #0 failed to load model OfficialStableDiffusion/sd3\\_medium.safetensors",
@@ -63,9 +63,9 @@
         "content": "I stumbled upon this virtual influencer on Instagram and her pictures are by far the best I\u2019ve seen! I tried several tools and and stable diffusion but I did not come close to this. Does anyone know how to achieve this? Or is it just superior prompting?\n\n",
         "num_comments": 93,
         "comments": [
-            "Should be \u00a0easy with any of the top-tier SD1.5 or SDXL realistic checkpoints. I mean, pretty girls are what they do best.",
+            "Should be easy with any of the top-tier SD1.5 or SDXL realistic checkpoints. I mean, pretty girls are what they do best.",
             "This isn't realistic at all, they are looking at you.",
-            "On a serious note despite all the thirsty boys and girls, if you're still struggling with a realistic checkpoint like realvisxl40 then I find putting \"3d, CGI, animation, cartoon, anime, drawing, painting\" into the negative prompts helps. For realistic out of the box but with almost zero control Fooocus is pretty good, I often use it for initial portrait generations before switching to comfy.\n\nEdit: also avoid using words like photo realistic in the positive prompts, photo and photography should be fine \ud83d\ude0a",
+            "On a serious note despite all the thirsty boys and girls, if you're still struggling with a realistic checkpoint like realvisxl40 then I find putting \"3d, CGI, animation, cartoon, anime, drawing, painting\" into the negative prompts helps. For realistic out of the box but with almost zero control Fooocus is pretty good, I often use it for initial portrait generations before switching to comfy.\n\nEdit: also avoid using words like photo realistic in the positive prompts, photo and photography should be fine ",
             "One of them is not like the other.",
             "I think it's some sd1.5 realistic checkpoint by the looks",
             "Good to see #3 proudly displaying her faith",

@@ -13,7 +13,7 @@
             "This is great, thank you.",
             "Excellent work Austin. Answered lots of my queries!",
             "Hello I just bought from ebay a fritz 7590 router. Ive never bought a used router.. any recommandation about what to do before installang it?",
-            "Is double nat a big deal? I have a fibre modem that\u2019s a gateway, and a larger mesh network behind it.\n\nEverything seems to work.",
+            "Is double nat a big deal? I have a fibre modem thats a gateway, and a larger mesh network behind it.\n\nEverything seems to work.",
             "Disagree, I found this subreddit from Google and I read the FAQ *and* it answered my questions lol",
             "This FAQ was helpful for me!"
         ]
@@ -32,7 +32,7 @@
             "I feel dumb with Discord for some reason. I click on \"accept invite\" and then... nothing. I end up in the friends section and I don't see the sub's server anywhere.",
             "We have discord and datcord.",
             "If discord doesn't work try datcord.",
-            "If the account is brand new, wait a day and try again. Otherwise, try accessing the invite link from an incognito/private window. If that fails, check if you\u2019re already at the server limit or it is possible that your account is flagged by discord as being unable to join new servers (no idea how that works but searching around indicates it is a thing)",
+            "If the account is brand new, wait a day and try again. Otherwise, try accessing the invite link from an incognito/private window. If that fails, check if youre already at the server limit or it is possible that your account is flagged by discord as being unable to join new servers (no idea how that works but searching around indicates it is a thing)",
             "When in discord, you could follow the following steps:\n\n* Click the plus sign on the left side, near the bottom of the servers list\n* \"Join a Server\"\n* Copy and paste the link into the \"Invite Link\" text field"
         ]
     },
@@ -43,7 +43,7 @@
         "content": "",
         "num_comments": 7,
         "comments": [
-            "1 hr at 18 w \ud83d\ude02\n\nExpect under 10 mins at load.",
+            "1 hr at 18 w \n\nExpect under 10 mins at load.",
             "if everything including cell signal etc drops out there's a good chance the fibre would too, only something like a starlink on a generator would keep you up in that situation really, all the corporate sites I manage as part of my job generally have 2/3 circuits now, at least 1 fibre in, a 4/5G cellular and a starlink. \n\nMost of the time we see serious outages it's due to either power or fibre, but generally during proper power outages the fibre goes too.",
             "The beauty is the OLT I'm connected is in another town, so local outages wouldn't affect fiber. Larger outages are exceptional, as I live in a dense urban area.",
             "Last power failure my ONT stayed up with help of a relocated UPS. Need to find an affordable one that'll keep it up eight hours.",
@@ -70,12 +70,12 @@
             "Why do you want mesh? If to improve coverage, wired access points will do a better job.",
             "About the same size home here with a mesh system from tp-link and it works just fine without a wired backhaul. Get around 500mbps but that's also what I pay for. I have the main router and then two satellites. One satellite on the 2nd level, then the router and another satellite on the first floor.\n\nIf you go through with a mesh system just make sure to get a tri band system that uses a dedicated 6ghz connection for the backhaul",
             "Do you have Ethernet or Coax RG6 on each floor? Mesh should work well for you.",
-            "Simple would be to setup mesh. That\u2019s what I\u2019d do",
-            "I don\u2019t really want wires run through the house. I want something simple",
+            "Simple would be to setup mesh. Thats what Id do",
+            "I dont really want wires run through the house. I want something simple",
             "I think I only have coax in basement. How hard is it to get coax on both floors? Is that possible",
             "Just have the ISP install their wireless device as central as you can in the home, and call it a day.  It doesn't get simpler than that.",
             "seems like everyone on this sub just suggests blasting through the walls to set up freaking internet wifi it's all a bit much",
-            "I just ask because you could do a Mesh/MoCA (which needs coax cables) combo network. That\u2019s what I did in my parent\u2019s CA home. I had 4 nodes covering 3,000sqft on two floors. \n\nHard to put more coax/ethernet? Not really. The tricky parts would be between floors because there\u2019ll definitely be some drywall to be repaired on ceiling/wall.",
+            "I just ask because you could do a Mesh/MoCA (which needs coax cables) combo network. Thats what I did in my parents CA home. I had 4 nodes covering 3,000sqft on two floors. \n\nHard to put more coax/ethernet? Not really. The tricky parts would be between floors because therell definitely be some drywall to be repaired on ceiling/wall.",
             "Because most of us here understand the many conns of using a mesh instead of ethernet backbone."
         ]
     }

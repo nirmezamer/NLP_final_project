@@ -11,7 +11,7 @@
             "It looks to me like they forgot to include a command to move the dotfiles from the temp directory created with the git clone command. So I'd say to run the git clone command again, then use mv or rsync to get the files from the dotfiles-tmp directory to your home directory. Then reload/refresh your WM, and that should do it.",
             "A window manager it's just that, a window manager. Even the most \"bloated\" window manager uses a negligible amount of ram. High ram usage comes form using other programs. My recommendation is **bspwm for a tiling window manager** or **awsomewm if you want to have the option to switch between floating and tiling along with the other layouts**. As for a wayland windows manager (or compositor) I wouldn't know as I am on X11.",
             "well, if you know some C language, u might want to take a look on dwm (Xorg), very minimal and there is no configuration file, if u want to change something u need to recompile the program... there is also dwl (dwm for wayland).",
-            "\nHello guys I'm looking for a lightweight window manager for my newly installed mx Linux. I'm new to window managers and don't know much about them, but I want to try one I have an old PC so I can't have a window manager that is bloated with futures that I won't even use. \nCould you guys recommend something lightweight? \n\nThanks\u2026.",
+            "\nHello guys I'm looking for a lightweight window manager for my newly installed mx Linux. I'm new to window managers and don't know much about them, but I want to try one I have an old PC so I can't have a window manager that is bloated with futures that I won't even use. \nCould you guys recommend something lightweight? \n\nThanks.",
             "Hi,\nI recently tried i3 and was comfortable with it. But, the complexity/inability to save and restore workspaces pushed me back. \n\nDo you recommend any other wm (or any specific config:plugin) that would help me in save and restore the workspaces during restarts?\n\nThanks",
             "hi i am new to arch and ricing  \ni recently saw this awesome setup [https://github.com/nabakdev/dotfiles](https://github.com/nabakdev/dotfiles)  \nbut when i install the packages and do the git clone as said in the readme but i am not seeing any changes in my pc,so how should i go about installing these",
             "As my username suggests im into the older boxy ThinkPads and was wondering how ricing would differ in older systems that are still running dual core cpus with integrated Intel graphics, would Wayland/Hyperland ( I haven't read too much on it I will research more on these later ) work well on these devices? Looking at the showcases theyre all really dope and cool and I would very much like to setup my own, is there any language prerequisites I should learn to build things like those? I'm specifically referring to [u/Rifqi2007](https://www.reddit.com/u/Rifqi2007) recent showcase along with his YouTube video. I'm moving into Linux just from windows and I've only experimented with debian installations on firmware bootloaders I side loaded off a Chromebook ( not the VM ). I've used kde plasma but that's about the experience I have. Sorry if the post seems weird but it feels so free that it's rather confusing where to start with as a newcomer, so sorry for anything weird I said and thanks in advance.",
@@ -52,8 +52,8 @@
             "This is gonna blow up.",
             "Sunflower flourishes well under well-drained moist, lime soil. It prefers good sunlight. Domesticated varieties bear single large flowerhead (Pseudanthium) at the top. Unlike its domestic cultivar type, wild sunflower plant exhibits multiple branches with each branch carrying its own individual flower-head. The sunflower head consists of two types of flowers. While its perimeter consists of sterile, large, yellow petals (ray flowers), the central disk is made up of numerous tiny fertile flowers arranged in concentric whorls, which subsequently convert into achenes (edible seeds).",
             "cute",
-            "\ud83d\ude00",
-            "\u2764\ufe0f"
+            "",
+            ""
         ]
     },
     "[OC] Firefox 128 will allow the main browser content background to be transparent": {
@@ -71,9 +71,9 @@
         "content": "",
         "num_comments": 24,
         "comments": [
-            "Where tf do y\u2019all find these hard ass backgrounds \nSick setup man \ud83d\udc4d\ud83c\udffb",
+            "Where tf do yall find these hard ass backgrounds \nSick setup man ",
             "that is a very nice color scheme!",
-            "This looks cool, nice work mate \ud83d\udc4f\ud83c\udffb\ud83d\udcaf",
+            "This looks cool, nice work mate ",
             "possible to get wallpaper link and bar config?",
             "Everforest user myself. Gotta say this is so clean and solid! Can't really believe it was all done on a KDE.\n\nAlso, how did you setup Spotify? That's a really solid player theme I wanna have for myself",
             "Wallpaper?  \nAnd where to get that image in neofetch?",

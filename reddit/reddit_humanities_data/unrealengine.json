@@ -36,7 +36,7 @@
         "content": "My skeleton\\\\Mesh are inside a transform group called SKM\\_Manny which has a -90 rotation due to the Y Up in Maya (required to use some libraries) which is done automatically when i import the manny rig.\n\nWhen i export and import the fbx into Unreal and (convert it to Z up on export) i get a extra 0,0,0 root which has the same name as the maya group name SKM\\_Manny showing up as the new parent root bone.\n\nDoes anybody have any ideas on how to fix this? I cant remove the group from maya or else it messes up the rotation, should be a setting on the export but i just cant seem to find it?\n\n",
         "num_comments": 1,
         "comments": [
-            "If you are looking for help, don\u2018t forget to check out the [official Unreal Engine forums](https://forums.unrealengine.com/) or [Unreal Slackers](https://unrealslackers.org/) for a community run discord server!\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/unrealengine) if you have any questions or concerns.*"
+            "If you are looking for help, dont forget to check out the [official Unreal Engine forums](https://forums.unrealengine.com/) or [Unreal Slackers](https://unrealslackers.org/) for a community run discord server!\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/unrealengine) if you have any questions or concerns.*"
         ]
     },
     "Custom/Special animations (eg: Smoke dash) on a humanoid rig?": {
@@ -47,7 +47,7 @@
         "num_comments": 3,
         "comments": [
             "The first option that comes to mind is to hide the character mesh, spawn the cloud particles, attach them to the actor. When the dash is complete you just reverse that process: remove the clouds, destroy the particles, make the character visible again. You can improve the transition by messing with animation montages and/or another particle system that 'dissolves' the player into a cloud-like mesh, you can look at the Content Examples project for how they make particles render in the shape of a character mesh to get an idea.",
-            "If you are looking for help, don\u2018t forget to check out the [official Unreal Engine forums](https://forums.unrealengine.com/) or [Unreal Slackers](https://unrealslackers.org/) for a community run discord server!\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/unrealengine) if you have any questions or concerns.*"
+            "If you are looking for help, dont forget to check out the [official Unreal Engine forums](https://forums.unrealengine.com/) or [Unreal Slackers](https://unrealslackers.org/) for a community run discord server!\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/unrealengine) if you have any questions or concerns.*"
         ]
     }
 }

@@ -7,8 +7,8 @@
         "num_comments": 9,
         "comments": [
             "Looks good for unixporn posts but can't imagine using this daily",
-            "Are they trawling back through the archives for things to fix? FIrefox is 19 years old, so this bug will have related to\u2026 Netscape Navigator?",
-            "Why would anyone want this? It wouldn\u2019t be a usable solution. Wouldn\u2019t be able to read a damn thing.",
+            "Are they trawling back through the archives for things to fix? FIrefox is 19 years old, so this bug will have related to Netscape Navigator?",
+            "Why would anyone want this? It wouldnt be a usable solution. Wouldnt be able to read a damn thing.",
             "So it's basically just a \"customization\" feature. Not something useful that I'd use, but streamers/gamers might be interested in this.",
             "There's a lot of people who want this actually, just search keyword like glass firefox, and it's optional so no win no lose, just a toy.",
             "Wow... \"useful\"",
@@ -37,9 +37,9 @@
             "Interesting results.. Arc and Brave are the lightest on memory usage.",
             "I need you to post it so I know it's a cross-post.",
             "its almost like you think you can compare apples and oranges.\n\nthis comparison is incredibly flawed.",
-            "*\u201dI did this test,\u201d not \u201cI done.\u201d",
+            "*I did this test, not I done.",
             "It's hard to swallow, but the Chromium engine is much more efficient compared to the Firefox Gecko engine.\nGecko engine lags behind today's standards, which is reflected in higher CPU and RAM consumption and slower loading of various websites or videos.",
-            "I\u2019d question how memory use was calculated. I did a comparison Chrome va Firefox on Mac myself. Firefox used 5% less RAM than Chrome. I tested using two tabs: a Google Spreadsheet and Azure Portal.  Both very heavy websites.",
+            "Id question how memory use was calculated. I did a comparison Chrome va Firefox on Mac myself. Firefox used 5% less RAM than Chrome. I tested using two tabs: a Google Spreadsheet and Azure Portal.  Both very heavy websites.",
             "I believe Memory Saver that's on by default, a Chromium feature is the one the makes big different, because Firefox doesn't unload background tabs.\n\nThis could be something Mozilla needs to implement.",
             "Firefox's is called Unload**OnLowMemory** for some reasons, it only works when system is about to run out of memory, which is about 400MB, which is useless, but Chrome works actively.\n\nAnd in above test with 8GB RAM system, it didn't work for sure, because it just use about 2-3GB, there's a tons of free memory left.\n\nSo both aren't comparable.",
             "Explain?"

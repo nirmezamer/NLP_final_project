@@ -18,10 +18,10 @@
             "if use game capture and not desktop capture then no one will see any thing but the game..  as for in game names that would have to be something in  game to hide those.",
             "OBS allows for Blur & pixilated overlays of sections. Considering most game setups have static positions for common games elements (usernames, stats...), it shouldn't be too hard to use a still image with holes in those sections as a key mask.",
             "In general, capture only window you want to stream, not the whole desktop view.",
-            "One thing I don\u2019t see mentioned that I used when I worked in college esports production. Run your stream with a delay. College esports keeps a 3 minute delay as standard but for personal streams I would run maybe a 20 second delay. You still interact with chat in a timely manner but if you show something you don\u2019t want seen you have 20 seconds to think about it, switch to obs, and stop stream while dropping delay. Dropping delay allows you to just tell obs to stop sending twitch video and to cut anything that hasn\u2019t been shown yet. Definitely something that helps a ton",
+            "One thing I dont see mentioned that I used when I worked in college esports production. Run your stream with a delay. College esports keeps a 3 minute delay as standard but for personal streams I would run maybe a 20 second delay. You still interact with chat in a timely manner but if you show something you dont want seen you have 20 seconds to think about it, switch to obs, and stop stream while dropping delay. Dropping delay allows you to just tell obs to stop sending twitch video and to cut anything that hasnt been shown yet. Definitely something that helps a ton",
             "Does the game have any streamer mode setting, or a plugin that can do the same thing?",
             "Ask chatgpt, it's been pretty helpful for niche needs like this for me lately.  Chances are though it's not a thing yet, even though you'd think AI would easily be able to receive input like specific text or programs (like password managers) and auto hide them.",
-            "Oh just it seems like it\u2019s would have to do so much in little time manually",
+            "Oh just it seems like its would have to do so much in little time manually",
             "You mean Minecraft well idk",
             "You guys stop asking chatgpt for everything."
         ]

@@ -9,7 +9,7 @@
             "Working my way through a pygame and tutorial and simultaneously trying to build my own 2D arpg game. Been a lot of fun so far.",
             "unicode fucking up my shit rn",
             "Trying to find a way to transpose certain data from an OPCUA device to an excel datasheet. Sockets keep giving me issues.",
-            "I\u2019ve been reading about Jane street\u2019s use of incremental and how they use it, so I\u2019m going to try and build my own version in Python \n\nWe have a big project at work coming up for real time risk generation and I\u2019m thinking something like incremental would be useful in that scenario",
+            "Ive been reading about Jane streets use of incremental and how they use it, so Im going to try and build my own version in Python \n\nWe have a big project at work coming up for real time risk generation and Im thinking something like incremental would be useful in that scenario",
             "An automation utility for Wayland. Similar to Autokey. Still needs a lot of work though.",
             "open source personal finance dashboard",
             "I'm a beginner with Python, and I've recently gone through the Code In Place course they made. I did the project on their IDE already, a Whac-A-Mole game, but I wanted to improve on it with better tools, so I started doing it on my own using Tkinter (through the tutorial on the tkdocs website).  \nAlthough the Tkinter documentation is very confusing, and I get better and faster results by searching what I need (but this could just be me being a beginner and not understanding it well), it's quite fun and interesting! I'm not exactly planning to use Python for making games, but it's still a nice experience.",
@@ -38,10 +38,10 @@
             "Do you have an exemple of implementation with Sqlalchemy (using asyncio)",
             "Does it work with Trio?",
             "We are much faster, trust me bro, I wont provide any code and any graphs and any examples but we are much faster! xD",
-            "It\u2019s 2-3 times as fast as my 2002 Subaru forester, so it MUST be \u201cblazingly fast\u201d",
+            "Its 2-3 times as fast as my 2002 Subaru forester, so it MUST be blazingly fast",
             "Hello! Thank you for the question.  \nWe've tested C implementation of psycopg.",
             "That's definitely a start!  I suggest different benchmarks for high-throughput (>100mb per query) and for tiny queries. It would also be interesting to see it compared with threaded queries vs async. And ofc include psycopg!\n\nGood luck!",
-            "Why be so fluffy?  Why not say:\n\n- memory safe\n- we wrote mypy annotations\n- low level api\n- definitely zero percent faster than existing options for approximately everyone\n\nI don\u2019t understand why the standard for Free Software README on Reddit in 2024 is now at about the level of Used Car Salesman, USA, 1987.\n\nIf your README for something that obviously duplicates fifty existing things doesn\u2019t include a \u201cwhy not use this\u201d and a \u201ccomparison with other things that isn\u2019t all positive\u201d, it\u2019s hard to imagine you really are trying to help the people you\u2019re talking to.",
+            "Why be so fluffy?  Why not say:\n\n- memory safe\n- we wrote mypy annotations\n- low level api\n- definitely zero percent faster than existing options for approximately everyone\n\nI dont understand why the standard for Free Software README on Reddit in 2024 is now at about the level of Used Car Salesman, USA, 1987.\n\nIf your README for something that obviously duplicates fifty existing things doesnt include a why not use this and a comparison with other things that isnt all positive, its hard to imagine you really are trying to help the people youre talking to.",
             "Hello!  \nUnfortunately, it doesn't.\n\nSince it's a rust library first, we use bindings between asyncio and rust, and as far as I know, there are no bindings between trio and rust.\n\nAnyway, thank you very much for the question, we'll look deeper into it."
         ]
     },
@@ -53,10 +53,10 @@
         "num_comments": 6,
         "comments": [
             "Holy crap I did not know about django unicorn, it seems like a massive timesaver",
-            "It is pretty cool. It\u2019s a lot of magic, but it works well.",
+            "It is pretty cool. Its a lot of magic, but it works well.",
             "I did not know about that, thanks!\n\nI might have reused that, though I do like the flexibility of context managers because you can insert logic with regular if statements or loops while deeply nested.",
             "I too like IPAs",
-            "# \ud83c\udf7b",
+            "# ",
             "do you know about [https://htpy.dev](https://htpy.dev) ? It is pretty flexible"
         ]
     },

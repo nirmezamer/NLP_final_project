@@ -19,14 +19,14 @@
         "content": "",
         "num_comments": 19,
         "comments": [
-            ">The crash reporter dialog now has a \u201cFinish\u201d button in the corner that activates once it\u2019s all done, so it\u2019s more obvious when and how you can get rid of it\n\nYay my first contribution :D",
+            ">The crash reporter dialog now has a Finish button in the corner that activates once its all done, so its more obvious when and how you can get rid of it\n\nYay my first contribution :D",
             "Plasma gets more and more impressive with each release:) looking forward to 6.2!",
             "Nice! I'm happy to see the 15-minute bugs decreasing. I wonder when the system-wide flatpak bug in discover gets fixed. Though seeing as they really treat these bugs as high priority, it's probably just a matter of time.",
             "Still no auto rotate toggle ;_;",
             "Taskbar show is broken when set to autohide \n\nGreat update otherwise!",
             "It would be kind of cool if DEs such as KDE or GNOME, could be used similar to WMs such as icewm or tabbed / tiling UIs. Kind of adjusting to the user's preferences. I use IceWM usually, largely because I can get things done with it faster, but I use many KDE applications, such as kde, okular etc... so it is like a semi-KDE in many ways.",
             "Thanks again! I yearn for replacing the shell of my windows work laptop by Plasma 6.2 when it arrives. Alas... I'll be yearning eternally",
-            "Congratulations and many thanks! \ud83d\ude04",
+            "Congratulations and many thanks! ",
             "Nice! Feels great doesn't it? :)",
             "How long did it take you to learn about kde technologies etc before contributing? I want to become kde contributor but I found it very difficult"
         ]
@@ -43,7 +43,7 @@
             "Yeah. Have been using it to watch anime since I have been having problems watching drm content on Firefox. \nBut it's not that great either. Uses a ton of ram and crashes most of the time.",
             "Also use brave. But it also has the same problems as edge since both are based on chromium.",
             "It's been a thing since at least 6.0 I'm pretty sure, it would ruin the charm if they fixed it now.",
-            "Is that... edge? \ud83d\udc80",
+            "Is that... edge? ",
             "Thank you for your submission.\n    \nThe KDE community supports the Fediverse and open source social media platforms over proprietary and user-abusing outlets. Consider visiting and submitting your posts to our community on [Lemmy](https://lemmy.kde.social/) and visiting our forum at [KDE Discuss](https://discuss.kde.org) to talk about KDE.\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/kde) if you have any questions or concerns.*",
             "Hi, this is AutoKonqi reporting for duty: this post was flaired as General Bug.\n\nWhile r/kde allows to discuss issues, raise their visibility, and get assistance from other users out of good will, it is not the proper channel to report issues and the developers able to fix them won't be able to act on them over Reddit.\n\nSo if this bug was not reported to the developers yet and it is in fact a bug in KDE software, please take a brief look at the [issue reporting guide](https://community.kde.org/Get_Involved/Issue_Reporting) and report the issue over the [KDE Bugzilla](https://bugs.kde.org). If it is a crash, be sure to read about [getting backtraces](https://community.kde.org/Guidelines_and_HOWTOs/Debugging/How_to_create_useful_crash_reports) so your report can assist the developers. If this is a known issue, you may want to include the bug report on your post so your fellow users experiencing the same thing can CC themselves to the report. Be sure to describe your issue well and with context. Thank you.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/kde) if you have any questions or concerns.*"
         ]

@@ -28,12 +28,12 @@
             "i have windows 11 installed on my computer, i have two ssds (one with windows 11 and one is another storage pool)\n\ncan i take these harddrives out and put in another computer and will it boot? if not what do i need to do",
             "How to put WIndows 11 to actual sleep like windows 10?\n\nSo my windows 11 laptops when put to sleep, actually still stay on. It leads to a lot of battery drain and unnecessary heat generation as well. Anyone know of a setting that can be changed to address this issue?",
             " Copying of files from the shared folder (from the old pc) to the new pc was happening at a very slow speed (about 3mbps) , What could be the cause of it and How can I improve this speed?  \n(Don't have suitable USB cables and external storage devices to do file transfer, this is the only way I have.)  \nBy the way, I was using my mobile hotspot as the private network to transfer files over.",
-            "I have an oled so I don\u2019t want too much for static images so i like to hide my taskbar. However, when it goes away it I move my cursor to the bottom of my screen to bring it back the animation is laggy/choppy. \n\nIt bothers me much more than it should, but is there anyway to fix this?",
+            "I have an oled so I dont want too much for static images so i like to hide my taskbar. However, when it goes away it I move my cursor to the bottom of my screen to bring it back the animation is laggy/choppy. \n\nIt bothers me much more than it should, but is there anyway to fix this?",
             "Enabled FnLock by accident, there's no designated button for it on my keyboard, and Fn + Esc or Shift, Caps lock, Ctrl, ect are NOT working. How disable.",
             "Anyway to increase the scroll speed or lines per scroll on trackpad, I have tried both the Settings App and the Pointer Options window but neither seem to have an effect on trackpad scroll speeds. I want to be able to reach the bottom of a page with one two finger swipe like on a MacBook. Right now it is unbearably slow.",
             "Can't activate Windows after reinstall\n\nI've bought a Samsung 990 Pro SSD and a new Windows 11 Pro key when I first got my G14. After recently finding out that Bitlocker was only using software encryption, I was forced to reinstall the OS again to enable hardware encryption. Now Windows claims it's unable to activate, even after manually typing in my own key because \"it looks like the hardware on this device has changed\" when it definitely hasn't. Now looking at the product key on the bottom of that settings page, it clearly seems to insist on using what seems like the original key that was preinstalled with my G14 which was for the Home edition and it's not letting me replace it with my Pro key due to the error message above.",
             "I can't find how to remove this god awful Terminal in Start menu right click options with cmd again. All Google results only show how to change provider which does nothing: menu still says \"Terminal\" and opens Terminal instead of cmd.",
-            "So Firefox , Edge and Chrome have started opening up a link in a new tab if I right click, I don\u2019t know why exactly. I have a Logitech Mouse so I uninstalled GHub but even then the behavior continued.\n\nIs there some setting I turned on that makes my right clicks open browser links in new tabs and not show me the right click context menu?",
+            "So Firefox , Edge and Chrome have started opening up a link in a new tab if I right click, I dont know why exactly. I have a Logitech Mouse so I uninstalled GHub but even then the behavior continued.\n\nIs there some setting I turned on that makes my right clicks open browser links in new tabs and not show me the right click context menu?",
             "I change my processor power limits and now when I go onto the advanced power settings on my laptop, processor power management does not come up. What should I do to change my processor power limits?"
         ]
     },
@@ -69,10 +69,10 @@
             "Not an Insider problem. You can try it right now by pressing Win+S to open specifically the search panel  \npress Win+S again and it will/should pop up like that again instead of disappearing like all the other panels do.",
             "regardless, ill probably file a feedback and post a link here",
             "yeah this is something i noticed from the beginning. not a insider thing",
-            "Noticed it a few months ago and noticed it again two days ago. I usually use win and directly type in. But when i tried win + s to close it and it didn\u2019t pop back down. That was annoying.",
+            "Noticed it a few months ago and noticed it again two days ago. I usually use win and directly type in. But when i tried win + s to close it and it didnt pop back down. That was annoying.",
             "Tbh i never noticed it but i quickly checked and could confirm since i am not on an insider version, either.",
             "yeah same, i usually type straight from the start menu and USUALLY i use windows search not as an actual search but as a quicklaunch. it's just quicker for me to type a few letters than to switch my grip to my mouse and click on an icon.",
-            "Recently ive been trying to adapt to powertoy run to do most things. It feels nice. It\u2019s like having a command line (sort of) but with a sleek bar interface."
+            "Recently ive been trying to adapt to powertoy run to do most things. It feels nice. Its like having a command line (sort of) but with a sleek bar interface."
         ]
     },
     "Can I remove this feature?": {
@@ -83,13 +83,13 @@
         "num_comments": 22,
         "comments": [
             "right cklick on taskbar, choose taskbar settings and there turn off widgets\n\ndone",
-            "Settings -> Personalization -> Taskbar -> Widgets (there\u2019s a toggle to turn it off)",
+            "Settings -> Personalization -> Taskbar -> Widgets (theres a toggle to turn it off)",
             "Remove Windows Web Experience Pack via winget and it'll do the job",
             "It is just a way to push MSN services and Edge browser (no matter what your default is) so I just disable it",
-            "God, I hate that crap. \n\nYou got ome job and it can't even do that half the time, open apps and make it easy and quick. And they add all this bs, which probably causes a lot of slowness and issues \ud83d\ude44",
+            "God, I hate that crap. \n\nYou got ome job and it can't even do that half the time, open apps and make it easy and quick. And they add all this bs, which probably causes a lot of slowness and issues ",
             "what are the benefits of disabling this? I will disable it too if the benefits are good",
             "turn off edge running in the background.",
-            "\u201cGavin newsom\u2019s chances\u201d\nHaha oh brother. That guys even worse then Biden.",
+            "Gavin newsoms chances\nHaha oh brother. That guys even worse then Biden.",
             "why would you say this on a windows 11 subreddit???",
             "This is the way to go. I just can't seem to turn of the feeds no matter much I try to customise, had to disable the widgets entirely."
         ]

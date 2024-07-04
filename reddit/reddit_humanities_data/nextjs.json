@@ -9,10 +9,10 @@
             "nice job on the job board. what's preventing you to go all in on that? seems like you have a few offers submitted by employers there.",
             "Thank you!! I have a few thinks to polish but the main issue right now is SEO (Im totally a noob with it) and acquiring traffic. The offers you see have been manually submitted by me lol",
             "I really liked the design on [moaijobs.com](http://moaijobs.com) I just started manually submitting job offers to hopefully atract some traffic. Do you know why Lemon Squeezy banned job boards? Also, do you have any tip regarding SEO? How many users do you have now?",
-            "I made a CLI that lets you create a Next.js portfolio + blog that automatically links to your GitHub. It\u2019s one of my first projects so would love some feedback. \n\nTry it out here:\n[create-boring-portfolio](https://create-boring-portfolio.vercel.app) \n\nOr just use `npx create-boring-portfolio`.",
+            "I made a CLI that lets you create a Next.js portfolio + blog that automatically links to your GitHub. Its one of my first projects so would love some feedback. \n\nTry it out here:\n[create-boring-portfolio](https://create-boring-portfolio.vercel.app) \n\nOr just use `npx create-boring-portfolio`.",
             "I started learning NextJS like 8 months ago and I have built   \n- my personal website [https://mrksph.com](https://mrksph.com)   \n- a job board focused on remote jobs in spain (still working on it) [https://teleworker.es](https://teleworker.es) \n\nI'd like to jump into a new project soon but I'm short of ideas",
             "I built a new job board boilerplate with Next.js 14, Supabase Postgres, Shadcn/UI, TailwindCSS, Resend, and Stripe.\n\nYou can checkout the launch here: \n\n[https://x.com/NithurM/status/1806700988826529860](https://x.com/NithurM/status/1806700988826529860)\n\nPlease let me know if you have any feedback. Thanks :)",
-            "I have built an open-source Next.js AI template.\n\n[https://next-js-ai-tool-layout-1.vercel.app/](https://next-js-ai-tool-layout-1.vercel.app/)\n\nHere's the github link [https://github.com/soulbliss/next-js-ai-tool-layout-1](https://github.com/soulbliss/next-js-ai-tool-layout-1)\n\nFeatures\n\nIt's a GitHub repository having a full Next JS 14 code  \n  \n- Uses layout files  \n- Loading screens  \n- Dashboard template  \n- Billing page template  \n- Support page template  \n- AI Image generator APP template  \n- Has an awesome login screen with magic link support  \n- Uses Next auth v4\n\nYou can go check it out and let me know the review on it \ud83d\ude4f"
+            "I have built an open-source Next.js AI template.\n\n[https://next-js-ai-tool-layout-1.vercel.app/](https://next-js-ai-tool-layout-1.vercel.app/)\n\nHere's the github link [https://github.com/soulbliss/next-js-ai-tool-layout-1](https://github.com/soulbliss/next-js-ai-tool-layout-1)\n\nFeatures\n\nIt's a GitHub repository having a full Next JS 14 code  \n  \n- Uses layout files  \n- Loading screens  \n- Dashboard template  \n- Billing page template  \n- Support page template  \n- AI Image generator APP template  \n- Has an awesome login screen with magic link support  \n- Uses Next auth v4\n\nYou can go check it out and let me know the review on it "
         ]
     },
     "It\u2019s not just you, Next.js is getting harder to use": {
@@ -23,14 +23,14 @@
         "num_comments": 46,
         "comments": [
             "Fun fact: none of you read the article",
-            "\u201cGetting harder to use for those who can\u2019t be bothered reading the docs\u201d\n\nFTFY",
+            "Getting harder to use for those who cant be bothered reading the docs\n\nFTFY",
             "Wtf, next has a very good dx, imagine having to set up all these in node + react by youself lol",
             "I've spent the past 2 months as the only person on our team using next14 with the app router and it is confusing but im getting there. The app router documentation isn't written well compared to the old pages router. It certainly is a big jump in complexity and as someone new to next it's been tough to work out. \n\nI don't think it's a framework problem as such, but the documentation could be a LOT better.",
             "Based OP, just trying to peddle his own framework.",
             "Fun fact, Next.js has saved me from a couple of headaches by not needing to handle the router, creating simple middleware APIs, thinking in a layout system, forcing me to use naming conventions in the files (page.tsx, layout.tsx), configuring cache, having a SSC by default and many other features.\n\nC Programming is harder. But I believe most people from here don't have a degree in CS and don't even know  what are low level programming languages such as Assembly to really know and understand what's hard.",
             "Any repo that becomes abandoned becomes incompatible. Is this normal? it sounds like something that would happen on WordPress. Which makes it a large mess.",
             "I think the larger issue is compatibility and maintenance of already deployed projects that were using pre-nextjs 13-ish. There is a developer overhead required here to keep these projects going, slightly higher than similar full stack frameworks.",
-            "If it\u2019s hard, then you are a bad dev. \ud83e\uddd0",
+            "If its hard, then you are a bad dev. ",
             "Fun fact: you suck at programming"
         ]
     },
@@ -41,10 +41,10 @@
         "content": "",
         "num_comments": 21,
         "comments": [
-            "Heh, just scraped every directory on github.com for .env files.\n\nI think you mean *our* OpenAI API key\ud83d\ude0e",
+            "Heh, just scraped every directory on github.com for .env files.\n\nI think you mean *our* OpenAI API key",
             "git reset --hard oldcommit  \ngit push -f",
-            "Some of my friends told me, don't worry I deleted it... \ud83e\udd26\u200d\u2642\ufe0f Hopefully it was for a school's project and it wasn't important password \ud83e\udd23 and now, before every project, it's the first thing that I put in my .gitignore. and let a .env.example",
-            "As a beginner, I\u2019m so excited to understand this \ud83d\ude05",
+            "Some of my friends told me, don't worry I deleted it...  Hopefully it was for a school's project and it wasn't important password  and now, before every project, it's the first thing that I put in my .gitignore. and let a .env.example",
+            "As a beginner, Im so excited to understand this ",
             "retarded ass thing to do",
             "just use .gitignore to prevent .env variables from being commited",
             "If you're not smart enough to know what .gitignore is then you're probably not smart enough to know when to not put secrets in the wrong file.",

@@ -8,8 +8,8 @@
         "comments": [
             "Do you guys think checkra1n will get updated for iOS 15 eventually?",
             "Any progress on an iOS 15 jb yet?",
-            "Still, people won\u2019t read it and post the same stuff day after day, over and over and over...",
-            "The \u201ccan I jailbreak\u201d page needs to be updated for A12-A14 on 14.4-14.5.1. It doesn\u2019t mention Fugu14 at all",
+            "Still, people wont read it and post the same stuff day after day, over and over and over...",
+            "The can I jailbreak page needs to be updated for A12-A14 on 14.4-14.5.1. It doesnt mention Fugu14 at all",
             "Hi, Ive been out of the jailbreak scene for a while. I have an iPhone 13 Pro Max, should I stay on 15.0.1 or upgrade to 15.1.1 if I want to jailbreak in the future?",
             "mod team made an announcement of removing a mod for undisclosed reasons. what was the cause for removal? just curious, i've lurked jb sub since iphone 5",
             "Is there a way to jb iOS 15 yet?",
@@ -25,10 +25,10 @@
         "content": "We're currently testing a new bot that can help you search tweaks and themes within the subreddit.\n\n&#x200B;\n\nSome of you may remember ARX8X's u/rJailbreakBot, and noticed is been down for almost a year. Today we are announcing that we are testing it's replacement: u/CanisterBot.\n\nThis is a bot made by u/stkc-win and powered by [Canister's API](https://canister.me/), this bot should be better at searching up to date packages from reliable sources. It's also open source, and you can check its source code [here](https://github.com/stekc/RedditCanisterBot).\n\n# Basic usage\n\n**Tweak search:**\n\n* Comment \\[\\[tweak name\\]\\]. \n\n&#8203;\n\n    [[Crane]]\n\n*  Using !package \\[name\\] or !tweak \\[name\\]. \n\n&#8203;\n\n    !package snowboard | !tweak snowboard\n\n**Repository search:**\n\n!repo \\[slug\\] \n\n    !repo chariz\n\n**Jailbreak search:**\n\n* !jailbreak or !jb \\[name\\] \n\n&#8203;\n\n    !jailbreak dopamine | !jb taurine\n\nWe appreciate letting us know possible bugs.\n\n&#x200B;\n\nPD: We know the account is suspended, the bot will still reply to you. Once testing is complete, we will migrate the bot to a different account.",
         "num_comments": 92,
         "comments": [
-            "I\u2019ve still continued tagging tweaks like that out of habit. I noticed it started working a couple weeks ago. Awesome to have it back, it\u2019s super useful",
+            "Ive still continued tagging tweaks like that out of habit. I noticed it started working a couple weeks ago. Awesome to have it back, its super useful",
             "Speaking as a mod of /r/LegacyJailbreak, it would be nice to have the bot work there too",
             "Hmm I think that it should also fetch if this package is available to rootless like Havoc\nThat would be nice",
-            "This is fantastic, thank you!! And thank you u/stkc-win for not having that random added quote or phrase line which wasted space and often contained curse words \ud83d\udc4d\ud83c\udffc",
+            "This is fantastic, thank you!! And thank you u/stkc-win for not having that random added quote or phrase line which wasted space and often contained curse words ",
             "Hello u/Night1337_, could you check your DMs? I sent you a message regarding the new bot.",
             "chat who's ready for the new jailbreak update!!!!",
             "That would be entirely up to u/stkc-win to start monitoring that subreddit as well. However, since we are using a 'suspended' account, you may need to add an AutoMod rule to auto approve its comments.",
@@ -45,10 +45,10 @@
         "num_comments": 7,
         "comments": [
             "Bad tweak.\n\nPress OK, then open your package manager and delete the last tweak(s) you installed. Respring and if all is ok - that message won't reappear - and it was one of the tweaks you uninstalled that is the culprit.",
-            "Ok first read, and second, what question are you even asking? What\u2019s your device, iOS, jailbreak, etc",
+            "Ok first read, and second, what question are you even asking? Whats your device, iOS, jailbreak, etc",
             "Did you possibly use derootifier?",
             "Click restart if phone restart to this mode again delete the last tweak whats you installed (i bad know English)",
-            "If you can\u2019t remember and that doesn\u2019t work use Use [[icleaner]] > tweaks.  Turn off all tweaks then turn on a few at time until you isolate the crashing tweak.",
+            "If you cant remember and that doesnt work use Use [[icleaner]] > tweaks.  Turn off all tweaks then turn on a few at time until you isolate the crashing tweak.",
             "Grammar correction!\n\nPress on \"Restart\", if your iDevice got into this mode again, uninstall the last tweak that you've installed. (Sorry I badly understand English)"
         ]
     },
@@ -59,11 +59,11 @@
         "content": "I recently just jailbroken my iphone x and I\u2019m trying to add Karens repo on sileo, but it just throws me an error saying its not a valid source. I have ios 16.6.1 using dopamine jailbreak if that helps.",
         "num_comments": 6,
         "comments": [
-            "Scratch that Im not able to add any repo. It just keep saying it didn\u2019t find the architecture. How do I fix this?",
+            "Scratch that Im not able to add any repo. It just keep saying it didnt find the architecture. How do I fix this?",
             "Looks like its down for now",
             "Because the repo/s you are trying to add are for a rootful jailbreak, whereas you are running a rootless jailbreak.",
             "Karen's repo is down currently.",
-            "Ooohhh, so that\u2019s why. Im kinda new to this, last jailbreak I did was uncover for ios 11",
+            "Ooohhh, so thats why. Im kinda new to this, last jailbreak I did was uncover for ios 11",
             "A lot of the rootful repos have been updated to both rootful/rootless and they will determine your architecture and provide you with what tweaks are available.\n\nPlenty of newer rootless repos as well - google is your friend.\n\nAnd yes, Karen's repo is down currently."
         ]
     },
@@ -74,15 +74,15 @@
         "content": "I was doing some research on my apple tv and trollstore and jailbreaking and found on backmarket for $100 you can get first gen apple tv 4k's for $100 [here](https://www.backmarket.com/en-us/p/tv-4k-32gb/93554e07-29f7-40e3-acf4-2af96c4cc321#l=10) i might get one myself and try to jailbreak it, if i do ill update this post",
         "num_comments": 19,
         "comments": [
-            "The AppleTV jailbreak scene is basically dead. There\u2019s maybe a few random things to install but it\u2019s not really worth it. I jailbroke my AppleTV 4 HD for about a year then just updated because it was pointless.",
+            "The AppleTV jailbreak scene is basically dead. Theres maybe a few random things to install but its not really worth it. I jailbroke my AppleTV 4 HD for about a year then just updated because it was pointless.",
             "What exactly can a jailbroken AppleTV do?  Because a current gen firestick is like half that price new, can it do anything that can't?",
             "Don't you need a special cable to do this? The HD model has a micro USB so it should work without one but the A8 is so slow I couldn't recommend buying one.",
             "How does one jailbreak an Apple TV?",
-            "With emulators on the App Store now, I actually cannot think of a single reason you\u2019d want to jailbreak one, except maybe *certain* media apps where it\u2019s probably just easier and more functional to airplay.",
-            "The fact that you still can\u2019t get a reliable browser is really telling of how well the tvOS jailbreak community is doing",
+            "With emulators on the App Store now, I actually cannot think of a single reason youd want to jailbreak one, except maybe *certain* media apps where its probably just easier and more functional to airplay.",
+            "The fact that you still cant get a reliable browser is really telling of how well the tvOS jailbreak community is doing",
             "Lmao I'm almost sure mine is that model might try to JB it",
             "I thought their os was outdated?",
-            "I mean there\u2019s 4k steaming devices from Walmart for like $20-30. Stupid easy to sideload and customize because it\u2019s basically a modded android. Lol",
+            "I mean theres 4k steaming devices from Walmart for like $20-30. Stupid easy to sideload and customize because its basically a modded android. Lol",
             "I wanna know the same cause my fire stick saved me billions"
         ]
     }

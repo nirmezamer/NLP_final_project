@@ -6,10 +6,10 @@
         "content": "I am currently doing a certification on Gen AI and the instructor said this -\n\"All text generated from a LLM is hallucinated. The generation just happens to be correct most of the time.\"",
         "num_comments": 139,
         "comments": [
-            "He\u2019s just saying that the mechanism for producing all the text is the same. There\u2019s no time when something flips or goes wrong and it goes into \u2018hallucination mode\u2019, it\u2019s all the same thing. Definitely worth remembering. It\u2019s kindof as obvious as \u2018water is wet\u2019 \ud83d\udc40 Your instructor phrased it provocatively enough to get you thinking\u2026 \ud83d\udc4d",
+            "Hes just saying that the mechanism for producing all the text is the same. Theres no time when something flips or goes wrong and it goes into hallucination mode, its all the same thing. Definitely worth remembering. Its kindof as obvious as water is wet  Your instructor phrased it provocatively enough to get you thinking ",
             "they are just playing with semantics. It's true that all of the text generated is not based on reality, but an approximation of reality which makes sense, but it's a semantic difference not some deep insight.",
             "certification on gen ai is a fake scam, sorry dude v_v",
-            "Ehhh, semantics and anthropomorphising. But why even call it a hallucination, just say it\u2019s the statistical probabilities of what comes next. Sometimes the probability is closest to fact sometimes it\u2019s not.",
+            "Ehhh, semantics and anthropomorphising. But why even call it a hallucination, just say its the statistical probabilities of what comes next. Sometimes the probability is closest to fact sometimes its not.",
             "anyone can play semantics games",
             "Some say most of your phenomenology is a construction of your mind, a type of hallucination that just so happens to tend to have sufficiently accurate handshakes between your top-down modeling and bottom-up sense-data from the \"external world\". It's as though we too hallucinate all the time, but just so happen to be correct \"enough\" of the time. I don't have a problem with some form of naive realism though.",
             "LLMs just don't have any means of knowing what they don't know. So therefore the statement of your instructor is valid.",
@@ -63,11 +63,11 @@
             "I'm not sure I understand what you're saying here, but if you're saying you're thinking about moving from native Ubuntu to Ubuntu under WSL, there's a major performance difference in at least one place. I started on WSL and moved to Ubuntu native and my time to load a 70B 4 bit K\\_M GGUF quant went down from twenty minutes (!) to about 90 seconds.",
             "Use linux and conda venv.",
             "linux native > windows > wsl2",
-            "Can\u2019t you just containerise your setup with docker /podman?",
+            "Cant you just containerise your setup with docker /podman?",
             "Also if on ubuntu: `sudo systemctl stop unattended-upgrades` and then `sudo apt remove unattended-upgrades` It's the equivalent of microsoft restarting your machine randomly for windows update and whoever proposed it ought to be taken outside and beaten with the stupid stick. Locks up apt for extremely long periods and I'm pretty sure it broke my graphics drivers on more than two occasions.",
             "Thanks, this is helpful indeed.",
-            "Yeah I work at\u2026 one of the big companies. We deal with cuda driver issues alllll day and night\u00a0",
-            "Thanks. That\u2019s crazy. I have 3 4090s on a threadripper 7960x with 128gb ram. Loading a larger model takes me like 15 seconds most of the time natively. I\u2019ve just been going nuts with shit breaking due to updates but I don\u2019t want to risk missing security updates. I just know windows better.\n\nI\u2019m not planning on nuking it but I might try running it on KVM.",
+            "Yeah I work at one of the big companies. We deal with cuda driver issues alllll day and night",
+            "Thanks. Thats crazy. I have 3 4090s on a threadripper 7960x with 128gb ram. Loading a larger model takes me like 15 seconds most of the time natively. Ive just been going nuts with shit breaking due to updates but I dont want to risk missing security updates. I just know windows better.\n\nIm not planning on nuking it but I might try running it on KVM.",
             "I prefer the native python env. I had better results as sometimes conda would mix up which python/pip and to where is installing things"
         ]
     },
@@ -79,13 +79,13 @@
         "num_comments": 15,
         "comments": [
             "Be sure to add a license.",
-            "Update: Didn't expect so many people to see this haha! Just pushed an updated version \ud83d\ude4f",
+            "Update: Didn't expect so many people to see this haha! Just pushed an updated version ",
             "Omg I was just thinking about about something like this today, super cool looking thanks for sharing!",
             "Seems like the zip file needs to be inside the .git directory to be processed. You might want to add that to the instructions.",
             "You don't need to blacklist files, you're already whitelisting my friend.  If you took out the 'skipped extensions' the behavior would be identical.",
             "Cheers for the source I'll try it out! \n\nI was having dumb issues with lists for some reason so this info helps x",
             "I was trying to do something like this a few days ago, but it wasn't working because I was trying to extract it as plain text. Let's see how this method turns out.",
-            "Should just be able to click browse and grab a zip file and process it that way (unless I bricked something in last update which is a high probability \ud83d\ude02)",
+            "Should just be able to click browse and grab a zip file and process it that way (unless I bricked something in last update which is a high probability )",
             "Claude 3.5 isn't great at writing the most optimized code. Also pretty bad at making things into classes unless you ask for it.",
             "it seems the issue was resolved only after placing the file in the bin directory. Initially, I tried to process the zip file directly as plain text, which led to problems. Adding this detail to the instructions might prevent others from facing the same issue. Perhaps there's a need to ensure files are in specific directories for successful processing. Any additional insights or updates to the script that could streamline this would be greatly appreciated."
         ]

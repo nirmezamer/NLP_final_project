@@ -6,7 +6,7 @@
         "content": "# Post anything.\n\n* Want to discuss something?\n* Want to have a moan?\n* Want to show something off?\n\nDo it here.\n\n[**View all previous megaposts here!**](https://www.reddit.com/r/homelab/wiki/megaposts)",
         "num_comments": 37,
         "comments": [
-            "I sometimes wonder how much cheese I can fit in my R720 before it stops working. \ud83e\udd14",
+            "I sometimes wonder how much cheese I can fit in my R720 before it stops working. ",
             "Why is this thread known as \"the post formerly known as ...\" but it doesn't have a new name?",
             "Uptime kuma has a really great python package for API. Much easier to bulk add everything that way",
             "Just spent half an hour going progressively more insane trying to get postgres auth to work. No matter what I set the auth fails.\n\n...turns out I've got more than one VM with hostname \"postgres\" on the network. fuuuuuu",
@@ -68,9 +68,9 @@
             "Make sense! Curious what is the $$ for the dual network bandwidth? Are you using 2 ISP providers with dedicated lines?",
             "Choya is the best plum wine.",
             "I thought it looked huge until I saw the wine bottle for scale, lol. Adorable yet powerful setup, love it!",
-            "How do you protect your home infrastructure as this is the biggest cons for me. I have also k3s cluster and expose some of the services outside of my homelab but in the only user of that services. It constantly keep me thinking what if somebody would compromise one of my container and thus compromise my home network. Of course I\u2019m trying to prevent they in a various ways but because I\u2019m not really a security engineer but a software developer I\u2019m still afraid I missed something",
+            "How do you protect your home infrastructure as this is the biggest cons for me. I have also k3s cluster and expose some of the services outside of my homelab but in the only user of that services. It constantly keep me thinking what if somebody would compromise one of my container and thus compromise my home network. Of course Im trying to prevent they in a various ways but because Im not really a security engineer but a software developer Im still afraid I missed something",
             "I know you've stated what is currently running on your stack; but if you were to host other services on this cluster, what would it be?",
-            "Good price! You should consider providing a hosting service \ud83e\udd13",
+            "Good price! You should consider providing a hosting service ",
             "Never seen the extra fruit, my wife would love that"
         ]
     },
@@ -82,15 +82,15 @@
         "num_comments": 123,
         "comments": [
             "Those cisco switches are quality...the phone system should come with a trigger warning for those of us who once managed shoretel...not that any of the replacements are better.",
-            "Looks like you didn\u2019t get first dibs.",
+            "Looks like you didnt get first dibs.",
             "NAC-1 and NAC-2 in your last picture are part of the fire alarm system, please don't take those.",
-            "grab the ups and those 2960x\u2019s that\u2019s about it.",
-            "Get the UPS'es and the 2 black power supply things\n\nCan never go wrong on some power supplies, especially battery backed ones - good for random projects\ud83d\ude02",
+            "grab the ups and those 2960xs thats about it.",
+            "Get the UPS'es and the 2 black power supply things\n\nCan never go wrong on some power supplies, especially battery backed ones - good for random projects",
             "Looks like someone already took 90% of the hardware except the patch panels and phone system. That UPS looks nice though.",
             "Definitely grab the ShoreTel switches. And then run them over with your car or use them for target practice.",
             "I'd be taking that switch, and the entire rack if I could manage it. The UPS is a steal. Cables might come in handy...",
-            "I mean free is free....take whatever isn't bolted down lol, then come back with a wrench \ud83e\udd23",
-            "Honestly, surprised no one is saying the racks themselves. I\u2019d take that Tripplite UPS and the any Chatsworth rack I could. Quality stuff."
+            "I mean free is free....take whatever isn't bolted down lol, then come back with a wrench ",
+            "Honestly, surprised no one is saying the racks themselves. Id take that Tripplite UPS and the any Chatsworth rack I could. Quality stuff."
         ]
     }
 }

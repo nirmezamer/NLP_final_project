@@ -39,14 +39,14 @@
         "num_comments": 9,
         "comments": [
             "That's a really neat idea. Which websites does it draw the workflows from?",
-            "Wowwwwww can\u2019t wait to try this THANK YOU!",
+            "Wowwwwww cant wait to try this THANK YOU!",
             "I have a question sir, how did you do that?",
             "Add civit ai website too",
             "civit ai seems to have a ton, will definitely look into adding them",
             "thank you sir",
             "Cool",
             "it draws from [openart.ai](http://openart.ai) and comfyworkflows right now, am open to suggestions for adding more too",
-            "hey guys, i always love seeing a cool image online and trying to reproduce it, but trying to find the original method or workflow is troublesome since google\u2018s image search just shows similar looking images. So, i added reverse image search that queries a workflow catalog to find workflows that produce similar looking results.  \n  \nyou can try it out here:\u00a0[https://comfyui-cloud.com/workflows/image-search](https://comfyui-cloud.com/workflows/image-search?utm_source=reddit)  \n  \ni really appreciated the feedback from last time, and would love to hear your thoughts again!"
+            "hey guys, i always love seeing a cool image online and trying to reproduce it, but trying to find the original method or workflow is troublesome since googles image search just shows similar looking images. So, i added reverse image search that queries a workflow catalog to find workflows that produce similar looking results.  \n  \nyou can try it out here:[https://comfyui-cloud.com/workflows/image-search](https://comfyui-cloud.com/workflows/image-search?utm_source=reddit)  \n  \ni really appreciated the feedback from last time, and would love to hear your thoughts again!"
         ]
     },
     "What's the best faceswap for facial expressions?": {

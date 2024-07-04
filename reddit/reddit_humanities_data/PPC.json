@@ -11,8 +11,8 @@
             "To you agency people making $662k and $740k... that's gotta be like, agency owners, right? \n\nOr just some stupid rediculous performance bonuses?",
             "Thanks Duane! Last year's helped me advocate for a bump in pay. Saw you on a Optmyzr PPC Town Hall video recently, keep it up!",
             "Thanks for doing this work. AU and India agency max salaries of $440k or so sounds like some are owners and not employees.\n\nWas surprised how many were from agency. Posts on here tend to be from freelancers- maybe it's the cohort most likely seeking advice or sense checking with peers? Agency folks can just hit up a colleague or manager to bounce ideas around",
-            "Our community needs more responses from women. Without the volume being closer to the men's, it is really unclear what is causing such differences in salaries.\n\nMaybe it's just reflective of the demographics of reddit though? \ud83e\udd37\u200d\u2640\ufe0f",
-            "Thanks as always Duane \ud83d\ude4c",
+            "Our community needs more responses from women. Without the volume being closer to the men's, it is really unclear what is causing such differences in salaries.\n\nMaybe it's just reflective of the demographics of reddit though? ",
+            "Thanks as always Duane ",
             "thanks for the great work!",
             "Thanks for the work, it is helpful.",
             "Great info, thank you for your effort!"
@@ -28,7 +28,7 @@
             "Why would they do this, they're making tonnes of money credit card fees shouldn't be an issue for them.",
             "I am impressed they didn't open their own bank/payment processor to benefit from the fees but instead they did this which will make them lose clients",
             "Google needs to understand that offering credit card payments is a huge benefit to small businesses with uncertain or irregular cash flow.\n\n**Please contact your elected officials**. Also contact Sen. Mike Lee of Utah, who has done a good job of challenging Google (I'm not a Mike Lee fan, but the guy has authored some legislation to try and reel Google in and it's sorely needed).",
-            "Now imagine a reality where everyone is finally moved on \u201cMonthly Invoicing\u201d, and then Google decides it\u2019s too risky, and rejects credit limit increase or worse scales back the credit limits they approved for accounts, next minute you need to make daily/weekly bank deposits just to keep your account within _Googles Defined_ credit limit if you want any chance of scaling your business. Before you know you need to make bank deposit repayments every other day, effectively 2 days credit facility and getting zero Card Protection / Benefits for it\u2026",
+            "Now imagine a reality where everyone is finally moved on Monthly Invoicing, and then Google decides its too risky, and rejects credit limit increase or worse scales back the credit limits they approved for accounts, next minute you need to make daily/weekly bank deposits just to keep your account within _Googles Defined_ credit limit if you want any chance of scaling your business. Before you know you need to make bank deposit repayments every other day, effectively 2 days credit facility and getting zero Card Protection / Benefits for it",
             "We lost, they have our a$$",
             "I'm totally with you but let's face it, google doesn't give a fuck about those spending less than a million or so per year",
             "Do you have a source for this? I can't seem to find any info on this, nor have I been notified by Google of changes.",
@@ -45,7 +45,7 @@
         "num_comments": 2,
         "comments": [
             "PMax (and Google Ads in general) will self attribute all conversions if possible. Check under Conversion Settings if view-through conversions are counted as conversions.\n\nI'll stick to GA4 for reporting and Google Ads for optimizations.",
-            "Check your conversion tracking so your tags are firing properly. Google Tag Manager can help [debug](https://support.google.com/tagmanager/answer/6107056?hl=en). Duplicate tags and script errors are very common. Also check to make sure you\u2019re not firing 2 purchase events (one for GA4 Ecom & one for GAds) combined into the purchase category in GAds."
+            "Check your conversion tracking so your tags are firing properly. Google Tag Manager can help [debug](https://support.google.com/tagmanager/answer/6107056?hl=en). Duplicate tags and script errors are very common. Also check to make sure youre not firing 2 purchase events (one for GA4 Ecom & one for GAds) combined into the purchase category in GAds."
         ]
     },
     "Considering giving up on Google completely and migrating to FB/Instagram": {
@@ -67,7 +67,7 @@
         "num_comments": 3,
         "comments": [
             "PMax is great but it can be harder to use and sometimes does not work for all ad account. Nothing wrong with using search campaigns and shopping campaigns to make your business more money and get conversions. We still use both campaigns types and PMax where it makes sense for clients.",
-            "PMax is highly automated so expect it to churn through spend for a while it learns what converts. Standard Shopping can be highly customized around your catalog & goals. Ex: PMax might focus on selling your $50 low margin items and ignore your $175 high margin products. It\u2019s always good to have a professional work with you on strategy.",
+            "PMax is highly automated so expect it to churn through spend for a while it learns what converts. Standard Shopping can be highly customized around your catalog & goals. Ex: PMax might focus on selling your $50 low margin items and ignore your $175 high margin products. Its always good to have a professional work with you on strategy.",
             "You know the concept of look-a-like audiences? PMax does this except it's look-a-like advertisers. \n\nFor smaller retailers there just isn't enough data to model conversions for every product and every keyword, so Google is going to lump you in with what it thinks are similar advertisers to aggregate data in PMax. \n\nSometimes this works, many times it doesn't. When it doesn't there isn't any signal for PMax to latch onto to bring it back up. It becomes a death spiral. Gradually grinding down to no activity.\n\nWith standard shopping you can see where it's going wrong and dial it back in. It's even possible to use standard shopping to \"train\" the product level keyword data for PMax later on. \n\nFor most smaller account query filtered standard shopping is the right choice. The trouble is it takes a lot more work than PMax and fewer people can do it well."
         ]
     }

@@ -34,7 +34,7 @@
             "<scratches head> Hmmmkay, sounds like some super fun discussions are going on internally. Wish you the best of luck there, those can be a real hoot.",
             "The agent will reapply the settings every 15 minutes (I think), so it may just be a case of bad timing. However, IIRC you would also need to restart the WSUS service after making the registry changes.",
             "I tried that too. I've even rebooted the computer and it still doesn't work even though I can see that SCCM has not yet reapplied the settings in the registry.",
-            "Oh, you bet! \ud83d\ude0a"
+            "Oh, you bet! "
         ]
     },
     "ADR not working for HP Client Updates Catalog": {
@@ -56,7 +56,7 @@
         "num_comments": 2,
         "comments": [
             "Alright... after some investigation... it appears Win10 22H2 do not include .Net 4.8.1. So maybe that is why it is failing. So then, why is Wimwitchfk trying to install these .NET 4.8.1 updates....",
-            "Yep you need to grab the cab for the .net 4.8.1 install from the windows update catalog site & add it to the .net updates folder for wimwitch.\n\nI haven\u2019t used the forked version yet, but this works with the OG."
+            "Yep you need to grab the cab for the .net 4.8.1 install from the windows update catalog site & add it to the .net updates folder for wimwitch.\n\nI havent used the forked version yet, but this works with the OG."
         ]
     },
     "Low MCC usage - DO Timeout query": {

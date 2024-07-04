@@ -13,7 +13,7 @@
             "Everything about Azure's API gateway product *API Management* : aka.ms/apimlove",
             "h y p e s t key on google for retail keys",
             "There are very good courses on udemy.com...specifically by Alan Rodrigues.",
-            "What does everyone do for gaining Ilene\u2019s and updates on azure? What tools do they use? Ie twitter, threads, something else?",
+            "What does everyone do for gaining Ilenes and updates on azure? What tools do they use? Ie twitter, threads, something else?",
             "One not here is Ciralto on youtube. His automation videos are really good.",
             "Hello everyone, i have a question, how i can block regular users from creating Guest accounts? I will appreciate any advice,thanks a lot"
         ]
@@ -41,7 +41,7 @@
         "content": "Hello everyone! I'm quite new to being a sysadmin/azure user so please don't mind my ignorance.\n\nI have an application I'd like to deploy to Azure. It's a Remix Node.JS application that uses MongoDB for the database.\n\nMy current approach is to create:\n\n1. a VM that runs MongoDB (with data stored on a small separate disk)\n2. a container app that runs the application itself built with docker from GitHub\n\nNow, I don't know if my current approach is the best (please tell me if not!!) but I'd like to know if there would be a way to peer those 2 services so that the container app can access the database more efficiently.\n\nThe services are in one region so I kind of assumed it would be possible, but I can't seem to find the option. I hope it wouldn't require me to dellocate/recreate the services. Thank you!!",
         "num_comments": 1,
         "comments": [
-            "Running databases in a VM is not the cloud way. Change that with Cosmos DB for MongoDB if possible. Container apps is a solid choice. Now connecting these can happen in multiple ways:\u00a0 DB is reachable either fully public, retricted or in private only. I would opt for last option, only allowing access to the db from the container apps and completely shut off the public endpoint."
+            "Running databases in a VM is not the cloud way. Change that with Cosmos DB for MongoDB if possible. Container apps is a solid choice. Now connecting these can happen in multiple ways: DB is reachable either fully public, retricted or in private only. I would opt for last option, only allowing access to the db from the container apps and completely shut off the public endpoint."
         ]
     },
     "Deploying a Distributed Laravel Application to Azure Container Apps": {

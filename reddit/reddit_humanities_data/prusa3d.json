@@ -10,9 +10,9 @@
             "Gotta say, that's one fancy looking kitty litter scoop",
             "this is a partial clog that happened on layer change retraction and fixed itself after the outer perimeter, probably during infill. you still have most of that layer, but the walls werent extruding at the time.",
             "From my point of it would kind of funny but also raise my question why. The gcode will be local generated and then transferred to connect. So what is the root cause. Strange.",
-            "So prusaconnect is the reason, does it just not transfer correctly? I guess back to usb, but I\u2019ve also read elsewhere that the prusa usb has issues as well. I\u2019ve had to reformat it once since prusaconnect wasn\u2019t able to load anything in.",
+            "So prusaconnect is the reason, does it just not transfer correctly? I guess back to usb, but Ive also read elsewhere that the prusa usb has issues as well. Ive had to reformat it once since prusaconnect wasnt able to load anything in.",
             "It is strange. My suggestion is to use another usb2.0 drive and does not use prusa connect. I do not have time to analyze the issue.\n\nI am using octoprint until this is resolved, because I had randomly prints with these empty lines.",
-            "Hmm well this problem is not always on the same vertical position so the partial clog could be the reason. \nThe problem started with a new silk filament. I will check the cold pull. \n\nThanks for the hint. \ud83d\udcaa",
+            "Hmm well this problem is not always on the same vertical position so the partial clog could be the reason. \nThe problem started with a new silk filament. I will check the cold pull. \n\nThanks for the hint. ",
             "It just works!",
             "Do you use octoprint?",
             "Welcome in the club\n\nhttps://forum.prusa3d.com/forum/english-forum-original-prusa-i3-mk4-general-discussion-announcements-and-releases/prusa-mk4-missing-lines-randomly/"
@@ -25,10 +25,10 @@
         "content": "",
         "num_comments": 12,
         "comments": [
-            "It was already mentioned, but reduce your layer height in the area for the threads (height range modifier). Doing so provides more of an overlap from layer to layer. Pretty sure Prusa has a help article regarding this\u2026",
+            "It was already mentioned, but reduce your layer height in the area for the threads (height range modifier). Doing so provides more of an overlap from layer to layer. Pretty sure Prusa has a help article regarding this",
             "Printing threads depends on the printer. I fiddled a couple weeks with that but i assume you cant change the thread angle?\n\nFor this problem i would reduce speed, reduce layer height for the thread section and i would also use some internal brim. The tube form is funneling the head from the heat bed up there which is causing the threads to sag more. Edit: Or i guess you could throw like a paper towel in there halfway through. Just anything to help the filament cool faster so the threads dont sag and mess up",
             "Good advice but also contributing is that you have a sharp profile on that inner thread: would help to flatten that profile.",
-            "I know you\u2019re trying to get the print to be perfect, but just in case the perfect is getting way of the good enough here: that adapter will probably work despite the flaws. If it doesn\u2019t fit, just snip off the erroneously straight parts.",
+            "I know youre trying to get the print to be perfect, but just in case the perfect is getting way of the good enough here: that adapter will probably work despite the flaws. If it doesnt fit, just snip off the erroneously straight parts.",
             "1 is barely helping mostly with overhangs - at least with my experiences. but 2 is the most simple and easy solution. this increases the surface area of each line to the one prior and thus should eliminate these 'shortcuts'.",
             "This right here. Solid advice.",
             "When I printed threads I've noticed this weird effect also. Only happens on the threads, rest of the print is perfect. Don't know what causes it but also the threads still work perfectly fine so I just ignore it. But you're not the only one at least!",
@@ -46,12 +46,12 @@
         "comments": [
             "Bummer that this doesn't include the XL. I've been considering one for a few weeks, and free shipping or a gift card might have been enough to push me over the edge.",
             "Ah can I get this retroactively?",
-            "It doesn\u2019t really make sense to offer discounts on the XL until they are caught up on the backlog, which is still 3-4 weeks.",
+            "It doesnt really make sense to offer discounts on the XL until they are caught up on the backlog, which is still 3-4 weeks.",
             "No idea. I just finished assembling mine. Hoping we can get something. Have you reached out to prusa yet?",
             "for pending orders that have not been delivered yet you might get something.\n\nanything thats already at your home id say its very unlikely you will get anything.",
             "They are geared more towards the commercial and educational market. Many business and schools require any purchase be made from a company that at minimum has a US presence. Their price is higher to reflect the shipping costs. Institutional sales are generally also much more time and labor intensive than a sale to a retail customer. No forms to fill out in triplicate and such.",
-            "I don\u2019t know about the US, but here in Canada every time I buy direct from Prusa, I get hit with duties. It was about $150 on my mk4 kit",
-            "Ok. But the blog says they\u2019re offering the same deal as Prusa is during the promotion. ??",
+            "I dont know about the US, but here in Canada every time I buy direct from Prusa, I get hit with duties. It was about $150 on my mk4 kit",
+            "Ok. But the blog says theyre offering the same deal as Prusa is during the promotion. ??",
             "In North America printedsolid.com is selling the Prusa products (since I guess Prusa owns them). \n\nHowever their price is $1299 shipped for an assembled MK3 and Prusa is selling it for $1099 with free shipping now. \n\nWhy would I buy from them rather than direct?"
         ]
     },
@@ -66,12 +66,12 @@
             "Is your first layer perfect? I would think some of the problem is first layer calibration.",
             "You can try increasing the extrusion width",
             "Lower the layer height? Those are small features for those layers, you can check the overlap in the sliced file.",
-            "First layer looks good, it\u2019s just the slight overhang from the egg at the beginning that looks bad",
-            "I\u2019m doing .15 rn, should I lower it more? I almost exclusively print on .15",
+            "First layer looks good, its just the slight overhang from the egg at the beginning that looks bad",
+            "Im doing .15 rn, should I lower it more? I almost exclusively print on .15",
             "Maybe post a picture of first layer?",
             "Will do tomorrow, not home currently",
             "it's hard to see what's going on from your photos. Have you tried using supports?",
-            "It\u2019s an \ud83e\udd5aand only the bottom is messing up from the slight overhang. But it\u2019s so slight it shouldn\u2019t be happening. Using supports would just make it worse in the end"
+            "Its an and only the bottom is messing up from the slight overhang. But its so slight it shouldnt be happening. Using supports would just make it worse in the end"
         ]
     },
     "New HT90 so how fast is it?": {
@@ -81,16 +81,16 @@
         "content": "The new HT90 seems to be a rebrand of there Trilab delta but how fast is this thing? A KP3S Pro v2 does 20k accelerations so can we get some performance from prusa this time round? ",
         "num_comments": 67,
         "comments": [
-            "Fast is nice but it\u2019s the temperatures it can reach allowing you to print engineering filaments that is its primary selling point.",
+            "Fast is nice but its the temperatures it can reach allowing you to print engineering filaments that is its primary selling point.",
             "It's not as fast as the speed of the money going from my wallet to Prusa's bank if I buy this",
             "Faster than doing it by had I predict",
             "Fast enough to take $10k from your wallet before you know what happened.",
-            "Deltas are notoriously fast. My Flsun claims speeds the filaments don\u2019t. Increasing temps beyond their limit with some junk pla or PETG hit 600 but there is a setting for 1200. I had a trilab2 it was too small. The Pro is not same chassis at all. I have the big delta to print 384mm tall Radar clamps. Made 3 sold 2. On test this summer. If the item takes off I\u2019d buy a pro. I\u2019m building a Doron Velta an April Fools joke but 60 days later it\u2019s a kit. Well 30 kits world wide. The Dorons brain power makes it a leading Delta instantly, a huge weakness in Flsun $15.00 cpu",
-            "If anybody was wondering I got a quote for one of these for my work and it\u2019s about $10k all in. Priced pretty reasonably considering its speed and ability to print high temp materials like ultem",
+            "Deltas are notoriously fast. My Flsun claims speeds the filaments dont. Increasing temps beyond their limit with some junk pla or PETG hit 600 but there is a setting for 1200. I had a trilab2 it was too small. The Pro is not same chassis at all. I have the big delta to print 384mm tall Radar clamps. Made 3 sold 2. On test this summer. If the item takes off Id buy a pro. Im building a Doron Velta an April Fools joke but 60 days later its a kit. Well 30 kits world wide. The Dorons brain power makes it a leading Delta instantly, a huge weakness in Flsun $15.00 cpu",
+            "If anybody was wondering I got a quote for one of these for my work and its about $10k all in. Priced pretty reasonably considering its speed and ability to print high temp materials like ultem",
             "I'm more curious about the pricetag",
             "Now that there is a Prusa with Klipper.. wonder when the XL will get it!",
-            "Prusa is honestly the laughingstock of 3d printing and they always have been, putting 3d printed parts in their machines and charging ridiculous prices, you people are getting played for absolute fools and it\u2019s embarrassing.",
-            "The tech is interesting.\n\nPrusa is becoming a bit big but industrial contracts have to work in a certain way and they have to make a lot of guarantees and follow through on those, they\u2019re a long way from being an awful entity like apple."
+            "Prusa is honestly the laughingstock of 3d printing and they always have been, putting 3d printed parts in their machines and charging ridiculous prices, you people are getting played for absolute fools and its embarrassing.",
+            "The tech is interesting.\n\nPrusa is becoming a bit big but industrial contracts have to work in a certain way and they have to make a lot of guarantees and follow through on those, theyre a long way from being an awful entity like apple."
         ]
     }
 }

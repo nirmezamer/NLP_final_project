@@ -20,10 +20,10 @@
             "You should go with the css approach, in particular if you want SEO to be optimized",
             "Media queries be like : Am I a joke to you ?",
             "Depends on how different the experience is. \n\nIf it's really a different experience, id go with a different component. If it's fairly similar just make it responsive",
-            "I\u2019m ofter struggling to make it happen with navigation",
+            "Im ofter struggling to make it happen with navigation",
             "Exactly. The only component I write twice for mobile and desktop is navigation.",
             "You can kind of do most things with media queries - specify different grid layouts for different screens. \n\nOr you can think of having the same element twice and using *display: hidden* on one instance, and not the other. This may sound hacky, but repeating one thing in your code instead of loading another component with most things repeated can be a solurion too.",
-            "Damn, I loved last fm when I was a teen a decade ago, but then kinda stopped using it it as I didn\u2019t have time in college/work. Are you guys working literally for last.fm, or doing it for fun, or wanting to compete with them?"
+            "Damn, I loved last fm when I was a teen a decade ago, but then kinda stopped using it it as I didnt have time in college/work. Are you guys working literally for last.fm, or doing it for fun, or wanting to compete with them?"
         ]
     },
     "Cube Slider Animation with GSAP and JavaScript": {
@@ -56,10 +56,10 @@
             "What's the objective: purely for learning? Or you're looking to build something to monetize?",
             "Build your dream personal website.",
             "i have a stream of ideas in my head but have no energy to make them. wanna hook up?",
-            "For more compleq project, you can scrap and display temperature during the day on your location. There is some sites, which provides data. So simple db and api, you can make graphs, watch for trends etc\u2026",
+            "For more compleq project, you can scrap and display temperature during the day on your location. There is some sites, which provides data. So simple db and api, you can make graphs, watch for trends etc",
             "Frontend Mentor is great for this. You see what the design is supposed to look like and then you go build it. They have a ton of different projects ranging from simple projects that only use HTML and CSS to projects that involve those plus JS and api calls.",
             "A really cool crud app with useful features",
-            "That\u2019s crazy because I also hate my bank\u2019s app and want better insights into my expenses. How does your app access your bank expenses?",
+            "Thats crazy because I also hate my banks app and want better insights into my expenses. How does your app access your bank expenses?",
             "I download the expenses as a tab-separated file and upload it to my app through the user interface. I looked into getting an API connection, but that's a lengthy process so I opted not to go for that route"
         ]
     }

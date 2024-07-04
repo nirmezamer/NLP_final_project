@@ -10,9 +10,9 @@
             "No-one is forcing you to open, you could have stuck with your principles, but you didn't want to lose your Internet Janitor power trip.",
             "So why dont we move to Lemmy?",
             "Why don't the people who want to leave / not run this sub just leave?",
-            "I am ok with the this change. Reading others\u2019 problems, and the solutions, help me learn.",
+            "I am ok with the this change. Reading others problems, and the solutions, help me learn.",
             "So sick of these whiney mods. You don't speak for the community. You didn't even put up a poll to see what you should do - you just shut the forum down, which people relied on. \n\nReddit needs to make money just like any other company. Why is *this* your first introduction to capitalism?",
-            "So\u2026 Back to business with the shitty cell phone pictures of screens and demands for issues to be fixed with virtually no information?\n\nCheck.",
+            "So Back to business with the shitty cell phone pictures of screens and demands for issues to be fixed with virtually no information?\n\nCheck.",
             "Why not switch to Lemmy.world?",
             "This is all just so sad.",
             "We need to revert to how it was, i miss the old ubuntu reddit"
@@ -27,8 +27,8 @@
         "comments": [
             "This is nitpicky, but I'm so glad to see the ubuntu logo in the application launcher spot again. Ubuntu has always felt a tad bit less like Ubuntu ever since they got rid of that on 17.10 (the initial release where they switched to Gnome)",
             "I like these LTS releases. They are my cup of tea. In fact, I upgraded from 20.04 LTS to 22.04.3 LTS only today.",
-            "It\u2019s bloody fantastic. Honestly, what a fantastic OS.",
-            "i\u2019m on ubuntu 22.04.4 how can i update to the latest version",
+            "Its bloody fantastic. Honestly, what a fantastic OS.",
+            "im on ubuntu 22.04.4 how can i update to the latest version",
             "I updated because I knew it was out, but didn't realize -d meant developer mode like an idiot, and now my system is stuck in safe mode and I don't know how to fix it as holding shift doesn't seem to do anything. If anyone could help that would be greatly appreciated.",
             "Any guidance on upgrading from a realese candidate to the stable release? \n\nDo you go with a standard `apt-get update && apt-get upgrade` or with `dist-upgrade`, or a combination?",
             "Honestly thinking of sticking with 22.04 for a while, still don't like snaps.",
@@ -46,7 +46,7 @@
         "comments": [
             "Windows can work with ext4 drives now?! I hadn't tinkered with that ... and based on this post, I don't think I will.\n\nWhen I need to share data between Linux and Windows, I use an NTFS drive.",
             "Can the label be reverted back in Windows?\n\nI am surprised a UUID can't be found. I would think your fstab needs to be updated to mount by the UUID if it was using some other identifier like a label that's now \"missing\". Can running a portable OS on a flash drive connected to the same tower find the hard drive and maybe a UUID?",
-            "Sure you can lose those files. You prove it by not having them backed up and messing with the drive, while not knowing what you are doing. That is how you lose data. Permanently.\n\n\n\nIf you TRULY can't lose the files, stop!\u00a0\n\n\nThen image the drive to a larger drive. Then make a copy of the the image. Then try to fix and mount the copy of the image.\u00a0\n\n\nIf you fail, hire some data rescue experts. Send them the original drive and a copy of the image."
+            "Sure you can lose those files. You prove it by not having them backed up and messing with the drive, while not knowing what you are doing. That is how you lose data. Permanently.\n\n\n\nIf you TRULY can't lose the files, stop!\n\n\nThen image the drive to a larger drive. Then make a copy of the the image. Then try to fix and mount the copy of the image.\n\n\nIf you fail, hire some data rescue experts. Send them the original drive and a copy of the image."
         ]
     },
     "Files disappeared after reboot": {

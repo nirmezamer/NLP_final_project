@@ -7,7 +7,7 @@
         "num_comments": 14,
         "comments": [
             "Thank to everyone who is working and maintaining the project !!!!",
-            "Thank you to all those who work on this, it's always much appreciated \ud83d\ude4f\ud83c\udfff",
+            "Thank you to all those who work on this, it's always much appreciated ",
             "I'm still getting error for PH videos.",
             "Anyone know , how to download videos from m3u playlist? and from teachable",
             "You bloody beauty. Great news",
@@ -53,10 +53,10 @@
             "youtube don't have srt.\n\nuse `--convert-subs srt`",
             "well it generally helps if the video has srt subs in the first place. that one does not. \n\nuse --list-subs to see what's available.",
             "I've automatically flaired your post as \"Answered\" since I've detected that you've found your answer. If this is wrong please change the flair back.\n\n----\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/youtubedl) if you have any questions or concerns.*",
-            "oh my god \n\nyou are my hero and i am in love with you \n\nthank you very much \ud83d\ude4f",
+            "oh my god \n\nyou are my hero and i am in love with you \n\nthank you very much ",
             "yeaa i didnt know that lol xp\n\nlike i said, total newb \n\nthanks :) i will do check time",
             "I detected that you might have found your answer. If this is correct please change the flair to \"Answered\".\n\n----\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/youtubedl) if you have any questions or concerns.*",
-            "because i tried it and it didn't work. got:\n\nNo subtitle format found matching \"srt\" for language en, using vtt\n\ni used:\n\nyt-dlp --skip-download --write-auto-subs --sub-format srt -- [https://youtu.be/bTteaHY1zT8?si=hx6UJeANIH2dmgs0](https://youtu.be/bTteaHY1zT8?si=hx6UJeANIH2dmgs0)\n\nso i gave up and i am now going insane on ffmpeg \ud83d\ude43"
+            "because i tried it and it didn't work. got:\n\nNo subtitle format found matching \"srt\" for language en, using vtt\n\ni used:\n\nyt-dlp --skip-download --write-auto-subs --sub-format srt -- [https://youtu.be/bTteaHY1zT8?si=hx6UJeANIH2dmgs0](https://youtu.be/bTteaHY1zT8?si=hx6UJeANIH2dmgs0)\n\nso i gave up and i am now going insane on ffmpeg "
         ]
     },
     "Question for those who is subscribing to 100s of channels": {

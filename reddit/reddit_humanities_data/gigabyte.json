@@ -19,7 +19,7 @@
         "comments": [
             "Can you provide some more details? Which bios and agesa? Are we talking about the beta's with 1.0.0.6 or 1.0.0.7 that I don't see publicly yet. Can you provide more information around the fixes, timelines and status of bios to address this?",
             "Gigabyte X670E Aorus Master F10d BIOS is exhibiting excessive SOC voltages at stock auto, no EXPO settings. \n\nOn two occasions I have seen VDDCR\\_SOC hit 1.7v and 1.5v for a fraction of a second and my CPU die temps hit TJMAX.",
-            "I\u2019m using Ryzen 7 7800X3D and B650 AORUS ELITE AX (F5c), should I be scared of the recent issue with these CPUs when they\u2019re bloating up killing themselves and sometimes their motherboards? Updated from F1 specifically because of that issue.",
+            "Im using Ryzen 7 7800X3D and B650 AORUS ELITE AX (F5c), should I be scared of the recent issue with these CPUs when theyre bloating up killing themselves and sometimes their motherboards? Updated from F1 specifically because of that issue.",
             "My front and rear audio connectors completely stopped detecting any devices that I plug in after updating to F5C on b650i aorus ultra",
             "I know you're just a marketing representative, but please let HQ know the F5c BIOS literally kills your aorus B650i mobos' audio(ALC4080). There's even a thread for that.",
             "I have just update to F5c for my B650i Aorus Ultra, it killed my realtek soundcard just like F5b, F4 is fine !",

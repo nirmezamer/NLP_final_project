@@ -15,7 +15,7 @@
             "This is great, thank you!",
             "cool def gonna check this out",
             "So you normally use AVID? Have you tried Resolve or FCPX?",
-            "Omg! I'm not too fond of Premiere Pro and Adobe in general. Always outdated and behind. Effects and colors graded are way behind compared to Davincii's resolve. Not to mention that mobile editing is way behind compared to capcut, which Adobe illustrates is hard to compare with Procreate. Adobe Express is so bad and has much fewer template options and functions compared to Canvas. I wish colleges and universities would stop partnering with Adobe by teaching young students with Adobe outdated programs, so they students won\u2019t regret it like myself. Now I realize I can use other software and do it 10 times quicker and faster than adobe."
+            "Omg! I'm not too fond of Premiere Pro and Adobe in general. Always outdated and behind. Effects and colors graded are way behind compared to Davincii's resolve. Not to mention that mobile editing is way behind compared to capcut, which Adobe illustrates is hard to compare with Procreate. Adobe Express is so bad and has much fewer template options and functions compared to Canvas. I wish colleges and universities would stop partnering with Adobe by teaching young students with Adobe outdated programs, so they students wont regret it like myself. Now I realize I can use other software and do it 10 times quicker and faster than adobe."
         ]
     },
     "I filmed this video with the wrong shutter speed, is there any way to fix this?": {
@@ -29,7 +29,7 @@
             "Try using DaVinci Resolve, put on a DeFlicker.",
             "Thanks a lot that's reduced it",
             "Thank you I'll try that",
-            "Digital Anarchy Flicker Free can fix this sort of issue, there\u2019s a free trial so you can see if it works before buying:\n\nhttps://digitalanarchy.com/Flicker/main.html"
+            "Digital Anarchy Flicker Free can fix this sort of issue, theres a free trial so you can see if it works before buying:\n\nhttps://digitalanarchy.com/Flicker/main.html"
         ]
     },
     "Enhance speech keeps re analyzing when making a cut.": {
@@ -40,10 +40,10 @@
         "num_comments": 5,
         "comments": [
             "Duplicate the original to another track, disable, then click render and replace on the one you want processed. Will probably use less process power to push around the clips now too",
-            "That\u2019s just how it works. You want to do that step last or as close to last as possible. Alternatively you can use the website to pull an enhanced audio and cut with enhanced audio, no need for reprocessing.",
+            "Thats just how it works. You want to do that step last or as close to last as possible. Alternatively you can use the website to pull an enhanced audio and cut with enhanced audio, no need for reprocessing.",
             "It happens, because it's treating it like a new track. Which it is. Leave the Speech Enhancer towards the very last, after you've established your cuts.",
             "This is why I've started doing the audio once my cuts are final. I'll take the full voiceover, nest it into one long audio track and then ill enhance, compress, deess, eq, all that good stuff. \n\nIf you want to do that and see that the Nest option is grayed out when you select your audio. Drop an adjustment layer overtop your entire video, select it AND the audio you want to nest. Right click, hit nest. It wont change immediately but you can drag that newly created  sequence in, unlink the 'video' part and delete it and now you have one long track. Started doing that when they first came out with Auto Match.",
-            "I do the same \ud83d\udc4d\ud83c\udffc"
+            "I do the same "
         ]
     },
     "Vocal enhancer takes FOREVER and causes my Mac to crash": {
@@ -57,7 +57,7 @@
             "Export wav. Use Adobe podcast enhancer in your browser. Import.",
             "May be that you don't have enough memory or something. I run it on a Lenovo Thinkpad (the souped-up version with 32 GB RAM, 8 cores Intel) all the time without a hitch.",
             "I find the in premiere enhancer is just not that good. Export a wav and open the adobe podcast enhance in a web browser and upload it then re sync the audio",
-            "What\u2018s wrong with the recording and why do you need vocal enhancer?"
+            "Whats wrong with the recording and why do you need vocal enhancer?"
         ]
     },
     "Premiere setting question": {
@@ -67,7 +67,7 @@
         "content": "Hello everyone.\n\nWhere on earth has the box/settings for scrolling the screen up or down on monitor when zoomed in disappeared?\n\nI've tried searching for what setting this is but can't figure it out.\n\nhttps://preview.redd.it/p12u31d28i9d1.png?width=1253&format=png&auto=webp&s=32f608bb575b2491f4cc8e5f6845c3f36186b684\n\n",
         "num_comments": 2,
         "comments": [
-            "They\u2019re gone. You now use the mouse wheel to zoom in and out like other Adobe apps. Hold mouse 3 or H for hand tool and you can drag around the preview.",
+            "Theyre gone. You now use the mouse wheel to zoom in and out like other Adobe apps. Hold mouse 3 or H for hand tool and you can drag around the preview.",
             "Ooh sweet! Thanks, you saved my day :)"
         ]
     }

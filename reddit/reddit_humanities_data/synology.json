@@ -12,9 +12,9 @@
             "This is a very old post, what happened since then to now ?",
             "It's been working fine. My docker containers would struggle with just the pre-installed 2 GB of ram but after adding the 16 gig chip it's incredibly smooth and all the 18 gigs are being utilized by the NAS with zero issues",
             "What was the limit of maximum GB RAM that synology fixed for your NAS model ? \n\nI have a limit of 4GB in mine but seen other users skipping that limit installing 16GB and working much better.",
-            "That\u2019s well thought but can you put 16GB 8+8 ? Will that work much better than just 6GB or ot won\u2019t assume the power invested?",
+            "Thats well thought but can you put 16GB 8+8 ? Will that work much better than just 6GB or ot wont assume the power invested?",
             "Thanks man. My problem nowadays is Mkv files freezing on plex when they are big. I think it could be a ram problem",
-            "Anyone know who do I contact to make some adjustment in the RAM spreadsheet?\n\nI ordered a RAM which didn't work at all, I tried multiple times to no avail. So I filled up the form and mentioned that the Ram wasn't detected.\n\nTurns out you have to really jam the ram in until it gets wedged at a 45\u00b0 angle, which I wasn't doing. I installed it correctly and now it's being detected, so I want to correct my form entry.\n\nAny help please?",
+            "Anyone know who do I contact to make some adjustment in the RAM spreadsheet?\n\nI ordered a RAM which didn't work at all, I tried multiple times to no avail. So I filled up the form and mentioned that the Ram wasn't detected.\n\nTurns out you have to really jam the ram in until it gets wedged at a 45 angle, which I wasn't doing. I installed it correctly and now it's being detected, so I want to correct my form entry.\n\nAny help please?",
             "Hello\n\n  \nI have a Synology NAS DS1815+ that just blinks for a minute and shuts down. Anyone in Dallas area that can look at or fix the issue. Any help is greatly appreciated. Thanks!"
         ]
     },
@@ -26,7 +26,7 @@
         "num_comments": 7,
         "comments": [
             "I'd like to see an explanation for the \"drive size discrepency\" vis a vis TB vs TiB, so we'd have easy find link for newbies ( Not that they'd read it ) .",
-            "Feel free to contribute, we\u2019ll link it.",
+            "Feel free to contribute, well link it.",
             "this should be pinned.\n\nalso add the kb links\n\nhow to expand storage\n\nmigration of nas to a different model\n\nif i can use disks that are not on compatible list and that are 20TB and larger...",
             "Finally setup the SMB multichannel, excellent tip!\n\nI'm getting \\~175MB/s when transferring from my Wifi6(connected at about 1400) laptop. Nice little free speed upgrade when transferring files, have noticed no difference in network reliability when connecting to the Synology. I never have more than 1 or 2 active clients anyways.",
             "Adding drives is not an advanced topic! Also instead of linking Reddit threads a lot of these are better served by direct links to Synology pages so people don't have to dig through a bunch of comments. Here's some to start out: [https://kb.synology.com/DSM/help/DSM/StorageManager/storage\\_pool\\_expand\\_add\\_disk?version=7](https://kb.synology.com/DSM/help/DSM/StorageManager/storage_pool_expand_add_disk?version=7)\n\n[https://kb.synology.com/en-us/DSM/tutorial/How\\_to\\_add\\_extra\\_security\\_to\\_your\\_Synology\\_NAS](https://kb.synology.com/en-us/DSM/tutorial/How_to_add_extra_security_to_your_Synology_NAS)\n\nSome of those are good though like the SMB multichannel one"

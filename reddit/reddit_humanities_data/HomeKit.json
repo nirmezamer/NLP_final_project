@@ -6,16 +6,16 @@
         "content": "Looking for support or purchasing advice with Apple's Home app, accessories, networking troubles / solutions, anything else HomeKit supports, or which brand or accessory to buy \u2014\u00a0try asking here.\n\nTry to keep your question as clear and concise as possible because more people will be able to respond.\n\n[Here](https://www.apple.com/ios/home/accessories/) is a list of HomeKit enabled devices on Apple's website. \n\n*Users with Karma too low to post directly to* r/HomeKit *are encouraged to post their questions here.*",
         "num_comments": 77,
         "comments": [
-            "I\u2019m at my wits end. My phone shows no hubs responding  (3 AppleTV, 1 OG HomePod, 2 HomePod minis). But my iPad shows them as hubs and responding. I\u2019ve unplugged and restarted all the hubs multiple times. No idea why my phone shows unresponsive but iPad does not. Thoughts? Suggestions?",
+            "Im at my wits end. My phone shows no hubs responding  (3 AppleTV, 1 OG HomePod, 2 HomePod minis). But my iPad shows them as hubs and responding. Ive unplugged and restarted all the hubs multiple times. No idea why my phone shows unresponsive but iPad does not. Thoughts? Suggestions?",
             "I'm looking for a bright (> 1100 lumens) A19 HomeKit-compatible bulb. I found that Philips Hue has a 1500 lm bulb, and I'm considering ordering it and a hub, but I'd prefer to go with a design that doesn't require a hub. I currently use the Nanoleaf A19 bulbs in most places. They're pretty good but not quite bright enough for this one use case.  Thanks for any suggestions.\n\n- Pete",
-            "Does anyone know if there is tower fan or table top fannthat is HomeKit compatible. A HomeKit Ceiling Fan won\u2019t work for the application I need it for but that seems to be all I can find.",
+            "Does anyone know if there is tower fan or table top fannthat is HomeKit compatible. A HomeKit Ceiling Fan wont work for the application I need it for but that seems to be all I can find.",
             "What's everyone using for decent homekit blinds or curtains?  I have a couple non-standard windows and I've been pleased with Ikea's offerings and want something just as simple.",
             "Recommendations for a Flood Light + Exterior camera for monitoring 2-car driveway.\n\nI have a pretty standard 2-car driveway and want a light constantly on the two vehicles at night. I'm heard good things about the Eve outdoor floodlight/camera, but is that light strong enough for the driveway? I have power directly behind the garage wall where I plan to mount everything. I'm wondering if it's better to get a different camera and just install a stand alone flood light that will really make the driveway light up but don't know what I should be looking at.",
-            "HomePod mini vs Apple TV Ethernet. I don\u2019t have a lot of HomeKit accessories but I figured I\u2019d stay with Apple HomeKit since I have an iPhone and iPad. I got the iSmartgate garage thing but it won\u2019t connect remotely. I think the hub for it ruined the other accessories I have and now I get no responses when I\u2019m off the WiFi. \n\nI don\u2019t particularly have any use for an Apple TV or HomePod but it says I need a hub in order to see these work remotely. Does the HomePod mini work well as a hub or would it be better to spend more and connect the Apple TV through Ethernet?",
-            "I am trying a simple automation, sense motion, turn on lights.  Using aquara P2 sensor (occupancy) and a TPLink matter relay.  It works to turn on, but the \u201c turn off after xx minutes\u201d setting is not working.  Same deal for a linkind matter lamp and eve sensor.  I feel so stupid.  Please help",
+            "HomePod mini vs Apple TV Ethernet. I dont have a lot of HomeKit accessories but I figured Id stay with Apple HomeKit since I have an iPhone and iPad. I got the iSmartgate garage thing but it wont connect remotely. I think the hub for it ruined the other accessories I have and now I get no responses when Im off the WiFi. \n\nI dont particularly have any use for an Apple TV or HomePod but it says I need a hub in order to see these work remotely. Does the HomePod mini work well as a hub or would it be better to spend more and connect the Apple TV through Ethernet?",
+            "I am trying a simple automation, sense motion, turn on lights.  Using aquara P2 sensor (occupancy) and a TPLink matter relay.  It works to turn on, but the  turn off after xx minutes setting is not working.  Same deal for a linkind matter lamp and eve sensor.  I feel so stupid.  Please help",
             "We recently moved into a house with a Meross light bulb. The former homeowner said they couldn't get the remote to work with it, even replaced the transponder etc. they said we should download the Meross app, which we did, but we can't sync it with the lightbulb because it won't turn on. Is the only solution to replace it?",
-            "Can shortcuts created in the home app (i.e. \u201cconvert to shortcut\u201d shortcuts) be reused within the home app? As far as I can tell, they only exist for the device from which they were created. There doesn\u2019t appear to be a \u201cmanage all shortcuts\u201d or way to reuse them. I hope I\u2019m missing something?",
-            "Hi\u00a0\nIs there anyway to still be using an ipad as homehub for running accessories when away from home\u00a0\nI dont need a homepod mini or an apple tv 4 th gen ,, ( hundreds of dollars ) please \ud83d\ude4f if anyone knows another option"
+            "Can shortcuts created in the home app (i.e. convert to shortcut shortcuts) be reused within the home app? As far as I can tell, they only exist for the device from which they were created. There doesnt appear to be a manage all shortcuts or way to reuse them. I hope Im missing something?",
+            "Hi\nIs there anyway to still be using an ipad as homehub for running accessories when away from home\nI dont need a homepod mini or an apple tv 4 th gen ,, ( hundreds of dollars ) please  if anyone knows another option"
         ]
     },
     "iOS 18 Home App updates": {
@@ -25,14 +25,14 @@
         "content": "",
         "num_comments": 268,
         "comments": [
-            "No HomePods listed as compatible with  Apple intelligence\u2026oof",
+            "No HomePods listed as compatible with  Apple intelligenceoof",
             "How about the ability to assign a home hub rather than it randomly picking in of the devices you have?",
             "Tf they mean SharePlay with HomePods. They already released it, took it from us and now they are releasing it again",
-            "I wasn\u2019t expecting them to spend a lot of time on HomeKit stuff but the way they lumped it in with AppleTV in the shortest part of the presentation tells you where their head is at.",
+            "I wasnt expecting them to spend a lot of time on HomeKit stuff but the way they lumped it in with AppleTV in the shortest part of the presentation tells you where their head is at.",
             "If it can just make it work on a basic level that would be great",
             "How about the ability to select one single homekit hub and never have it automatically switch to another one?",
-            "Roll on the homebridge plugins \ud83d\ude02",
-            "I\u2019m guessing there\u2019s a lot more not covered in this one graphic.",
+            "Roll on the homebridge plugins ",
+            "Im guessing theres a lot more not covered in this one graphic.",
             "A step in the right direction",
             "This isn't super related to Homekit itself, but as someone who generally doesn't like subtitles, I am very excited for the Enhance Dialogue feature!"
         ]
@@ -44,15 +44,15 @@
         "content": "Recently bought the wifi+ethernet apple tv and hardwired it. This solved almost all my home connectivity issues. Previously, even though I had multiple homepods all around the house. Switches and cameras took time to respond but there\u2019s virtually no lag now \ud83d\ude0c",
         "num_comments": 12,
         "comments": [
-            "And in iOS 18 we\u2018ll all be able to make our hardwired Apple TVs the primary hub \ud83e\udd73",
-            "I think it\u2019s the cable\u2026 Wired connections always work better",
+            "And in iOS 18 well all be able to make our hardwired Apple TVs the primary hub ",
+            "I think its the cable Wired connections always work better",
             "Wired devices work better A) because they are wired, and B) because most people have a terrible WiFi network :)",
             "I see so many of these responsiveness related posts. I have one iPad as a home-hub on the old arch and about 30 tuya devices, 1 hikvision doorbell and 12 dahua cameras connected to home through home assistant and scrypted for years and never had any unresponsive issue. I think people with accessories or hubs going unresponsive probably have underlying network issues.",
-            "That\u2019s funny, my home has an Apple TV and all I see is \u201cUpdating\u201d.",
-            "In my experience the Apple TV is a more stable hub even over wifi. When I\u2019ve had a suspiciously good few days with HomeKit and check, it\u2019s always the Apple TV that\u2019s the hub rather than my three HomePod Minis.",
-            "I\u2019ve been looking forward to this for a long time. As much as I\u2019ve loved using my HomePods, the relatively frequent connectivity issues have had me close to giving up on the entire HomeKit experience.",
-            "I have an old Apple TV 4K in my loft I\u2019m not using, so I\u2019m thinking of connecting it up in my network rack, only issue is updating the thing. Wish it were possible using the home app",
-            "over the last few months i\u2019ve tried getting a new isp, switched to a wifi 6E mesh system and nothing worked except this \ud83e\udd79\ud83e\udd79",
+            "Thats funny, my home has an Apple TV and all I see is Updating.",
+            "In my experience the Apple TV is a more stable hub even over wifi. When Ive had a suspiciously good few days with HomeKit and check, its always the Apple TV thats the hub rather than my three HomePod Minis.",
+            "Ive been looking forward to this for a long time. As much as Ive loved using my HomePods, the relatively frequent connectivity issues have had me close to giving up on the entire HomeKit experience.",
+            "I have an old Apple TV 4K in my loft Im not using, so Im thinking of connecting it up in my network rack, only issue is updating the thing. Wish it were possible using the home app",
+            "over the last few months ive tried getting a new isp, switched to a wifi 6E mesh system and nothing worked except this ",
             "You are right, but don't say it lol they get fiesty. My OG Homepod was the Home Hub for months with no issues and my Thread network was fine as well. It shouldn't matter which hub is the main and even now I have it setup to pick automatically with no issues."
         ]
     },
@@ -64,12 +64,12 @@
         "num_comments": 59,
         "comments": [
             "Nice. Link to the product? Also, is there a power outlet behind it?",
-            "I love this idea but wouldn\u2019t it be more convenient to use the phone or Siri? The only use case I could see for this is a spouse who wasn\u2019t fully invested in using their phone for everything, or like in my case, a relative living with you for an extended period who isn\u2019t part of your home.",
-            "I had bought an iPad mini specifically for this, had a beautiful wall mount setup, was super convenient. And then Apple left my iPad behind with the new architecture and I wasn\u2019t about to go out and upgrade a damn near brand new iPad mini. Now it just collects dust as I don\u2019t know what to do with it.",
+            "I love this idea but wouldnt it be more convenient to use the phone or Siri? The only use case I could see for this is a spouse who wasnt fully invested in using their phone for everything, or like in my case, a relative living with you for an extended period who isnt part of your home.",
+            "I had bought an iPad mini specifically for this, had a beautiful wall mount setup, was super convenient. And then Apple left my iPad behind with the new architecture and I wasnt about to go out and upgrade a damn near brand new iPad mini. Now it just collects dust as I dont know what to do with it.",
             "What does the water button do?",
             "Can you share link to the mount?",
             "How did you get power to it without a power cord showing?",
-            "Is it the best use of an ipad ? Standing up to go to a specific location in the house just to see the Home app which you can better manipulate on the phone rather than a vertical screen stuck on the wall\u2026 an ipad has more utility to check mails, watch movies etc",
+            "Is it the best use of an ipad ? Standing up to go to a specific location in the house just to see the Home app which you can better manipulate on the phone rather than a vertical screen stuck on the wall an ipad has more utility to check mails, watch movies etc",
             "Looks great but iPad mini would have looked a lot better or a pro if in budget",
             "What iPad model is that?",
             "Mine has a 3D LiDAR scan of my place with the most important entities via Controller for HomeKit taking up the left 2/3 of the iPad screen, and Orto for Sonos on the right 2/3. Looks so good."
@@ -82,8 +82,8 @@
         "content": "I have recently switched to Apple Home from Google due to my existing investment in the Apple ecosystem and my desire for a higher level of privacy.\n\nHowever, I'm struggling to achieve the same level of functionality with my setup. I don't have anything too elaborate\u2014just six lights and a HomePod mini.\n\nWith Google, I could use the app to script my lights to come on gradually in the morning, increasing in intensity over a set period.\n\nAdditionally, I could ask Google to play \"Ocean sounds for 2 hours,\" and it would comply. However, when I ask Siri to do the same, it responds that I don't have it in my Apple library, even though I can see the option to play ambient sounds in the \"Good Night\" scene.\n\nOverall, Siri just seems stupid.\n\nAnything I should know? I've read that I can use shortcuts...seems a very clunky way to go about it + perhaps due to my own stupidity, I am unable to see how to create a shortcut, where I say something to Siri and it enacts a series of events.",
         "num_comments": 2,
         "comments": [
-            "https://preview.redd.it/e11sn1luai9d1.jpeg?width=1170&format=pjpg&auto=webp&s=decff66e67f91c41525bcddc1cd5e5e47119e0b1\n\nI used a shortcut to accomplish the gradual lights up when alarm is turned off. It\u2019s essentially an \u2018if\u2019 statement(if lights are off) followed by an action(set light/s to x%), followed by repeating \u2018wait x duration\u2019, action(set light).\n\nBut of time to configure, but works quite nicely.",
-            "Create a shortcut to have Siri play Ocean Sounds for 2 hours. Then all you have to say is \u201cSiri Ocean Sounds\u201d. Refer to: [https://support.apple.com/guide/shortcuts/run-shortcuts-with-siri-apd07c25bb38/ios#:\\~:text=Run%20a%20shortcut%20with%20Siri,as%20\u201cText%20Last%20Image.\u201d](https://support.apple.com/guide/shortcuts/run-shortcuts-with-siri-apd07c25bb38/ios#:~:text=Run%20a%20shortcut%20with%20Siri,as%20\u201cText%20Last%20Image.\u201d) \n\nAs far as the lights, I use the Home app to turn lights on 45 minutes prior to sunset at 15% and then off at 10pm. You could also use shortcuts and Siri to accomplish."
+            "https://preview.redd.it/e11sn1luai9d1.jpeg?width=1170&format=pjpg&auto=webp&s=decff66e67f91c41525bcddc1cd5e5e47119e0b1\n\nI used a shortcut to accomplish the gradual lights up when alarm is turned off. Its essentially an if statement(if lights are off) followed by an action(set light/s to x%), followed by repeating wait x duration, action(set light).\n\nBut of time to configure, but works quite nicely.",
+            "Create a shortcut to have Siri play Ocean Sounds for 2 hours. Then all you have to say is Siri Ocean Sounds. Refer to: [https://support.apple.com/guide/shortcuts/run-shortcuts-with-siri-apd07c25bb38/ios#:\\~:text=Run%20a%20shortcut%20with%20Siri,as%20Text%20Last%20Image.](https://support.apple.com/guide/shortcuts/run-shortcuts-with-siri-apd07c25bb38/ios#:~:text=Run%20a%20shortcut%20with%20Siri,as%20Text%20Last%20Image.) \n\nAs far as the lights, I use the Home app to turn lights on 45 minutes prior to sunset at 15% and then off at 10pm. You could also use shortcuts and Siri to accomplish."
         ]
     }
 }

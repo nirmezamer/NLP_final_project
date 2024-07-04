@@ -8,11 +8,11 @@
         "comments": [
             "I see people posting their neovim configuration repositories and not mentioning what aspects of the configuration they expect review in. Some ask generic questions like \"what can I do better\" and some don't ask anything. Without knowing what you want help in, no one can help you, and without knowing what your preferences are and how you are as a person, no one can answer generic questions like what can I do better. So this is a request to everyone for being specific in what they want reviewed in their configuration.",
             "How to disable LSP inlay hints?",
-            "You shouldn\u2019t have images in your repo. Extra bloat for no good reason. There\u2019s ways to make it so that GitHub hosts the photos for you.",
+            "You shouldnt have images in your repo. Extra bloat for no good reason. Theres ways to make it so that GitHub hosts the photos for you.",
             "Its really amazing if you're intentionally being able to keep your config slim. I'd still recommend breaking it into files for better organization.",
             "Hi! I think you're doing a good job. You can put all the plugin definitions in the \"plugin\" directory, and try lazy-loading more plugins that aren't important on startup.",
             "to help with performance at loading, first you can check `:Lazy profile`, and also you can make more plugins lazy. For example you don't need undotree at startup, so you can add `cmd = { \"UndotreeShow\", \"UndotreeToggle\" }` in the lazy declaration so that the plugin is only loaded when you run one of these commands.\nLazy does a similar thing with the `keys` and `events` fields.",
-            "Looks great, clean setup \ud83d\udc4c\ud83c\udffb",
+            "Looks great, clean setup ",
             "You have gitsigns in gitsigns.lua and in source-control.lua both. Also, I'm being pedantic and it really doesnt matter, but, you should not use such insert mode mappings. Especially to move around in insert mode.",
             "why? if there's a solid reason I could do that too",
             "Hi! I believe that inlay hints are enabled in the lsp capabilities configuration, try searching for that."
@@ -48,7 +48,7 @@
             "Thanks for this! I actually copied your test setup from ts-comment just yesterday for my plugin, which really helped me along. This seems even simpler. Great work!",
             "what is luarocks good for?",
             "You can still do `mini.t` :)",
-            "Not sure if having another layer of abstraction around busted is required. I'd prefer to have just the config file and interact with busted directly, or like luarocks test command as I've done here:\n[adopure.nvim](https://github.com/Willem-J-an/adopure.nvim)\n\nThen again, this will probably only work if the dependencies are available on luarocks, which is arguably a good thing if you're going to depend on something \ud83d\ude05"
+            "Not sure if having another layer of abstraction around busted is required. I'd prefer to have just the config file and interact with busted directly, or like luarocks test command as I've done here:\n[adopure.nvim](https://github.com/Willem-J-an/adopure.nvim)\n\nThen again, this will probably only work if the dependencies are available on luarocks, which is arguably a good thing if you're going to depend on something "
         ]
     },
     "How can I move between snippet location by tab ?": {

@@ -47,7 +47,7 @@
             "\":: installing nvidia-utils (555.58-1) breaks dependency 'nvidia-utils=550.90.07' required by lib32-nvidia-utils\"\n\nDid they update the package but fail to update other, related packages?",
             "I was having some issues with 550 combined with cuda 12.5 and had to downgrade to 12.4, I'm hoping this will resolve the problem",
             "Finally. Inner peace in NVIDIA Wayland.",
-            "No, your mirror just isn\u2019t up to date.",
+            "No, your mirror just isnt up to date.",
             "make sure to update lib32-nvidia-utils simultaneoulsy",
             "This is from a pacman -Syu so it should be updating everything",
             "Update your mirrors, the v555 driver is in the multilib repos already.",
@@ -62,7 +62,7 @@
         "content": "",
         "num_comments": 25,
         "comments": [
-            "Yeah and so far I haven\u2019t noticed any performance reduction either which is pretty awesome.",
+            "Yeah and so far I havent noticed any performance reduction either which is pretty awesome.",
             "It is the same clip editor we had in Dota 2 replays for awhile.\n\nIt works fantastically.",
             "I've been doing this with Replay Buffer in OBS but I'm happy it's becoming more official if this means whatever I clip is gonna show up in the Steam Activity tab.",
             "Works really well in my machine, just the audio part that doesn't allow me to record only the game audio, so my music is in the record too. I suspect it's something to do with pipewire maybe?",

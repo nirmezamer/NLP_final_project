@@ -7,13 +7,13 @@
         "num_comments": 12,
         "comments": [
             "Spikes are normal. Plex sends data in bursts.",
-            "It loads in chunks, so you\u2019ll see it look like that for each chunk as it loads.",
+            "It loads in chunks, so youll see it look like that for each chunk as it loads.",
             "YouTube videos work that way too, or any streaming service",
             "It sends bursts and your device buffers it. If it sent constantly then there would be dropouts if anything else started using the connection and the data rate dropped momentarily.",
-            "You\u2019re new to Plex it seems. It also seems this has been asked many times. Totally normal, it sends data in chunks to create a buffer. Depending on your internet speed, if you are sharing outside of your home, 4K content might have issues. Always remember to multiply the bit rate by 1.5-1.8 to get an idea of what upload speed you will need.",
+            "Youre new to Plex it seems. It also seems this has been asked many times. Totally normal, it sends data in chunks to create a buffer. Depending on your internet speed, if you are sharing outside of your home, 4K content might have issues. Always remember to multiply the bit rate by 1.5-1.8 to get an idea of what upload speed you will need.",
             "Not only new to plex but new to computers lol",
             "Oh boy, you have quite the journey!",
-            "Maybe he\u2019s new to Reddit.",
+            "Maybe hes new to Reddit.",
             "New to reading usernames for sure",
             "Totally normal."
         ]

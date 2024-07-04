@@ -26,11 +26,11 @@
             "Yeah, isn't that a hot going straight to ground? Someone was drunk on the job.",
             "1. Install cord clamp\n2. Remove neutral-ground bonding strap\n3. Swap red and white",
             "This installer sucks.  Better confirm that the anti-tip bracket was installed.  In fact go ahead and read that entire installation manual and check on every bit of it.",
-            "Best Buy ? Or maybe Lowe\u2019s \u201cinstallers\u201d",
+            "Best Buy ? Or maybe Lowes installers",
             "Couldn't even match wire colors.",
             "Unplug everything, get a Philips and switch the red and white. It should be rarely easy even without experience. Just make sure to tighten the screws down as good as you can. Whoever installed the cord, really did not do their job.",
-            "I think you wired that cord and are trying to ask for verification of your shoddy work without asking for verification on your shoddy work\u2026",
-            "I\u2019d take this whole unit back and dump it in their front step. God knows what else they screwed up",
+            "I think you wired that cord and are trying to ask for verification of your shoddy work without asking for verification on your shoddy work",
+            "Id take this whole unit back and dump it in their front step. God knows what else they screwed up",
             "Last oven that I bought did NOT come pre-wired. At least in my case it was the customers responsibility to wire the plug. If (big if) it came pre-wired, this would have never passed the QA inspection at the factory.\n\nEdit - almost forgot. Why is that check-marked 120V in sharpie, but wired (incorrectly) for 220V?"
         ]
     },
@@ -42,8 +42,8 @@
         "num_comments": 4,
         "comments": [
             "It's fine as long as you don't lay your palm on it",
-            "No it\u2019s fine\u2026 for you. The now have fault codes on their fire alarm panel though",
-            "Yeah that hochiki panel will be going nuts somewhere \ud83e\udd23 not dangerous to you unless of course you have a really angry landlord..",
+            "No its fine for you. The now have fault codes on their fire alarm panel though",
+            "Yeah that hochiki panel will be going nuts somewhere  not dangerous to you unless of course you have a really angry landlord..",
             "Not all smoke detectors use Americium-241, but even if it does, it would be inside the smoke detector itself that you removed.  \n\nWhat you see here are the exposed electrical contacts that power the smoke detector.  It is perfectly safe as long as you do not touch the exposed contacts, as they may have voltage present."
         ]
     },
@@ -54,14 +54,14 @@
         "content": "So, bought this house a couple of years ago, past homeowners told me that this panel was meant for a generator plugged on a cable that is in the garage. Never thought too much of it, but now I've got a generator and want to make it work. However, I'm not sure how this thing is supposed to work, and if it does work like I think it does, it seems really dangerous..\n\nThe generator is going into a small panel with two 30amp breaker with an interlock, both can't be on at the same time ( Although, for current to flow through they would need to be ?? ), One breaker has the generator, the other is labeled as main source and is going inside of the main panel on a breaker that has no interlock with the main breaker, again, this seems like it could be a bit dangerous if both are on at the same time..\n\nHow's that supposed to work ? If I turn on the generator and open the right breaker in the small panel, the current still wouldn't flow to the main panel anyway since the other breaker will be off because of the interlock..\n\nThey told me it was installed by a certified electrician when we bought the house, but I'm having lots of doubt as of now to be honest. Can someone clear that up for me ?\n\nHere's a pic of the setup:\n\nhttps://preview.redd.it/2qvflz7ath9d1.jpg?width=3648&format=pjpg&auto=webp&s=0495695ca0c7880167a76d0a04b844b05ee2a7f9\n\n",
         "num_comments": 9,
         "comments": [
-            "So it\u2019s set up to power the whole panel which is the way I have mine. I turn off big amp draws  before I start my generator",
+            "So its set up to power the whole panel which is the way I have mine. I turn off big amp draws  before I start my generator",
             "Wouldn't that require both breakers in the small panel to be on at the same time ?",
             "The way it is wired now, no circuits will be powered from the generator.  Change the small panel to another Square D type QO panel and you can use the same interlock and breakers in the new panel.  Move some circuits from the main panel into the new generator panel.",
-            "Sorry I missed that. Yes that\u2019s the intention. The interlock should be in the main panel for this to work  if it is a hook up for the generator with the intention to power the panel. The generator breaker should be up near the main so you could have that interlock set up. So that sub panel makes no sense as it will never be able to send power to the house panel box   I ran my gen wire straight to my panel without the disconnect. I will change that one day. I take the breaker in the off position. My way is the wrong way",
+            "Sorry I missed that. Yes thats the intention. The interlock should be in the main panel for this to work  if it is a hook up for the generator with the intention to power the panel. The generator breaker should be up near the main so you could have that interlock set up. So that sub panel makes no sense as it will never be able to send power to the house panel box   I ran my gen wire straight to my panel without the disconnect. I will change that one day. I take the breaker in the off position. My way is the wrong way",
             "And if i'd rather power the whole panel, I would need to move the 30 amp breaker in the main panel up top, add an interlock between the 200amp and the 30 from the generator and either remove the interlock in the small panel and flip both on when needed, or plug the generator cable directly in the main panel to the 30amp that was moved up top, right ?",
-            "Yes.  Check out Interlockkit.com for a kit for your panel if the manufacturer doesn\u2019t offer one.  Look on the label inside the main panel to see if a part number is given for an interlock kit.",
+            "Yes.  Check out Interlockkit.com for a kit for your panel if the manufacturer doesnt offer one.  Look on the label inside the main panel to see if a part number is given for an interlock kit.",
             "That would make sense. However the past homeowners told me they used this panel to power the main one, which lead me to think they might have added the interlock in order to pass inspection when they were selling, but could've been using it without it and bring current straight to the main panel by flipping both breakers on, which seem a bit dangerous. Maybe worth mentionning, every time I touch something electrically related in this house, I find stuff that should never be done but they did anyway... I wouldn't be surprised if that's how they did it really.\n\n  \nThe front panel of the small one does not allow more then those two 30amp.. which leads me to think I can't really put separate circuits in there ?",
-            "The wiring for the generator panel seems okay with the interlock.  However, there doesn\u2019t appear to be any circuits in the generator panel to be powered by the generator.  In addition to the two main breakers in the generator panel, there should be some branch circuit breakers for circuits that you want powered by the generator such as the heating system or a well pump.  Circuits such as those would get removed from the main panel and put into the generator panel.\n\nI have installed this generator panel a few times and wrote an article about it with photos.",
+            "The wiring for the generator panel seems okay with the interlock.  However, there doesnt appear to be any circuits in the generator panel to be powered by the generator.  In addition to the two main breakers in the generator panel, there should be some branch circuit breakers for circuits that you want powered by the generator such as the heating system or a well pump.  Circuits such as those would get removed from the main panel and put into the generator panel.\n\nI have installed this generator panel a few times and wrote an article about it with photos.",
             "So I was right to assume that, if the past homeowner did use it to power the main panel, they probably removed the interlock in the small panel and ran in it an unsafe way as it would work, but could be a problem if both the main and the generator were to run at the same time. I'd rather do it safely than take the risk, I'll look into an interlock kit and getting someone qualified to move the breakers around."
         ]
     },
@@ -74,13 +74,13 @@
         "comments": [
             "Neutral in a main service panel",
             "The grounded conductor, commonly called the neutral",
-            "GROUNDED CONDUCTOR. It\u2019s identified in this case to separate it from the ungrounded conductors.",
+            "GROUNDED CONDUCTOR. Its identified in this case to separate it from the ungrounded conductors.",
             "That would be the Grounded Conductor, aka Neutral.",
-            "Is this a \u201cgrounded\u201d vs. \u201cgrounding\u201d thing?",
+            "Is this a grounded vs. grounding thing?",
             "The grounded conductor commonly known as the neutral.",
-            "Neutral going to the bus that\u2019s grounded to frame",
-            "Yes it\u2019s the neutral, it should have white insulation or white tape.",
-            "The thingy wrapped in white tape from the meter and at the meter from the poco. Often 2/0 but sometimes not \ud83d\ude09\n\nWithout it, your record player would go 2x faster than it should!",
+            "Neutral going to the bus thats grounded to frame",
+            "Yes its the neutral, it should have white insulation or white tape.",
+            "The thingy wrapped in white tape from the meter and at the meter from the poco. Often 2/0 but sometimes not \n\nWithout it, your record player would go 2x faster than it should!",
             "Service neutral...albeit strangely sized, unless it's a DC panel then it's EGC."
         ]
     }

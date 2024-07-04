@@ -22,7 +22,7 @@
             "[deleted]",
             "Where rant?",
             "Bad: lost server farm switch at main factory.\nBetter: got a workaround in place.\nBad: need to plan changes to update buggy code and return to normal state.\nWorse: plant needs to run three shifts for next week to make up for lost time; have to cross fingers buggy code holds.\nBest: site has water main break, everyone sent home, we can apply permanent fix now!!",
-            "Anybody else\u2019s job expect constant mult-tasking?\u00a0\u00a0\n\n\u00a0Maybe this is just what having a grownup job is like, or maybe I have undiagnosed ADHD, but I\u2019m getting so burnt out of having to pay constant attention to 1-3 change chats on top of everything else. Feels absurd that I have to \u201csupport\u201d multiple different teams that are only expected to unitask, even if my part is just a simple VLAN change. \u00a0Even when it\u2019s like 10 minutes between tasks, it\u2019s not like I can get much accomplished in those 10 minutes before I have to context switch back again.\u00a0\n\nEdit:\u00a0\nGot one whole morning off of these change calls and felt like a corporate weapon, clearing all the easy tickets and finally replying to a bunch of emails. But now I\u2019m back at it.",
+            "Anybody elses job expect constant mult-tasking?\n\nMaybe this is just what having a grownup job is like, or maybe I have undiagnosed ADHD, but Im getting so burnt out of having to pay constant attention to 1-3 change chats on top of everything else. Feels absurd that I have to support multiple different teams that are only expected to unitask, even if my part is just a simple VLAN change. Even when its like 10 minutes between tasks, its not like I can get much accomplished in those 10 minutes before I have to context switch back again.\n\nEdit:\nGot one whole morning off of these change calls and felt like a corporate weapon, clearing all the easy tickets and finally replying to a bunch of emails. But now Im back at it.",
             "Watching my dads dog after he got a few organs removed.   This morning she managed to toss her plush toy  and got spiderwebbed in an 8 port switch near my desk.\n\n08:22 (AM): The wireless network was taken down by unforeseen circumstances when a plush toy was thrown near critical infrastructure. A bottleneck wap that supplies mesh access to the rest of the infrastructure was disconnected outlining our homes need for additional trunk waps to eliminate single point failures in the future. Service was returned to natural state as of 09:00 (AM) after an auxiliary tech (wife) was dispatched to move the 6 foot cable that was connected to the wap from port 7 to port 3 as the initial repair was unsuccessful. POE is only available on half of the intended switch and the onsite tech at time of accident had to leave (for work).\n\nI'm tired."
         ]
     },
@@ -54,7 +54,7 @@
         "comments": [
             "Ports are running rstp, check your mst configuration",
             "thats it. i have 2 \"names\", one for core, and one for edge. Setting the edge switch to name \"core\" makes it bind.",
-            "Gotta love Cisco for making you bang your head against the wall for 3 hours to do something simple lol.  I can\u2019t tell you how many times in the last 20 years I\u2019ve said \u201cwhy the fuck is it doing this\u201d.  \ud83d\ude02 this sub is great for that.",
+            "Gotta love Cisco for making you bang your head against the wall for 3 hours to do something simple lol.  I cant tell you how many times in the last 20 years Ive said why the fuck is it doing this.   this sub is great for that.",
             "somehow your switches think they are in different mst regions that's why they show rtsp bound ports\n\nshow spanning-tree mst configuration on the switches must be identical\nshow spanning-tree mst to check that your core is indeed your root\n\nEdit: have you configured a name and a revision in mst configuration? I'm pretty sure that's needed",
             "My switches A and B have the following STP commands:\n````\nspanning-tree mode mst\nspanning-tree logging\nspanning-tree extend system-id\nspanning-tree pathcost method long\nspanning-tree mst configuration\nspanning-tree mst 0 12288\n````\nMy core switch has:\n````\nspanning-tree mode mst\nspanning-tree logging\nno spanning-tree etherchannel guard misconfig\nspanning-tree extend system-id\nspanning-tree mst configuration\nspanning-tree mst 0 priority 0\n````\n\nWhy would it be bound rstp?"
         ]
@@ -68,7 +68,7 @@
         "comments": [
             "You have a typo in the community name on the second line.",
             "Sorry, I have updated it. I feel dumb. Thank you",
-            "I \u201cc\u201d the issue.",
+            "I c the issue.",
             "One more thing, I can't set both ipv4 / ipv6 acl at the same time. \n\n  \nsnmp-server mySecretCommunity use-ipv4acl restrict-v4\n\nsnmp-server mySecretCommunity use-ipv6acl restrict-v6\n\n  \nOn running config it will show only the last entry, in this case ipv6. How can I filter SNMP from both ipv4 / ipv6 requests?"
         ]
     }

@@ -25,7 +25,7 @@
             "The remote update check does not happen immediately, you'll eventually see the notice but it could take up to 24 hours. You can update at any time and you will get the newest version.",
             "I'm having an issue updating from 5.17.3 to this latest one.\n\nI keep getting this error:\n\n> [i] Checking for updates...\nerror: inflate: data stream error (invalid code lengths set)\nfatal: packed object 974bba4a45427e628165e6e229984b810dcec2de (stored in .git/objects/pack/pack-89c2de7ea253cd07c1244f247d3ae4e7766bf986.pack) is corrupt\nfatal: the remote end hung up unexpectedly\n\nand then nothing updates. Any help?",
             "You could add a `file:///` in as an ad list and Pi-hole would read the contents of the file. If the contents were not domains then the non-used lines were printed to the terminal to show a sample of what lines were not being used, exposing the contents of the file. Now any files being used for lists need to be world-readable so sensitive files can not be accessed.\n\nYou would need admin access to exploit this, you'd have to be able to add a local file as an adlist and then view the output from `gravity` but it was not a good situation. It also only really became an issue when we added in the process to display a sample of unused lines from list sources. \n\nPossible solution was to remove the display of unused lines but that would remove what some users found to be a good thing, the better solution was to just limit what can be seen by Pi-hole/FTL.",
-            "good job\ud83e\udd18\ud83c\udffb"
+            "good job"
         ]
     },
     "Pihole with Unifi Dream Machine Pro": {
@@ -38,7 +38,7 @@
             "Is the modem also a router or just a modem?",
             "I did that, and it seemed to only work for some of my devices....not sure what was going on but like my ipad wouldn't get any internet via the wifi.....all 1 network and 1 vlan so confused...rolled it back to normal and its all working now",
             "Its one of those all in ones that my ISP requires me to have.",
-            "PiHole is probably misconfigured then, that\u2019s all I had to do on my network.  Wipe your PiHole install and start over",
+            "PiHole is probably misconfigured then, thats all I had to do on my network.  Wipe your PiHole install and start over",
             "It might help if you provide a network diagram including IPs and VLANs. There's not really any information in this post for anyone to give you good advice.\n\nI'm going to assume your PiHole is using a static IP of a network that isn't associated with a network in your UDMP. Your previous router probably used a different cidr range and your pihole is probably using a static IP on that range.\n\nIf I am correct, set the static to IP for your pihole to fall within range (but out of the DHCP range) of the network it should be part of. You can find this information in the unifi network application.",
             "In UniFi go to Settings>Networks>click your network>DHCP>DHCP name server to manual and put in IP of your PiHole.  This will ensure all devices get assigned your PiHole IP as their DNS server.",
             "This is what you do. I included screenshots. Works like a charm. \n\nhttps://www.reddit.com/r/pihole/comments/n3c7vr/for_anyone_using_a_unifi_udm_or_udm_pro_i_found_a/",
@@ -63,7 +63,7 @@
         "num_comments": 2,
         "comments": [
             "I'm a sucker for repurposing old tablets into displays for things like this around the house.  Looks great!",
-            "That\u2019s clever!"
+            "Thats clever!"
         ]
     }
 }

@@ -37,7 +37,7 @@
             "You're supposed to be able to boot OFW using the method that OP used, with or without an sdcard.",
             "Nah, because OFW works jump e-fuse security system and emulate with atmosphere. Op try my solution.",
             "this.\n\npress and hold + and powerbutton for 21 seconds, then let go and tap power button.\n\nyour switch is stuck in firmware mode",
-            "It absolutely is supposed to work to boot to ofw/sysnand without sd card when pressing vol+/-.\n\nI do it all the time.\n\nOP when you say \u201cstuck\u201d, how long did you wait? I\u2019ve had that happen to me once before, and I had to hard reboot the switch I.e hold power switch for 15 seconds to force shut down.\n\nIt was fine after that."
+            "It absolutely is supposed to work to boot to ofw/sysnand without sd card when pressing vol+/-.\n\nI do it all the time.\n\nOP when you say stuck, how long did you wait? Ive had that happen to me once before, and I had to hard reboot the switch I.e hold power switch for 15 seconds to force shut down.\n\nIt was fine after that."
         ]
     },
     "Switch keeps crashing before beatinf the game": {
@@ -51,12 +51,12 @@
             "0100000000000035 is SALTY-NX  \nIt's causing the game to crash as it likely uses the same memory space as the game at that time.  \nDisable Salty during that game/part!",
             "First thing that comes to mind is either a bad dump or a bad install. Try uninstalling and reinstalling from a different source if you can since your save will carry over if it's the same update version.",
             "you could try installing updates for the game",
-            "This is usually the correct answer to these errors! \ud83d\udc4d\ud83c\udffb",
+            "This is usually the correct answer to these errors! ",
             "Do you have a list of known program numbers would be great to help people trouble shoot errors (or did you just happen to know this one in particular).",
             "I googled the Number and found out what it was haha",
             "Yeah fair enough hahaha could have probably done the same lol",
             "worked for me before",
-            "This \u261d\ufe0f"
+            "This "
         ]
     },
     "I have a question: how can I recover game saves, e.g. Zelda Botw, which I played before jailbreaking the console? I have saves from it on my older sd card so do I need to extract it? And what do I have to do to get back my game saves that I bought digitally?": {
@@ -66,12 +66,12 @@
         "content": "I hope someone can help me, thank you in advance for helping :)",
         "num_comments": 12,
         "comments": [
-            "All saves are in your internal system when using the stock (normal system) since Nintendo doesn\u2019t allow save backup without paying for their service. You should just be able to boot back into your sysnand and extract the old save.",
+            "All saves are in your internal system when using the stock (normal system) since Nintendo doesnt allow save backup without paying for their service. You should just be able to boot back into your sysnand and extract the old save.",
             "Do you mean even if I play on EmuMMC but game saves are still in the stock system? I have game never played in stock system and when I boot to it, the game doesn't show up?",
             "What about the game saves on EmuMMC?",
-            "Yup this is what I did\n\nRegarding uninstalled I did it for a game that I had a cartridge for but not in the console so maybe \ud83e\udd1e",
+            "Yup this is what I did\n\nRegarding uninstalled I did it for a game that I had a cartridge for but not in the console so maybe ",
             "I'm new to this and it's really overwhelming, it seems very complicated, let me know if you could help me, thanks :)",
-            "I am having a similar issue that my SD card corrupted, and I can't boot. I still can access files on sd card using laptop and try to figure out a way to backup my saves on EmuMMC\u00a0",
+            "I am having a similar issue that my SD card corrupted, and I can't boot. I still can access files on sd card using laptop and try to figure out a way to backup my saves on EmuMMC",
             "Depending on your setup, it's either in emu hidden partition or inside a file. But it's in the sdcard, so in this case you will need the sdcard inserted.",
             "He said before he jailbreak the switch so it has to be in your stock system, therefore in your internal memory. Games played in the emunand are save to the SD partition and is not connected to your stock saved games.",
             "Hekate allows you to make your EmuNAND be an exact copy of your sysNAND as of the time of creation. So as long as you do it that way (which if I recall correctly is how the most popular modding guide instructs you to make the EmuNAND in the first place) your  digital gams and saves will already be there. You'll just need to apply sigpatches so that the games can actually boot.",

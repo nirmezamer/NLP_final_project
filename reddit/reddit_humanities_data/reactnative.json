@@ -22,7 +22,7 @@
             "Tbh they won't really get that far until they learn the other 3 anyway",
             "People make mistake, if they want to move foward they still have to learn them. If they only think in the react way you know how far their progress is.",
             "Something you should always ask yourself before learning a new tool is: \"What problem does it solve for me?\"\n\nIf you can't answer this conclusively then you don't need it.",
-            "I dont think that people jump steps, but that they dont know how to properly learn something. Like\u2026 where to find what i need to find, the patience to read all the thing and the mental power to be able to fail. Its fcking hard.",
+            "I dont think that people jump steps, but that they dont know how to properly learn something. Like where to find what i need to find, the patience to read all the thing and the mental power to be able to fail. Its fcking hard.",
             "Let's be realistic what does a git and github have to offer to a very new dev? Nothing really, they can just code locally until they know of their existence later on, not everyone will be faced with a collaborative environment early on.\n\nIf we extrapolate this to RN, we have a very limited CSS feature set, so any basic youtube series would do the job, flexbox being the most complex stuff to learn.",
             "This is a great metaphor.",
             "facts"
@@ -36,8 +36,8 @@
         "num_comments": 21,
         "comments": [
             "We use Reactotron for every project",
-            "I never could use Expo dev tools? Is it easy to setup? I think I once tried and failed because it needed EAS build (which I did) or something like that, which at that moment was to much headache, as it didn\u2019t worked out so I just stopped after hours and hours of setup madness.",
-            "Console log, when native stuff go adb logcat with tag (android) or attach process to xcode and use their logger (iOS) .\n\nBut there are better tools on the market\u2026",
+            "I never could use Expo dev tools? Is it easy to setup? I think I once tried and failed because it needed EAS build (which I did) or something like that, which at that moment was to much headache, as it didnt worked out so I just stopped after hours and hours of setup madness.",
+            "Console log, when native stuff go adb logcat with tag (android) or attach process to xcode and use their logger (iOS) .\n\nBut there are better tools on the market",
             "With the Hermes debugger I assume? What about network calls?",
             "I'm gonna use it just because of the name",
             "Have you used it? I used the beta version when it was first released and found it brilliant for logging, find component code etc but found it quite laggy. Has it improved?",
@@ -72,9 +72,9 @@
         "num_comments": 18,
         "comments": [
             "Hot take - Dont do courses now days I learned react native by doing two things skiming the documentation and feeding that documentation to  chatgpt. Just know I knew programming before chatgpt came out. So I suggest to know the fundamentals. And using expo.",
-            "I watched some LinkedIn learning course, but don\u2019t recommend it really since it was several years old and has some outdated info.\n\nStill, it connected a few dots for me, so that part helped.",
-            "Just start building. Read the doc\u2019s, ask questions on this sub. \nBut if you don\u2019t have JS experience maybe start there first",
-            "I haven\u2019t got a video series to recommend but I\u2019d suggest looking for recent videos where the developer uses Typescript, hooks & functional programming. And please do go through the docs as well as they are the \u201cmain source of truth\u201d",
+            "I watched some LinkedIn learning course, but dont recommend it really since it was several years old and has some outdated info.\n\nStill, it connected a few dots for me, so that part helped.",
+            "Just start building. Read the docs, ask questions on this sub. \nBut if you dont have JS experience maybe start there first",
+            "I havent got a video series to recommend but Id suggest looking for recent videos where the developer uses Typescript, hooks & functional programming. And please do go through the docs as well as they are the main source of truth",
             "FreeCodeCamp.org has many awesome tutorials and articles. Go there and search for React Native and find a basic one to start. The format is usually an article which refers to a YouTube video made for the article by a FreeCodeCamp expert that is detailed and easy to follow. Good luck.",
             "Doc and applying on projects",
             "JSmastery. Also check out maximillions undemy course.",
