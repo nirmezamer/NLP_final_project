@@ -8,6 +8,8 @@ import random
 from tqdm import tqdm
 
 
+# new york times api key: 8eXt8AOv6GKrkzV6sK6ipDaQxgWji44g
+
 # genai configuration
 genai.configure(api_key="AIzaSyA_a9NStJj6XoMDaGXlbz-v35xCQzTlDqA")
 model = genai.GenerativeModel('gemini-1.5-flash')
@@ -59,7 +61,7 @@ def main():
     for site, urls in news_sites.items():
         websites.extend(urls)
     random.shuffle(websites)
-
+    failed_urls = []
     for website in websites:
         logger.info(f"Processing website: {website}")
         paper = build_paper(website)
@@ -72,12 +74,28 @@ def main():
                     for url in article_urls:
                         article = newspaper.Article(url)
                         text, title = download_article(article)
+                        if title not in articles_data.keys():
+                            articles_data[title] = []
                         if text and title:
-                            articles_data[title] = text.strip()
+                            text = text.strip()
+                            if text not in articles_data[title]:
+                                articles_data[title].append(text.strip())
+                            save_to_json(articles_data, 'articles_13_53.json')
+                        else:
+                            failed_urls.append(url)
+                            logger.warning(f"Failed to download article: {url}, number of failed urls: {len(failed_urls)}")
                         pbar.update(1)  # Update tqdm progress bar
+                    
+            else:
+                failed_urls.append(website)
+                logging.warning(f"No articles found on {website}, number of failed urls: {len(failed_urls)}")
+
+        else:
+            failed_urls.append(website)
+            logging.warning(f"Failed to build paper for {website}, number of failed urls: {len(failed_urls)}")
 
     # Save all articles data to JSON file
-    save_to_json(articles_data, 'articles.json')
+    save_to_json(failed_urls, 'failed_urls.json')
 
 if __name__ == "__main__":
     main()
@@ -118,26 +136,26 @@ Please recreate the newspaper article accordingly and provide me only the articl
     except Exception as e:
         return ""
 
-def main():
-    # Example website to try
-    website = 'http://bbc.com'
+# def main():
+#     # Example website to try
+#     website = 'http://bbc.com'
 
-    logger.info(f"Processing website: {website}")
-    paper = build_paper(website)
+#     logger.info(f"Processing website: {website}")
+#     paper = build_paper(website)
 
-    if paper:
-        article_urls = fetch_articles(paper)
-        articles_data = {}
+#     if paper:
+#         article_urls = fetch_articles(paper)
+#         articles_data = {}
 
-        if article_urls:
-            logger.info(f"Saving text of {len(article_urls)} articles to JSON file...")
-            for url in article_urls:
-                article = newspaper.Article(url)
-                text, title = download_article(article)
-                if text and title:
-                    articles_data[title] = text.strip()
+#         if article_urls:
+#             logger.info(f"Saving text of {len(article_urls)} articles to JSON file...")
+#             for url in article_urls:
+#                 article = newspaper.Article(url)
+#                 text, title = download_article(article)
+#                 if text and title:
+#                     articles_data[title] = text.strip()
 
-        save_to_json(articles_data, 'bbc_articles.json')
+#         save_to_json(articles_data, 'bbc_articles.json')
 
-if __name__ == "_main_":
-    main()
+# if __name__ == "_main_":
+#     main()
