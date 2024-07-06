@@ -8,8 +8,8 @@ from tqdm import tqdm
 import time
 import re
 
-genai.configure(api_key="AIzaSyCndWWxDbmMg99QowJPxeZDfB8LHWm1y7Y")
-model = genai.GenerativeModel('gemini-1.5-flash')
+# genai.configure(api_key="AIzaSyCndWWxDbmMg99QowJPxeZDfB8LHWm1y7Y")
+# model = genai.GenerativeModel('gemini-1.5-flash')
 
 def call_prompt(prompt):
     answer = call_prompt_with_retry(prompt)
@@ -290,11 +290,63 @@ def clean_up_jsons():
             json.dump(data, f, indent=4)
     return
 
+def merge_and_clean_dataset():
+    def clean_to_ascii(input_string):
+        return ''.join(char for char in input_string if (ord(char) < 128 and char != "\n" and char != "\r"))
+    
+    # load the two data files
+    print("Loading data files...")
+    data_file_1 = "reddit/reddit_data_set.json"
+    data_file_2 = "reddit/reddit_data_set_copy.json"
+    with open(data_file_1, "r") as f:
+        data_1 = json.load(f)
+    with open(data_file_2, "r") as f:
+        data_2 = json.load(f)
+        
+    data = {}
+        
+    # merge and clean the data
+    print("merging and cleaning data...")
+    print("Starting with data_1...")
+    l = list(data_1.keys())
+    for i in tqdm(range(len(l))):
+        post = l[i]
+        cleaned_post = clean_to_ascii(data_1[post]["title"])
+        data[cleaned_post] = {
+            "title": cleaned_post,
+            "content": clean_to_ascii(data_1[post]["content"]),
+            "human_comment": clean_to_ascii(data_1[post]["human_comment"]),
+            "AI_comment": clean_to_ascii(data_1[post]["AI_comment"])
+        }
+    print("Starting with data_2...")
+    l = list(data_2.keys())
+    for i in tqdm(range(len(l))):
+        post = l[i]
+        cleaned_post = clean_to_ascii(data_2[post]["title"])
+        data[cleaned_post] = {
+            "title": cleaned_post,
+            "content": clean_to_ascii(data_2[post]["content"]),
+            "human_comment": clean_to_ascii(data_2[post]["human_comment"]),
+            "AI_comment": clean_to_ascii(data_2[post]["AI_comment"])
+        }
+        
+    # save the cleaned data
+    with open("reddit/reddit_data_set_clean.json", "w") as f:
+        json.dump(data, f, indent=4)
+
+    print("Data cleaning complete.")
+    print(f"Data size: {len(data)}")
+    
+    return data
+    
+
 # Example usage
 if __name__ == "__main__":
     
-    data = generate_reddit_data_set()
-    print(len(data))
+    # data = generate_reddit_data_set()
+    # print(len(data))
 
     # generate_many_humanities_reddit_json()
     # clean_up_jsons()
+    
+    merge_and_clean_dataset()
