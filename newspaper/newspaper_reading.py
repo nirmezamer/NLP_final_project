@@ -4,6 +4,9 @@ import re
 import json
 import google.generativeai as genai
 import time
+import random
+from tqdm import tqdm
+
 
 # genai configuration
 genai.configure(api_key="AIzaSyA_a9NStJj6XoMDaGXlbz-v35xCQzTlDqA")
@@ -12,7 +15,6 @@ model = genai.GenerativeModel('gemini-1.5-flash')
 # Set up logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
-
 def build_paper(url, memoize_articles=False):
     try:
         paper = newspaper.build(url, memoize_articles=memoize_articles)
@@ -45,6 +47,41 @@ def save_to_json(articles_dict, filename):
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(articles_dict, f, ensure_ascii=False, indent=4)
     logger.info(f"Saved articles to {filename}")
+
+def main():
+    with open('newspaper/news_sites.json', 'r', encoding='utf-8') as f:
+        news_sites = json.load(f)
+
+    articles_data = {}
+
+    # Randomize the order of the websites
+    websites = []
+    for site, urls in news_sites.items():
+        websites.extend(urls)
+    random.shuffle(websites)
+
+    for website in websites:
+        logger.info(f"Processing website: {website}")
+        paper = build_paper(website)
+
+        if paper:
+            article_urls = fetch_articles(paper)
+
+            if article_urls:
+                with tqdm(total=len(article_urls), desc=f"Processing {website}") as pbar:
+                    for url in article_urls:
+                        article = newspaper.Article(url)
+                        text, title = download_article(article)
+                        if text and title:
+                            articles_data[title] = text.strip()
+                        pbar.update(1)  # Update tqdm progress bar
+
+    # Save all articles data to JSON file
+    save_to_json(articles_data, 'articles.json')
+
+if __name__ == "__main__":
+    main()
+
 
 def call_prompt_with_retry(msg, retries=5, backoff_factor=1):
     for i in range(retries):
@@ -81,24 +118,6 @@ Please recreate the newspaper article accordingly and provide me only the articl
     except Exception as e:
         return ""
 
-def create_AI_generated_paper(papers):
-    # papers is a dictionary with title and content
-    # papers['title'] = 'content'
-    generated_papers = {}
-    for title, content in papers.items():
-        generated_paper = create_AI_paper(title, content)
-        if generated_paper == "":
-            logger.error(f"Error generating content for {title}")
-        else:
-            generated_papers[title] = generated_paper
-    
-    # Save the generated papers to a JSON file
-    file_name = "AI_generated_papers.json"
-    with open(file_name, "w") as file:
-        json.dump(generated_papers, file, indent=4)
-        
-    return generated_papers
-    
 def main():
     # Example website to try
     website = 'http://bbc.com'
