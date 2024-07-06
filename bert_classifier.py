@@ -10,7 +10,7 @@ tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 model = BertForSequenceClassification.from_pretrained('bert-base-uncased', num_labels=1)
 
-data_jasons = {"reddit": "example_reddit_data_set.json", "wikipedia": "wikipedia_data_set.json", "news": "wikipedia_data_set.json"}
+data_jasons = {"reddit": "reddit/reddit_data_set.json", "wikipedia": "wikipedia/wikipedia_summaries.json", "news": "newspaper/newspapers_data.json"}
 
 is_train = True
 load_model = False
