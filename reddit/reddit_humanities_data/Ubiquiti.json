@@ -1,94 +1,88 @@
 {
-    "Sunday, Jun 16 2024 - Weekly Off Topic / Complaints / Pictures / Everything Else Thread": {
-        "title": "Sunday, Jun 16 2024 - Weekly Off Topic / Complaints / Pictures / Everything Else Thread",
-        "score": 5,
-        "url": "https://www.reddit.com/r/Ubiquiti/comments/1dh12qj/sunday_jun_16_2024_weekly_off_topic_complaints/",
+    "Sunday, Jun 23 2024 - Weekly Off Topic / Complaints / Pictures / Everything Else Thread": {
+        "title": "Sunday, Jun 23 2024 - Weekly Off Topic / Complaints / Pictures / Everything Else Thread",
+        "score": 1,
+        "url": "https://www.reddit.com/r/Ubiquiti/comments/1dmfg7q/sunday_jun_23_2024_weekly_off_topic_complaints/",
         "content": "**Welcome to the weekly thread that covers everything off topic, fluff, etc!**\n\nFeel free to post anything to this thread, as long as it has some relation to Ubiquiti - pictures, rants, whines, complaints, easy small questions you don\u2019t want to make a whole post for, or even just sharing the picture of your cat sitting on top of your EdgeRouter!\n\nOnly rules here are to be civil, no personal attacks, etc stuff like that.\n\nHave a great week everyone!",
-        "num_comments": 21,
-        "comments": [
-            "Been really enjoying the current wave of Ubiquiti really pushing their way into the SME market, a proper rival to Meraki, which IMO is a totally failing product. Long live Ubiquiti and may it reign!",
-            "Is there anyway to know or an (guess)estimate of when the G5 Turret Ultra when come back into stock?",
-            "I have been dealing with support for a few months about my new UXG-max having lag and speed issues (causing VPN issues and regular webtraffic issue). Support has been zeroing in on the VPN issues assuming that the VPN was being blocked in someway. They kept asking me to run TCP IP package captures (WAN AND LAN) and then stating that they cannot see any of my connection happening that I was saying were not working inside the VPN....... I had to tell them that they would never be able to see those connections inside the VPN tunnel because that is the purpose of a VPN. (Congratulations Ubiquiti Support! You have successfully discovered that VPNs block traffic from outside monitoring!)",
-            "Any news on the UDR? Will it, or something similar (AP, small PoE switch, Protect) be available soon?",
-            "just waiting for the U7 Outdoor to be released instead of \"Coming Soon\" - today was supposed to be the day!",
-            "Any word on the UniFi Talk iOS/Android app?\n\nI feel like it\u2019s been promised for like 4 years now.\n\nLast I heard, it was launching in Q1 2024 and it\u2019s now Q2 and I can\u2019t find anything new about it.",
-            "Couple questions about the new U7 Pro Wall if I may.\n\nCan I configure two of these in a mesh like setup? I am trying to connect two ends of house and I cant run wires and I need wired connections on both ends for different devices.  If I understand correctly two U6 Walls can be connected via wireless backplane, but can the U7?\n\nSince the U7 Pro Wall has just one ethernet connector, can I do following :   \nFIBREMODEM+POE->rj45->U7PROWALL <wireless backplane mesh> U7PROWALL->rj45->POE-SWITCH\n\nFinally I understand I dont necessarily need a Unifi contoller/gateway if I setup these devices with mobile app, would I lose anything critical not having one if I only (currently) plan to have these two Ubiquiti devices?",
-            "can i set up the UDM with my home ISP and then transfer it to the location it will actually be operational at? I just want to save time doing updates and configuring everything",
-            "Etherlighting - VLANs only visible when there's a link? I kinda expected if I turned on etherlighting based on native VLAN that all ports would light up, not just when there's a link.....",
-            "I recently dumped Meraki when my latest rounds of subscriptions came up for renewal. It cost me less to move to a whole new generation of equipment on Ubiquiti than it was going to cost me to renew licenses on old Meraki gear. I'm glad that I made the switch."
-        ]
-    },
-    "U7 Outdoor range at 1600\u2019": {
-        "title": "U7 Outdoor range at 1600\u2019",
-        "score": 25,
-        "url": "https://www.reddit.com/gallery/1dlu5g0",
-        "content": "",
-        "num_comments": 16,
-        "comments": [
-            "Hello!  Thanks for posting on r/Ubiquiti!\n\nThis subreddit is here to provide unofficial technical support to people who use or want to dive into the world of Ubiquiti products.  If you haven\u2019t already been descriptive in your post, please take the time to edit it and add as many useful details as you can.\n\nPlease read and understand the rules in the sidebar, as posts and comments that violate them will be removed.  Please put all off topic posts in the weekly off topic thread that is stickied to the top of the subreddit.\n\nIf you see people spreading misinformation, trying to mislead others, or other inappropriate behavior, please report it!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Ubiquiti) if you have any questions or concerns.*",
-            "Finally some real world testing, that\u2019s what I was looking for.",
-            "Screenshot of the camera app, that\u2019s new",
-            "Signal bounce on water \ud83c\udf0a",
-            "I mean, yes, line of sight goes a very long way. Especially with no interference like this.",
-            "How is it with 1 tree in the way?",
-            "Photoception",
-            "Low effort phone post. There is a U7 mounted on the circled house 1600\u2019 away. 75-80 rssi\u2019ish 5gz while I\u2019m inside the narrow internal antenna beam.\u00a0\nSignal inside my home is ass since the beam is directional. Haven\u2019t tested Omni antennas since the only goal was to get signal to my dock.\u00a0\nI have a video but I\u2019m too lazy to edit out my up address.\u00a0",
-            "Must be that new Wi-Fi 7 skipping feature.",
-            "Pro tip:\nDon\u2019t mount P2P on mobile watercraft. Hard to keep it aimed straight\n\n\n\n\n(/s for anyone lacking a sense of humor\u2026 OP, that\u2019s a pretty fun test, or at least a great excuse to get out the wave runner!)"
-        ]
-    },
-    "UniFi really needs to update the Doorbell Camera offerings": {
-        "title": "UniFi really needs to update the Doorbell Camera offerings",
-        "score": 17,
-        "url": "https://www.reddit.com/r/Ubiquiti/comments/1dlshwq/unifi_really_needs_to_update_the_doorbell_camera/",
-        "content": "I switched over from a eufy camera system to UniFi Protect about two months ago, and have been enjoying the camera system immensely.  We finally gained the ability to customize the welcome screen on the doorbell, and I did so with a cartoon character that my kids are into.  I did it for their enjoyment, but have been enjoying watching the reactions of mail carriers who see it, too.\n\nToday the house was visited by someone in professional attire who *really* found it amusing.  Just for fun, I wanted to determine who this person was... and I couldn't.  I have my recording quality set to its maximum (and allow the system to choose between smoother motion or clearer stills - although this setting seems to have changed to represent smoother motion or better low-light performance) and I could not read their ID badge, nor the lettering on their shirt.  The HD resolution just couldn't cut it.  I have a second camera - a G5 Pro (4K resolution) - that watches the door's entryway, and through *that* camera's feed I was able to make out the lettering on their shirt.  The ID badge was just inaccessible to that camera, which was mounted farther away.\n\nUniFi really needs to update their doorbell cameras.  Make the regular doorbell 2K if they must, and then give us a Pro with 4K resolution and the AI features for facial recognition.  It's not that I care to see the pores on people's faces, but I want to read ID badges and even the labels on packages that are dropped off.\n\nWhile I'm at it, I know this issue has been posted before, but I'll repeat it: the package detection needs some work.  A package may be dropped off at noon and I'll receive practically one package notification per hour before I can get home to pick it up, even though there's no radical changes in lighting or shadows, nor is there any activity around the package.  This is the one thing I feel eufy did better than UniFi, as well: aside from only reporting that a package was delivered *once*, the eufy system also told me when the package was picked up (removed from the field of view), which was a nice bit of added security reassurance.  It would be nice if we could have that, too.  (Credit where it is due, though: occasionally the eufy doorbell would tell me that a pair of shoes I keep outside was a package; so far the UniFi doorbell has not given me an erroneous package detection.)\n\nNearly all of my UniFi cameras feel pretty perfect as they are, and I don't foresee replacing them until they fail and stop working.  The Doorbell is the one exception - this is one I'll be upgrading before it stops functioning.",
-        "num_comments": 8,
-        "comments": [
-            "Hello!  Thanks for posting on r/Ubiquiti!\n\nThis subreddit is here to provide unofficial technical support to people who use or want to dive into the world of Ubiquiti products.  If you haven\u2019t already been descriptive in your post, please take the time to edit it and add as many useful details as you can.\n\nPlease read and understand the rules in the sidebar, as posts and comments that violate them will be removed.  Please put all off topic posts in the weekly off topic thread that is stickied to the top of the subreddit.\n\nIf you see people spreading misinformation, trying to mislead others, or other inappropriate behavior, please report it!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Ubiquiti) if you have any questions or concerns.*",
-            "I'd settle for being able to pair the chime with more than one doorbell",
-            "Obligatory comment to ask, were you watching the streaming version or the downloaded video clip?",
-            "How about the fingerprint reader + lock feature as well. \n\nBut I agree, we need an upgraded camera, that should be straight forward.",
-            "I just want the forward camera to give me package detection along with the bottom camera. Seems like that could be done with software.",
-            "I hate the dog.",
-            "I don\u2019t see that happening in the short term.  To get a pro with real 4k resolution, you\u2019re talking a $1000+ camera, and a doorbell like you\u2019re asking for would also end up being $800+.\n\nI just don\u2019t see ubiquity going for that market.\n\nIf those are the features you\u2019re looking for, you might want to consider something like wisenet",
-            "There's a way to do it. Someone posted a workaround last week. Sorry I don't have a link"
-        ]
-    },
-    "It\u2019s concert season\u2026": {
-        "title": "It\u2019s concert season\u2026",
-        "score": 423,
-        "url": "https://i.redd.it/iyndmpdu2y7d1.jpeg",
-        "content": "You know what that means. Time to break out the Event Network kits.",
-        "num_comments": 87,
-        "comments": [
-            "Hello!  Thanks for posting on r/Ubiquiti!\n\nThis subreddit is here to provide unofficial technical support to people who use or want to dive into the world of Ubiquiti products.  If you haven\u2019t already been descriptive in your post, please take the time to edit it and add as many useful details as you can.\n\nPlease read and understand the rules in the sidebar, as posts and comments that violate them will be removed.  Please put all off topic posts in the weekly off topic thread that is stickied to the top of the subreddit.\n\nIf you see people spreading misinformation, trying to mislead others, or other inappropriate behavior, please report it!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Ubiquiti) if you have any questions or concerns.*",
-            "I haven't seen these before. Interested in knowing more.",
-            "How does something like this perform versus a few UWB-XGs?",
-            "Impressive! What is the case on the right?",
-            "Lol those u6-mesh fuck so hard at festivals I can't believe how reliable and awesome they've been",
-            "I count 20 link clients and 20 APs, are you using an omni-directional LTU for link AP?\n\nWhat do you use for rigging, especially the LTUs?",
-            "Does one rocket serve all the LTUs?",
-            "Hi. Do you use any particular software to plan the locations of all those or is it something you do purely through experience? Curious \ud83d\ude0a",
-            "How does the LTU equipment perform in these environments?  I've done a few multi day events with the Airmax line and I would be interested in a comparison from the field.",
-            "What do you do for power supply? At each spot you have one of the APs and one of the bridges? And I think the APs take 48v and the bridges take 24v? Do you have a pair of injectors at each spot?"
-        ]
-    },
-    "Now I need to learn the software side of things": {
-        "title": "Now I need to learn the software side of things",
-        "score": 84,
-        "url": "https://i.redd.it/v0zf81cjjz7d1.jpeg",
-        "content": "Also forgot to get an SFP cable\u2026",
         "num_comments": 9,
         "comments": [
-            "Hello!  Thanks for posting on r/Ubiquiti!\n\nThis subreddit is here to provide unofficial technical support to people who use or want to dive into the world of Ubiquiti products.  If you haven\u2019t already been descriptive in your post, please take the time to edit it and add as many useful details as you can.\n\nPlease read and understand the rules in the sidebar, as posts and comments that violate them will be removed.  Please put all off topic posts in the weekly off topic thread that is stickied to the top of the subreddit.\n\nIf you see people spreading misinformation, trying to mislead others, or other inappropriate behavior, please report it!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Ubiquiti) if you have any questions or concerns.*",
-            "For no reason other than looks, get yourself a DAC to connect port 11 on the UDMP and port 25 on the USW in the color of your choosing  \n[https://www.amazon.com/gp/product/B0833VJGRM/ref=ewc\\_pr\\_img\\_1?smid=AE2OZG2NN3099&psc=1](https://www.amazon.com/gp/product/B0833VJGRM/ref=ewc_pr_img_1?smid=AE2OZG2NN3099&psc=1)",
-            "Bah!!  That WAN cable!!",
-            "Nice!",
-            "UDM SE? Nice!",
-            "looks like it sucks to have a switch like that, 2 rows bottom and top to keep it clean is tedious.  wasting u1 space, hopefully that's all you got.",
-            "Yup! Already on order",
-            "lol, yeah that\u2019s another thing on the to do list.",
-            "Just udm pro"
+            "Have the Pro Max 16 switch's rack mounts been in stock in the US store lately? Waiting to pick one up, but need the rack mount. They have not been in stock for the last month or two. I did set up a notification about a month ago, but nothing.",
+            "My G3 instant died two years old it was rock solid not sure what happened.",
+            "Anyone having issues with their Sonos products? Ppl over there saying they are having major issues. I so far have none.",
+            "Never know if I should post in this topic, in the main forum, on in UNIFI.... but my issue is that with my Dream Machine, if we ever have a power outage, I cannot get internet back until I do a factory reset on the UDM.  I have no custom settings on the UDM at all, except for my WIFI name/password.  There are SO MANY topics about this across the interwebs, but I'm yet to find a solution that works for me (though most don't have solutions anyway).  Any ideas, or can I provide any more info to help troubleshoot?\n\nEDIT:  I'm also not an expert on this, so simple explanations are appreciated! <3",
+            "WTF is going on with the Android Unifi app?\n\nFor the last several weeks, I've been unable to remotely access my Unifi Dream Router through the phone app.  It gives up and says it can't connect.\n\nMeanwhile, I have zero problems logging into the Unifi website and accessing remote management that way.\n\nBoth of these things on the same Android phone, using either away-from-home WiFi, or mobile data, with or without the use of a VPN.\n\nIf I'm at home (directly connected), the app works fine.\n\nHaven't changed a thing about my phone or UDR config recently.",
+            "Well up until earlier this week I've had several months of UDR stability. Went on holidays on Sunday, and the UDR became unresponsive about 24 hours later without any warning. Confirmed with a neighbour there wasn't any power or broadband outage (I have UPS anyway), and they reported a red status light on one of my wireless unifi cams (signifying loss of network) . So I suspect the UDR locked up and of course took Unifi protect with it. So I'm away for another week with no working cams and no access to the Plex server. Nice job, dream router! Incredibly unimpressed. At least the motion sensor lights and alarm system still work because they're home assistant / zigbee based.",
+            "no, I run several, all good, pls contact UI Tech Support\n\nI only use the normal release channels\n\nonly manual updates, you are the decider",
+            "I have the [Unifi Dream Router UDR (40W)](https://store.ui.com/us/en/pro/category/cloud-gateways-wifi-integrated/products/udr) and about every 2-3 weeks it freezes up and the only way to bring it back online is with a power cycle.  I've opened tickets in the past and they always send me some rooted version of the firmware but it never resolves the issue.  Anyone else been experiencing this issue recently?",
+            "Here's the other problem I've been having with my UDR:\n\nhttps://community.ui.com/questions/Dream-Router-drops-internet-connection-under-load/f5e7fd0d-9f43-457e-b54f-5511ee22daee\n\nMy case is similar, in that the UDR will randomly drop connection to my ISP, requiring a restart.  Sometimes, twice a day.  I'll go as most 3-4 days before it drops the connection again.  The drop-outs do not seem to correlate to any particular activity pattern on my home network.   They happen equally often in the wee hours when everyone's asleep, or in the middle of the day or evening.\n\nThe UDR likes to blame my ISP/modem, but the ISP modem (Zyxel C3000Z) has been fine.  Haven't had to restart it once.  Solid green lights (indicating a healthy DSL link) at all times.\n\nI'd post about this on the ui.com forums, but I can't access them from my current location.  Thought I'd see if any other UDR users on Reddit are having this problem.  It started happening around 2 months ago.\n\nThe UDR's logs are no help.  All they say is that \"high latency\" or \"packet loss\" or both, are detected, shortly before the UDR decides it can no longer talk to my ISP.\n\nFWIW, I have the DSL modem in Transparent Bridge mode, with the UDR performing PPPoE sign-in.  I can get UDR software version if it matters, but it's whatever the latest version is as of this posting.\n\nFurther data point: My DSL service is ~140 MBit down/20 MBit up.  Even if I had maximum traffic going in both directions at all times - which I generally don't even approach - this should be well within the ability of the UDR to handle.\n\nDo I have a defective UDR?"
+        ]
+    },
+    "Little hotel side project": {
+        "title": "Little hotel side project",
+        "score": 507,
+        "url": "https://www.reddit.com/gallery/1dqk42f",
+        "content": "",
+        "num_comments": 93,
+        "comments": [
+            "This makes me wet.  Your cable runs, spooling, color selection (assuming color per floor), and tidiness are perfect.  I wish I could hire you to cable my new house.",
+            "I didn't realize I could be so aroused",
+            "The push on jumpers for the coax splitter have got to go.  That RF looks like its grounded together, but not actually tied to actual ground.  You may want to terminate all the unused coax ports for RF cleanliness.\n\nOtherwise the Ethernet looks tight, and thats a really clean looking install.",
+            "Finally a hotel with faster then 256kbps wifi connection",
+            "cable management is teh sEx",
+            "Maybe switch the U6-LR for an -Pro or something. The U6-LR is the orange duck here. The rest is based on the Qualcomm chipset and the LR (like the -Lite and + models) based on the MediaTek chipset. And the LR is WiFi4 at 2,4GHz. A strange AP that should not be in production (ok, my opinion).",
+            "Clean and Tidy.  \n\nI like the idea of tape over the ports as a temporary dust cover.  Which I assume that's what you used it for.  Unless it was for labeling.",
+            "Looks so good nice and clean looking great job",
+            "Wouldnt it have been easier for them to paint the room before your install?",
+            "Awesome work. How much time do you estimate it took to complete?"
+        ]
+    },
+    "Ubiquity please provide proper documentation for firewall rules!": {
+        "title": "Ubiquity please provide proper documentation for firewall rules!",
+        "score": 111,
+        "url": "https://www.reddit.com/r/Ubiquiti/comments/1dqslxz/ubiquity_please_provide_proper_documentation_for/",
+        "content": "Three years I have udm-pro, during this time I have configured several servers hundreds of services, but configuring firewall rules is black magic, you need a PhD to configure something in this garbage.\n\nHire someone who can create user interfaces, or invest in some videos.\n\nFor me, until then, you guys are a piece of gunk and I don't recommend it to anyone.  ",
+        "num_comments": 49,
+        "comments": [
+            "I strongly agree with this! I'm a Network Engineer and have worked with both Cisco and Palo Alto firewalls for decades. The firewall management Unifi has come up with makes absolutely no sense and is downright difficult to create firewall rules.",
+            "The tips are pretty much useless as well",
+            "Ok, I'll bite -- what exactly do you find difficult about setting up FW rules?\n\nI've set up a couple of VLANs -- for IoT and cameras -- with rules to isolate them from everything but a single machine on the main VLAN, rules to allow access to the devices from the main VLAN (but not the other way), have some port forwards from the Internet to a couple machines, etc. Took a few minutes to set up all of it coming at it from basically nowhere and it just works.",
+            "This is why Ive had a pfSense router and an aging CloudKeyGen2+ controller for 5 years despite the progress UI have made with management and firewall hardware. Router configuration is bare-bones and unintuitive.",
+            "I have one, if you have a doorbell, you are away from the house, the device needs to talk to the internet to send voice, I dont the cameras clam to talk to the internet. Conclusion, people are able to hear me but I cannot hear them.  \nWhat is the right way to define the cameras vlan?\nThx",
+            "You know they are kind of ass backwards, but it was pretty easy to find guides and eventually it just made sense.  \n\nI have a fairly typical network, 3 VLANs, a few rules like LAN can talk to most other VLANs but not vice versa and several instances of AdGuard Home functioning as an ad blocker that everyone but Guest uses for DNS.",
+            "Look into firewalla. Much better way to configure rules",
+            "I agree that improvements would be lauded, but I figured it out well enough to accomplish my goals .",
+            "Maybe its because the UDM was the first real firewall I had experience with but the rules are fairly straightforward.",
+            "I'll be waiting for comments here. If I may ask, since I'm in the same situation. Are there any good practices to go about with this? It's been like pulling teeth making sure everything is functioning as it should."
+        ]
+    },
+    "U-LTE-Backup Pro notifications": {
+        "title": "U-LTE-Backup Pro notifications",
+        "score": 5,
+        "url": "https://i.redd.it/c9caskp07i9d1.jpeg",
+        "content": "I am using U-LTE-Backup Pro with UCG Ultra. Is there a way to get notifications when primary internet fails and U-LTE-Backup is in use? It seems that I only get notifications after primary interned is restored saying that LTE backup was used.",
+        "num_comments": 2,
+        "comments": [
+            "On the UDM SEs it will send a notification of failover to WAN2 after a period of time. But for short outages it only sends after the restore.",
+            "Hello!  Thanks for posting on r/Ubiquiti!\n\nThis subreddit is here to provide unofficial technical support to people who use or want to dive into the world of Ubiquiti products.  If you havent already been descriptive in your post, please take the time to edit it and add as many useful details as you can.\n\nPlease read and understand the rules in the sidebar, as posts and comments that violate them will be removed.  Please put all off topic posts in the weekly off topic thread that is stickied to the top of the subreddit.\n\nIf you see people spreading misinformation, trying to mislead others, or other inappropriate behavior, please report it!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Ubiquiti) if you have any questions or concerns.*"
+        ]
+    },
+    "Help designing network for new apartment": {
+        "title": "Help designing network for new apartment",
+        "score": 20,
+        "url": "https://i.redd.it/lf14kbt7xf9d1.jpeg",
+        "content": "Looking for some guidance on setting up my network in my new apartment. Unfortunately there are no Ethernet runs anywhere as they heavily push for the Eero mesh setup. The fiber hookup is in the red section marked in the kitchen, and I\u2019m planning on setting up my home lab in the garage which is under the living room, and accessed by the flight of stairs on the right. \n\nI currently have a UDM Pro and a U6 lite from my previous setup, but looking for a way to get low latency internet downstairs without having to run a cable across the kitchen and living room . I\u2019d likely need another U6 for the upstairs wireless. ",
+        "num_comments": 21,
+        "comments": [
+            "Is this your apartment or that of your sims 4 character lol",
+            "Hol up, why is there an office in the kitchen?",
+            "What program did you use to make that model",
+            "One ceiling mount AP over the kitchen counter and you should be good. I had a similar floor plan.",
+            "Why do you have a foot spa where a real bathtub should be?\n\n- A confused Brit.",
+            "Another option *might* be Eth over power lines. It works pretty well if you have 2 outlets on a single circuit, but it's terrible if it has to transition the panel.\n\nBut in an apartment where you can't make extensive modifications, it could be a better solution than mesh.",
+            "Move the fiber hookup to the garage and use the hole they created to bring the fiber in for a UTP cable to hookup the U6 Lite and maybe put a second AP Lite if the coverage in the appartement is bad further up. I'm assuming the fiber comes from the garage.",
+            "Hahaha actual apartment layout, but I can see the similarities",
+            "I'm just glad they didn't put the TV above the fireplace.",
+            "Dumbest layout ever, I know"
         ]
     }
 }

@@ -1,7 +1,7 @@
 {
     "Join the Call of Duty Discord Server!": {
         "title": "Join the Call of Duty Discord Server!",
-        "score": 1261,
+        "score": 1267,
         "url": "https://discord.gg/callofduty",
         "content": "",
         "num_comments": 0,
@@ -9,50 +9,46 @@
     },
     "Black Ops 6 - Gameplay Reveal Trailer": {
         "title": "Black Ops 6 - Gameplay Reveal Trailer",
-        "score": 18,
+        "score": 16,
         "url": "https://www.youtube.com/watch?v=oyZY_BiTmd8",
+        "content": "",
+        "num_comments": 0,
+        "comments": []
+    },
+    "Is there any solution for this? I wanna see my loading screens": {
+        "title": "Is there any solution for this? I wanna see my loading screens",
+        "score": 1,
+        "url": "https://i.redd.it/phwtf027xh9d1.jpeg",
         "content": "",
         "num_comments": 0,
         "comments": []
     },
     "In-game music not playing?": {
         "title": "In-game music not playing?",
-        "score": 1,
+        "score": 2,
         "url": "https://www.reddit.com/r/ModernWarfareII/comments/1dr2x7u/ingame_music_not_playing/",
         "content": "Not sure if this is on my end or what. Noticed that menu and lobby music plays fine, but no ingame, round start, round end, etc. music plays. Anyone else notice this or is it just me? ",
-        "num_comments": 1,
+        "num_comments": 2,
         "comments": [
-            "Most players including myself play with the music turned off so wouldn\u2019t notice. Is it still turned on in your audio settings?"
+            "Most players including myself play with the music turned off so wouldnt notice. Is it still turned on in your audio settings?",
+            "Yes. Every step to remediate has been taken, down to reinstalling the game lol"
         ]
     },
     "I'm always finding a way to return to this game": {
         "title": "I'm always finding a way to return to this game",
-        "score": 1,
+        "score": 2,
         "url": "https://www.reddit.com/r/ModernWarfareII/comments/1dqsa7j/im_always_finding_a_way_to_return_to_this_game/",
         "content": "I simply can't stand how dog-shit MW3 looks compared to MW2. Aside from gameplay changes I wanted to do the weapon mastery challenge 51/51 original launch weapons but because MW3 and ATVI always destroy last year's weapons I find it very difficult to compete. \n\nMW2 despite the movement it just feels great... I returned to complete the MGB Mastery, uninstalled and now I came back for weapon mastery and will end up doing prestige challenges too even though I am 1250 already\n\nanyone feels the same?",
-        "num_comments": 7,
+        "num_comments": 8,
         "comments": [
             "MW2019 is better than both they honestly should just copy and past that on everything MW from now on, even graphically that was the hardest they ever pushed the engine. Visually amazing and most hyper realisitc",
+            "Only reason I stopped playing MWII is the damn COD HQ launcher. I just can't no more. The game nor the company respects me so I'm playing older and better single player games",
             "Yep feels like a really really polished iteration of cod with a minor bunch of imbalances. They could have made sliding and manteling faster. Increase the life from 100 to 125 just in the middle of mw3. And buffed the life of some kill streaks like counter uavs and it would have been the most goated cod ever made",
             "It is a better game in most respects and you are in the MW2 sub so most will agree. MW3 was a cashgrab that was supposed to have been DLC for MW2. MW2 still has a massive playerbase and I have no issue getting instant SnD queues.",
             "I always preferred mw2 to mw3. Everything about it just felt better. I still play mw2 lol.",
-            "Me too, love the game\u00a0",
+            "Me too, love the game",
             "i thought it was just me ?? mw2 felt amazing dude the vaznek was awesome",
-            "Total agree\u2026 mw2 is a better game overall visually as well and mw3 feels like the old gen but now wait for the bots to tell us other wise lol."
-        ]
-    },
-    "man poor guy": {
-        "title": "man poor guy",
-        "score": 57,
-        "url": "https://v.redd.it/t0feip91h69d1",
-        "content": "",
-        "num_comments": 5,
-        "comments": [
-            "How do you even find games on groundwar?",
-            "what s this game?",
-            "Elden Ring the new dlc u heard of it ?",
-            "Conquest from Battlefield 2025 leak, lack of destruction.",
-            "Looks more like Chivalry 2 to me....."
+            "Total agree mw2 is a better game overall visually as well and mw3 feels like the old gen but now wait for the bots to tell us other wise lol."
         ]
     }
 }

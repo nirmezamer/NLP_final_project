@@ -1,7 +1,7 @@
 {
     "Discontinuation of the MEGATHREAD": {
         "title": "Discontinuation of the MEGATHREAD",
-        "score": 17,
+        "score": 19,
         "url": "https://www.reddit.com/r/gigabyte/comments/17p8ssq/discontinuation_of_the_megathread/",
         "content": "I am no longer at the company so hopefully if someone new will take over they will be able to continue the support :(\n\nI wish y'all the best in making your products work!\n\nPrevious week [link](https://www.reddit.com/r/gigabyte/comments/17jy4o6/weekly_support_and_questions_megathread_w44_23/).",
         "num_comments": 2,
@@ -12,44 +12,47 @@
     },
     "AM5 UPDATE TO NEWEST BIOS": {
         "title": "AM5 UPDATE TO NEWEST BIOS",
-        "score": 38,
+        "score": 40,
         "url": "https://www.reddit.com/r/gigabyte/comments/13dxrzh/am5_update_to_newest_bios/",
         "content": "~~Newest BIOS is lookin stable for AM5 users!~~ Let me know in the support megathread if you have any questions! READ THE EDITS\n\n&#x200B;\n\nEdit: IT HAS BEEN BROUGHT TO MY ATTENTION FOR SOME USERS\n\nIf you are using AORUS B650i Ultra STAY ON F4 BIOS to prevent AUDIO ISSUES. I have passed up this info to HQ so we will see what they do with it!\n\n\\-----\n\n5/15 Edit: Looks like a wait longer angle. Current BIOS is not limiting according to hwbusters. Will continue to provide updates. Also to note: TESTING A BETA BIOS WILL NOT VOID YOUR WARRANTY. Unless you break your board over your knee (this is an exaggeration please don't do this pins are sharp) using a BETA Bios will NOT void your warranty.\n\nAlso I can't edit the title heh. Hope everyone reads this\n\n\\-----\n\n5/16 Edit: F5d fixes the audio issue for AORUS B650i Ultra. Have 1 report saying it's stable under 1.3v (may or may not update the count for every user I find)\n\n\\-----\n\n5/16 Edit: I'm being told that the most recent BIOS (should be the same beta one with AGESA 1.0.0.6) properly limits the voltage under 1.3v. To test this, using HWInfo, you can check the **CPU VDDCR\\_SOC Voltage (SVI3 TFN)** voltage and if it ever goes above 1.3 send me a link to an image or some video proof so I can send it up the chain and report accordingly!\n\n\\-----\n\n5/17 Edit: Some BIOSes have been pulled and I have already sent like 20 screenshots of users asking where'd they go to my HQ contact so please stay tuned. u/duke605 was kind enough to compile a short list of those affected:\n\nRemoved BIOSes:\n\n* B650 Aorus Pro AX = F5d\n* x670E Aorus Master = F10d\n* [B650E Aorus Master](https://www.reddit.com/r/Amd/comments/12yq4yb/megathread_for_am5_ryzen_7000/jkjkzt3/) = Unknown BIOS version\n* B650M Aorus Pro AX = idk where'd it go\n\nIf there are any updates to this let me know and I'll add them accordingly (hopefully they put them back up or I get a message clarifying why they were pulled)\n\nTo clarify, I have 0 knowledge of when BIOS will be released or when they get pulled I find out the same time y'all do so please bear with me and appreciate the continued support.\n\n\\-----\n\n5/18 Edit: A new non-Beta BIOS has been released for all AM5 mobo models while I was sleeping!\n\nSo if you've seen it awesome time to update! If not then hey here's your announcement. It is still AGESA [1.0.0.6](https://1.0.0.6) and I have no info on whether there will be an update or new BIOS containing AGESA 1.0.0.7a so if you ask me I will respond with a sad face!\n\nSecond Edit of the day: It seems the Video that was sent internally is now public!\n\n[https://www.youtube.com/watch?v=HOUAy9n104A](https://www.youtube.com/watch?v=HOUAy9n104A) This video shows the voltage stability and what you should be looking for on the motherboard!\n\nHopefully this was able to help and definitely ask me anything if you have any questions! (don't ask for anything from the video idk specs settings any of that)\n\n\\-----\n\n5/22 Edit: Hey y'all. There is a new BETA BIOS for those interested in 1.0.0.7a.\n\nI know a lot of people have been asking about this but do keep in mind this is a BETA BIOS. If you're worried, stay on the standard [1.0.0.6](https://1.0.0.6) version but do remember that if you do download the BETA BIOS your warranty IS NOT VOID.\n\nSo feel free to try out the AGESA version and definitely let me know if you find anything interesting! (Preferably good interesting and not bad interesting)\n\n\\-----\n\n8/8 Edit: Everything is lookin good now so this post will prob be dropped from the stick once I've decided to replace it with another thread! Appreciate everyone of the updates and sticking through this with me.",
         "num_comments": 182,
         "comments": [
-            "which bios (version) for which board, which support megathread",
             "Can you provide some more details? Which bios and agesa? Are we talking about the beta's with 1.0.0.6 or 1.0.0.7 that I don't see publicly yet. Can you provide more information around the fixes, timelines and status of bios to address this?",
-            "I'm on bios revision F5c (B650 AORUS ELITE AX) with a Ryzen 9 7900 (non-X) with Kingston KF560C40BBK2-32, 2 x 16GB,  DDR5-RAM and a GeForce RTX 3060 graphics card by MSI in addition to the internal GPU. In short: the systems works stable and I get a cinebench multithread score of 25'430! I'm using the rig for gaming and 3d modelling / rendering.\n\nInitially, before I knew about the SoC-voltage related incidents with the X3D/X CPUs, I was on F2 and I had XMP turned on. XMP worked stable but I noticed that sometimes the CPU temperature (and thus the fan speed) had some weird spikes going to about 90 degrees Celsius when doing low-CPU load work like reading reddit or watching a You Tube video. I then disabled XMP and went to F4 and later to F5b. I'm using the optimized default settings except with ErP enabled to power down the USB speakers when the PC is switched of. With F5b and XMP disabled I had no weird spikes anymore. I disabled XMP mainly to save power as long as I don't really need the additional performance since DDR5 clock speed 2400 MHz / 4800MT/s is quite high even without XMP (XMP with my RAM would be 3000 MHz / 6000 MT/s). Now the idling temperature is about 38 degree Celsius and the temperature during Cinebench reaches only about 60 to 70 degree Celsius. Also the CPU package power in idle is only 23 W and 90 W during Cinebench. The entire system, measured at the wall plug, uses 70 W in idle and 150 W during Cinebench.\n\nSo yesterday, I've updated to F5c and nothing really changed for my system compared to F5b. The only weird thing, which I also had with all other BIOS versions and already reported in another thread, is that the CPU and system fans do an intermittent full stop during the boot of Windows 11 despite the fan curve not going to 0. I'm not sure whether this has anything to do with the BIOS or whether this is due to GCC or Windows 11 itself but I think the behavior is not right. The full stop of the fans doesn't sound healthy as you can hear a scratching noise when they go from high speed to 0 speed. I'm using a Be quiet Pure Loop 2 FX AIO 240 mm (2 fans) in push configuration for the CPU and 4 system fans (3 intake and one out) for the chassis also by Be quiet. I've now switched to the silent mode fan curve in the bios so that the system runs quieter and also the difference of speed when the fans stop during the bootup is less (it prevents the scratching sound).\n\nBut in total, I'm quite happy since the system runs stable, performs well, and is quiet energy-efficient. Also the newest GCC version got a bit more responsive but the RGB Fusion tool still has a few hickups when trying to synchronize all fans in rainbow mode.",
             "Gigabyte X670E Aorus Master F10d BIOS is exhibiting excessive SOC voltages at stock auto, no EXPO settings. \n\nOn two occasions I have seen VDDCR\\_SOC hit 1.7v and 1.5v for a fraction of a second and my CPU die temps hit TJMAX.",
-            "I\u2019m using Ryzen 7 7800X3D and B650 AORUS ELITE AX (F5c), should I be scared of the recent issue with these CPUs when they\u2019re bloating up killing themselves and sometimes their motherboards? Updated from F1 specifically because of that issue.",
+            "Im using Ryzen 7 7800X3D and B650 AORUS ELITE AX (F5c), should I be scared of the recent issue with these CPUs when theyre bloating up killing themselves and sometimes their motherboards? Updated from F1 specifically because of that issue.",
             "My front and rear audio connectors completely stopped detecting any devices that I plug in after updating to F5C on b650i aorus ultra",
             "I know you're just a marketing representative, but please let HQ know the F5c BIOS literally kills your aorus B650i mobos' audio(ALC4080). There's even a thread for that.",
             "I have just update to F5c for my B650i Aorus Ultra, it killed my realtek soundcard just like F5b, F4 is fine !",
-            "7900x, b650i, xfx 6950xt, running latest windows 11.\n\nUpdated to f5b and lost all audio for both front and rear I/O. No devices recognized. Updated audio drivers. Still no audio. Updated to f5c. Still no audio. Using device manager and Realtek audio isn\u2019t even showing up anywhere on the device.\n\nDid a cold reboot, unplugged PSU and cycled the power button. Powered on. Still no audio.\n\nHave seen many other users report the same thing on both f5b and f5c.\n\nWorkaround is using a crappy USB headphone. Is there going to be a solution in the next bios update?",
-            "I know Buildzoid found f10c does not limit SOC voltage to 1.3 on startup for his board. But did limit it lower while running. But the version I find online now says f10d. So that one does for sure limit it to 1.3v at all times? Including boot?"
+            "I know Buildzoid found f10c does not limit SOC voltage to 1.3 on startup for his board. But did limit it lower while running. But the version I find online now says f10d. So that one does for sure limit it to 1.3v at all times? Including boot?",
+            "u/GBT_Calvin one thing that might help future BIOS releases is a KNOWN ISSUES section below the changelog. That way, instead of removing a BIOS because of a known issue, you can let the users decide if they want to skip that or not. I think this would cause less confusion.",
+            "Newest non-beta BIOSes are out for what looks like all AM5 motherboards. Tho they're not using 1.0.0.7a AGESA. Still only 1.0.0.6",
+            "Is it recommended by HQ to update to newest beta BIOS with AGESA 1.0.0.7a or to stay on stable BIOS with AGESA 1.0.0.6 for the time being?"
         ]
     },
-    "My b550 elite ax v2 motherboard won\u2019t connect to WiFi": {
-        "title": "My b550 elite ax v2 motherboard won\u2019t connect to WiFi",
+    "Broke retention clip": {
+        "title": "Broke retention clip",
+        "score": 3,
+        "url": "https://i.redd.it/fx38uglu0i9d1.jpeg",
+        "content": "In an attempt to uninstall my GPU I broke the retention clip, is there anything I can do? I literally did not even press hard at all. B-650 Auros elite ax motherboard.\n\nIt does not seem like the GPU will come off easily\n",
+        "num_comments": 2,
+        "comments": [
+            "Don't worry it will work without as well.\n\nEnjoy Freedom",
+            "The problem is it seems as if the GPU is still latched to the motherboard it won't wiggle out easily as if the remaining part of the clip is still intact securing it..."
+        ]
+    },
+    "B650 Gaming V2, Ram RGB lights staying on during sleep, and RST_SW ( MULTIKEY)": {
+        "title": "B650 Gaming V2, Ram RGB lights staying on during sleep, and RST_SW ( MULTIKEY)",
         "score": 1,
-        "url": "https://www.reddit.com/r/gigabyte/comments/1dr6js6/my_b550_elite_ax_v2_motherboard_wont_connect_to/",
-        "content": "I\u2019ve tried installing drivers and installing the WiFi drivers but it\u2019s not working ",
+        "url": "https://www.reddit.com/r/gigabyte/comments/1drcoin/b650_gaming_v2_ram_rgb_lights_staying_on_during/",
+        "content": "Hello everyone,\n\nIn bios, I turned off LED lights during sleep mode -> Still ram lights are on during sleep mode.  \nI even changed RST\\_SW ( MULTIKEY) to turn LED off, does not work, pressing the reset button, restarts computer, i even tried to change it to enter bios from the reset button, it still restarts computer.\n\nFeel like none of the settings actually work.\n\nRam is Oloy Blade 32gb (16x2)  \nCpu is 7500F.\n\nAny ideas? Or anyone in the same boat?",
         "num_comments": 0,
         "comments": []
     },
-    "Gigabyte motherboard recognizes 24 GB RAM as 16 GB": {
-        "title": "Gigabyte motherboard recognizes 24 GB RAM as 16 GB",
+    "PSA: RTX HDR 1000 nits on Aorus F032U2P": {
+        "title": "PSA: RTX HDR 1000 nits on Aorus F032U2P",
         "score": 1,
-        "url": "https://www.reddit.com/r/gigabyte/comments/1dr6bko/gigabyte_motherboard_recognizes_24_gb_ram_as_16_gb/",
-        "content": "Hi,\n\nHave a new gig just set up. It has a Gigabyte X670 Gaming X AX V2 with 2x G-skill 24 GB 8000 MHz F5-8000J4048F24GX2-TZ5RK RAM. [The support page](https://www.gigabyte.com/Motherboard/X670-GAMING-X-AX-V2-rev-10/support#support-memsup) says that the motherboard is compatible. But it recognizes the RAM as 16 GB. What can I do? Also how can I adjust the bios settings for the timings of the RAM etc?",
-        "num_comments": 0,
-        "comments": []
-    },
-    "PSA: If you have a Windforce GPU, flash to the \"Gaming\" VBIOS for more performance": {
-        "title": "PSA: If you have a Windforce GPU, flash to the \"Gaming\" VBIOS for more performance",
-        "score": 2,
-        "url": "https://www.reddit.com/r/gigabyte/comments/1dr1fqw/psa_if_you_have_a_windforce_gpu_flash_to_the/",
-        "content": "I just bought an RTX 4070 ti Super Windforce from Gigabyte, I noticed that the pwr limit was locked and the GPU in general had lower clocks even when bumping them up in AfterBurner. I flashed the card to the \"Gaming Edition\" VBIOS and got +13 extra power% and a much higher default clock speed  (touching 3000mhz with an OC while OCing the ram by +1300mhz). Highly suggest doing the same if you own this cooler-variant.\n\nHow to flash vbios:\nhttps://youtu.be/4xsEvdIrNGc?si=N8L2Xr8hKFgPKcaZ ",
+        "url": "https://www.reddit.com/r/gigabyte/comments/1dr9dp9/psa_rtx_hdr_1000_nits_on_aorus_f032u2p/",
+        "content": "Hey folks,\n\nUntil Gigabyte see fit to bother actually supporting their expensive new monitors with regular firmware updates, a workaround to get 1000 nits using RTX HDR.\n\nGo here and download this - https://www.nexusmods.com/site/mods/781\n\nMake sure to download the main file and also the \u201cTrueHDRTweaks\u201d.\n\nNow place the files from the TrueHDRTweaks zip (x64 folder) into the .exe folder of the game you want.\n\nGo to the .ini file you\u2019ve dropped into game folder and change the Peak Brightness setting to 1000ish nits.\n\nExtract and run the NVTrueHDR.exe, drag and drop your chosen game .exe in the command prompt window opened up.\n\nEnjoy your game.",
         "num_comments": 0,
         "comments": []
     }

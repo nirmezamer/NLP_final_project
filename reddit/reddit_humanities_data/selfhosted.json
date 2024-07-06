@@ -1,85 +1,97 @@
 {
     "Welcome to /r/SelfHosted! Please Read This First": {
         "title": "Welcome to /r/SelfHosted! Please Read This First",
-        "score": 1356,
+        "score": 1367,
         "url": "https://www.reddit.com/r/selfhosted/comments/bsp01i/welcome_to_rselfhosted_please_read_this_first/",
         "content": "#Welcome to /r/selfhosted!\n\nWe thank you for taking the time to check out the subreddit here! \n\n##Self-Hosting\n\nThe concept in which you host your own applications, data, and more. Taking away the \"unknown\" factor in how your data is managed and stored, this provides those with the willingness to learn and the mind to do so to take control of their data without losing the functionality of services they otherwise use frequently. \n\n##Some Examples\n\nFor instance, if you use dropbox, but are not fond of having your most sensitive data stored in a data-storage container that you do not have direct control over, you may consider NextCloud\n\nOr let's say you're used to hosting a blog out of a Blogger platform, but would rather have your own customization and flexibility of controlling your updates? Why not give WordPress a go. \n\nThe possibilities are endless and it all starts here with a server. \n\n##Subreddit Wiki\n\nThere have been varying forms of a wiki to take place. While currently, there is no *officially* hosted wiki, we do have a [github repository](https://github.com/r-selfhosted/wiki). There is also at least one unofficial mirror that showcases the live version of that repo, listed on the index of the [reddit-based wiki](/r/selfhosted/wiki)\n\n##Since You're Here...\n\nWhile you're here, take a moment to get acquainted with our few but important **[rules](/r/selfhosted/wiki/rules)**\n\nWhen posting, please apply an appropriate flair to your post. If an appropriate flair is not found, please let us know! If it suits the sub and doesn't fit in another category, we will get it added! **[Message the Mods](https://www.reddit.com/message/compose?to=%2Fr%2Fselfhosted)** to get that started.\n\nIf you're brand new to the sub, we highly recommend taking a moment to browse a couple of our awesome self-hosted and system admin tools lists.\n\n[Awesome Self-Hosted App List](https://github.com/Kickball/awesome-selfhosted)\n\n[Awesome Sys-Admin App List](https://github.com/n1trux/awesome-sysadmin)\n\n[Awesome Docker App List](https://github.com/veggiemonk/awesome-docker)\n\nIn any case, lot's to take in, lot's to learn. Don't be disappointed if you don't catch on to any given aspect of self-hosting right away. We're available to help! \n\nAs always, happy (self)hosting!",
-        "num_comments": 82,
+        "num_comments": 86,
         "comments": [
             "Really nice introductory post, thanks!",
-            "Hello, I'm new to the whole self-hosting scene, I have an ubuntu server with php, mysql, and apache2, and bookstack installed on it. I'm not really sure how to go about installing other applications alongside of it, does anyone have any tips or could point me in a direction of where I can learn more about this?",
-            "[deleted]",
-            "[deleted]",
             "new welcome message? what did we do to deserve this spot of loveliness",
             "Moderators, how can new services be added to the list?",
             "Why do I have to look at this face everday?",
-            "Great stuff, thanks",
-            "Do you know what I find funny?  \nI was about to post here \"does anyone know of \\[version of an app I want to self-host\\].  \nThen I thought, \"wait, that's probably been asked a million times!\"  \nThen, I was like \"oh, perhaps I'll ask if there is a comprehensive list\".\n\nThen I \"read this first\" :-D",
-            "Is there any post which talks about how to get started with self-hosting and what hardware to use for a beginner?"
+            "Is there any post which talks about how to get started with self-hosting and what hardware to use for a beginner?",
+            "> Taking away the \"unknown\" factor in how your data is managed and stored \n\n...eh...... Unpopular opinion..but.. If that was TRULY the case docker would be less recommended around here.",
+            "What's the difference between this sub and r/homelab",
+            "Is there a way to search posts within SelfHosted! using keywords?",
+            "Im surprised n8n is not there",
+            "Currently I hosted for wordpress, and want to built forum for my running  community"
         ]
     },
     "April Announcement - Quarter Two Rules Changes": {
         "title": "April Announcement - Quarter Two Rules Changes",
-        "score": 24,
+        "score": 28,
         "url": "https://www.reddit.com/r/selfhosted/comments/1c8332s/april_announcement_quarter_two_rules_changes/",
         "content": "Good Morning, /r/selfhosted!\n\nQuick update, as I've been wanting to make this announcement since April 2nd, and just have been busy with day to day stuff. \n\n### Rules Changes\n\nFirst off, I wanted to announce some changes to the rules that will be implemented immediately. \n\nPlease reference the rules for actual changes made, but the gist is that we are no longer being as strict on what is allowed to be posted here. \n\nSpecifically, we're allowing topics that are *not* about explicitly self-hosted software, such as tools and software that *help* the self-hosted process.\n\n***Dashboard Posts Continue to be restricted to Wednesdays***\n\n### AMA Announcement  \n\n~~The CEO~~ a representative of Pomerium (u/Pomerium_CMo, with the blessing and intended participation from their CEO, /u/PeopleCallMeBob) reached out to do an AMA for a tool they're working with. The AMA is scheduled for May 29th, 2024! So stay tuned for that. We're looking forward to seeing what they have to offer. \n\nQuick and easy one today, as I do not have a lot more to add. \n\nAs always,\n\nHappy (self)hosting!",
-        "num_comments": 9,
+        "num_comments": 11,
         "comments": [
-            "I'm assuming this is the Pomerium website: https://www.pomerium.com\n\n\nAt a quick glance it looks like a potential alternative to Cloudflare, it'll be interesting to see how they engage here, there website is unabashedly comparing itself to Enterprise focused tools, which typically market themselves to CTO's (who control the purse strings), rather than directly to the Sysadmin/Engineering teams..\n\n\nHopefully they'll look at the Cloudflare and Tailscale models, and see the benefits it's brought for everybody.",
-            "Quick update: the CEO is https://www.reddit.com/user/PeopleCallMeBob !\n\nI'm also part of the Pomerium team and will participate with answers when relevant.",
             "Who knew there was moderation on this sub? So, the big change is there is going to be no change and the sub will continue to be the same questions posted over and over, none of which have anything to do with self hosting. Marvelous work!",
-            "Yes, I had the same thoughts when first interacting with them via Modmail. \n\nThey stated that this AMA would not be focused on their business-end needs/use-cases, but to the OSS (https://github.com/pomerium/pomerium) model they offer, as well as how their CEO [uses them personally](https://discuss.pomerium.com/t/this-little-nas-that-could/80) in their home lab.\n\nThese were only a couple of the touch points mentioned; I imagine the AMA intends to get the community of self-hosters here involved and informed about the OSS offerings they provide.",
+            "Hey, I'm curious: What do you like about the tailscale model?",
             "Noted! Thanks for the info, I'll make the change.",
             "I apologize that the moderation has been lacking recently. Real Life priorities have taken its toll on my personal efforts on this subreddit (hence why this post ended up being 2 weeks later than I had intended originally...)\n\nAny sincere thoughts on how this subreddit could be moderated better, or would you like me to try and infer based on your cynicism?",
             "Wow - I didn't come across the github repo.. Now they've got my attention, I'm much more intrigued!",
             "Ignore him. Small subs thrive with less heavy moderation. Yes, the same questions get reposted often. Sometimes there are nuances in the questions and sometimes there are interesting answers!\n\n\nIn general, the sub seems fine. There isn't too much noise and it's still helpful for people new to the hobby.",
-            "The best moderation is one you don't even notice.\u00a0\n\n\nThe biggest complainers seem to offer the least constructive benefit. At best, they are mildly entertaining"
+            "The best moderation is one you don't even notice.\n\n\nThe biggest complainers seem to offer the least constructive benefit. At best, they are mildly entertaining",
+            "Since they started, they engaged the selfhoster and prosumer communities, giving support, promoting usage, even blog posts of how to deploy it into a home lab - and most importantly, they've kept that going... even recently adding new features such as the ControlD... then they've also supported OSS, and not only the client, but there is also full self-hostable alternative called Headscale, whilst not built or supported by Tailscale, then have been positive about it (rather than teying to shut it down)... taken all together, they've built up a huge amount of trust and support.\n\nIt also helps, they are available of every platform, from my phone, to my NAS, to my VPS with ARM cores - also there is huge amounts of documents and troubleshooting.available online.",
+            "Quick update: the CEO is https://www.reddit.com/user/PeopleCallMeBob !\n\nI'm also part of the Pomerium team and will participate with answers when relevant.",
+            "I'm assuming this is the Pomerium website: https://www.pomerium.com\n\n\nAt a quick glance it looks like a potential alternative to Cloudflare, it'll be interesting to see how they engage here, there website is unabashedly comparing itself to Enterprise focused tools, which typically market themselves to CTO's (who control the purse strings), rather than directly to the Sysadmin/Engineering teams..\n\n\nHopefully they'll look at the Cloudflare and Tailscale models, and see the benefits it's brought for everybody."
         ]
     },
-    "Today selfhosting made me the hero of the day for my partner \ud83d\ude05": {
-        "title": "Today selfhosting made me the hero of the day for my partner \ud83d\ude05",
-        "score": 138,
-        "url": "https://www.reddit.com/r/selfhosted/comments/1dls0ku/today_selfhosting_made_me_the_hero_of_the_day_for/",
-        "content": "I've been selfhosting a bunch of stuff for a few years now, game servers, HomeAssistant, VPN, PiHole, Docker Registry, you name it basically. Mostly for myself/hobby,  but I'm pleased to announce today was the day where it truly made a difference for my partner \ud83d\ude02\n\nPartner started making and ordering physical photo albums of our kid, one per year per grandparent, yesterday. When she was about to pick it back up today, images from the first year was missing in the album designer and the Google Shared Album we've used for these yearly albums. \n\nImmediate distress!\n\nEnter our Nextcloud photo sync for all raw images & the backups I've taken of the Google Shared Albums every year in January when the previous year was \"settled\".\n\nPartner was excited to say the least \ud83d\ude05\n\nJust wanted to share this with someone who would understand the feeling the gave me to be able to help my partner through what is essential my hobby \ud83c\udf89",
-        "num_comments": 24,
+    "My 12x Mini PC homelab - k8s cluster": {
+        "title": "My 12x Mini PC homelab - k8s cluster",
+        "score": 390,
+        "url": "https://www.reddit.com/gallery/1dqq3h8",
+        "content": "",
+        "num_comments": 98,
         "comments": [
-            "I think legally your partner is now obligated to sit with you while you are creating docker compose files, and periodically compliment you on how efficient and elegantly you\u2019ve planned out your stacks. \n\n1.5-2 months seems like the longest you could push for without being murdered in your sleep, right?",
-            "Congrats. Do you remove the previous year from Google once you've put it into immich?",
-            "Selfhosting: where being a hero is just a backup away",
-            "Thanks for reminding me to start setting up the Nextcloud server that my wife asked 6 months ago.",
-            "I have family pictures saved from the extended family, from all sorts of family events like weeddings/birthday parties.\n\nAt least once a year I have a crying aunt or mum when I give them a folder full of pictures of their late mum or the 1st birthday party of their son who is graduating now.",
-            "You do all that on one server?",
-            "It would interesting to understand how come the pictures where missing from the Google Shared album. Have they been deleted or is this an issue with Google?",
-            "Wait till you loose all self hosted shit because backup fails or server crashes or whatever the reason. Hero to Zero",
-            "Now migrate from Google (ewww) to Immich.",
-            "Hahaha! I like the way you think \ud83d\ude02"
+            "r/homelab wants to have a word with you.",
+            "What do you do for shared storage?",
+            "what do you actually do with this?",
+            "I think my wife would divorce me. Where can I get those mini-PCs. ;-)",
+            "It looks like two of them are not numbered you should hang your head in shame  \n\nHats off to you  on a nice mini cluster",
+            "Ok, I'll bite. Why do you have 0% \"wine\"?",
+            "Why have 12 mini instead of 1-2 powerful machines?",
+            "How many units of energy does this consume on average?",
+            "Don't you mean a \"k12s\" cluster? \n\nBadum tssss!",
+            "I'm so jealous. I'm struggling to get even 3. \n\nWhat are the specs on those? I'm also going to build a k8s cluster."
         ]
     },
-    "I want to take orders for my garden kitchen, what are my options?": {
-        "title": "I want to take orders for my garden kitchen, what are my options?",
-        "score": 8,
-        "url": "https://www.reddit.com/r/selfhosted/comments/1dlr4h7/i_want_to_take_orders_for_my_garden_kitchen_what/",
-        "content": "Having installed Bar Assistant recently to manage my cocktail cabinet, and mealie to plan the food for the week, I figured it would be a bit of fun to be able to offer a \"menu\" for my garden kitchen when I'm grilling/making pizzas.\n\nThis is just for when family/friends are over, so I don't need online payments or anything complicated like tasteigniter provides, but I would like the following features:\n\n1. The ability to list a \"stock menu\"\n2. The option to customise orders\n3. Integration with a ticket printer\n\nFor example, there are five people in my household. Tonight I'm doing smash burgers.\n\nI want to be able to offer a plain burger or cheese burger, but have them add/remove bacon, salad, sauce etc.\n\nTomorrow I'm doing pizza in the ooni. I want to be able to offer some \"standard options\", but again allow people to add/remove toppings etc.\n\nDoes anything like this exist, or is this dangerously close to another project I don't have time to write or maintain but do it anyway? \ud83d\ude05",
-        "num_comments": 0,
-        "comments": []
-    },
-    "Dawarich 0.7.0": {
-        "title": "Dawarich 0.7.0",
-        "score": 227,
-        "url": "https://www.reddit.com/r/selfhosted/comments/1dl3e0b/dawarich_070/",
-        "content": "Hey-ho, Dawarich 0.7.0 is here!\n\nWell, it's [0.7.1](https://github.com/Freika/dawarich/releases/tag/0.7.1) already, but still.\n\n[Dawarich](https://github.com/Freika/dawarich) is a self-hosted alternative to Google Location History (Google Maps Timeline).\n\nAlmost 3 months passed since the [previous post](https://www.reddit.com/r/selfhosted/comments/1bvoe8a/dawarich_google_location_historygoogle_maps/), announcing the very first public release, 0.2.0 at the moment, and whole bunch of new features were introduced to Dawarich since that moment.\n\nLet's look at them briefly:\n\n* Docker image is now available for both ARM64 and AMD64 architectures\n* Dawarich now can accept your location data from the Overland mobile application\n* The export process was improved and made more robust and convenient\n* More types of imports are now supported:\n   * Google Takeout's Records.json (a huge, bulky file)\n   * Google Takeout's Semantic History Location (a bunch of JSON files split by month)\n   * .GPX files\n* Background jobs concurrency is now tweakable\n* Points from your device now can be sent only with API-key\n* Map changes:\n   * Heatmap\n   * Routes are being split based on time and distance and now are not connected to a single huge mess of lines\n   * Hover over a route will highlight it and show basic data (start-stop time, distance, and duration)\n* User can now (mass) delete their points\n\nAnd now dive into a bit more details.\n\n# API Key\n\nIn the very first release, a user could send his geolocation data using OwnTracks without any kind of authentication. It made it impossible to link points to a specific user, hence statistics calculation was imperfect and any other user, signed up to Dawarich, could see other users' points. Since the introduction of the necessary usage of API key to send geolocation data from mobile apps (both OwnTracks and Overland), this is no longer a problem. Points are being linked to a user and the ones that were created before this change are linked to the very first user in your Dawarich system automatically.\n\n# Imports\n\nRecently, Google announced sunsetting the storage of user location history on their web platform, moving it to user's devices instead. Users can now order a Takeout from their own devices. And looks like this Takeout has a different format from the two they already have (Records.json and Semantic History Location). Unfortunately, I don't have an example of such an export file, but as soon as I have one, I'll work on supporting its import to Dawarich as well. For now, Dawarich supports Google Takeout's Records.json and Semantic History Location, GPX files and OwnTracks export files. More to come.\n\n# Map\n\nI love how the heatmap looks like on Dawarich's map, and how routes started to look a lot better after I introduced rules to split them, but this last change requires a bit more explanation.\n\nIn the first versions, Dawarich rendered one single route that connected all the points on the map. It made the map kind of unreadable (see the screenshot). One of my friends suggested splitting routes based on time and distance between consecutive points. The idea looks like this: points are being connected to form a route on the map, unless the time between one of the points and the other is more than 1 hour. If that's the case, these points are not being connected, and the route ends. The same goes for distance: if the distance between two consecutive points is more than 500 meters, the route ends. These conditions are working on an \"OR\" basis, if one of them is true, the route ends.\n\nThese settings can be changed by a user in the Settings section starting release 0.7.1\n\n[Before route splitting](https://preview.redd.it/bw3y675t9x7d1.png?width=1400&format=png&auto=webp&s=0aeaa8ee6d33f0ce17556491265de7213b20fdd6)\n\n[After route splitting](https://preview.redd.it/ewwfc981ax7d1.png?width=3434&format=png&auto=webp&s=0ec0497afd81362c7a625a994e40a99270e5b4bb)\n\n# More to come\n\nThe development of Dawarich doesn't stop. I have plenty ideas, most interesting (in my opinion) are:\n\n* \"Fog of War\" mode (if you know, you know)\n* API to read points, import data, and so on\n* Notification system to make events happening under the hood more transparent for the user\n* Update statistics to render more information\n* Monthly/yearly digests of your data and insights\n\nThe list is not exhaustive, more you can see at the [development board](https://github.com/users/Freika/projects/3) or suggest in the [discussions section](https://github.com/Freika/dawarich/discussions) or right here in the comments under this post.\n\nAny questions, ideas, and contributions are most welcome!\n\n  \nP.S. As a bonus, my Overland confugration: [https://imgur.com/a/overland-settings-dawarich-k8H7a8J](https://imgur.com/a/overland-settings-dawarich-k8H7a8J)",
-        "num_comments": 67,
+    "Unpopular opinion: I don't need new features; I just want everything to function as intended, be rock solid, and work reliably...": {
+        "title": "Unpopular opinion: I don't need new features; I just want everything to function as intended, be rock solid, and work reliably...",
+        "score": 454,
+        "url": "https://www.reddit.com/r/selfhosted/comments/1dqo95f/unpopular_opinion_i_dont_need_new_features_i_just/",
+        "content": "What drives the relentless quest for new features?",
+        "num_comments": 120,
         "comments": [
-            "This looks amazing! Thanks! Can\u2019t wait to try it out. Been looking for something like this since I cut off my google history. Did you also post in r/degoogle ?",
-            "OK finally lol (not against you)\n\nI was lamenting recently on a lack of self hosted, FOSS <track my location> platform.\n\nCurrently I denote my GPS location before snapping my photos, but I was hoping on a better method of streamlining that so I could leverage my phone + my own service without relying on Google to keep track\n\nI don't know much around the security implications of GPS on my device, but I assume the data on the phone is what this uses and parses?\n\nThanks for the project.  Looking forward to it",
-            "No idea what it is.",
-            "Wait so you're saying that I've had the tab with your previous post open for almost 4 months? Damn.\n\nI guess the docker container should be my excuse to finally try this out.",
-            "Nice I love location history and that really looks like a good alternative",
-            "Will check it out, thanks. I've tried OwnTracks a few times but the documentation focuses on the wrong thing and it seems hit or miss if it works on Android. It never seems to 'just work' for long.",
-            "Looks interesting, will definitely check it out, thanks.\n\nWondering if it'd be doable to have Home Assistant (which already tracks location) update the location instead of using a separate app, should be just an API call I assume?",
-            "I'll set this up soon. Looks great!",
-            "Awesome! I got something to set up over the weekend!",
-            "hold on this is cool\u2026"
+            "Creating something new is more motivating than fixing broken stuff",
+            "It's hard to promote a product when your marketing pitch is 'it still works'\n\nIt's much easier when your pitch is 'it now integrates with your smart fridge' , even when it's a drone.",
+            "You are looking for Debian Stable branch.",
+            "Find the version you like, fork it, and boom no more new features. And if there's a bug you can patch it.",
+            "> What drives the relentless quest for new features?\n\nFor for-profit companies, it's just to make sales. Doesn't matter that nobody asked for your new feature or that it's bug ridden, it gives the marketing team a new buzzword to sell and it works.",
+            "While you might be content with everything a platform offers, other people might not be. Someone might need the ability to do certain things that the app simply doesn't offer. What drives the quest for new features is user demand. \n\nThis isn't necessarily the case for non self hosted products though. Alot of times companies will change the interface for things just to give it a new look. Companies like ubquiti and YouTube are the best example of this. The sad part is that it works. To a company, the only thing that matters is how many people use the new changes and not how many people like it. People who are using companies like ubquiti and YouTube arnt just going to change companies because of an interface update, but at the same time, the new interface might bring some new customers.",
+            "Hey this is not unpopular at all!",
+            "Literally why I can't use Immich. It already does everything it needs to, but they keep adding stuff at the expense of stability",
+            "Some times .. the people who create these tools on their own time are scratching a personal itch and have needs and wants that are different from you.",
+            "If a company puts together a product that is rock solid and only maybe gets security updates, then it could maybe be profitable. But in todays investment culture its not enough to be profitable, a company that is not increasing its user base year over year is considered a failure. In fact, its common practice for tech companies to be unprofitable for years while they grow their user base, propped up by investor money. Additionally in tech, hype is almost more important than the fundamentals. If you make a product and all your competitors are adding the newest hype like NFTs or AI and youre not, then youll be considered a failure, regardless of whether or not any actual users want these features."
+        ]
+    },
+    "Self hosting a password manager - Vaultwarden - Do I, Don't I ?": {
+        "title": "Self hosting a password manager - Vaultwarden - Do I, Don't I ?",
+        "score": 20,
+        "url": "https://www.reddit.com/r/selfhosted/comments/1dr6mp7/self_hosting_a_password_manager_vaultwarden_do_i/",
+        "content": "OK so I'm fairly new to self-hosting but I'm becoming ever increasingly aware of my bad password management.\n\nI currently use Microsoft Edge with its built-in password, identity and wallet features, which store all my information in their cloud via my Microsoft account. It's very convenient as it offers to automatically store my passwords, etc., as I start to use them and then auto-fills any fields as I access them. \n\nI'm ashamed to admit I have used the same password in the past for multiple devices, making it easier for me to remember. \n\nI have a very bad memory so this seemed like a good solution.\n\nHowever, now I realise that this is compromising my digital life. If a hacker gains access to one password, they have the potential to gain access to many other sites I log in regularly.\n\n## Vaultwarden\n\nSo I looked to Vault Warden, deployed via docker and exposed via Cloudflare tunnels, imported my data from Microsoft Edge and have it self-hosted. \n\nBut here are my concerns. \n\nBeing self-hosted, if my server goes down, my passwords go with it. My current method of backing up my dockers is by gzip tarring the mapped data volumes, keeping permissions of the folders and files, and then rcloning that archive to multiple Google drives. Keeping multiplier copies with a timestamped filename. \n\nIf something breaks, I can restore these services by downloading the archive from Google Drive and unzipping the mapped volume.\n\nHowever, what concerns me is both data protection and ease of use. \n\nWith my current practice, if I lose my self-hosted server, my passwords are memorable and also backed up to Microsoft Cloud, causing minimal disruption. However, self-hosted, and maybe using a built-in password generator to make each site's passwords unique, I am fully reliant on getting that backup restored.\n\nAlso if the server is stolen, they would have access to the password database that would have my full identity, passwords and worst still, all my credit card information. \n\nSo I guess my questions are\n\n1. Is my backup practice sufficient for something as critical as vault warden  \n2. If I'm going to switch to automated, generated, passwords for each site I log, would I be better off staying with my current practice of letting Microsoft Edge and its password, wallet and identity manager back up to their cloud?  \n3. Is it better to just use two-stage authentication on everything and keep the same memorable password for multiple sites, for ease of memory?  \n4. How safe is the stored Vault Warden database from being used if a self-hosted device is stolen?\n\n",
+        "num_comments": 68,
+        "comments": [
+            "I have self hosted vaultwarden and use bitwarden clients. If you have doubts, you can always throw bitwarden a few bucks and use their service.",
+            "Using Vaultwarden for two years, no problems",
+            "The best thing when you self host bitwarden, you don't even need to expose it which, for me, is an extra layer of security.",
+            "Not the point of the post I realise but as I had similar concerns I pay for Proton for VPN and use their password manager. I like their email service and need their VPN anyway for my Linux distro stuff so seemed like a logical solution.",
+            "I keep a kdbx file in a cloud service(and multiple copies as backups) and different clients on different platforms, like Strongbox, MacPass and KeePassXC.",
+            "Yes do it , why wait ???",
+            "Ive contemplated it, as Im on Bitwarden right now, but Ive not seen enough of a benefit for me vs. free tier personal Bitwarden.\nI might look at it eventually, but Id rather focus on stuff that is less critical if it fails (yes yes make backups of the vault lol).",
+            "A simpler solution would be to use KeePassXC and always keep the pw database file local, never on cloud.  Keep good backups of it.",
+            "With the bitwarden addon in your browser of choice, it will ask to store passwords for many sites (but not all, tho) like the browser asks to store it.",
+            "I use Microsoft and Authenticator. I can access from Edge in my devices as well as my iPhone via Authenticator (which I also use for 2FA).\n\nSelf-hosting is good, but I do have the same concerns as you. I suspect I am much more likely to break things, especially something critical, even if temporarily, than Microsoft."
         ]
     }
 }

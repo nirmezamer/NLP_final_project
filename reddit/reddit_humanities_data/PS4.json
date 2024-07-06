@@ -1,96 +1,90 @@
 {
-    "General Questions & Tech Support Megathread | June 21, 2024": {
-        "title": "General Questions & Tech Support Megathread | June 21, 2024",
-        "score": 0,
-        "url": "https://www.reddit.com/r/PS4/comments/1dkuy1c/general_questions_tech_support_megathread_june_21/",
+    "General Questions & Tech Support Megathread | June 28, 2024": {
+        "title": "General Questions & Tech Support Megathread | June 28, 2024",
+        "score": 3,
+        "url": "https://www.reddit.com/r/PS4/comments/1dqamv8/general_questions_tech_support_megathread_june_28/",
         "content": "Hi everyone,\n\nPost all of your general and tech support questions in this thread.\n\nAs a reminder, the following threads are no longer allowed on [r/PS4](https://www.reddit.com/r/PS4/) and will be removed:\n\n* **Tech Support questions** (\"I have a problem\", \"My controller doesn't work\", \"I can't connect to PSN\"...)\n* **Game recommendation** (\"Which game should I get?\", \"Is this game good?\")\n* **General questions** (\"Where can I get a PS4?\", \"What do you think of this controller?\")\n\n**Those questions now have to be asked in this thread**. It will be renewed at 12:00 AM EST on Mondays and Friday.\n\nThis thread is sorted by **New answers by default**. Sorting it by Top or Best could give answers to commonly answered questions.\n\nAlso, don't forget to google your question first - you might find the answer before asking it here!",
-        "num_comments": 45,
+        "num_comments": 35,
         "comments": [
-            "I keep getting cant establish connection when login in to my ps account from pc browser, the whole message says:\n\nUnable to establish connection to the server. (18.d1fdda17.1718942513.5669abcc)\n\nI\u00b4ve had this for so much time now and got it from one day to another",
-            "What's the best current option to upgrade your internal storage to?",
-            "My PlayStation won't sync any controllers which is strange because when plugged in to the console, they still light up yellow as if they were charging.",
-            "I can't remember my password and the only way it shows me  to reset my Account is my age,  which as the idiot that I am put in some fake back then to be old enough, what options do I have ?",
-            "PS4 suddenly got the error code CE34788-0. Help needed\n\nI plugged the USB file with the update file and it wouldnt recognize it. So I researched on the internet and found an alternative way which is initializing ps4 basically formatting everything. I did that and it worked but then I got the prompt to update the ps4 to 11.5. I did that and after restarting I got an error message and it went back to giving the error code of plugging in the dualshock controller and a usb with the update file of 8.00 but that does not work. Any tips?",
-            "Help please!\n\nBeyond the Dawn (Tales of Arise DLC) is not showing up in my PS4 library for download on my PS4.\n\nIt shows up under my transaction history on the ps store website but when I go to Library on my PS4 the expansion is nowhere to be seen.\n\nWhen I search \"Tales of Arise - Beyond the Dawn Expansion\" on the ps store you see a thumbnail of the game and under it, it says \"unavailable\".\n\nWhen I click on the thumbnail I go to a page that has:\n\n# Tales of Arise - Beyond the Dawn Expansion\n\nBandai Namco Entertainment America Inc.Tales of Arise - Beyond the Dawn Expansion\n\nRating  \\*\\*\\*\\* (7 ratings)\n\nOwned\n\nSo as you see, below the rating it says \"Owned\".  On the PS app it also says \"purchased\" when I go to the games indvidual page.\n\nSo it looks like this:\n\nEpisode\n\nReleased 11/9/2023 | Purchased\n\nOTHER INFO:\n\nI purchased my ps4 in the USA and created a US account but brought it to Europe where it now is.  I have both US and European versions of games that all work, including a European version of Tales of Arise base game.  Every other digital download I have ever purchased, about 12, work fine, including Valkyrie Profile Lenneth I got on the same exact day as Beyond the Dawn.\n\n\\*\\*\\*\\*I tried to download/access the expansion via the base game (ToA) itself and it says I need to purchase it (but, again, I did)\n\nI created a European account but I can not download Beyond the Dawn from that.\n\nI tried to restore the licenses, that did not work.  Start/restart and power on/power off, turn off/turn on internet did not work.\n\nSo am I out 20 dollars?  PS support was of little help.  Even though I have a US account I live in Europe but they don't want to help via a European support phone number.",
-            "**FREQUENTLY ASKED QUESTIONS**\n\n\n**Q: My controller won't connect despite being plugged into the console. It charges/is charged but I'm stuck on the press the PS button screen.**\n\nA: You need a USB data cable to pair a controller with a console, instead of a generic  USB charging cable. They look the same but a charging cable only charges, it cannot send a data signal which is necessary for controller pairing. USB Data cables are necessary for safe mode operation as well.\n \nIt's a common mistake. \n\nAmazon lists cables as data cables if you need to purchase one. Other retailers will also list data on cable packaging.\n\nhttps://www.dignited.com/50330/usb-data-cable-vs-usb-charging-cable/amp/\n\nAlso, don't forget to press and hold the reset button on the back of the controller for 5-10 seconds before connecting it. This is recommended when using your DS4 on a PC or other device before connecting back to a PS4.\n\n**Q: My account is saying I don't own a game when I know I do. How do I fix this?**\n\nA: restore licenses in settings > account management \n\nhttps://www.playstation.com/en-gb/support/games/restore-licences-playstation/\n\nCheck your account on the Playstation Store website. If you own it you can remote download it, you can also check tour transaction history there too. If you still can't access the game it was either:\n\n1. Purchased on disc thus not owned digitally\n\n2. Purchased on a different account and game shared to your account. Remember, you can play a game without owning it. Having trophies is meaningless when proving ownership as you can earn trophies from disc games and games owned by a friend.\n\n3. Obtained using PS+ and your subscription ran out. Your monthly games can be retrieved by resubscribing.\n\n4. Obtained with PS+ Extra and it was removed from the service. \n\nIf you don't think it's the above 4 options, contact support.\n\n\n**Q: I am missing a DLC that I purchased. How can I fix this?**\n\nA: follow the detailed instructions here. Otherwise contact support \n\nhttps://www.playstation.com/en-gb/support/games/add-on-dlc-in-game-currency-support/\n\n**Q: How do I fix \"Cannot sign in using another player's sign in ID.\"?**\n\nA: You are signing into either the wrong user profile or the wrong Playstation account. To solve this sign into your PSN account on the different user profiles until you sign into the correct one. If you cannot use any user profile due to the above message, make a new user profile for your PSN account.\n\nPS4s use user profiles. Each user profile that is set up can then be tied to a single Playstation account. Thus you cannot sign out of a PSN account on a user profile and sign in with a different Playstation account. As such, 2 Playstation accounts each need their own separate user profile on a PS4.\n\nYou also cannot sign into a single Playstation account on 2 different user profiles on the same PS4. So if you want to use a new account with a PS4, make a new user profile.\n\n**Q: My console is saying I don't have enough storage space for an update even though I do.**\n\nA: You don't. If the console is asking you to free up space on your HDD then you must do as the PS4 asks. When the PS4 updates a game, it makes a copy of it on your HDD that is deleted once the update is applied. This means that a 50GB game requires 50GB free on the HDD + the size of the update. COD being a massive game can require 100GB+ free depending on its current size.\n\nI recommend giving your PS4 a 100GB buffer to update your games. If you only have a 500GB HDD I also recommend an external HDD or upgrading your Internal HDD to a 2TB drive.\n\n\n**Q: How do I game share digital games/PS+?**\n\nPS5\nhttps://www.playstation.com/en-gb/support/account/ps5-console-sharing-offline-play/#\n\nPS4\n\nhttps://manuals.playstation.net/document/gb/ps4/settings/activation.html#\n\nA: You can game share with 1 PS4 and PS5 at a time, known as your Primary console. Instructions above. Multiple accounts can have the same Primary console.\n\nAgain, you can only game share with 1 PS4 at a time, so if you want to game share with someone else use the same path to deactivate the PS4 or use the website to deactivate remotely.\n\nIf it doesn't work right away then restore licenses on the account that owns the games.\n\nGames and DLC can share between users, however some DLC is account locked so cannot be shared between users. DLC and game need to be the same region first in order to game share.\n\nYou can still access your games on any other PS4 you sign into, even if it's not your Primary PS4, simply by being signed into the PSN, but no one else on the non-Primary PS4 can play your games.\n\n**Q: I keep getting error E-8210604a when attempting to make a purchase. How do I fix it?**\n\nA: The error is more or less a catch all, use the advice on the following link and beyond that contact support for more help. In the meantime you can complete your purchase using Playstation wallet vouchers to fund your wallet.\n\n\nhttps://www.playstation.com/en-gb/support/error-codes/ps4/e-8210604a/\n\n**Q: Pros and cons of changing your Online ID?**\n\nA: its safe for most modern games but some exceptions exist. For more information:\n\nhttps://blog.playstation.com/2019/04/10/online-id-change-on-psn-your-questions-answered/\n\n**Q: I have lost access to my account/want to refund a purchase. How do I do this?**\n\nA: Only support can help in these cases. Support is region locked so if you have a USA account only the USA Support team can help you. Most Support teams are open Monday-Saturday usually around 10-7PM and most Countries only offer phone or live chat support. \n\nThe Support site is easily googled/linked in the side bar for Live chat.\n\nThe phone number is on the Support website, inside your game cases and also listed here:\n\nhttps://docs.google.com/spreadsheets/d/1Yyg6CDcHkMSQ40bGtRax6BuNqie5ym7wHSjRNISX9Cw/\n\n**Q: Can I change the region of my account?**\n\nA: No. If you want an account set to a different region you must make a brand new account.\n\n**Q: My voucher code isn't redeeming. What can I do?**\n\nA: Vouchers are region locked so a USA voucher will not work on a European account. Also make sure your voucher code has not expired if the game is a few years old. For PS+ vouchers you may be required to add a credit card to your account for auto renewal purposes.\n\nAnything beyond that contact support.\n\n\n**Q: Are games region locked?**\n\nA: Yes. PS4, PS3 and PS5 Games are region coded so that USA DLC and saved data only works with USA copies of the game. \n\nA French account/console can play a USA game disc but French DLC won't work with it. If an American account is used to purchase DLC the French account can play that DLC too assuming it is shareable between users ie not in game currency.\n\n**Q: purchased a new copy of a game to continue my game save but it doesn't appear when I launch the game.**\n\nA: First of all make sure the game is fully updated with the latest patch and check again.\n\nOtherwise, saved data and DLC are region locked. So if you played an American copy of a game you created an American game save that cannot be read by a copy of the game from a different part of the world.\n\nAlso, Witcher 3 Wild Hunt is considered a different game to Witcher 3 GoTY so the saves are incompatible between both games even if from the same region.\n\n\n**Q: I have purchased DLC for a game and it is stuck at 'waiting to install'. How do I fix this?**\n\nA: If you launch the game and the DLC still will not install, this is down to a region mismatch. DLC and saved data are region locked, meaning DLC purchased on a USA account will not work with a European game disc/digital copy. To resolve this you either need to open an account matching the region of your game and purchase the DLC there (some DLC is account locked so cannot share). Or alternatively purchase a copy of the game from your region. Otherwise contact support for a refund, but no guarantees if one will be given.\n\n**Q: How do I know the region of my game disc?**\n\nA: Look at the age rating on the front cover. ESRB rated games are American, PEGI is Europe, etc. For more specific region info there is the CUSA code printed on the game disc that can be checked on an online database such as gamefaqs. DLC region codes are listed as part of the Playstation store URL.\n\nhttps://gamefaqs.gamespot.com/ps4/190457-dragon-ball-xenoverse-2/data\n\nAbove link is an example, in the link you see a list of different regional releases and their CUSA codes. So long as the CUSA matches, the DLC will work with your game.\n\n**Q: How do I fix: 'Connect a USB storage device that contains an update file for reinstallation for version X or later.'**\n\nA: The data on your HDD has been lost so is requiring a fresh installation of the system software. Your purchases and trophies are safe as they are tied to your account but any saved data not backed up has been lost. The above message is part of the BIOS so to get back up and running follow these instructions:\nhttps://www.playstation.com/en-gb/support/hardware/reinstall-playstation-system-software-safe-mode/\n\nConsole reinstallation file can also be found here if the above link doesn't work for you:\nhttps://www.playstation.com/en-gb/support/hardware/ps4/system-software/\n\nGeneral pointers:\n\n\u2022 Make sure that you are using the console reinstallation file and not the update file.\n\n\u2022 Your USB stick needs a folder called PS4 and inside that folder a second one called UPDATE\n\n\u2022 Inside the UPDATE folder is where you put the reinstallation file\n\n\u2022 The reinstallation file must be called PS4UPDATE.PUP otherwise it won't be recognised by the console. So remove any (1)s if they appear as part of the file name as that just obscures it.",
-            "I would like to buy Minecraft Deluxe but after downloading the demo, now the store tells me \"You can't buy it because you already have Minecraft\" when it's not true, just download the demo",
-            "Issues with safemode (PS4 Slim)\n\n\nSo today i was playing RDR2 And it kept crashing so i went into the settings of my PS4 Trying to delete my save files but for some reason my PS4 Went into safemode. I was stuck in a safemode loop a month ago and used an android cable which worked pretty well but now it no longer transmits data for some reason i tried 3 different cables on 3 different controllers to no avail.\nThe first time i used the cable it worked but only displayed the 7th option",
-            "I want to replace the enclosure of my PS4 with a bigger one that allows for more airflow and maybe for another fan. Does anyone have a model I can 3d print?"
+            "do both ps4 and ps4 pro have hdd as default?",
+            "my ps4 isn't turning on its been like 3 days i thought it was cuz of the cable but I just bought a new one and yet it dosent turn on what do I do",
+            "Does Anybody know how to downgrade Versions of Minecraft PS4 Edition? (Not Bedrock)",
+            "So the thing is I bought used dualshock 4 to play on PC and no matter what I've done the lightbar stayed off. I thought its broken, but controller works just fine, so whatever. BUT! It actually works, but only while vibrating.\n\nHas anyone any idea what's wrong?",
+            "Hi guys I have been kinda bored of the current games I have been playing and was wondering if you have any good suggestions for new ones I have ps plus extra and have 2 platinums. Just for context some of my favourite games were Minecraft, Spider-Man 2018, Fortnite, miles morales, heavenly bodies, shovel knight and all time favourite rocket league which I just platinumed :( looking for something new thanks",
+            "Does anyone have any recommendations for single PS4 controller docks? I can only seem to find duos, and I have no plans to get a second controller",
+            "Obviously. Like any computer they can't function without them. It's where the system software (think Windows for a Pc) is installed to and runs from.",
+            "If nothing happens, no lights or anything then send it for repair if you can afford it",
+            "If you own the original game on disc you may be able to play it without any patches.\n\nWith Playstation it's all or nothing in terms of patches",
+            "Safe mode 2. Lower the resolution. Safe mode is 480p, the PS4s resolution varies from 1080p to 4K depending on your model/TV.\n\nSo your monitor needs a lower resolution to display your consoles image"
         ]
     },
-    "Elden Ring Shadow of the Erdtree DLC Release Megathread": {
-        "title": "Elden Ring Shadow of the Erdtree DLC Release Megathread",
-        "score": 0,
-        "url": "https://www.reddit.com/r/PS4/comments/1dl5rdp/elden_ring_shadow_of_the_erdtree_dlc_release/",
-        "content": "Now that the DLC is out, please keep Elden Ring DLC discussion to this thread. Feel free to discuss the main game too of course.\n\n**Remember: DO NOT post unmarked spoilers and keep conversations civil.**\n\n-Share gameplay tips!\n\n-How are you finding the DLC?\n\n-How is performance on PS4/PS4 PRO?\n\n-Has it changed your opinion of the game?\n\nRemember that DLC is region locked. If your DLC is stuck on waiting to install then it's likely a region issue as a USA game requires USA DLC, European DLC will not work with an American game.\n\nRelease data including CUSA codes\n\nhttps://gamefaqs.gamespot.com/ps5/323053-elden-ring/data\n\n\n\n**POTENTIAL SPOILERS!**\n\nIn game requirements to start the DLC: \n\nhttps://www.ign.com/wikis/elden-ring/How_to_Start_Shadow_of_the_Erdtree\n\n\nMost importantly have fun playing it!",
-        "num_comments": 17,
-        "comments": [
-            "Anyone out there?",
-            "I'm wondering where the Moon Knight will be placed amongst hardest bosses in Elden Ring",
-            "I'm actually having a problem installing it. It's stuck saying waiting to install and I've tried everything imaginable and it's still not installing into the game.",
-            "Why is the elden ring dlc 45$ for me when it was advertised for 40$ and the pre-order price was 35$",
-            "Now, before I go insane about a game\nI have a US account\nI have a US DLC\nFrom the look of it, I have a Europe CD, not a digital copy.\n\nDo I have any sort of solutions ?",
-            "I'm waiting for some confirmation before buying it, because I've read only bad things. \n\nIf the performance is like Sekiro, I'll pass and wait until I get a better system, if it's closer to base game Elden Ring I buy it now.",
-            "That's because DLC and saved data are region locked. \n\nYour DLC is looking for a matching region game and cannot find it, thus your game is incompatible with the DLC you purchased.",
-            "You either need:\n\n1. A USA game (your save won't work as saved data is also region locked)\n\n2. European DLC (your save will carry over)\n\nIf you live in America option 1 is easiest",
-            "I\u2019m playing it on an old Ps4 and it\u2019s only a tad slow in areas with tons of enemies (same as certain sections of the base game). Worth it so far, the map and new enemies are fun and challenging\n\nI\u2019ll add that the load screens are a little longer than usual too",
-            "What\u2019s wrong with Sekiro. I have no problem with it even with the dlc. I have a slim"
-        ]
-    },
-    "Do you guys ever miss not having to install disc games? I know I do.": {
-        "title": "Do you guys ever miss not having to install disc games? I know I do.",
-        "score": 67,
-        "url": "https://www.reddit.com/r/PS4/comments/1dldacz/do_you_guys_ever_miss_not_having_to_install_disc/",
-        "content": "The question is in the title. Shoot away your answers as you wish.",
-        "num_comments": 61,
-        "comments": [
-            "i got an old xbox 360 recently and being able to just immediately play a game i just bought is crazy",
-            "if a disc is copying, im fine, what infuriates me is games like cod ww2 and the mw reboot. get the disc and unstill have to dona 120gb download like\ud83d\udc80",
-            "I don\u2019t really mind because of the reasons and benefits of it, discs have to install because the read speed of the disc drive is much slower than the HDD and especially an SSD, so games get faster loading and data streaming.\n\nNot to mention, the disc drive turns itself off after it\u2019s done installing/authenticating, so it makes a lot less noise and lessens the wear and tear on the drive since it doesn\u2019t need to constantly spin while playing.",
-            "Yep absolutely. Miss popping in a game and just playing.\u00a0",
-            "Without a doubt, I still play my PS2 a lot, I just like sticking that game in and playing.",
-            "I like discs in that I can sell or trade them after I'm done but the convenience of hopping back and forth between games without changing discs is too sweet.",
-            "I miss it on release day when I just want to play the game I've been waiting for, and the clock keeps ticking, eating away my potential playtime on a work night. \n\nAfter that, I'm fine with it. I'll take PS5 load times over PS1 any day.",
-            "Kinda? But also I just download the game or install the disc the day before I want to play something. I personally try and focus on one or two games at a time but have a list of games I want to play in the future. \n\nFor example, my long term game on my PS5 is Elden Ring. Then I have a handful of games that I know I want to play but will likely do after Elden Ring. So if I finished Elden Ring, I already have God of War 3 Remastered, the Bioshock Trilogy, Kingdom Hearts 1 and 2, and Detroit Become Human installed. I want to play all of these at some point and some of them I have played before but want to platinum. \n\nSo to me it doesn't make a huge difference. With my PS4 I kept a lot of games installed but didn't play them for months and months. This is why I personally never got an extended storage for my PS5. I can keep around 10-15 games installed and if there is something I really want to play, I can just install it that night and play it the next time. \n\nI feel that I used to get so upset at games needing to download in addition to the Disc because I was a kid. I had just gotten a game from the store and wanted to play it right away. However, as I grew up I realized it isn't the end of the world if a game has a download or update or whatever.",
-            "I like the faster load times. I don\u2019t really care about playing games immediately as I have already waited however long to get the game in the first place so what\u2019s another 20 minutes. I also almost entirely go with digital and most of my PS5 games take like 10 minutes to download.",
-            "Crash bandicoot Nsane trilogy. Only 1 on disc, 2 & 3 is a download!"
-        ]
-    },
-    "Crash Bandicoot N. Sane Trilogy Tops 20 Million Sales, Might Be the Best Selling Crash Release Ever": {
-        "title": "Crash Bandicoot N. Sane Trilogy Tops 20 Million Sales, Might Be the Best Selling Crash Release Ever",
-        "score": 125,
-        "url": "https://www.pushsquare.com/news/2024/06/crash-bandicoot-n-sane-trilogy-tops-20-million-sales-might-be-the-best-selling-crash-release-ever",
+    "PlayStation Plus Monthly Games for July: Borderlands 3, NHL 24, Among Us": {
+        "title": "PlayStation Plus Monthly Games for July: Borderlands 3, NHL 24, Among Us",
+        "score": 354,
+        "url": "https://blog.playstation.com/2024/06/26/playstation-plus-monthly-games-for-july-borderlands-3-nhl-24-among-us/",
         "content": "",
-        "num_comments": 9,
+        "num_comments": 149,
         "comments": [
-            "I have no idea how I beat these games as a child. There are some absolutely insane levels.\n\nThat fucking rainy castle in 1, slippery castle or whatever. The suspended Bridge level. The side scrolling levels where even touching a pipe kills you. Fantastic collection but fuck me. Props to 10 year old me.",
-            "That humble bundle deal a few years back was PEAK",
-            "Played through these games earlier in the year. I never played much of the originals but the collection was very well done. Great graphics and sound! I did find the games a bit difficult, but maybe that's just a skill issue.\n\nI'm curious how well the Spyro reignited trilogy sold.",
-            "No subtitles on the games so I\u2019ve never been able to get it and be able to follow the story .  Wish they had included them",
-            "Same here man, crazy how difficult that game is considering our younger selves could beat that shit. Crash Bandicoot, Spyro, Dave Mirra BMX, Coolboarders, and Syphon Filter were the only games I owned, so I had a lotta time to get good at those lol",
-            "See that's  the trick, I never beat 1 as a kid. Only 3",
-            "I am here to blow your mind with the knowledge that the remakes are actually harder\n\nVery slight changes in physics and collisions means you're way more likely to die to being slightly imprecise than on ps1. Hitboxes are pill shape instead of box shaped so you can slide off ledges instead of be firmly grounded with only your tippy toes touching and things like ice physics are just extremely inaccurate\n\nParts of crash 1 were always pretty hard but for instance on ps1 you could walk on the ropes of the bridges while on remake youre most likely gonna slide off",
-            "It got 10 million",
-            "Crash 1 had tough platforming and brutal checkpoints if I recall. I remember enjoying 2 and 3 far more"
+            "NHL 24 is so dead they had to add it as a free game. Maybe I will actually be able to get an opponent now.\n\nEdit: it's actually a pretty fun game as far as sports games go. If you have quick reflexes, that is.",
+            "I'm usually the guy defending ps+, but this is pretty boring.",
+            "why did they hike the prices up again?!?!",
+            "Good for anyone wanting the Borderlands games because the Handsome Collection is always on sale at 10/$10",
+            "I do enjoy NHL games but it's been hard to justify buying a new one the past couple years, so I'm cool with getting it for free to jump in a couple exhibition games from time to time.",
+            "Got to be the worst month in recent memory",
+            "I've been wanting to play NHL for years but I wasn't willing to pay for it, it's a great month just for that for me",
+            "Borderlands 3 is pretty fun for those who never tried\n\nBut damn the villain twins were so cringey",
+            "I am absolutely positive Borderlands 3 was on here before.",
+            "Yawn. See you next month."
         ]
     },
-    "Any good couch co-op or puzzle game recommendations for a new gamer?": {
-        "title": "Any good couch co-op or puzzle game recommendations for a new gamer?",
-        "score": 7,
-        "url": "https://www.reddit.com/r/PS4/comments/1dl86pw/any_good_couch_coop_or_puzzle_game/",
-        "content": "I\u2019ve been a PC gamer for the past few years but recently took out my dusty PS4 to play TLOU with my gf. In doing so, I found out that I really missed my PS4 and have a lot of fun playing games with my gf, but I also found that the zombies in TLOU games just make her cover her eyes most of the time and she never actually plays unless it\u2019s the exploration parts. I\u2019m looking for some recommendations for games that will be fun to play together even though she\u2019s never really played anything before. They can be single player, but the goal is a game that will be entertaining for both of us even if one isn\u2019t playing. \n\nRight now I\u2019m leaning towards the Uncharted collection because it gives the Naughty Dog touch without the super scary enemies. I\u2019m also looking at games that have less action and more just puzzles. It Takes Two is also pretty high on my list. Open to any recs!",
-        "num_comments": 24,
+    "Days Gone 2 could be great, but it's not going to happen, and a Bend dev says it's time to move on": {
+        "title": "Days Gone 2 could be great, but it's not going to happen, and a Bend dev says it's time to move on",
+        "score": 309,
+        "url": "https://www.pcgamesn.com/days-gone/2-not-happening",
+        "content": "",
+        "num_comments": 119,
         "comments": [
-            "https://old.reddit.com/r/PS4/comments/11kyc3c/a_list_of_ps4_coop_games_including_couch_coop/\n\nLots of recommendations in this thread",
-            "It Takes Two. My wife and I had a blast playing through that together. We also play Minecraft",
-            "You could try Overcooked, Trine, or Dragon's Crown.\u00a0",
-            "No Man's Sky is a great exploration game, always getting new updates with more content. If you want some splitscreen action Borderlands also is a good choice.",
-            "Overcooked and ultimate chicken horse.  \n\n\nBoth are AMAZING coop experiences",
-            "Streets of rage 4 is free on ps plus right now. It's a great game with online and local co op",
-            "I usually enjoy playing \"Tiny Tina's Wonderlands\" (it's call of duty mixed with dungeons and dragons or I guess it would be borderlands)  with my daughter she's 14.\n\n The only issue that we have is that because she doesn't have her own PSN membership then it doesn't save her character but I'm not going to spend a bunch of money on that just for her to only play when she seldomly comes to my house to visit but I did recently buy \"Dynasty Warriors 8 XL\" and we've been enjoying the crap out of that game.",
-            "Streets of Rage 4",
-            "Lara croft and the temple of osiris",
-            "Overcooked and PlateUp! (If you have a strong relationship)"
+            "How long are we going to have stories about days gone 2 not happening?   This shit has been going on since it was released.  Every few months another stupid article.",
+            "It's a shame, I recently started playing days gone and thought it was fantastic.",
+            "Its time to move on from these post.",
+            "Which is fine, honestly. Not every game needs to turn into a multi game media franchise. Its cool that we got a biker zombie game from Bend and its cool that theyre now working on something different.",
+            "Damn shame. I really loved the first one and as long as the 2nd one didn't have any thing to do with multiplayer I'm sure I would've loved the 2nd one as well. SMH.",
+            "How is this game still in the news, let it die ffs",
+            "Days Gone is slooow but enjoyable",
+            "Could still happen right? Right?",
+            "Didn't people basically hated and shitted on the game when it came out? Saying it's buggy and bad",
+            "So youre saying theres still a chance?"
+        ]
+    },
+    "A Way Out Continues Selling Like Hotcakes Even Six Years After Release": {
+        "title": "A Way Out Continues Selling Like Hotcakes Even Six Years After Release",
+        "score": 325,
+        "url": "https://exputer.com/news/games/a-way-out-selling-hotcakes/",
+        "content": "",
+        "num_comments": 26,
+        "comments": [
+            "It's a good game, and there's barely any other split screen games on the market.",
+            "I love that this game is still selling well, I think it shows that there's a strong market for local and/or dedicated co-op games. It might not be as amazing as it takes two but my wife and I loved our time with this game",
+            "For the love of God give us more co op focused games.",
+            "And it takes two was also a split screen masterpiece, in my opinion. \n\nThe people there know good games!",
+            "Wish there were more split screen games like this and it takes two.",
+            "This should be an indication to game devs that there is a MASSIVELY UNDERSERVED segment of the market that they need to URGENTLY make games for... PLEASE ",
+            "I dont have any friends that are interested in stuff like that.",
+            "It's honestly a hokey as hell storyline and glitchy and clunky, but as with any co-op game, it was a blast. Dead Island, the original, was like that as well.",
+            "It took me almost two years to find a physical copy of this game for less than $29. It seems it's a popular game indeed.",
+            "The power of a word of mouth co op game"
+        ]
+    },
+    "Sam & Max: The Devil's Playhouse Remastered - Official Release Date Trailer": {
+        "title": "Sam & Max: The Devil's Playhouse Remastered - Official Release Date Trailer",
+        "score": 10,
+        "url": "https://www.youtube.com/watch?v=ygBewrWJ1YE",
+        "content": "",
+        "num_comments": 3,
+        "comments": [
+            "I would love a Sam & Max: Hit The Road remaster. I *loved* that game as a kid.",
+            "Oh dope, I had no idea they were making a remaster.",
+            "Thank God. I've been buying these physically and I was scared I'd be stuck with the first 2 and never get the third."
         ]
     }
 }

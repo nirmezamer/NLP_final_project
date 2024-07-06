@@ -1,71 +1,67 @@
 {
-    "Welcome to a special 10-part series on the Virtually Speaking Podcast: \"Exploring VMware Cloud Foundation.\" In this series, hosts Pete Flecha and John Nicholson interview various subject matter experts to break down the components that make up VMware Cloud Foundation (VCF) and provide insights.": {
-        "title": "Welcome to a special 10-part series on the Virtually Speaking Podcast: \"Exploring VMware Cloud Foundation.\" In this series, hosts Pete Flecha and John Nicholson interview various subject matter experts to break down the components that make up VMware Cloud Foundation (VCF) and provide insights.",
-        "score": 0,
-        "url": "https://www.youtube.com/watch?v=PZBK9EGIpBw&list=PL8_k3uUCO39t-8kKT6u8Ghvos4TvRyEp5&index=1",
+    "What's New in vSphere 8 Update 3?": {
+        "title": "What's New in vSphere 8 Update 3?",
+        "score": 32,
+        "url": "https://core.vmware.com/resource/whats-new-vsphere-8-update-3#sec36129-sub1",
         "content": "",
-        "num_comments": 1,
+        "num_comments": 24,
         "comments": [
-            "# [Exploring VMware Cloud Foundation](https://www.youtube.com/watch?v=PZBK9EGIpBw&list=PL8_k3uUCO39t-8kKT6u8Ghvos4TvRyEp5&index=1&pp=iAQB)\n\n\n\n# [Exploring VMware Cloud Foundation: Inside the Private Cloud](https://www.youtube.com/watch?v=6kLXxM7ShQo&list=PL8_k3uUCO39t-8kKT6u8Ghvos4TvRyEp5&index=2&pp=iAQB)\n\n[Exploring VMware Cloud Foundation: What's Inside?](https://www.youtube.com/watch?v=qBRVZVbQnVI&list=PL8_k3uUCO39t-8kKT6u8Ghvos4TvRyEp5&index=3&pp=iAQB)\n\n[Exploring VMware Cloud Foundation: The Cloud Admin Journey](https://www.youtube.com/watch?v=k2Kuc9JpaiQ&list=PL8_k3uUCO39t-8kKT6u8Ghvos4TvRyEp5&index=4&pp=iAQB)\n\n[Exploring VMware Cloud Foundation: VCF Compute](https://www.youtube.com/watch?v=EewYz6YUNUY&list=PL8_k3uUCO39t-8kKT6u8Ghvos4TvRyEp5&index=5&pp=iAQB)\n\n[Exploring VMware Cloud Foundation: VCF Storage](https://www.youtube.com/watch?v=8c0n_yvK0l4&list=PL8_k3uUCO39t-8kKT6u8Ghvos4TvRyEp5&index=6&pp=iAQB)\n\n[Exploring VMware Cloud Foundation: VCF Networking](https://www.youtube.com/watch?v=3pmu60DSCgU&list=PL8_k3uUCO39t-8kKT6u8Ghvos4TvRyEp5&index=7&pp=iAQB)\n\n[Exploring VMware Cloud Foundation: A Cloud Management Experience](https://www.youtube.com/watch?v=Y1DLurrtHaA&list=PL8_k3uUCO39t-8kKT6u8Ghvos4TvRyEp5&index=8&pp=iAQB)\n\n[Exploring VMware Cloud Foundation: VMware Private AI Foundation with NVIDIA](https://www.youtube.com/watch?v=4uPU3LQ0rfo&list=PL8_k3uUCO39t-8kKT6u8Ghvos4TvRyEp5&index=9&pp=iAQB)\n\n[Exploring VMware Cloud Foundation: Data Services Manager](https://www.youtube.com/watch?v=FT9vAKHylLk&list=PL8_k3uUCO39t-8kKT6u8Ghvos4TvRyEp5&index=10&pp=iAQB)\n\n[Exploring VMware Cloud Foundation: VMware vDefend](https://www.youtube.com/watch?v=0UwX8VYcHsg&list=PL8_k3uUCO39t-8kKT6u8Ghvos4TvRyEp5&index=11&pp=iAQB)\n\nThe full playlist can be found here."
+            "Great job on the TKG stuff, looks promising!",
+            "This is going to break so many things im calling it right now lol",
+            "this sounds interesting, can you talk about why/what you use it for? what is VBS?",
+            "It's opt in, so you can still reboot if you wish. (And nothing stops you from still evacuating a host with vMotion and trying it). The impact of it not working could be reduced to close to zero risk that way.",
+            "That's why it's great having a lab. Just upgraded one of the vCenters with the switch over method (whish it could pull the image itself without needing to attach it but maybe in the future?) and then looking forward to trying the live patch when the next esxi version comes out. Also looking forward to the stretched tanzu configuration, hopefully at some point this will also be available with SAN and not only vSAN, fingers crossed.",
+            "You said Proxmox/KVM do it, what kind of performance hit would you take with nested pcie passthrough",
+            "No idea -- I imagine you are GPU bound and not CPU bound based on the application. So as long as you are minimizing those vmexits then the hit is minimal.",
+            "Well yeah, we are a partner, which is why I'm asking, we heard in slack/gchat that it might be an option but nothing confirmed yet. All I know is that many customers would like this option, as for now we just tell them they either have to use the zone setup or two independant clusters with external load balancing. \n\nMost SAN arrays are either HPE Nimble or HPE Alletra MPs.",
+            "Just vSAN for now. Should enough customers demand it, we can revisit adding other storage options. (I'm the PM)",
+            "Really interested in the tiered memory stuff.\n\nI am somewhat surprised by its requirements (especially in terms of required endurance) because in contrast, swap files don't generally need high endurance at all.\n\nObviously this is not a swap file, even if it somewhat solves the same problem. Would love to learn about its behaviour.\n\n[edit] just released this blog post does not mention that preview-feature, sorry"
         ]
     },
-    "Starting Small with vSAN Max": {
-        "title": "Starting Small with vSAN Max",
-        "score": 5,
-        "url": "https://core.vmware.com/blog/starting-small-vsan-max",
+    "VMware vSAN 8 U3 Delivers New Levels of Flexibility, Data Protection, and Management": {
+        "title": "VMware vSAN 8 U3 Delivers New Levels of Flexibility, Data Protection, and Management",
+        "score": 4,
+        "url": "https://blogs.vmware.com/cloud-foundation/2024/06/25/vsan-8-update-3-initial-availability/",
         "content": "",
-        "num_comments": 6,
-        "comments": [
-            "I think this needs to be highlighted\n\nIn most cases, the networking requirement for vSAN Max ranges from 25Gb networking up to 100Gb Ethernet,\u00a0but the requirement\u00a0only applies to the connectivity between hosts within the vSAN Max cluster, not the vSphere hosts that mount the vSAN Max datastore.\u00a0 As shown in Figure 3, the connectivity from the vSphere hosts that mount a vSAN Max datastore can use as little as 10Gb networking.\u00a0\n\nI'm glad to see the hosts mounting vsan max data stores only require 10gb. This should help more organizations adopt the platform. \n\nIs max included in VCF vsan license?  It's not an add on right?\n\nHow about VVF?",
-            ">Is max included in VCF vsan license? It's not an add on right?\n\n**There is now 1 vSAN license SKU and that's it. You get 1TiB entitlement with VCF per core, and if you need MORE than that you can buy 1TiB add-on.** \n\n>How about VVF?\n\nVVF has a small amount of production supported that's really intended largely for people to try vSAN but:\n\n  \n1. As of TODAY it's 100GiB per core, and if you go above that you have to \"rebuy\" the full amount needed.  \n2. Functionally above 200-300GiBS per Core VCF I think is just cheaper. \n\n3. You can't pool the entitlement for VVF like you can VCF and go build a max cluster, so functionally Max is always going to be cheaper with VCF licensing + add ons if needed. \n\n  \nIt's been fun talking to customers about MAX, as if they are up for a 40K core VCF licensing renewal they are looking at 40PB of vSAN to play with on Max clusters :)",
-            "Good to know it's no longer an add on. When it first was talked about it was going to be an additional license. Glad that changed.",
-            "You do need to still buy the Vsphere license to run the max nodes, but, when you build out bodies with 200TB paying for 32 cores of VCF (that gives you 32 of your TIBs) is a rounding error on that BOM vs. the flash drives.",
-            "Right minimal for the max nodes. Thanks for clarifying.",
-            "I wish we just didn't force the license for the \"OS\" when only used for storage, but:\n\n1. For now we don't actually lock you out from running workloads on a Max cluster, so this cuts both ways (You can throw some Tier 2/DR workload stuff there, just keep in mind we will give vSAN priority to the scheduler I suspect more than those workload). \n\n2. It's mostly to simplify the sales cycle of not having to explain this, than the 2% on the BOM that it represents. Still a small amount of friction will make the sales/parter person explain the value of the solution, and sometimes a small upsell into a customer that \"has everything they need\" helps motivate sales people as bizarre as that sounds."
-        ]
-    },
-    "vmware, what the fuck is happening?": {
-        "title": "vmware, what the fuck is happening?",
-        "score": 2,
-        "url": "https://www.reddit.com/r/vmware/comments/1dlshnz/vmware_what_the_fuck_is_happening/",
-        "content": "im trying to download vmware but its only error code 522\n\n[https://download3.vmware.com/software/WKST-PLAYER-1750/VMware-player-full-17.5.0-22583795.exe](https://download3.vmware.com/software/WKST-PLAYER-1750/VMware-player-full-17.5.0-22583795.exe)",
-        "num_comments": 8,
-        "comments": [
-            "Ever since the acquisition by Broadcom link have stopped working. I am using the \u201einternal\u201c software update addresses right now: https://softwareupdate.vmware.com/cds/vmw-desktop/ws/17.5.2/23775571/windows/core/",
-            "Personally, I\u2019m still using the last version I got from when VMware were in charge. I know it\u2019s free now but if BC\u2019s shit show take over is anything to go by, then I don\u2019t want anything they have \u2018altered\u2019.",
-            "DEI",
-            "Player isn\u2019t VMware, player is a product of VMware. Why don\u2019t use the native feature of windows to spin up VM\u2019s",
-            "[removed]",
-            "What are they doing?",
-            "Your post was removed for violating r/vmware's community rules regarding user conduct. Being a jerk to other users (including but not limited to: vulgarity and hostility towards others, condescension towards those with less technical/product experience) is not permitted.",
-            "they're doing you big Al"
-        ]
-    },
-    "Trials & Beta - VMware Cloud Foundation": {
-        "title": "Trials & Beta - VMware Cloud Foundation",
-        "score": 1,
-        "url": "https://www.reddit.com/r/vmware/comments/1dluch0/trials_beta_vmware_cloud_foundation/",
-        "content": "Hi, I wanted to ask since I couldn't find any related information, is the VCF addon: NSX-T FW/ATP part of the trial license or is it just NSX-T Enterprise without any advanced features?",
         "num_comments": 0,
         "comments": []
     },
-    "You no longer can reopen tickets?!?": {
-        "title": "You no longer can reopen tickets?!?",
-        "score": 18,
-        "url": "https://www.reddit.com/r/vmware/comments/1dldfxf/you_no_longer_can_reopen_tickets/",
-        "content": "I just had the most absurd experience with support.  We had a few virtual machines freeze yesterday when we were putting hosts in maintenance mode for an upgrade. In investigating we discovered that two of the hosts we put in maintenance mode had NSX related core dumps, so I opened a Sev 2.  The person that got the case told me to remove the core dumps to clear the alerts, so I did that and let them know and then they immediately CLOSED THE CASE! No discussion of what may have caused this, if it explains the VM issues we encountered, and if it is likely to happen again.\n\nThat's when I replied to the closed case and discovered you can't reopen a case once closed. I had to submit a new case.",
-        "num_comments": 23,
+    "NSX Edge Transport Node upgrade gone wrong": {
+        "title": "NSX Edge Transport Node upgrade gone wrong",
+        "score": 4,
+        "url": "https://vcloudvision.com/2024/06/29/nsx-edge-transport-node-upgrade-gone-wrong/",
+        "content": "",
+        "num_comments": 0,
+        "comments": []
+    },
+    "Factory reset for a virtual machine? ": {
+        "title": "Factory reset for a virtual machine? ",
+        "score": 1,
+        "url": "https://www.reddit.com/r/vmware/comments/1drai99/factory_reset_for_a_virtual_machine/",
+        "content": "Hi all, \n\nI've got a virtual machine running OS Linux Mint 21. \n\nCurrently there's 4 GB available on disk. There's a lot of trash, failed installation and so on.\n\nI was wondering if it is possible to factory reset the virtual machine. ",
+        "num_comments": 2,
         "comments": [
-            "We had a similar experience recently.  Opened a support ticket, severity 2, couldn\u2019t get the VMware engineer to join our zoom meeting.  I talked to the engineer on the phone and explained the issue.  He later emails me a link for a KB telling me to follow the KB.  This is followed by the email telling me the case was closed.  Like wtf???? We had not even had a chance to try the KB and the case was closed as \u201cresolved\u201d????",
-            "We have had the exact same experience. Plus they closed an open, active ticket and said oops you'll have to open another one. Can't reopen this even if we wanted to.",
-            "RCAs are no longer offered with standard support. You need to purchase Advanced Support for RCA delivery.\n\nYet another absolutely amazing addition to the Broadcom support structure",
-            "Very atypical, the engineer may have clicked the wrong button with it being a new support system by mistake.  At any rate, reference the previous case number and they'll be able to see the history.",
-            "The policy used to be 21 days to reopen a closed case. And cases could be open for months while waiting for change management Windows or upgrades.\n\nGuessing those policies are gone under Broadcom. Or the metrics are so difficult to meet that TSEs are slamming the doors on cases. Maybe both. \n\nSadness for your troubles.",
-            "You are aware who bought VMware correct? How are you suprised by this? Should probably talk to management about alternatives to VMware asap",
-            "Do you have a TAM?  Have you contacted them?  If you do re-open a case, be sure to reference the other case.",
-            "We got directed to an outside support agency. Carasoft is believe.",
-            "Always move the machines before putting the hosts in maintenance mode.. don\u2019t wait for the host to migrate them.",
-            "I mean Broadcom is a shit company, probably has some absurd metric, telling him on how long he has to resolve tickets so it\u2019s a quick way to boost his metrics or get fired down the road.\n\nI\u2019ve been saying you know what avgo has done with everything from Broadcom, CA, Symantec.  How is anything but a shit product, support, pricing a surprise to anyone?  Just consider it a private equity playbook on every IT product bought."
+            "Why not just deploy a new virtual machine , that seems like what you're after",
+            "Yeah you're right. Maybe it is right choice"
+        ]
+    },
+    "Hock tan or should I say Hock thu?": {
+        "title": "Hock tan or should I say Hock thu?",
+        "score": 24,
+        "url": "https://www.reddit.com/r/vmware/comments/1dqrezb/hock_tan_or_should_i_say_hock_thu/",
+        "content": "Frustrated with VMware! \ud83d\ude24 It's disappointing to see such a reputed platform falter on support. Days go by without meaningful responses, and critical issues remain unresolved. Paying a premium for service shouldn't mean dealing with endless runarounds. Time to rethink our options and explore alternatives that prioritize customer support.\n\n",
+        "num_comments": 17,
+        "comments": [
+            "Sorry man. We are buried with cases. Way more than we should have. The partners are not taking the volume they should be.",
+            "I want to get off Mr Bones Wild Ride.",
+            "Broadcom own them now, enough said",
+            "My brother literally told me about this meme 2 mins ago.",
+            "Not only due to partners but also due to resignations .. I hope they start hiring soon and things get stable",
+            "So screwing over the complete partner network had bad repercussions? Who knew ",
+            "Does AVGO hire into existing divisions?",
+            "*Hock Tuah",
+            "![gif](giphy|XepEEIO0SCFLMT6tUL)",
+            "*Hawk Tuah"
         ]
     }
 }

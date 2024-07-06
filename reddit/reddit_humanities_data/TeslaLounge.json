@@ -1,84 +1,81 @@
 {
-    "FSD purchase should be account locked and not car locked.": {
-        "title": "FSD purchase should be account locked and not car locked.",
-        "score": 51,
-        "url": "https://www.reddit.com/r/TeslaLounge/comments/1dls44v/fsd_purchase_should_be_account_locked_and_not_car/",
-        "content": "my opinion is that FSD should be bound to your Tesla account, and always yours on your account, this way there are no \u201cdifficulties\u201d on the sale process as stated by Elon on last call. You log in with your account, and bam, it\u2019s unlocked. Log out? Disable. Log in in another car? Unlock, simple. Also should be available in my opinion to all cars in your account, but ok, allow to transfer from car to car inside the account, activate in only one car (or 2 or 3, how many fsd licenses you bought), lock to the car for a month or 6 months or so, if they don\u2019t want people to keep changing it.\n\nWhat do you all think?",
-        "num_comments": 36,
+    "I tried to enable dog mode it thought I mentioned something else": {
+        "title": "I tried to enable dog mode it thought I mentioned something else",
+        "score": 224,
+        "url": "https://i.redd.it/qw2ms31iod9d1.jpeg",
+        "content": "My screen need to be cleaned it looks much cleaner in person lol",
+        "num_comments": 45,
         "comments": [
-            "This kind of post has been made before. Why does tesla not do that? Because they can profit more from the gimick of FSD by locking it into one car instead of one account.",
-            "No it should be locked to neither and be transferred as simple as a form. \n\nWant to transfer it to a new car? Great. Want it to stay with the car your selling and don't have another Tesla? Done. Want to sell it to someone else and keep the car. Done.",
-            "Then the price would be higher.",
-            "What if you have more than one car on your account? FSD is hardware dependent. By making it tied to a car that has the proper hardware, you avoid confusion about where you can or can\u2019t apply the floating credit. \nI think it makes sense as an upgrade on the car just like any other software or feature upgrade. But I do like the ability to transfer it in the future.",
-            "All other features on any other car have always been \u201ccar locked\u201d. Hardware like a moon roof for example. Also, what if a different car doesn\u2019t have the right hardware? Not saying I disagree, but I think those are the reasons.",
-            "Tesla, in all likelihood, is probably going to kill off the option to purchase FSD outright and just make it a $100 a month subscription, like a phone bill.  There's more profit in it in the long run, and less people bitching about transfers.\n\nElon made a statement during the shareholder meeting about how \"for a low monthly fee, these cars will drive themselves around\", which tells me, in his mind, FSD isn't a package that's bought, it's a service you pay extra for, like a cell phone plan.\n\nPeople wanting FSD to follow the *person* are stupid.\n\nFSD has *massive* on going R&D costs.  It's not something you crank out and say \"Ok, we're done here\".  It is going to continually evolve and improve over time.\n\nIf you sold FSD once and tied it to the user, wherein they could use it anywhere they wanted, then there'd be an upper limit as to how often they could sell it, and they likely wouldn't be able to keep funding the R&D anymore.\n\nLet's look at Microsoft as an example, because honestly they're the most comparative.\n\nWhen you buy a computer from the store, it comes with a copy of Windows.  That machine has a Certificate of Authenticity (COA), and the license *cannot* be transferred to another computer.  When a new version of Windows comes out, you're typically offered an upgrade discount, where instead of paying $120 for Windows, you can pay $80 or something.\n\nEventually, however, the hardware on the computer ages itself out of being able to run newer versions of Windows, and you need to buy a new computer.  When you buy the new computer you get another copy of Windows that cannot be transferred, and the cycle starts anew.\n\nThis is, in effect, the position that Tesla is in.  Every time they release a new FSD hardware version, they can release a newer/better version of FSD software to run on it, but at some point the older hardware is going to stop running the newer software.  For HW3 people, that moment is coming up at the end of this year.  We'll still see some improvements, but once they start working on HW4, it'll start doing shit better than HW3 can.  Not right away, might take a year or two, but it will.  Just like when they're ready to start doing HW5 the HW4 folks will slowly stop getting cool shit.\n\nIt's going to be a never-ending cycle.\n\nIf they allow free unlimited FSD package transfers, they'd never properly fund the initiative.\n\nVarious holes can be poked in my analogy above, because Microsoft *does* sell a retail license, where if you buy a barebones computer, you can go to the store and buy a copy of Microsoft and slap it down on the machine, and *that* license is transferable to a new computer, however, it doesn't let you upgrade to a newer copy of Windows for free, but you can buy an upgrade license for a discount.\n\nAnother hole that can be poked is that the upgrade from Windows 8 to 10, and 10 to 11, were both free, however, Microsoft was effectively doing **a lot** of damage control from how bad Windows 8 was, and they're also trying to encourage people to stay on a current release of Windows for security purposes.  That said, going from Windows 10 to 11 isn't always easy.  There's a hardware restriction in that upgrade path in that your computer has to have a TPM 1.2 chip so that Windows 11 can properly leverage its security features and such, so for some people their only option to go from Windows 10 to Windows 11 *is* to buy a new computer, even if they have a retail copy of Windows and an upgrade license, there's a hardware incompatibility.\n\nSo, I get where people are coming from about wanting FSD to follow the user, however, in the long run, there's no profit there, and the profit is important to fun R&D to make FSD better.\n\nAnyone who bought the FSD package, myself included as I've bought it twice, needs to accept the fact that it's tied to car you bought it for, and when you trade the car in, or sell it, FSD needs to be purchased again.  I've been fine with it the entire time, *because* I'm aware of the development costs and such.  I've bought FSD at $6,000 and $12,000.  In retrospect, I regret not getting the monthly subscription on the $12,000 car.\n\n*All that said*, I do believe that there's a path for Tesla to offer \"upgrade discounts\", much like Microsoft did, where if FSD is currently $8,000 a person who already owns it and is buying it again can buy it for 50% off or something as a \"loyalty discount\", or if they *do* make it subscription only, then the person can convert their $8,000 FSD license to say four years of FSD on a new car, then $100 a month after that.\n\nSo, yeah, that's my rather lengthy thought on that.\n\nStop bitching about a lack of license transfers, they need to pay for the development of the software somehow, and this is *very* common in the software industry.  The only \"perpetual software\" licenses that you see now involve paying monthly fees to get at the newer versions.",
-            "It should be treated as a license like most other software. You own the license to use it on one device at a time but that can be any device. \n\nTesla has the mistaken belief that they will make more money if it is tied to a car. I disagree as we all see how many people refuse to buy it not knowing they can keep it.",
-            "I\u2019m another that would move up to an X if I could transfer FSD to the new one. I only had EAP but would pay the $2000 to get FSD before purchasing the X.",
-            "I don't disagree -- Tesla is basically using the money for R&D.\n\nThe true Full Self Driving feature that works the way we want it to (and the way Tesla implies how it will one day work) will never appear on any Tesla on the road today.\n\nBut keep dropping the cash for \"FSD\" to play with a shitty beta.",
-            "It would be too easy to pirate if they did that. You could just let other people log into your account and people could sell fsd. Keeping it var specific makes more sense ."
+            "It is in dog mode 100%.  So dirty.",
+            "Cant see it through all that dust",
+            "Please for the love of god wipe your  screen",
+            "Hmmm Elon has something up his sleeve or that scene from leave the world behind about to come true.",
+            "what is that on your screen? holy christ lol",
+            "The real world version of star power isnt quite available yet\n\n![gif](giphy|lYiQWU9xMJrBsb2RHX)",
+            "Your screen drives me nuts, get a large line free cloth from Amazon and leave it in your glovebox!",
+            "Gross bro clean your car.",
+            "DOOM music starts playing.  On screen graphical representation of other vehicles turn into imps and cacodemons.  Lane lines turn into fire.",
+            "*There is no cow level*\n\nEdit: *Power overwhelming*"
         ]
     },
-    "I bought a Hertz model 3 against popular opinions, AMA": {
-        "title": "I bought a Hertz model 3 against popular opinions, AMA",
-        "score": 85,
-        "url": "https://www.reddit.com/r/TeslaLounge/comments/1dl7t16/i_bought_a_hertz_model_3_against_popular_opinions/",
-        "content": "Purchased a 2023 M3 from Hertz, ask me anything \n",
-        "num_comments": 143,
-        "comments": [
-            "i\u2019ve always bought cars from rental fleets. they\u2019re typically well-maintained (if you use a trusted brand). they\u2019re typically under warranty. they\u2019re typically clean and feel brand new.\n\nyou got a deal. enjoy!",
-            "And creeks or trim items falling off?  Does it look, feel, drive like it was ridden hard?",
-            "How was the buying experience? Anything you would do differently?",
-            "did you get the used ev tax credit? also did you get to see it before buying?",
-            "Did it come with anything special? Guns, drugs, etc?",
-            "Same. 27k for a 22 M3LR with 38k miles. Damn near impossible to pass up. Has treated me well thus far.",
-            "Long Range or RWD?",
-            "I bought a Hertz \u201822 RWD for 24k and got the tax credit. It\u2019s a great car, no issues at all. What a fantastic deal",
-            "I bought one in April. Been great so far. Congrats!",
-            "Any issues?  Any drugs found under the arm rest?"
-        ]
-    },
-    "Returned leased Mode Y to Tesla and it just sits there for a week with no updates.": {
-        "title": "Returned leased Mode Y to Tesla and it just sits there for a week with no updates.",
-        "score": 64,
-        "url": "https://www.reddit.com/r/TeslaLounge/comments/1dl8k6b/returned_leased_mode_y_to_tesla_and_it_just_sits/",
-        "content": "Last week I returned my leased Model Y to Tesla. Signed Odometer Disclosure Agreement and left the car on the lot. They told me they will remove it from my account in 1 day. But it just sits there for a week. They never actually even went to check the car. I still have it on my account. I still see battery is going down day by day. My return status in the app shows incomplete. I still get billed, etc. I sent a few emails to billing and lease return departments, but no response. I just bough another Model Y with diff. specs and whole experience was bad as well. It looks like Tesla is critically understaffed. Some showroom people told me they work 12-14 hours a day and it's always busy. People just coming to showroom non-stop with just a few people working. It's not surprising that they overlook a lot of things. I hope thing will get better soon.",
-        "num_comments": 34,
-        "comments": [
-            "Where? My local showroom has 20+ employees working at one time. It\u2019s very busy.",
-            "It\u2019s almost as if they arbitrarily laid off a bunch of staff and now have no one to do the work. Weird\u2026",
-            "Lease returns, and the resulting sales, don\u2019t make them enough money right now to care about. Why worry about that when they have overflowing inventory. \n\nIf you\u2019re getting billed, just ignore it. You have the lease return paperwork which should include release of liability with date.",
-            "Your lease return is the beginning of robo taxi fleet: updates soon. (Jk)",
-            "Las Vegas area. Honestly, Tesla market is booming here. Just 2 years ago, we had like 3 supercharging locations, and now 10+...",
-            "Were the lay off at the delivery center level? I thought it was all corporate jobs?",
-            "I bet if the CEO was laid off sales would pick up and the stock would soar.",
-            "You say arbitrary like you have a clue. \ud83d\ude35\u200d\ud83d\udcab",
-            "you know what is worrying me, I took a photo of the Odometer Disclosure Form when I signed it and later I was reding it and noticed \"Date Signed\" field is empty. I'm not sure if they actually completed it later that day or it's still missing...",
-            "They only have 28 days of inventory. The industry average is around 80 days."
-        ]
-    },
-    "Spotted a Roadster in matte green": {
-        "title": "Spotted a Roadster in matte green",
-        "score": 96,
-        "url": "https://www.reddit.com/gallery/1dl5dd9",
+    "I\u2019m at a non Tesla dealership buying a model Y and has these alerts are present. Not sure if these is a quick fix or they can be overwritten. They\u2019re are supposedly fixing it. Any advice please?": {
+        "title": "I\u2019m at a non Tesla dealership buying a model Y and has these alerts are present. Not sure if these is a quick fix or they can be overwritten. They\u2019re are supposedly fixing it. Any advice please?",
+        "score": 172,
+        "url": "https://i.redd.it/g0h7hgon2c9d1.jpeg",
         "content": "",
-        "num_comments": 11,
+        "num_comments": 229,
         "comments": [
-            "Not so sure if it would look as good on the 3 or Y, but this color looks super cool on the roadster.",
-            "NGL, I just want a new roadster equivalent car with latest batteries and tech, not the supercar varporware one.",
-            "Sick!",
-            "Back to its [Lotus roots](https://www.flickr.com/photos/furlined/4001907207).",
-            "Good facial hair",
-            "My friend actually wrapped his Y in a really similar color and can confirm it looks kickass, especially if you two tone it with black handles/emblems",
-            "What about an S?",
-            "If he\u2019s in PA I saw this car and can confirm it looks awesome"
+            "The general rule when it comes to buying cars. If it was an inexpensive fix they would have fixed it before selling so they could have sold it for more. \n\nI would avoid this car. These problems look expensive.",
+            " It got hit to be so misaligned. Check the bottom",
+            " I wouldn't touch it then. Unless half price of equivalent non damaged car",
+            "OP, you should ask this over at r/TeslaServiceCenter they might help you.\n\nBut I would avoid buying a car with known issues (That dealer/car owner could just as easily get it fixed).",
+            "2c here. there are literally hundreds of other comparable Ys anywhere you look. i wouldn't touch this one, unless it was free.\n\nit's one thing to buy something with these warnings from Tesla directly, but some other dealer? nope. you'll be SOL instantly.",
+            "Get permission to take it to a Tesla dealer to have a pre-purchase inspection. You will learn everything you need to know, including potential warranty coverage.",
+            "Advice: dont buy a Tesla from anyone except Tesla.",
+            "I had an alignment done on my Model Y at the dealership I work for. They didnt know how to reset it afterwards so all the safety features were disabled. I opted to take it into a Firestone that actually does Teslas and they aligned it and reset  it with zero issues",
+            "As a body shop who repairs these vehicles a lot, I would only buy it once repairs are done, and the vehicle is certified by Tesla.  Otherwise walk away!",
+            "The fact that they havent fixed it before putting on the lot is questionable."
         ]
     },
-    "Off-roading": {
-        "title": "Off-roading",
-        "score": 0,
-        "url": "https://youtube.com/shorts/yeWJ9v6vn-Q?si=zQHhMQARwv5pGfDY",
-        "content": "Anyone else seeing this on 2024.20.1? Started after the last update. \n",
-        "num_comments": 0,
-        "comments": []
+    "Saw 9 Cybertrucks in SoCal yesterday!": {
+        "title": "Saw 9 Cybertrucks in SoCal yesterday!",
+        "score": 33,
+        "url": "https://i.redd.it/w3e957xo7e9d1.jpeg",
+        "content": "This was the only one fully loaded.",
+        "num_comments": 13,
+        "comments": [
+            "Nice to see one actually being used as a truck!",
+            "I saw a bunch near (or before) launch but have only seen 1 since. (also SoCal). \n\nThe 2nd CT I ever saw was in Louisiana at a SC (Pecanland Mall), which was a few days before launch.",
+            "Possibly. My gut feels like its near the Clairemont Mesa area where the 52 merges.",
+            "I know nothing about truck beds but am familiar with the Final Destination franchise. Is that a properly secured load?",
+            "Very first one that I've seen on the road with a loaded bed.  Five stainless, one on a girl's test drive, one black, one bronze/pewter, and this working baby blue wrap.",
+            "I-5 North of the reactors.",
+            "big lumber pieces so it isn't going anywhere",
+            "Unless he floors it, then the lumber will just sort of fall to the ground in a heap.",
+            "San Onofre area.",
+            "Is this near SD? Spitballing because the freeway sign posts/support remind me of SD. And I still routinely go days without seeing a CT on the freeway in greater LA heh"
+        ]
+    },
+    "Advice on Buying Used Model 3": {
+        "title": "Advice on Buying Used Model 3",
+        "score": 2,
+        "url": "https://www.reddit.com/r/TeslaLounge/comments/1drasv6/advice_on_buying_used_model_3/",
+        "content": "Hey everyone,\n\nOutside of my week of research, I\u2019m essentially new to the Tesla world and looking to buy my first one, likely a used Model 3, and potentially under $25k to qualify for the EV tax credit. I need some advice on:\n\n**Model Year Differences**: Any significant updates to know about from one year to the next? Like, is there any year you'd recommend not buying anything older than?\n\n**SR vs. SR+**: Is the price difference worth it? My thought is I don't want the \"cheapest\" Tesla\n\n**General Tips**: Any buying tips or things to watch out for?\n\nThanks in advance for your help!",
+        "num_comments": 2,
+        "comments": [
+            "Theres an income cap too.",
+            "Thanks for the heads up! Fortunately (or unfortunately lol) I don't have to worry about that. We're close but still under."
+        ]
+    },
+    "Any overseas military Tesla owners?": {
+        "title": "Any overseas military Tesla owners?",
+        "score": 5,
+        "url": "https://www.reddit.com/r/TeslaLounge/comments/1dr5n2o/any_overseas_military_tesla_owners/",
+        "content": "Are there any military overseas Tesla owners who have found a way, either thru Tesla or some kind of hack, to get updates, navigation, etc... And has anyone found an adapter that can use the Tesla Station's fastest charging speed (250kw) instead of stuck with the 150kw?\nI have a 2018 model 3 and have been in active duty military in Europe since 2021. My haven't gotten an update to my car since 2021 (and even the Tesla service centers can't do it - I've been to 4 different ones in 3 different countries); I can't use maps or plan where/when to charge. I did find an adapter that lets me charge at ONLY the Tesla Stations that have the slower 150kw charger, and I'm thankful for that (even though it takes an hour to charge for every 3 hours of driving - not great). I feel like there's got to be a way to get a US Tesla to work overseas. Right?? \nEven with both arms and legs tied behind its back, it's still the best thing in the world to drive. Especially here in Europe. (And selling it won't help. It's paid off and no one here would buy it.) ",
+        "num_comments": 4,
+        "comments": [
+            "I was about to tell you to try a wifi router that can connect to a VPN and to set the VPN to the US. That *might* trick the car into thinking it can get US software updates. But, then I remembered that the car will still have GPS, and that's probably part of what is considered in its software logic. Not sure of a way to trick that.",
+            "Sorry to not answer your question but Im having a problem charging. Is your adapter one of the Type 1/2 adapters?"
+        ]
     }
 }

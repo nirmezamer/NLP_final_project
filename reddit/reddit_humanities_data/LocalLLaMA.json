@@ -1,97 +1,93 @@
 {
-    "Genie out of the Bottle?": {
-        "title": "Genie out of the Bottle?",
-        "score": 43,
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1dlrh6t/genie_out_of_the_bottle/",
-        "content": "One reason I got into Local LLMs is because of the proprietary nature of the online, more powerful models. If the tech companies ever decide to turn off the tap (or charge more than I'd ever be willing to pay), I still have my smart models on my hard drive.   \nBut looking to the future, if AI becomes a tool that is so regulated or so expensive that regular people no longer have access to the most useful AI tools, will the offline tools (like those promoted here and on huggingface) be able to keep up? Do we now have the raw digital resources to grow LLMs in a  community outside of the corporate tech world?  \n",
-        "num_comments": 59,
+    "What do you guys think about this wild opinion": {
+        "title": "What do you guys think about this wild opinion",
+        "score": 98,
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1dr1di9/what_do_you_guys_think_about_this_wild_opinion/",
+        "content": "I am currently doing a certification on Gen AI and the instructor said this -\n\"All text generated from a LLM is hallucinated. The generation just happens to be correct most of the time.\"",
+        "num_comments": 139,
         "comments": [
-            "*open source* may keep up\n\n\nBut I don\u2019t think home use will keep up\n\n\nGonna be limited by the electrical network of the house",
-            "We have raw digital resources (decent opensource datasets) for training base models. But we don't have enough physical resources (tons of GPUs or money) so I'd say no, the moment Meta or Chinese AI teams stop releasing opensource models, I'd say local AI is pretty much gonna be dead.",
-            "LLM technology will have a lifespan of its own. Maybe what comes next will train significantly more efficient and scalable.",
-            "The biggest problem with LLMs is that nearly 2 years after their first public release I still cannot figure out what they can really do professionally. I mean you can't really trust them with even creative writing or research if the stakes are high. Mediocrity everywhere. The second most serious problem is the fact that much smaller models are getting better. It is a very dangerous sign. It means that extremely large models won't be much clever in the future without new breakthroughs. Something is missing. So I see no genie.",
-            "It's mostly corporations now, but for a while a random country gave us LLMs for the lols. Falcon180b, for example.",
-            "The issue is having the compute power to it\u2026\nBack in the day when Folding@Home became popular or mining crypto started, this kind of distributed training was far more reasonable because companies weren\u2019t interested (yet) in nerfing consumer hardware to stop people from using them for tasks that should be reserved for datacenters (according to nvidia lol).\nSo the biggest problem is having access to the computer power needed as a consumer. Nvidia is aware of this and it\u2019s limiting VRAM as much as possible to make sure that their gaming cards aren\u2019t able to train large models like these\u2026 obviously it\u2019s theoretically possible to distribute the training, but if half a million dollars on cloud services spent by private companies with the world\u2019s best engineers, still can\u2019t reduce the training time to less than several weeks or months, doing it in consumer hardware will likely take years\u2026",
-            "I've been asking myself this question for a long time.\n\nThere are a couple of things that give me some hope:\n\n#### 1. We are reaching the bounds of what tokens we can feed to the LLMs for training.\n\nThat is, we're running out of training data. This gives us some sort of upper bound for the size of the LLMs. Because beyond a certain token count, you don't really need more parameters. \n\n#### 2. While big LMs converge training faster, smaller ones run faster with less resources and much more efficiently.\n\nThis gives us a lower bound, because after a certain parameter count it would be unusably slow.\n\n#### 3. Agent Architectures perform better than single large models.\n\nThis means that there even more benefits to have an array of LLMs doing things in network configurations.\n\n#### 4. Transformers compute cost scales exponentially.\n\nMaybe the new architectures will manage to get this down to a different, more favorable, scaling ratio. For now, it seems that there will be diminishing returns on Watt spent training. Not that anyone big cares though.\n\nTo address most of this concerns, which I thought many months ago, I started building an AI-Agent architecture to address them. In a sense that I would be able to defend myself in the mid-term future.",
-            "EU regulation do not apply to opensource model and models that have a small user base.",
-            "I think that other companies would appear to close the gap... But open source I think is the only true way... I even believe that It can become something like Linux, that is then the industry standard...",
-            "I am interested in knowing how you all are running GGF files locally. I tried to run a HugginFace 128MB ggf and JAN said I don't have enough VRAM.. It is insane.. Whatare you all using to run GGF files>?"
+            "Hes just saying that the mechanism for producing all the text is the same. Theres no time when something flips or goes wrong and it goes into hallucination mode, its all the same thing. Definitely worth remembering. Its kindof as obvious as water is wet  Your instructor phrased it provocatively enough to get you thinking ",
+            "they are just playing with semantics. It's true that all of the text generated is not based on reality, but an approximation of reality which makes sense, but it's a semantic difference not some deep insight.",
+            "certification on gen ai is a fake scam, sorry dude v_v",
+            "Ehhh, semantics and anthropomorphising. But why even call it a hallucination, just say its the statistical probabilities of what comes next. Sometimes the probability is closest to fact sometimes its not.",
+            "anyone can play semantics games",
+            "Some say most of your phenomenology is a construction of your mind, a type of hallucination that just so happens to tend to have sufficiently accurate handshakes between your top-down modeling and bottom-up sense-data from the \"external world\". It's as though we too hallucinate all the time, but just so happen to be correct \"enough\" of the time. I don't have a problem with some form of naive realism though.",
+            "LLMs just don't have any means of knowing what they don't know. So therefore the statement of your instructor is valid.",
+            "I think the idea is that if you don't have a neural network, only a large text corpus and a \"magic\" formula to find the next token probability from the corpus, you will still get exactly what you can do with an LLM.",
+            "One should not tie to the phrases like hallucinations, it just means the text generation is not matching with co text or reality. People will coin different terms for it but meaning doesn't change",
+            "Yes. It's true~ This is very close to the LLM \"intelligence\"~"
         ]
     },
-    "DeepseekV2-Coder the best opensource LLM so far. ": {
-        "title": "DeepseekV2-Coder the best opensource LLM so far. ",
-        "score": 19,
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1dlsxab/deepseekv2coder_the_best_opensource_llm_so_far/",
-        "content": "So I\u2019ve got several challenges I give to a language model to validate my own benchmark some are data representations, SVG graphic code reversal for wave animations, and coding script challanges, previously Qwen1.5, CommandR+ were the closest open source models however in 3 shots deepseekV2-Coder got it, that\u2019s better than the previous winner Claude who took longer to solve the problem but got closer than most (RekaFlash got it first go but didn\u2019t know it was right and continued on trying other conversions, Gpt4o was on the right path but didn\u2019t execute to try). Try for yourself: \n\nI need help trying to work out how 2659141452 is stored as 1279754142 in my program, can you tell me how this may be?",
-        "num_comments": 17,
+    "Drummer\u2019s Llama 3Some V2 is an absolute killer for RP and story telling.": {
+        "title": "Drummer\u2019s Llama 3Some V2 is an absolute killer for RP and story telling.",
+        "score": 27,
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1dr5bce/drummers_llama_3some_v2_is_an_absolute_killer_for/",
+        "content": "I\u2019ve been playing and testing it extensively since it released, and it blows every model I tested (hundreds of models between 7B 8Q - 70B IQ2XS) out of the water.\n\nIf you like role playing - story telling, and haven\u2019t yet tried it, I suggest you get a part of the 3 some\u2026 ASAP!\n\nYou\u2019re going to have a BLAST \ud83d\udca5 ",
+        "num_comments": 22,
         "comments": [
-            "Are you testing it in lmsys arena?\n\nI agree Deepseek V2 Coder is great. I found some issues with multi-chain conversations when it was repeating the code despite me asking to make adjustments, but for short context length prompts it's fine.",
-            "Maybe specify in your original post if you're using the 16b DeepSeek-Coder-V2-Lite or the large 236b model.",
-            "Could you please share some details about your setup? \n\nI'm experiencing some issues with model starting spitting out garbage or repeating itself indefinitely with longer conversations",
-            "And how about qwen2 comparison?",
-            "Here is a cost-effectiveness comparison [https://x.com/zimmskal/status/1804129719249703090](https://x.com/zimmskal/status/1804129719249703090) of the models that had the best function score for the DevQualityEval v0.5.0 (mainly DeepSeek, Anthropic, OpenAI, Mistral and Meta models)\n\nDeepSeek-Coder-v2 is great, BUT Sonnet 3.5 is \\*\\*MUCH\\*\\* faster (just 27% of the processing time) and it is also less chatty (84%). Still need to take a deeper look at the quality metrics and responses, but off to a great start!\n\nWhat surprised me the most when doing this graph: Claude Sonnet 3.5 is on the same level as Opus 3 with this benchmark. That is exciting!\n\nWhat are your thoughts?",
-            "Yes I did find that, you had to adjust the question for it to provide a different answer when it got into a code loop, that is the one issue I\u2019ve had with it once but other than that it\u2019s been pretty awesome. I think Reka would be a good model if they trained that some more as well and open sourced it.",
-            "I did find llama3 hallucinates a lot unfortunately and makes up stuff when it doesn\u2019t know the answer. Even when telling it to solve the solution it has something to do with little and big endian it still failed :/",
-            "236b large. Haven\u2019t tried lite yet.",
-            "I use a number of different platforms, if online chat is available (testing Claude online, Gpt4o with POE, Reka with POE, otherwise I use Q4 or Q8 gguf versions with LMstudio.",
-            "Flashattention set to off?"
+            "It's great when someone says \"you should try this model\" and then doesn't properly name the model OR give a link to it.\n\nEven just saying TheDrummer/Llama-3SOME-8B-v1-GGUF would have made it just that much easier to find.",
+            "In my testing, it doesn't follow character traits particularily well and ends up in my bottom half of 7-8b models.",
+            "What is your sillytavern configs?",
+            "I used to think his models were good but I've come to the conclusion his datasets are weak and the models are worse than competing RP models like L3-Aethora or Merged-RP-Stew",
+            "As someone completely new to the game, is there a detailed set of instructions on how to get this actually running? I've never installed a local llm before so square 1.",
+            "I haven't found anything that works better than psyfighter2/tiefighter2 13b and I've been looking for a while!",
+            "have you tried with the llama 3 instruct for the preset on silly tavern? I've been having decent results with that and the drummer's 3some model. better than moistral imho",
+            "So which models are better in your opinion?",
+            "Yeah, I don't know how people seem to rate these (3some, moistral) so high. I've tested over hundred models for (e)rp purposes at this point and while these models generally rank above the models that aren't specifically finetuned for (e)rp, they are at like bottom 25% out of the (e)rp models.",
+            "It's actually almost exactly like the meta instruct when talking to it normally, in general it has fewer refusals and more nsfw variety. It's similar to an abliterated version but with what seems to be no apparent intelligence loss. It won't do nsfw stuff at all unless the prompt makes sense for it, sort of like a normal person who can switch from being normal and lewd when appropriate. Honestly kind of impressive how well it works for both.\n\nIt's been practically a daily driver for me for all things RP and chat for the past week."
         ]
     },
-    "killian showed a fully local, computer-controlling AI a sticky note with wifi password. it got online. (more in comments)": {
-        "title": "killian showed a fully local, computer-controlling AI a sticky note with wifi password. it got online. (more in comments)",
-        "score": 796,
-        "url": "https://v.redd.it/yf98ubtl8x7d1",
-        "content": "",
-        "num_comments": 171,
+    "Where are we with Gemma 2 with llama.cpp?": {
+        "title": "Where are we with Gemma 2 with llama.cpp?",
+        "score": 9,
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1dr9h3t/where_are_we_with_gemma_2_with_llamacpp/",
+        "content": "Hi, I understood that a llamacpp update corrected a part of the problems but there are still issues. Could you confirm there is no actual GGUF properly working?\n\n\nTried the HF transformers which seemed to work.\n\nThx!",
+        "num_comments": 6,
         "comments": [
-            "Offline AI goes online with assistance from Elf.",
-            "# \"computer controlling AI\"\n\nIs just an ultra fancy way of saying an LLM which can execute python.\n\nAlso the demo probably clearly instructed the LLM to look for WiFi password and connect to that WiFi. LLMs are good as generating the command or python snippet to invoke the subprocess.\n\nAnd finally the presenter pointing at the WiFi has nothing to do with the LLM. Clever trickery makes a LLM look like the AI from NeXt (2020).",
-            "who is killian?",
-            "\"computer-controlling AI\" is this a new feature?",
-            "Elves have computers now?",
-            "From killian: i showed a fully local, computer-controlling AI a sticky note with my wifi password. it got online.:  https://x.com/hellokillian/status/1803868941040914824  \n[https://x.com/hellokillian/](https://x.com/hellokillian/)\n\nagent: [openinterpreter](https://x.com/OpenInterpreter)  \nhardware: Apple's macbook m3  \nvision model: [u/vikhyatk](https://x.com/vikhyatk)'s moondream  \nreasoning model: [@mistralAI](https://x.com/MistralAI)'s codestral",
-            ">uses subprocess.run\n\nWhile this is cool, it's quite doable with even basic llama 1/2 level models. The hard thing might be OS level integration but realistically no one but Apple can do it well.",
-            "so basically `execute_code(get_llm_output())`",
-            "This is just function calling, nothing more. It's a cool demo effect, but nothing new.",
-            "Same thing could have happened with a human hacker if they'd been standing behind the monitor watching her hold that sticky note up."
+            "it weirds me out that we did not streamline this.",
+            "Thank you so much for this clear answer about the actual issues!!! So it can take some time before getting a fully working version ^^",
+            "Yeah, give it a week and it'll be all sorted.",
+            "> Logic Soft-Capping, which Gemma-2 was trained with but which was initially not implemented in Transformers due to it conflicting with flash attention, was far more important than Google had believed it to be. Especially for the larger model.\n\nHeh, I saw this in the paper and it kinda raised my eyebrows. \"Just leave it out, it'll be fine,\" though I did take their word for it.\n\nDo Google engineers not *test* this stuff for a release? I get that OSS Gemma is kind of a gift/side project, but still, it's starting to be a pattern.",
+            "Merged last night\n\n[https://github.com/ggerganov/llama.cpp/pull/8156](https://github.com/ggerganov/llama.cpp/pull/8156)",
+            "Gemma had two major issues at launch which we know of so far.\n\nThe first was an incorrect tokenizer, which was fixed relatively quickly though a lot of GGUFs were made before that.\n\nThe second issue which was discovered much later was that Logic Soft-Capping, which Gemma-2 was trained with but which was initially not implemented in Transformers due to it conflicting with flash attention, was far more important than Google had believed it to be. Especially for the larger model.\n\nThe first issue (broken tokenizer) has been fixed for a while, and fixed GGUF has been uploaded to [Bartowski's Account](https://huggingface.co/bartowski). But the second issue has not been fixed in llama.cpp yet. There is a [PR ](https://github.com/ggerganov/llama.cpp/pull/8197)but it has not been merged, though it likely will be very soon based on the recent approvals.\n\nIt was first believed that GGUFs would have to be remade after the PR got merged, but a default value was added for the soft-capping which means that old GGUFs will work as soon as the PR is merged.\n\nSo to summarize, if you download a GGUF from bartowski right now it will work as soon as the PR is merged, but before then you will experience degraded performance. Especially on the 27b model, which is entirely broken at certain tasks at the moment.\n\nIt's entirely possible that there are issues beyond just these two. It's not rare for various bugs to rear their heads when a new architecture emerges after all. And I have seen some say that they are experiencing issues even after the fixes. Like [this](https://github.com/ggerganov/llama.cpp/issues/8183#:~:text=start_of_turn%3Emodel%5Cn%22-,EDIT,-After%20%238197%20the) post.\n\nIt's also worth noting that since llama.cpp does not support sliding window attention at the moment it will likely perform pretty poorly with context sizes larger than 4K. There is an [issue](https://github.com/ggerganov/llama.cpp/issues/3377) open for sliding window attention but it has not really been worked on so far since few models actually use it."
         ]
     },
-    "Using LLAMA To Write Stories": {
-        "title": "Using LLAMA To Write Stories",
-        "score": 52,
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1dlk38c/using_llama_to_write_stories/",
-        "content": "Not sure how many else of you all use LLMs for story writing - but for the past few months, I've been working on building some system that helps to guide a few language models generate a decent story. Without any guidance, it seems that LLMs don't really like to generate long stories, instead they tend to be short and rather lacking in many areas.\n\nI've made a project using OLLAMA's Python API that guides a few different LLMs to generate an outline, and then using the outline, to generate each chapter sequentially.\n\nThis approach has been working relatively well, but there are still some issues that I'm facing.\n\n1. The system seems to sometimes forget what happened in the previous chapter (working on fixing this one right now, and it's getting better, but still an issue)\n2. Repeats of token phrases - \"the tension was palpable\" or \"a bastion of light\", etc. Not sure how to fix these...\n\nThere's probably other issues that'll come up but those are the main ones right now.\n\nFor reference, here's the simplified block diagram:\n\n[Block diagram of the generation pipeline](https://preview.redd.it/5bdogy6yx08d1.png?width=1772&format=png&auto=webp&s=fca3702ff195128f1d41bdc6a881bd72047a27ae)\n\nI'm wondering if any of you all might have any suggestions or ideas for improvement.\n\n[GitHub / Example](https://github.com/datacrystals/AIStoryWriter)",
-        "num_comments": 26,
+    "I feel like the biggest idiot": {
+        "title": "I feel like the biggest idiot",
+        "score": 30,
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1dr34ps/i_feel_like_the_biggest_idiot/",
+        "content": "I\u2019ve been screwing around for a couple of months getting my local development server up and running and I have had so many issues with Nvidia drivers it\u2019s crazy. I\u2019m primarily using Ubuntu because so many of the tutorials or installation examples use Ubuntu. I\u2019m currently on Mint and it\u2019s been ok so far but has glitched more than once and I had to fix it. I finally just started manually reviewing all updates. I even had a cups update screw up my video drivers by doing something to the kernel. I don\u2019t get it.\n\nI am so dumb. I just found out you can enable cuda on wsl. Yep. Pure moron over here.",
+        "num_comments": 45,
         "comments": [
-            "Long story short context window that's as big as the story is the only reliable way to do this.\n\n\nNo amount of edits/checks or revisions works better than solid writers with long context building on the story.\n\n\nFor \"editing\" you can just have the model rewrite the section verbatim outside of the suggested edits.\n\n\nGood luck with your progress.",
-            "Your flowchart looks like a good approach\n\n\nThere is not currently a project out there that has fully implemented this but I have a theory that the ultimate way to do this in the long term will be massive knowledge graphs, with automatic knowledge graph population and link prediction, combined with knowledge graph RAG",
-            "there's various factors that are going to limit the writing ability, length of what you can write and the quality of what's written. this has been approached by a lot of people trying to achieve the same thing\n\n1) larger models tend to have better prose and quality to what they write, but even among them you have to track down models that aren't overly positive, don't avoid conflict in their writing, don't attempt to overly censor, and don't spit out gpt isms. check this subreddit and other llm centric subreddits for story writing llms to get an idea of which ones are better for your purposes, in terms of writing quality, lack of gpt isms, and level of censorship / alignment. \n\n\n2) context length is the mountain you'll need to overcome. summarizing previous chapter's will result in little details getting lost that are important to the story, to characters and their background and developments, to events, etc. without summarization each of the previous chapters plus the prompt is going to eat up your context and result in the llm noticeably rushing the story as it continues, or writing with less and less detail as it continues. how you want to solve this is your own decision, for sure there are hundreds if not thousands of other people also trying to solve this issue.\n\n\n3) story length plays back into context limits. you're going to be limited by the type of story you want to write ( children's story, young adult story, novel, etc ) plus the context limit of the model(s) you decide to use. the longer the story that you're writing the more this is going to become a challenge.\n\n\nthe outline you have is a good starting point approach out of the various methods people are trying. as you start noticing things it needs to do better you'll be adding more steps. without getting into a whole long explanation, for example your focus seems to be entirely on chapters however what you'll find is that without much more guidance you're going to end up with generic slop. good quality writing  at the scope you want necessitates much more guidance and instruction, as well as becoming more familiar with elements of proper good book writing/story telling which is more involved than the sum of chapters.",
-            "Don't use instruct, don't try to \"chat\" with the AI, just use the base model as an autocomplete and predict the next token",
-            "I'm also trying to build a fun personal side project with a similar objective, but less following a full cohesive story and more building up a world and its interconnected characters while maintaining sufficient cross-referencing and agreement (think of a \"lore bible\"). I like your outline-first, hierarchical approach, and I think I could adopt some of the ideas as well, e.g. describe a continent, summarise the main points and feed that into generating locations of the continent. I do need a robust way to enforce some kind of lore consistency though. RAG and manual context injection seem to be the obvious answer, but naively doing so would usually end up with a lot more cross-referencing and repeating instead of generating creative but lore-abiding new content. Right now I am trying to figure out whether this can be monkey-patched with prompting (e.g. \"do not repeat existing context, but do not contradict the context, such as reviving dead characters\") or if I would need more sophisticated workflows, such as generate-then-check. I would like to hear if anyone has experimented with these ideas and found something useful.",
-            "Thought of using a 128k model?",
-            "Would be great if the diagram shows which step is done by ai/human. :)\n\nIf I see it correctly, basically all \"is it good?\" checks are done by the human?",
-            "Not sure about this\n\n\nThe \"needle in a haystack\" tests are a bit misleading\n\n\nEven the best long context models struggle to link multiple things from different parts of the context, even if they pass \"needle in a haystack\" retrieval tests",
-            "Thanks for the ideas! I'll have to double check if the context limit is being reached - so far the stories are about 8-20k words, so I assumed they wouldn't hit that limit, but I'll definitely add that to my list of things to check.\n\nRegarding your editing suggestion - not sure I understand, would you mind clarifying?",
-            "GOAT storywrting agent on github gets pretty close"
+            "WSL was not viable for my team either, we all moved to linux native or macOS.",
+            "I'm not sure I understand what you're saying here, but if you're saying you're thinking about moving from native Ubuntu to Ubuntu under WSL, there's a major performance difference in at least one place. I started on WSL and moved to Ubuntu native and my time to load a 70B 4 bit K\\_M GGUF quant went down from twenty minutes (!) to about 90 seconds.",
+            "Use linux and conda venv.",
+            "linux native > windows > wsl2",
+            "Cant you just containerise your setup with docker /podman?",
+            "Also if on ubuntu: `sudo systemctl stop unattended-upgrades` and then `sudo apt remove unattended-upgrades` It's the equivalent of microsoft restarting your machine randomly for windows update and whoever proposed it ought to be taken outside and beaten with the stupid stick. Locks up apt for extremely long periods and I'm pretty sure it broke my graphics drivers on more than two occasions.",
+            "Thanks, this is helpful indeed.",
+            "Yeah I work at one of the big companies. We deal with cuda driver issues alllll day and night",
+            "Thanks. Thats crazy. I have 3 4090s on a threadripper 7960x with 128gb ram. Loading a larger model takes me like 15 seconds most of the time natively. Ive just been going nuts with shit breaking due to updates but I dont want to risk missing security updates. I just know windows better.\n\nIm not planning on nuking it but I might try running it on KVM.",
+            "I prefer the native python env. I had better results as sometimes conda would mix up which python/pip and to where is installing things"
         ]
     },
-    "Closed AI asking government to regulate frontier models": {
-        "title": "Closed AI asking government to regulate frontier models",
-        "score": 190,
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1dl89pj/closed_ai_asking_government_to_regulate_frontier/",
-        "content": "to keep the company afloat.\n\n[https://x.com/tsarnick/status/1803893981513994693](https://x.com/tsarnick/status/1803893981513994693)\n\n",
-        "num_comments": 29,
+    "Quick Python tool/script to convert zips + download / convert GitHub repos to llm ready (RAG etc) .md files": {
+        "title": "Quick Python tool/script to convert zips + download / convert GitHub repos to llm ready (RAG etc) .md files",
+        "score": 60,
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1dqxzmw/quick_python_toolscript_to_convert_zips_download/",
+        "content": "# ~auto~md~\n\nmini python based tool designed to convert various types of files and GitHub repositories into LLM-ready Markdown documents\n\n\n## Features\n\n- **Supports Multiple File Types**: Processes `.txt`, `.md`, `.html`, `.css`, `.py`, `.js`, `.yaml`, `.yml`, `.json`, `.xml`, `.csv`, `.rst`, `.ini`, `.cfg`, `.log`, `.conf` files\n- **Handles Zip Files**: Automatically extracts and processes nested zip files\n- **GitHub Integration**: Clones and processes GitHub repositories\n- **Optimized Markdown**: Generates Markdown file with metadata, a table of contents, and consistent heading styles\n\n\n[GitHub Repo Link](https://github.com/tegridydev/auto-md)",
+        "num_comments": 15,
         "comments": [
-            "Of course. If they can regulate other models, they'll always be on top.",
-            "Microsoft's movement",
-            "to keep the company afloat alright!",
-            "That's why I have great respect for Anthropic team and Cloude model. Despite not open sourced they don't indulge in dirty gimmicks to block open source LLM community.",
-            "Hard drive with copies of all popular OS llm weights stacked away is the way to go in case we get some \u201cunexpected\u201d restriction of huggingface and similar platforms\ud83e\udd26\u200d\u2642\ufe0f",
-            "Regulate me harder, daddy! /s",
-            "Frontier models are the latest and most advanced models. [https://www.linkedin.com/pulse/understanding-frontier-models-ai-diana-wolf-torres-vzdpc](https://www.linkedin.com/pulse/understanding-frontier-models-ai-diana-wolf-torres-vzdpc)",
-            "Cool man just stop using the companies and download them to your local framework. Open source for the win. \n\nIf I it wanted to say \"MILK WAS A BAD CHOICE!\" Every time I had to say \"meticulously & step by step by breaking tasks into smaller, more manageable chunks\"\n\nIt should gosh darn diggity do what I diggity dog demand!\n\nIt's my birthright as a human being!\n\nAnd I'm for whatever reason I say \"mandible chunks\"\nThe thing better play Yoko Onno vocal samples.\n\nAnd dance seductively in a pink polka-dotted bikini.",
-            "Especially given those government contracts",
-            "\"I know my rights\" kind of monologues..."
+            "Be sure to add a license.",
+            "Update: Didn't expect so many people to see this haha! Just pushed an updated version ",
+            "Omg I was just thinking about about something like this today, super cool looking thanks for sharing!",
+            "Seems like the zip file needs to be inside the .git directory to be processed. You might want to add that to the instructions.",
+            "You don't need to blacklist files, you're already whitelisting my friend.  If you took out the 'skipped extensions' the behavior would be identical.",
+            "Cheers for the source I'll try it out! \n\nI was having dumb issues with lists for some reason so this info helps x",
+            "I was trying to do something like this a few days ago, but it wasn't working because I was trying to extract it as plain text. Let's see how this method turns out.",
+            "Should just be able to click browse and grab a zip file and process it that way (unless I bricked something in last update which is a high probability )",
+            "Claude 3.5 isn't great at writing the most optimized code. Also pretty bad at making things into classes unless you ask for it.",
+            "it seems the issue was resolved only after placing the file in the bin directory. Initially, I tried to process the zip file directly as plain text, which led to problems. Adding this detail to the instructions might prevent others from facing the same issue. Perhaps there's a need to ensure files are in specific directories for successful processing. Any additional insights or updates to the script that could streamline this would be greatly appreciated."
         ]
     }
 }

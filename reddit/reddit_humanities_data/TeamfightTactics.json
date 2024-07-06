@@ -1,92 +1,90 @@
 {
     "Shop Distribution - The Nerdiest Post you\u2019ll read today": {
         "title": "Shop Distribution - The Nerdiest Post you\u2019ll read today",
-        "score": 1301,
+        "score": 1322,
         "url": "https://www.reddit.com/r/TeamfightTactics/comments/1d3c09b/shop_distribution_the_nerdiest_post_youll_read/",
         "content": "Hey folks. Mort here with what is going to be the nerdiest game design post you\u2019ll see in a while, but I wanted to share it with you. Generally in all aspects of life, even if you\u2019re confident in something, it\u2019s helpful to double check your biases and make sure you\u2019re actually correct or not. So that\u2019s what I did.\n\nWe\u2019ve all seen posts where a player rolls down 50 gold and doesn\u2019t see the uncontested unit they\u2019re looking for, heck you may have even been on that end yourself (sorry, but wait for the punchline). Sometimes, this experience can be so stark that you\u2019re concerned with the reliability of the system. Could this be bugged? I can\u2019t really be that unlucky\u2014is something wrong with the game? Now, my initial reaction is that this is a common thing called \u201cconfirmation bias\u201d where a recent experience is being weighted more heavily. This, in conjunction with negativity bias, where negative experiences are seen to have a higher impact, become the fuel for many \u201cMortdogged\u201d experiences. But even with knowledge of these biases, is everything fine? I mean, TFT has had its share of bugs, so let\u2019s take a deep dive in the design space to make sure everything works as it should.\n\nFor this experiment, I focused on 4 costs. We pulled out 6 copies of nine of the Four Costs (these are our contested units), and left the other three Four costs as our uncontested units, with all 10 copies in the pool. At this point, this means there are 4 copies of the contested units (36 contested units total) and 10 copies of our three uncontested units (30 uncontested units total). If we do a large extensive roll down, we should see uncontested champions (30/66) 45% of the time approximately.\n\nWe ran this experiment for the first time, with Ornn, Ashe, and Kaisa as the three uncontested units (lol, Ornn is uncontested, right?), and here are the results.\n\n* Ornn: 136\n* Ashe: 168\n* Kaisa: 120\n* Lillia: 58\n* Morgana: 52\n* Kayn: 58\n* Lee Sin: 61\n* Syndra: 38\n* Nautilus: 53\n* Galio: 61\n* Annie: 50\n* Sylas: 46\n\nThe total 4 costs seen was 901, and the uncontested ones made up 424. This is (424/901) 47% of the time, which is within expected variance for something of this sample size, and matches our expectations. Good news. But of course, one time isn\u2019t enough, so let\u2019s run the experiment two more times.\u00a0\n\n* Ornn: 154\n* Ashe: 141\n* Kaisa: 178\n* Lillia: 57\n* Morgana: 72\n* Kayn: 48\n* Lee Sin: 53\n* Syndra: 57\n* Nautilus: 52\n* Galio: 62\n* Annie: 52\n* Sylas: 41\n* Total: 473/967 = 48.9%\n\nAnd again\n\n* Ornn: 150\n* Ashe: 140\n* Kaisa: 152\n* Lillia: 63\n* Morgana: 58\n* Kayn: 55\n* Lee Sin: 48\n* Syndra: 54\n* Nautilus: 47\n* Galio: 60\n* Annie: 64\n* Sylas: 55\n* Total: 442/946= 46.7%\n\nSo yeah, generally we\u2019re seeing the results we\u2019d expect with a sample size this big. It\u2019s not EXACTLY 45%, but the law of large numbers shows that this is expected, and if we dramatically increased the sample size, we would likely converge to that expected 45%. From a purely mathematical standpoint, it seems like our shop is working as expected. Huzzah!\n\nSo all is good right, and there\u2019s nothing to be done\u2026right? Well\u2026no actually. Just because it is mathematically correct does NOT mean the design is perfect. If you\u2019ve ever watched my stream, I\u2019ve talked about how good design doesn\u2019t just let RNG take the wheel, and designs around the core player experience. In this case, the player is not rolling down 1000 times and letting the law of large numbers do its job\u2026instead, it\u2019s rolling down 60 gold and expected results that are intuitive, which is that uncontested units show up more.\n\nLet\u2019s repeat the experiment, but instead of 1000 rolls, let\u2019s only do 40 and see what happens. Same thing, with Ornn/Ashe/Kaisa as our uncontested units, and see what happens.\n\n* Ornn: 8\n* Ashe: 6\n* Kaisa: 1\n* Lillia: 6\n* Morgana: 0\n* Kayn: 1\n* Lee Sin: 6\n* Syndra: 2\n* Nautilus: 4\n* Galio: 4\n* Annie: 0\n* Sylas: 2\n* Total: 15/40 = 37.5%\n\nBecause the sample size is so low, the variance expands pretty dramatically. Much like if you flip a coin 10 times and hit heads 7 times, 70% is way higher than 50%, but the reality is when the sample size is lower, the variance is higher. Again, this all lines up from a mathematical sense\u2026but from a game design standpoint it\u2019s pretty rough. Kai\u2019Sa is uncontested here and is seen one time, while Lee Sin has 6 copies out of the pool, and is seen 6 times! These are the experiences people have that feel off, and make them not trust the game.\n\nNintendo games do a lot of fudging behind the scenes I\u2019ve talked about before, to try to make expected outcomes more likely to happen. Famously one of the most basic versions of this is in Fire Emblem, where they double roll odds, so if something says 75%, it\u2019s actually 87.5% so it FEELS more like 75% to people (A 95% chance in Fire Emblem is much closer to 99%!) Based on this, I think there are improvements we can and should make here, so the game behaves closer to what you would EXPECT it to, even if it is within acceptable outcomes.\n\nPersonally, this was awesome for me to confirm and was a good use of time yesterday. I like constantly challenging our game design to see if we can do better, and I think this confirms we can. It won\u2019t be easy, it won\u2019t be overnight, and it may not even be soon\u2026but I think it is worth exploring, and I think we\u2019ll start doing that as soon as possible.\u00a0\n\nThanks for reading all. Hope your roll downs are within expected variance, and take it easy :)\n\n",
-        "num_comments": 211,
+        "num_comments": 212,
         "comments": [
             "Going to keep this pinned for a while since the amount of conspiracy theories about shop odds have been a little high recently",
             "Mort, thanks for being so engaged with the community. TFT isn't perfect but you instill faith that the people behind the scenes care and are doing their best and that's all I can ask for in a multiplayer game.",
-            "Wait...Fire Emblem has been lying to me since 2003? What can I even trust anymore???\n\n\nThanks for looking into this some more and doing a more in-game representative rolldown to see just how silly it can be sometimes!",
             "There is a simple fix to this. Give me all of the units that I want, and don't give me the ones that I don't want.",
             "Ok that's cool and all but you're still a nerd",
             "Wouldn't it just confuse things more though to have a hidden percentage that doesn't align with stated values? People can hardly understand MMR vs Rank as it is lol. There's already a lot of tft knowledge I would never have if I wasn't following high elo players who explain hidden mechanics.",
             "Great post! I've had several discussions in this sub with people claiming It was bugged and I explaining them It was probably just confirmation bias. So I'm glad I can take a victory lap now lol.",
             "In todays world of video games I am truly thankful for the time you put into this game and into the community. Great post and thanks again for being awesome Mort",
             "As a fcking nerd, I really like this nerd post",
-            "I don't know if it was Spotify or some other music platform.\n\nIf you play your playlist with hundreds of songs it sometimes happens that the same artist comes 2 times in a row, or even 3 times.\n\nSo they changed the \"true randomizer\" and made it less random because people complaint it was not really random. \n\nIt was but true random doesn't \"feel\" random to people.\n\nBut that's exactly what random is. Sometimes you roll the dice and get 6 three times in a row which feels so good and lucky. Then you hit 2 three times followed by a 1 and you think the fucking dice is rigged.\n\nHumans are biased"
+            "i cant think of anyone who deserves their job more than you",
+            "All I gathered from this is that it's not my fault I'm bad at this game"
         ]
     },
-    "Mortdog on people complaining about the current meta xD": {
-        "title": "Mortdog on people complaining about the current meta xD",
-        "score": 58,
-        "url": "https://clips.twitch.tv/CrepuscularRelatedJuicePeteZarollTie-F5NEGpjZJASCTfbT",
+    "Used an entire lifetime's worth of luck for this": {
+        "title": "Used an entire lifetime's worth of luck for this",
+        "score": 109,
+        "url": "https://i.redd.it/ssmwi2hapf9d1.jpeg",
         "content": "",
-        "num_comments": 76,
+        "num_comments": 18,
         "comments": [
-            "This sub is filled with people like these. 80% of the posts have the dumbest complaints and constant whining",
-            "Man I honestly don't know how we don't have more outbursts from Mort like this. The man is leading a team on a game with a WILDLY difficult balancing factor to it and streaming as a normal gamer on his off time. Still getting bombarded with bonehead comments like the one he's replying to here. He has WAY more composure than I think I could hold. \n\nAlso, Fk that dude in the comments lol.",
-            "I almost bet the guy who said this at his chat has already done a similar post here complaining about it too.",
-            "God you couldn\u2019t pay me enough to be the figurehead like mort or phreak.  It seems like no matter what they do people are always going to tap and complain and having to be the person responsible for listening to it all sounds agonizing.",
-            "I love Mort",
-            "Lol the fuck is reaper/lux meta",
-            "Which color though?",
-            "Based Mortdog",
-            "At least he got that gamer soul in him",
-            "based and mortpilled"
+            "This not being Pengu Party is bonkers. Ive still never even hit Fortune 7.",
+            "Portal was Trainer Sentinels. My sentinel had fortune, inkshadow, and arcanist. Got Fortune Crest on 2-1, Hedge Fund on 3-2. Leveled to 7 on 3-2 and rolled down for Fortune 7. Cashed out 270 Luck on 4-7 for Fortune 9+ and the rest was history.",
+            "When did you/did you loss streak??",
+            "Its so jarring that you have games like this but the possibility of hitting an 8th the next game to wipe out all that Lp gain feels just so dirty",
+            "You're missing 3* Xayah /s \n\nCongrats on the fortune game!",
+            "I hit Fortune 8, but lost :(",
+            "U already won when you got 2 fortune emblems on 2-1 lmao, still very cool",
+            "I hit Fortune 7 with about 65 hp. You gain luck after every fight regardless of win or loss with Fortune 7. Got really lucky with final cash out as I rolled a 1 with 15hp left before raptors.",
+            "If you already have 2 fortune emblems you shouldnt try to lose streak and instead strive to field seven fortunes as fast as possible, I.e. its perfectly correct to roll down lvl 7 to find one Annie and then win the game",
+            "I got 1st again the next game with Storied Champion Garen. He had Radiant Archangels and Radiant Dclawmort was blessing me last night."
         ]
     },
-    "As a former TFT \"Whale\", the new treasure realm makes me not want to spend at all": {
-        "title": "As a former TFT \"Whale\", the new treasure realm makes me not want to spend at all",
-        "score": 17,
-        "url": "https://www.reddit.com/r/TeamfightTactics/comments/1dls2mr/as_a_former_tft_whale_the_new_treasure_realm/",
-        "content": "This probably has been discussed to death already, but the new treasure realm system makes me not want to spend money on TFT. I have the KDA Kai'sa Skin plus a few other mythics including Lee Sin and arenas.   \n  \nI would at the very least spend 200\u20ac if not more of my disposable income a month on TFT because I felt I got something even if it was really not that worth it. The old system disallowed duplicates and rolls felt like they gave you something even if it was lowkey trash, the revolving shop sounds nice but really I feel like I get less bang for my bucks with this system even if it might be around the same in theory.  I do really miss the feeling of opening up a cache to get something whacky or unknown.\n\nPretty much all of my recent rolls of the new system have been duplicate realm crystals and it feels very discouraging to me to keep spending on it. I will not resume spending money on TFT and am happy to just use the free currency to roll occasionally. \n\nHow do other people feel about it? Especially people that were high spenders who own multiple mythic chibis.",
-        "num_comments": 17,
-        "comments": [
-            "You can now buy more precisely what you want, sometimes.you have to wait very long for the shop rotations though. This comes at the cost of getting less unique rewards from pulls and the realm crystals overall making every little legend require more pulls if you need to buy them instead of pulling. Overall it's more expensive to get them all now but it is easier to get a single specific one.",
-            "I would take 100 crystals instead of random useless legend which iam never gonna use. At least crystals will be used for chibi legend",
-            "bro its so insane, i was thinking about buying the pass for the pulls, but first i did the free pulls from the event, 90% of it was just 100 realm crystals, so i decided not to xd",
-            "Idk man I just got that lit beach arena for 2500 crystals. I'm pretty pleased.",
-            "yeah... I spent too much but atleast I was guarenteed the chibi in around 10ish rolls since I had everything else and now all I'm getting is the crummy crystals that are effectively useless to me",
-            "It\u2019s always so interesting to me to see whales complain about massively overpriced content, as if the reason companies don\u2019t do this is BECAUSE of whales being willing to spend large amounts of money chasing that gamba high\n\nBut anyway yeah treasure realms and TFT monetization bad",
-            "... I'm a TFT whale and I didn't even realize the new system even gave out tacticians anymore, thought it was just a crystal dispenser. And I've already put in a couple hundred to get the poro fluft. Wack. Is that what determines the variance in crystals?\n\nThe reason I've put so much in is from rolling for specific things. In beta, I ended up with all the little legends just trying to get the sugarcone furyhorn at 3*, and same thing for pretty much one in every set since until the pink shards. I'm not a fan of chibis, but keep falling in love with these random legendaries and specific boards. I much prefer being able to buy certain ones from the shop. If I can ever get the Chinese new year board with the poro audience, my whaling can finally stop.",
-            "you can gamble. get new thing if not get the new thing to buy it for free... it's win win for you plus you get mythic points to save for new skins",
-            "Is it the second time I see this same post?",
-            "I enjoy having more agency in the process of choosing rewards. \n\nPersonally I really disliked having only 2 or 3 mythic treasure realm options available at once for long periods of time.\n\nIn regards to wether people get more bang for buck, i got fluft of poros without spending any extra money because of the pengu pass tokens.  And now have 8 mythic tokens again after spending only like $30 nzd and the free tokens. This seems way better than before, but now that I have very limited tokens without buying them (only battle pass left but still deciding whether to buy) the remaining 2 medalions would cost me like $90ish dollars if I only got garenteed medallions. This still seems quite expensive, but more on par with league hextech crafting gems before they made it a dust.\n\nBut also I may have gotten very lucky since i pulled the x4 medallions reward 2 times. And dont know if this is likely since I havent looked at the rewards table yet."
-        ]
-    },
-    "Where is bro running to?": {
-        "title": "Where is bro running to?",
-        "score": 56,
-        "url": "https://v.redd.it/7c70i302r08d1",
+    "Lucky Lucky Gloves": {
+        "title": "Lucky Lucky Gloves",
+        "score": 161,
+        "url": "https://i.redd.it/vvdrfj5tgd9d1.jpeg",
         "content": "",
-        "num_comments": 6,
+        "num_comments": 20,
         "comments": [
-            "he's got places to be!!!",
-            "Just putting in some exercise. Gotta be ready for the next battle!",
-            "Working on his cardio for his turn in battle",
-            "Bro is trying to escape his demons xD",
-            "DEMACIA!"
+            "You don't even have pandora's so I can only assume this is anvil buffet portal?",
+            "7 is a lucky number",
+            "If this is a real thing that actually happened in a real match, then it might be one of the rarest things to ever happen in TFT.",
+            "\"I will make it legal\"",
+            "3 of them from encounter when you pick a component and get 3. The other 4 were just random",
+            "Even at that it's incredibly rare as anvils are less likely to show you items they already have",
+            "Lucky Gloves+ gives 3 wolves and he got an encounter (zyra I think?) giving him the Sam component 3x (gloves). So it's not rly lucky",
+            "Doesnt lucky gloves give 2 as well?",
+            "Anvils are weighted to give you items you dont have duplicates of.",
+            "Dont have on the bench or everywhere?"
         ]
     },
-    "How did Rek\u2019Sai do the most damage?": {
-        "title": "How did Rek\u2019Sai do the most damage?",
-        "score": 12,
-        "url": "https://i.redd.it/jsjiusdya38d1.jpeg",
-        "content": "",
-        "num_comments": 10,
+    "Silly cashout": {
+        "title": "Silly cashout",
+        "score": 67,
+        "url": "https://i.redd.it/26jqcpf17e9d1.jpeg",
+        "content": "Just played a game and early got 7 fortune.\nWhen there were about 300 cashout I decided to take it... And got about 8 emblems of fortune. During the game after this screen I was still getting emblems from cashouts.\n \nThanks to Pandora's bench these emblems were made in different however it is still silly! Like you've made a squad using these fortune champs and you need to rebuild it in a few rounds including the facts that there are plenty of items and there are a lot of extra emblems that are useless because you can't make more than 7 fortunes",
+        "num_comments": 16,
         "comments": [
-            "I mean, we need s lot if info in that round. Did ornn hit her with 3 radiants when he casted? How many of your team died? Did reksai hit things with like 40 spectres on them to absolutely truck them?\n\nOrnn probably got her the items and then she slapped the shit out of things that took 300% more damage",
-            "Cause she\u2019s the queen \n\nSlay girl(god this sounds so dumb)",
-            "I can see the mascot",
-            "Punched hardest",
-            "Probably got radiant TG with BT/Titans or something similar from Orrn",
-            "For a serious answer It have many reasons, 1 orn damage is only around him + he stand at one place when he cast and his cast time is very long if not interrupted which mean he won\u2019t move to important or back line target otherwise, 2 rek\u2019sai damage have 3 different scaling if I remember correctly and it very potent so if she itemized properly she can deal ton of damage and her ability can move around even when she casting which mean she won\u2019t miss her ability and it hit around her, 3rd ghostly damage multiplier as I say she can hit 360 around her so she can take advantage of the ghostly damage very well and plus the gear from orn ability she can easily deal 1k+ per target not taken into account if she hit multiple enemy",
-            "Rek'sai does not have ghostly emblem so she would not geg the damage buff",
-            "1 star reksai with no items bro",
-            "Ghostly amp isn\u2019t affecting only ghostly units. This was the case for a very short time and got reverted",
-            "You do know what orn 3 do don\u2019t you ? And as I say when orn 3 cast he won\u2019t move = we won\u2019t be able to damage range enemy, and because he slam random item on most of his char for the effect most item that orn make gonna go into rek\u2019sai"
+            "Oh, honey... I'm so sorry.\n\n9 Fortune exists. You just didn't try it. It moves the Fortune tree to your board, and during combat the tree shoots ludicrous amounts of money at the enemy. You can then collect that practically infinite money and roll for every 5-cost in the pool.",
+            "Well TIL 9 fortune exists. I hate this trait so much. I swear every time I get early fortune 3 theres a fan player that fucks the whole thing up. Its so obnoxious that it completely resets the traits momentum",
+            "Why exactly are people downvoting OP in the comments? The game does not indicate existance of 9 Fortune and I too would't have known had I not seen it on here previously...?",
+            "Bro had 14 emblems holy shit.",
+            "Loool bro missed out on the instawin\n\nUnlucky thag you didnt put the emblems on before removing the units",
+            "This is what happens to a lot of casual players because the devs expects every players to be in a tft community",
+            "Dude has been living under the rock, not knowing 9 fortune and managing to post on Reddit ",
+            "Guys I haven't seen 9 fortune in the list of this trait, like there are 3,5,7 fortunes. Maybe I have a different version or this 9 fortunes is hidden ",
+            "Right and I only found out by watching streamers that attempt crazy builds.",
+            "You failed to satisfy your self, bro."
+        ]
+    },
+    "Is this intented?  \"I have a shop where I can upgrade my irella to 2 Star with BIS next turn, I locked the shop because no money to upgrade. But the encounter refresh my shop because of the mechanics.\" Mortdog Please \ud83d\ude2d": {
+        "title": "Is this intented?  \"I have a shop where I can upgrade my irella to 2 Star with BIS next turn, I locked the shop because no money to upgrade. But the encounter refresh my shop because of the mechanics.\" Mortdog Please \ud83d\ude2d",
+        "score": 6,
+        "url": "https://i.redd.it/48qg6dbflh9d1.png",
+        "content": "",
+        "num_comments": 3,
+        "comments": [
+            "Has happened to me once, too - locking shop but losing my unit to an encounter. Not a bug if that was your question, but it definitely blows.\n\nAre there any shop encounters other than the 1/2/3/4/5?",
+            "And I deeply hope that other players won't share the same fate as mine, it is an easy 1st, now it is a 2nd by design.",
+            "You got Mortdogged"
         ]
     }
 }

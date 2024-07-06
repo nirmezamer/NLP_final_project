@@ -25,53 +25,62 @@
         "content": "Google Search is rolling back its continuous scroll user interface and bringing back the legacy Google Search pagination bar. Google told us that starting yesterday it will stop offering continuous scroll on desktop, with the mobile search interface to follow in the coming months.\n\nGoogle told us this was to make search faster and only load the results the searcher asked for.\n\nGoogle launched continuous scroll on desktop in December 2022, 1.5 years ago, and continuous scroll on mobile search in October 2021, 2.5 years ago. Since then Google has been testing bringing back the old pagination options where you click next and also the more results button and has now decided to do away with continuous scroll completely.\n\nGoogle told us this change enables them to serve faster results on more searches, instead of automatically loading results that users haven\u2019t explicitly requested.\n\nSource: [https://www.seroundtable.com/google-continuous-scroll-dead-37618.html](https://www.seroundtable.com/google-continuous-scroll-dead-37618.html)\n\n\n\n",
         "num_comments": 5,
         "comments": [
-            "https://preview.redd.it/agnse1jb829d1.png?width=680&format=png&auto=webp&s=c73683f6dd3c804ef020f015adb923988d01ab6b",
-            "Maybe I am wrong but it seems to me that those are cached pages. So serving those slows down a giant like this with multiple server farms around the world? Doesn't this mean less engagement and less ads to show for Google? Is it just me, or does it look like an own goal?",
             "I really enjoy these threads you make weekly.\n\nAnd good, forever scroll is annoying on all platforms.",
-            "Like you, I'm pretty sure this isn't the reason :-)"
+            "Like you, I'm pretty sure this isn't the reason :-)",
+            "Maybe I am wrong but it seems to me that those are cached pages. So serving those slows down a giant like this with multiple server farms around the world? Doesn't this mean less engagement and less ads to show for Google? Is it just me, or does it look like an own goal?",
+            "https://preview.redd.it/agnse1jb829d1.png?width=680&format=png&auto=webp&s=c73683f6dd3c804ef020f015adb923988d01ab6b"
+        ]
+    },
+    "My small website has been wiped out from Google search": {
+        "title": "My small website has been wiped out from Google search",
+        "score": 7,
+        "url": "https://www.reddit.com/r/SEO/comments/1dr9ufy/my_small_website_has_been_wiped_out_from_google/",
+        "content": "Why has this happened to my website? My content is human-written and more useful than most crap available on the web. I also write the same type of content on other websites, and they rank, but this blog has suddenly died, and I can't recover it.\n\nEverything was going well until we bought some backlinks, and there was a sudden rise in backlinks from some unrelated pages. A few days later every thing is gone. Could this be the problem?\n\nI have not got any manual action. Are we getting penalized?\n\nWhat should I do?\n\nhttps://preview.redd.it/og3myxv85i9d1.png?width=2444&format=png&auto=webp&s=a27f02832dea3c694119188e81f27c903d18ba4f\n\n",
+        "num_comments": 6,
+        "comments": [
+            "Backlinks probably were shoddy. You really have to tread lightly with that stuff.",
+            "Your website has not been 'wiped out to begin with. You barely had trafic. Just continue publishing ''human-written content and more useful than most crap available on the web''",
+            "Thats definitely not it. If it were that easy, everyone one would just point bad links to their competitors. Also, bad links dont cause damage that fast, if ever.",
+            "If thats a local business site its fine.",
+            "Many possibilities. \n\nYou never had enough clicks. Vanishing such small traffic is very normal. \n\nThen you mentioned you bought some irrelevant links? Google says they ignore low quality links or if they find links might be manipulated, but I've seen many times sites losing traffic after building tons of low quality links. And if the links are suddenly removed at once, it can also reduce traffic. I won't explain why and how exactly, cz it's a black hat technique. \n\nAlso, sounds like you have a content only site? Then it's normal lately. Google is rewarding service websites over pure blog and affiliate sites as Google literally failed to fight spam blog sites."
         ]
     },
     "Our small business is getting bombed by fake reviews": {
         "title": "Our small business is getting bombed by fake reviews",
-        "score": 13,
+        "score": 27,
         "url": "https://www.reddit.com/r/SEO/comments/1dr0g4v/our_small_business_is_getting_bombed_by_fake/",
         "content": "Long story short, we have recently started getting spammed by fake reviews on our business profile. I have flagged the reviews multiple times but to no avail. This is causing an intense amount of distress.\n\nWe are a small dental clinic and we keep concise medical records, and we can provide documentation that these people were never in our clinic.\u00a0\n\nFor example there is a review\u00a0mentioning how someone \"took their sister's son to Dr\u00a0Michalak\". Dr Isabella\u00a0Michalak, does not treat minors. And we dont treat minors without a parent consent form. We have not had any parent consent forms for a 11 year old in 2+ years.\u00a0\n\nFlagging these on Google doesnt do anything. What else can I do ? I will appreciate any help from the community.",
-        "num_comments": 29,
+        "num_comments": 42,
         "comments": [
-            "I\u2019m confused. What does this dental clinic bring woman owned have to do with anything?",
             "The only way I see combating is to get more people to leave positive reviews on it.",
             "I had to take my business page down due to fake reviews. Google couldn't care less. I also took my FB business page down for same reason but FB will eventually take down a fake review.",
-            "If you respond to the fake review google will not take it down.",
+            "A dental clinic in my city got spammed with bad reviews because they had a policy around charging people for missed appointments even when they had COVID or were extremely sick. They even demanded someone come in while sick and didnt seem to care that they were coughing everywhere. Some people complained about it on Facebook groups, and found out it was a common thing. Cue the bad reviews from everyone who read that post. \n\nDid your clinic do something similar? If so, may be worth looking into your policies and offering sincere apologies. If not, maybe look into your clinic name on Facebook to see if there are any public posts accusing your clinic of doing something along those lines.",
+            "Respond to them kindly, but with authority that they are fake. With honor. Don't whine or complain in your reponses.",
+            "Im confused. What does this dental clinic bring woman owned have to do with anything?",
             "I would take legal action and contact a lawyer. There are services that can remove reviews. This is an extreme step. If the client is identified, you can take further action. Defamation can have criminal consequences.",
             "If u r true answer proper ask them. Share details of visit any bill Or payment they made for proof these will show genuine user it's fake. Btw on which platform is this? Can u share details",
-            "A dental clinic in my city got spammed with bad reviews because they had a policy around charging people for missed appointments even when they had COVID or were extremely sick. They even demanded someone come in while sick and didn\u2019t seem to care that they were coughing everywhere. Some people complained about it on Facebook groups, and found out it was a common thing. Cue the bad reviews from everyone who read that post. \n\nDid your clinic do something similar? If so, may be worth looking into your policies and offering sincere apologies. If not, maybe look into your clinic name on Facebook to see if there are any public posts accusing your clinic of doing something along those lines.",
-            "If any of your friends are a Google Partner, they can easily get help from Google and make it removed, think so. Google Partners have better access to Google support team. Just go for a free consultation with them, you will get a better idea.",
-            "Fair point, I will remove this.",
-            "Woman owned businesses get discounts on their taxes in the USA. It\u2019s very important that everyone knows a woman owns the business."
+            "The only way to remove them is to mass report. Get at least 50 friends and mass report each review and Google will remove it.",
+            "I would recommend a company called Consumer Fusion. They are experts in removing negative reviews and work very closely with Google, their fees are really good. Ive worked with them for years and have introduced them to many other businesses. If you need more info or help I can get an intro just send me a PM.",
+            "If you respond to the fake review google will not take it down."
         ]
     },
-    "Looking for Tool Combinations for SEO Analysis": {
-        "title": "Looking for Tool Combinations for SEO Analysis",
-        "score": 3,
-        "url": "https://www.reddit.com/r/SEO/comments/1dr45tr/looking_for_tool_combinations_for_seo_analysis/",
-        "content": "Hi everyone,\n\nI'm looking for some insights on using multiple tools for SEO analysis. Are there any SEO managers or experts here who use combinations of tools like SEMrush and Screaming Frog (excluding Google Analytics)?\n\nI'd appreciate any input you can share.\n\nThank you!",
-        "num_comments": 3,
+    "Many folks want to know if changing domain helps you recover traffic. Yes it worked in my case. Here is what happened.": {
+        "title": "Many folks want to know if changing domain helps you recover traffic. Yes it worked in my case. Here is what happened.",
+        "score": 6,
+        "url": "https://www.reddit.com/r/SEO/comments/1dr87v7/many_folks_want_to_know_if_changing_domain_helps/",
+        "content": "I have redirected a domain recently and I have got very decent results.\n\nBut my story is a little different.\n\nI had this (old) domain for 3 years. It had basic level content (20 pages). I used to believe I will update this site once I have spare time.\n\nIt kept on getting impressions for 3 years until March 2024.\n\nUnfortuntaly, the domain got a hit by March update.\n\nI started working on it. Completely changed the content. But didn't change the URLs of those 20 pages.\n\nNothing happened.\n\nNo impressions.\n\nI even built backlinks but nothing worked.\n\nSome folks suggested to change the domain to see if issue is with the domain.\n\nI removed the site from Google.\n\nI change the domain name without changing anything else.\n\nThe domain was brand new. No profile earlier.\n\nAnd started getting tons of impressions within 24 hours.\n\nEven some rankings were on position 9 to 13 that was quite surprising for a brand new domain especially on an affiliate site.\n\nSo if you can compromise on your domain, you must change.",
+        "num_comments": 29,
         "comments": [
-            ">Are there any SEO managers or experts here who use combinations of tools like SEMrush and Screaming Frog (excluding Google Analytics)?\n\nMy guess is, most SEOs use a combination of tools.\n\nA common combination is SEMrush or ahrefs (or one of the cheaper alternatives) for keyword research + Google Search Console + Screaming Frog for ad-hoc crawling + maybe a TF-IDF/LSI/Word2Vec writing tool like SurferSEO.",
-            "Just a guess - if you are using multiple tools, you want to combine analysis. Dive into the export options of these tools and analyse the content they are delivering. Then decide what analysis / data points etc you want from that and use desktop excel with macros (or google sheets with macros if need be). \n\nExport the data from the different tools and have the macro automatically combine them each time you download them. This will allow you to create the same results with the press of a button and combine / enrich the data the way you want. \n\n  \nWhy this road? Each tool usually has their own analytics / data listings and works well within this. But good tools always have good exports which will allow you to recreate those (and then combine). \n\nIt usually looks daunting and will be problematic the first few times until you have the combination going.\n\nProblem #1 usually? Not really knowing what you want out of the data. Or be creative enough with the existing tools to get what you want out of them. hth.",
-            "SEMRush, Ahrefs, Screaming Frog, these are my most favorite SEO tools. I use others too for specific purposes but these are my everyday tools. Just by mastering the SF, you can learn more technical SEO than most technical SEO specialists. It's so powerful yet not everyone leverages it. \n\n\nIf you want to learn SF in-depth, then start by reading their blogs."
-        ]
-    },
-    "Recommended tool for Authority Score?": {
-        "title": "Recommended tool for Authority Score?",
-        "score": 2,
-        "url": "https://www.reddit.com/r/SEO/comments/1dr3zn9/recommended_tool_for_authority_score/",
-        "content": "I want to know which authorty score should I check and follow. Usually I checked from Moz but I joined company where manager saying to check from Semrush? Can anyone tell me the difference of authoity score / dr of Ahref, Semrush and Moz and which tool to use?",
-        "num_comments": 3,
-        "comments": [
-            "Recommended? None, to be honest. These scores are easily gamed, often outdated, and rarely actionable.\n\nWhat problem are you trying to solve by checking these scores?\n\nDA, DR, etc. are all highly correlated since they are all attempts to mirror what the Google Page Rank score used to give us.\n\nSince Moz is more or less dead as both a company and a tool, I would trust their data the least.",
-            "Every tool has its own algorithm. Nothing is different. In anyone just based on the link mostly rank their value",
-            "Average position on a query and URL basis. Set up a looker report if needed"
+            "Did you 301 the old domain to the new one?",
+            "Is this a high value niche or just like information type of keywords",
+            "Thank you for sharing your valuable experience with us!  \nDid you add the new domain to the same GSC account or open a new one?",
+            "Hello. Thanks for this post. How did you remove site from google?",
+            "Yes. From the cpanel. And also redirected 15 internal pages to the new domain to make Google realize that the old site is re-branded.",
+            "Thanks for sharing. Very interesting. Im struggling",
+            "Yes. Same email, hosting, and theme, etc. I had simply copied the website from old domain to the new domain and submitted for indexing.",
+            "Then just change the domain.",
+            "Eh Im scared. This site has made me extremely wealthy and has been my lifeblood for 7 years. I got hit by march update but semi stabilized. Then got hit again in June.",
+            "Im just gonna wait a bit but Ill keep this in mind for sure"
         ]
     }
 }

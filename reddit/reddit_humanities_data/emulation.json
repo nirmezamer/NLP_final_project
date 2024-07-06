@@ -1,78 +1,71 @@
 {
     "Weekly Question Thread": {
         "title": "Weekly Question Thread",
-        "score": 20,
+        "score": 18,
         "url": "https://www.reddit.com/r/emulation/comments/1dhkxld/weekly_question_thread/",
         "content": " Before asking for help:\n\n* Have you tried the latest version?\n* Have you tried different settings?\n* Have you updated your drivers?\n* Have you tried searching on Google?\n\nIf you feel your question warrants a self-post or may not be answered in the weekly thread, try posting it at [r/EmulationOnPC](https://www.reddit.com/r/EmulationOnPC/). For problems with emulation on Android platforms, try posting to [r/EmulationOnAndroid](https://www.reddit.com/r/EmulationOnAndroid/).\n\nIf you'd like live help, why not try [the /r/Emulation Discord](https://discord.gg/ew4SQuG)? Join the #tech-support  \n channel and ask- if you're lucky, someone'll be able to help you out.\n\n[All weekly question threads](https://www.reddit.com/r/emulation/search?restrict_sr=on&sort=new&t=all&q=title%3A%22Weekly+question+thread%22+author%3A%22AutoModerator%22)",
-        "num_comments": 73,
+        "num_comments": 74,
         "comments": [
             "Should I move from Citra to Lime or Lemonade?",
-            "Just setup rpcs3 for the first time and having all kinds of issues \n\nhttps://youtu.be/BTQyYlGyhuM?si=w6v7XAsdbid-SVV7\n\nHow can I fix this? \n\nThanks",
             "Are most smart TVs powerful enough to run a SNES emu?  Are there any good Android TV apps that can do exactly that?",
             "dont really know much about modding/rom hacks for base game roms. if anyone could help id appreciate it.\n\nbasically i just want a new character sprite for the GBA and DS Pokemon games instead of the default ones but have no idea where to get them (if they even exist) or how to mod them in",
             "How to install cheat code in PPSSPP? I have the cheat codes I want to use for the game, but I have no idea how to apply them to the game.\n\nOf course I searched for a tutorial before making this post, but all that came up was how to install cheat.db (I assume it's a database of cheat codes that exists in PPSSPP). I only want to use a few specific cheats, so there's no need to download the whole database. If someone could tell me how to do it here or give me a tutorial video that would be helpful, that would be great.",
-            "I attempted to make a post about a Pegasus Frontend theme I have been working on as this seems like a community that may use it and I could get feedback for improvements and bug fixes. However, the post is getting automodded.\n\n[Pegasus Frontend - struceOS](https://github.com/strucep/struceOS-Pegasus-Theme)",
             "What would be the best gamepad for emulating Nintendo consoles on PC? What I mean is a gamepad with the Nintendo button scheme (X on top, Y on left, etc) and triggers named R, ZR, etc\n\nDoes anything like this exist?",
-            "Me and some associates managed to get our hands on a... well, might be a bit of an overstatement to call it a lost game. But it's one we wanna get HD footage of.\n\nStargate SG-1: Unleashed. Episode 2. Only released on iOS. We recently got our hands on a backup of the now delisted game. Reverse engineering the episode onto the Android version of the game is out of the question right now. So does anyone know of an iOS Emulator we can use?\n\nProbably one that can emulate a 2013 or 2014 OS.",
-            "Additional question copied from a post about a month old that nobody ever responded to:\nI\u2019m trying to use controllers on Mednafen, but can never seem to get it to respond properly. I\u2019ll have to check the frontend I\u2019m using, but it only seems to work with my SteelSeries Stratus Duo, and even then I can\u2019t set up my own control mappings, which means I\u2019m stuck with the default, which uses the joystick instead of the D-Pad - needless to say, it does not work very well. I tried using a USB SNES controller, hoping it would recognize it, but it didn\u2019t, and I can\u2019t seem to select a specific input device to use like Dolphin. I just have to rely on its own autodetection. Does anybody know how to fix this? I hate how uncooperative this can be, I really wish Saturn emulation was more readily available.\n\nEdit: My frontend is Mednaffe",
-            "This might never be answered but I am running outta patience and options. I am setting up ModLoader64 to play LOZ Majora's Mask with a friend. Everything is literally just fine, it runs well, connects. The only god damn problem is that for some reason Mod Loader 64 doesn't recognize my XBOX ONE controller and I have no idea why. I tried replugging controller, launching ModLoader with Administrator, rebooting my pc, nothing seems to work. Even after all that, when i go to Input Config, and the I press on Device, it only shows me the keyboard, nothing else. Does anyone know what can I do to fix this and play?"
+            "This might never be answered but I am running outta patience and options. I am setting up ModLoader64 to play LOZ Majora's Mask with a friend. Everything is literally just fine, it runs well, connects. The only god damn problem is that for some reason Mod Loader 64 doesn't recognize my XBOX ONE controller and I have no idea why. I tried replugging controller, launching ModLoader with Administrator, rebooting my pc, nothing seems to work. Even after all that, when i go to Input Config, and the I press on Device, it only shows me the keyboard, nothing else. Does anyone know what can I do to fix this and play?",
+            "I need help with setting up controls for Fusion on keyboard.\nGuide did not work, both site and vid tutorial",
+            "Just kind of a general question--what's the best way to reduce PS2 input lag?",
+            "Ive been trying to figure out how to emulate 3ds games for fire emblem specifically. I think I was able to get the emulator citra for it, but for some reason it cant load the rom. Not sure if I did something wrong with the download there. Any tips?",
+            "Hello all, I'm used to using my phone for GBC emulation, but I'm honestly wanting something more tactile. Like a dedicated piece of hardware. Does anyone know a hardware emulator that mimics the feel of the original GBC?"
+        ]
+    },
+    "melonPrimeDS - fork of melonDS DS emulator that adds keyboard & mouse support to Metroid Prime Hunters, similar to PrimeHack": {
+        "title": "melonPrimeDS - fork of melonDS DS emulator that adds keyboard & mouse support to Metroid Prime Hunters, similar to PrimeHack",
+        "score": 72,
+        "url": "https://github.com/makidoll/melonPrimeDS",
+        "content": "",
+        "num_comments": 4,
+        "comments": [
+            "Anyone know if this can do multiplayer?",
+            "That's nice.\n\nI always thought DS and 3DS emulators needed to add built-in advanced inputs, to map complex touch inputs to physical buttons... things like MelonPrimeDS does.",
+            " Impressive development from makidoll."
         ]
     },
     "ES-DE Frontend (EmulationStation Desktop Edition) for Android is now available on Huawei AppGallery! Note that this does not currently include sales in China, but we hope to be able to publish there at some point in the future!": {
         "title": "ES-DE Frontend (EmulationStation Desktop Edition) for Android is now available on Huawei AppGallery! Note that this does not currently include sales in China, but we hope to be able to publish there at some point in the future!",
-        "score": 47,
+        "score": 43,
         "url": "https://es-de.org/",
         "content": "",
         "num_comments": 15,
         "comments": [
-            "I really like ES-DS on PC. Does the Android version work well with Android TV, specifically Nvidia Shield? And also, is there a way to install it on Nvidia Shield as a one time purchase w/ updates, or does it require a Patreon sub?\n\nAnd also, any plans for a UWP port perhaps for Xbox dev mode?\n\nThanks!",
-            "Here's a direct link to the store listing:  \n[https://appgallery.huawei.com/#/app/C111315115](https://appgallery.huawei.com/#/app/C111315115)",
             "Ill check it out, I bounced off bigbox so I kind of gave up on the idea but  Ive heard good things from this one so why not",
             "what the top 3 frontends for android nowdays? i play mame, pcsx2, dreamcast, switch.",
             "/u/ES-DE_Frontend  Are you able to look into this bug?\n\nWhen the android keyboard is used anywhere in ES-DE (eg: editing a game's metadata where you need to input text), it gives a green border around the whole screen. The border stays there until you restart ES-DE.",
-            "Any plans for ios?",
-            "Yes ES-DE runs on the Nvidia Shield but just keep in mind that due to the limited amount of RAM on this device huge game collections or demanding themes may not work that well. There are no subscriptions required for ES-DE, if you buy it once you get future updates, that goes for all ways ES-DE are sold including on Patreon.\n\nI have no plans for supporting Xbox consoles or any devices that require hacking or development mode and so on for apps to be installed.",
-            "There is unfortunately nothing I can do about that, the issue is in the SDL library and I've reported the bug to them quite some time ago but so far they have not looked into it. This is also covered by the Android FAQ:  \n[https://gitlab.com/es-de/emulationstation-de/-/blob/master/FAQ-ANDROID.md?ref\\_type=heads#can-i-use-the-android-soft-keyboard-to-enter-text-using-touch-and-swiping](https://gitlab.com/es-de/emulationstation-de/-/blob/master/FAQ-ANDROID.md?ref_type=heads#can-i-use-the-android-soft-keyboard-to-enter-text-using-touch-and-swiping)",
             "I don't know if something like ES-DE could even run on iOS due to all the security restrictions on that platform, but it would be interesting to at least look into the possibility at some point.",
-            "ok thanks for the reply.. hopefully they can have a fix for this soon."
+            "ok thanks for the reply.. hopefully they can have a fix for this soon.",
+            "Now that emulators are a thing on the AppStore it would interesting.",
+            "Yes I agree, with Apple no longer being officially hostile towards emulation there are new opportunities. The problem with the actual operating system remains though, that it's so locked down which likely limits what can be done on the platform.",
+            "Will ES-DE ever make its way towards tvOS?",
+            "I really like ES-DS on PC. Does the Android version work well with Android TV, specifically Nvidia Shield? And also, is there a way to install it on Nvidia Shield as a one time purchase w/ updates, or does it require a Patreon sub?\n\nAnd also, any plans for a UWP port perhaps for Xbox dev mode?\n\nThanks!",
+            "Any plans for ios?"
         ]
     },
     "ares v139 release": {
         "title": "ares v139 release",
-        "score": 103,
+        "score": 104,
         "url": "https://ares-emu.net/news/ares-v139-released",
         "content": "",
         "num_comments": 22,
         "comments": [
-            "I really want to point out the progress made on the NES core this release (and the last release really). At this point the NES core is just about on par with Mesen in turns of accuracy (Mesen still has more unlicensed/aftermarket mapper support though). But a fairly new contributor took it upon themselves to really improve the NES core and has done a tremendous job. Both the APU and PPU pretty much pass all known tests at this point, and the entire licensed library runs as intended with no known glitches, which moves ares into the forefront of accurate NES emulators now. \n\nAnother contributor has been working hard on the Gameboy Advance core as well making excellent progress. ares now is close to passing the AGS Aging Cartridge test rom, and is doing much better compared to other well known GBA emulators.   \n  \nLots of ares cores are in the upper echelon of accurate emulators, but its always great to see new contributors show up and really work at improving some cores that typically don't get a lot of attention. Everyone really appreciates the time and commitment these folks put in to improving these cores. \n\nWould love to see someone or someones show up and pick up the PC-Engine & CD-ROM and really push that core forward. They are not in terrible shape, but really need someone familiar with these systems to complete support. The Famicom Disk System also needs a tiny bit of love - there seems to be an issue with swapping disks with some games that needs some attention that would correct most remaining games. And there a few cores that have a few games with issues that would be nice to wrap up, like a handful of Game Gear games that need improvements to EEPROM emulation. Lots of opportunity to contribute, so if you have the necessary skills it is easy to get involved.",
-            "ares v139 has now been released.\n\nSince v138, a total of 13 contributors have created 67 commits to the ares codebase.\n\nIf you wish to see the full changelog in a per-commit format along with their authors, similarly to how previous release notes were written, you can do so on GitHub [here](https://github.com/ares-emulator/ares/compare/v138...v139).\n\n**Bandai - WonderSwan / WonderSwan Color**\n\n- Improve EEPROM emulation accuracy\n\n**Nintendo - NES / Famicom**\n\n- Fix DMA interrupt\n- Various PPU improvements: most (all?) current PPU accuracy test roms now pass!\n- Improve emulation of MMC3: fixes test roms and crashes in Mickey's Safari & Incredible Crash Dummies\n- Fix missing scanlines in Burai Fighter (USA) (last known rendering bug!)\n- Fix MC-ACC IRQ timing\n- Add support for mapper 150 (UNL-SACHEN-74LS374N)\n- Add support for mapper 229 (UNL-BMC-31-IN-1)\n- Add support for mapper 225/255 (UNL-BMC-128)\n- Add support for mapper 172 (TXC-22211B)\n- Add support for mapper 132/173 (TXC-22211A/C)\n- Add support un-headered roms with the .unh extension (note: uses internal database; unknown roms will not work, headered roms are still preferred)\n  \n\n**Nintendo 64 / Nintendo 64 DD** \n \n- Disable run-ahead for 64DD; fixes an issue that caused 64DD games to fail to boot.\n \n**Nintendo - Game Boy Advance**\n\n- Improve VRAM mirroring in bitmap background modes\n- Implement 1-cycle timer latch behavior\n- Improve BIOS open bus edge case emulation\n- Increase synchronisaton between comonents: slight performance loss for measurable accuracy gain in irq dma tests\n- Improve video capture DMA such that it only runs if enabled on scanline 162 of previous frame\n\n**Sega - Mega Drive / Genesis / CD / 32X**\n\n- Implement correct SH2 clocks for PAL/NTSC 32X\n- Improve 32X PWM volume/mixing by taking configured cycle rate into account\n\n**User Interface**\n\n- Improve driver settings and full-screen behavior on macOS\n- Fix an issue where IPS patches that extend the rom would fail to apply\n- Fix an issue where changing the video driver may not correctly apply settings\n- Support \"Default\" as a device with the WASAPI driver on Windows (Win10 only)\n- Fix an issue where some settings would not persist on non-english locales",
             "Excellent news, good update. I wish Ares would implement RetroAchievements.",
-            "I wish .7z support would get implemented. I don't even know if other archive file types work; Mesen takes everything I throw at it but it has no Genesis support at the moment.",
             "Great stuff as always. \n\nI have an issue though. I'm using the 'crt maximum royale' shader that came with ares and it works beautifully on NES games. However, when it comes to SNES games it makes the screen jump up and down too much. Any settings or pointers to mitigate the issue?",
             "> Disable run-ahead for 64DD; fixes an issue that caused 64DD games to fail to boot.\n\nIs this a temporary fix? Is there hope for run-ahead for 64DD?",
             "Thanks Luke and all contributors.\nDolphin has a nice auto updater. Is there something on the map ? Mgba updater is less detailed but would also do the job",
-            "I suppose I could try to find the Discord for an answer to this but is an option to save shaders on a per-core basis possible or in the works? (And, needless to say, really great work on ares, which is totally a pleasure to use.)",
             "what are the recommended drivers and settings for minimal input lag on Windows without enabling run-ahead?",
-            "RetroAchievements is on the roadmap, but unfortunately, we are blocked by a design flaw with the RetroAchievments system.\n\nFor a long time, RetroArch was the only frontend/suite that supported retro achievements, and this has led to achievements for some systems accidentally relying on internal implementation details of various emulators: specifically how they represent guest memory.\n\nSome emulators store memory in the same endianness (byte order) as the real console, and others byte swap as a performance optimisation and/or a way to simplify the code.\n\nMany achievements written for big-endian platforms (MegaDrive, N64, etc) are assuming little-endian byte order and are incompatible with emulators that maintain original guest byte order.\n\nI/we are reluctant to implement RetroAchievements until this is resolved.\n\nSee https://github.com/RetroAchievements/rcheevos/issues/302 for further discussion."
-        ]
-    },
-    "ES-DE Frontend (EmulationStation Desktop Edition) 3.0.3 is now available for download! This release enables a lot of new systems on Android and also adds experimental home app support. Other changes include new theme engine functionality, KMS support on Linux, bug fixes and more supported emulators.": {
-        "title": "ES-DE Frontend (EmulationStation Desktop Edition) 3.0.3 is now available for download! This release enables a lot of new systems on Android and also adds experimental home app support. Other changes include new theme engine functionality, KMS support on Linux, bug fixes and more supported emulators.",
-        "score": 96,
-        "url": "https://es-de.org/",
-        "content": "",
-        "num_comments": 37,
-        "comments": [
-            "Thanks. Now I just wish there were a way to have obtainium be able to handle checking updates and installing from Patreon...",
-            "Anyone who can shed some light on the experimental home app support?",
-            "I wish you guys could implement a different way to get the ROMs folders, or at least to allow to add m\u00faltiple folders per emulator",
-            "Great work!",
-            "Great to see the ongoing support.",
-            "I've used ES-DE from the Retropie days! I've also made some custom themes for it! Top notch!\n\nSorry if is a silly question, but...ES-DE for Android has emulators bundled with the installer? Or I should install/configure them by myself?",
-            "please add \"attract mode\".",
-            "Very nice! \n\nWill there ever be a \u201euniversal close\u201c emulator key like we have in Retrobat? Or is there one already?",
-            "Arguably for a large feature change it should've been at least version 3.1.0",
-            "Is it possible to launch android apps from emulation station?"
+            "Thank you for the information. I hope it does get resolved soon. Once it does, bye bye RetroArch.",
+            "RetroAchievements also obfuscates what you need to do to implement it.  I think you'd see a lot wider adoption if there was just an SDK on Github or something.",
+            "This is part of the problem. It is also a large library to bring in. It isn't really common to come across this either. Zip is much more common. \n\nWith that said, there is an open issue so maybe one day it will happen, but it isn't a high priority.",
+            "Do they do that on purpose, or is it just a case of \"here's how it works, figure it out\"?",
+            "bit7z is just a library loader with yet another abstraction on top, it doesn't do any actual decompression itself."
         ]
     }
 }

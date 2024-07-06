@@ -1,63 +1,56 @@
 {
     "Thanks doc": {
         "title": "Thanks doc",
-        "score": 34,
+        "score": 57,
         "url": "https://i.redd.it/ytm9a8ue0f9d1.png",
         "content": "",
         "num_comments": 0,
         "comments": []
     },
+    "I'm kinda surprised by the lack of fake news this time around": {
+        "title": "I'm kinda surprised by the lack of fake news this time around",
+        "score": 2,
+        "url": "https://www.reddit.com/r/artificial/comments/1drcss9/im_kinda_surprised_by_the_lack_of_fake_news_this/",
+        "content": "I mean not that i want them. I'm not in the deep end of facebook so maybe there's still plenty of awful stuff, but considering how advanced deep fakes should look by now, and all the tools for decent image generation, i was expecting an overload of fake stuff for the next elections.\n\nThings feel.. kinda calm? what's going on?",
+        "num_comments": 0,
+        "comments": []
+    },
+    "We need a moores law on AI power and accuracy.": {
+        "title": "We need a moores law on AI power and accuracy.",
+        "score": 2,
+        "url": "https://www.reddit.com/r/artificial/comments/1drab84/we_need_a_moores_law_on_ai_power_and_accuracy/",
+        "content": "I'm suggesting that at the moment we are     progressing in between vacuum tube transistors and silicone transistors for AI  Efficiency. We are at a Nokia 9110 level compared to later Iphone 14's.  Accuracy rates and energy efficiency will double year on year at least until 2030, and then AI can design itself, chemicals, maths, so... who knows? There are some graphs and studies? The music and video are going up 250% year on year.",
+        "num_comments": 2,
+        "comments": [
+            "Don't encourage Congress-- they're already planning to legislate AI . . . <g>",
+            "It's called the singularity"
+        ]
+    },
     "Dario Amodei says AI models \"better than most humans at most things\" are 1-3 years away": {
         "title": "Dario Amodei says AI models \"better than most humans at most things\" are 1-3 years away",
-        "score": 157,
+        "score": 165,
         "url": "https://v.redd.it/l72foa32l99d1",
         "content": "",
-        "num_comments": 78,
+        "num_comments": 79,
         "comments": [
             "Have you MET most humans? I'd suggest it's closer than that...",
-            "[deleted]",
-            "He was great in The Americans",
             "ChatGPT 4o is equivalent to a graduate student in terms of the specific highly technical scientific knowledge that I an an expert in.    It knows some things, but the problem is it doesn't know when to admit to that it doesn't know something-- instead always coming up with an answer, even if completely hallucinated.",
             "\"Guy who sells things says they're going to be good.\" Wow, that sure does deserve its own headline.",
-            "Most humans will not be able to do anything better than AI. Most humans. AI will be cheaper, and superior at most things. \n\nThis is not like industrial revolution. It's far far far far far worse. \n\nThings will get bad.",
+            "He was great in The Americans",
             "Cool, so that means AI can replace CEOs and those higher paid management roles, right? Why switch to AI when certain roles require human-to-human interaction and is often preferred, when no one, not customers or staff, really needs/wants to interact with upper management? The way I see it, the higher up the pecking order you go, the greater the need and ease it would be to replace those people with AI.",
             "A hammer is better than my hand at driving nails into wood. That's how tools work.",
-            "OK, here are some *things* I plan to do today:\n\n* grocery shopping.\n* take the dog for a walk.\n* eat lunch.\n* call my grandma.\n\nI wonder which of these things AI might be better at than me in 1-3 years time?  Point being, I think \"most things\" is a much wider class of problems than people like Dario Amodei imagine - and often require you to be a physical agent in the world.",
-            "LMAO they are trained on billions of images and can't even draw hands correctly without additional tricks. Current AI are very good statistical models and have a mind blowing amount of training data but are still unable to reason."
+            "LMAO they are trained on billions of images and can't even draw hands correctly without additional tricks. Current AI are very good statistical models and have a mind blowing amount of training data but are still unable to reason.",
+            "This doesn't even mean anything. Most humans and most computers are better than me at most things now.",
+            "$10 or $100B to train a model? Is he being deliberate with those numbers or just throwing out some order of magnitude numbers?",
+            "100 years before the singularity, things were good and people were happy. 100 years afterwards, things are good and people are happy. I'm afraid the 100 years in between will be hell..."
         ]
     },
     "One-Minute Daily AI News 6/28/2024": {
         "title": "One-Minute Daily AI News 6/28/2024",
-        "score": 2,
+        "score": 4,
         "url": "https://www.reddit.com/r/artificial/comments/1dr2nka/oneminute_daily_ai_news_6282024/",
         "content": "1. **Amazon**\u00a0beefs up AI development, hiring execs from startup Adept and licensing its technology.\\[1\\]\n2. **Gemini**\u00a01.5 Pro 2M context window, code execution capabilities, and Gemma 2 are available today.\\[2\\]\n3. **Microsoft**\u00a0AI boss Mustafa Suleyman incorrectly believes that the moment you publish anything on the open web, it becomes \u201cfreeware\u201d that anyone can freely copy and use.\\[3\\]\n4. Chinese search engine giant\u00a0**Baidu**\u00a0on Friday unveiled an upgraded version of its artificial intelligence (AI) model, Ernie 4.0 Turbo, as it seeks to maintain its position in China\u2019s competitive AI market.\\[4\\]\n\nSources:\n\n\\[1\\] [https://www.cnbc.com/2024/06/28/amazon-hires-execs-from-ai-startup-adept-and-licenses-its-technology.html](https://www.cnbc.com/2024/06/28/amazon-hires-execs-from-ai-startup-adept-and-licenses-its-technology.html)\n\n\\[2\\] [https://developers.googleblog.com/en/new-features-for-the-gemini-api-and-google-ai-studio/](https://developers.googleblog.com/en/new-features-for-the-gemini-api-and-google-ai-studio/)\n\n\\[3\\] [https://www.theverge.com/2024/6/28/24188391/microsoft-ai-suleyman-social-contract-freeware](https://www.theverge.com/2024/6/28/24188391/microsoft-ai-suleyman-social-contract-freeware)\n\n\\[4\\] [https://finance.yahoo.com/news/baidu-launches-upgraded-ai-model-103349224.html](https://finance.yahoo.com/news/baidu-launches-upgraded-ai-model-103349224.html)",
         "num_comments": 1,
         "comments": []
-    },
-    "Dan Cane: AI Loves Forever.": {
-        "title": "Dan Cane: AI Loves Forever.",
-        "score": 22,
-        "url": "https://v.redd.it/h08wau7vrb9d1",
-        "content": "",
-        "num_comments": 7,
-        "comments": [
-            "Ai clips get tedious. Still cool for what it is. I'm not going to be too excited for this generation ai's clips. May be it can generate custom looped gifs. That could be cool. Not very enjoyable as movie scene clips.",
-            "Not bad - James Bond spoof.   Too bad they couldn't do the Albert Broccoli-style opening credits with actual nudes, as Broccoli did, but that's nerf for you.\n\nInfact, there's an idea for a spy film.   The diabolical bad-guy organisation is called \"NERF\".   I couldn't think of what it should stand for so I asked GPT 4o...\n\nNational Elite Reformation Force\n\nNetwork of Espionage and Radical Forces\n\nNew Era Revolutionary Front\n\nNotorious Executive Rogue Federation\n\nNefarious Elite Rebellion Faction\n\nNational Extermination and Reclamation Front\n\nNetwork of Enigmatic Rogue Fiends\n\nNeo-Evil Reformation Front\n\nNotorious Elite Reformation Front\n\nNexus of Espionage and Revolutionary Forces",
-            "This was made with Midjourney (images), Photoshop (image editing), Dall-E (additional images), Luma (movement), Runway (lip syncing), Udio (music), Elevenlabs (voices) and Premiere (video editing). I hope you enjoyed!",
-            "One of the things that a lot of people are saying is that \"AI video is the worst it will ever be, right now.\"",
-            "I swear I hear Obama.",
-            "When will they stop being like a bad dream?",
-            ">Too bad they couldn't do the Albert Broccoli-style opening credits with actual nudes, but that's nerf for you.\n\nI should maybe do a director's cut! My guess is it could have worked (MagnificAI can be used for very creative \"repainting\" of images), though I'm unsure if it's against Luma's terms. Will have to ask them eventually!\n\nAnd cheers!"
-        ]
-    },
-    "(open-source) implementation of OpenAI Whisper 100% on-device": {
-        "title": "(open-source) implementation of OpenAI Whisper 100% on-device",
-        "score": 18,
-        "url": "https://v.redd.it/feuj3h1hbb9d1",
-        "content": "",
-        "num_comments": 1,
-        "comments": [
-            "Here's an implementation of the Whisper transcription model from OpenAI running 100% locally (no API calls, just unplug the wifi). This model is the tiny one (still f32 precision), but other variants can be used too.\n\nThis is built using Svelte and electronJS, the inference is done using Ratchet, a tool to run models in-browser (WASM module compiled from Rust).\n\nRepo: [https://github.com/Hugo-Dz/on-device-transcription](https://github.com/Hugo-Dz/on-device-transcription)"
-        ]
     }
 }

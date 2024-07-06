@@ -1,63 +1,70 @@
 {
+    "Having issues getting an old USB TV device to work": {
+        "title": "Having issues getting an old USB TV device to work",
+        "score": 3,
+        "url": "https://www.reddit.com/r/debian/comments/1drd0kv/having_issues_getting_an_old_usb_tv_device_to_work/",
+        "content": "Hi, I'm leaving this here in case someone has experience or solution to getting it working,\n\nhttps://preview.redd.it/93gqgxkkxi9d1.jpg?width=1266&format=pjpg&auto=webp&s=9702f635768726b751b6609f2c93308edab59619\n\nOS: Debian 12.5  \nDVB USB TV Device Model: Artec T1 TV Box (USB 1.1) (Ultima Electronics Corp.)  \nDemodulator chip: DIBcom 3000-M  \nUSB microcontroller: CYPRESS CY7C64613  \n  \n`$>lsusb` (info when first plugged:)  \nBus 002 Device 007: ID 0547:2235 Anchor Chips, Inc. AN2235 EZUSB-FX Microcontroller  \n|\\_\\_ Port 5: Dev 7, If 0, Class=Vendor Specific Class, Driver=**usbtest**, 12M\n\nDriver=usbtest and vendor are incorrect as sites below state module: dvb-usb-dibusb-mb    \n[https://www.linuxtv.org/wiki/index.php/DVB-T\\_USB\\_Devices](https://www.linuxtv.org/wiki/index.php/DVB-T_USB_Devices)  \n[https://wiki.debian.org/DeviceDatabase/USB](https://wiki.debian.org/DeviceDatabase/USB)  \n  \nBlacklisted *usbtest*   \n`$>nano /etc/modprobe.d/blacklist-usbtest.conf`  \n`$> depmod\u00a0-ae`  \n`$>update-initramfs -u`   \nReboot\n\n$>dmesg  \n\\[ 11.974196\\] usb 2-1.5: firmware: failed to load dvb-usb-dibusb-an2235-01.fw (-2)   \n\\[ 11.974224\\] firmware\\_class: See [https://wiki.debian.org/Firmware](https://wiki.debian.org/Firmware) for information about missing firmware \\[ 11.974254\\] usb 2-1.5: firmware: failed to load dvb-usb-dibusb-an2235-01.fw (-2)   \n\\[ 11.974270\\] usb 2-1.5: Direct firmware load for dvb-usb-dibusb-an2235-01.fw failed with error -2   \n\\[ 11.974281\\] dvb\\_usb\\_dibusb\\_mb: probe of 2-1.5:1.0 failed with error -22  \n  \nFirmware: dvb-usb-dibusb-an2235-01.fw was missing in /lib/firmware/   \nFound it upon an internet search and copied it in that location and reboot.\n\n`$>lsusb`  \n`Bus 002 Device 006: ID 10b8:0bb9 DiBcom DVB-T reference design (MOD300) (warm)`  \n`|__ Port 5: Dev 6, If 0, Class=Vendor Specific Class,` Driver=**dvb\\_usb\\_dibusb\\_mb**`, 12M`  \n  \nUnfortunately still without luck with Kaffeine.  \n  \n$>dmesg  \n\\[ 11.554170\\] dvb-usb: found a 'Artec T1 USB1.1 TVBOX with AN2235 (faulty USB IDs)' in cold state, will try to load a firmware   \n\\[ 11.730102\\] usb 2-1.5: firmware: direct-loading firmware dvb-usb-dibusb-an2235-01.fw   \n\\[ 11.791820\\] usbcore: registered new interface driver dvb\\_usb\\_dibusb\\_mb   \n\\[ 11.951168\\] usb 2-1.5: USB disconnect, device number 4   \n\\[ 11.951210\\] dvb-usb: generic DVB-USB module successfully deinitialized and disconnected.   \n\\[ 13.831678\\] dvb-usb: found a 'DiBcom USB1.1 DVB-T reference design (MOD3000)' in warm state.   \n\\[ 13.848218\\] dvb-usb: will use the device's hardware PID filter (table count: 16).   \n\\[ 13.849111\\] dvbdev: DVB: registering new adapter (DiBcom USB1.1 DVB-T reference design (MOD3000)) \\[ 13.849121\\] usb 2-1.5: media controller created   \n\\[ 13.849165\\] dvbdev: dvb\\_create\\_media\\_entity: media entity 'dvb-demux' registered.   \n\\[ 14.120312\\] dvb-usb: recv bulk message failed: -11\n\n$>syslog   \n\\[ 2164.914544\\] dvb-usb: bulk message failed: -32 (1/0)   \n\\[ 2164.914556\\] dvb-usb: error while querying for an remote control event.   \n\\[ 2164.915270\\] usb 2-1.5: USB disconnect, device number 7   \n\\[ 2164.946779\\] dvb-usb: DiBcom USB1.1 DVB-T reference design (M successfully deinitialized and disconnected.   \n\\[ 14.120312\\] dvb-usb: recv bulk message failed: -11   \n\\[ 14.120332\\] dvb-usb: no frontend was attached by 'DiBcom USB1.1 DVB-T reference design (MOD3000)' \\[ 14.123353\\] input: IR-receiver inside an USB DVB receiver as /devices/pci0000:00/0000:00:1d.0/usb2/2-1/2-1.5/input/input19 \\[ 14.123440\\] dvb-usb: schedule remote query interval to 150 msecs.   \n\\[ 14.148228\\] dvb-usb: DiBcom USB1.1 DVB-T reference design (MOD3000) successfully initialized and connected.\"\n\n*no frontend was attached* ?\n\n$>ls /dev/dvb/adapter0/   \nnet0  dvr0  demux0  \nI think *frontend0* file is missing in the directory, not sure how proceed.",
+        "num_comments": 0,
+        "comments": []
+    },
+    "Should I try Debian?": {
+        "title": "Should I try Debian?",
+        "score": 37,
+        "url": "https://www.reddit.com/r/debian/comments/1dqupj7/should_i_try_debian/",
+        "content": "Should I try Debian? I have used Linux mint cinnamon for 4 months, I like using but kinda wanted to do reinstall it, but I also want to try Debian with KDE for a while.\n\nMy use of OS is programming,  using browser alot, and gaming.\n\nI have read that gaming on Debian is not good, but games I play are bit older, and don't play much  multiplayer games. It's mostly some indie game or old game (old like 3 or more year old) that doesn't require high end hardware.\n\nAlso I tried on Virtual-box and a live USB, network worked fine, was able to use browser, I think I had bit problem on virtual-box with audio but as much I remember on live USB it worked fine.\n\nMy reason to consider installing Debian is just that I want to try KDE, mint does everything I need but trying new stuff is fun.\n\nMy concern is with games working properly, not much trouble with drivers.\n\nAlso is using KDE with Debian good idea?  if not is there better option of DE for Debian.\n\nEdit : I forgot to add in post that I have NVIDIA GPU and AMD CPU.",
+        "num_comments": 65,
+        "comments": [
+            "I think everyone should try Debian. Its a solid everyday driver that you can customise as much or as little as you need; my install is tweaked for music production for example but its also what I boot to just to check emails and that sort of thing. That said, I have a Garuda install that Im using for gaming, its just easier to get there on a gaming-focused distro. Totally doable on Debian mind you, especially with backports, just more time and trial and error.",
+            "I dont game but Ive been on Debian Testing with LXQt and Labwc for months without a problem. I fiddle with programming and its been great.",
+            "I'm using KDE on Debian and really happy with it. If you install NVIDIA proprietary driver it will work just same as on other distros.\n\nHowever, if your main purpose is just to do a \"distro hop\" and try KDE, You can also consider KDE neon or rolling release distros as they have latest KDE. You know, Debian is a distro which is focusing on stability.",
+            "If you a Nvidia user, search for installing your drivers firstly. I am a Debian 12 user after 2 years experience of Ubuntu, my biggest problem was Nvidia drivers.",
+            "I just installed debian after trying ubuntu, mint and kubuntu and i can say this is great! It's an OS straight from heaven. It doesn't have any bugs and problem.\nI suggest you try it",
+            "Bern using Debian + KDE since Debian potato. Works wonderfully. Nvdia and steam as well.",
+            "I've used Debian since Etch(4.0).  I like it a lot.  KDE-plasma is awesome; I use that on my Debian 12 workstation and laptops.",
+            "Ok, so I haven't used Linux Mint before and might just be confused, but can't you just...install...kde on Linux Mint?",
+            "If you want to try KDE Plasma 6.0 or 6.1, maybe Fedora would be a better choice. Even Debian Testing is still on 5.27. And somehow, I think Debian + KDE hasn't been the best combo when I've tried it, but maybe I just don't like KDE.",
+            "Debian is fairly DE agnostic. It's not like Ubuntu or Fedora where the main release has one and others maintain alternatives. Debian will just roll with whatever DE you throw at it. Barring some really lesser known ones. \n\nGaming on Debian is about the same as any other distro of Linux. As always though every game is going to be different. Some work flawlessly on Linux while others need some customization to work well and others are just a no go period. So checking sources like Lutris, ProtonDB, or WineAppDB might be helpful for you get an idea. If the games worked on Linux Mint then you shouldn't have any issues running them on Debian."
+        ]
+    },
     "Long beep after login": {
         "title": "Long beep after login",
         "score": 4,
         "url": "https://v.redd.it/4ym9s6ofyg9d1",
         "content": "Hi everyone, I installed Debian recently. I am facing this problem. At login, after I enter the password, system takes lot of time to come up. Once a long beep, then it comes up. Attached video.\n\nPlease let me know if any logs I can provide.\n\nI have ubuntu & windows isntalled on same system BUT different SSD, they are fine and quick to login.\n\nThanks.",
-        "num_comments": 1,
+        "num_comments": 5,
         "comments": [
+            "Long beep?  That's a long \\*ss video for way less than one second of beep.",
+            "Something to do with video card; check boot logs",
+            "Thanks. I'll check that. It has a lot of logs. Trying to pinpoint.",
+            "Yes, the '-b' limits the logs to only the current startup (oh and pressing end on your keyboard should take you to the bottom of the logs, and then you can scroll back up with the up key)",
             "That's bizarre. It sounds like a [pc speaker beep](https://en.wikipedia.org/wiki/PC_speaker), this is usually associated with firmware and hardware issues. Perhaps take a look through your boot logs with `sudo journalctl -b` scroll down using the down or enter key to near the end and look for the timestamps surrounding the time when the beep happened and see if there are any obvious error messages which might help to diagnose the problem. If you find an error but don't know what it is, paste it here and I'll try to help."
         ]
     },
-    "Should I try Debian?": {
-        "title": "Should I try Debian?",
-        "score": 26,
-        "url": "https://www.reddit.com/r/debian/comments/1dqupj7/should_i_try_debian/",
-        "content": "Should I try Debian? I have used Linux mint cinnamon for 4 months, I like using but kinda wanted to do reinstall it, but I also want to try Debian with KDE for a while.\n\nMy use of OS is programming,  using browser alot, and gaming.\n\nI have read that gaming on Debian is not good, but games I play are bit older, and don't play much  multiplayer games. It's mostly some indie game or old game (old like 3 or more year old) that doesn't require high end hardware.\n\nAlso I tried on Virtual-box and a live USB, network worked fine, was able to use browser, I think I had bit problem on virtual-box with audio but as much I remember on live USB it worked fine.\n\nMy reason to consider installing Debian is just that I want to try KDE, mint does everything I need but trying new stuff is fun.\n\nMy concern is with games working properly, not much trouble with drivers.\n\nAlso is using KDE with Debian good idea?  if not is there better option of DE for Debian.\n\nEdit : I forgot to add in post that I have NVIDIA GPU and AMD CPU.",
-        "num_comments": 52,
+    "ADVICE: Share device folder, directly or mounted folder, indirectly?": {
+        "title": "ADVICE: Share device folder, directly or mounted folder, indirectly?",
+        "score": 0,
+        "url": "https://www.reddit.com/r/debian/comments/1drc7o3/advice_share_device_folder_directly_or_mounted/",
+        "content": "Advice appreciated - pros / cons of NAS sharing a /dev/999xd9agase987 vs mounted in /media/shared (just example). \n\nIs there benefits / drawbacks to one or other? especially concerning the way files and folders permissions are affected, and or any security related issues.\n\nThanks world!",
+        "num_comments": 1,
         "comments": [
-            "Gaming on Debian is fine, you have to jump through a few extra steps to install something like Steam or the latest Wine.  Debian doesn't support proprietary software by default, you have to enable the repos for it.  After that you can go crazy with whatever software you want like any other distro.  The key feature of Debian it's stable, you don't have to sweat every time the update icon lights up.  You will only see security updates, no feature stuff will get pushed on you.",
-            "Debian is my favorite",
-            ">try Debian with KDE\n\n*Lots* of choices (and freedom!) with Debian.  So yes, many DEs and WMs, pick one, or several, or even none, depending what one prefers - no need to change distros.\n\n>programming\n\nDebian's generally excellent for that.\n\n>browser\n\nMost any distro can do that quite well - Debian's no exception there.\n\n>gaming\n\nIf your needs aren't too extreme, Debian's likely fine for that.  Even if the needs are more extreme, Debian may still do quite well there.\n\n>reason to consider installing Debian is just that I want to try\n\nDebian offers *many* choices.  Want [systemd?  There by default.  Don't like systemd, want some other init system, easy enough, no need to change distros.  I've got both Debian systemd, and non-systemd hosts I support](https://www.reddit.com/r/debian/comments/1dfy38r/comment/l8rfp3b/).  Want small and lean - [I've got bare bones Debian with only 148 packages installed](https://www.reddit.com/r/linuxquestions/comments/1ct25t6/comment/l49pb9u/).  Want more?  Sure, [64,419 packages](https://www.debian.org/News/2023/20230610) to choose from.\n\nSee also:\n\n[Debian wiki: Debian Systems Administration for non-Debian SysAdmins](https://wiki.debian.org/Debian_Systems_Administration_for_non-Debian_SysAdmins)",
-            "I use Debian with KDE and I like it. You'll want the NVIDIA drivers, following [Debian's directions for installing them](https://wiki.debian.org/NvidiaGraphicsDrivers). I've found that the Noveau drivers are more likely to crash.",
-            "I'm literally in the process of shifting 8 of my 9 computers/servers to debian. Used to all be windows. With how much windows costs, plus windows 11 requiring TPM 2.0, it would pretty much force me to buy new computers if I want to stay with windows, so that's an easy decision.\n\nHonestly, the entire experience of converting has been incredible, and an insane amount of fun. Linux today is so far from what it was in the 90s. That being said, I still have my 1 windows box for gaming, but that's about it. Even cross platform synergy works, crazy stuff.  Also KDE Plasma has been my favorite desktop experience so far. GNOME being the worst, though probably because I don't appreciate the Mac aesthetic.",
-            "> Should I try Debian?\n\nyes.. if you dont like it, you allways can switch to another system ;) try all you are interesstet in, to find the one, that fits your needs the most ;) \n\n> I have read that gaming on Debian is not good, but games I play are bit older, and don't play much multiplayer games. It's mostly some indie game or old game (old like 3 or more year old) that doesn't require high end hardware. \n\nthere is nothing preinstalled on debian for gaming - but you can install Steam and Wine - its not a big deal - especialy for indygames - also because more and more indygames have a linux version\n\n>  My concern is with games working properly, not much trouble with drivers. \n\nsince bookworm/debian 12, debian dont exclude proprietary drivers from the main installer - therefor, for hardware, that is supportet on a debian system, the installation process should install the proper drivers whitout any problems\n\n>  Also is using KDE with Debian good idea? if not is there better option of DE for Debian. \n\nKDE on Debian is unmodified, that means: its the pure KDE experience - but its not th newest version. Therefor: jap, debian is absolutly fine for KDE, if you like a stable version of KDE.. if you allways want the newest version of KDE, try KDE Neon (ubuntu based) or Arch",
-            "I think everyone should try Debian. It\u2019s a solid everyday driver that you can customise as much or as little as you need; my install is tweaked for music production for example but it\u2019s also what I boot to just to check emails and that sort of thing. That said, I have a Garuda install that I\u2019m using for gaming, it\u2019s just easier to get there on a gaming-focused distro. Totally doable on Debian mind you, especially with backports, just more time and trial and error.",
-            "Yes",
-            "Yes",
-            "I'm using KDE on Debian and really happy with it. If you install NVIDIA proprietary driver it will work just same as on other distros.\n\nHowever, if your main purpose is just to do a \"distro hop\" and try KDE, You can also consider KDE neon or rolling release distros as they have latest KDE. You know, Debian is a distro which is focusing on stability."
+            "Sharing a block device is extremely non trivial.  Share the file system via samba."
         ]
     },
-    "tnks debian !": {
-        "title": "tnks debian !",
-        "score": 11,
-        "url": "https://i.redd.it/1vuan8phnd9d1.png",
-        "content": "",
-        "num_comments": 2,
+    "Big update today? ": {
+        "title": "Big update today? ",
+        "score": 0,
+        "url": "https://www.reddit.com/r/debian/comments/1drb8v5/big_update_today/",
+        "content": "Was there a big update for a ton of packages today such as nano, python3.11 and even the kernel? I\u2019m sorry if this is just user error I\u2019m still pretty new to Debian. Let me explain. \n\nToday I was setting up my new system, and downloading a lot of flatpaks and stuff. Before I started working on that though I upgraded my system and installed nala. I liked what I saw about nala online so I decided to try it out. No updates on my system (not surprising since Debian doesn\u2019t update very often). But I did run nala fetch because I thought it sounded cool to choose the quickest mirrors. \n\nBut after I installed Distrobox, and messed with it a bit, and installed apps in a box and such I was going to shut down my computer and be done but I decided to check for updates one more time. And 74 packages needed to be updated and 1 installed (which looked like a kernel image?). So what the heck happened? Is there really a big update that got released between when I started working and when I stopped? Or did I mess something up? \n\nI am not sure what direction to go in to find out what this is all about and would appreciate any help. I tried looking on Debian\u2019s security wiki and didn\u2019t see anything for June 29th\u2026 did me using nala somehow change the selection of software my computer uses, like it started using non-free or something ? I\u2019m so confused\u2026 I didn\u2019t mess with any of those settings myself at least\u2026",
+        "num_comments": 8,
         "comments": [
-            "Kernel 6.9.7... fancy!"
+            "12.6 was released today. There hasn't been a public announcement yet AFAICT, but that will probably happen soon.",
+            "which mirror are you using?\n\ncheck your apt logs in any case?",
+            "Ahhhh that would explain it. I was like, Debian is updating, oh no I did something wrong ",
+            "Point releases of stable usually happen every 2-3 months. This one took a bit longer. Also, `apt update` tells you when a repo's version was changed, e.g. because of a point release.",
+            "Normally when big updates happens, I prefer to wait a few days to a week before upgrading. It can help avoid some mishaps like the memory corruption bug a few months ago.",
+            "Ok good to know. Thank you. Just so I can be more self-reliant, might I ask how you knew 12.6 was out today? Do you help develop it or is there somewhere I can look online to see when these updates are coming?",
+            "Awesome. Thanks.",
+            "https://lists.debian.org/debian-stable-announce/2024/06/msg00001.html"
         ]
-    },
-    "How remove Battery limit charge on debian?": {
-        "title": "How remove Battery limit charge on debian?",
-        "score": 2,
-        "url": "https://www.reddit.com/r/debian/comments/1dr1c1d/how_remove_battery_limit_charge_on_debian/",
-        "content": "Hey guys.\n\nI have a Lenovo Ideapad 3 notebook, and I used Windows 11. On Windows, I used Lenovo Vantage, a program from Lenovo that can do a lot of things, and one of those things was to limit the battery charge to 60% to preserve the battery.\n\nSo, I installed Debian 12, but I forgot to remove this limitation before installing it. Can anyone out there help me with this please?\n\np.s.: I already tried using tlp but it didn't work, and sorry for bad english.\n\nhttps://preview.redd.it/vgpjbrzldf9d1.png?width=835&format=png&auto=webp&s=3dfc58031d2fd01614edcd0696913b56daf6428a\n\n",
-        "num_comments": 5,
-        "comments": [
-            "IdeaPad's battery conservation mode switching should be[ supported with ideapad\\_laptop kernel module](https://wiki.archlinux.org/title/Laptop/Lenovo#Battery_conservation_mode) (different from ThinkPad's similar feature). Writing `0` to a specific device file will disable it.\n\nIt will looks like this (`VPC2004:00` part may vary).\n\n    # echo 0 > /sys/bus/platform/drivers/ideapad_acpi/VPC2004:00/conservation_mode",
-            "I see you tried TLP. Do you see anything in `sudo tlp-stat -b` ? That will at least show if your system has battery management support via sysfs.",
-            "I guess you could write a script to talk to upower, but I'm not sure you can prevent charge if it's not implemented in the driver.",
-            "can you do it in BIOS?",
-            "Why doesn't tlp work? What happens when you try to use tlp?\n\nAlso some laptops let you configure this in the BIOS settings."
-        ]
-    },
-    "Dual boot not working as expected ": {
-        "title": "Dual boot not working as expected ",
-        "score": 1,
-        "url": "https://i.redd.it/3kq3a1ofbf9d1.png",
-        "content": "I put debain on first in boot sequence, but when switch on my laptop it directly boots into windows. But when iam entering into BIOS - do nothing -  hit exit ,it works fine.   The os are installed in dual disks.",
-        "num_comments": 0,
-        "comments": []
     }
 }

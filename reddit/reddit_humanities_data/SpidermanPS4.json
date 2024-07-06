@@ -1,97 +1,84 @@
 {
     "Marvel\u2019s Spider-Man 2 - NG+ Update Out Now!": {
         "title": "Marvel\u2019s Spider-Man 2 - NG+ Update Out Now!",
-        "score": 523,
+        "score": 525,
         "url": "https://www.reddit.com/r/SpidermanPS4/comments/1b8y86x/marvels_spiderman_2_ng_update_out_now/",
         "content": "#IMPORTANT LINKS:\n\n[Announcement Tweet](https://twitter.com/insomniacgames/status/1765769611679797342)\n\n[Full Changelog](https://t.co/YPwgMxivZO)\n\n# WHAT'S NEW?\n\n**New Game+ (NG+) Features**\n\n- Ultimate Levels: Go beyond the base game level cap in NG+*\n\n^(*Note: Ultimate Levels are NOT tied to any difficulty)\n- Symbiote Suit Styles: Unlock new story symbiote suit styles via Ultimate Level progression\n- Golden Gadget Styles: Upgrade your gadgets with exclusive Golden looks\n- Suit Tech Fusion: Unlock both perks in a shared Suit Tech slot\n- PlayStation Trophy Unlock a new trophy for completing the story in NG+\n\n**Additional Features:**\n\n- Mission Replay: Replay *that* mission (and many others) as much as you'd like now\n- Time of Day: Change the time of day in the post-game via 'Gameplay' settings\n- Tendril Colors: Swap symbiote tendril color in the post-game via 'Gameplay' settings\n- Photo Mode - Action Figure Mode: Scale down characters for photo opportunities\n- Photo Mode - Stickers: Decorate your photos with new stickers\n- Hellfire Gala Suits: Added two new suits inspired by the Hellfire Gala designs\n- Gameheads Fly N' Fresh Suit Pack: Two new suits for Peter and Miles, plus Photo Mode content\n\n# NEW IN ACCESSIBILITY\n\n- Audio Descriptions: A narrator will describe key visuals and actions during cinematics\n- Sub Option: Volume Slider\n- Screen Reader: Audio narration relaying text across menus, tutorials, and control hints \n- Sub Options: Volume Slider, Repeat Delay Time, Repeat Delay Scale\n- Mono Audio: Combine all audio into a singular output\n- Captions: Display captions for important in-game sounds during cinematics and some gameplay \n- Sub options: Size, Color, Background Color, Background Opacity\n- In-World Text Translations: Enable text boxes to show translated in-world text\n- High Contrast Outlines: Outline friendlies and enemies with specific High Contrast colors\n- High Contrast Outlines Friendly\n- High Contrast Outlines Enemy\n- High Contrast Presets: Access preset High Contrast settings for streamlined use\n- Center Dot Color: Adjust the color of the center dot on screen\n- Aim Arc Color: Adjust the color of the arc that displays during certain moments when aiming\n- Target Arc Color: Change the color of the arc indicator when throwing certain items on target\n- Motion Sensor Aiming: Aim using the DualSense Controller's motion sensors\n- Sub Options include: Calibration & Sensitivity\n- UI Holds: Switch UI holds to toggle\n- Touch Pad in Combat: Disable the Touch Pad during combat to prevent accidental presses\nIMPROVEMENTS / FIXES\n\n# GENERAL\n\n- General improvements to game stability\n- Addressed global crashing and freezing issues that may occur during cutscenes and/or gameplay\n- Addressed global visual issues that may occur during cutscenes and/or gameplay\n- Addressed issues where hiding HUD would prevent the next mission from spawning\n- Addressed issues where players wouldn't be able to progress certain tutorials or sections \n- Addressed an issue where Web Wings would automatically deploy if tutorials are set to off\n- Addressed an issue where trick animations would reset during dives\n- Addressed issues relating to incorrect player spawns after failing or restarting checkpoint\n- Updated Webbed Suit textures\n- Addressed clipping and artifact issues with some suit lenses \n- Improved deformation across several suits\nVarious additional fixes across the game\nACCESSIBILITY\n\n- Made several improvements and fixes to High Contrast settings\n- Addressed visibility issues across several enemy types, attacks, puzzles, and interactable objects\n- Added the pause menu option to skip Adaptive Trigger minigames, joining previously included features such as: Turning off Adaptive Triggers via PS5 console settings to automatically skips these puzzles. QTE Autocomplete can automatically skip these puzzles\n- Made improvements and fixes to Toggles\nEnabling Swing/Parkour toggle adds tap on/off functionality for Spider-Bot Jump Jets\n- Enabling Swing/Parkour toggle adds functionality for MJ to navigate squeeze-throughs automatically\n- Toggle icons display properly when restarting the game\n- Addressed an issue where tutorials would interfere with Swing/Parkour toggle functionality\n- Addressed an issue where Swing/Parkour wouldn't enable fast enough when sprinting as MJ\n- Addressed issues with Aim Mode toggle with MJ's lure\n- Addressed issues with Friendly Neighborhood Challenge Level \n- Symbiote nests and tanker crimes can no longer be failed \n- Made several improvements to Look at Waypoint across several missions in the game\n- Added Point of Interest (POI) Audio Indicator. This feature emits audio feedback ticking when Spider-Senses are used and there is a POI on the screen to aid in judging distance, height, and occlusion\n- Made several improvements to DualSense haptics\n- When the Haptics setting is set to Functional and the POI Audio Indicator is enabled, the system includes an additional haptic component for the waypoints.\n- Added distinct haptics for Abilities and Gadgets ready with Functional Haptics turned on\n- Added hot/cold haptics when doing object navigations with Functional Haptics turned on\n- Added haptic feedback when interact prompt is on screen\n- Adjusted haptics across different puzzles and combat scenarios in the game\n- Toned down damage received haptic a bit.\n- Selected Shortcuts now display in the first boot menu\n- Added the ability to enable Screen Reader in the first boot menu via Square button press\n- Fixed resolution and other oddities when setting Button Prompt Size to Largest\n- If enabled, Auto-Heal can save the player from fall damage death if the player has a full Focus bar",
         "num_comments": 269,
         "comments": [
-            "To those missing the NG+ (1.002.000) update, check your game for an update. \n\n- Go to the game on the Home Screen.\n- Press the options button\n- Click \"Check for Update\". \n\n1.002.000 should then start downloading. It will be a 3.576GB update and not the 600MB one (1.001.006).\n\nThe 1.001.006 update was released at the same time as this one, so people are receiving that one and thinking they don\u2019t have 1.002.000, but if you check for an update, then the NG+ update (1.002.000) should appear and start downloading.\n\n\u2014\n\n# Update: \n\nIf 1.002.000 doesn\u2019t appear, wait a couple of minutes, keep checking for an update or try restarting your console and see if that does anything to help. It seems to have worked for a few people. The servers are likely overloaded, hence the slightly out of sync release onto everyone\u2019s consoles.",
             "I've been playing for about 20 mins now and I noticed that the crimes are a bit more varied. Instead of the repetitive hordes of those monsters time after time, they actually changed it to more diverse ones with burglars and stuff.",
-            "only 600mb?\n\nedit: where do i start NG+? Apart from the button to buy the 90s suits nothing changed in my game\n\nedit2: a second update just went live with 3.4gb",
             "AM I TWEAKING OR DID THEY FIX THE RAIMI SUIT??",
-            "I think there\u2019s a glitch already; it says Peter has 3 new suits with the big yellow 3 over Peter\u2019s suit selection screen, but there\u2019s only the new Hellfire suit\u2026",
+            "I think theres a glitch already; it says Peter has 3 new suits with the big yellow 3 over Peters suit selection screen, but theres only the new Hellfire suit",
             "Pressing Touchpad and Start opens the Debug Menu which I feel like maybe isn't intentional?",
             "Them releasing an update without the ng+ stuff first is an all time hilarious bit imo. But just check for another update and you get the real one",
-            "got a 600mb update. Is that the NG+? nothing seems to have changed\n\nEdit: that update seems to have added the option to buy the new suits. But there's now another 3.5GB update\n\nEdit2: the 3.5GB update added the NG+ option. I'm going in...",
             "\\>Mission Replay: Replay ***that*** mission (and many others) as much as you'd like now\n\nOkay, maybe I missed something. What's ***that*** mission?",
-            "The golden gadget upgrade and Suit tech Fusion upgrades are ludicrously expensive. To purchase all suit tech Fusions and golden gadgets you need 25,633 tech parts. That is a lot of grinding."
+            "The golden gadget upgrade and Suit tech Fusion upgrades are ludicrously expensive. To purchase all suit tech Fusions and golden gadgets you need 25,633 tech parts. That is a lot of grinding.",
+            "nothing in the update, number is supposed to be 1.002",
+            "I know I shouldnt be disappointed by the update providing us pretty much what it advertised, but I was kind of hoping that, because it took so very long, thered be more in there that was being kept as a surprise (more suits, DLC tease, etc). Im happy to have NG+ and am curious to see the new suit styles in game (at any point in the story), but Id be lying if I said I was completely satisfied",
+            "Only got the 1.001.006 update for the charity suits. Still haven't got the 1.002 update.\n\nEdit: nevermind. I just got it. Had to close the game and manually check for an update for it to show up."
         ]
     },
     "Marvel\u2019s Spider-Man 2 - v1.003.000 Patch Notes": {
         "title": "Marvel\u2019s Spider-Man 2 - v1.003.000 Patch Notes",
-        "score": 160,
+        "score": 166,
         "url": "https://support.insomniac.games/hc/en-us/articles/27561263563021-Version-1-003-000-Release-Notes",
         "content": "",
-        "num_comments": 111,
+        "num_comments": 114,
         "comments": [
-            "Yeah the suits and parry/traversal animation option are cool and all but the big news is that you can skip the spider bot section in Funky now! Let\u2019s fucking go",
-            "They took an issue with a friccin stop sign but not with the fact that 90% of crimes around the city are still symbiotes ? \ud83d\ude2d",
-            "Wish they'd fix the eyes on the Far From Home suit and just update the webbing in the Black Webbed Suit to match the quality of the regular one. \ud83d\ude2d\n\nStill, glad they're updating things though. Thanks!",
+            "Yeah the suits and parry/traversal animation option are cool and all but the big news is that you can skip the spider bot section in Funky now! Lets fucking go",
+            "They took an issue with a friccin stop sign but not with the fact that 90% of crimes around the city are still symbiotes ? ",
+            "Wish they'd fix the eyes on the Far From Home suit and just update the webbing in the Black Webbed Suit to match the quality of the regular one. \n\nStill, glad they're updating things though. Thanks!",
             "Ahhh the surge mode suit switching was a huge one for me. Nice.",
-            "i hate to be one of those people but i was really hoping we\u2019d get an option to change the colour of miles\u2019 traversal from orange to blue with the update seeming as we got options for peter :(( for the next update i suppose ://",
-            "There\u2019s no update for me",
-            "Thanks for this update Insomniac Games! New suits and the return of the old ones are great!\nBut there are a few problems. PLEASE PAY ATTENTION TO THIS:\n1) Some bugs are still in the game;\n2) When you choose Symbiotic parry and traversal animations to NON-symbiotic suits, the sound effects of traversal for a moment become like Spider Arms;\n3) Symbiotic finishers are absent after completing the story. \n\nSo, please do the following:\n1) Fix some bugs;\n2) Fix the sound effects of Symbiotic traversal animations;\n3) Give players the opportunity to choose for themselves between special finishes (Spider Arms and Symbiotic), even after completing the story, both in NG+ and in the first playthrough.",
-            "Amazing update.",
+            "i hate to be one of those people but i was really hoping wed get an option to change the colour of miles traversal from orange to blue with the update seeming as we got options for peter :(( for the next update i suppose ://",
+            "Theres no update for me",
             "Really good update once we get the option to toggle the aggressive Peter voice lines and also that one symbiotised spider arms concept added this game will finally be complete",
-            "Still no ability to change weather to rainy and dark?"
+            "Still no ability to change weather to rainy and dark?",
+            "can you change the web color to black? dont see an option for it only for traversal :/",
+            "No Fly N' Fresh being free? :c"
         ]
     },
-    "1,2 or 3? Why?": {
-        "title": "1,2 or 3? Why?",
-        "score": 76,
-        "url": "https://www.reddit.com/gallery/1dltirh",
+    "We have Spider-Man 2 at home": {
+        "title": "We have Spider-Man 2 at home",
+        "score": 148,
+        "url": "https://i.redd.it/l635z6yvug9d1.jpeg",
         "content": "",
-        "num_comments": 31,
+        "num_comments": 5,
         "comments": [
-            "3 by a long margin, looks like it could be a comic cover",
-            "3 have a really good coloring",
-            "3",
-            "2 or 3 because it feels like a comic book cover of a dark Spider-Man",
-            "Should've used the comic book frame for this\n\nAlso, what filter did you use for this?",
-            "3. Holy fuck. Straight out of the comic page it came from. Wallpaper material right there",
-            "3 is poetic",
-            "Please recommend some more iconic covers that I may try and recreate as well..",
-            "2 for me",
-            "1 or 3"
+            "Spiderman 2 featuring kilometer Morales and Peterson Parker",
+            "Every time I see a lego Spider-Man, it puts a smile on my face.",
+            "Thats me and Xbox Lmaoo",
+            "you're right, vergil. how could i say no to playing as lego howard the duck?",
+            "Nah this is better"
         ]
     },
-    "Hope we eventually get MJ written like this for MSM3": {
-        "title": "Hope we eventually get MJ written like this for MSM3",
-        "score": 598,
-        "url": "https://www.reddit.com/gallery/1dle3km",
+    "Thoughts on this list": {
+        "title": "Thoughts on this list",
+        "score": 216,
+        "url": "https://i.redd.it/mtdb2zkhoe9d1.jpeg",
         "content": "",
-        "num_comments": 180,
+        "num_comments": 76,
         "comments": [
-            "on a real note: Insomniac should make their MJ more like 6160 MJ in *general*, not just this panel specifically, but yeah having MJ being Peter\u2019s emotional rock or an anchor to keep him grounded is way better than the lois lane esque version in the game with her taking out trained hunters and powerful symbiotes",
-            "Don\u2019t get your hopes up.",
-            "Sorry, Insomniac can only write them fighting or being awkwardly formal as if they barely know each other",
-            "You better shatter those hopes because they're not happening, because not only are they two games into their version, there's no way they're gonna have a whole ass boss where MJ literally airs her dirty laundry about constantly needing to support Peter and push her personal life aside only to do exactly that in the last game. \n\nAdd to the fact that average player doesn't seem to mind her that much in the sequel with the most controversy being her face, on TOP of the fact that the creative director himself openly admitted to doubling down on their version of MJ being in the battle and capable and \"not giving a shit if she's a little OP\".",
-            "I actually like how we get different interpretations of MJ.\n\nI like both insomniac AND comic version! \n\nPlus acting like this would be a little out of character for MJ now in insomniacverse.",
-            "Insom MJ moved in with Peter at the end of Spider-Man 2, theyre clearly building towards marriage. They fucking kissed after hashing out their feelings WHILE MJ HAD A SYMBIOTE ON.",
-            "While I do think this sub tends to go over the top with the hate for SM2. The MJ sections of these games are genuinely some of the lower points of the games and drags them down for me",
-            "I actually don\u2019t want her to be like this in sm3\u2026although this would be much better\u2026to change it now would make it awkward and feel as if she was literally a different person so it wouldn\u2019t make sense",
-            "How, our fan base is fucking trashed.",
-            "I\u2019d much rather just play as MJ infiltrating a diamond mine and freeing the children from their oppressors, then make a podcast about how the new normal is her being a worldwide merc with web gun in hand. Much more in line with the Insomniac MJ."
+            "ANTI OCK IN MEH????? otherwise its fine ig",
+            "The bodega cat suit should be in the top tier ngl",
+            "imo, the Night Monkey suit is kinda cool. id list it under decent or meh\n\nalso, is the Amazing Spider-Man 2 suit in the first Spider-Man? i dont have the remastered, i have the original.",
+            "GIVE MA BOY WEBMAN SOME DAMN RESPECT",
+            "Kraven costume should def be higher..... the video game one meh.",
+            "Imo I'd switch the hybrid suit and Iron Spider Mcu suit, mainly because of the lenses. Stark suit should be bumped up too, people complain that it's overdesigned but the color pallete is perfect ",
+            "Btw can you link the list you used?",
+            "I want the Kraven suit up to atleast decent",
+            "Kinda confusing but not bad",
+            "Too many spidey suit, i cant"
         ]
     },
-    "How does peter answer or end calls on his mask?": {
-        "title": "How does peter answer or end calls on his mask?",
-        "score": 27,
-        "url": "https://i.redd.it/ic2spiycn38d1.jpeg",
-        "content": "",
-        "num_comments": 16,
+    "He started tweaking when he didn\u2019t get that last hit in": {
+        "title": "He started tweaking when he didn\u2019t get that last hit in",
+        "score": 67,
+        "url": "https://v.redd.it/ppm2bhi5if9d1",
+        "content": "Caught me off guard lmao",
+        "num_comments": 2,
         "comments": [
-            "First, caller name and profile picture appears on his HUD\n\nSecond, he presses his right ear like he's wearing an earpiece (WATCH THE FIRST CUTSCENE OF THE FIRST GAME)",
-            "Peter and Miles both have custom-designed earpieces in their masks that connect to their phones.",
-            "I have earbuds that let me pause and play a video or music, skip forward or back between videos, answer and hang up calls, open whatever assistant my phone has, and turn volume up and down",
-            "In his mask",
-            "The masks have buttons that the characters occasionally push",
-            "Spidey earpods",
-            "Technology in his suit",
-            "He\u2019s got AirPods in and uses the touch features on them",
-            "Just like how Iron Man does ig",
-            "He has a keypad in front of his mouth in his mask and he uses his tongue to press the buttons and answer calls"
+            "Ah, hubris. It defeats us all.",
+            "Dont mind him, thats just his exaggerated swagger."
         ]
     }
 }

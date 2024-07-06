@@ -1,95 +1,90 @@
 {
     "Announcing the Open Release of Stable Diffusion 3 Medium": {
         "title": "Announcing the Open Release of Stable Diffusion 3 Medium",
-        "score": 710,
+        "score": 716,
         "url": "https://www.reddit.com/r/StableDiffusion/comments/1de2qne/announcing_the_open_release_of_stable_diffusion_3/",
         "content": "**Key Takeaways**\n\n* Stable Diffusion 3 Medium is Stability AI\u2019s most advanced text-to-image open model yet, comprising two billion parameters.\n* The smaller size of this model makes it perfect for running on consumer PCs and laptops as well as enterprise-tier GPUs. It is suitably sized to become the next standard in text-to-image models.\n* The weights are now available under an\u00a0open\u00a0[non-commercial license](https://huggingface.co/stabilityai/stable-diffusion-3-medium)\u00a0and a low-cost\u00a0[Creator License](https://stability.ai/membership). For large-scale commercial use, please\u00a0[contact us](https://stability.ai/enterprise)\u00a0for licensing details.\n* To try Stable Diffusion 3 models, try using the API on the\u00a0[Stability Platform](https://platform.stability.ai/), sign up for a free three-day trial on\u00a0[Stable Assistant](https://stability.ai/stable-assistant), and try\u00a0[Stable Artisan](https://stability.ai/stable-artisan)\u00a0via Discord.\n\nWe are excited to announce the launch of\u00a0**Stable Diffusion 3 Medium**, the latest and most advanced text-to-image AI model in our\u00a0[Stable Diffusion 3 series](https://stability.ai/news/stable-diffusion-3). Released today, Stable Diffusion 3 Medium represents a major milestone in the evolution of generative AI, continuing our commitment to democratising this powerful technology.\n\n**What Makes SD3 Medium Stand Out?**\n\nSD3 Medium is a 2 billion parameter\u00a0[SD3 model](https://stability.ai/news/stable-diffusion-3)\u00a0that offers some notable features:\n\n* **Photorealism:**\u00a0Overcomes common artifacts in hands and faces, delivering high-quality images without the need for complex workflows.\n* **Prompt Adherence:**\u00a0Comprehends complex prompts involving spatial relationships, compositional elements, actions, and styles.\n* **Typography:**\u00a0Achieves unprecedented results in generating text without artifacting and spelling errors with the assistance of our\u00a0[Diffusion Transformer architecture.](https://stability.ai/news/stable-diffusion-3-research-paper)\n* **Resource-efficient:**\u00a0Ideal for running on standard consumer GPUs without performance-degradation, thanks to its low VRAM footprint.\n* **Fine-Tuning:**\u00a0Capable of absorbing nuanced details from small datasets, making it perfect for customisation.\n\nhttps://preview.redd.it/ts9c9o60446d1.jpg?width=1000&format=pjpg&auto=webp&s=3ce4f3567d1a1099d989d0b22c281a8ea65c2944\n\n**Our collaboration with NVIDIA**\n\nWe collaborated with NVIDIA to enhance the performance of all Stable Diffusion models, including Stable Diffusion 3 Medium, by leveraging NVIDIA\u00ae RTX\u2122 GPUs and TensorRT\u2122. The TensorRT- optimised versions will provide best-in-class performance, yielding 50% increase in performance.\n\nStay tuned for a TensorRT-optimised version of Stable Diffusion 3 Medium.\n\n**Our collaboration with AMD**\n\nAMD has optimized inference for SD3 Medium for various AMD devices including AMD\u2019s latest APUs, consumer GPUs and MI-300X Enterprise GPUs.\n\n**Open and Accessible**\n\nOur commitment to open generative AI remains unwavering. Stable Diffusion 3 Medium is released under the\u00a0*Stability Non-Commercial Research Community License*. We encourage professional artists, designers, developers, and AI enthusiasts to use our new[\u00a0](https://stability.ai/membership)[*Creator License*](https://stability.ai/membership)\u00a0for commercial purposes. For large-scale commercial use, please[\u00a0contact us](https://stability.ai/enterprise)\u00a0for licensing details.\n\n**Try Stable Diffusion 3 via our API and Applications**\n\nAlongside the open release, Stable Diffusion 3 Medium is available on our\u00a0[API](https://platform.stability.ai/). Other versions of Stable Diffusion 3 such as the SD3 Large model and SD3 Ultra are also available to try on our friendly chatbot,\u00a0[Stable Assistant](https://stability.ai/stable-assistant)\u00a0and on Discord via\u00a0[Stable Artisan](https://stability.ai/stable-artisan). Get started with a three-day free trial.\n\n**How to Get Started**\n\n* [**Download the weights**](https://huggingface.co/stabilityai/stable-diffusion-3-medium)\u00a0of Stable Diffusion 3 Medium\n* **Commercial Inquiries:**\u00a0[Contact us](https://stability.ai/contact)\u00a0for licensing details.\u00a0\n* **FAQs**: Have a question about Stable Diffusion 3 Medium? Check out our\u00a0[detailed FAQs.](https://stability.ai/sd3-faq)\n\n**Safety**\u00a0\n\nWe believe in safe, responsible AI practices. This means we have taken and continue to take reasonable steps to prevent the misuse of Stable Diffusion 3 Medium by bad actors. Safety starts when we begin training our model and continues throughout testing, evaluation, and deployment. We have conducted extensive internal and external testing of this model and have developed and implemented numerous safeguards to prevent harms.\u00a0\u00a0\u00a0\n\nBy continually collaborating with researchers, experts, and our community, we expect to innovate further with integrity as we continue to improve the model. For more information about our approach to Safety please visit our\u00a0[Stable Safety](https://stability.ai/safety)\u00a0page.  \n**Licensing**\n\nWhile Stable Diffusion 3 Medium is open for personal and research use, we have introduced the new\u00a0[*Creator License*](https://stability.ai/membership)\u00a0to enable professional users to leverage Stable Diffusion 3 while supporting Stability in its mission to democratize AI and maintain its commitment to open AI.\n\nLarge-scale commercial users and enterprises are requested to\u00a0[contact us](https://stability.ai/enterprise). This ensures that businesses can leverage the full potential of our model while adhering to our usage guidelines.\n\n**Future Plans**\n\nWe plan to continuously improve Stable Diffusion 3 Medium based on user feedback, expand its features, and enhance its performance. Our goal is to set a new standard for creativity in AI-generated art and make Stable Diffusion 3 Medium a vital tool for professionals and hobbyists alike.\n\nWe are excited to see what you create with the new model and look forward to your feedback. Together, we can shape the future of generative AI.\n\nTo stay updated on our progress follow us on[\u00a0Twitter](https://twitter.com/stabilityai),[\u00a0Instagram](https://www.instagram.com/stability.ai/),[\u00a0LinkedIn](https://www.linkedin.com/company/stability-ai),\u00a0and join our[\u00a0Discord Community](https://discord.gg/stablediffusion).",
-        "num_comments": 659,
+        "num_comments": 665,
         "comments": [
             "Damn, from SD2 they skipped all the way to SD404.",
-            "https://preview.redd.it/iplbpw7tj86d1.png?width=1024&format=png&auto=webp&s=320a30a6b011b17a7af284c50883cbe40fb90240\n\ni love being able to use the most advanced model to make the best images anyone has ever seen /j",
-            "> Photorealism: Overcomes common artifacts in hands and faces, delivering high-quality images without the need for complex workflows.  \nPrompt Adherence: Comprehends complex prompts involving spatial relationships, compositional elements, actions, and styles.  \nTypography: Achieves unprecedented results in generating text without artifacting and spelling errors with the assistance of our Diffusion Transformer architecture.\n\nI love how literally everything here turned out to be a lie.",
             "Confirmed: SD3 Cannot do hands. Worse than SDXL hands. Worse than SD 1.5 hands.",
-            "What platform will the weights work on when they\u2019re available?",
-            "https://preview.redd.it/2fosu6c9k56d1.png?width=593&format=png&auto=webp&s=6f84b59881d6a8de526fc26c7e76e560a0a7f29d\n\nLooks like stability learned nothing from SD 2. Its comically horrible at anatomy, straight up refuses to generate anything with a bit of skin normally. See you in a month when it got fixed by us.",
             "Well after testing a bit, for now I have SD2 vibes.\n\nI hope I'm wrong",
-            "Cool, let me know when a model that isn\u2019t complete ass comes out though",
+            "What platform will the weights work on when theyre available?",
+            "Cool, let me know when a model that isnt complete ass comes out though",
             "5 months of leading us on and hyping it up btw",
-            "Is it just me or can SD3 not generate Anthropomorphic characters at all."
+            "Is it just me or can SD3 not generate Anthropomorphic characters at all.",
+            "They really want full openai on us. Wow",
+            "And how can pictures harm me?",
+            "So let me be the first to officially kick things off....SD4 WHEN? "
         ]
     },
     "How To Run SD3-Medium Locally Right Now -- StableSwarmUI": {
         "title": "How To Run SD3-Medium Locally Right Now -- StableSwarmUI",
-        "score": 274,
+        "score": 289,
         "url": "https://www.reddit.com/r/StableDiffusion/comments/1de65iz/how_to_run_sd3medium_locally_right_now/",
         "content": "Comfy and Swarm are updated with full day-1 support for SD3-Medium!\n\n- Open the HuggingFace release page [https://huggingface.co/stabilityai/stable-diffusion-3-medium](https://huggingface.co/stabilityai/stable-diffusion-3-medium) login to HF and accept the gate\n\n- Download the SD3 Medium no-tenc model [https://huggingface.co/stabilityai/stable-diffusion-3-medium/resolve/main/sd3\\_medium.safetensors?download=true](https://huggingface.co/stabilityai/stable-diffusion-3-medium/resolve/main/sd3_medium.safetensors?download=true)\n\n- If you don't already have swarm installed, get it here [https://github.com/mcmonkeyprojects/SwarmUI?tab=readme-ov-file#installing-on-windows](https://github.com/mcmonkeyprojects/SwarmUI?tab=readme-ov-file#installing-on-windows) or if you already have swarm, update it (update-windows.bat or Server -> Update & Restart)\n\n- Save the `sd3_medium.safetensors` file to your models dir, by default this is `(Swarm)/Models/Stable-Diffusion`\n\n- Launch Swarm (or if already open refresh the models list)\n\n- under the \"Models\" subtab at the bottom, click on Stable Diffusion 3 Medium's icon to select it\n\nhttps://preview.redd.it/nj5uxt0uz46d1.png?width=672&format=png&auto=webp&s=8c332ec59c01f773f74f0748025c9c9d25a8a151\n\n- On the parameters view on the left, set \"Steps\" to 28, and \"CFG scale\" to 5 (the default 20 steps and cfg 7 works too, but 28/5 is a bit nicer)\n\n- Optionally, open \"Sampling\" and choose an SD3 TextEncs value, f you have a decent PC and don't mind the load times, select \"CLIP + T5\". If you want it go faster, select \"CLIP Only\". Using T5 slightly improves results, but it uses more RAM and takes a while to load.\n\n- In the center area type any prompt, eg `a photo of a cat in a magical rainbow forest`, and hit Enter or click Generate\n\n- On your first run, wait a minute. You'll see in the console window a progress report as it downloads the text encoders automatically. After the first run the textencoders are saved in your models dir and will not need a long download.\n\n- Boom, you have some awesome cat pics!\n\n\n\nhttps://preview.redd.it/bu2rceayz46d1.png?width=1804&format=png&auto=webp&s=95a4bce5fc69dc1602298be9d76c58c93be606c5\n\n- Want to get that up to hires 2048x2048? Continue on:\n\n- Open the \"Refiner\" parameter group, set upscale to \"2\" (or whatever upscale rate you want)\n\n- Importantly, check \"Refiner Do Tiling\" (the SD3 MMDiT arch does not upscale well natively on its own, but with tiling it works great. Thanks to humblemikey for contributing an awesome tiling impl for Swarm)\n\n- Tweak the Control Percentage and Upscale Method values to taste\n\nhttps://preview.redd.it/umnepy7a056d1.png?width=333&format=png&auto=webp&s=f991c2ee39b8bb138fffb93f19042b1dfef250eb\n\n- Hit Generate. You'll be able to watch the tiling refinement happen in front of you with the live preview.\n\n- When the image is done, click on it to open the Full View, and you can now use your mouse scroll wheel to zoom in/out freely or click+drag to pan. Zoom in real close to that image to check the details!\n\n\n\n[my generated cat's whiskers are pixel perfect! nice!](https://preview.redd.it/k4kmbo9o056d1.png?width=1377&format=png&auto=webp&s=d92afe8dc34c424929e9221d3e862876f7ac3cc5)\n\n- Tap click to close the full view at any time\n\n- Play with other settings and tools too!\n\n- If you want a Comfy workflow for SD3 at any time, just click the \"Comfy Workflow\" tab then click \"Import From Generate Tab\" to get the comfy workflow for your current Generate tab setup\n\nEDIT: oh and PS for swarm users jsyk there's a discord  [https://discord.gg/q2y38cqjNw](https://discord.gg/q2y38cqjNw)",
-        "num_comments": 301,
+        "num_comments": 308,
         "comments": [
-            "Does this support large horse anatomy yet?",
-            "I'm trying to use the comfy workflow \"sd3\\_medium\\_example\\_workflow\\_basic.json\" from HF, but i'm not sure where to find these clip models? Do I really need all of them? \n\nhttps://preview.redd.it/llrm6swb756d1.png?width=358&format=png&auto=webp&s=02ad0253b21e2ebc533344f29f57fa3a53a74252\n\nEdit : Ok I'm blind they are in the text_encoders folder sorry",
             "ty sir, now i am go bake cirnos with SD3",
             "back to the mergeing board",
-            "why am I getting low quality results.\n\nhttps://preview.redd.it/5zud0klhd56d1.png?width=1024&format=png&auto=webp&s=63ab5ffa1627ddf4889aaadf771abac5bf62d1b1\n\nPrompt:\u00a0A woman hugging a man,\n\nmodel:\u00a0OfficialStableDiffusion/sd3\\_medium,seed:\u00a0330848970,steps:\u00a028,cfgscale:\u00a05,aspectratio:\u00a01:1,width:\u00a01024,height:\u00a01024,swarm\\_version:\u00a0[0.6.4.0](http://0.6.4.0),date:\u00a02024-06-12,generation\\_time:\u00a00.00 (prep) and 24.02 (gen) seconds",
-            "time for a week of finding the right training settings (o\u309c\u25bd\u309c)o\u2606",
-            "there are 2 more [safetensors](https://huggingface.co/stabilityai/stable-diffusion-3-medium/blob/main/sd3_medium.safetensors) file , What differences do they have?",
+            "time for a week of finding the right training settings (o)o",
             "Nai3 open source just a week away",
-            "Tested both [sd3\\_medium\\_incl\\_clips.safetensors](https://huggingface.co/stabilityai/stable-diffusion-3-medium/blob/main/sd3_medium_incl_clips.safetensors) and [sd3\\_medium\\_incl\\_clips\\_t5xxlfp8.safetensors](https://huggingface.co/stabilityai/stable-diffusion-3-medium/blob/main/sd3_medium_incl_clips_t5xxlfp8.safetensors) in comfyui . Both had almost same speed for me (2.05 it/sec and 2.3it/sec) . [sd3\\_medium.safetensors](https://huggingface.co/stabilityai/stable-diffusion-3-medium/blob/main/sd3_medium.safetensors) didn't work for me in comfy , i think because i havn't downloaded the clip models yet , so that is why . I will just use [sd3\\_medium\\_incl\\_clips\\_t5xxlfp8.safetensors](https://huggingface.co/stabilityai/stable-diffusion-3-medium/blob/main/sd3_medium_incl_clips_t5xxlfp8.safetensors) as the speed is same. Overall very good model. Understand prompts very well but extremely censored base model.",
-            "Very unimpressed. Sucks."
+            "Downloading SD3 was a huge waste of bandwidth.",
+            "I installed stable swarm yesterday, I just clicked update-windows.bat, it pulled the latest changes but when I want to try SD3 model I get 09:39:26.913 \\[Warning\\] \\[BackendHandler\\] backend #0 failed to load model OfficialStableDiffusion/sd3\\_medium.safetensors",
+            "I'm using ComfyUI and using the basic workflow. It says it's missing TripleCLIPLoader, ModelSamplingSD3 and EmptySD3LatentImage. How do I get these nodes?",
+            "Works, but sd3 is very bad.",
+            "I started working on a tutorial for this baby for Windows, Massed Compute, RunPod and if works on a Free Kaggle account",
+            "I've been using SwarmUI exclusively lately and apart from special workflows, that's where I am staying."
         ]
     },
-    "So we had our lawyers review the SD3 license": {
-        "title": "So we had our lawyers review the SD3 license",
-        "score": 239,
-        "url": "https://civitai.com/articles/5840",
+    "Welcome to the Runway ": {
+        "title": "Welcome to the Runway ",
+        "score": 603,
+        "url": "https://v.redd.it/ycymkk30ff9d1",
         "content": "",
-        "num_comments": 103,
+        "num_comments": 48,
         "comments": [
-            "So basically forget Taking effort to finetune it, as anyone even downloading a model has to have a licence and also they can order any models removed as per their liking (infringing someone else's copyright).\n\nOhh an SD3 Lora about a celebrity ? REMOVE\n\nOhh another Lora about Pok\u00e9mon ? REMOVE\n\nAnother one for a popular character/anime ? REMOVE",
-            "SAI created a product for everyone to use, that noone can use",
-            "So a dead model then",
-            "Thanks for sharing, it really helps having validation about the interpretation of the license agreement. SD3 doesn't seem worth using from either the perspectives of a user or a business. They've completely bungled the situation.",
-            "Rip sd3 wish you didn't commit suicide",
-            ">the incestuous nature of the creation community\n\nFunny phrasing.  Yes, models are all constantly mixed with other models, and often nobody keeps track of what they mixed in, so SD3 could end up \"infecting\" large portions of civitai.",
-            "We need Ai thepiratebay \u2620\ufe0f",
-            "Any chance for a more legible screenshot?",
-            "Can I make a fine tune that gives everyone except Stability AI the right to use it?",
-            "Civil law is so fascinating yet intimidating at the same time. Thank you for clearing this up for us! I respect your decision to keep it banned until further communication from SAI"
+            "Fashion shows are so out there that you could probably convince someone this was real.",
+            "Of all the AI videos and this is one of the most realistic.  I could totally see each of these as a real runway model.  It also seems like some really good ideas for fashion.",
+            "Ok thats a great showcase of the tech, great video.",
+            "Holy shit, this was epic.",
+            "I want to live in this reality",
+            "When can all people use this version of runway?",
+            "Headless lava girl for the win!",
+            "So well made that the dead giveaway was only the audience. No one looking at the models all on their phones, actually not that far from reality.. but they would at least film them.",
+            "If you don't pay attention to the audience it looks pretty real! good job!",
+            "SD is unusually good at fashion stuff.   Sneakers, outfits.  Hits it out of the park.\n\nAlso is that a molten burrito wearing an evening dress?"
         ]
     },
-    "Upgraded Depth Anything V2": {
-        "title": "Upgraded Depth Anything V2",
-        "score": 85,
-        "url": "https://www.reddit.com/gallery/1dlriq4",
+    "How to create this super realistic images???": {
+        "title": "How to create this super realistic images???",
+        "score": 500,
+        "url": "https://www.reddit.com/gallery/1dqqf6c",
+        "content": "I stumbled upon this virtual influencer on Instagram and her pictures are by far the best I\u2019ve seen! I tried several tools and and stable diffusion but I did not come close to this. Does anyone know how to achieve this? Or is it just superior prompting?\n\n",
+        "num_comments": 93,
+        "comments": [
+            "Should be easy with any of the top-tier SD1.5 or SDXL realistic checkpoints. I mean, pretty girls are what they do best.",
+            "This isn't realistic at all, they are looking at you.",
+            "On a serious note despite all the thirsty boys and girls, if you're still struggling with a realistic checkpoint like realvisxl40 then I find putting \"3d, CGI, animation, cartoon, anime, drawing, painting\" into the negative prompts helps. For realistic out of the box but with almost zero control Fooocus is pretty good, I often use it for initial portrait generations before switching to comfy.\n\nEdit: also avoid using words like photo realistic in the positive prompts, photo and photography should be fine ",
+            "One of them is not like the other.",
+            "I think it's some sd1.5 realistic checkpoint by the looks",
+            "Good to see #3 proudly displaying her faith",
+            "How do you get realistic eyes?  I always get weird looking eyes... actually, the whole face is usually unrealistic.  It doesn't have to be extremely realistic like skin texture, but if that is possible, that would be great.\n\nBtw. I have been using SDXL models.  Are these the best now or should I try 1.5 models?",
+            "so funny seeing confused horny people stumble through here",
+            "Step Number One: Don't have your model staring at the MFing camera. \n\nSomething most can't manage.",
+            "Where are these from OP?"
+        ]
+    },
+    "luma dream machine now support last frame. I can created loop video from two images": {
+        "title": "luma dream machine now support last frame. I can created loop video from two images",
+        "score": 18,
+        "url": "https://v.redd.it/uci5hr1bvh9d1",
         "content": "",
-        "num_comments": 8,
+        "num_comments": 3,
         "comments": [
-            "I've upgraded the repo, added in more capabilities, converted the cmd .py scripts to function more intuitively, added the ability to pick between 147 different depth output colour map methods, introduced batch image as well as video processing, plus now everything that is processed is automatically saved to an outputs folder (w/ file-naming conventions to help you stay organized) & I've converted the .pth models to .safetensors. Here is the repo link - [https://github.com/MackinationsAi/Upgraded-Depth-Anything-V2](https://github.com/MackinationsAi/Upgraded-Depth-Anything-V2)",
-            "Looks great thanks! Now if only deforum would add it to their depth models in auto1111",
-            "Awesome!! Gonna wait for a youtube install guide haha   \nLooks sick dude!",
-            "Glad the removed the non commercial license , but they need to add a clear   license  on huggingface",
-            "this is nice is it available in comfy?",
-            "I was planning on posting an install & usage walkthrough to YouTube tomorrow night. I\u2019ll post the link here once it\u2019s up \ud83e\udee0.",
-            "awesome!!",
-            "Please mention me with link\ud83d\ude4f"
-        ]
-    },
-    "SwarmUI is now independent from Stability": {
-        "title": "SwarmUI is now independent from Stability",
-        "score": 355,
-        "url": "https://www.reddit.com/r/StableDiffusion/comments/1dlivre/swarmui_is_now_independent_from_stability/",
-        "content": "https://preview.redd.it/ygdi1oytn08d1.jpg?width=1645&format=pjpg&auto=webp&s=39270826d4bda7d92f9bf2372d61c7c62d5d1fa0\n\nSwarmUI (formerly StableSwarmUI) is now 100% independent from Stability AI.\n\nKey info to know:\n\n- Find the new repo here: [https://github.com/mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI)\n\n- Migration guide for existing users here: [https://github.com/mcmonkeyprojects/SwarmUI/discussions/2](https://github.com/mcmonkeyprojects/SwarmUI/discussions/2)\n\n- Guide for new installs here [https://github.com/mcmonkeyprojects/SwarmUI#installing-on-windows](https://github.com/mcmonkeyprojects/SwarmUI#installing-on-windows)\n\n- I was the sole developer of StableSwarmUI at Stability, and I am the owner of the new independent repo, it is in the exact same hands as before, and I will still be working just as hard on it\n\n- We held a public poll on the Discord ( [https://discord.gg/q2y38cqjNw](https://discord.gg/q2y38cqjNw) ) for what to rename the project to and \"SwarmUI\" won with 54% of the votes.\n\n- Swarm will be 100% free and open source forever\n\n- The project has the support of the recently announced Comfy Org ( [https://www.reddit.com/r/StableDiffusion/comments/1diutad](https://www.reddit.com/r/StableDiffusion/comments/1diutad) )\n\n- We'll work with whoever's making the best models wherever they are to add support. Recently experimental pixart sigma support was added [https://github.com/mcmonkeyprojects/SwarmUI/blob/master/docs/Model%20Support.md#pixart-sigma](https://github.com/mcmonkeyprojects/SwarmUI/blob/master/docs/Model%20Support.md#pixart-sigma) ",
-        "num_comments": 75,
-        "comments": [
-            "Did you just get the axe too? It is a Friday...",
-            "How can we be sure this is the real mcmonkey if there are no fennec girls",
-            "Looks great, if it makes using other models like sigma etc easy then ill defienlty move to swarmUI.\n\nedit - also when i try and run SwarmUI it keeps trying to connect to the internet, why? is it locally based or runs online only? If it is online only then it is of no use to me.",
-            "Great to see this, and I'm glad to have a much cleaner acronym for it now, too.",
-            "Congratulations! I hope that your project gets bigger and better and supports more models and more architectures as time goes on. With my current disappointment from Stability and their recent decisions, I hope that more and more competition comes into the scene and we get the same kind of thing as we got with large language models but in image models, and at the end of it all people will have their choice of which image models to use. Good luck to you, and I guess that's all.",
-            "I have a question! I installed swarm a while ago and have been enjoying it a lot lately, what\u2019s a good reason to reinstall swarm now that it\u2019s independent?",
-            "> We held a public poll on the Discord for what to rename the project to and \"SwarmUI\" won with 54% of the votes.\n\nI imagine the people who were dedicated enough to be part of the immediate community didn't see the need for a name change because they were already more than familiar with it, but I think that name will keep limiting future growth and mass adoption just like it has been doing before. Well, it is what it is.",
-            "Is there a decent tutorial on swarm ai never used it before",
-            "https://i.redd.it/3w97jm34p08d1.gif",
-            "congrats!!"
+            "So cool. Cannot wait to see what is capable with generated vids in another year. Gonna be scary!",
+            "https://preview.redd.it/uzgwzgovvh9d1.jpeg?width=1264&format=pjpg&auto=webp&s=16e68a18eaf5281fa41c55c4d325bd3d95342e78",
+            "https://preview.redd.it/gb1o69ewvh9d1.jpeg?width=1264&format=pjpg&auto=webp&s=a5192c67ee165f8624c655d7801a305258f109ad"
         ]
     }
 }

@@ -1,90 +1,88 @@
 {
     "Game download and other important links": {
         "title": "Game download and other important links",
-        "score": 787,
+        "score": 788,
         "url": "https://www.reddit.com/r/PokemonInfiniteFusion/comments/wydpah/game_download_and_other_important_links/",
         "content": "# Beware of unofficial websites that claim to be official. \n*The only official sources to download the game are the game's discord or the pokecommunity thread.* **Downloading the game from anywhere else puts you at risk of downloading malware to your computer.**\n\n\n\n\n**Game download**\nhttps://www.mediafire.com/folder/tpubi4vri32ha/Infinite_Fusion_download_links\nInstaller: https://discord.gg/vY8Y2m2 in the #downloads section\n\n(Use the \"Install or Update\" script to update your game to the newest version)\n\n\n**Spritepacks:**\nCustom sprites https://discord.gg/vY8Y2m2rom the most recent spritepack get downloaded automatically into the game. **You do not need to install anything to get the latest custom sprites in your game.**\n\nYou can also download the full zip from the discord if you want to view all the sprites: [**https://discord.com/channels/302153478556352513/926866111948001341/938457403844874321**](https://discord.com/channels/302153478556352513/926866111948001341/938457403844874321)\n\nIf you want to play this game on Android, you need the latest version of joiplay, which you can download from here for free: https://www.patreon.com/joiplay\n\nThe game will not work with the app store version of joiplay.\n\n**Other useful links**\n\n--------------------------------------------------------------------------------------------------------------------------------------------------\nOfficial game help: \nhttps://www.reddit.com/r/PokemonInfiniteFusion/comments/132a1xv/game_help_and_general_questions\n\n[Pokecommunity thread](https://www.pokecommunity.com/showthread.php?t=347883) (also includes download links for legacy versions)\n\n[Game wiki](https://infinitefusion.fandom.com/wiki/Pok%C3%A9mon_Infinite_Fusion_Wiki)\n\n[Discord](https://discord.gg/vY8Y2m2)\n\n[FusionDex](https://if.daena.me/)\n\n[Fusion calculator](https://aegide.github.io/)",
         "num_comments": 469,
         "comments": [
-            "**Game Official Guides**\n\n***Windows***:\n\n**New App Installer:**\n\n\\- **Written + Video Guide**: [Guide](https://docs.google.com/document/d/1sU-xZYw5cWMRmNyNbaFqfJZodaahZYs5Bv5jqnnqLeE/edit#heading=h.b67hha4nbt5i)\n\n\\- **Preloaded Guide**: [Google Doc](https://docs.google.com/document/d/1h_ET_XjxWU3jJ29duUVwYGKHpfdxKyb6R9l-FruzTLw/edit?usp=sharing)\n\n**REMINDER**: This game is developed for Windows only.  The workarounds below will install the game on those platforms, but the game is only optimized for Windows.\n\n&#x200B;\n\n***MAC***:\n\n\\- **WineSkin Installer Guide**: [Video](https://youtu.be/u2UVsHIwqwk)\n\n&#x200B;\n\n***Android***:\n\n\\-  **Written Guide for JoiPlay**: [Google Doc](http://tinyurl.com/pifandroid)\n\n\\- **JoiPlay Video**: [Video](https://youtu.be/FLaVizlJv6M)\n\n&#x200B;\n\n***Other Devices***:\n\n\\- **Steam Deck**: [Video](https://youtu.be/LRzdEYJsRhU)\n\n\\- Install on your main drive. SD card won't work.\n\n\\- **Linux**: [Google Doc](https://docs.google.com/document/d/1Wjz8lTTFIInnIvED1pX_Z7qFajF8rg22j8p3zF2_pug/edit?usp=sharing)",
-            "This available on IOS?",
             "For those trying to play on newer Android, you need to download joiplay from their website not the appstore. You also need the plug in downloaded but should be prompted when installing the game into joiplay that'll redirect you to the proper site. \n\nAlso 5.1.3.3 isn't workable that I could see so I  downloaded 4.9.2. And it worked fine.",
             "can i play it on microsoft?",
             "it says The download quota for this file has been exceeded any other place i can download the game",
             "Looks really fun, but it's impossible to download. Can't even seem to find the links to the mirrors.",
             "Is there any way you can offer an alternative download link? I tried downloading, waited an hour while it hung on 100% and didn't complete. Then it told me I had to pay for a different version. I'd love to give this a try, but I can't even download it.",
-            "Anyone else get this error message when trying to run the game on Android? \n\nFPS: 40.00\n\nRPG Maker Plugin for JoiPlay\n\nENTER\n\nF2\n\nScript 'HttpCalls.rb' line 43: NameError occured.\n\nuninitialized constant HTTPLite\n\nOK",
             "Hello quick question is this playable on android?",
-            "I downloaded the 1.35 GB version of the game, and whenever i open it, it stays on a black windowed screen for about a minute, has an error message, and closes. How to fix this?"
+            "I downloaded the 1.35 GB version of the game, and whenever i open it, it stays on a black windowed screen for about a minute, has an error message, and closes. How to fix this?",
+            "Can I get this on IOS?",
+            "What if joiplay isn't available for my android?",
+            "How does the download work?"
         ]
     },
     "New Infinite Fusion App Installer!": {
         "title": "New Infinite Fusion App Installer!",
-        "score": 135,
+        "score": 133,
         "url": "https://www.reddit.com/r/PokemonInfiniteFusion/comments/1apm5lz/new_infinite_fusion_app_installer/",
         "content": "&#x200B;\n\n[Pokemon Infinite Fusion App Installer](https://preview.redd.it/0s0yczi1iaic1.png?width=868&format=png&auto=webp&s=4bb7bca5abd4fb4df146dd3dd74ee3db20111bae)\n\nDo NOT get this game from pokemoninfinitefusion.net, it is a fake site!\n\nHey! This is megaman (Tech Manager). I just wanted to quick post about the new App Installer I developed for our game. It can be downloaded here: [Google Doc Guide](https://docs.google.com/document/d/16SFlTtsgPEy-YKCBvuWuffymI6Rl0emyq-jcU9PYB5k/edit#heading=h.b67hha4nbt5i)  \n\n\nThis installer is an All-in-1 solution to installing the game. It also acts like a launcher if you link your game or install the game through it. I also added in features to let you know when an update to the game is available and when new sprites are available to install (even before monthly releases).  \n\n\nI recommend giving the Installer a try and I am available in the #tech-support channel in discord to answer any questions, suggestions, or feedback about the installer or game. \n",
         "num_comments": 102,
         "comments": [
             "This is amazing. I just wanted to replay Infinite Fusion and this is the first post that pops up. Thanks!",
-            "This came out right as I was getting into Infinite Fusion for the first time.\n\nPlaying classic mode, and i'm sad i can't pass normal type on from my noctowl :(  \nGreat game, though!!",
-            "I'm out of the loop, what's different between the new official solution and the older launcher DrapNard made for 6.0? https://github.com/DrapNard/InfiniteFusion-Launcher \n\nI'm just curious if it means I should be removing those existing installs or to just use the new one for any future installs.",
             "I already have the game installed from the previous launcher/installer.. is there an easy way to switch without messing up my game?",
-            "Just want to say thanks for making this and also being so clear about where the proper channels to get it are. My partner just installed it and I had noticed the load screen message about how there is no website and asked him \"hey, where did you download that from?\" \"A website.\" \ud83e\udd26\u200d\u2640\ufe0f Found the sub, got him to delete, run malware scans and reinstall properly. Cheers!",
             "will this still allow us to access the debug system?",
             "Is it possible to play it on phone, or PC only?",
             "Is there a way to turn off full screen? When I open it, it automatically opens in full screen and the only way to turn it off is by alt + f4",
             "I wish I could play this game on mobile",
-            "Thank you for this! I seem to be having a recurring technical issue. I have downloaded the version linked here and it worked fine. Once I exit the app after installing, I get an error notification that says \"You have 2.7 and the latest version is 2.8. You will need to download the latest version to continue\"  \n\n\nThe first time this happened I followed the error and downloaded the version it linked me to. Now after exiting the app and trying to reopen it I am getting the same error, forcing me to redownload.  \n\n\nAny thoughts on how to resolve this?"
+            "I know i sound stupid, but when i tried to open the installer, it brought the windows protected your PC screen, should it be doing this?",
+            "damn. went through all the necessary steps just to find out it doesn't work on the Pixel 8. if anyone discovers a fix lmk lol.",
+            "I downloaded the megaman version from the .net website. Am I safe?",
+            "Is there Any way to Play this on mobile iOS"
         ]
     },
     "I have crafted the most malicious death squad possible. Please ignore Murpy": {
         "title": "I have crafted the most malicious death squad possible. Please ignore Murpy",
-        "score": 83,
+        "score": 265,
         "url": "https://i.redd.it/z5wh4h25tf9d1.jpeg",
         "content": "",
-        "num_comments": 16,
+        "num_comments": 28,
         "comments": [
             "DON'T ignore Murphy the Sheep! Once it gets into your farm, it's gonna rip and tear through your veggies and fruits.\n\nBroom ain't gonna do shit with those armour.",
             "I will NOT ignore the silly little guy, thank you very much",
             "Everyone looks terrifying, and there's this little guy, doing his best.",
             ":0 how did you get that zeruel sprite?",
-            "Grey sheep of the team.",
             "ALL HAIL KING MURPHY \nhe has a great derp face",
+            "Grey sheep of the team.",
             "Murpy is secretly the strongest among them",
             "Murphy is the scariest of them all mate",
             "There is a reason why murpy stayed on the team among such beasts...",
             "But Murphy is the most important part!  The contrast of his Just A Little Guy makes The Horrors pop that much more!\n\nHe deserves credit for all the good work he does >:("
         ]
     },
-    "First NG+ run! I love this game so much": {
-        "title": "First NG+ run! I love this game so much",
-        "score": 317,
-        "url": "https://i.redd.it/wv51yh8hqb9d1.png",
-        "content": "",
-        "num_comments": 16,
-        "comments": [
-            "Some of these hit hard. God damn",
-            "Probably the coolest team I've seen in a while",
-            "Fusions: Celebi/Mew/Jirachi, Aggron/Flareon, Gardevoir/Trevenant, Meloetta/Aegislash, Vaporeon/Latios, Mismagius/Sableye",
-            "I'm using the aggron/flareon too, what it's moveset?",
-            "my son is playing this, he absolute loves this game",
-            "Holy crap Mismagius and Sableye is an insane fusion. \n\nGameFreak is the most fraudulent company of this century.",
-            "thats neat",
-            "Very Cool! The Vaporeon/Latios is something I never would have thought to fuse.",
-            "Bro cooked with the team",
-            "I wanna play this game so bad but the black screen that stays for ages when scenes change makes it unplayable gg"
-        ]
-    },
-    "Beat another randomized nuzlocke in Kanto! Hoping to beat Johto this time too": {
-        "title": "Beat another randomized nuzlocke in Kanto! Hoping to beat Johto this time too",
-        "score": 27,
-        "url": "https://i.redd.it/2pl6eox63f9d1.png",
+    "Absol Only HOF": {
+        "title": "Absol Only HOF",
+        "score": 48,
+        "url": "https://i.redd.it/yqon9ewtrh9d1.png",
         "content": "",
         "num_comments": 3,
         "comments": [
-            "Big Al - Ampharos/Granbull\n\nAstraeus - Clefable/Alakazam\n\nFritz - Galvantula/Noivern\n\nFreddy - Tyranitar/Victreebel\n\nCalypso - Nidoqueen/Zoroark\n\nand the MVP\n\nLian - Milotic/Infernape",
-            "Milotic and infernape is such a cool fusion!",
-            "Freddy had me double take at the Godzilla reference. XD\n\nCool team and well done!"
+            "Awesome! Ive been having a hard time choosing between different Aggron fusions, I might have to do an Aggron only run. \n\nThanks for the idea!",
+            "Fusions:\nAbsol/Golurk\nAbsol/Volcarona\nAbsol/ Mr. Mime\nAbsol/Goodra\nAbsol/Clefable\nAbsol/Muk",
+            "Absol-utely beautiful"
+        ]
+    },
+    "The biggest problem I have with the game": {
+        "title": "The biggest problem I have with the game",
+        "score": 10,
+        "url": "https://www.reddit.com/r/PokemonInfiniteFusion/comments/1dr92d1/the_biggest_problem_i_have_with_the_game/",
+        "content": "The biggest problem I have with this game is that I cannot decide what to use in my team and when I finally decide on a fusion and go and level up I see a new mon that could create dozens of new cool fusions and then when I dont find anything i like I think about using the mons in my team unfuse them and either like but It has a type I don\u2019t need or I don\u2019t like how it looks but is the type i really need\n\nIt really is a curse and a blessing at the same time",
+        "num_comments": 8,
+        "comments": [
+            "Same here, there are too many pkmn to choose from, but that's a good \"problem\" to have.",
+            "My problem is the loading time. I don't know if it's my pc or if it's the game, but even with everythong downloaded, opening the pc in game is a chore, takes sometimes up to a minute to load, but then you have to change box so it's another minute long loading time.",
+            "I mean, nobody's stopping you from having multiple pokemon/fusions and you can swap them/create other teams. The pokemon are there, don't be shy to catch and experiment with them !",
+            "Oh that's funny,  my problem was the bad design. Like whatever gym has the hockey thing",
+            "That might be your pc, i have no trouble with loading times, in fact the longest loading time ive seen has been like 3 seconds. And my computer isnt some state-of-the-art thing. Its just an old dell inspiron gaming 7k. Fancy name, but its graphics card is only a gtx 1050.\n\nThe game uses very little processes even compared to emulators. But i have found it does use a small portion of the gpu (at least according to task manager) so if you have integrated graphics that might be causing your lag.",
+            "Are you playing the preloaded version? I literally could not get it to run and then I switched to the load fusions as needed version and I've not had any problems since.",
+            "Both version are doing this for me so it's probably my pc. But I have a laptop I mainly use to play civ 6, Terraria, gba games and work, so it's not super powerful.",
+            "Saaaame"
         ]
     }
 }

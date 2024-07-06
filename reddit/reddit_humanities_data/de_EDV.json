@@ -1,72 +1,92 @@
 {
-    "Kleine w\u00f6chentliche Fragen Thread - KW 25": {
-        "title": "Kleine w\u00f6chentliche Fragen Thread - KW 25",
-        "score": 1,
-        "url": "https://www.reddit.com/r/de_EDV/comments/1dhml7n/kleine_w\u00f6chentliche_fragen_thread_kw_25/",
+    "Kleine w\u00f6chentliche Fragen Thread - KW 26": {
+        "title": "Kleine w\u00f6chentliche Fragen Thread - KW 26",
+        "score": 2,
+        "url": "https://www.reddit.com/r/de_EDV/comments/1dn1qzh/kleine_w\u00f6chentliche_fragen_thread_kw_26/",
         "content": "Du hast eine kleine Frage?\n\n>Es gibt keine dummen Fragen, nur dumme Antworten. Wer nicht fragt, bleibt dumm. Wer fragt, ist ein Narr f\u00fcr eine Minute. Wer nicht fragt, ist ein Narr sein Leben lang.\n\nPoste hier deine Fragen, die dir zu lang f\u00fcr einen ganzen Thread erscheinen oder du nur eine kurze Antwort erwartest. Dabei gibt es auch in der Technik-Welt viele Dinge die nicht jeder wissen kann.\n\nDieser Thread ist nach neuen Posts sortiert. [Archiv](https://www.reddit.com/r/de_EDV/search?q=flair%3Ader%2Bkleine%2BFragen%2Bthread&restrict_sr=on&sort=new&t=all)\n\nAlternativ steht euch auch das [Discord](https://discord.gg/G3HKS3tBnf) zur Verf\u00fcgung.",
-        "num_comments": 0,
-        "comments": []
+        "num_comments": 6,
+        "comments": [
+            "@Mods: darf ich eigentlich ein Job anbieten? Es gibt kein r/de_EDV_jobs o.. und es steht nichts in die Sidebar.",
+            "UI/UX Designer, Frontend Entwickler & DevOps. Wenn bereits geschehen, dann: wie habt ihr euch auf die kommenden EU Richtlinien zur Accessibility vorbereitet? Im Sinne von welche Tools benutzt ihr, welche Ressourcen waren hilfreich, was konntet ihr automatisieren was (noch) nicht? Irgendwelche sonstigen learnings?",
+            "Ich wrde gerne meine eigene Webseite online bringen (Hobby). Gibt es einen klgeren Weg als eine Domne mit Hosting bei irgendeinem Anbieter (erstes Ergebnis bei Google war Strato) zu mieten?",
+            "Unsere Firma hat einen Bereich fr Barrierefreiheitstest. Ist gerade ziemlich nachgefragt bei unseren Kunden. Ich selber arbeite in einem Kundenprojekt wo der Kunde auch eine eigenen Bereich mit barrierefreiheitstestern hat.\n\nWir haben auch ein Tool in Entwicklung mit dem bestimmte wcag Kriterien automatisch berprft werden. Aber ich glaub da ist gerade die Entwicklung pausiert weil so viel wie mglich produktiv gemacht werden soll :D",
+            "Ich hoste mein Zeug bei Netcup und bin sehr zufrieden.",
+            "Hallchen ich habe meinen Laptop falsch geladen und mir dabei das Mainboard zerschossen. Wie wahrscheinlich ist es, dass die anderen Teile (hauptschlich Festplatte) noch intakt sind?\n\n\nDankeschn"
+        ]
     },
-    "Woher kommt dieses schwarze Symbol mit ungebrochenem Kreis in der Ecke?": {
-        "title": "Woher kommt dieses schwarze Symbol mit ungebrochenem Kreis in der Ecke?",
-        "score": 4,
-        "url": "https://i.redd.it/pwo3vp21b48d1.jpeg",
-        "content": "Ist seit zwei Tagen da. L\u00e4sst sich nicht Screenshoten. Passt nicht zu den im tray gestarteten Tools. Es gibt auch keine mir unbekannten Sachen im Autostart. Es erscheint direkt nach dem Start von Windows nachdem alles geladen wurde. Kennt das jemand?",
+    "Der Mann in Merkels Rechner - heute noch so m\u00f6glich?": {
+        "title": "Der Mann in Merkels Rechner - heute noch so m\u00f6glich?",
+        "score": 15,
+        "url": "https://www.reddit.com/r/de_EDV/comments/1dr7sad/der_mann_in_merkels_rechner_heute_noch_so_m\u00f6glich/",
+        "content": "Bin vorgestern auf diesen Podcast von 2021 gesto\u00dfen , wo es um den Hack des Bundestages ging. \n( https://www.ardaudiothek.de/sendung/der-mann-in-merkels-rechner-jagd-auf-putins-hacker/88043970/)\n\nIch frage mich ob heutzutage so ein Angriff in der Form auf den Bundestag immer noch m\u00f6glich ist. ",
+        "num_comments": 24,
+        "comments": [
+            "Damals wurde das komplette System runtergenommen und von Grund auf neu aufgebaut. Natrlich is nix zu 100 % sicher und theoretisch wr das wieder mglich, aber mit ziemlicher Sicherheit deutlich schwerer",
+            "Selbstverstndlich ist das auch heutzutage noch absolut mglich, oder ist die Menschheit intelligenter geworden?",
+            "In der ARD Mediathek ist z.Zt. eine Doku dazu online : Putins Bren . Sehr sehenswert !",
+            "Mglich ist immer alles in der Security. Die Frage ist nur wie schwer es wird und vorallen wie lange es dauert bis dies auffllt",
+            "Ich mchte hoffen, dass die Exploits die damals genutzt wurden, mittlerweile rausgepatcht sind. Leider sind Softwarefehler eine nachwachsende Ressource ...",
+            "Frag mal die NSA, die haben garantiert Vollzugriff - genauso wie auf Merkel's Handy.\n\nAnsonsten: Setzen die immer noch auf Windows, Active Directory, Exchange und Outlook? Da hast Du Deine Antwort fr die Wahrscheinlichkeit ...",
+            "Merkel hat bestimmt Rautenbilder auf dem Rechner gehabt und hat ein paar auf skurrilen Webseiten geladen.",
+            "Die grte Sicherheitslcke sitzt immer vor dem Rechner.",
+            "Man merkt das nicht mehr.",
+            "Computer sind nicht auch nicht intelligenter geworden, vielleicht gibt es da einen Zusammenhang? "
+        ]
+    },
+    "Warum bekommt Google es nicht hin, diesen quatsch komplett zu filtern?": {
+        "title": "Warum bekommt Google es nicht hin, diesen quatsch komplett zu filtern?",
+        "score": 5,
+        "url": "https://www.reddit.com/r/de_EDV/comments/1dr6hni/warum_bekommt_google_es_nicht_hin_diesen_quatsch/",
+        "content": "Seit \u00fcber einem Jahr bekomme ich solche Mails in meinem Spamfolder\n\nhttps://preview.redd.it/l31w98r60h9d1.png?width=440&format=png&auto=webp&s=26b26abde22cd2baa7e86b4c6455748d5be703cd\n\nWarum l\u00f6schen sie die nicht direkt wie die 11 Mio. Tonnen von anderem Spam, von dem der normale User gar nichts mitbekommt",
+        "num_comments": 17,
+        "comments": [
+            "Vielleicht wegen der Gefahr, eine legitime Mail dieser Art mitzulschen. Legitime Viagra-Mails gibt es so gut wie nicht (war lustig als wir mal eine fr Pfizer verschicken mussten), legitime Mails von Versanddienstleistern schon.",
+            "Machen sie doch? Die Nachrichten werden automatisch nach 30 Tagen gelscht. Wenn das nicht reicht, einfach eine Regel erstellen die sich darum kmmert?",
+            "also wenn ich das bestelle bekomme ich auch 2-3 Mails mit Informationen zum Versand.  Wie soll ein Algorithmus zwischen echten/falschen E-Mails da unterscheiden knnen,  wenn auch keine Menschen das machen knnten?",
+            "Weil das ein schwieriges Problem ist. Kannst ja nicht einfach richtige mails lschen.",
+            "Schreib du doch eine Software, die das filtert.",
+            "Sei doch einfach mal froh, dass dir berhaupt Jemand schreibt. Nie kann man es einem recht machen. Ich habe manchmal Tage, da kommt sozusagen gar nichts rein. Da freue ich mich sogar ber die nutzlosen Newsletter der Bahn.",
+            "Von jedem anderen verlangt Google SPF oder DKIM oder stellt Mails nicht zu, aber diese 0815 phishing Mails kategorisiert es als legitim?",
+            "Google filter Tonnen an hnlichen Mails und ist da relativ gut.  \nWenn sie diese nicht filtern, dann eher, weil sie sie nicht als Spam erkennen knnen.  \nOP sollte sie alle als Spam melden.",
+            "SPF und DKIM existieren. Knnen Spammer halt auch.\n\nUnd E-Mail ist ein offenes interoperable System, kein geschlossenes wie ein Messenger. Das macht die Spamproblematik schwieriger.",
+            "SPF und DKIM bekommen Spammer auch leicht korrekt hin."
+        ]
+    },
+    "Betriebsrat verweigert verwaltenden Zugriff aufs NAS": {
+        "title": "Betriebsrat verweigert verwaltenden Zugriff aufs NAS",
+        "score": 124,
+        "url": "https://www.reddit.com/r/de_EDV/comments/1dqj6sv/betriebsrat_verweigert_verwaltenden_zugriff_aufs/",
+        "content": "Tag zusammen,\n\nich brauch mal euren Rat...\n\nMein neuer AG hat einen gut funktionierenden Betriebsrat. Dieser hat in den eigenen R\u00e4umlichkeiten ein NAS mit den Betriebsratsdaten stehen. (Das gef\u00e4llt mir auch nicht, aber erstmal nicht das schlimmste)  \nBeim Einrichten der neuen Monitoringl\u00f6sung wird mir jedoch jeglicher Zugriff auf das NAS verweigert. Alles was ich brauche ist aktiviertes SNMP und den korrekten Communitystring.\n\nMir geht es nicht darum dauerhaften Zugriff auf die Daten zu haben (aus der Oberfl\u00e4che komme ich da nicht mal dran) sondern ich ben\u00f6tige nur Zugang zur Verwaltungsebene. \n\nMeine Argumentation, das wir dann nicht f\u00fcr die Sicherheit und Verf\u00fcgbarkeit der dort abgelegten Daten garantieren k\u00f6nnen, wurde mit dem Kommentar \"Darum k\u00fcmmern wir uns schon\" abgeschmettert. (\u00dcbrigens die Art von Benutzer die den \"ANY\" Key suchen wenn sie dazu aufgefordert werden)\n\nJa ich wei\u00df. Ich k\u00f6nnte drauf pfeifen und sie vor die Wand laufen lassen, das ist aber nicht meine Art zu arbeiten.  \nAu\u00dferdem gehe ich stark davon aus, das es im Schadensfall doch wieder auf die IT zur\u00fcck f\u00e4llt.\n\nBei meinem alten AG war das gar kein Thema. Wir hatten vollen Zugriff auf alles. physisch und digital.  \nDa mit Datenschutz zu argumentieren ist mMn. auch Humbug. Wir k\u00f6nnten jede Mail vom Betriebsrat mitlesen wenn wir wollten. Das bringt der Job nunmal mit sich. Nur tuen wirs nicht. Wir haben zu arbeiten. \n\nDarf der Betriebsrat \u00fcberhaupt der IT den Zugang verwehren?   \nWas gibt es aus Betriebsratssicht dagegen einzuwenden, das ich o.g. Zugriff erhalte um das System zu pflegen?  \nIst das in anderen Unternehmen auch so schwierig?\n\n",
+        "num_comments": 175,
+        "comments": [
+            "Lass dir das schriftlich von den geben dass du darauf hingewiesen hast, dass dann Datensicherung etc. nicht greift und setz deinen Vorgesetzen in Kenntnis. Wrd mich da nicht weiter dran aufreiben, wenn die nicht wollen.",
+            "Klar darf der Betriebsrat der IT Zugriff verwhren. Genauso darf die IT Zugriff von Firmenrechnern auf Quellen fr deren Sicherheit sie nicht garantieren knnen einschrnken.\n\nBlocke Nas Zugang nach auen, damit die nicht ins Internet kann, lass dir schriftlich geben dass die NAS nicht von der IT verwaltet werden soll und sie selbststndig Backups anfertigen werden. Mit allem anderen machst du dich nur selber unglcklich. Am Ende hast du zwar ein Backup aber sie verwenden dann die NAS nicht mehr sondern die nchste Lsung weil sie ja jetzt glauben ihr habt Zugriff auf alles auf der NAS. Dann stehst du wieder bei 0.",
+            "Schriftlich besttigen lassen.\n\nPopcorn bereithalten fr den Fall, dass das Teil hopps geht.",
+            "Wrde mit deinem Vorgesetzten sprechen und den NAS aus dem Netz kicken. Wenn die sich selbst um die Sicherheit kmmern wollen, knnen die das ja machen. Aber deswegen einen potentiellen C2 im Netz zu haben wrde ich ausschlieen wollen. Wenn deren NAS dadurch nur noch zu einem ~~NA~~S wird, ist das deren Problem.",
+            "In kurzen Worten erklren,  dass die NAS aus Grnden der IT-Sicherheit des gesamten Netzwerkes  nicht innerhalb des Firmennetzwerkes betrieben werden kann und das ebenfalls kein Backup der Daten mglich ist. \nUnd: Du bist gerne bereit mit Deinem BR fr eine gute sichere technische Lsung zusammenzuarbeiten. \nNatrlich muss der besondere Datenschutz der Dateien des BR bercksichtigt werden. Das kannst Du als Experte im Bereich der IT sicherstellen.",
+            "Wenn du es richtig hart angehen willst wird das Gert vom Firmennetz getrennt, bis die IT sicherstellen kann, dass von dem Gert keine sonderliche Gefahr ausgeht. Das wird mithilfe des Monitoring erreicht.",
+            "Ich wrde den Vorgang schriftlich dokumentieren inkl Hinweis auf mgliche Konsequenzen und vom BR Vorsitzenden gegenzeichnen lassen. \nDann wrde ich die ignorieren.",
+            "Bei uns hat der BR ein eigenes Vlan welches komplett von allen Firmen Netzen separat ist. BR Daten sind heilig.",
+            "einfach vom Netz nehmen. Das Gert ist nicht von der IT verwaltet und damit quasi schon kompromittiert. (Wenn das bei euch mglich ist). Wenn nicht, dann die bliche IRMA Mail an den Vorgesetzten zu deinem Schutz.",
+            "Die Frage mag doof sein, aber sollte die Verschlsselung der Platten nicht getrennt von der Verwaltung des NAS-Systems sein? Dann gebt denen doch nen Hardware-Key bzw. die setzen Passphrase fr die Verschlsselung. \n\nDie Brokratie-Karte solltet ihr trotzdem spielen - zur Not beim CISO. Die Betriebsrte sind die ersten die Krhen, wenn die GF Fehler macht, die gefhrlich frs Unternehmen sein knnen."
+        ]
+    },
+    "IPad, McBook oder Windows?": {
+        "title": "IPad, McBook oder Windows?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/de_EDV/comments/1dr8iy1/ipad_mcbook_oder_windows/",
+        "content": "Hallo Leute, \nIch hoffe, ihr k\u00f6nnt mir ein bisschen beratend zur Seite stehen, da ich selbst nicht den \u00dcberblick \u00fcber die ganzen f\u00fcr und wieders habe.\n\nKonkret geht's darum, dass ich langsam ein neues Ger\u00e4t brauche. Als Student hatte ich ein Notebook, war zum arbeiten gut, mach ich jetzt aber auf arbeit eh mit firmenkram. Das Notebook hab ich seit Jahren nicht mehr benutzt.\n\nSp\u00e4ter hatte ich dann ein IPad Mini 3. Damit hab ich vor allem mit Snapseed Bilder bearbeitet und Netflix geguckt. Mir hat die Handhabung eine tablets dabei sehr gut gefallen. \n\nJetzt steht die Wahl zwischen den oben genannten Ger\u00e4ten. \n\nIch m\u00f6chte damit wieder mehr Bilder bearbeiten, auch mit besserer Software als Snapseed. Gerne w\u00fcrde ich auch Videos schneiden und mich ein wenig in musikproduktion probieren. Also allesamt eher kreative Anwendungen. \nAb und zu mal eine Mail schreiben sollte aber auch drin sein. Oder eine Tabelle kalkulieren.\nAlles, was ich sonst noch hin und wieder nutze (Matlab, CAD) kann ich auf Arbeit nutzen.\n\nF\u00fcr Apple spricht da f\u00fcr mich zum Beispiel Garageband, was kostenlos zur Verf\u00fcgung steht (gibt's da noch weitere kostenlose Software, zum Beispiel f\u00fcr videobearbeitung?), das Design (das Auge arbeitet nunmal mit),  und die Qualit\u00e4t. Leider hab ich mit meinem alten IPad vor ein paar Jahren bekanntschaft mit Apples update-politik machen m\u00fcssen, weshalb das Ding, obwohl technisch noch voll I.o. nicht mehr zu gebrauchen ist. Und nat\u00fcrlich ist Apple deutlich teurer als ein Windows-Ger\u00e4t.\n\nWas w\u00e4ren Argumente f\u00fcr und gegen die jeweilige L\u00f6sung?\n\nVielen Dank schonmal!\n\n",
         "num_comments": 9,
         "comments": [
-            "dr\u00fcck mal shift+z, da sollte sich nvidia geforce overlay \u00f6ffnen.\n\ndu hast shadow recording aktiviert, da nimmt der im Hintergrund die ganze zeit auf damit du jederzeit \"save\" dr\u00fccken kannst und die letzten paar Minuten speicherst",
-            "GeForce Experience. In die Einstellungen davon kommst du mit Alt-Z",
-            "Vielleicht von Nvidia ShadowPlay. Unter GeForce Experience oder Alt + Z findest du das Overlay. Vielleicht ist dort etwas aktiviert.",
-            "Das sieht nach Shadowplay (also das Aufnahmeprogramm in Geforce Experience) aus. Standardm\u00e4\u00dfig kannst du mit ALT+Z das Men\u00fc \u00f6ffnen und irgendwo da sollte man die Desktopaufnahme deaktivieren k\u00f6nnen.",
-            "Sieht nach NVIDIA Shadowplay aus. Schau mal im Internet nach der Tastenkombi zum \u00f6ffnen des men\u00fc's und schalte die Aufnahmefunktion komplett aus",
-            "HAb das Symbol irgendwo schon mal in Geforce Experience gesehen",
-            "Vielleicht kommt das Symbol nicht vom PC sondern vom Monitor-UI. Das w\u00fcrde auch erkl\u00e4ren warum man es nicht via Screenshot aufzeichnen kann",
-            "Das war es. Danke",
-            "Wenn du es in games anlassen willst kansnt du auch utner Datenschutz die Desktop auszeichung unterbinden. Ansonsten in Overlay das ausmachen"
-        ]
-    },
-    "Neues Rechenzentrum in M\u00fcnchen: Eine Stunde am Quantencomputer kostet 1800 Euro": {
-        "title": "Neues Rechenzentrum in M\u00fcnchen: Eine Stunde am Quantencomputer kostet 1800 Euro",
-        "score": 160,
-        "url": "https://www.stuttgarter-zeitung.de/inhalt.neues-rechenzentrum-in-muenchen-eine-stunde-am-quantencomputer-kostet-1800-euro.28575624-efe5-44bc-ac1f-44ccedd08106.html",
-        "content": "",
-        "num_comments": 75,
-        "comments": [
-            "Also fast wie AWS?",
-            " Find ich jetzt nicht brutal viel",
-            "Ich habe mal auf einem Quanten Computer was laufen lassen und man muss da (soweit ich wei\u00df) in anderen Gr\u00f6\u00dfenordnungen rechnen. Wir hatten 8 Minuten zur Verf\u00fcgung und haben nur einen winzigen Bruchteil davon verbraucht. Daher erscheint mir 1 h sehr viel Zeit zu sein in der man eine Menge runs starten kann. Verglichen mit machine learning Aufgaben auf klassischen Rechnern oder GPUs funktionieren Quanten Algorithmen grundlegend anders. Man vernetzt quasi Elemente und wartet darauf, dass diese sich in ein equilibrium versetzen, was dann die L\u00f6sung kodiert. Das vernetzen der Elemente ist das schwierige, aber das erreichen des ~L\u00f6sungszustandes dauert nur wenige Bruchteile einer Sekunde. Schwer zu beschreiben, ich kann es selbst noch nicht ganz verstehen f\u00fcrchte ich ^^",
-            "Randy Marsh w\u00fcrde das bezahlen. Kann man da auch nur so, sagen wir mal, 3 Minuten Abschnitte buchen? Frage f\u00fcr einen Freund.",
-            "Und? Wie viele Qubit haben die? Weil bei IBM kannste jeden Monat 10 min Rechenzeit mit 127 qubits kostenfrei bekommen",
-            "L\u00e4uft da pihole drauf?",
-            "Ok, nehmen wir mal an ich hab 1800\u20ac \u00fcber und Langeweile und denke mir \"Hey probiere ich doch mal dieses Quantendings aus!\" Was w\u00e4re 'ne coole Sache die ich da anstellen k\u00f6nnte?,",
-            "Wieviele bitcoins kann ich da in einer Stunde minen?\n\nFrage f\u00fcr einen Freund",
-            "But can it run Crysis?",
-            "ich nutze meine Stunde um zu berechnen, wie viel zwei Stunden kosten"
-        ]
-    },
-    "Welchen Anschluss f\u00fcr 4080 super? Mehr Infos in den Bildunterschriften": {
-        "title": "Welchen Anschluss f\u00fcr 4080 super? Mehr Infos in den Bildunterschriften",
-        "score": 2,
-        "url": "https://www.reddit.com/gallery/1dluxu7",
-        "content": "Dieses 3-auf-1-Kabel wurde mit der GPU mitgeliefert. Daran kann man entsprechend 3 PCIe Kabel zum Netzteil f\u00fchren. Beim Netzteil selber wurde ein 600W Kabel beigelegt. Das w\u00fcrde auch auch die GPU passen und das andere Ende w\u00fcrde am +12VHPWR beim Netzteil passen. Ist es somit egal welches Kabel ich nehme, oder wird eines der beiden Varianten bevorzugt?",
-        "num_comments": 5,
-        "comments": [
-            "Nimm das original Kabel vom Netzteil! Einfach weil der Adapter zum einen kacke aussieht, zum anderen einen weiteren \u00dcbergangswiderstand hat (Stecker).",
-            "Mir geht\u2019s tats\u00e4chlich nicht um die Optik. Aber danke f\u00fcr den Widerstandshinweis.",
-            "Dein Netzteil sieht qualitativ hochwertig aus und wird dementsprechend wohl auch gen\u00fcgend Leitungsreserven haben. Erkenne das Label leider nicht aber sch\u00e4tze das hat wohl mindestens 750 Watt. Das mitgelieferte 12vhpwr Kabel wird ein 600 Watt Kabel sein - ich kenne keinen Hersteller, der native einen 12vhpwr Anschluss hat und tats\u00e4chlich differenzierte 12vhpwr Kabel nutzt (auch wenn geringere Werte auf dem Kabel stehen). Ich w\u00fcrde, wie gesagt, das originale Kabel vom Netzteil benutzen. Es wurde genau daf\u00fcr hergestellt..\n\n\nUnd btw. Viel Spa\u00df mit dem fractal torrent. Mega case! :D",
-            "Dann nehme ich mal das PSU-Kabel. Ist \u00fcbrigens ein  1000W MSI MPG A1000G Netzteil. Hab mir auch sehr bewusst das Fractual Torrent geholt, das Teil hat von Haus aus grandiose L\u00fcfter verbaut und super air flow. Sehr sportlich, dass du es erkannt hast :D",
-            "Bei der ganzen Thematik die die 4090 hatte, frage ich mich warum man \u00fcberhaupt \u00fcberlegt. Der NVIDIA Adapter ist und bleibt f\u00fcr die Tonne."
-        ]
-    },
-    "Vodafone / Connect Box / Kabelanschluss ": {
-        "title": "Vodafone / Connect Box / Kabelanschluss ",
-        "score": 2,
-        "url": "https://i.redd.it/b0kgkcgs648d1.jpeg",
-        "content": "Hallo Leute,\n\nich habe von Kabel / Vodafone keine Ahnung. \nDie Connect Box funktioniert aus irgend einem Grund nicht in dem folgenden Hauswirtschaftsraum. Nimmt man die Kabel Dose im Wohnzimmer bekommt sie allerdings eine Verbindung. \n\nWoran k\u00f6nnte das liegen? Ich w\u00fcrde annehmen das auch diese Connect Box dort in den Schrank geh\u00f6rt wie z.B. auch ONT/Speedport der Telekom. \n",
-        "num_comments": 2,
-        "comments": [
-            "Wenn der Schrank aus Metall ist geht dort kein WLAN. Also eine eher doofe Position f\u00fcr einen Router mit WLAN. Wohnzimmer ist da besser geeignet, weniger W\u00e4nde mit Metall dazwischen.\n\nDas Koax Kabel muss nicht unbedingt dahin gehen wo Du es erwartest. Kann man mitunter manuell verfolgen.",
-            "Geht erst einmal nicht um WLAN sondern generell um eine Internet Verbindung an diesem Koax Kabel in diesem Schrank. \n\nAnderes Koax + Connect Box im Wohnzimmer funktioniert."
+            "Getreuer Windows-Anhnger hier. Dienstlich habe ich auch ein aktuelleres MacBook. Fr deinen Verwendungszweck wrde ich dir zu einem MacBook mit M-Prozessor raten. Die Dinger rennen (auch im Akkubetrieb) und verbrauchen dabei gefhlt keinen Strom. Je aktueller desto besser, mit dem M1 machst du aber nichts falsch. Achte drauf das du mindestens 16GB RAM kaufst und die Festplatte fr dich gro genug ist. Speicher ist bei Apple teuer, externe Speichermedien gehen natrlich trotzdem. \nSolltest du jedoch spielen wollen, bist du bei Windows deutlich besser aufgehoben. Wenn auch die MacBooks immer mehr nachlegen.",
+            "finde ipads mega aber wie du beschrieben hast das du gerne musik produzieren willst und bilder bearbeiten wurdest dann wrde ich eher zu windows neigen",
+            "Ich nutze fr Musik, Bild und Video gerne das iPad, weil sich mit dem Pencil super arbeiten lsst. Habe auch ein MacBook (auch ein hnlich teures Windows NB zum zocken, das staubt aber nur vor sich hin), dass ich aber nur sporadisch nutze. \n\nDas MacBook ist gerade wegen des Dateisystems in manchen Dingen berlegen. Das iPad aber einfach komfortabler in der Nutzung. Mal eben ein Video auf der Couch schneiden oder Fotos bearbeiten? Kein Problem. Beim MacBook brauch ich hierfr eine Maus und muss am Schreibtisch sitzen (das Touchpad ist zwar klasse, aber fr solche Arbeiten nicht wirklich zu gebrauchen).",
+            "Du kannst  auf einem Macbook auch Windows unter Parallels verwenden. Ich mache das seit Jahren, ich merke quasi gar keine Nachteile zu einem normalen PC Laptop, im Gegenteil, im Coherence-Modus laufen die Windows quasi auf dem Mac Desktop.\n\nWenn Du wirklich Musik machen mchtest wrde ich Dir Logic Audio empfehlen, das musste man einmal kaufen und wird immer wieder kostenlos erweitert (im Gegensatz zu Cubase).",
+            "> Du kannst auf einem Macbook auch Windows unter Parallels verwenden. \n\nDas macht sptestens seit Apple ARM CPUs verwendet nur noch bedingt Spa. ARM for Windows ist bei weitem nicht so weit die die normale AMD64 / Intel Version, auch gibt es vieles an kommerzieller / 3rd Party Software nicht als ARM Version, und Emulation ist halt immer langsamer als nativ was zu machen.",
+            ">ich selbst wrde den Mac empfehlen wenn es das Budget her gibt\n\nWenn ich das Gert lange genug nutzen kann, dann gibt das Budget das schon her. Aber ich glaube, jeder gibt nicht mehr Geld aus als ntig.\n\nWas spricht fr dich eher frs Mac als frs IPad (Pro)? McOS?\n\n>Medienmenschen arbeiten gerne mit macOS\n\nWo liegt da der Vorteil?",
+            "> Was spricht fr dich eher frs Mac als frs IPad (Pro)? McOS?\n\nMacOS ist ein \"richtiges\" Betriebssystem, iPadOS ist ein modifiziertes iOS. Allein schon der Umgang die Dateien ist wesentlich anders. Auch haben Applikationen fr iOS/iPadOS oft nicht den vollen / gleichen Funktionsumfang.\n\n> Wo liegt da der Vorteil?\n\nIst eine Feststellung. Ich denke das ist historisch gewachsen, dennoch wrde ich erwarten das daher Software fr diese Plattform besser getestet ist.",
+            "Ein iPad Mini 3 kam 2014 raus, und hatte Support bis 2019, also 5 Jahre. Zum damaligen Release gab es kaum (keine?) Android Tablets die derart lange Support hatten. Die einzigen Tablets die vergleichbar lange Support hatten waren irgendwelche Windows Teile.\n\nEin Macbook bekommt ca. 5-8 Jahre Support, das schwankt je nach Chipsatz. Es gibt dazu keine offiziellen Aussagen von Apple vorab. Ich glaube zuletzt sind die 2017er Modelle rausgeflogen, mein Macbook von 2019 bekommt aktuell aber noch alle Updates. Aber ja, Windows oder gar Linux bekommt hier lnger Support im Vergleich.\n\nWindows bedeutet auch vor allem Windows 11: Und damit direkt jeden Hirnbums den sich Microsoft ausdenkt. Apple schtzt auch nicht vor fragwrdigen Innovationen, aber IMHO sind diese dort weniger Krass (oder fragwrdig) implementiert.\n\nMedienmenschen arbeiten gerne mit macOS, ich selbst wrde den Mac empfehlen wenn es das Budget her gibt, ansonsten hat sich die Frage aber schon beantwortet, weil dann bleibt ja nur Windows brig.",
+            "Heute kam ein Artikel zu diesem Thema: [https://www.amazona.de/windows-auf-aktuellen-apple-macs-mit-m-prozessor-2024/](https://www.amazona.de/windows-auf-aktuellen-apple-macs-mit-m-prozessor-2024/)"
         ]
     }
 }

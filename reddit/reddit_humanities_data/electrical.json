@@ -17,62 +17,71 @@
     },
     "Did my new oven arrive wired wrong?": {
         "title": "Did my new oven arrive wired wrong?",
-        "score": 15,
+        "score": 33,
         "url": "https://www.reddit.com/gallery/1dr00m6",
         "content": "The breaker tripped when I tried to plug it in. Then looked at installation guide and back panel. ",
-        "num_comments": 34,
+        "num_comments": 58,
         "comments": [
             "It looks to be that way. They also missed the connector that protects the wire in the metal hole it comes thru. Who did this?",
             "Yeah, isn't that a hot going straight to ground? Someone was drunk on the job.",
             "1. Install cord clamp\n2. Remove neutral-ground bonding strap\n3. Swap red and white",
-            "I think the CORD is wired wrong, and was done by an idiot.  The cord should match the colors of the wires above, left to right, black - red - white.  As someone else said, the bonding strap should be removed as well if you are using a 4 wire cord and plug, and there should be a strain relief in the knockout.",
             "This installer sucks.  Better confirm that the anti-tip bracket was installed.  In fact go ahead and read that entire installation manual and check on every bit of it.",
-            "I\u2019d take this whole unit back and dump it in their front step. God knows what else they screwed up",
+            "Best Buy ? Or maybe Lowes installers",
             "Couldn't even match wire colors.",
-            "Definitely.\n\nSwap red and white.\n\nRemove the metal bit connecting the middle terminal to the green screw.\n\nAdd a strain relief thing to the metal hole that the wire bundle goes through.",
-            "Best Buy ? Or maybe Lowe\u2019s \u201cinstallers\u201d",
-            "I think you wired that cord and are trying to ask for verification of your shoddy work without asking for verification on your shoddy work\u2026"
+            "Unplug everything, get a Philips and switch the red and white. It should be rarely easy even without experience. Just make sure to tighten the screws down as good as you can. Whoever installed the cord, really did not do their job.",
+            "I think you wired that cord and are trying to ask for verification of your shoddy work without asking for verification on your shoddy work",
+            "Id take this whole unit back and dump it in their front step. God knows what else they screwed up",
+            "Last oven that I bought did NOT come pre-wired. At least in my case it was the customers responsibility to wire the plug. If (big if) it came pre-wired, this would have never passed the QA inspection at the factory.\n\nEdit - almost forgot. Why is that check-marked 120V in sharpie, but wired (incorrectly) for 220V?"
+        ]
+    },
+    "is this dangerous": {
+        "title": "is this dangerous",
+        "score": 0,
+        "url": "https://i.redd.it/r7iucbgaqi9d1.jpeg",
+        "content": "the smoke detector in my room has been making a buzzing noise thats driving me crazy, like a little electrical buzz, i took it out since the maintenance said they can\u2019t do anything until monday. i was worried if leaving it exposed like this poses any health risk or danger? its positioned right above my desk where i sit most of the day. i know smoke detectors have radiation or something and was wondering if this exposed part contains radiation or is it just the wiring system? ",
+        "num_comments": 4,
+        "comments": [
+            "It's fine as long as you don't lay your palm on it",
+            "No its fine for you. The now have fault codes on their fire alarm panel though",
+            "Yeah that hochiki panel will be going nuts somewhere  not dangerous to you unless of course you have a really angry landlord..",
+            "Not all smoke detectors use Americium-241, but even if it does, it would be inside the smoke detector itself that you removed.  \n\nWhat you see here are the exposed electrical contacts that power the smoke detector.  It is perfectly safe as long as you do not touch the exposed contacts, as they may have voltage present."
+        ]
+    },
+    "Question about a supposed generator setup ?": {
+        "title": "Question about a supposed generator setup ?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/electrical/comments/1dr8mt1/question_about_a_supposed_generator_setup/",
+        "content": "So, bought this house a couple of years ago, past homeowners told me that this panel was meant for a generator plugged on a cable that is in the garage. Never thought too much of it, but now I've got a generator and want to make it work. However, I'm not sure how this thing is supposed to work, and if it does work like I think it does, it seems really dangerous..\n\nThe generator is going into a small panel with two 30amp breaker with an interlock, both can't be on at the same time ( Although, for current to flow through they would need to be ?? ), One breaker has the generator, the other is labeled as main source and is going inside of the main panel on a breaker that has no interlock with the main breaker, again, this seems like it could be a bit dangerous if both are on at the same time..\n\nHow's that supposed to work ? If I turn on the generator and open the right breaker in the small panel, the current still wouldn't flow to the main panel anyway since the other breaker will be off because of the interlock..\n\nThey told me it was installed by a certified electrician when we bought the house, but I'm having lots of doubt as of now to be honest. Can someone clear that up for me ?\n\nHere's a pic of the setup:\n\nhttps://preview.redd.it/2qvflz7ath9d1.jpg?width=3648&format=pjpg&auto=webp&s=0495695ca0c7880167a76d0a04b844b05ee2a7f9\n\n",
+        "num_comments": 9,
+        "comments": [
+            "So its set up to power the whole panel which is the way I have mine. I turn off big amp draws  before I start my generator",
+            "Wouldn't that require both breakers in the small panel to be on at the same time ?",
+            "The way it is wired now, no circuits will be powered from the generator.  Change the small panel to another Square D type QO panel and you can use the same interlock and breakers in the new panel.  Move some circuits from the main panel into the new generator panel.",
+            "Sorry I missed that. Yes thats the intention. The interlock should be in the main panel for this to work  if it is a hook up for the generator with the intention to power the panel. The generator breaker should be up near the main so you could have that interlock set up. So that sub panel makes no sense as it will never be able to send power to the house panel box   I ran my gen wire straight to my panel without the disconnect. I will change that one day. I take the breaker in the off position. My way is the wrong way",
+            "And if i'd rather power the whole panel, I would need to move the 30 amp breaker in the main panel up top, add an interlock between the 200amp and the 30 from the generator and either remove the interlock in the small panel and flip both on when needed, or plug the generator cable directly in the main panel to the 30amp that was moved up top, right ?",
+            "Yes.  Check out Interlockkit.com for a kit for your panel if the manufacturer doesnt offer one.  Look on the label inside the main panel to see if a part number is given for an interlock kit.",
+            "That would make sense. However the past homeowners told me they used this panel to power the main one, which lead me to think they might have added the interlock in order to pass inspection when they were selling, but could've been using it without it and bring current straight to the main panel by flipping both breakers on, which seem a bit dangerous. Maybe worth mentionning, every time I touch something electrically related in this house, I find stuff that should never be done but they did anyway... I wouldn't be surprised if that's how they did it really.\n\n  \nThe front panel of the small one does not allow more then those two 30amp.. which leads me to think I can't really put separate circuits in there ?",
+            "The wiring for the generator panel seems okay with the interlock.  However, there doesnt appear to be any circuits in the generator panel to be powered by the generator.  In addition to the two main breakers in the generator panel, there should be some branch circuit breakers for circuits that you want powered by the generator such as the heating system or a well pump.  Circuits such as those would get removed from the main panel and put into the generator panel.\n\nI have installed this generator panel a few times and wrote an article about it with photos.",
+            "So I was right to assume that, if the past homeowner did use it to power the main panel, they probably removed the interlock in the small panel and ran in it an unsafe way as it would work, but could be a problem if both the main and the generator were to run at the same time. I'd rather do it safely than take the risk, I'll look into an interlock kit and getting someone qualified to move the breakers around."
         ]
     },
     "Quick Question. What is the wire marked in red? Trying to settle a debate.": {
         "title": "Quick Question. What is the wire marked in red? Trying to settle a debate.",
-        "score": 61,
+        "score": 68,
         "url": "https://i.redd.it/4qx7wiqmza9d1.jpeg",
         "content": "",
-        "num_comments": 44,
+        "num_comments": 55,
         "comments": [
             "Neutral in a main service panel",
             "The grounded conductor, commonly called the neutral",
-            "Identified conductor",
+            "GROUNDED CONDUCTOR. Its identified in this case to separate it from the ungrounded conductors.",
             "That would be the Grounded Conductor, aka Neutral.",
-            "Neutral",
-            "GROUNDED CONDUCTOR. It\u2019s identified in this case to separate it from the ungrounded conductors.",
-            "neutral white from the service pole. this neutral wire is connected to the neutral/ground bus bar.\n\n  \nthis whole panel is the main electrical panel for the house.",
-            "Who won the debate?",
-            "Is this a \u201cgrounded\u201d vs. \u201cgrounding\u201d thing?",
-            "The grounded conductor commonly known as the neutral."
+            "Is this a grounded vs. grounding thing?",
+            "The grounded conductor commonly known as the neutral.",
+            "Neutral going to the bus thats grounded to frame",
+            "Yes its the neutral, it should have white insulation or white tape.",
+            "The thingy wrapped in white tape from the meter and at the meter from the poco. Often 2/0 but sometimes not \n\nWithout it, your record player would go 2x faster than it should!",
+            "Service neutral...albeit strangely sized, unless it's a DC panel then it's EGC."
         ]
-    },
-    "What kind of connector is this? I need a male for it": {
-        "title": "What kind of connector is this? I need a male for it",
-        "score": 2,
-        "url": "https://i.redd.it/xut45y1j3g9d1.jpeg",
-        "content": "",
-        "num_comments": 5,
-        "comments": [
-            "I\u2019m free tomorrow and I\u2019m make.",
-            "Is that on a car? Most automotive plugs are proprietary and you might have luck finding an aftermarket part, but sometimes, you need to get it from a dealership.",
-            "You could get an aftermarket male and female and replace it if you can\u2019t find the oem part.",
-            "You\u2019re gonna make what? A cake?! I like cake. Come on over.",
-            "It\u2019s on a Seadoo Spark. I could try checking with them"
-        ]
-    },
-    "Electrical fire and flickering lights": {
-        "title": "Electrical fire and flickering lights",
-        "score": 1,
-        "url": "https://www.reddit.com/r/electrical/comments/1dr6cvt/electrical_fire_and_flickering_lights/",
-        "content": "I live in an older apartment. Not quite sure how old it is exactly but everything in my area is historic. A couple of weeks ago, an apartment two floors down from me caught fire. There is a video showing the breaker box smoking and little balls of fire falling from it. We\u2019ve been told it could\u2019ve been caused by an overloaded outlet or exposed wires touching in the wall. The fire spread to all four apartments below us and now we\u2019re the only ones left in the building. I heard from a neighbor in the building next to us that the head of maintenance asked them to feel their breaker box once in a while to see if it\u2019s getting hot. I don\u2019t know how anything electrical works in buildings so I have no clue what to even make of that. I noticed when we moved in that the lights would flicker when I use my bathroom outlet. I know hair dryers can have some issues with flipping breakers and making lights flicker but the strange part to me is it isn\u2019t just from plugging it in. It flickers when I move the hair dryer (or whatever is plugged in) around. Besides when Im plugging it in, it doesn\u2019t flicker unless I\u2019m moving it. As I was plugging in my tv just now in my bedroom I noticed the lights flickered when I plugged it in, which I hadn\u2019t noticed before but I started unplugging everything every time I left my apartment after the fire happened. I guess this is the first time I\u2019ve plugged it in since then. An electrician came and inspected our beaker box. He said he didn\u2019t see anything serious but had pictures he needed to send with a report to maintenance. This was a few days ago and I haven\u2019t heard anything since. I\u2019m going to let maintenance know but it\u2019s Saturday so I don\u2019t want to bother them with something that may not be a problem. I\u2019m really worried and stressed about the safety of my pets while I\u2019m away. Is this something I should take seriously? ",
-        "num_comments": 0,
-        "comments": []
     }
 }

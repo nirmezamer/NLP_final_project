@@ -1,62 +1,77 @@
 {
     "Yuzu Subreddit Rules": {
         "title": "Yuzu Subreddit Rules",
-        "score": 97,
+        "score": 100,
         "url": "https://www.reddit.com/r/yuzu/comments/13gqzm9/yuzu_subreddit_rules/",
         "content": "# 1) No Piracy\n\nFor the health of this subreddit, any and all Piracy related activity is prohibited. Discussions or references to it will be removed and depending on the context, the perpetrator can be subject to a ban. Topics which commonly fall under this label include:\n\n* Roms\n* Keys & Firmware\n* Finding Updates and other Files\n* Non-Legitimate Yuzu Copies\n\n# 1.1) No Prerelease Game Talk\n\nIn the most recent situation with Tears of the Kingdom, any discussions related to running and playing games which haven't been officially released is also prohibited. As the only way people will have access to the game is via Piracy. \n\nSince this is a subcategory of Piracy related matters, it also adheres to similar actions. Discussions or references to it will be removed and depending on the context, the perpetrator can be subject to a ban. \n\n# 2) Discussions must only be about the Yuzu Emulator\n\nSelf-explanatory. Any discussions which don't directly pertain to Yuzu will be removed as its unrelated to what this subreddit is about. This includes:\n\n* Other Emulators. For example, Ryujinx and Cemu\n* Other Subreddits\n* Unrelated Nintendo News\n\n# 3) No Low Quality Posts\n\nYou're welcome to post here to inquire about an issue you might be facing. But on that end, low-effort posts will be filtered. This includes things such as:\n\n* Will my PC run X\n* Game/Emulator related issues without any information or pictures \n\n# 4) Don't be a Jerk\n\nMaintain a civil and respectful status quo between one another.",
         "num_comments": 9,
         "comments": [
-            "ok",
             "Thank goodness, the \"will my PC run X\" posts were getting so tired.",
             "All fair and hopefully will help with the health of this sub now that many people seem to be swarming here from the sub they all used during the leaks",
+            "ok",
             "[removed]",
             "[removed]"
         ]
     },
     "Hey nintendo, DMCA this": {
         "title": "Hey nintendo, DMCA this",
-        "score": 70,
+        "score": 112,
         "url": "https://i.redd.it/hi6uxn9kld9d1.jpeg",
         "content": "",
-        "num_comments": 16,
+        "num_comments": 20,
         "comments": [
             "Nintendo really should DMCA Deez",
-            "why are u snitching",
             "this sub is so weird",
-            "The person that took this photo was a Nintendo Ninja. Poor guy didn't see it coming",
-            "If that guy made millions of dollars like yuzu, I bet they would",
-            "I saw a number of \"Mario Bross\" in Guadalajara too",
-            "Mexico loves to plaster Mario and Goku on everything \ud83d\ude06",
-            "Spam time again?",
             "Oh man you sent the ninjas after him",
-            "Deez?"
+            "DMCA the weird people in costumes in Times Square (finally get them to stop harassing people and holding their stuff for ransom)",
+            "If that guy made millions of dollars like yuzu, I bet they would",
+            "The person that took this photo was a Nintendo Ninja. Poor guy didn't see it coming",
+            "Mexico loves to plaster Mario and Goku on everything ",
+            "as long as you dont snitch on tacos goku were gucci",
+            "I saw a number of \"Mario Bross\" in Guadalajara too",
+            "No doubt about that.\n\nStill think it's hilarious how some city mayors organized actual official taxpayer-funded downtown plaza watch parties for the climactic DB Super Goku vs Jiren fight without even bothering to consider what Akira Toriyama, Toei, etc. had to say about it."
         ]
     },
-    "odd incremental lagspikes on yuzu? ": {
-        "title": "odd incremental lagspikes on yuzu? ",
-        "score": 2,
-        "url": "https://v.redd.it/inkbgzj8wf9d1",
-        "content": "",
+    "Recommendations for android phones that can run yuzu smoothly": {
+        "title": "Recommendations for android phones that can run yuzu smoothly",
+        "score": 0,
+        "url": "https://www.reddit.com/r/yuzu/comments/1drac7a/recommendations_for_android_phones_that_can_run/",
+        "content": "Hello, I'd like some recommendations on phones that can run Totk at 60 FPS. Also some devices should have like cooling fans or gamesir sth like those",
+        "num_comments": 6,
+        "comments": [
+            "Not a phone but steam deck does a great job.",
+            "Redmagic s9 pro. Has the specs for smoothish performance.",
+            "Yes! A steam Deck is a great option! 30 FPS is extremely playable, that's what the native handheld hardware provides.\n\nDid you notice he wants 60fps on a phone? That's wild",
+            "I get above 40 fps in several switch-games i tried. It's enough for me. :)",
+            "The Deck can run BOTW and Odyssey at 60 fps. Native Docked speed! The deck can do way better than 40 on a ton of games. It's just Tears of the Kingdom specifically is like the hardest Nintendo game to emulate in existence rn",
+            "My guy the Legion Go and ROG Ally X aren't even consistently hitting 30 fps on Tears of the Kingdom.\n\nThe best gaming phone would be the rog phone or redmagic, and it is a MIRACLE they can run anything on Yuzu. 6 year old games like BOTW and Odyssey can kind of run, but the phone struggles a lot.\n\nWhy do you want a gaming phone? You'll need to buy one of those weird snap on controllers, a steam deck or rog ally would be so much better and cheaper too"
+        ]
+    },
+    "rdr nsp": {
+        "title": "rdr nsp",
+        "score": 0,
+        "url": "https://www.reddit.com/r/yuzu/comments/1dr8wdf/rdr_nsp/",
+        "content": "cant find any rdr 1 nsp all of them are dead link and the ones i found in youtube are broken anyone know where's a nsp for rdr 1?",
         "num_comments": 2,
         "comments": [
-            "hi, my pc is a laptop with 16 gb ram, intel i7 core, and an rtx 3060 graphics card. ive never had lag issues on yuzu before, but im trying to play the great ace attorney chronicles and for some reason it keeps doing these weird incremental lagspikes even though nothing graphically intensive is happening on screen. ive made sure yuzu is set to use my graphics card but i cant think of what else to do other than that. does anyone know  what might be causing this? thanks!",
-            "just tried running it on ryujinx and its not giving me the issue at all so its a yuzu only thing, i guess ill just play it on ryujinx instead of yuzu but i would still really appreciate if someone could answer just for anyone that might be having the same issue or so i can understand why this is happening in the first place"
+            "I'm not a mind reader, but I can read your messages!",
+            "check your DMs"
         ]
     },
-    "really odd Animal Crossing issue ": {
-        "title": "really odd Animal Crossing issue ",
+    "MK 11 will never work on Yuzu?": {
+        "title": "MK 11 will never work on Yuzu?",
         "score": 1,
-        "url": "https://www.reddit.com/r/yuzu/comments/1dr5wkz/really_odd_animal_crossing_issue/",
-        "content": "Yesterday, I tried playing Animal Crossing again but I was met with an issue. After changing the date, saving the game and heading back to menu, then playing the game again, my game would randomly skip to another day and the Isabelle cutscene starts as I'm playing. What's odd is that it skips my game 2 days ahead instead of 1. I wanted to make this post because I've been browsing the subreddit and it seems like this is a situation very unique to me. ",
-        "num_comments": 0,
-        "comments": []
-    },
-    "Istg I remember this white background issue being fixed in Smash (Vulkan)": {
-        "title": "Istg I remember this white background issue being fixed in Smash (Vulkan)",
-        "score": 2,
-        "url": "https://i.redd.it/lonqvrqalf9d1.png",
-        "content": "",
-        "num_comments": 0,
-        "comments": []
+        "url": "https://www.reddit.com/r/yuzu/comments/1dr7mpe/mk_11_will_never_work_on_yuzu/",
+        "content": "I have MK11 on switch but i wanted to try it on Yuzu but it keeps crashing after the intro\n\nAny of you here managed to play it?",
+        "num_comments": 7,
+        "comments": [
+            "yes... if you mean mortal kombat 1.",
+            "ohh no not that one. The one before that. its on switch as well",
+            "ah ok... did you install any game update?",
+            "tried different driver, or sudachi?",
+            "didnt tried sudachi and changing drivers wont do a thing :(",
+            "not yet",
+            "then try sudachi first."
+        ]
     }
 }

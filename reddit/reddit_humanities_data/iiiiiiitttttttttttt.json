@@ -1,91 +1,94 @@
 {
+    "Chrome vs Opera": {
+        "title": "Chrome vs Opera",
+        "score": 715,
+        "url": "https://i.redd.it/2a6rp3w8zh9d1.jpeg",
+        "content": "",
+        "num_comments": 30,
+        "comments": [
+            "It's just that Opera is worse than Chrome, especially for your privacy.\nI recommend Firefox with UBlock Origin.",
+            "Haha, this is funny because nowadays Opera is chock-full of bloat and owned by China.\n\n>!I miss Opera v12 :(!<",
+            "Opera is just Chromium plus a lot of bullshit.\n\nHonestly I'd say it's between Firefox and Ungoogled Chromium.",
+            "Opera's doodoo. Use Librewolf (or bare chromium w/ uBlock Origin)",
+            "soomeone hide the matches befor we suggest firefox",
+            "How about Brave?\n\n\"This browser may take its time, but it will never take MY FREEDOM!!!\"",
+            "Firefox, objectively the best general browser. Many of the features of chrome and Opera, and it's not owned by Google in any way. It doesn't even use chromium.",
+            "Edge? (I know, it's just chrome with different branding)",
+            "If Chrome is your weak link on waiting for a page to render, get a new computer. That thing is hopelessly slow.",
+            "Im still on Chrome with uBlock, any particular reason Firefox is preferred? I havent had any issues with Chrome and prefer it due to overall website compatibility."
+        ]
+    },
     "I have no words": {
         "title": "I have no words",
-        "score": 714,
+        "score": 998,
         "url": "https://i.redd.it/330py8tisd9d1.jpeg",
         "content": "",
-        "num_comments": 75,
+        "num_comments": 95,
         "comments": [
-            "I\u2019d honestly feel bad rebooting it at that point.",
+            "Id honestly feel bad rebooting it at that point.",
             "If you ask them when the last time they shut down was, I bet they think it was last night.",
             "4.4 years uptime? Must be Windows 10, since 11 hasn't even been out that long.",
             "I had a user today that hadn't rebooted in 100 days, and I thought that was bad.",
-            "My train of thought:\n\"Wow 1600\"\n\"That's a lot of hours\"\n\"Wait...\"\n\"Oh\"\n\"OH\"\n\"That's days\"\n\"That's a lot of days\"\n\"How many years is that?\"",
             "I wanna see the nessus scan!",
             "Fucker is more reliable than Comcast.",
-            "Fax server?",
-            "Longest I\u2019ve run into was about 2 years.",
-            "Damn I think the worst I've seen is about half of that, over 1000 crosses the line into impressive territory"
+            "Christ, that's gonna be one vulnerable asset. Our longest we've seen is 6 months and that had an ungodly amount of vulnerabilities. Can't even imagine what this will be like",
+            "Longest Ive run into was about 2 years.",
+            "Damn I think the worst I've seen is about half of that, over 1000 crosses the line into impressive territory",
+            "You have 4 words right there."
         ]
     },
     "An actual conversation between my coworker and I today": {
         "title": "An actual conversation between my coworker and I today",
-        "score": 179,
+        "score": 234,
         "url": "https://www.reddit.com/r/iiiiiiitttttttttttt/comments/1dqt80g/an_actual_conversation_between_my_coworker_and_i/",
         "content": "\u201cHey finke11 can I borrow you for a second?\u201d\n\nI walk over to where he\u2019s sitting. \n\n\u201cSure what\u2019s up?\u201d\n\nHe\u2019s setting up a new computer from scratch. \n\n\u201cWhat am I missing?\u201d\n\nI take a few seconds to analyze. He has the command line open and has typed \u201coobe\\bypassnr\u201d which obviously gave him an error message\n\n\u201cO\u201d\n\n\u201cO\u2026?\u201d\n\nHe types the letter then hits enter. Windows proceeds to reboot.\n\n\u201c\u2026. Oh.\u201d\n\n\u201cYou\u2019re welcome,\u201d I say as I hope on my horse with the girl of my dreams and ride into the sunset.\n\n(Okay that last part didnt happen but I did go back to my desk)\n\n",
-        "num_comments": 33,
+        "num_comments": 37,
         "comments": [
             "Please forgive me being a dumbass...what?",
-            "For those who don\u2019t get, oobe\\bypassnro is the command you can use when initializing Windows 10/11 so you can set it up without an internet connection and microsoft account",
             "Im reading this after just using this command for the first time what a coincidence.",
-            "Good example why you should use the phonetic alphabet when communicating with clients",
+            "For those who dont get, oobe\\bypassnro is the command you can use when initializing Windows 10/11 so you can set it up without an internet connection and microsoft account",
             "And then we all clapped",
-            "There\u2019s a new line for the resume!\n  \n\u201cFacilitated the dissemination of organizational knowledge in adherence to standard operating procedures\u201d",
+            "Good example why you should use the phonetic alphabet when communicating with clients",
+            "Theres a new line for the resume!\n  \nFacilitated the dissemination of organizational knowledge in adherence to standard operating procedures",
             "Lol I use that command from time to time and mess it up every now and then",
             "Hey, if it makes him feel any better, for us that usually happens with an inanimate rubber duck instead of an IT person.",
-            "People actually type the command out? I just hit \u201cby\u201d and tab for autofill",
-            "try \"sign-in options\"  \n\"domain join instead\""
+            "People actually type the command out? I just hit by and tab for autofill",
+            "Between my coworker and me. There fixed it."
         ]
     },
     "AnYoNe KnOw ThIs hax0r?": {
         "title": "AnYoNe KnOw ThIs hax0r?",
-        "score": 132,
+        "score": 195,
         "url": "https://i.redd.it/u5uodkppnd9d1.png",
         "content": "",
-        "num_comments": 4,
+        "num_comments": 7,
         "comments": [
-            "Cats are always red-teaming.",
-            "Don't let that fool you - it's a lawyer with a zoom filter.  He's [not really a cat](https://www.youtube.com/watch?v=lGOofzZOyl8).",
             "You need to use a CAT6 cable to connect this device to your network",
-            "Well, better euthanize it before it tries to steal your wallet."
+            "That's not a haxx0r, that's a Script Kitty at best!",
+            "That's just a Catfishing scam.",
+            "Well, better euthanize it before it tries to steal your wallet.",
+            "Cats are always red-teaming.",
+            "OMG!!! Classic!!!",
+            "Don't let that fool you - it's a lawyer with a zoom filter.  He's [not really a cat](https://www.youtube.com/watch?v=lGOofzZOyl8)."
         ]
     },
     "Our router is \"bugged\" according to our ISP": {
         "title": "Our router is \"bugged\" according to our ISP",
-        "score": 116,
+        "score": 171,
         "url": "https://www.reddit.com/r/iiiiiiitttttttttttt/comments/1dqtc8z/our_router_is_bugged_according_to_our_isp/",
         "content": "This is an update to my [original post](https://www.reddit.com/r/networking/comments/1dm4q63/our_router_is_bugged_according_to_our_isp/).\n\nI have tried using a different router, and directly connecting a laptop to their modem, but there were still issues. I also now monitor response times from multiple targets to see issues.\n\nHere's a fun story:\n\nThe person on the phone told me that it is impossible to connect a laptop directly to a modem in bridge mode. After I told them that it is possible, they told me to hold, and probably asked their coworker.\n\nThey were unable to comprehend what I was saying when I told them there were high packet losses towards Cloudflare, and that I am unable to ping 1.1.1.1. \"Are there issues with the 1.1.1.1 version of Cloudflare or what?\"\n\nThey asked whether I was using Google's DNS when pinging Cloudflare (not sure how DNS affects ICMP, but if they say so it must be true haha). They also asked whether I was using their DHCP server. I wanted to ask what alternative DHCP servers they know about.\n\nAfter all this, they told me once again, that they do not see a problem, and I should call a programmer (yes, a programmer). I asked whether he tried pinging the IP himself, and he said yes, it worked for him through [ping.eu](http://ping.eu), I was speechless after this. I told him that [ping.eu](http://ping.eu) is not inside their network, it just proves that the issue is not global. I asked him to ping locally, or on one of their routers, he was unable to do this. He said he doesn't have time for this, and hang up on me.",
-        "num_comments": 36,
+        "num_comments": 39,
         "comments": [
             "I got unreasonably annoyed when an ISP tech kept making up reasons my connection restored suddenly when I really just wanted to know what happened. Like buddy, I am very familiar with what it sounds like to make shit up to appease a user, I do it daily. Just tell me you don't know",
-            "If you decide to call back, ask somebody competent for the MTU value and do a ping with the -df flag to see if there\u2019s a MTU mismatch.  Recently discovered a modem that claimed 1500 but dropped to 1400 when in bridge mode, and the connected router didn\u2019t go (by default) lower than 1500 causing some fun problems.",
-            "The people on the r/networking thread tryna tell you that you need to hire an MSP to manage your network and fix your router config were hilarious.\n\nLike if your options are the mikrotik having some bug or some non-sane default, or the ISP tech being full of shit, it\u2019s gonna be ISP tech being full of shit every time.\u00a0",
-            "Why does that sound like a certain German ISP to me \ud83d\ude05",
-            "This is what happens when you get kids from highschool to do your tech support.\n\nAnd also what happens when you don't get a business plan",
-            "I have cox ( not by choice. It\u2019s that or dsl ) and they kept telling me that my 2Mbps was due to my equipment and I needed to get their panoramic shitbox. I had a new modem , Ubiquiti gateway plus APs. I also told them I was a sysadmin and know what the fuck in talking about. After 3 months of this bullshit they finally sent a tech to my house. Apparently the switch under the sidewalk that feeds my house was burnt to a crisp. Dude literally said \u201c how are u even getting internet right now!?!\u201d  They replaced it and after I bitched to them again for credits they upped my speeds from 150 to 500Mbps for $10 less than what I was paying for 150. They said as long as I don\u2019t cancel that\u2019s my price. No expiration. I have the chat transcripts as well. ISP\u2019s don\u2019t hire professionals, just anybody that can read a script.",
+            "If you decide to call back, ask somebody competent for the MTU value and do a ping with the -df flag to see if theres a MTU mismatch.  Recently discovered a modem that claimed 1500 but dropped to 1400 when in bridge mode, and the connected router didnt go (by default) lower than 1500 causing some fun problems.",
+            "The people on the r/networking thread tryna tell you that you need to hire an MSP to manage your network and fix your router config were hilarious.\n\nLike if your options are the mikrotik having some bug or some non-sane default, or the ISP tech being full of shit, its gonna be ISP tech being full of shit every time.",
+            "Why does that sound like a certain German ISP to me ",
             "Someone had a rough first day at work",
             "This is the end result of the tech staffing shortage. Anyone who has enough working  braincells to understand what you're talking about has a better job somewhere else getting paid a lot more.",
+            "Verizon had the gall to tell us that our Meraki firewall was not usable with their modem at all. Despite that it was working fine for months until that day. Spoiler alert, the issue was a setting in the modem.",
             "Spray some Raid on it.",
-            "This sort of thing is why I say to the first-line tech support people \"let me save us both a lot of trouble and request an escalate to tier two - I'm a former tech support rep for an ISP, and already did literally everything your script will have you ask me to do and several steps it won't.\"\n\nI usually get handed off pretty quickly to someone that can actually do more than read a checklist. I can only think of one time I ever had to call support and didn't immediately get bounced to technical and that was only because they were *required* to walk through the basics before their system would even let them transfer me."
-        ]
-    },
-    "Well that\u2019s weird. I just used sfc /scannow and it actually fixed something.": {
-        "title": "Well that\u2019s weird. I just used sfc /scannow and it actually fixed something.",
-        "score": 311,
-        "url": "https://www.reddit.com/r/iiiiiiitttttttttttt/comments/1dqfz5n/well_thats_weird_i_just_used_sfc_scannow_and_it/",
-        "content": "Seriously. I have an old laptop (2013) with Win11 on it for testing crap and it would crash on shutdown or going to sleep.\n\nRan sfc /scannow for the hell of it, it found some corrupted files, and now it works.\n\nI should enter the lottery.",
-        "num_comments": 45,
-        "comments": [
-            "Happened to me recently. It fixes a bug with windows 11 UI where start menu didn't let me type anything.",
-            "If I don't know what's wrong, restart, SFC scan and BIOS update. Excellent success rate",
-            "I was getting really weird errors out of nowhere. Missing file attribution when I'm not even opening anything. I suspected virus but couldn't find any indications of one. Ran sfc and it found some corruption somewhere and fixed it. Haven't had the error since.",
-            "I run this command all of the time, as it normally restores a Windows functionality or makes Windows more stable.\n\n  \nI am working on computers that doesn't have the best image created however.",
-            "No way! You guys are making stuff up.",
-            "Happened to me to while installing printer drivers the PC locked up. Ran it and fixed everything! First and last time it fixed anything!",
-            "No, sfc /scannow is just a backup in case I don't know how or what I fixed. I can always  'well I ran some scans, and they did find and fix some corrupted files'",
-            "Lisan al gaib!",
-            "My home computer was having issues with Rocket League, frame drops and stutters, just that game. Now a Switch can run RL, so I know it's not taxing my system. Updating graphics drivers didn't fix it. So, on a whim, I ran a SFC and it actually did fix it. I'm scared",
-            "I usually go\n\nchkdsk /r c\n\ndism /online /cleanup-image /restorehealth\n\nsfc /scannow"
+            "The person you are talking to legitimately has no clue what happened. If they did, you would not be talking to them.",
+            "Whenever I don't know what happened to fix something, I just tell them it's because the equipment knows I keep a hammer in my bag."
         ]
     }
 }

@@ -1,79 +1,84 @@
 {
     "What does this inductor do? I found it inside of a little radio and I have never seen one like it before. it looks like it might be connected to the antenna, but they put a bunch of glue on the board so I can't tell": {
         "title": "What does this inductor do? I found it inside of a little radio and I have never seen one like it before. it looks like it might be connected to the antenna, but they put a bunch of glue on the board so I can't tell",
-        "score": 84,
+        "score": 119,
         "url": "https://i.redd.it/34x12t6hfd9d1.jpeg",
         "content": "",
-        "num_comments": 50,
+        "num_comments": 61,
         "comments": [
             "It's a ferrite rod antenna in an AM receiver.",
             "That thing actually IS the freekin' antenna",
             "Yet again Reddit makes me feel old.",
-            "I am by no means an expert.   \nBut that looks like a ferrite core antenna to me.   \n[https://www.electronics-notes.com/articles/antennas-propagation/ferrite-rod-bar-antenna/basics-tutorial.php](https://www.electronics-notes.com/articles/antennas-propagation/ferrite-rod-bar-antenna/basics-tutorial.php)",
-            "AM broadcast band radio is such a low frequency that \u2018normal\u2019 antennas would be too big. So they use this instead which electrically is the right \u2018length\u2019 to perform \u2018well enough\u2019 for AM radio reception. They are directional, so if you\u2019re getting bad reception try reorienting the radio to see if you get better reception.",
-            "AM receiving coil.",
+            "AM broadcast band radio is such a low frequency that normal antennas would be too big. So they use this instead which electrically is the right length to perform well enough for AM radio reception. They are directional, so if youre getting bad reception try reorienting the radio to see if you get better reception.",
             "When I see this kind of questions and I remember of this antenna with rotating mechanism in tube radio receivers....I'm really old.",
             "Ferrite antenna receiver.\n\nI had a little transistor radio that had one. It's pretty cool because the antenna is directional.",
-            "It's an antenna.",
-            "Back in the day we would have called it the tuning coil, the ferrite rod is the antenna. We used to wind our own when I was a lad."
+            "This post makes me feel old AF.",
+            "Back in the day we would have called it the tuning coil, the ferrite rod is the antenna. We used to wind our own when I was a lad.",
+            "Noob question: is the impedance of the antenna (reception) measurable as load on the transmitter side, if it works like a  long distance transformer?",
+            "Its a ferrite rod found in all radios"
         ]
     },
     "If this circuit worked how it was supposed to, I should be reading something other than 0V if I place the probes here right?": {
         "title": "If this circuit worked how it was supposed to, I should be reading something other than 0V if I place the probes here right?",
-        "score": 2,
+        "score": 10,
         "url": "https://i.redd.it/893ryk7avf9d1.jpeg",
         "content": "And if the transformer works as intended, which is seems it does, where should I start looking now?",
-        "num_comments": 12,
+        "num_comments": 17,
         "comments": [
             "Is the 5VSB a DC voltage? If so you should see zero where the probes are. The transformer is a short at DC.",
-            "Let me guess, you drew a SMPSU the wrong way around? Or is this supposed to be a 50/60 Hz iron-core transformer?\n\nDepending on your meter you might measure everything from 0 to x V. If the PWM/SMPSU controller is **not** working you\u2019ll likely see 0 V.",
             "That's likely a flyback power supply. The point you're measuring have high frequency pulses commonly around 50kHz. Most multimeters are too slow to measure this pulses but reading should not be zero, in my experience the values are random on my cheapo multimeter. An oscilloscope is best tool for this, the cheap $20 STM32 oscilloscope works too.",
+            "Let me guess, you drew a SMPSU the wrong way around? Or is this supposed to be a 50/60 Hz iron-core transformer?\n\nDepending on your meter you might measure everything from 0 to x V. If the PWM/SMPSU controller is **not** working youll likely see 0 V.",
+            "As mentioned, assuming supply is working normally, there should be a high frequency AC where your probes are eg between about 25kHz & 200kHz or so depending on supply design. A regular multimeter can't read this even on the AC range. You'd need a scope.\n\nAlso take care as the right side (mains side) of the supply will have lethal voltages...",
             "Is the oscilloscope ground connected to the same GND node as shown in the schematic?",
-            "Ya, it\u2019s DC standby voltage. From what I can tell the primary (right hand side) of the transformer is using AC",
-            "How do I make sure I\u2019m getting 5V out then?",
-            "What is the right side of the transformer connected to?",
-            "The rest of the power supply, I have to go through tomorrow and draw out the rest of the relevant curcuit. But it\u2019s late for me. I\u2019ll take a pic tho",
-            "https://preview.redd.it/5aus94aozf9d1.png?width=3024&format=png&auto=webp&s=bde1ad42ddd9b11ee7aa4991a418bc817dd1353b\n\nYou can see the transformer about mid way up on the left side crossing the tan boarder",
-            "Ohh I see now. Ya you should definitely be seeing something other than 0V then. I would probably suspect the caps failing short first."
+            "Place your black probe on the other side of D950, and make sure the meter is set to DC range.",
+            "Ya, its DC standby voltage. From what I can tell the primary (right hand side) of the transformer is using AC",
+            "How do I make sure Im getting 5V out then?",
+            "This is the answer. Multimeters typically have LPFs on the front end so SMPS frequencies won't be read.",
+            "What is the right side of the transformer connected to?"
         ]
     },
-    "Anyone know what type of ribbon cable is needed? ": {
-        "title": "Anyone know what type of ribbon cable is needed? ",
+    "Is this a non-polarized capacitor?": {
+        "title": "Is this a non-polarized capacitor?",
         "score": 2,
-        "url": "https://www.reddit.com/gallery/1dr2l7m",
-        "content": "It's for a Denon D-200 Compact Stereo System. I've only managed to find the system connector 1 cable but nothing for 2. Any help is appreciated",
-        "num_comments": 11,
+        "url": "https://i.redd.it/894jhv1pci9d1.png",
+        "content": "I'm rewiring an old bass and I wanted to be sure.",
+        "num_comments": 6,
         "comments": [
-            "Half of the plug is stuck in the socket.",
-            "Just get in contact with Denon",
-            "[Denon Ucd Udr Udra Ribbon Flat Interconnect Cable for sale | eBay](https://www.ebay.co.uk/sch/i.html?_nkw=denon+ucd+udr+udra+ribbon+flat+interconnect+cable&mkevt=1&mkcid=1&mkrid=710-53481-19255-0&campid=5338792814&toolid=10001)",
-            "~~Ebay seems to have \"System Connector 2\" cables for D-90 and D-99 versions. Your system might be the D-90 version since it's from 94.~~\n\nOn closer inspection, it would seem that they are not suitable :( OP's system has 8+7 pins, while those 90/99 cables seem to have only 7+6 pins. Sorry for the unhelpful answer.",
-            "Didnt realize it. Thank you",
-            "I'll contact them tomorrow. Hopefully, they'll help out with it being a system from the 90s. Thanks for the help.",
-            "No luck",
-            "You're most likely right. Same pins as far as I can tell. Not too savvy with ribbon cable. Just curious to know if you think this cable would work as well: \nhttps://www.ebay.com/itm/156240761618?mkcid=16&mkevt=1&mkrid=711-127632-2357-0&ssspo=CTxCTFWZRju&sssrc=4429486&ssuid=fDEjPQoFS_2&var=&widget_ver=artemis&media=COPY",
-            "[Denon UDRA-77 UDR-77 UCD-77 (D-77) 3 Way Connector BLACK Ribbon Cable Wire Lead | eBay](https://www.ebay.co.uk/itm/156240761618?itmmeta=01J1H5BR6CNYZ1DRY550ZNMBVE&hash=item2460acd312:g:M1YAAOSwUYBmXgXY&itmprp=enc%3AAQAJAAABAAdx9pg297DDod2o76Xm5LtCtwx10oqq8eButCI1ONQsxjH%2FPERJb8CdFf9e1b2B%2BNl4OUJ7iwzvhSBUyyYYwiaKrTb28tds%2B7bkVwsnmElDq3cMq2CXsRMbRn68%2BPO%2Fy7eWlf4EyoQcUAiVFdmnK1c6o0EkB8xe85ZAblbsI1w5kTZU5sQ8xGqag%2FSfI71RgWChI7orE%2BF7uSBInPVAtyWc8F9s0w0QpuRQLARLYuA%2Fiv4fDykivDlrnomo8hRufxCz4NU%2BnP5qfaYuVqqLsKbjWgBR6t7a9tV9D81auCxFE%2FN0HtfZKzKQKjVxh3kuYerNhYa8q0MInOSKytzMFDk%3D%7Ctkp%3ABFBMpIOvpYxk)\n\nThis is exactly the cable you need. There is still part of the old cable in the top connector, which you need to remove.",
-            "My answer was probably wrong, maybe none of them work, when looking more closely, the one row of your system has 8 pins and the other row has 7 pins, while these have 7 + 6 pins.\n\nThat 90/99 marking apparently does not mean the year. So you probably need a D-200 model cable.\n\nMaybe the Denon support can help with this."
+            "Yes, it's a 0.047uf mylar capacitor",
+            "It's a polyester capacitor, I believe.  Not polarized.",
+            "But the question is, why is it there? What's the purpose of it?.",
+            "Tone control, rolls off high frequencies.",
+            "Nice to know that. What would change if it was polarized?",
+            "Thank you!"
         ]
     },
-    "Replacing a capacitor ": {
-        "title": "Replacing a capacitor ",
-        "score": 1,
-        "url": "https://www.reddit.com/r/AskElectronics/comments/1dr5wyp/replacing_a_capacitor/",
-        "content": "I wanted to avoid making a post because there's thousands online, but here I am. I found a bar top poker arcade and I'm repairing it. I'm not too knowledgeable on capacitors (what to do and what not to do) the power supply board has a 9000mfd, 15v electrolytic capacitor. My main question is where can I find one? For the life of me, i can't find one. Which leads me to, can I use a capacitor that's 10000uf, 25v. Or 10000uf 15v/ 9000uf/ 25v. Something of that combo.  Any help is greatly appreciated.",
-        "num_comments": 1,
+    "my rectifier isn't rectifying ": {
+        "title": "my rectifier isn't rectifying ",
+        "score": 7,
+        "url": "https://www.reddit.com/gallery/1dr1w5u",
+        "content": "honestly just wanted to do a little project and now I'm trying to learn what diodes to use in my 3 phase rectifier. I have 4v AC coming from each coil (idk my rpm yet so I don't know my frequency I get a tachometer on sunday). What does it look like I'm doing wrong though I only have a reading of .7v DC coming out of my rectifier. My coils are 360 wraps of 24 Gauge wire. 3/4 coils to poles 9 coils/12 poles. Just wondering what's going on here. Also know I have no electrical knowledge. ",
+        "num_comments": 17,
         "comments": [
-            "Try to stick within 10% -\\+ of the capacitance rating....and you can always go up in voltage but NEVER down"
+            "Put a 1000 uF 25V electrolytic capacitor across the output, you will get a higher voltage. You don't say whwt diodes you are using. Use Schottky diodes instead of regular diodes, you will get a higher voltage.",
+            "As the others said: put a capacitor on the output of your rectifier. \n\nIf you measure >0 V while in DC measurement mode, then your rectifier is rectifying. Otherwise it should show 0 V in DC mode, as the AC waveform should cancel out.",
+            "ah shit I thought I put that in there I'm using 1N4001. Awesome I do have some schottky diodes I'll have to try out.",
+            "Okay I think I understand that but try explaining it like you're talking to a kindergartener. what do you mean >0v like a negative reading? or would my multimeter really throw up a less than symbol.",
+            "Any suggestions on multimeter? I'm using a AstroAI AM33D. I measured my output at the ends of the wires lol . I got all three phases isolated when I'm reading the voltage and it's just from the \"negative\" and \"positive\" leads coming from my alternator. there's seems to be plenty of voltage coming out of each coil pack, as I fried an LED I hooked up to one of the coils outputs. I'll have to try putting a cap on there when I work on it next. Thanks for the input.",
+            ">0V means greater than zero volts",
+            "oh shit that's right greater than; my dumb ass. yeah so I'm getting a .3v reading when I hook it up so somethings messed up with it?",
+            "No, meters are slow so they always read some small amount of DC in the output. You can test this by *carefully* checking for DC in an AC wall outlet. You'll always \"see\" some DC there.",
+            "Should both sets of wires coming from each series of coil be going to the rectifier? what I've been calling the positive and negative (the in going wire and the outgoing wire). I was told the negative/ground wire doesn't matter in an alternator.",
+            "yes that's what I built it off of; but is that only one wire from each phase going into it, or is it both wires from each phase going into the rectifier?"
         ]
     },
-    "Fusion Sub - rustling sound": {
-        "title": "Fusion Sub - rustling sound",
+    "im making a class a current buffer and i have issues with decoupling the signal": {
+        "title": "im making a class a current buffer and i have issues with decoupling the signal",
         "score": 1,
-        "url": "https://www.reddit.com/gallery/1dr5oi4",
-        "content": "My Fusion EN-AB1100 was working great, hadn\u2019t used it in a few months, went to shift my car out of the garage and it had this erratic rustling low pitch sound coming through.\n\nI\u2019ve looked online for solutions and most commonly subs have a solid buzz sound (different sounding to mine) caused by a couple of capacitors with mushroomed tops but for the life of me I cannot see anything jumping out at me.\n\nAny thoughts?\nCheers ",
+        "url": "https://www.reddit.com/r/AskElectronics/comments/1drb6ab/im_making_a_class_a_current_buffer_and_i_have/",
+        "content": "https://preview.redd.it/c2ygbqa6ii9d1.png?width=1920&format=png&auto=webp&s=f9ca07cb9bda49b9c34d1030517dab83516b5e8d\n\nwith decoupling capacitor\n\nhttps://preview.redd.it/3y0j7a6lii9d1.png?width=1920&format=png&auto=webp&s=80c7cde80dc3d4c6eb769cff98a5ca83a415fe71\n\nwithout decoupling capacitor",
         "num_comments": 1,
         "comments": [
-            "Is the sound also present when you disconnect the input rca's?   \nIf it is, perhaps the capacitors in the power supply section went bad, if the sound is gone with disconnected input you may want to have a look at the head unit and rca cable for poor contact."
+            "Well sure, your current sink is way too weak for a 32 load.\n\nA full class B or AB output stage would work best if you want the average output voltage to be zero."
         ]
     }
 }

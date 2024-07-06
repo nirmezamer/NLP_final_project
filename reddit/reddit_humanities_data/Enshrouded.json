@@ -1,84 +1,72 @@
 {
     "Useful Links": {
         "title": "Useful Links",
-        "score": 61,
+        "score": 62,
         "url": "https://www.reddit.com/r/Enshrouded/comments/1aemnjf/useful_links/",
         "content": "# Official Links\n\n* [Bug Reports](https://enshrouded.zendesk.com/hc/en-us/requests/new?ticket_form_id=13781260232861)\n* [Feedback/Suggestions](https://enshrouded.featureupvote.com/)\n\nAny posts on bug reports or suggestions will be removed and you will be forwarded to the relevant link above.\n\n* [Official Discord](https://discord.gg/EYPKSvBFaF)\n* [Enshrouded Steam Page](https://store.steampowered.com/app/1203620/Enshrouded/)\n* [Enshrouded Website](https://enshrouded.com/)\n* [Keen Games Website](https://www.keengames.com/)\n* [Roadmap](https://www.reddit.com/r/Enshrouded/s/2IML00oLPX)\n\n# Wiki\n\n* [Enshrouded Wiki](https://enshrouded.wiki.gg/wiki/Enshrouded_Wiki)\n* [Wiki Discord](https://discord.gg/5YzKy6USkd)\n\n# Other Useful Links\n\n* Interactive Online Map - [https://mapgenie.io/enshrouded/maps/embervale](https://mapgenie.io/enshrouded/maps/embervale)\n* Skill calculator - [https://bubobyte.com/enshrouded-skills-calculator/](https://bubobyte.com/enshrouded-skills-calculator/)\n\n**Server Lists/Directories**\n\n* [http://enshroudedservers.net/](http://enshroudedservers.net/)\n* [https://serverlist.gg/enshrouded](https://serverlist.gg/enshrouded)\n\n# If you have a link that should be on here please comment it or send us a modmail.",
         "num_comments": 27,
         "comments": [
             "Very excited for the Wiki to get filled up with info.",
-            "Hi! I have been looking for patch notes outside of hot fixes and can\u2019t seem to find anything. Specifically I\u2019m looking for patch notes from between the free steam weekend and go-live.\u00a0\n\nIf they exist might this be a good post to host a link for it?",
-            "Not sure how mapgenie stuff is maintainced, if randoms can add etc etc, but could be worth keeping an eye on once it grows?  \n[https://mapgenie.io/enshrouded/maps/embervale](https://mapgenie.io/enshrouded/maps/embervale)",
-            "Has anyone built a skill tree planner yet?\u00a0",
-            "Does anyone know if the devs have mentioned how long before we get an update and if they will be doing it piece by piece or if they will just drop the full game on us?\n\nI love Valheim but the very slow piece by piece update process has resulted in me basically ignoring the game and struggling to come back to it.\n\nI loved enshrouded but if they take to long or follow the same path as Valheim I'm not sure if I can see myself coming back.",
+            "Hi! I have been looking for patch notes outside of hot fixes and cant seem to find anything. Specifically Im looking for patch notes from between the free steam weekend and go-live.\n\nIf they exist might this be a good post to host a link for it?",
+            "Has anyone built a skill tree planner yet?",
             "Are there any plans to add a Pause feature to the single player experience?  I love the game (and I'll keep playing regardless), but life's interruptions happen and it's rough when I'm in the middle of a Scavenger Camp and the dog needs to go potty.",
-            "[removed]",
-            "Enshrouded fandom wiki page https://enshrouded.fandom.com/wiki/Enshrouded_Wiki",
-            "There's another skill calculator under the sun:  \n[https://enshrouded-skill-tree.vercel.app/](https://enshrouded-skill-tree.vercel.app/)",
-            "But will the info be correct..."
+            "But will the info be correct...",
+            "For the protection of the subreddits members all posts containing personal info such as emails, phone numbers ect will be deleted.",
+            "I'm doing my best to make sure it's all correct. So far made 300 something edits and I don't know how many pages.",
+            "Could be worse, could be fandom.com",
+            "Thanks for the feedback! I agree that just viewing the circles can be a little annoying. I did add a checkbox on the left for \"Show Skill Names\" to help with that issue. I'll look into your other suggestions.",
+            "Ok... a simple wrong would've done just fine.."
         ]
     },
-    "Changelog for Patch #4- V 0.7.2.1": {
-        "title": "Changelog for Patch #4- V 0.7.2.1",
-        "score": 47,
-        "url": "https://www.reddit.com/r/Enshrouded/comments/1devciq/changelog_for_patch_4_v_0721/",
-        "content": "Version number: 535584\n\n(Copied from discord)\n\nHere is a brand new patch for Enshrouded, with fixes and improvements. Thanks again to all of you who reported issues. The game keeps getting better as we iron out the kinks, thanks to you!\n\nAnd now for the good stuff...\n\n**MAGE CHANGES AND CLASS BALANCE**\nWe\u2019ve been monitoring player feedback since the release of the latest changes to mage builds. As we mentioned before, balancing is an evolving endeavor that will continue as we expand the game. Your feedback is an important part of Enshrouded becoming the best game it can be, so please share your thoughts and anecdotes on combat situations on our Discord server at discord.gg/enshrouded. You remain as always our favorite part of making Enshrouded happen.\n\n**BUT ALSO**\nWe are still investigating an issue with green luminescent blocks emitting too much light. It\u2019s not you, it\u2019s them.\n\n**CHANGELOG**\n\n-Jump pads are now saved correctly when placed in the player base. Additionally, fixed an issue that caused the placement preview for self-crafted jump pads to be incorrectly rotated.\n\n-Fixed several instances where ladders wouldn\u2019t allow proper climbing. Example locations are in the settlements in the Blackmire, Mark of Sameth, and Willow Crush.\n\n-Fixed several small level design issues with points of interest in the Blackmire area.\n\n-Tweaked the song quest location markers to better point at the target areas.\n\n-Shallow brown mud no longer prevents stamina regeneration. We experimented with this feature to communicate the feeling of being stuck and having to use a lot of energy to move around. However, it had the potential of getting players stuck at the bottom of climbing walls, which is not what was intended.\n\n-Fixed a potential exploit that allowed circumventing mud or tar debuffs by using the skill Bee Sting.\n\n-Moved banners to the crafting recipes offered by Valory the Bard.\n\n-Removed the spear-throwing Vukahs from the Springlands area.\n\n-Added two new dagger models for the Kindlewastes tier.\n\n-Fixed an issue with the Eternal Ice Arrow that could lead to the ammo being consumed, which is incorrect, of course.\n\n-Fixed a visual issue with the Noble Dress vanity set.\n\n-Fixed an incorrect behavior of the skill Merciless Strike, which offered the action several times in a row without allowing the enemy time to replenish their stamina.\n\n-Improved the ambient sound system for better detection of the area around the player.\n\n-Fixed a few instances where the camera would clip into the terrain or props.\n\n-Fixed the collision of secret doors.\n\n-Improved double-jumping uphill. Before, the jump could get unintentionally interrupted when the player character was directly facing a cliff.\n\n-Improved enemy pathfinding when they are walking or jumping down.\n\n-Fixed an issue with some attacks of the Wispwyvern boss that also affected players outside of the boss arena area.\n\n-Fixed an issue with tamed beasts that get stuck while trying to follow the player.\n\n-Fixed an issue when switching between mouse & keyboard and controller or vice versa while in a menu that led to unintentional character movement.\n\n-Fixed an issue that could lead to a visually incorrect terrain texture after fast traveling.\n\n-Fixed a random crash reported by players.\n\n-Reworked the display of damage numbers on enemies to reduce the occurrences of visual overlapping.\n\n-Added a warning when trying to chop wood or terraform without the permission on that server due to the defined user role.\n\n-Fixed a small UI issue with quick-move actions between backpacks and chests.\n\n-The \u201cBarrier lifted\u201d message from the Hollow Halls gates is now correctly displayed at the beginning of the game when having previously quit the session while the barrier is lifted.\n\n-Improved the display of used and available skill points.\n\n-Fixed cases where the enemy stun bar did not correctly show.\n\n-Improved the collapsing and un-collapsing of quest categories in the journal.\n\n-The \u201cFeats of the Flame\u201d widget showed incorrect text overlapping in French and Thai localizations, this has been fixed.\n\n-Fixed issues with the display of the game summary widget at the start of the game session.\n\n-Fixed some cases where world map markers were difficult to click when a quest area was active nearby.\n\n-It is no longer possible to kick players who themselves have the server permission to kick other players.\n\n-Improved the warnings and hints about setting passwords for peer-to-peer server hosts.\n\n-Fixed several typos.",
-        "num_comments": 27,
-        "comments": [
-            "They fixed the random crashes. Oh boy, now I'm gonna dominate the third spire. BEWARE!",
-            "So what are the mage changes?",
-            "\"We are still investigating an issue with green luminescent blocks emitting too much light. It\u2019s not you, it\u2019s them.\"\n\nGood :)",
-            "Wait, you can tame beasts?! Is this like a perma-tame that they\u2019ll follow you everywhere, or is this the skill from the Beast Tamer branch that can get you friends for just a fight or two?",
-            "They fixed the Wyvern shooting me across the map when my mates are fighting it! Uraaaaaaaa!",
-            "Those kids got some MASSIVE hands.",
-            "I haven\u2019t played in a few months. Trued to start the game up via steam.  I can choose my world to load but game now crashes every time. I\u2019ve verified integrity of files as well. \n\nHelp?",
-            "I have an occasional issue where textures stay very low res like they are the LOD ones but stay even when I'm close.   Only happens to certain things.  I notice it on wells a lot.",
-            "Okay, so...where are the changes to magic lol? Please tell me you didn't add a note explicitly acknowledging how terrible and unpopular these changes were and then just not actually fix any of it...",
-            "As far as mages go can you guys revert the shield change? I get the other changes but not being able to block as fast really messes with solo play. I\u2019m not a tank and everything runs faster than me.\u00a0"
-        ]
-    },
-    "Beginnings of a Gothic Fortress": {
-        "title": "Beginnings of a Gothic Fortress",
-        "score": 23,
-        "url": "https://www.reddit.com/gallery/1dlmd4z",
-        "content": "I have aphantasia and cannot imagine things so I kind of have to just put them down until I like them.\n\nAnyway, I haven\u2019t seen anything really built in this style but I am liking it a lot, hopefully the rest of the build turns out as nicely as these bits have.\n\nThanks for looking! ",
-        "num_comments": 1,
-        "comments": [
-            "Looking great! I just tore down my original base at Fort Kelvin so I could repair/remodel the new version that spawns in the map now"
-        ]
-    },
-    "My Tree Base (In progress)": {
-        "title": "My Tree Base (In progress)",
-        "score": 14,
-        "url": "https://v.redd.it/qyiqmrkaq18d1",
-        "content": "Found an absolutely incredible location in the new Biome. I\u2019m so excited to build this out completely.",
-        "num_comments": 6,
-        "comments": [
-            "You just gave me the idea of a build which requires lots of grapple use to get around. Lots of nooks and branch-top areas all interlinked with grapple points.",
-            "Ummm what are you wearing good sir I have never seen that set",
-            "It\u2019s magical",
-            "Very cool make sure you post more when its done!",
-            "That Looks like it has a lot of potential! I can't wait to see IT finished.",
-            "It\u2019s the sage armor set! From the Alchemist:)"
-        ]
-    },
-    "269,9h into game and i have finally found one": {
-        "title": "269,9h into game and i have finally found one",
-        "score": 102,
-        "url": "https://i.redd.it/khrplkf0by7d1.png",
+    "Enshrouded is 20% off as part of the Steam Summer Sale!": {
+        "title": "Enshrouded is 20% off as part of the Steam Summer Sale!",
+        "score": 81,
+        "url": "https://i.redd.it/30rran4jn59d1.jpeg",
         "content": "",
-        "num_comments": 32,
+        "num_comments": 4,
         "comments": [
-            "Im just so happy to find it and wanted to share a bit of my joy to others. Hope yall have a good day flameborns <3",
-            "I havent played since release, im guessing it works now? Because before it didnt do anything.",
-            "Grats mate.!\nI'm in a similar situation but RE shields... Got none yet...",
-            "Let me know when you get a sun hammer. It\u2019s all I want!",
-            "Hmmm you might consider a trick but ...\n\nI created a world for my own, and joined with my lv25 character. Then made my way until that place on the south in the desert that has a small hut in ruins, a dead tree and a gold chest near it. Place an altar there, but making sure it won't affect the chest. You can leave a box to store items there too. \nUse the altar to set your spawn there.\nNow get the chest. Exit your game. \nEnter again. Go get the chest. Exit the game.\nRinse and repeat.",
-            "I am wearing 2 and still haven't got my eagle eye boots",
-            "Isn\u2019t it a set drop from the scyth wraith boss?",
-            "Glad to find a comment mentioning this, I sure hope it got patched. I wore two of these for an embarrassing amount of time before realising they didn't do anything. \n\nI find more of em now and then since, but avoid them every time. They're just hurtful reminders of my ignorance lol.",
-            "Yes, they were patched a while ago - with HH release if I remember correctly.",
-            "I'm sure it's on Wulfics 'Resource World' if you really want it.. Just connect to 64.222.238.149:15637"
+            "I just bought this last week",
+            "Didnt they say a month ago, that the May 20% discount wont come anytime soon again?",
+            "I think you're able to refund it if they put it on sale shortly after you purchase and rebuy it cheaper. Not sure the time span for that though.",
+            "Link for anyone who needs it! https://store.steampowered.com/app/1203620/Enshrouded/\n\nAlso Steam servers are getting slammed right now so if it wont load try again a bit"
         ]
+    },
+    "Roadmap so far ": {
+        "title": "Roadmap so far ",
+        "score": 8,
+        "url": "https://www.reddit.com/r/Enshrouded/comments/1dr67y3/roadmap_so_far/",
+        "content": "Ive looked back at the roadmap for 2024 and to be honest... its a really amazing job what the devs did already for the game and lots of the stuff they said they will add, are already in!\n\nIt is actually a nice change of pace to see a developer that made something like a spam list of realistic features they want to add and actually adding it instead of big-thing-1 and big-thing-2 that are pretty vague what they actually add in and then in the end see big-thing-1 be only partially implemented in a game at the end of the year.\n\nHonestly, this keeps up and the game is gonna turn out even more great than it already is! Considering the devs are also looking in maybe revamping magic use I feel its only starting to spiral up.\n\nFingers crossed!",
+        "num_comments": 2,
+        "comments": [
+            "Got a link to the roadmap?",
+            "Here you go \n\nhttps://www.reddit.com/r/Enshrouded/s/1O3ZRZjScl"
+        ]
+    },
+    "What is the game like in it current state? Thinking of picking it up on Steam sale, but always unsure when it comes to early access.": {
+        "title": "What is the game like in it current state? Thinking of picking it up on Steam sale, but always unsure when it comes to early access.",
+        "score": 8,
+        "url": "https://www.reddit.com/r/Enshrouded/comments/1dr62y2/what_is_the_game_like_in_it_current_state/",
+        "content": "Hello all,\n\nRecently I've been into building/survival games like The Forest, Conan Exiles, Valheim, Palworld, etc. I thought Enshrouded looked really cool as I love fantasy settings, but I'm a bit apprehensive at buying early access games. \n\nIs it mostly complete? Is it in a good state now, or should I wait? It's on sale for steam summer sale so I was thinking of getting it. \n\nThanks ",
+        "num_comments": 21,
+        "comments": [
+            "Dunno how far into the cycle the game is. But holy shit is there a lot to do. Bought the game 3 days ago, and it's one of the best ea titles I've bought. The game is in a very good state I'd say, and knowing there's even more content to come makes it a really good deal.",
+            "Combat is on the easy size outside of vaults.  Large world, fantastic building system, looks fantastic.  You can set up shop most anywhere, inclusion fixing up old ruins.  As long as changes are inside your base zone they stay.  The game isn't complete, you can't finish it, there are still zones to be added, there are balance issues between melee/archery/magic.  No base raids.  It's pretty chill.",
+            "Out of your list i played the forest and valheim. The replayability is 100% better than the forest with better fighting mechanics, the forest is more like a storytelling survival game. Compared to valheim enshrouded is easier to play since you wont get raids, enemies are weaker, resources are easier to find, also I prefer the class based system in enshrouded. But valheim got more content at the moment since you can sail around and there are more areas to explore. If you play alone I would recommend enshrouded because the pace is right on for singleplayer, if you play with friends you might finish the game too quickly (within 50hrs I guess)\n\ntldr: Very solid game that is worth your money",
+            "Fun and worth the money, but not endless playability as it does get boring after a short while.",
+            "It's great, but at thr moment it's missing a lot of QoL Features and balancibg. You can also pick it up on a sale and wait for full release to play.",
+            "It's solid but soulmask does it better.",
+            "I bought it a few months ago and I was impressed with the polish and content. I don't want to play it until it gets 1.0 but I think it will be a fabulous game",
+            "Enshrouded was a lot of fun, but Im waiting on my friends to get it so we can play. We just got sucked into Abiotic Factor and got so busy playing that that enshrouded took a back seat. The world is beautiful, puzzles are fun, combat is a little arcady I found myself jumping instead of rolling to dodge roll was on a weird button for me so it was one of the first things I changed, and your inventory on death though its not as important to grab will sometimes get stuck in unobtainable places so hopefully theyve changed that othe than the building is some of the best Ive had in a game very reminiscent of Minecraft the only limit is your imagination. Another note you slowly unlock flame shrines as you go, but always keep some on hand in case you come across a difficult area (in case you die) or something fun to explore because they work like fast travel points and can be a life saver when you are close discovering towers that will unlock a permanent fast travel point.",
+            "Game is super fun. But my girl and I play in a group of 4. Both of us crash all the time now after putting in about 30 hours. Sadly unplayable in its current state for us.",
+            "Reddit tip: don't ask if a game is good/worth it on the sub dedicated to it. It's like standing in a crowd of football players yelling \"is your team good?\""
+        ]
+    },
+    "My favourite game for months cant stop coming back to it to continue my Bag End & Shire build. Id love for more variety for building, Please! more colour variations of round doors, maybe larger cosmetic/backpacks for traveling, placeable food and more decorations!": {
+        "title": "My favourite game for months cant stop coming back to it to continue my Bag End & Shire build. Id love for more variety for building, Please! more colour variations of round doors, maybe larger cosmetic/backpacks for traveling, placeable food and more decorations!",
+        "score": 6,
+        "url": "https://www.reddit.com/gallery/1dr77cg",
+        "content": "",
+        "num_comments": 0,
+        "comments": []
     }
 }

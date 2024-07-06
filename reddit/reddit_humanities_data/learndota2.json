@@ -1,21 +1,63 @@
 {
+    "How to deal with Enigmas Eidolons in lane?": {
+        "title": "How to deal with Enigmas Eidolons in lane?",
+        "score": 3,
+        "url": "https://www.reddit.com/r/learndota2/comments/1drcq3e/how_to_deal_with_enigmas_eidolons_in_lane/",
+        "content": "Had two separate games today where I played Wraith King safelane into a pos 3 Enigma. The eidolons do so, so much damage and when the wave inevitably gets shoved under my tower and eidolons are tower diving me I had to back and miss the wave or else die.\n\n\nIn both games I jungled/rotated as soon as I got phase boots and ended up winning both games, but I still lost my lane both times. I don\u2019t have too much experience with enigma - is there a way to deal with this while laning? It feels sooo strong and hard to play against in the very early laning stage.\n\n\nDivine 3 btw",
+        "num_comments": 3,
+        "comments": [
+            "You would need a lot of wave clear to consistently deal with eidolons. I think other than Sven or Zeus, perhaps with a Rubick supp, that's very hard. Even those should have a hard time early levels.",
+            "Youre not dealing with eidolons as a wk in lane. Thats something for your support to do, either way getting out of lane as early you can to farm jungle is still the probably the best play you can do",
+            "as a enigma player melee cores cant really do anything vs eidolons, if you try ill just micro them back and use stun, so unless you have a support with aoe stun like lion its pretty mutch impossible lane. best tip is probably leave lane as soon as possible its not worth it cus i will deny every single creep at lvl 3 and forward"
+        ]
+    },
     "How do you play against Lone Druid?": {
         "title": "How do you play against Lone Druid?",
-        "score": 10,
+        "score": 22,
         "url": "https://www.reddit.com/r/learndota2/comments/1dqzvnb/how_do_you_play_against_lone_druid/",
-        "content": "Was playing against a mid LD and got absolutely bodied by the bear tanking the tower whilst LD was comfy hitting me from the middle of the lane. \n\nAbout 8 minutes into the game, the writing was on the wall (guy who picked pos1 def didn\u2019t help), but what could I have done here? I was playing lycan with spirit wolves",
-        "num_comments": 20,
+        "content": "Was playing against a mid LD and got absolutely bodied by the bear tanking the tower whilst LD was comfy hitting me from the middle of the lane. \n\nAbout 8 minutes into the game, the writing was on the wall (guy who picked pos1 pudge def didn\u2019t help), but what could I have done here? I was playing lycan with spirit wolves\n\nEdit: pos1 picked pudge* and thank you for your answers",
+        "num_comments": 45,
         "comments": [
-            "I play a lot of LD, the answer is, you need a gank. otherwise it's gg",
-            "Y\n\n>playing lycan with spirit wolves\n\nYou played Lycan against LD at mid?",
             "If you can't win lane, just gank other lane, Lycan's mobility should be better than LD.",
+            "I play a lot of LD, the answer is, you need a gank. otherwise it's gg",
             "By picking the correct Facet. Lvl 4 wolves severely lower the atk speed of the bear. Together with Helm of Dom and Lycan Ult, you should be able to overpower LD who did not keep a skill point to be added unto Ult or Savage Roar for scenarios where he is ganked on, or to dispel the bear (by levelling up the bear).\n\nAlso, just ignore LD and gank other lanes. Some heroes just have a better power spike if left unchecked in the lane, and you shouldn't just be stubborn about it to stick around to hope something will change, unless you have useful teammates that want to gank to change that.",
+            "U cant do much as lycan. Its essentially 2 universal heroes last hitting against 1. There are easier laning matchups like lina who can hit the bear for free and secure cs with nukes, but lycan pretty much has to gank other lanes with his 6.",
             "First mistake here is picking Lycan mid",
-            "U cant do much as lycan. It\u2019s essentially 2 universal heroes last hitting against 1. There are easier laning matchups like lina who can hit the bear for free and secure cs with nukes, but lycan pretty much has to gank other lanes with his 6.",
-            "One of the big secrets against lone druid is that his pet bear if he chooses the facet that just transforms him, his pet bear is actually very killable until it gets AC and Skadi or something.\n\nIf you have a solid right clicker, SF for instance. Just kill the pet bear every time it shows. If you kill it twice his hero kind stops working for a few minutes which is way worse than even the main hero dying for lone druid.\n\nThe 300 gold is nothing to scoff at. The main hero in many ways is a 'distraction' It's designed in a way to try to make you ignore the pet bear and waste your time on sometihng with 4k hp and 30 armour. When the bear is runing around with MoM Deso, Diffusal with like 5 armour and 2.5k hp. Ignore the hero, just torture the pet bear every single time and focus it and his hero will suddenly feel super shit to the point where he put all his items on the bear but he's afraid to even sent it out anymore.\n\nIt's easier on a ranged hero that can harass the bear when it goes to last hit and can bait the bear into the tower if he tries to send the bear at you, while he tries to last hit.",
-            "The hero that I have the best winrate against is LD. ~4k dota\n76.5% with sniper - 17 games\n87.5% with windranger - 8 games\n\nPick a hero that can hit either the bear or syllabear and not just get bodied or pushed.",
             "Harass the bear it wont agro their creeps",
-            "Lycan is a horrible matchup vs LD. The answer is to ignore him and lane. Go jungle and hope your side lanes are useful."
+            "Most LD i see , they just push, die, push , die.  \nLike Huskar.   \nDunno whats that strategy but most of times im scared at start, and then i win.",
+            "Lycan is a horrible matchup vs LD. The answer is to ignore him and lane. Go jungle and hope your side lanes are useful.",
+            "Just kill the bear on the first levels all the time when you're not lasthitting. When he sends it to base, free lasthits and maybe even a kill. Tps and resummon have a huge cd",
+            "Pick elder titan and smack bear"
+        ]
+    },
+    "What To Do When Team Only Farms": {
+        "title": "What To Do When Team Only Farms",
+        "score": 6,
+        "url": "https://www.reddit.com/r/learndota2/comments/1dr69gv/what_to_do_when_team_only_farms/",
+        "content": "In my games we finally win a team fight, the entire team decides to either split up and try to push tower in different lanes or back to jungle farm. In both cases we don\u2019t end up getting a tower because the enemy still has 1 or 2 heroes up and us splitting makes things so much harder. I\u2019m wondering why do people want to split up all the time? Is it the right move and I\u2019m just the idiot who thinks staying together we are stronger and can actually push. Whereas if we split we are prone to be picked off and weaker? ",
+        "num_comments": 8,
+        "comments": [
+            "It depends. There are some timings where you have enough firepower to kill all of them, but not enough to siege high ground. For example, your carry may have identified an enemy who could be a potential threat and he has worked out an item that will eliminate that threat in advance (e.g. an enemy necro who hasnt gotten big yet but your carry wants to get nullifier or skadi in advance). In that case, you might have to let him farm for it before attempting high ground. However, there are some players who just want to be 5-slotted at least before pushing. So, it really boils down to good communication and one-ness in goals and your road to achieving that goal.",
+            "Sometimes I make my way to ancient while 1 or 2 are still farming, then throw the game and they get so pissed lol. Some people avoid fighting and at the end glorify themselves on higher gold or low deaths, like thats what matters.",
+            "Ideally you want to do a bit of both. Splitting up allows you as a team to get more gold and exp out of the map but as you say it leaves people exposed to being picked off. However If you always stay together  you will fall behind in exp and gold compared to a team that it all farming separately (unless your opponents are dumb enough to keep walking into you) as youll be sharing exp and contesting each others farm all the time. So yea its all about finding a balance.\n\nId say in generally you want to split up to push the lanes out when you know where the enemy is and come together when you either don't know where they are or when you do and are ready to make a smoke play or something.",
+            "Nice answer thanks, especially the part with gem, is rarely use it except when invis hero on enemy team",
+            "I think the hardest reason to keep a status que in game state that is in your favor is simply the attention span and thirst for engagements of most players (most notably your own team). Most players have a \"I want to win NOW\" mentality even though the better play could be to just split the map, farm, and keep the enemy in their base. Some people literally choose to never play this way even though it is often times the best play.",
+            "Onlyfans",
+            "In theory if you control more of the map than your opponent, you are getting more gold than them. If your opponent is stuck in their triangle while you farm both jungles, then the onus is on *them* to move out, not necessarily for you to move in. The status quo benefits you, and you dont always need to rock the boat. It might be more beneficial for you to let your carry spend two minutes farming for their BKB and then pick up aegis before taking more towers.\n\nWith that said, this can be difficult to actually apply in games. Smoke of deceit gives teams an opportunity to break out of this position and it can sometimes be difficult to maintain the defensive vision you want for this.\n\nWhen I find myself in this position where my cores want to get stronger while we have an advantage, I focus on vision. I pick up a gem to choke out the wards on the map to make it more difficult for the other team to leave their base safely. I set up a line of observer wards so that the opposing team has to either smoke out or pass through a ward to get to a camp. And I keep myself nearby an aggressively farming core in case the enemy is trying to make a move.",
+            "Except for T1 towers that you can push fast, the rest is not worth it if you have no much push potential (let's say your carry died during fight). So better push your advantage after the team fight by pushing other lanes and finding easy farms while heroes are still dead. You farm while they can't cuz they're dead.\n\nLet's say you took t1 mid and team wiped while side lanes are pushed in. You surely used your biggest spells to win fight so they are all in cool down and you spam ping to push t2 while you have no push potential and they gonna glyph it anyway + enemy team respawning. While your carry and mid could have tped to side lanes to farm 2 waves + x jungle camps safely (enemies dead). \n\nAt the end pushing a t2 with 1st aegis and t3 with 2nd aegis and ultis available are the safest way but it's not even automatic. How many times you see team going hg with 1st aegis and getting wiped and now game is even. And of course supports blaming carry if they tp to farm after getting aegis while it was actually the right decision."
+        ]
+    },
+    "I wanna pick up Brewmaster. Any tips?": {
+        "title": "I wanna pick up Brewmaster. Any tips?",
+        "score": 7,
+        "url": "https://www.reddit.com/r/learndota2/comments/1dr4xlu/i_wanna_pick_up_brewmaster_any_tips/",
+        "content": "I have been wanting to learn Brew for quite a while. He seems like the one Offlane hero that solo carries games. I am 6.2k mmr atm so I won't play ranked with him until I have a decent understanding of the hero. Any tips or guides I should know about? Item builds and tips on laning, cou ters, strengths weaknesses, timings builds, any and all info is appreciated.",
+        "num_comments": 4,
+        "comments": [
+            "check monkeys forever guide on youtube",
+            "Feel free to check dota2protracker for builds. As for me the default thing i didnt understand at start - learn your E rotation. And when you use W your E effects are doubled - that can save your life or give you kill on lane.",
+            "Micro isn't an issue for me.",
+            "Learn how to micro"
         ]
     },
     "So I hit 3k after years of playing. ": {
@@ -23,51 +65,16 @@
         "score": 3,
         "url": "https://www.reddit.com/r/learndota2/comments/1dr6abm/so_i_hit_3k_after_years_of_playing/",
         "content": "Pos 4/5 in the best putang ina SEA server.\nSpamming warlock and WD.\n\nWhat's a good alternative hero to grind MMR from now onwards?",
-        "num_comments": 3,
+        "num_comments": 8,
         "comments": [
-            "I've had the most success with willow. She's nerfed now but still playable. Keep spamming wd and warlock they're strong.",
+            "Spirit Breaker 4, been spamming it in Ancient.",
+            "I went from 3.2k to 5.5k spamming Visage back in 2017, and reached top 3# on the hero ranking on Dotabuff. This was when the birds had to be recharged by dropping them in order to get 7 stacks of \"damage\"\n\nI shouldn't have been that high, but I did get super comfortable and had more time to look at the bigger picture of the game instead of everything I do with my hero, which made me a better player",
             "I also play pos 4/5 and i think best pos 4 is Vengeful Spirit.",
-            "Eyy congrats broo. BH pos 4 brad medyo coinflip or AA pos 4 na semi carry pag late game"
-        ]
-    },
-    "I wanna pick up Brewmaster. Any tips?": {
-        "title": "I wanna pick up Brewmaster. Any tips?",
-        "score": 4,
-        "url": "https://www.reddit.com/r/learndota2/comments/1dr4xlu/i_wanna_pick_up_brewmaster_any_tips/",
-        "content": "I have been wanting to learn Brew for quite a while. He seems like the one Offlane hero that solo carries games. I am 6.2k mmr atm so I won't play ranked with him until I have a decent understanding of the hero. Any tips or guides I should know about? Item builds and tips on laning, cou ters, strengths weaknesses, timings builds, any and all info is appreciated.",
-        "num_comments": 2,
-        "comments": [
-            "Feel free to check dota2protracker for builds. As for me the default thing i didnt understand at start - learn your E rotation. And when you use W your E effects are doubled - that can save your life or give you kill on lane.",
-            "check monkeys forever guide on youtube"
-        ]
-    },
-    "Why is wd almost never picked in pro scene?": {
-        "title": "Why is wd almost never picked in pro scene?",
-        "score": 38,
-        "url": "https://www.reddit.com/r/learndota2/comments/1dqm247/why_is_wd_almost_never_picked_in_pro_scene/",
-        "content": "While you see him every pub game?\n\nIsnt wd with shard->glimmer->aghs/blink really good?",
-        "num_comments": 39,
-        "comments": [
-            "He's banned every single game.",
-            "He is picked or banned in more than half of games right now. It just so happens that he's banned in about 43% of games, so you don't get to see him that often.",
-            "It was very highly contested last patch with voodoo festeration, it was first picked or banned pretty much every game.\n\n\nTo answer your real question, playing around ult/shard is simply not as good in pro play. Pros are a lot better about playing around those skills, baiting them out without committing and not grouping for cask. WD is a skill test for enemies more than a strong character.\n\n\nEvery time it sees pro play, which it has a few times in the last 2 years including the most recent patch, it's because voodoo restoration is strong and that's what pros play around. The ult and shard are still parts of his kit that are useful in pro play but not strong enough by themselves.",
-            "This is actually a hillarious post",
-            "Shard glimmer aghs blink  in **pro scene**?   \nYou will lose in 10 mins",
-            "Watch Gaimin vs Quest group stage 1win summer to find out exactly why.",
-            "Pro players don't let his ulti channel. Even when he was terrorizing low level pubs a few months back he didn't get picked in pro scene for this reason.",
-            "[deleted]",
-            "No. Until the previous patch that buffed his W to stupid levels, the hero was hot garbage in high mmr games because his q/e/r are extremely easy to play around, leaving him with only his W as a reliably impactful spell.\n\nOn top of that his base stats have been terrible for a long time, leaving him with a really bad laning phase.\n\nLastly, he was seeing the ocassional odd pick before 7.35, but 7.35 making his W not deal damage anymore by default just cemented him as completely unpickable.",
-            "Because they ruined WD, like almost everything since new map and new facets; it\u2018s heaven for content creators and hell for players. There are not more players, there are more smurfs and account buyers then ever before. \nSomeone know why Grubby quit? Was it because of toxic community? Now it\u2019s toxic like 2014 again. Same Toxic players every match; nothing happens."
-        ]
-    },
-    "What To Do When Team Only Farms": {
-        "title": "What To Do When Team Only Farms",
-        "score": 1,
-        "url": "https://www.reddit.com/r/learndota2/comments/1dr69gv/what_to_do_when_team_only_farms/",
-        "content": "In my games we finally win a team fight, the entire team decides to either split up and try to push tower in different lanes or back to jungle farm. In both cases we don\u2019t end up getting a tower because the enemy still has 1 or 2 heroes up and us splitting makes things so much harder. I\u2019m wondering why do people want to split up all the time? Is it the right move and I\u2019m just the idiot who thinks staying together we are stronger and can actually push. Whereas if we split we are prone to be picked off and weaker? ",
-        "num_comments": 1,
-        "comments": [
-            "In theory if you control more of the map than your opponent, you are getting more gold than them. If your opponent is stuck in their triangle while you farm both jungles, then the onus is on *them* to move out, not necessarily for you to move in. The status quo benefits you, and you don\u2019t always need to rock the boat. It might be more beneficial for you to let your carry spend two minutes farming for their BKB and then pick up aegis before taking more towers.\n\nWith that said, this can be difficult to actually apply in games. Smoke of deceit gives teams an opportunity to break out of this position and it can sometimes be difficult to maintain the defensive vision you want for this.\u00a0\n\nWhen I find myself in this position where my cores want to get stronger while we have an advantage, I focus on vision. I pick up a gem to choke out the wards on the map to make it more difficult for the other team to leave their base safely. I set up a line of observer wards so that the opposing team has to either smoke out or pass through a ward to get to a camp. And I keep myself nearby an aggressively farming core in case the enemy is trying to make a move."
+            "I've had the most success with willow. She's nerfed now but still playable. Keep spamming wd and warlock they're strong.",
+            "Eyy congrats broo. BH pos 4 brad medyo coinflip or AA pos 4 na semi carry pag late game",
+            ">Spamming Warlock & WD\n\nI fucking hate you and your boring playstyle. I don't even hate playing against these two. I hate playing WITH these two",
+            "any tips on how to play willow as 5? Laning? Match ups? Timings?",
+            "Veno for ez mmr"
         ]
     }
 }

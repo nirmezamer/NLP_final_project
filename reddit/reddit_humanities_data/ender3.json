@@ -1,7 +1,7 @@
 {
     "New General and Help chats are now open! ": {
         "title": "New General and Help chats are now open! ",
-        "score": 6,
+        "score": 7,
         "url": "https://www.reddit.com/r/ender3/comments/1brpuuu/new_general_and_help_chats_are_now_open/",
         "content": "If you have any feedback please feel free to drop a comment",
         "num_comments": 136,
@@ -9,89 +9,69 @@
             "where can i find termistor for heat block? the only one i can find is on aliexpress that i ordered a week ago and they just extended the delivery date to may 5th but i need it faster than that.",
             "My Ender 3 Pro stops mid-print, citing a \"power outage\" as the reason. It's not a power outage, because everything else in my room works just fine. It gives me the option to resume or stop the print, but regardless of what I do, it shifts around like it wants to print, and then has another power outage.",
             "Is there a way to opt-out of the chat feature but remain a member of the sub?",
-            "With the recent sale happening on Creality's website, which 3D printer would be the best option for an absolute beginner? I was looking at the Ender 3 S1 Pro as it is currently 269\u20ac (down from 489\u20ac).",
+            "With the recent sale happening on Creality's website, which 3D printer would be the best option for an absolute beginner? I was looking at the Ender 3 S1 Pro as it is currently 269 (down from 489).",
             "Total noob. All i can make is spaghetti. trying to print the cat geode.",
             "General Q\nDoes anyone make higher end Ender3 beds?\nLike one that is stiffer and is more likely to stay perfectly flat and is milled for perfection?",
             "I cant get filament to stick to the bed at all. Releveled multiple times and it just wont stick. Center of the bed is also too low and I can't find any advice on raising it. Maybe I need to change z offset?",
-            "Brother-in-law has a stock Ender 3, no versions or anything just base, and it was pretty recent so not a ton of experience. I'm not familiar with FDM, all my experience is Elegoo resin, but I have a project he's agreed to help with. Nozzle and print bed questions\n\n  \ntl;dr is there a recommended texture printbed for Ender 3, and a standard Prusa Slicer profile for 0.2mm, as it only seems to have 0.3 listed? The texture bit I'd love a guide or tutorial for, as I don't really understand that at all, I see things about magnets and glue sticks pop up when I search?",
-            "Hi All, I hope this is the place to ask questions, I've never really used reddit and this is my first post. \n\nBorrowing my buddies Ender 3 Pro while he's out of the country for my capstone project in college. I'm still a noob, but I've watched a lot of YouTube videos for beginners, and I thought I had the hang of the printer.\n\n  \nThe issue I'm having is when the print starts. Before a print, I always level the bed, pre heat, put filament, the usual stuff, but when the print actually starts, the nozzle moves 2-3 cm from the perfect bed level I had done and starts printing. Since the nozzle is so far away, the print just auto fails, and I can't seem to figure out why the printer keeps on doing this. It does it on every print I have on the SD card. I've watched countless YouTube videos on troubleshooting this problem but I can't seem to figure out the issue. \n\n  \nAny help/advice is greatly appreciated. Thanks for your time : )",
-            "Hey, I am new on Reddit and trying to find out what's wrong with my E3 V2 printer but my post gets deleted the following seconds I create it. What's happening?"
+            "Hey, I am new on Reddit and trying to find out what's wrong with my E3 V2 printer but my post gets deleted the following seconds I create it. What's happening?",
+            "I just got my first 3D printer, which is an Ender 3. Been working fine for 36 hours with no issues but now it freezes around the 3-4 minute mark. Doesn't matter what file or SD card i'm printing. however if i connect with USB cable to my PC it prints fine.",
+            "HOW LONG DOES atou home ur ender 3 v2"
         ]
     },
     "PSA check your gantry screws, found mine were loose while doing a rebuild.": {
         "title": "PSA check your gantry screws, found mine were loose while doing a rebuild.",
-        "score": 32,
+        "score": 38,
         "url": "https://i.redd.it/tawfvenwhd9d1.jpeg",
         "content": "",
-        "num_comments": 20,
+        "num_comments": 21,
         "comments": [
             "Your blue wheels are cute :D",
             "Wheels can't be loose if theyre all rails\n\n-points to head-",
             "When those get loose, the gantry starts to sag in an unpredictable way. So you end up releveling the bed more often than normal. Or you install a CR-Touch, forget about the gantry screws, and find out a while later like I did...\n\nI also love those blue wheels.",
             "Google. Ender 3 x gantry rework there is a example YouTube video by edge of tech about maintenance",
             "Mine was the nozzle part.  The 2 screws that hold it onto the plate has came loose and I only found out when I went to change the nozzle when it would print anything properly",
-            "When you get the wheeeels, I looked on Amazon couldn\u2019t find any",
+            "When you get the wheeeels, I looked on Amazon couldnt find any",
             "Get rid of those split ring lock washers. The don't help retain the screw and in some case can help the screw loosen.",
+            "Yeah these are common spots where screws get loose, I still not sure why tho",
             "I'd like to think people would check screws when rebuilding their printer. Hard not to I guess",
-            "[deleted]",
-            "Thanks"
+            "Things I never knew I needed until now."
         ]
     },
-    "Can't auto level": {
-        "title": "Can't auto level",
-        "score": 5,
-        "url": "https://v.redd.it/h3ui43u75f9d1",
-        "content": "Hey yall, I am having fun this issue with my max neo. When I auto level it is about 7mm to the right of center and then when I try to auto level it bangs on the left side as shown in the video.\n\nI tried finding a way to do an x offset but can't find it. Also tried tightening and loosening the tension on the x bar. Unsure what happened to cause this.",
-        "num_comments": 17,
-        "comments": [
-            "Call a priest!",
-            "Could you please share the link for the printables gadgets you use on your ender 3? Is sprite so worthwhile? How much weight it has?",
-            "My display is common, not a touchscreen as well, mine has de 32 bits plate, does it allows me to use an touch display ?",
-            "Oh yeah, got it! Thanks for you answer ma man!",
-            "Have you made any mods? Did you try updating the firmware? It sounds to me like you have the wrong offset parameters and maximum travel values loaded.\n\nOn the other hand, are you sure it is the max? It looks like the ender 3 neo v2, the max has a 300x300 bed, but this is just my eye, maybe I'm wrong.",
-            "It kind of looks like your PTFE tube is too short and is stopping your hot end from going further.  like a dog on a leash\n\ntry disconnecting the PTFE tube from your extruder and then run the bed leveling. if the printer levels fine then you will need to replace the PTFE tube.",
-            "Your ptfe tube is really taught. It looks like thats stopping you. Check there first.",
-            "Thanks for clarifying this matter!",
-            "Well damn. I was afraid this was the answer.",
-            "It all came as stock for the max neo"
-        ]
+    "if i had to, could i do 2 small prints in polycarbonate?": {
+        "title": "if i had to, could i do 2 small prints in polycarbonate?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/ender3/comments/1drco4a/if_i_had_to_could_i_do_2_small_prints_in/",
+        "content": "ender 3 v3 se stock. i know it really isn't designed for it but i literally just need 2 parts, could i do them on it with a lot of work? i do have an enclosure.",
+        "num_comments": 0,
+        "comments": []
     },
     "Nozzle keeps trying to descend below bed": {
         "title": "Nozzle keeps trying to descend below bed",
-        "score": 3,
+        "score": 6,
         "url": "https://v.redd.it/ygav92nzrf9d1",
         "content": "Hi, I'm new-ish to 3d printing and just modified parts for the first time. I bought the silent motherboard V4.2.7 marlin 2.0.1 recently from amazon and while I was at it i got the BLtouch too. Now when I autohome instead of the corner, it goes to the middle of the bed, and when it tries to home the z axis it ignores the steppers (at least that's what I think they are call). Any help is appreciated. I know next to nothing about computers so please go easy on me.",
-        "num_comments": 10,
+        "num_comments": 11,
         "comments": [
             "First look up a tutorial on instaling a bl/cr touch(close enough). then change z-probe offset",
-            "So the z end stop switch means nothing with a crtouch it actually can be fully removed. The crtouch is setting your end stop. Now your issue is the nozzle is lower than your crtouch probe when extended. So to solve this you need to add some spacers to the crtouch to lower the crtouch so it can activate the probe before",
             "UPDATE: I found that the BL Touch wasnt getting triggered, I was able to trigger it with my finger and then it stopped hitting the bed, but that means that my nozzle is taller than my BL Touch, but it should be a standard nozzle.... soo... now im stuck again.",
             "ps: i found out what i thought were called steppers were actually called limit switches",
-            "i tried to change it to 4.3mm which was the height just before it touches the bed but it didnt work. Am I not understanding z-probe offset correctly?",
             "how does one add spacers? is it like an on the computer kind of thing or something id have to get from amazon or something?",
+            "i tried to change it to 4.3mm which was the height just before it touches the bed but it didnt work. Am I not understanding z-probe offset correctly?",
             "Well, the difficult part is done. You just need to mount your probe lower. Spacers are small round objects with a role in the middle that go between the mount and the probe, using those will make the probe lower. You can print them to the size you need, or use metal ones if you already have some laying around.",
-            "Do the first thing, it should tell you how",
+            "The steppers are the motors",
             "You can get little washers",
+            "Do the first thing, it should tell you how",
             "AMAZING! THANK YOU"
         ]
     },
-    "X axis not moving at all": {
-        "title": "X axis not moving at all",
-        "score": 8,
-        "url": "https://v.redd.it/1zhacdl9id9d1",
-        "content": "I just bought an ender 3 3d printer and set it up. Everything was going well until i started to print. The printer (or nozzle i guess) doesn\u2019t move on the x axis. It used to only be able to move left when not in printing mode, but now it does not move at all. I know my extruder and x axis wires are in the right places. I have no idea what\u2019s wrong with it and was wondering if i could get some help. \n",
-        "num_comments": 27,
+    "Printed it with my Ender 3v3 se but the surfaces are really bad. Help?": {
+        "title": "Printed it with my Ender 3v3 se but the surfaces are really bad. Help?",
+        "score": 1,
+        "url": "https://www.reddit.com/gallery/1drajrr",
+        "content": "",
+        "num_comments": 1,
         "comments": [
-            "So couple things. Main issue see the belt flopping that means the belt is to loose. It is skipping teeth on the motor so thats why x isnt moving. You need to tighten that belt.\n\nSecond thibg your z height is way to high. You will not have material stick that high up. Highly encourage watching a youtube video on setting up your printer.\n\nDid you buy this new? If so what did you pay? If you paid more than $100(even that) id return it and save a little more and get a v3 se for $179 the print speed and quality of life improvement are way better or a bambu a1 mini for $199.",
-            "Post number 173078 showing why people think every ender 3 owner was dropped on their head as a child",
-            "The way the belt is shaking makes me think maybe the belt isn't tight enough, in the right side there should be an adjustable wheel you can move to the right by hand, and tighten down with an Allen key once it's under a little more tension\n\nDoes your belt feel loose to the touch?",
-            "Check the belt tension.",
-            "You can hear the belt skipping, loosen the 2 horizontal bolts on the right of the gantry(no need to remove), pull it as hard as you can to the right, hold it and tighten the bolts. Should have been done when you assembled the machine, it's in the instructions.",
-            "An inflatable wavy arm guy flaps less than those belts",
-            "If you find this troublesome, you should return it. Ender 3 are notorious for high maintenance so unless you want to make it your hobby to fiddle with 3d printers then you better go for something higher end with auto leveling and other features.",
-            "Oh the sounds of the ancestors I love it",
-            "Why would you buy this thing new if you can get a Ender 3 V3 SE for under 200$ brand new? I feel like you did no research and didn\u2019t properly read the manual on how to build your printer. The V3 SE comes with a SD card that has a video instruction on how to build the thing on it.\n\nEven though the sd card slot or mine is broken now after 2 months, I love mine. It\u2019s easy to use and works wonderfully.",
-            "I had same issue... tighten the bracket that holds the x axis screen a good bit and make sure it's plugged in right"
+            "I would calibrate esteps, and Look if the nozzle is clogged.. at which settings?"
         ]
     }
 }

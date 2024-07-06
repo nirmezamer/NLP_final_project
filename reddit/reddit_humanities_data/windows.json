@@ -1,83 +1,85 @@
 {
     "Simple questions and Help thread - Month of June": {
         "title": "Simple questions and Help thread - Month of June",
-        "score": 0,
+        "score": 5,
         "url": "https://www.reddit.com/r/windows/comments/1d5lf1b/simple_questions_and_help_thread_month_of_june/",
         "content": "Welcome to the monthly Simple questions and Help thread, for questions that don't need their own posts!\n\nBefore making a comment, we recommend you [search your problem on Bing](https://www.bing.com/search?q=Windows+issue) and check if your question is already answered on our [Windows Frequently Asked Questions wiki page](https://www.reddit.com/r/Windows/wiki/faq). This subreddit no longer accepts tech support requests outside of this post, if you are looking for additional assistance try r/TechSupport and r/WindowsHelp.\n\n\nSome examples of questions to ask:\n\n- Is this super cheap Windows key legitimate? (probably not)\n\n- How can I install Windows 11?\n\n- Can you recommend a program to play music?\n\n- How do I get back to the old Sound Control Panel?\n\nSorting by New is recommend and is the default.\n\n----\n\nBe sure to check out the [Windows 11 version 22H2 Launch Megathread](https://www.reddit.com/r/Windows11/comments/xj877b/windows_11_version_22h2_build_22621_launch/) and also the [Windows 11 FAQ](https://www.reddit.com/r/Windows/wiki/faq) posts, they likely have the answers to your Windows 11 questions already!",
-        "num_comments": 60,
+        "num_comments": 81,
         "comments": [
             "I have a program that can only be resized by dragging from the bottom, but with me being unable to move the task bar at the bottom in windows 11, I cant resize it. Is there a way around this?",
             "Can't activate Windows after reinstall\n\nI've bought a Samsung 990 Pro SSD and a new Windows 11 Pro key when I first got my G14. After recently finding out that Bitlocker was only using software encryption, I was forced to reinstall the OS again to enable hardware encryption. Now Windows claims it's unable to activate, even after manually typing in my own key because \"it looks like the hardware on this device has changed\" when it definitely hasn't. Now looking at the product key on the bottom of that settings page, it clearly seems to insist on using what seems like the original key that was preinstalled with my G14 which was for the Home edition and it's not letting me replace it with my Pro key due to the error message above.",
-            "I've got a US keyboard layout as it's a 65% size, is there a way of mapping Ctrl+<a key> to output \\\\ for instance and Ctrl+shift+<a key> = |\n\n  \nUsing the registry if at all possible. \n\n  \nI've got sharp keys but that looks like it can only do 1 to 1 replacements?",
-            "Simple question but.. way back when 3.1 and 95/98 were still in active use. People could use animated GIF for wallpaper and it'd work. Then Microsoft said no more and blocked that with XP I think. I recall hearing claim that animated GIF wallpaper on XP and later would be too demanding on CPU.\n\nToday's computer has enough power to emulate Pentium III and Windows XP yet we still can't use animated GIF or APNG for wallpaper without needing 3rd party program.\n\nWhat was the real reason Microsoft blocked the animated GIF in the first place?  And what would you suggest for animated wallpaper for W11? I want to use 2 different large GIFs (if you're familiar with trippy art from P Robertson, those GIFs!!) and have them stretched out on 2 monitors.",
-            "I hope this is the right place to ask this, had a lot of trouble finding a firm answer to this question.\n\nI've been trying to adjust my UAC to always require credentials to be entered, even for Admin accounts. I am trying to avoid KeyStroke Injection and the simple Yes/No prompt required by Admin level accounts seems weak against this. Is this a legitimate concern? And if so, how can I force UAC to always require administrator credentials to be entered?\n\nThank you in advance for any assistance.",
-            "I could use some help.\n\nFor some reason after my PC randomly shut down and updated Windows on its own while in the middle of playing a game, my Windows keeps creating these empty Notepad files on my desktop labelled \"log\" with a bunch of numbers after.\n\nIs there a setting I can turn off to prevent this? Its pretty annoying. They get created at random and not after I do anything specific.",
-            "I\u2019m not sure if this is a simple question or not because I\u2019m not really educated much in this area. But the wifi option in my laptop has disappeared for two days in a row now, both times I did a network reset which was what the troubleshooter told me to do. The second time it didnt work, so now I\u2019m worried about the potential indications this has for my device as it\u2019s the only one I have and I\u2019m starting college soon.",
-            "Don't see anyone elses questions being answered but Imma try anyway since its really simple:\n\nShould I upgrade to windows 11?\n\nBasically since theres about a year left of win 10 support I got a popup about it that told me Im not eligible for win 11 even though the windows settings has said I am since windows 11 started, but I've heard mixed opinions about it so I've been putting it off since win 10 works, but now that we are getting closer to ended support I may just have to upgrade\n\nanyway yea dumb question ik but at least im not making a full post about it",
-            "Hello. I want to factory reset Windows 11. But when I click on reset, a key code appears that needs to be typed. The problem is that the first part of the code has a few letters, but letters cannot be typed there, only numbers.\n\nI have two questions:\n\n1 - Why do I need to type this code? Previous Windows did not require any key codes for the reset .\n\n2 - Do I need to skip the small part with letters and enter only the part with numbers, or it is a bug?",
-            "I really like the virtual desktop on windows and utilize 2 or 3 at a time. However, the control+windows+arrow key is too much to quickly and easily go back and forth between them.  I have a mouse that has a scroll wheel that I can push both left and right. Is there anyway to make that left and right click (or any of the few side buttons on the mouse) flip me between virtual desktops?"
+            "Im not sure if this is a simple question or not because Im not really educated much in this area. But the wifi option in my laptop has disappeared for two days in a row now, both times I did a network reset which was what the troubleshooter told me to do. The second time it didnt work, so now Im worried about the potential indications this has for my device as its the only one I have and Im starting college soon.",
+            "I really like the virtual desktop on windows and utilize 2 or 3 at a time. However, the control+windows+arrow key is too much to quickly and easily go back and forth between them.  I have a mouse that has a scroll wheel that I can push both left and right. Is there anyway to make that left and right click (or any of the few side buttons on the mouse) flip me between virtual desktops?",
+            "I have a Windows 10 Home key I am going to deactivate on my dual-boot macbook to use on my new custom PC.\n\nOn the new PC, can I fresh install Windows 11 Home and use the 10 key? Or do I have to start with 10, activate, then upgrade to 11?",
+            "when do we actually get reviews of the arm snapdragon laptops?",
+            "My phone does not allow data to be transfered. This \"do you trust this computer\" pop up window never appears or does not work when I do agree. IPhone 12 mini, does that have something to do with it being a work phone?",
+            "Why is my Windows 11 install showing location as: \"Microsoft Data Center Boydton, Herbert Dr, Boydton, VA 23917\" - I live in Canada",
+            "Hey all! when I use the window directional snapping keys, Win+[Arrow keys] the windows have defaulted to snapping to the left quarter, middle half, and right quarter. This is changed within the last year it seems. I have until this change been able to snap to the right-half and left-half. Is there a way to get it back or should I just make the switch to Win+Z?",
+            "I desperatly need help. Everytime i open my pc it blue screens about 1-3 times. I have tried everything but nothing works. My pc is a pre-build."
         ]
     },
-    "[CONCEPT] all the essential start menu components in one click, no distractions.": {
-        "title": "[CONCEPT] all the essential start menu components in one click, no distractions.",
-        "score": 141,
-        "url": "https://i.redd.it/qcv4bskoe08d1.png",
+    "Overkill Windows 7 Build": {
+        "title": "Overkill Windows 7 Build",
+        "score": 140,
+        "url": "https://www.reddit.com/gallery/1dqth61",
         "content": "",
-        "num_comments": 54,
+        "num_comments": 49,
         "comments": [
-            "\nFor more designs, concepts and ideas related to Windows, check out r/Windows_Redesign!\n_____\n\n*This submission has NOT been removed. Concept posts are always allowed here as per our community rules.*\n  \n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/windows) if you have any questions or concerns.*",
-            "[Looks like the KDE start menu](https://uploads.golmedia.net/uploads/articles/article_media/1228818921709045295gol1.png)",
-            "Nice concept, looks pretty and functional.\n\nYou could cram in an advertisement banner, or a few \"sponsored\" programs here and there though.",
-            "Microsoft loves distractions. They would never",
-            "You can do it with an app called Windhawk.\n\nhttps://preview.redd.it/k71j3sjvz18d1.png?width=1376&format=png&auto=webp&s=6778de13b50b9476cf0113742201997ea5b43b8a",
-            "Looks great!",
-            "Like in W10, with the all apps list in view. This customization looks nicer tho.",
-            "i'd move the search bar to the bottom and make it auto focus on the search bar when u open the start menu. apart from that, actually perfect. functional and pretty. ms should hire u",
-            "Beautiful!",
-            "so the the windows 10 start menu?"
+            "Icl I really miss how beautiful windows used to look nowadays it just looks so bland. We have such powerful hardware now but all of it is wasted on telemetry instead of actually using it to look good.",
+            "Always liked the Vista or 7 UI.",
+            "I love Windows 7, not bloated, 0 AI shit, no Ads, no tons of preinstalled shit. Of course Windows 10/11 have more modern technologies and way ahead in stability, but I miss so much the seven.",
+            "are you seriously running a ryzen 7 with 48gb of ram and an RTX 3060 on windows 7 beta",
+            "How is It not 9,9 and mine Is...",
+            "masterslender found in the wild lol",
+            "This is definitely what the score index expected, but it never fucking got there any any point ",
+            "Is doing this even safe now?",
+            "7.9 is an extremely high score",
+            "da wecommend amount of dednotated waaam for opening 2 chrome tabs"
         ]
     },
-    "I HATE the direction Windows is going - how to fight it?": {
-        "title": "I HATE the direction Windows is going - how to fight it?",
-        "score": 118,
-        "url": "https://www.reddit.com/r/windows/comments/1dl8oxm/i_hate_the_direction_windows_is_going_how_to/",
-        "content": "The ads are bad, the pop ups for anti virus or whatever else are getting worse with each iteration. I keep having to remind myself how to do a backup without signing up for Windows paid online storage system. Settings are harder to find in general. Putting programs like Word and Excel on there that aren\u2019t paid for but are still the .docs first option to open those files, or gaming apps that are pre installed and keep trying to update when i don\u2019t game.\n\nLots of my work equipment connected by network or USB don\u2019t connect well or at all on newer windows when a laptop with Windows 10 connects just fine.\n\nWhat do you do to fight this stuff (besides using a different operating system). I always use open office for word but aside for that, it feels like a losing battle. Eventually windows is going to try to get you to pay monthly to use the operating system or something similar. i can just feel it.\n",
-        "num_comments": 229,
+    "Windows 7 upgrade. Is it even worth it?": {
+        "title": "Windows 7 upgrade. Is it even worth it?",
+        "score": 115,
+        "url": "https://i.redd.it/y88nmz8u5b9d1.jpeg",
+        "content": "So, I have a PC that runs on Windows 7, and I know this OS is very likely to get viruses. I just want to know if there is a way I could upgrade?",
+        "num_comments": 100,
         "comments": [
-            "You and I really don't matter in the big scheme of things:\n\nhttps://preview.redd.it/aw1bhc13e18d1.png?width=1080&format=pjpg&auto=webp&s=f0f158843155f6f1caf1cb65536683e6455cf484\n\nSo unless enterprise starts to kick up a stink, it won't have that much of an impact\n\n[https://www.kamilfranek.com/microsoft-revenue-breakdown/](https://www.kamilfranek.com/microsoft-revenue-breakdown/)",
-            "Microsoft does not pay attention to the opposition. Currently the best way to combat it is to move to Linux. Vote with your wallet, if the number of users drops so much, Microsoft will be interested in doing something that users like.",
-            "I got rid of Windows. 11 was the last straw for me.",
-            "Switch to macOS or Linux, microsoft clearly doesn't care much for its users anymore :/",
-            "Where are you seeing ads within the OS? I\u2019ve heard this complaint many times but I don\u2019t think I\u2019ve ever encountered any. It could just be that I disabled it with a GPO long ago.",
-            "I never thought of even considering Mac OS or Ubuntu until MS deployed their recall+copilot. Now I\u2019m actively thinking of getting a MacBook Air and installing Linux on my existing machines and laptops.",
-            "Copilot man,\nI don\u2019t like AI stuff,  just want a Computer that i can control",
-            "Either use shell programs or move to Linux. Microsoft don't care.",
-            "I haven't actually seen any ads in Windows. I hate where Windows is going for different reasons.\n\n1. Terrible UI (Windows 11).\n2. Bad GUI (Windows 11).\n3. Frutiger Aero was abandoned (Windows 8 and up).\n4. Made for people that are under 7 years old and cannot understand all the \"complex\" and \"hard to understand/use\" features (Windows 11).\n\nAnyone can suggest additions to this list.",
-            "You fight it by abandoning it.\n\nYour question is moronic in itself. \"I HATE how the new mcdonalds hamburger tastes, how do I fight it?\". Yeah by not going there."
+            "I have this exactly processor (from 2014!) with an Asus mobo too. Great improvement with win 10. win 11 can't be installed on it.",
+            "Yeah, make sure you have SSD as boot drive, you can run windows 11 with workarounds (via rufus)",
+            "This is my dream desktop. I have Core i5 4570 from long time.",
+            "Perfectly serviceable computer still. I'd throw an extra 8 gb of ram in it if you have the opportunity to. Old ram is pretty cheap.",
+            "Yup, I'd upgrade it with an SSD, Win 11, maybe another 8Gb of RAM and a decent GPU and you've got a fairly decent mid-range gaming PC, especially if you overclock the CPU.",
+            "I think it depends.\nIf you re using as a main machine, yea, i ve updated to windows 10 couple of years ago.\nBut on my second pc which i use only for steam offline games i don t see what viruses can do there, lol.",
+            "I guess it really depends on what you want to do with it. Just browsing internet, email and some word documents, upgrading to Windows 11 or Windows 10 will help you improve some (very little) performance.\n\n...HOWEVER, considering the upgrade isn't free anymore, why upgrade the OS?? Use that money to get into a used i7 10th gen and you have a much greater upgrade. My 2 cents.",
+            "Is this an asus laptop?",
+            "Been using this CPU as my main gaming PC for a couple of years now, still runs whatever I throw at it. Create a bootable Windows 10/11 install through Rufus and you should be good to go.",
+            "Which PC was 7.9 rated in the experience score?"
         ]
     },
-    "I think it will give someone a heart attack": {
-        "title": "I think it will give someone a heart attack",
-        "score": 43,
-        "url": "https://www.reddit.com/r/windows/comments/1dldss0/i_think_it_will_give_someone_a_heart_attack/",
-        "content": "https://preview.redd.it/p2vnnu2jiz7d1.png?width=3840&format=png&auto=webp&s=2431eb8c1432c9c7315c57021602dd69fa9d3629\n\n",
-        "num_comments": 3,
+    "Windows RT on the Surface RT from 2012": {
+        "title": "Windows RT on the Surface RT from 2012",
+        "score": 23,
+        "url": "https://www.reddit.com/gallery/1dqtd55",
+        "content": "",
+        "num_comments": 9,
         "comments": [
-            "That QR code. lol",
-            "Bababooey",
-            "^(it's offcenter)"
+            "With how genuinely not great the Surface RT was I'm still amazed that MS actually kept the lineup going and has only ever improved. I have a Surface Pro 7 and it's such a great little tablet for getting things done, especially drawing and it's neat to see what they keep improving on with each gen",
+            "this is an amiga mouse? ",
+            "I installed raspbian on mine. Way cooler",
+            "The Surface Pro lineup was released around the same time the RT was IIRC.",
+            "I always wanted some kind of Tablet PC back in 2018",
+            "i've got a little Dell Venue Pro 11 i use. basically a Dell made Surface, but way easier to work on. i've got it running W10 Pro.",
+            "The Pro came out about 6 months later it looks like, with the Surface RT 2 coming out another 6 months after that.",
+            "Nice 2012 background",
+            "how you have youtube, isnt IE11 the only browser you can run on the RT, which youtube blocks access too and says isnt supported?"
         ]
     },
-    "There is not running away from Nvidia": {
-        "title": "There is not running away from Nvidia",
-        "score": 3,
-        "url": "https://www.reddit.com/r/windows/comments/1dltbac/there_is_not_running_away_from_nvidia/",
-        "content": "So the early benchmarks are out with the new Snapdragon PCs. Unfortunately, none can offer a great gaming experience. Reviewers desn't show where the bottleneck is but, rumors suggest that we're going to see Snapdragon Elites paring with RTX cards. ARM chips can easily replace the CPU, but not the discrete GPU. The same applies to Apple M series.",
-        "num_comments": 3,
-        "comments": [
-            "I don\u2018t think anyone expected integrated graphics to beat a dedicated gpu, no matter if intel or arm.. the thermals alone make it entirely unrealistic unless you maybe compare the bottom barrel NV mobile chips with the highest end integrated graphics, but even there i doubt that sustained loads will offer comparable performance to something on a card with a hefty cooler.",
-            "The power efficiency and lightness of ARM paired with an RTX card for GPU intensive tasks with an easy toggle? Seems like a dream.",
-            "i think the idea is that these arent really catering to gamers."
-        ]
+    "Made windows 10 look like windows 7 :D rate it": {
+        "title": "Made windows 10 look like windows 7 :D rate it",
+        "score": 1,
+        "url": "https://www.reddit.com/r/windows/comments/1dr76g6/made_windows_10_look_like_windows_7_d_rate_it/",
+        "content": "https://preview.redd.it/9qzw6e6d9h9d1.png?width=1440&format=png&auto=webp&s=3cd672729b7d386e1690116e8989002a92ae7008\n\nStartisback is what i used btw",
+        "num_comments": 1,
+        "comments": []
     }
 }

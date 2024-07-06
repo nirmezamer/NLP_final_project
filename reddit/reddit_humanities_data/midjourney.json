@@ -1,57 +1,82 @@
 {
     "Revised Rules + MJ Room for Reddit Hangout!": {
         "title": "Revised Rules + MJ Room for Reddit Hangout!",
-        "score": 7,
+        "score": 11,
         "url": "https://www.reddit.com/r/midjourney/comments/1dak5u9/revised_rules_mj_room_for_reddit_hangout/",
         "content": "Hey Midjourney Redditors!\n\nGuess what? We\u2019ve spruced up the rules for our subreddit, and you can check them out on the sidebar. Don't worry, nothing major has changed; we've just clarified a few points and made some new rules to keep things crystal clear. For instance, we used to handle a lot of request posts under the no spam rule, but now \u201cno requests\u201d is its own rule since we got tons of questions about it. Hopefully, this tweak makes everything smoother. Let us know if you have any ideas for improvements!\n\nAlso, exciting news! We've created a private room on the Midjourney site just for you all to hang out in! [Here's the link to join](https://www.midjourney.com/rooms/1629f728-8132-4465-845e-a8f58501b4d6), and the password is: myspace.\n\nTo join, make sure you've created at least 100 images with Midjourney (you can check your count using /info on Discord) and have an active subscription. Just a heads up, mobile isn't supported yet, and let\u2019s keep things SFW! We can't wait to hear what you think about the new room and are super excited to hang out, chat, and create together. Have fun, y'all!",
-        "num_comments": 5,
+        "num_comments": 6,
         "comments": [
             "Can you turn on images in comments in this subreddit?  I think it would help a lot for collabing.",
             "Good work on the new rules :) I've seen a lot of posts I would have reported under the old rules but it wasn't clear which rule if any applied. Especially 3, 4, 5 and 9.",
-            "Yeah I second this. Maybe pin a poll about it at the very least to see what the community thinks.\n\nDalle subreddit currently allows this and it\u2019s the best part about the sub. Facilitates a lot of creativity and doesn\u2019t make the comments look cluttered or anything.\n\nI think most members would want this",
+            "can i ask for help for a prompt ?",
             "Didn't even know it was turned off. On now.",
+            "Yeah I second this. Maybe pin a poll about it at the very least to see what the community thinks.\n\nDalle subreddit currently allows this and its the best part about the sub. Facilitates a lot of creativity and doesnt make the comments look cluttered or anything.\n\nI think most members would want this",
             "Wow, thanks a bunch"
         ]
     },
-    "Announcement: V6 is out": {
-        "title": "Announcement: V6 is out",
-        "score": 185,
-        "url": "https://www.reddit.com/r/midjourney/comments/18nfyck/announcement_v6_is_out/",
-        "content": "If you missed the announcements channel ping in the Discord:\n\n\"We're gonna let the community test an alpha-version of our V6 model over the winter break, starting tonight (i mean now) **To turn it on** select \n\n    V6\n\nfrom the dropdown menu under \n\n    /settings\n\nor type \n\n    --v 6\n\nafter your prompt **What's new with the V6 base model?** \n\n* Much more accurate prompt following as well as longer prompts\n* Improved coherence, and model knowledge\n* Improved image prompting and remix\n* Minor text drawing ability (you must write your text in \"quotations\" and  --style raw  \n or lower --stylize  \n values may help)\n\n&#8203;\n\n    /imagine a photo of the text \"Hello World!\" written with a marker on a sticky note --ar 16:9 --v 6\n\n* Improved upscalers, with both 'subtle  \n' and 'creative  \n' modes (increases resolution by 2x)\n\n(you'll see buttons for these under your images after clicking U1/U2/U3/U4) **The following features / arguements are supported at launch:**  \n\n    --ar\n    --chaos\n    --weird\n    --tile\n    --stylize\n    --style raw \n    Vary (subtle)\n    Vary (strong) \n    Remix\n    /blend\n    /describe (just the v5 version)\n\n**These features are not** ***yet*** **supported, but should come over the coming month:** \n\n    Pan\n    Zoom\n    Vary (region)\n    /tune\n    /describe (a new v6 version)\n\n**Style and prompting for V6** \n\n* Prompting with V6 is **significantly** different than V5. **You will need to 'relearn' how to prompt.**\n* V6 is **MUCH** more sensitive to your prompt. Avoid 'junk' like \"award winning, photorealistic, 4k, 8k\"\n* Be explicit about what you want. It may be less vibey but if you are explicit it's now MUCH better at understanding you.\n* If you want something more photographic / less opinionated / more literal you should probably default to using --style raw\n* Lower values of --stylize  \n (default 100) may have better prompt understanding while higher values (up to 1000) may have better aesthetics\n* Please chat with each other in **\u2060#prompt-chat** channel to figure out how to use v6.\n\n**Please note** \n\n* This is an **alpha test**. Things will change frequently and without notice.\n* DO NOT rely on this exact model being available in the future. It will significantly change as we take V6 to full release.\n* Speed, Image quality, coherence, prompt following, and text accuracy should improve over the next few weeks\n* V6 is slower / more expensive vs V5, but will get faster as we optimize. Relax mode is supported! (it's about 1 gpu/min per imagine and 2 gpu/min per upscale)\n\n**Community Standards:** \n\n* This model can generate much more realistic imagery than anything we've released before.\n* We\u2019ve turned up the moderation systems, and will be enforcing our community standards with increased strictness and rigor. Don't be a jerk or create images to cause drama.\n\n**More about V6:** \n\n* V6 is our third model trained from scratch on our AI superclusters. It's been in the works for 9 months.\n* V6 isn't the final step, but we hope you all feel the progression of something profound that deeply intertwines with the powers of our collective imaginations\n\nShow us your images in **\u2060#v6-showcase channel** or let us know what you think in #**\u2060ideas-and-features channel.**  **Please use these incredible powers with joy, wonder, responsibility and respect.**  Have fun and happy holidays!\"",
-        "num_comments": 0,
-        "comments": []
-    },
-    "Dark mechanical scifi characters ": {
-        "title": "Dark mechanical scifi characters ",
-        "score": 64,
-        "url": "https://www.reddit.com/gallery/1dlr25v",
+    "New Personalization (--p) Feature Release!": {
+        "title": "New Personalization (--p) Feature Release!",
+        "score": 22,
+        "url": "https://www.reddit.com/gallery/1dnlel9",
         "content": "",
-        "num_comments": 8,
+        "num_comments": 4,
         "comments": [
-            "Prompt:\n\ngoth scifi horror, full shot, digital art by hajime sorayama and katsuhiro otomo, detailed background --chaos 10 --ar 4:7 --style raw --personalize htumdg8 --stylize 200",
-            "2nd one has a similar vibe to Adam Smasher.",
-            "Second is the adjutant from StarCraft.",
-            "Some of those characters could have their place in Blame!",
-            "The first one is insane",
-            "Superb, thanks for sharing.",
-            "The first one looks very much like Legion from Mass Effect.",
-            "sci-fi Griffith"
+            "Thanks for this, but in case anybody is confused, that announcement is from almost two weeks ago ;)\n\nHighly recommended to anybody who hasn't tried it though -- for me at least, the model really figured out what tickles my fancy and I use it for everything by default now :) very fun!",
+            "yeah, we havent been announcing all new features over here & have been mainly sticking to posting major stuff like v6 release, but we came to realize that in itself is a missed opportunity so I thought to take my time this time to make the pictures & examples nice for this post rather than just a copy/paste of announcement as well! \n\n  \nhopefully this is a nicer way to showcase new midjourney stuff on reddit and will be something we do more often in the future!",
+            "Good idea! There are plenty of people who read this sub who NEVER look at the discord channels or docs, heh... so this will definitely help ;)",
+            "**Hey Reddit! We've released an early test version of model personalization, here's how it works.**  \n  \n\r\r**What is Model Personalization?**\r\n\nEvery time you write a prompt there's a lot that remains 'unspoken'. Our algorithms usually fill in the blank with their own 'preferences', which are really the combined biases and preferences of our community. \rBut of course everyone is different! Model personalization learns what\u0003you like so that it's more likely to fill in the blanks with your tastes.\r\r\n\n**Model Personalization Requirements**\r\n\nRight now model personalization learns from votes in pair ranking and \u0003images that you like from the explore page. \n\n* You need to have roughly [**200 pair rankings**](https://www.midjourney.com/rank) **/ likes** in order for the\u0003feature to work.\r \n* You can see how many ratings you have on the above page or by typing **/info**.\n\n\r\r**How do I use Model Personalization?**\r\n\nJust type **--p** after your prompt, or turn on personalization for all prompts under /settings or the prompt settings button on the website.\r When you enable personalization you get a 'code' added after your \u0003prompts, you can share this code to share the personalization effect \u0003being applied to that image.\r \n\n* You can control the strength of the personalization effect by \rusing **--s 100** (0 is off and 1000 is maximum and 100 is default)\r\n* You can blend multiple model personalization codes together \rlike **--p ab12ad3 cd34gl**\r\n* You can weigh individual codes as follows **--p ab12ad3::2 cd34gl::1**\r\r\n\n**PLEASE NOTE:** Personalization is not a stable feature right now, it will change as \u0003you do more pair ratings (subtly) and we may be pushing out algorithm updates over \u0003the next few weeks. So just assume that it's a 'fun feature constantly in flux' \r\rThis is a totally new frontier of image synthesis. We hope we discover\u0003a lot in the process of doing this and we would love to hear your thoughts in our ideas-and-features channel on discord or in response\u0003to this post!"
         ]
     },
-    "Victory March into Alexandria": {
-        "title": "Victory March into Alexandria",
-        "score": 31,
-        "url": "https://v.redd.it/v8cpgkkv348d1",
+    "Welcome to the Runway ": {
+        "title": "Welcome to the Runway ",
+        "score": 2323,
+        "url": "https://v.redd.it/t8gkb3ewef9d1",
         "content": "",
-        "num_comments": 0,
-        "comments": []
+        "num_comments": 129,
+        "comments": [
+            "Impressive. It's hard to tell it was A.I initially as these fashion shows are slightly weird anyway.",
+            "I at first thought this was real until I read the sub title.",
+            "I can Dere-lick my own balls, thank you very much.",
+            "This is very well done.",
+            "AI definitely gives human fashion designers a run for their money. Im interested to see how its used to push the envelope and how our clothing evolves as a result. This was great.",
+            "I like the part where she turns into a volcano and also the pregnant sun outfit",
+            "I thought this was real for a second. Shits cool as hell if they started adding some neat holographic stuff to real runways.",
+            "Some real Hunger Games vibes going on in this show. Great work!",
+            "Is this all done on MJ?",
+            "The recent leap in video generation is amazing. It's like watching a dream."
+        ]
     },
-    "Mediterranean Sunset (Midjourney + Luma)": {
-        "title": "Mediterranean Sunset (Midjourney + Luma)",
-        "score": 39,
-        "url": "https://v.redd.it/dgitl2bmy38d1",
+    "Runway Gen 3 is Insane - Time to Make Your Movie": {
+        "title": "Runway Gen 3 is Insane - Time to Make Your Movie",
+        "score": 176,
+        "url": "https://v.redd.it/e1bs2kfujg9d1",
         "content": "",
-        "num_comments": 0,
-        "comments": []
+        "num_comments": 28,
+        "comments": [
+            "its impressive what AI can do, but I have yet to see something that isnt extremly uncanny. I can see this stuff being good in 1-2 years tho.",
+            "This is cool and scary. thanks",
+            "Are these shots text or image to video?",
+            "This shit is unreal. The progression from a year or two ago.. mins blowing. Now y'all can do full movement and like full scenes. Crazy!!",
+            "Okay but what about speaking lines? If I'm going to use this to make a movie, characters have to talk.",
+            "We're not there quite yet, but it doesn't feel like we're all that far from shows and movies being fully AI generated. And then eventually people being able to create their OWN entertainment.",
+            "Hi do you have access to this?",
+            "Looks shit tbh. Atmost, it is time to make incoherent gifs.",
+            "I'd 100x take this over that \"acid trip\" nonsense everyone else is doing. That weird slowmo makes me want to vomit.",
+            "its coming. Compare now to 6 months ago. I'd say this time next year."
+        ]
+    },
+    "Doctor Sleep ": {
+        "title": "Doctor Sleep ",
+        "score": 117,
+        "url": "https://v.redd.it/o2yiw7hiyg9d1",
+        "content": "Midjourney+ Luma.\nVoidstomper on TikTok/Instagram/YouTube ",
+        "num_comments": 5,
+        "comments": [
+            "Ai does this creepy aesthetic better than humans can",
+            "Really creepy until Bill Clinton/Trump shapeshifter started flying",
+            "David Lynch would have a field day with this back in the days ",
+            "Great! Now I cant sleep",
+            "One day, ai is going to be so perfect that people will look back on this stuff the same way we do with MySpace and Vine, and nothing will come close. Its so uniquely wrong."
+        ]
     }
 }

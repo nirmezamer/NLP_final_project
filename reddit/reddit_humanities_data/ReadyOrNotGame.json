@@ -1,93 +1,77 @@
 {
     "Vol. 74 Development Briefing Summary Points:\n(not a changelog)\nDLC 1 will no longer release during the Spring timeframe, though it is close to completion. It will release as soon as properly viable\nWe will be able to provide more info in the coming weeks with the next newsletter as progress on the s": {
         "title": "Vol. 74 Development Briefing Summary Points:\n(not a changelog)\nDLC 1 will no longer release during the Spring timeframe, though it is close to completion. It will release as soon as properly viable\nWe will be able to provide more info in the coming weeks with the next newsletter as progress on the s",
-        "score": 131,
+        "score": 127,
         "url": "https://www.reddit.com/r/ReadyOrNotGame/comments/1dahkz5/vol_74_development_briefing_summary_points_not_a/",
         "content": "Vol. 74 Development Briefing\u00a0Summary Points:  \n(not a changelog)\n\n[https://steamcommunity.com/app/1144200/eventcomments/4343238874465282932/?tscn=1717783490](https://steamcommunity.com/app/1144200/eventcomments/4343238874465282932/?tscn=1717783490)\n\n* DLC 1 will no longer release during the Spring timeframe, though it is close to completion. It will release as soon as properly viable \n   * We will be able to provide more info in the coming weeks with the next newsletter as progress on the situation is made\n\n* Vast majority of DLC 1 content is completed\n   * DLC 1 comes with 3 new weapons (plus effectively a 4th) \n      * (available to all players regardless of DLC ownership)\n   * 3 new maps largely completed with glimpses shown \n      * (available to all players in multiplayer with a lobby host who owns the DLC)\n\n* We have completed a transition for RoN from Unreal Engine 4.27 to Unreal Engine 5.3 \n   * It was important for efficiency and engine benefits that we complete the engine transition before adding new content to the game \n      * Not every new UE5 feature will be utilized by RoN, but there is a solid list of immediately noticeable benefits that we\u2019re confident will be included: \n\n* We are posting open bounties to update open-source modding tools and support Unreal Engine 5 modding as a whole (Affected tools: UE4SS, UAssetAPI, UAssetGUI) \n   * RoN will receive official Software Development Kit modding support now that the UE5 transition is complete, but it will take time for the official SDK to be done properly and polished",
         "num_comments": 77,
         "comments": [
-            "As a modder I get it. It\u2019ll be painful and the delay sucks, but theres a ton of benefits of switching to UE5.3 and I\u2019m excited for the possibilities. I frankly see it as an investment. They could have just as easily stayed on UE4 and released a few maps and guns if they were truly after a cash grab.\n\nVOID has actually been quite communicative with modders behind the scenes. Glad they\u2019re not just pulling a Bethesda and pushing a release with huge breaking changes to mods.",
-            "My question is why they didnt just say it sooner?\n\nThey've gone radio silence in the past month, they even stopped posting Briefings for two times, and we're completely left in dark, not knowing what they're doing, can DLC be delivered on time or if they're abandoning the game. If they said \"yeah we're transitioning to UE5 it might take time be patient mate\" back in like March or April, maybe the community can have more understanding. But know it sounds like they just did these things without previous notice. Not to mention we're getting the sneak peak of DLC AFTER we've been told about the delay.\n\nThey're having serious PR problem from EA.",
-            "Of course its delayed. And who would have guessed that they outsourced the service?  \nAs some of the community already suspected, it seems that the original team that worked on the game is no longer active, they have moved on to another cheaper studio...\n\nOutsourcing audio design, 3d assets and art production is okay... But outsourcing the source code? Really weird.\n\nExplain a lot about the delays, cut content, terrible performance and how the game looks nothing like the original idea\n\nEverything seems fishy... It seems like they are planning to sell the ip/studio and move on with the cash...",
-            "Between all this and the fact that you guys used AI generated subtitles when the game came out for all the different languages. I mean how German is still barely understandable, and Dutch is even worse. I just... Still feel burned, so much feels incomplete, or like they got 75% through every idea and then just stopped.",
-            "Hard to look at the state of Void/RON after all the years of work and waiting. They really shat the bed and now they\u2019re wiping their hands clean. Probably wont buy their next game, definitely not gonna follow the development for 8 years.",
+            "As a modder I get it. Itll be painful and the delay sucks, but theres a ton of benefits of switching to UE5.3 and Im excited for the possibilities. I frankly see it as an investment. They could have just as easily stayed on UE4 and released a few maps and guns if they were truly after a cash grab.\n\nVOID has actually been quite communicative with modders behind the scenes. Glad theyre not just pulling a Bethesda and pushing a release with huge breaking changes to mods.",
+            "Hard to look at the state of Void/RON after all the years of work and waiting. They really shat the bed and now theyre wiping their hands clean. Probably wont buy their next game, definitely not gonna follow the development for 8 years.",
             "Cool so devs are basically outsourcing their own work to the community and will probably pay out cheaper on a bounty than if they had a contractor/staff to do it. Very trustworthy and normal.",
             "More talking, and still months and months go by with no significant update. L",
-            "Honestly, I don\u2019t know why so many people are angry at them for outsourcing porting to UE5.3. Wasn\u2019t even something I expected to happen for Ready Or Not. There are plenty of bigger studios that don\u2019t even make the switch from 4 to 5, much less smaller studios. \n\n\n\nIt makes the whole delay a bit more justified, imo, as this is a big undertaking to port the game.\n\n  \nStill, doesn\u2019t justify their radio silence on this, and it remains to be seen whether the game will be a better experience because of it. Hopefully it helps with the graphical performance woes and they implement their AI patch at the same time to fix some of the game\u2019s biggest woes.",
             "Still waiting for the game to be finished",
-            "So they'll give us hotfixes then no major updates until another \"1.5\" before the end of the year just like what they did back in EA, so expect the cycle repeating again for the \"2.0\" update,"
+            "So they'll give us hotfixes then no major updates until another \"1.5\" before the end of the year just like what they did back in EA, so expect the cycle repeating again for the \"2.0\" update,",
+            "Well, duh! It's summer already so unless you're gonna timetravel it's not gonna release during spring ",
+            "Am I missing something what evidence is there for outsourcing? Im not trying to discredit Im just out of the loop.",
+            "And again no word about the broken, suicidal extremist AI?..\ni want a swat 4 successor, no ground branch or Five Days in Fallujah, where everyone just always shoots unless i hit them with some non lethal first.",
+            "Around when are we expected to see the port to UE5 now that its complete?"
         ]
     },
     "Why do people say this game is terrible?": {
         "title": "Why do people say this game is terrible?",
-        "score": 177,
+        "score": 200,
         "url": "https://www.reddit.com/r/ReadyOrNotGame/comments/1dqmg2y/why_do_people_say_this_game_is_terrible/",
         "content": "I got the game a few weeks ago and it's absolutely amazing, I got so hooked that I finished Sins of the Father, Neon Tomb and Buy Cheap, Buy Twice in the same day, and currently are on Relapse.\n\nMy point is that this game is amazing and before I got it I was reconsidering if I actually want to buy it since so many people were saying it's terrible, they were very wrong.\n\nSure, it's a little broken at times, but it's not unplayable without mods even if people keep saying that, I have done the first 16 missions fully without mods and it played perfectly.\n\nThank you so much to the devs for making this wonderful game and I sincerely hope that you will refine it a little bit more in the future.",
-        "num_comments": 99,
+        "num_comments": 114,
         "comments": [
-            "A few things I\u2019ve noticed:\n1. The enemy AI is really broken like you said. Sometimes you get 180 flicked out of no where like that random goon is at the height of his CSGO career and just won majors. \n2. The devs use a lot of AI generation in pictures of suspects, etc. I think its fine personally, but a lot of people vehemently hate AI. As long as it doesn\u2019t impact my enjoyment it\u2019s fine.\n3. Not sure if others feel the same, but I struggled with visual clarity on a lot of the enemies. There are a lot of absolute bullet sponge enemies that are just wearing street clothes. I see the guy wearing a t shirt and shorts, shoot him a few times expecting to one tap him, and then he doesn\u2019t die which results in my death. \n\nOther than that, great game! The gameplay is outstanding and I\u2019ve not played many games that feel as immersive and intense as this one.",
-            "People hate on it because the release was 7 steps forward and 4 steps back, it used to be much more fun before the release and had different gamemodes, only major lack was having to do all the handcuffing and evidence collecting by yourself\n      \nWhen you wait years for an update AND BALACLAVAS STILL ARENT ADDED and you get turned into a pincushion from 120 meters away by a homeless junkie with a pistol which stops you from progressing to your favorite level, it irritates people     \n        \nIt wouldnt be such a big deal if it was always like this, but the game used to be much more enjoyable before",
-            "For me, its awful in the same way that Ark is awful. It has the bones of a really great game, but it trips over its own shoelaces quite often. Worth playing if the premise suits you, probably not if you\u2019re on the fence.",
-            "The game is fantastic, it\u2019s unfortunate that the people who dislike it always complain the loudest. SO glad I didn\u2019t listen to them when I bought it",
-            "To be honest I think people don\u2019t like the difficulty of the game but what\u2019s crazy is this game is sort of how shit is in real life shit flips at unexpected moments and whether you are ready or not it\u2019s here for you I think the game is amazing and love it myself",
+            "For me, its awful in the same way that Ark is awful. It has the bones of a really great game, but it trips over its own shoelaces quite often. Worth playing if the premise suits you, probably not if youre on the fence.",
+            "To be honest I think people dont like the difficulty of the game but whats crazy is this game is sort of how shit is in real life shit flips at unexpected moments and whether you are ready or not its here for you I think the game is amazing and love it myself",
+            "The game is fantastic, its unfortunate that the people who dislike it always complain the loudest. SO glad I didnt listen to them when I bought it",
             "Game is good, AI is not.",
-            "The game is incredibly half-baked. \n\nIt has great gun and loadout customization and good door handling mechanics. Level design is beautiful. Lighting and player characters are nice.\n\nEverything else that makes it actually a *SWAT or shock response game* is underdeveloped severely. AI behavior and animation is atrocious. It\u2019s seriously like 2015 early access place-holder type quality. The civ behavior and animation is essentially non-existent. These are the things that make such a game feel alive and interesting\u2026 but we pretty much just get a high-poly shooting range instead of interesting scenarios that play out differently based on your approach.",
             "Most people think this game is fun, we complain because fixes and updates are extremely underwhelming",
+            "Game doesn't feel like a swat game, but more like you are raiding terrorists. Missions are too over the top and suspects are all suicidal.",
             "The game is good, it's the AI that is terrible. Not even close to being realistic.",
-            "The game is hard, but not unplayable hard. I've completed all levels in 2 player coop and managed to get B-A+ \n\nIt's refreshing to play a game that's actually a challenge"
+            "The game is hard, but not unplayable hard. I've completed all levels in 2 player coop and managed to get B-A+ \n\nIt's refreshing to play a game that's actually a challenge",
+            "Well, it has problems with optimization, I struggle with em a lot, however I still really love the game, no other game has made my heart drop like this one",
+            "I genuinely believe that this is the best tactical shooter on the market. Nothing can compete with the dense atmosphere and solid shooting in this game. Not Ground Branch, Zero Hour, or the other unfinished cash grabs out there.\n\nThe game mostly suffers from issues with the AI. It can trace you accurately through doors, fire at you from the tiniest 3 pixel-sized holes, and tank through your bullets without repercussions. Luckily, all of these issues can be addressed with mods. The modding community is truly wonderful and we had plenty of fixes and bonus content even during the Early Access."
         ]
     },
     "What moments shocked you or blew you away?": {
         "title": "What moments shocked you or blew you away?",
-        "score": 84,
+        "score": 94,
         "url": "https://www.reddit.com/r/ReadyOrNotGame/comments/1dqrttr/what_moments_shocked_you_or_blew_you_away/",
         "content": "For me it was a display of the really brutal gunfight physics. I was casually replaying the first mission and I was trying out shotgun slugs.\n\nOne of the suspects was firing at me, so I blasted his leg. He surrendered immediately and as I'm cuffing him I notice he has a nasty but clean hole in his thigh. Called in the arrest and the radio reply comes in. \n\nStarted watching some of the connected rooms and about 30 seconds later I hear the cuffed suspect say \"Shit...shit shit shit...*shit.\"*\n\nI'm confused and turn around, thinking he wasn't cuffed or something, but he crumples to the floor. His whole trouser leg has turned sickly red with blood and the team reports he has died. I didn't think they modelled arterial bleeding like that and I was both impressed and shocked.\n\nThe game does a great job of making you really feel the consequences of shooting people, I think. When you hear a guy rolling around screaming or get a situation like the above, it really exhibits that horror of that level of violence, even if it's justified in the situation.",
-        "num_comments": 34,
+        "num_comments": 37,
         "comments": [
             "The container for sure. Was not expecting that.",
             "Valley of dolls basement, *that* container on port, and neon tomb were mine",
-            "A lot of the story moments are what kept me playing. \n\nGameplay wise, there's that mission where you're raiding the meth lab(I forgot it's name)\n\nAnyway, I'm methodically moving through the first building. Back door, first floor, then 2nd floor... Then I clear the 2nd floor of the connected building and work my way down to the first floor. \n\nI gather the evidence and then move to the back of the map to clear the tunnels. \n\nWell, I get through the tunnels, and I'm expecting a mission competition...except it never comes... \n*Shit*. \n\nSo I go back to the houses, and methodically start clearing rooms again... I let the team clear a room and I see the last suspect bolting through a window, cursing and yelling for our blood. \n\nI expect him to be comings through the front entrance, but... He never shows up. I redeploy the team to cover the hallway again, expecting him to reappear. When suddenly I see him clamber through the window for me. he ate 12 gauge so quickly.\n\nThe game said it was unlawful use of force. Didn't care. I hadn't been spooked like that from a Vidya game in forever.",
             "Playing neon tomb for the first time when it came out. Im sure it was even more tragic pre release",
-            "You just sold me the game.",
             "My ai freaking out and killing 6 suspects after I died.",
-            "The kid on 213.",
-            "A fake surrender  buddy turned to me and got stabbed within like 3 seconds",
+            "You just sold me the game.",
             "Nothing can top the container and the conversation that takes place after opening. If only the game had more interactions like that. I struggled with closing that container again. It just felt too cruel.",
-            "The incredibly unrealistically overemphasized recoil from most of the weapons \ud83d\ude02"
+            "A fake surrender  buddy turned to me and got stabbed within like 3 seconds",
+            "The incredibly unrealistically overemphasized recoil from most of the weapons ",
+            "The first time of two I killed an NPC by accident because they scared me in a door way. I was like damn, it really is that easy",
+            "Choosing not to detain two suspects to protect my team, if I did, there was a chance of being shot from down stairs.\n\nHate dealing with situations of life or death, that moment was far above any other these terrible AI have given me."
         ]
     },
-    "I have no problem completing missions with a 4 man Ai team but a 6 man Ai team would be nice.": {
-        "title": "I have no problem completing missions with a 4 man Ai team but a 6 man Ai team would be nice.",
-        "score": 8,
-        "url": "https://www.reddit.com/r/ReadyOrNotGame/comments/1dr1vjo/i_have_no_problem_completing_missions_with_a_4/",
+    "I got the game (thanks)": {
+        "title": "I got the game (thanks)",
+        "score": 5,
+        "url": "https://www.reddit.com/r/ReadyOrNotGame/comments/1dra2rc/i_got_the_game_thanks/",
+        "content": "Hi all,\n\nThank you all for the comments on my previous game. I got the game and I'm loving it. \n\nOnly one question. The graphics are on Ultra, including antialiasing however the visuals a bit grainy. Is there away to get a clearer image?\n\nCheers",
+        "num_comments": 1,
+        "comments": [
+            "Its been a few months since I touched the game, but [this steam guide](https://steamcommunity.com/app/1144200/discussions/0/6614163036244611472/) should help you solve your issue by modifying the config file. Its a bit ridiculous that there isnt a toggle option in the settings."
+        ]
+    },
+    "made a little video on this silly funny goofy game": {
+        "title": "made a little video on this silly funny goofy game",
+        "score": 4,
+        "url": "https://www.youtube.com/watch?v=U44t7fHCOHY&t=2s",
         "content": "",
-        "num_comments": 16,
-        "comments": [
-            "An even number would be great to have three or four buddy teams, not two plus single.",
-            "Agreed. It would be nice to be able to stage more guys in bigger maps. Elephant for example, have one two man wait on left entrance, one two man team wait at main, other guy on me",
-            "Four is fine, two on each side of a doorway, if the player was considered when they designed it, I would be more enjoying of it, still get blocked by my team when going through a doorway though.",
-            "Why? Just curious.",
-            "it's always been five since swat 3.",
-            "Especially greased palms.",
-            "What's what door wedges are for place them under the door to control were the enemy can go they can allow you to lock yourself in a area for safety",
-            "I could cover more ground and clear buildings faster especially with simultaneous breaches.",
-            "Greased palms is the hardest map for me! Would be awesome there",
-            "It\u2019s a nice tool but I\u2019d still prefer more AI. Personal preference"
-        ]
-    },
-    "Port Hokan was only the beginning...": {
-        "title": "Port Hokan was only the beginning...",
-        "score": 32,
-        "url": "https://www.reddit.com/r/ReadyOrNotGame/comments/1dqlr24/port_hokan_was_only_the_beginning/",
-        "content": "The sirens of the police station are blaring, you slowly open your eyes, disoriented and injured, while you hear constant shots and explosions, you must muster enough force to get the hell out of there. Suddenly, a panicked voice announces frantically but firmly:\n\n\"Code Omega. The LSPD police headquarters is under heavy attack by the Su\u00e9nos Guerreros cartel. All officers alive are given special permission to use all resources and weapons to defend the station and its personnel, immediately. Fire on sight and respond to urgent radio communications. Military forces are on the way. Rescue personnel. (repeat) Code Omega...\"\n\nAs you stand up, pistol in hand, thanking your dedication to target practice that probably saved your life, you see a door you had not seen before, like a secret hiding place, behind the gun rack. You catch a glimpse of rocket launchers, snipers, and machine guns as you hear a faint call for help and the voices of cartel members behind you: they have breached the front door. What will you do? Decide quickly or die.\n\n-- Mission info --\n\nThe cartels are retaliating after you disrupted their operations in the Rust Belt, Port Hokan, etc.\n\n-- Mission Special Parameters --\n\nEasy: The cartel has blocked the road around the precinct with burning cars and infantry. They are trying to get in, but surviving officers and police snipers are keeping them out for now. Search & Rescue while killing the lightly armed cartel members you encounter in the precinct. Your priority is to defend the interior. Most armed suspects will surrender easily, especially when outnumbered or hit by grenades or less lethal weapons.\n\nMedium: The cartel is using armored vehicles to lay siege to the precinct with heavy machine guns. Rescue a team of officers to attack the well-armed terrorists and rescue your colleagues inside the precinct. Some armed suspects will surrender, especially when outnumbered or hit by grenades and less lethal weapons.\n\nDifficult: The cartel has a helicopter and armored vehicles surrounding the precinct and many of their heavily armed elite men are already inside the precinct fighting officers. Rockets are being fired at the police station and cartel snipers are sometimes firing on anyone who comes near the windows. A few armed suspects will surrender, when outnumbered and hit by grenades and less lethal weapons.\n\n--\n\nJust a scenario that sounds fun to me, sorry for the completely wrong lore :-S I was in a hurry. Also I would love to get some support to improve this, if anyone feels that they want to add or change stuff.",
-        "num_comments": 6,
-        "comments": [
-            "I like it. I also like the idea of a prison-riot mission. Cartel and gang members take guards hostage and stormed the armory, so have armor and automatic weapons. Rescue the doctor and nurse in the infirmary and the guards taken hostage in cell blocks.\n\nSome inmates without guns are heavily armored with extra vests over their limbs and will just run at you with melee weapons and shivs\n\nAlso, homemade drugs make them highly resistant to pain and tear gas, and the ones released from death-row will not surrender willingly",
-            "Damn, ready or not, pay this man and make this mission already. Cod storyline vibes of yester years.",
-            "Cartels are not going to attack a police station in the US. That would be political suicide.",
-            "Sorry but i aint reading allat\n\ngreat work tho keep cooking",
-            "The horrors of short form media and the effects of it:",
-            "as addicted book reader - that\u2019s totally not the reason"
-        ]
+        "num_comments": 0,
+        "comments": []
     }
 }

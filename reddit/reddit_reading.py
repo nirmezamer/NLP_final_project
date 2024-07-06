@@ -6,9 +6,10 @@ import shutil
 import google.generativeai as genai
 from tqdm import tqdm
 import time
+import re
 
-# genai.configure(api_key="AIzaSyA_a9NStJj6XoMDaGXlbz-v35xCQzTlDqA")
-# model = genai.GenerativeModel('gemini-1.5-flash')
+genai.configure(api_key="AIzaSyA_a9NStJj6XoMDaGXlbz-v35xCQzTlDqA")
+model = genai.GenerativeModel('gemini-1.5-flash')
 
 def call_prompt(prompt):
     answer = call_prompt_with_retry(prompt)
@@ -83,13 +84,14 @@ def gen_single_reddit_json(subreddit, file_name, num_posts=5):
     
     posts_dict = {}
     for post in posts:
+        comments = [comment.body for comment in post.comments.list() if type(comment) == praw.models.Comment]
         posts_dict[post.title] = {
             "title": post.title,
             "score": post.score,
             "url": post.url,
             "content": post.selftext,
             "num_comments": post.num_comments,
-            "comments": sorted([comment.body for comment in post.comments.list() if type(comment) == praw.models.Comment], key=score_comment, reverse=True)[:10]
+            "comments": sorted(comments, key=score_comment, reverse=True)[:10]
         }
     with open(file_name, "w") as file:
         json.dump(posts_dict, file, indent=4)
@@ -185,9 +187,6 @@ def generate_reddit_data_set():
                                              subreddit_data[post]["content"], \
                                              subreddit_data[post]["comments"][1:5])
             if AI_comment == "":
-                # Save the data set to a json file
-                with open("reddit/reddit_data_set.json", "w") as file:
-                    json.dump(data_set, file, indent=4)
                 continue
             data_set[post] = {
                 "title": subreddit_data[post]["title"],
@@ -195,6 +194,9 @@ def generate_reddit_data_set():
                 "human_comment": subreddit_data[post]["comments"][0],
                 "AI_comment": AI_comment
             }
+        # Save the data set to a json file when finish a subreddit
+        with open("reddit/reddit_data_set.json", "w") as file:
+            json.dump(data_set, file, indent=4)
             
     # Save the data set to a json file
     with open("reddit/reddit_data_set.json", "w") as file:
@@ -236,13 +238,16 @@ def score_comment(comment):
     return score
 
 def clean_up_jsons():
+    def clean_to_ascii(input_string):
+        return ''.join(char for char in input_string if ord(char) < 128)
     dir_path = "./reddit/reddit_humanities_data_new"
     for file in os.listdir(dir_path):
         with open(dir_path + "/" + file, "r") as f:
             data = json.load(f)
         for post in data.keys():
-            if len(data[post]["comments"]) > 10:
-                data[post]["comments"] = data[post]["comments"][:10]
+            comments = data[post]["comments"]
+            comments_new = [clean_to_ascii(comment) for comment in comments]
+            data[post]["comments"] = comments_new
         with open(dir_path + "/" + file, "w") as f:
             json.dump(data, f, indent=4)
     return
@@ -250,8 +255,8 @@ def clean_up_jsons():
 # Example usage
 if __name__ == "__main__":
     
-    # data = generate_reddit_data_set()
-    # print(len(data))
+    data = generate_reddit_data_set()
+    print(len(data))
 
-    generate_many_humanities_reddit_json()
+    # generate_many_humanities_reddit_json()
     # clean_up_jsons()

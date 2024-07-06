@@ -1,97 +1,81 @@
 {
-    "How do you guys lift? What are the pros and conns?": {
-        "title": "How do you guys lift? What are the pros and conns?",
-        "score": 303,
-        "url": "https://i.redd.it/ljm9lhm54x7d1.png",
+    "Any idea what this is?": {
+        "title": "Any idea what this is?",
+        "score": 1367,
+        "url": "https://v.redd.it/pyr887ny0e9d1",
+        "content": "In the last few days I\u2019ve seen small amounts of yellow liquid dripping on the ground from bottom of my car.. didn\u2019t know what it was but after looking under the hood, it seemed to be dripping from the coolant reservoir. I thought it may just be leaking coolant, so I kept an eye on it and added some here and there when it was low. Today while I was sitting in the car, I started hearing weird noises so I turned it off and popped open the hood to see this. I took off the coolant cap because there was obvious bubbling in the reservoir, so I wanted to relieve some pressure. After doing so, the liquid started overflowing out of the reservoir. Just to mention, we\u2019ve had this car less than a month and this is the second thing wrong with it. First the alternator and now this. I\u2019m obviously going to have to take it to a shop but I\u2019m curious what this could be. ",
+        "num_comments": 992,
+        "comments": [
+            "Blown head gasket. Looks like you found the reason the car was for sale. that's what it looks like when engine oil mixes with coolant",
+            "Good news& bad news: that'll be the last thing wrong with it",
+            "This is bad and probably a blown head gasket, because thats the dreaded Oil Milkshake.",
+            "Your milkshake brings the mechanic to your yard, and he's like, \"this has gone too far, you need a new engine and I've got to charge\"",
+            "you've been cheesed by the cheeseman. be wary.",
+            "Now THAT is a clear cut case of a failed head gasket. All the DIYers and armchair mechanics around here are rejoicing, as today is their Christmas and New Years all rolled in to one. Today they can finally reply with \"head gasket brah\" and be right for a change",
+            "I hope you bought it from sort of used car lot and not Private party..",
+            "I think it's banana flavor?",
+            "Fucked is the word for it",
+            "**Can we all just take a moment of silence for OP?**"
+        ]
+    },
+    "What does it mean if the engine jerks like this ": {
+        "title": "What does it mean if the engine jerks like this ",
+        "score": 69,
+        "url": "https://v.redd.it/zkht11p7ce9d1",
         "content": "",
-        "num_comments": 336,
+        "num_comments": 88,
         "comments": [
-            "Thanks for posting on /r/MechanicAdvice!  This is just a reminder to review the [rules](https://www.reddit.com/r/MechanicAdvice/about/rules/).  If you are here asking about a second opinion (ie \"Is the shop trying to fleece me?\"), please read through CJM8515's [post on the subject.](https://www.reddit.com/r/MechanicAdvice/comments/4qblei/fyi_the_shop_isnt_likely_trying_to_rip_you_off/) and remember to please post the year/make/model of the vehicle you are working on. **If this post is about bodywork, accident damage, paint, dent/ding, questions it belongs in /r/Autobody r/AutoBodyRepair/ or /r/Diyautobody/ If you have tire questions check out https://www.reddit.com/r/MechanicAdvice/comments/k9ll55/can_your_tire_be_repaired/**. If you dont have a question and you're just showing off it belongs in /r/Justrolledintotheshop Insurance/total loss questions go in r/insurance This is an automated reply\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/MechanicAdvice) if you have any questions or concerns.*",
-            "The biggest difference is that ramps don\u2019t help with wheel-off jobs. So if you\u2019re diying brakes/suspension, ramps are a luxury to get sometime after a jack and jack stands. \n\nThey\u2019re mainly useful for saving some time and being more secure for fluid changes.",
-            "Ramps for everything that doesn't involve taking the wheels off, stands for everything else.",
-            "I have both. \n\nThe ramps are quicker for an oil change but you need the stands to rotatate tires or change brakes, etc.\n\nSo if I had to choose one, the stands are the best. But, still, both is the way to go imo",
-            "Ramps are also great for lowered cars where you can\u2019t get a jack under it easily. When I was freelancing in my driveway I used both pretty regularly",
-            "I prefer ramps for anything besides wheels and suspension work. Far more stable, I get claustrophobic and shit when I use jack stands. and I can\u2019t use them where I currently live, driveway is a slope as well as the street. And I don\u2019t think O\u2019Reilly would take kindly to me, putting it on jackstands in the parking lot \ud83d\ude05",
-            "Tire ramps work for some basic shit. But you can\u2019t take your wheels off with ramps. You also can\u2019t fully lift the car with ramps. \n\nJack stands let you do more. I got esco stands",
-            "Jack stands I enjoy more for brake jobs, tire rotations, etc. \n\nIf you use the ramps, you really cannot do that.  They are good for oil changes.",
-            "ramps for oil changes\n\nQuick-Jack for everything else.",
-            "I prefer jack stands. 6 ton ones is what I use. I never trusted ramps, especially plastic ones. But that's just my opinion."
+            "Motor mount right under the oil dipstick is suspicious",
+            "Missing engine mount, first of all. Then figure out what's pulling the throttle cable. Seems like it's caught on something.",
+            "Motor mounts wont cause the movement, they reduce the movement. I suspect a weak cylinder or a misfire.",
+            "How has nobody asked what dtcs are present?",
+            "So many completely fucking wrong answers in here.\n\nIt's not the fault of the missing engine mount that's causing the surging. That'll be a vacuum leak or a sensor out of range.",
+            "On older cars (even with low mileage), the bushings for the motor mounts oftentimes dry rot and break apart, causing the jerking you see. You can DIY it, but they can be a pain in the ass to change yourself. A mom and pop shop will probably do it for a couple hundred bucks, but the dealership is gonna try to sell you entire new motor mounts which you don't really need. Also, top off your coolant",
+            "So many, \"It's missing a motor mount\" responses.  That doesn't answer why the engine is loping like it is.  If the engine was running properly even with the missing motor mount, it would remain relatively still.\n\nThere are numerous things that can cause the engine to lope like this.  Knowing what the DTCs are would help a lot.",
+            "Misfire start pulling plugs for the coils and look for a change in rpms if no change then youve got a bad coil also check your spark plugs 1st",
+            "Could be a vacuum line or a throttlebody body issue. Spark plugs, maybe coils.",
+            "Replace all motor mounts, even if only one failed. Might as well get it over with"
         ]
     },
-    "Stripped bolts - is it dangerous?": {
-        "title": "Stripped bolts - is it dangerous?",
-        "score": 17,
-        "url": "https://v.redd.it/kj9f7g4c818d1",
-        "content": "I have a 2005 Corolla. I (regretfully) agreed to have sway bar links replaced at a local Midas. Later in the week (unrelated), I took it to a Jiffy Lube for coolant issues and asked to check the brakes too. The Jiffy Lube guy noticed that these bolts were loose and could not be tightened. He recommended that I report the Midas work bc the car is in \"dangerous\" condition.\n\nObviously, this was alarming to me. Car seems to drive fine but I keep worrying the front end might collapse or fall off. Finally get the Corolla back to Midas and they say it's not that serious and that, to tighten the bolts, they would have to make holes in the frame. Nobody seems to know what the bolts do exactly but ofc they're there for a reason. Couldn't find any specs on Google so now I'm hoping you Redditors can help. \n\nIs this really dangerous? What should I do? I have about 2 weeks to decide whether to make Midas warranty their work. Jiffy Lube guy thinks I should have them buy and replace the whole subframe. I honestly feel lucky that I got away with a car intact the first time (turns out Midas messed up my brakes when they did the sway bar). Do I really want to press the Midas for free work that might open an even bigger can of worms for this old car? Or if they end up cutting holes to fix the bolts, would that create other problems I'd want to avoid?\n\nNot sure which sub to post this in, so I'm trying a few. Ideally I can continue driving the Corolla for another year, at least (as I pay off the sway bar work in installments). The car is very reliable otherwise with great pick up. Thanks in advance for your comments and advice.  ",
-        "num_comments": 30,
+    "Any idea how to make wheel weights grip better? I had to bend the weights to grip better.": {
+        "title": "Any idea how to make wheel weights grip better? I had to bend the weights to grip better.",
+        "score": 35,
+        "url": "https://v.redd.it/7r6ozamjae9d1",
+        "content": "",
+        "num_comments": 61,
         "comments": [
-            "Thanks for posting on /r/MechanicAdvice!  This is just a reminder to review the [rules](https://www.reddit.com/r/MechanicAdvice/about/rules/).  If you are here asking about a second opinion (ie \"Is the shop trying to fleece me?\"), please read through CJM8515's [post on the subject.](https://www.reddit.com/r/MechanicAdvice/comments/4qblei/fyi_the_shop_isnt_likely_trying_to_rip_you_off/) and remember to please post the year/make/model of the vehicle you are working on. **If this post is about bodywork, accident damage, paint, dent/ding, questions it belongs in /r/Autobody r/AutoBodyRepair/ or /r/Diyautobody/ If you have tire questions check out https://www.reddit.com/r/MechanicAdvice/comments/k9ll55/can_your_tire_be_repaired/**. If you dont have a question and you're just showing off it belongs in /r/Justrolledintotheshop Insurance/total loss questions go in r/insurance This is an automated reply\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/MechanicAdvice) if you have any questions or concerns.*",
-            "Those bolts are holding the subframe to the unibody structure of the car, so yeah, kinda dangerous. But also, these bolts shouldn\u2019t have been touched and have nothing to do with replacing sway bar end links. Did they possibly replace the sway bar itself?",
-            "Go. Back. To. Midas.\n\nSombody fucked up and thought it would be overlooked long enough for it not to be linked back to them. If they say it was like that before, then they 100% would/ should have told you about it",
-            "Doesn\u2019t look like they\u2019re stripped. Looks like the nut they thread into which is usually spotwelded inside the frame or whatever has broken apart when they undid them for whatever reason, causing it to be loose and not able to tighten up, the whole thing just spins.",
-            "So after doing some digging, I think your bolt size is M16x1.5. Not 100% on the pitch, but it\u2019s a 19mm socket = m16 bolt. Other models with compatible also use m16\u2019s on the subframe, and those are 1.5 pitch. \n\nAre you sure they just replaced the links and not the bar as well? Removing the bar would cause the mechanic to loosen those bolts. From what I\u2019ve seen, this is a fairly common issue. Toyota used a threaded sleeve instead of a nut, and it\u2019s apparently pretty easy to strip/gall the threads when using a pneumatic/electric gun.\n\nAs far as safety, there are probably worse cars on the road. It is still not great. Looking at it, there\u2019s 4 bolts holding your front suspension and front half on your powertrain to the car, and you\u2019re rolling around without 2 of them. Depending the condition of the two bolts you have left, a big pothole could be a very bad day for you. I would go back to Midas as soon as possible, and try to sort things out.",
-            "Here's another picture of the bolt placement:\u00a0[https://imgur.com/a/Jwth7Il](https://imgur.com/a/Jwth7Il)\n\nBoth sides are loose",
-            "Everyone is saying go back to midas. But i dont see a reason they would have touched those bolts, incidentally or otherwise. The sway bar link procedure for sure doesn\u2019t call for dropping the subframe so not sure how you could prove they caused it",
-            "This might actually be common on this particular year Corolla.",
-            "Go back.  Push back as much as you an at least get them to fix it right",
-            "Those bolts don\u2019t have anything to do with your sway bar end links. \u00a0Those hold your subframe in place.\n\nI\u2019m not familiar with corollas, but I get the feeling that maybe the threaded portion of the nuts, seeing how the bolts didn\u2019t just fall off. \u00a0Maybe they\u2019re welded nuts that snapped off the unibody. \u00a0So now you have the bolt and nut dangling on the subframe.\n\nIf that\u2019s the case the fix would be to lower the subframe or remove it. \u00a0Weld the nuts back into the chassis again and reinstall. \u00a0\n\nIf it\u2019s not nuts on the other end it could be threaded sleeves. \u00a0\n\nAs for safety well now you have two instead of 4 bolts holding it in place. \u00a0Could last forever or it could fail on you. \u00a0It\u2019s a lot like driving a car with two lug nuts off each wheel. \u00a0 Will it hold? \u00a0Maaaaybe?"
+            "Is that weight hitting the rotted backing plate?  If so I'd start by fixing that",
+            "This has gotta be satire.",
+            "Bend backing plate inward, take tire to tire shop and have it rebalanced, reinstall, issue fixed.",
+            "uhh, it's now unbalanced, you need to rebalance it now, new weights will be needed anyways, they're pennies",
+            "Wow.... Fix that dust plate first and that won't be an issue anymore",
+            "Thought i was on r/askashittymechanic",
+            "There are different designs for steel vs aluminum wheel weights, but this one is hitting the backing plate around the rotor. Gotta bend that back in place/replace it and rebalance the wheel. \n\nIf the weight seemed like they were loose upon installation, id bet you have a steel rim, steel rim weights have a smaller tolerance on the grip and will hold tight",
+            "Get new ones but now that the weight has moved theres no benefit to having it there. Take it off then bring your car to a shop to get the wheel balanced or tires replaced if theyre close",
+            "Definitely used the wrong kind of weight. That weight is not meant for the rim flange on that rim",
+            "You do not have to. It is a dynamic balance"
         ]
     },
-    "Purchasing these wheels, I noticed some dry rot on the tires, would they need to be replace urgently?": {
-        "title": "Purchasing these wheels, I noticed some dry rot on the tires, would they need to be replace urgently?",
+    "Is it okay to bring my car in just to tighten some m14 bolts?": {
+        "title": "Is it okay to bring my car in just to tighten some m14 bolts?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/MechanicAdvice/comments/1drazz3/is_it_okay_to_bring_my_car_in_just_to_tighten/",
+        "content": "I installed a trailer hitch on my car last night. However, I don\u2019t know if my torque wrench is broken or if I just couldn\u2019t get enough leverage, but I was unable to tighten the m14 bolts to 126ft-lbs like the specs say. On one of them, I tightened it as far as I possibly could and still couldn\u2019t get a click out of my wrench.\n\nThat said, is it goofy for me to bring my car in just for someone to tighten those bolts to spec? Or should I just go buy a new torque wrench?\n\nThanks",
+        "num_comments": 1,
+        "comments": [
+            "Thanks for posting on /r/MechanicAdvice!  Please review the [rules](https://www.reddit.com/r/MechanicAdvice/about/rules/).  Asking about a second opinion (ie \"Is the shop trying to fleece me?\"), please read through CJM8515's [post on the subject.](https://www.reddit.com/r/MechanicAdvice/comments/4qblei/fyi_the_shop_isnt_likely_trying_to_rip_you_off/) and remember to please post the year/make/model of the vehicle you are working on. **Post's about bodywork, accident damage, paint, dent/ding, questions it belongs in /r/Autobody r/AutoBodyRepair/ or /r/Diyautobody/  Tire questions check out https://www.reddit.com/r/MechanicAdvice/comments/k9ll55/can_your_tire_be_repaired/**. If you dont have a question and you're just showing off it belongs in /r/Justrolledintotheshop Insurance/total loss questions go in r/insurance This is an automated reply\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/MechanicAdvice) if you have any questions or concerns.*"
+        ]
+    },
+    "Spilled horchata in back seat. How do I take out seat belt clip.": {
+        "title": "Spilled horchata in back seat. How do I take out seat belt clip.",
         "score": 3,
-        "url": "https://i.redd.it/eu45v9mfq38d1.jpeg",
-        "content": "",
-        "num_comments": 11,
+        "url": "https://www.reddit.com/gallery/1dr8qmc",
+        "content": "Need to unclip that seat belt to tale out the bottom cushion. How do I do that?",
+        "num_comments": 3,
         "comments": [
-            "Thanks for posting on /r/MechanicAdvice!  This is just a reminder to review the [rules](https://www.reddit.com/r/MechanicAdvice/about/rules/).  If you are here asking about a second opinion (ie \"Is the shop trying to fleece me?\"), please read through CJM8515's [post on the subject.](https://www.reddit.com/r/MechanicAdvice/comments/4qblei/fyi_the_shop_isnt_likely_trying_to_rip_you_off/) and remember to please post the year/make/model of the vehicle you are working on. **If this post is about bodywork, accident damage, paint, dent/ding, questions it belongs in /r/Autobody r/AutoBodyRepair/ or /r/Diyautobody/ If you have tire questions check out https://www.reddit.com/r/MechanicAdvice/comments/k9ll55/can_your_tire_be_repaired/**. If you dont have a question and you're just showing off it belongs in /r/Justrolledintotheshop Insurance/total loss questions go in r/insurance This is an automated reply\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/MechanicAdvice) if you have any questions or concerns.*",
-            "If you're just getting the wheels and the tires are a bonus,  you can use them for a little longer but low tread is never great. That rot is not really the problem with those. But I can't take my own advice and I would tell myself I can squeeze a season out of them before I change them.",
-            "Dryrot!? There no threads left!? Wear almost used up all the way down to wear mark. You got scammed!",
-            "Will eventually get worse..id avoid if poss..note down the manufacture date and have a look how old they are",
-            "They don\u2019t look too bad at the moment but likely would need changing in the next year.",
-            "They did say they bought \u2018wheels\u2019 I\u2019m assuming they just wanted the rims but are wondering if the tyres are usable as well (I agree they aren\u2019t however)",
-            "They\u2019re at the tread wear indicator and show signs of cracking. These tyres are not in serviceable condition.",
-            "True. Didnt think about the rims.",
-            "So, correct me if I'm wrong, but you're talking about the pattern on the shoulder of the tire, right? Imo, that looks like additional melted rubber, like these tires got hot at one point. The wear is obvious.",
-            "Weird"
-        ]
-    },
-    "Is this rust that bad?": {
-        "title": "Is this rust that bad?",
-        "score": 21,
-        "url": "https://www.reddit.com/gallery/1dlhege",
-        "content": "Just got this 2022 with 59k miles. I'm going to do a a rear differential oil change soon and was wondering if this rust is real bad or ok? Plus wasn't sure what that foam looking stuff is in other pics lol looks normal though. Thanks for any input. ",
-        "num_comments": 51,
-        "comments": [
-            "Thanks for posting on /r/MechanicAdvice!  This is just a reminder to review the [rules](https://www.reddit.com/r/MechanicAdvice/about/rules/).  If you are here asking about a second opinion (ie \"Is the shop trying to fleece me?\"), please read through CJM8515's [post on the subject.](https://www.reddit.com/r/MechanicAdvice/comments/4qblei/fyi_the_shop_isnt_likely_trying_to_rip_you_off/) and remember to please post the year/make/model of the vehicle you are working on. **If this post is about bodywork, accident damage, paint, dent/ding, questions it belongs in /r/Autobody r/AutoBodyRepair/ or /r/Diyautobody/ If you have tire questions check out https://www.reddit.com/r/MechanicAdvice/comments/k9ll55/can_your_tire_be_repaired/**. If you dont have a question and you're just showing off it belongs in /r/Justrolledintotheshop Insurance/total loss questions go in r/insurance This is an automated reply\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/MechanicAdvice) if you have any questions or concerns.*",
-            "In NY we would call that mint condition",
-            "what rust?",
-            "Just surface rust. A long way to go before it becomes a concern. You can sand it off and use rust converter paint to make it last even longer. The other thing is a heat shield.",
-            "That's dampening/insulation material and normal. So is the rust on unpainted parts. It'll have some of that before it hits the dealership new.",
-            "Looks really good actually.",
-            "That rust is better than some dealership cars",
-            "There basically is no rust on that car.  This is what people are talking about when they talk about a rusty car.\n\nhttps://preview.redd.it/ah73r4zxj08d1.jpeg?width=4032&format=pjpg&auto=webp&s=df5d485cc29123d6f44366f2a062db4dbde37f87",
-            "That's the least rusty rust bucket I've ever seen. Those parts look nearly brand new",
-            "What rust?  I've seen brand new steel look worse after being shipped from the mill."
-        ]
-    },
-    "Any idea what this ticking could be?": {
-        "title": "Any idea what this ticking could be?",
-        "score": 20,
-        "url": "https://v.redd.it/gxduw5ssc08d1",
-        "content": "Chevy Cruze 2016 LT\n\nSounds like it\u2019s coming from the back of the engine? By the fuel injectors. But it could be the timing belt on the passenger side. Any thoughts? ",
-        "num_comments": 38,
-        "comments": [
-            "Thanks for posting on /r/MechanicAdvice!  This is just a reminder to review the [rules](https://www.reddit.com/r/MechanicAdvice/about/rules/).  If you are here asking about a second opinion (ie \"Is the shop trying to fleece me?\"), please read through CJM8515's [post on the subject.](https://www.reddit.com/r/MechanicAdvice/comments/4qblei/fyi_the_shop_isnt_likely_trying_to_rip_you_off/) and remember to please post the year/make/model of the vehicle you are working on. **If this post is about bodywork, accident damage, paint, dent/ding, questions it belongs in /r/Autobody r/AutoBodyRepair/ or /r/Diyautobody/ If you have tire questions check out https://www.reddit.com/r/MechanicAdvice/comments/k9ll55/can_your_tire_be_repaired/**. If you dont have a question and you're just showing off it belongs in /r/Justrolledintotheshop Insurance/total loss questions go in r/insurance This is an automated reply\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/MechanicAdvice) if you have any questions or concerns.*",
-            "nah something on your serpentine belt for sure. could be a bad belt tbh. also that beat is low key fiiiiiirrrrrreeee..... \n\n  \nreminds me of this guy [https://www.tiktok.com/@venjent/video/7363705419547561249?lang=en](https://www.tiktok.com/@venjent/video/7363705419547561249?lang=en)\n\n![gif](giphy|joqK3kaNmkPt4CTxU7|downsized)",
-            "Sounds like the wood block from music class when I was 7.",
-            "Hell ya.  Workin on that beat hoe!",
-            "Your car is playing the Saints Row 3 theme [https://www.youtube.com/watch?v=9ubPld4Xk1I](https://www.youtube.com/watch?v=9ubPld4Xk1I)\n\nI'd contact THQ.",
-            "Pcv, pull that plastic cover off the engine and try putting your thumb over the opening of the small round disk on the top right hand side to the coil pack. It might change sound if you pull out the dipstick as well. If it ends up being the Pcv you replace the valve cover. Easy to do. There is another one in your intake manifold, which is the reason the valve cover Pcv fails. Again got to replace the whole manifold. It's pretty easy to do. I had a Cruze 1.4 and this would happen often. They make a bypass kit for the engine if you Google for it, chevy 1.4 Pcv bypass. Another failure point is the plastic coolant outlet. There is an aluminum one available if you Google for it. That outlet is what killed my Cruze. It busted 4 times on me on the highway, resulting in overheating. Ended up cracking the head, 204,000 miles she was done.",
-            "https://youtu.be/yH3ZZTGcUYs?si=RI0Rel_ukcI3P9HS?t=50",
-            "not enough duck tape. Thats your issue.",
-            "maybe you need some more tape",
-            "That sounds like a bad bearing.\n\nI'd suggest going to the parts store or tool store and buying a Mechanics stethoscope. It should help you pinpoint where the noise is coming from."
+            "No advice, same thing happened to me. Mine was forgotten about one hot summer day, such a pain to clean up from the floorboards...",
+            "You remove the bolt.",
+            "Thanks for posting on /r/MechanicAdvice!  This is just a reminder to review the [rules](https://www.reddit.com/r/MechanicAdvice/about/rules/).  If you are here asking about a second opinion (ie \"Is the shop trying to fleece me?\"), please read through CJM8515's [post on the subject.](https://www.reddit.com/r/MechanicAdvice/comments/4qblei/fyi_the_shop_isnt_likely_trying_to_rip_you_off/) and remember to please post the year/make/model of the vehicle you are working on. **If this post is about bodywork, accident damage, paint, dent/ding, questions it belongs in /r/Autobody r/AutoBodyRepair/ or /r/Diyautobody/ If you have tire questions check out https://www.reddit.com/r/MechanicAdvice/comments/k9ll55/can_your_tire_be_repaired/**. If you dont have a question and you're just showing off it belongs in /r/Justrolledintotheshop Insurance/total loss questions go in r/insurance This is an automated reply\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/MechanicAdvice) if you have any questions or concerns.*"
         ]
     }
 }

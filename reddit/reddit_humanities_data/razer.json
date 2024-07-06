@@ -1,26 +1,26 @@
 {
     "June Technical Support Sticky": {
         "title": "June Technical Support Sticky",
-        "score": 7,
+        "score": 8,
         "url": "https://www.reddit.com/r/razer/comments/1d59y0n/june_technical_support_sticky/",
         "content": "Welcome to [/](https://assets.razerzone.com/eeimages/support/products/1280/1280_razer_id.png)r/Razer's tech support sticky for June 2024.\n\n\nMost issues have been encountered before and many solutions can be found in Razer support's [guides and FAQs](https://support.razer.com/). If you seek more help from Razer support and users with similar issues please post in the comments below. \n\n***Category Quicklinks:***\n\n|[**Laptops/Phones**](/r/razer/comments/1d59y0n/june_technical_support_sticky/l6jxuwa/)|[**Peripherals (keyboard, mouse, etc)**](/r/razer/comments/1d59y0n/june_technical_support_sticky/l6jxviv/)|[**Audio**](/r/razer/comments/1d59y0n/june_technical_support_sticky/l6jxw6b/)|[**Software**](/r/razer/comments/1d59y0n/june_technical_support_sticky/l6jxwrn/)|[**Consoles**](/r/razer/comments/1d59y0n/june_technical_support_sticky/l6jxxgl/)|[**Other**](/r/razer/comments/1d59y0n/june_technical_support_sticky/l6jxy38/)|\n|:-|:-|:-|:-|:-|:-|\n\n**THREAD INSTRUCTIONS:** Please place your support inquiries as a **reply** to the **corresponding section in the comments**. Please take a quick look in the category to see if the same issue has been reported already and **reply** to that comment. Anyone can **reply** to comments if they want to help. Use the ***Category Quicklinks*** for convenience.\n\n**INSTRUCTIONS FOR DUMMIES** (With Pics!): https://www.reddit.com/r/razer/comments/fbdwph/support_sticky_quickstart_guide/\n\nAlthough there are representatives from Razer responding to inquiries in this thread, **this is not an official support channel**. Any RMA or similar requests **will need a support ticket**. We recommend you check/post on [Razer Insider](https://insider.razer.com/index.php) as well as submit a [Support ticket](https://support.razer.com/contact-us/) to have the best chance to get your issues resolved quickly.\n\n**Last month's** locked thread can be found [here](https://www.reddit.com/r/razer/comments/1ch7wfn/may_technical_support_sticky/). If you have been in contact with a Razer support agent on reddit already, do not post in this month's thread again.\n\nDue to the nature of this subreddit and R\u039bZ\u039eR customer support sometimes handling customer's personal information through PMs, do not trust anyone who says they are a R\u039bZ\u039eR employee unless you can find their name on the [trusted accounts list](https://www.reddit.com/r/razer/wiki/trusted_accounts) and they have an official flair\n\nRemember to keep your personal details safe, including case numbers. You can find unofficial FAQs, many tips, the list of trusted R\u039bZ\u039eR accounts and much more in the [wiki](https://www.reddit.com/r/razer/wiki/index)\n\n**[Razer Support Live Chat](https://support.razer.com/live-chat)**, US-Canada only, 6AM to 10PM PST\n\n---\n^(*\"Man invented the nuclear bomb, but no mouse would make a mousetrap.\"*) ^| ^/r/quotes",
-        "num_comments": 261,
+        "num_comments": 330,
         "comments": [
-            "**Peripherals (keyboard, mouse, etc)**",
-            "**Laptops/Phones**",
-            "**Audio**",
-            "**Software**",
-            "**Consoles**",
-            "**Other**",
             "Could this dongle not work because I have a faker edition mouse? because I'm trying to connect the mouse but it doesn't detect it. RAZER pls help me",
             "Razer Gold's 2 Factor Authentication is NOT WORKING",
-            "I just bought a V3 Pro, but it is not detectable in Synapse 3. I have the option to select 8K polling in the mouse settings, but I do not have the \" accessory \"  option in Synapse to sync my V2 Pro to the dongle as well. Every time I connect and reconnect the dongle, Windows does detect it.\n\nSteps I have taken:\n\n* Completely uninstalled Synapse.\n* Verified Windows 11 is fully up-to-date.\n* Ran the device detection tool, but still unable to detect the Hyperdongle.\n\nFrom my research online, it seems to be an ongoing issue with no resolution...for the last 2 years.",
-            "[removed]"
+            "I am using Razer Basilisk V3. Sometimes, my mouse connects/disconnects rapidly for several seconds, acts like left click is pressed for the duration of disconnects/connects, and after those several seconds everything is back to normal. How can I fix that? Mouse is pretty new, used for about a month or so.\n\nAlso, I've been using Razer Mamba Elite before, and I've never had this problem.",
+            "I am currently using a Razer BlackWidow V4 75% keyboard. I  am having an issue where many  of my keys are double  typing unless I click them super fast. I have uninstalled Razer Synapse completely and I  am still having issues. I'm also plugged into a USB 3 port and my windows is up to date. This post  alone was a pain to type, please help me with any solutions. Thanks",
+            "Razer Basilisk Ultimate: Randomly disconnects for a few seconds, no real apparent reason as to why. Any mouse buttons pressed are treated as pressed until the mouse reconnects.  \n  \nAnother side-issue (maybe not issue but programming bug? idk) is that the mouse's volume up/down binds also press buttons on my keyboard; specifically, vol. up presses B and vol. down presses C. However, this never enters text in text fields, and only appears to work when there is some sort of in-game command bound to one of those buttons. It's very strange...",
+            "I have a Naga Classic Mouse, with a 12 pad. \n\nI am having an issue with the side keys sticking and I would like to remove them so that I can clean them. Is there a way to easily remove and then replace the side keys?",
+            "My Razer Mamba Elite's scroll wheel sometimes scrolls back up when i pull it towards the opposite side and my middle click doesnt work unless pressed hard.",
+            "I'm having issues with my razer viper v3. When I plug it in to charge and get up for a while, when I come back my mouse doesn't work at all. It seems to be out of sleep mode as it's lighting up, but it never moves the cursor. It seems to be connected to synapse and when I plug it in, the mouse still doesn't work. The only fix I have is completely restarting my pc. Has anyone else had this issue? Is there a simple fix? I'm thinking about returning it as it's very frustrating behavior for such an expensive mouse.",
+            "On cold boot (with Windows 11 fast startup disabled) my Deathstalker v2 always comes up with numlock off despite the BIOS set to start with it on. It's an immediate daily nuisance because like most, my Win PIN includes numbers.\n\nOn a soft reboot, it comes up in its previous on/off state. That's a bit better but still ignoring the BIOS setting. Thoughts? Workarounds?",
+            "Having an issue with my Blackwidow v3, the volume scroll wheel has changed functions to scrolling instead of volume control without me changing any of my keybindings and I'm not sure how to change it back. \n\nI've tried resetting profiles and making sure it's bound to volume up and down but it still just scrolls. Pressing it still mutes the volume. I can always use my volume control on my Kraken headset, but it is slightly annoying lol. Any help would be greatly appreciated :\\]"
         ]
     },
     "Monthly Razer Battlestation Giveaway June 2024": {
         "title": "Monthly Razer Battlestation Giveaway June 2024",
-        "score": 17,
+        "score": 16,
         "url": "https://i.redd.it/zag3uarkjw3d1.png",
         "content": "We're back again with a monthly battlestation giveaway with prizing provided by Razer. We hope to have a battlestation giveaway running every month. All battlestations posted this month will be automatically entered, just use the \"[Razer Battlestation](https://new.reddit.com/r/razer/search?q=flair_name%3A%22Razer%20Battlestation%22&restrict_sr=1)\" flair when you post.\n\nYou may repost your setup every month, however it must be a different picture. Setups must have at least one Razer product. This month the winner will be selected randomly. Entries and vote counting will conclude 00:00EST July 1.\n\nPrize for this month will be a **Razer** [**Viper V3 HyperSpeed**](https://www.razer.com/gaming-mice/razer-viper-v3-hyperspeed). One entry per person. Open to all users worldwide. Thanks to Razer for their support. Excited as always to see your setups!",
         "num_comments": 3,
@@ -28,36 +28,39 @@
             "Enter by posting your setup on r/razer with the \"[Razer Battlestation](https://new.reddit.com/r/razer/search?q=flair_name%3A%22Razer%20Battlestation%22&restrict_sr=1)\" flair."
         ]
     },
-    "Is my number 5 key broken or something?": {
-        "title": "Is my number 5 key broken or something?",
-        "score": 4,
-        "url": "https://www.reddit.com/gallery/1dls3zm",
-        "content": "Is my number 5 key light broken? Even though the other keys are the color i want it to be, white, the number 5 key is yellow? The key itself works fine.\n",
-        "num_comments": 5,
+    "Gigantus V2 XXL , How do I request Warranty without a serial number? ": {
+        "title": "Gigantus V2 XXL , How do I request Warranty without a serial number? ",
+        "score": 3,
+        "url": "https://www.reddit.com/gallery/1dr99bq",
+        "content": "The cloth is starting to peel off, it started 4-5 months into usage and I was initially trying to fix it by using weights,.. but that didn't help. I can't bypass the support system razer has to get any help. ",
+        "num_comments": 9,
         "comments": [
-            "Failed led.\nUnless you have some 3rd party app that it's overriding Chroma.",
-            "yes.",
-            "Faulty led",
-            "I mean, have you tried actually typing or just sitting starting at reddit for an answer you could answer yourself?"
+            "This happened to me too. The reason is the sweat between your palm and the mousepad. I've used universal glue that fixed it for me for a certain time. At some point I replaced it with a Razer Strider XXL as they have a special seam on the edge",
+            "Razer is a joke now. Get youself some cheap mousepad with stitched edges and it will be better than this Razer shitpad.",
+            "Wait for razer to respond to this post. You can still claim warranty using your official receipt.",
+            "First version of Gigantus mousepad had stiched edges but after that Razer became even more greedy motherfucker and now they're releasing shitty stuff that will break in no time just to get more money.",
+            "Seems like every person has had this issue. Razer should discontinue this product at this point. It doesn't seem like a wear and tear issue, but a Quality Control issue. \n\n\n> Universal glue\n\nCan you suggest which one this is? Like is there a brand you used?\n\n\n> Razer Strider XXL\n\nIf the warranty on this one is rejected, there's no way I'm going for any razer products and I'll actively advise people against it.",
+            "Had the same problem, got rejected because i inflicted \"physical damage\" to it.\n\nHow the hell they can sell a mouse mat for that much and not have perforated edges... \n\nJokes on me for wanting a black and green mousemat to go with the rest of my setup. I thought, surely if the edges arent perforated, the glue they used must be really good! And hey its razer, theyre a good brand right?\n\nBruh",
+            "Oh, so it seems like I'm not gonna get any help from Razer.. that's terrible. They should discontinue it if it's such a widespread issue. \n\n\nAlternatively, is there any other way I can fix this myself through DIY? Some glues or stuff you recommend?",
+            "To give more context: the support website is asking for a serial number of purchased product which a mouse mat doesn't have according to the support website itself. \n\nHow do I actually get around to talking to someone to get this fixed?",
+            "Thank you for your question, we hope you find an answer soon. Please note that posts are for user discussion. If you require Razer support, please use the pinned technical support post or visit [Razer's support page](https://support.razer.com). \n\nPlease note your exact product model and year if you havent done so yet.\n\nIf you need in-depth troubleshooting, we suggest posting in a more general tech subreddit like r/techsupport or r/pcgamingtechsupport. The first step of troubleshooting peripherals is trying on another device to better isolate the problem. It's also likely your issue has been discussed before, so consider using Google and Reddit search.\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/razer) if you have any questions or concerns.*"
         ]
     },
-    "Why no wired Viper V3 (to complement the Deathadder V3) ?": {
-        "title": "Why no wired Viper V3 (to complement the Deathadder V3) ?",
+    "Issues I'm running into with Razer Synapse": {
+        "title": "Issues I'm running into with Razer Synapse",
         "score": 2,
-        "url": "https://www.reddit.com/r/razer/comments/1dlt0tx/why_no_wired_viper_v3_to_complement_the/",
-        "content": "I've recently ditched another popular mice brand for Razer. I'm a wired mouse extremist. I don't want no dongle, no battery to charge, nothing. So I've purchased the Deathadder V3. Fantastic mouse : back to basics, no crappy RGB (another thing I'm becoming more and more extremist about), subdued design, super light, solid, fantastic switches, sensor and firm scrollwheel... It's almost reached perfection... ALMOST !  \n  \nBecause, well, it's a Deathadder and not a Viper and while I have large hands and it fits very well, I do have a preference for tinier fingertip designs and I was very disappointed in Razer that no \"Viper V3\" (non-pro, non-hyperspeed, non-nothing) exists.  \n  \nI hope it's something Razer has planned because I can't believe there aren't other people like me who just prefer good old wired everything on their top end hardware. The pricetag of wireless mice compared to wired alone to me justifies buying wired. The Deathadder V3 is almost a steal in that regard.",
-        "num_comments": 3,
+        "url": "https://www.reddit.com/r/razer/comments/1dr9fc7/issues_im_running_into_with_razer_synapse/",
+        "content": "Every single time I try to change the settings of my Razer Kiyo Pro, the brightness, the contrast, whatever, it just saves back to the settings it was set to before and I can't change them whatsoever. How can I fix this problem? I've troubleshooted Razer Synapse so many times at this point.",
+        "num_comments": 1,
         "comments": [
-            "Agree, but probably they have to sell the expensive ones first to create cheaper wired version.",
-            "If your laptop is experiencing battery issues such as swelling or poor charging, please replace immediately. Razer Blade batteries are very simple to remove, only requiring a few T5 screws for the back panel. Batteries have a shelf-life and degrade with use, heat and charge stress can speed this up and usually need replacing around 3-5 years for laptops. 2022+ Blades have a charge limiter that should be enabled.\n\nFor replacements, contact Razer support first, battery warranty is 2 years and outside of warranty they can sell to some regions. eBay and iFixit also have replacements, check your model and year.\n\n[SpicyPillow FAQ](https://www.reddit.com/r/spicypillows/comments/gebotv/faq_what_to_do_if_you_have_a_swollen_battery/)\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/razer) if you have any questions or concerns.*",
-            "Yeah at first I didn't realize how new the Viper V3 series is. \"Bad\" purchase timing on my part ;)  \n  \nI strongly hope they add a wired top end Viper. If it's priced similarly to the Deathadder (no reason not to be) I'd probably consider buying it. Keeping both mice for a big 1v1 comparison and eventually selling the loser.\n\nI've quit team \"G\" after so many mice/keyboards since in my eyes the build quality went down and the price to perf ratio and also the design language didn't speak to me anymore. I'm glad to see Razer coming up with such clean no-nonsense mice. Here's me hoping they take notice :)"
+            "Thank you for your question, we hope you find an answer soon. Please note that posts are for user discussion. If you require Razer support, please use the pinned technical support post or visit [Razer's support page](https://support.razer.com). \n\nPlease note your exact product model and year if you havent done so yet.\n\nIf you need in-depth troubleshooting, we suggest posting in a more general tech subreddit like r/techsupport or r/pcgamingtechsupport. The first step of troubleshooting peripherals is trying on another device to better isolate the problem. It's also likely your issue has been discussed before, so consider using Google and Reddit search.\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/razer) if you have any questions or concerns.*"
         ]
     },
-    "Razer Blackshark V2 Pro mute button not working.": {
-        "title": "Razer Blackshark V2 Pro mute button not working.",
+    "Is there a speedfan plugin or other tool or maybe a weird chinese driver that can adjust fan speed?": {
+        "title": "Is there a speedfan plugin or other tool or maybe a weird chinese driver that can adjust fan speed?",
         "score": 1,
-        "url": "https://www.reddit.com/r/razer/comments/1dlvsfg/razer_blackshark_v2_pro_mute_button_not_working/",
-        "content": "The mute microphone button on the left earpiece no longer works, whenever I press it I can still talk through the microphone and can be heard in discord. I have tried listening to my device in the control panel sounds settings and the issue still persists so it isn't a problem with discord. I've looked everywhere and haven't found any solution. Is there a fix or are my headphones just defective.",
+        "url": "https://www.reddit.com/r/razer/comments/1dra447/is_there_a_speedfan_plugin_or_other_tool_or_maybe/",
+        "content": "I have a Blade 15 (2018 Advanced) and the turbines err fans are really really loud in idle. I want to know whether there is any hacky tool that can solve this issue. Is there any obscure tool that can control the fans in a way that I can force the computer to be more silent (e.g. throttle rather than cool)?",
         "num_comments": 1,
         "comments": [
             "Thank you for your question, we hope you find an answer soon. Please note that posts are for user discussion. If you require Razer support, please use the pinned technical support post or visit [Razer's support page](https://support.razer.com). \n\nPlease note your exact product model and year if you havent done so yet.\n\nIf you need in-depth troubleshooting, we suggest posting in a more general tech subreddit like r/techsupport or r/pcgamingtechsupport. The first step of troubleshooting peripherals is trying on another device to better isolate the problem. It's also likely your issue has been discussed before, so consider using Google and Reddit search.\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/razer) if you have any questions or concerns.*"

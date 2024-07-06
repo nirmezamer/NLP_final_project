@@ -6,62 +6,58 @@
         "content": "Please use this thread to post screenshots of your Plasma Desktop and discuss further customization.\n\nYou can find some Plasma documentation here:\n\n* \\[[Create a KDE Plasma Theme with no Code!](https://www.youtube.com/playlist?list=PLX3_anRd8Mp7ibLDlSEJHNzSBaTslFp-x)\\]\n* \\[[Zren Plasma Widget Tutorial](https://zren.github.io/kde/docs/widget/)\\]\n* \\[[Create a global theme](https://userbase.kde.org/Plasma/Create_a_Global_Theme_Package)\\]\n* \\[[Plasma third party developer documentation](https://techbase.kde.org/Special:MyLanguage/Development/Tutorials/Plasma5)\\]\n* \\[[New developer's tutorial on Plasma theme's and plugins](https://develop.kde.org/docs/plasma/)\\]\n\nCheck out the [KDE store](https://store.kde.org/browse/cat/) for more widgets and themes for your customization needs, and if you're a theme creator and are interested in improving Breeze, consider getting involved with the [Visual Design Team](https://community.kde.org/Get_Involved/design) and contributing upstream!",
         "num_comments": 4,
         "comments": [
-            "Thank you for your submission.\n    \nThe KDE community supports the Fediverse and open source social media platforms over proprietary and user-abusing outlets. Consider visiting and submitting your posts to our community on [Lemmy](https://lemmy.kde.social/) and visiting our forum at [KDE Discuss](https://discuss.kde.org) to talk about KDE.\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/kde) if you have any questions or concerns.*",
             "I have a fresh install of Plasma on Arch. Noticing flameshot is still experimental on wayland and has a lot of bugs. Any suggestions for anther screenshot app?",
             "just use kde's spectacle? its easy to configure it to your preferences.",
-            "Thanks. I'll do that"
+            "Thanks. I'll do that",
+            "Thank you for your submission.\n    \nThe KDE community supports the Fediverse and open source social media platforms over proprietary and user-abusing outlets. Consider visiting and submitting your posts to our community on [Lemmy](https://lemmy.kde.social/) and visiting our forum at [KDE Discuss](https://discuss.kde.org) to talk about KDE.\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/kde) if you have any questions or concerns.*"
         ]
     },
     "This week in KDE: everything, I think": {
         "title": "This week in KDE: everything, I think",
-        "score": 32,
+        "score": 93,
         "url": "https://pointieststick.com/2024/06/28/this-week-in-kde-everything-i-think/",
         "content": "",
-        "num_comments": 5,
+        "num_comments": 19,
         "comments": [
-            "Thank you for your submission.\n    \nThe KDE community supports the Fediverse and open source social media platforms over proprietary and user-abusing outlets. Consider visiting and submitting your posts to our community on [Lemmy](https://lemmy.kde.social/) and visiting our forum at [KDE Discuss](https://discuss.kde.org) to talk about KDE.\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/kde) if you have any questions or concerns.*",
+            ">The crash reporter dialog now has a Finish button in the corner that activates once its all done, so its more obvious when and how you can get rid of it\n\nYay my first contribution :D",
             "Plasma gets more and more impressive with each release:) looking forward to 6.2!",
-            "The crash reporter dialog now has a \u201cFinish\u201d button in the corner that activates once it\u2019s all done, so it\u2019s more obvious when and how you can get rid of it\n\n\nYay my first contribution :D",
+            "Nice! I'm happy to see the 15-minute bugs decreasing. I wonder when the system-wide flatpak bug in discover gets fixed. Though seeing as they really treat these bugs as high priority, it's probably just a matter of time.",
             "Still no auto rotate toggle ;_;",
-            "Nice! I'm happy to see the 15-minute bugs decreasing. I wonder when the system-wide flatpak bug in discover gets fixed. Though seeing as they really treat these bugs as high priority, it's probably just a matter of time."
+            "Taskbar show is broken when set to autohide \n\nGreat update otherwise!",
+            "It would be kind of cool if DEs such as KDE or GNOME, could be used similar to WMs such as icewm or tabbed / tiling UIs. Kind of adjusting to the user's preferences. I use IceWM usually, largely because I can get things done with it faster, but I use many KDE applications, such as kde, okular etc... so it is like a semi-KDE in many ways.",
+            "Thanks again! I yearn for replacing the shell of my windows work laptop by Plasma 6.2 when it arrives. Alas... I'll be yearning eternally",
+            "Congratulations and many thanks! ",
+            "Nice! Feels great doesn't it? :)",
+            "How long did it take you to learn about kde technologies etc before contributing? I want to become kde contributor but I found it very difficult"
         ]
     },
-    "average 6.1 experience": {
-        "title": "average 6.1 experience",
-        "score": 79,
-        "url": "https://i.redd.it/2e4e9nugid9d1.jpeg",
-        "content": "",
-        "num_comments": 44,
+    "Yeah I need like 10 SAME breeze themes \u2620\ufe0f\u2620\ufe0f\u2620\ufe0f": {
+        "title": "Yeah I need like 10 SAME breeze themes \u2620\ufe0f\u2620\ufe0f\u2620\ufe0f",
+        "score": 7,
+        "url": "https://www.reddit.com/r/kde/comments/1drc3dl/yeah_i_need_like_10_same_breeze_themes/",
+        "content": "https://preview.redd.it/9htuna1uqi9d1.png?width=1920&format=png&auto=webp&s=4ab617693d258fb11f284920aac4a3a79ce0c3f8\n\n",
+        "num_comments": 8,
         "comments": [
+            "Usually this disappears after a reboot.",
+            "Fedora KDE. Version-6.1.2. BTW is this a bug or a feature. Pretty sure this happened because I customised my desktop with different themes.",
+            "Yeah. Have been using it to watch anime since I have been having problems watching drm content on Firefox. \nBut it's not that great either. Uses a ton of ram and crashes most of the time.",
+            "Also use brave. But it also has the same problems as edge since both are based on chromium.",
+            "It's been a thing since at least 6.0 I'm pretty sure, it would ruin the charm if they fixed it now.",
+            "Is that... edge? ",
             "Thank you for your submission.\n    \nThe KDE community supports the Fediverse and open source social media platforms over proprietary and user-abusing outlets. Consider visiting and submitting your posts to our community on [Lemmy](https://lemmy.kde.social/) and visiting our forum at [KDE Discuss](https://discuss.kde.org) to talk about KDE.\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/kde) if you have any questions or concerns.*",
-            "Bruh what. KDE devs have been quite hard at work fixing stuff that causes this message to show up. If you can still do that reliably you should definitely report this along with your hardware, drivers and probably some configs too.",
-            "Well did  you try what it is suggesting? If so what results did you get?",
-            "Most issues with kscreengreeter should've been fixed in 6.1.1",
-            "The bug: https://bugs.kde.org/show_bug.cgi?id=489180",
-            "Is that really the average? I'm very lucky then. That's a bug, if you want KDE to improve report it.",
-            "I've seen this exactly once in my life and I don't remember how I got it.",
-            "I think this happened on Plasma 5 as well, when one updated Plasma libraries and didn't restart Plasma.",
-            "So far it didn't happen to me. Ran 6.1 previously, now 6.1.1.",
-            "Not at all. I don't use a rolling and everything goes allright"
+            "Hi, this is AutoKonqi reporting for duty: this post was flaired as General Bug.\n\nWhile r/kde allows to discuss issues, raise their visibility, and get assistance from other users out of good will, it is not the proper channel to report issues and the developers able to fix them won't be able to act on them over Reddit.\n\nSo if this bug was not reported to the developers yet and it is in fact a bug in KDE software, please take a brief look at the [issue reporting guide](https://community.kde.org/Get_Involved/Issue_Reporting) and report the issue over the [KDE Bugzilla](https://bugs.kde.org). If it is a crash, be sure to read about [getting backtraces](https://community.kde.org/Guidelines_and_HOWTOs/Debugging/How_to_create_useful_crash_reports) so your report can assist the developers. If this is a known issue, you may want to include the bug report on your post so your fellow users experiencing the same thing can CC themselves to the report. Be sure to describe your issue well and with context. Thank you.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/kde) if you have any questions or concerns.*"
         ]
     },
-    "Log Out menu missing Shut down and Sleep options": {
-        "title": "Log Out menu missing Shut down and Sleep options",
-        "score": 14,
-        "url": "https://i.redd.it/976kuqztlf9d1.png",
+    "KWin: screen artifacts caused by offscreen effects": {
+        "title": "KWin: screen artifacts caused by offscreen effects",
+        "score": 8,
+        "url": "https://v.redd.it/hnqn5y1nmi9d1",
         "content": "",
-        "num_comments": 18,
+        "num_comments": 3,
         "comments": [
+            "More detailed explanation on bug available here: [https://bugs.kde.org/show\\_bug.cgi?id=485884](https://bugs.kde.org/show_bug.cgi?id=485884)\n\nI've decided to post it here since it doesn't seem to get any attention despite being very annoying.",
             "Thank you for your submission.\n    \nThe KDE community supports the Fediverse and open source social media platforms over proprietary and user-abusing outlets. Consider visiting and submitting your posts to our community on [Lemmy](https://lemmy.kde.social/) and visiting our forum at [KDE Discuss](https://discuss.kde.org) to talk about KDE.\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/kde) if you have any questions or concerns.*",
-            "This is a recent change to Plasma. If you want to Shut Down or Sleep, you need go to the Shut Down or Sleep menu instead of the Log Off menu now.",
-            "It's a new feature of Plasma 6.0 . You have to press the shutdown button of your computer or click on the shutdown button in the menu.",
-            "It's going to come back in plasma 6.2.0 https://pointieststick.com/2024/06/28/this-week-in-kde-everything-i-think/",
-            "Hi, this is AutoKonqi reporting for duty: this post was flaired as General Bug.\n\nWhile r/kde allows to discuss issues, raise their visibility, and get assistance from other users out of good will, it is not the proper channel to report issues and the developers able to fix them won't be able to act on them over Reddit.\n\nSo if this bug was not reported to the developers yet and it is in fact a bug in KDE software, please take a brief look at the [issue reporting guide](https://community.kde.org/Get_Involved/Issue_Reporting) and report the issue over the [KDE Bugzilla](https://bugs.kde.org). If it is a crash, be sure to read about [getting backtraces](https://community.kde.org/Guidelines_and_HOWTOs/Debugging/How_to_create_useful_crash_reports) so your report can assist the developers. If this is a known issue, you may want to include the bug report on your post so your fellow users experiencing the same thing can CC themselves to the report. Be sure to describe your issue well and with context. Thank you.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/kde) if you have any questions or concerns.*",
-            "Hi, I just have an random question. You're display looks sharp and clear. Can you suggest me a display for my Mini PC running KDE neon with Plasma 6.1?",
-            "not a bug, it's a feature",
-            "Use STRG+ALT+DEL and you have the menu",
-            "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\\`..---+/---..\\` \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0sdwvit@vit-PC \u00a0  \n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\\`---.\\`\\` \u00a0\u00a0\\`\\` \u00a0\u00a0\\`.---.\\` \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0---------------- \u00a0  \n\u00a0\u00a0\u00a0\u00a0\u00a0.--.\\` \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\\`\\` \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\\`-:-. \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0OS: KDE neon 6.0 x86\\_64 \u00a0  \n\u00a0\u00a0\u00a0\\`:/: \u00a0\u00a0\u00a0\u00a0\\`.----//----.\\` \u00a0\u00a0\u00a0\u00a0:/- \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Host: MS-7C56 2.0 \u00a0  \n\u00a0\u00a0.:. \u00a0\u00a0\u00a0\\`---\\` \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\\`--.\\` \u00a0\u00a0\u00a0.:\\` \u00a0\u00a0\u00a0\u00a0\u00a0Kernel: 6.5.0-41-generic \u00a0  \n\u00a0.:\\` \u00a0\u00a0\\`--\\` \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.:- \u00a0\u00a0\u00a0\\`:. \u00a0\u00a0\u00a0\u00a0Uptime: 4 hours, 16 mins \u00a0  \n\\`/ \u00a0\u00a0\u00a0\\`:. \u00a0\u00a0\u00a0\u00a0\u00a0\\`.-::-.\\` \u00a0\u00a0\u00a0\u00a0\u00a0-:\\` \u00a0\u00a0\\`/\\` \u00a0\u00a0\u00a0Packages: 2480 (dpkg), 136 (brew), 1 (pkg), 37 (fl \u00a0  \n/. \u00a0\u00a0\u00a0/. \u00a0\u00a0\u00a0\u00a0\\`:++++++++:\\` \u00a0\u00a0\u00a0\u00a0.: \u00a0\u00a0\u00a0.: \u00a0\u00a0\u00a0Shell: bash 5.1.16 \u00a0  \n\\`/ \u00a0\u00a0\u00a0.: \u00a0\u00a0\u00a0\u00a0\\`+++++++++++/ \u00a0\u00a0\u00a0\u00a0\u00a0/\\` \u00a0\u00a0\\`+\\` \u00a0\u00a0Resolution: 3840x2160 \u00a0  \n/+\\` \u00a0\u00a0-- \u00a0\u00a0\u00a0\u00a0.++++++++++++\\` \u00a0\u00a0\u00a0\u00a0:. \u00a0\u00a0.+: \u00a0\u00a0DE: Plasma 6.1.0 \u00a0  \n\\`/ \u00a0\u00a0\u00a0.: \u00a0\u00a0\u00a0\u00a0\\`+++++++++++/ \u00a0\u00a0\u00a0\u00a0\u00a0/\\` \u00a0\u00a0\\`+\\` \u00a0\u00a0WM: kwin \u00a0  \n/\\` \u00a0\u00a0\u00a0/. \u00a0\u00a0\u00a0\u00a0\\`:++++++++:\\` \u00a0\u00a0\u00a0\u00a0.: \u00a0\u00a0\u00a0.: \u00a0\u00a0\u00a0Theme: Breeze-Dark \\[GTK2\\], Breeze \\[GTK3\\] \u00a0  \n./ \u00a0\u00a0\u00a0\\`:. \u00a0\u00a0\u00a0\u00a0\u00a0\\`.:::-.\\` \u00a0\u00a0\u00a0\u00a0\u00a0-:\\` \u00a0\u00a0\\`/\\` \u00a0\u00a0\u00a0Icons: BigSur \\[GTK2/3\\] \u00a0  \n\u00a0.:\\` \u00a0\u00a0\\`--\\` \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.:- \u00a0\u00a0\u00a0\\`:. \u00a0\u00a0\u00a0\u00a0Terminal: konsole \u00a0  \n\u00a0\u00a0.:. \u00a0\u00a0\u00a0\\`---\\` \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\\`--.\\` \u00a0\u00a0\u00a0.:\\` \u00a0\u00a0\u00a0\u00a0\u00a0CPU: AMD Ryzen 9 5950X (32) @ 3.400GHz \u00a0  \n\u00a0\u00a0\u00a0\\`:/: \u00a0\u00a0\u00a0\u00a0\\`.----//----.\\` \u00a0\u00a0\u00a0\u00a0:/- \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0GPU: AMD ATI 2d:00.0 Device 744c \u00a0  \n\u00a0\u00a0\u00a0\u00a0\u00a0.-:.\\` \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\\`\\` \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\\`-:-. \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Memory: 8723MiB / 80342MiB \u00a0  \n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\\`---.\\`\\` \u00a0\u00a0\\`\\` \u00a0\u00a0\\`.---.\\`  \n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\\`..---+/---..\\` \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
-            "it's a very annoying new feature of Plasma 6.1.\n\nYou can change '/usr/share/plasma/look-and-feel/org.kde.breeze.desktop/contents/logout/logout.qml', remove '    readonly property bool showAllOptions: sdtype === ShutdownType.ShutdownTypeDefault' and all options will appear. Unfortunately this file will get overwritten with the next plasma update and you have to redo the change.\n\nIf you use a different desktop theme, the folder with that file will be in a different location, for me it is in 'org.openSUSE.desktop'.\n\nI wish they would reverse that change or at least give us a possibility to easily configure what we want."
+            "Hi, this is AutoKonqi reporting for duty: this post was flaired as General Bug.\n\nWhile r/kde allows to discuss issues, raise their visibility, and get assistance from other users out of good will, it is not the proper channel to report issues and the developers able to fix them won't be able to act on them over Reddit.\n\nSo if this bug was not reported to the developers yet and it is in fact a bug in KDE software, please take a brief look at the [issue reporting guide](https://community.kde.org/Get_Involved/Issue_Reporting) and report the issue over the [KDE Bugzilla](https://bugs.kde.org). If it is a crash, be sure to read about [getting backtraces](https://community.kde.org/Guidelines_and_HOWTOs/Debugging/How_to_create_useful_crash_reports) so your report can assist the developers. If this is a known issue, you may want to include the bug report on your post so your fellow users experiencing the same thing can CC themselves to the report. Be sure to describe your issue well and with context. Thank you.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/kde) if you have any questions or concerns.*"
         ]
     }
 }

@@ -1,96 +1,97 @@
 {
     "Season 05: Drilling Deeper is OUT NOW!": {
         "title": "Season 05: Drilling Deeper is OUT NOW!",
-        "score": 795,
+        "score": 830,
         "url": "https://store.steampowered.com/news/app/548430/view/4174354336751077142",
         "content": "",
-        "num_comments": 149,
+        "num_comments": 155,
         "comments": [
-            "\\*On Steam, console/Windows store to follow on June 27, due to certification and extra testing.\n\nRelease trailer discussion: [https://www.reddit.com/r/DeepRockGalactic/comments/1df0u93/deep\\_rock\\_galactic\\_season\\_05\\_release\\_trailer/?utm\\_source=share&utm\\_medium=web3x&utm\\_name=web3xcss&utm\\_term=1&utm\\_content=share\\_button](https://www.reddit.com/r/DeepRockGalactic/comments/1df0u93/deep_rock_galactic_season_05_release_trailer/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)",
-            ">The seeds may look insignificant, but RnD are besides themselves with excitement. In their words, the Morkite Seeds could be potential stepping stones towards potential cultivation of Morkite off-site.\n\nWait, so they make us work on making ourselves obsolete ?\n\nWAIT FOR THE UNION TO HEAR ABOUT THIS !",
-            "Trying out the new OCs as I get them, and so far *really* enjoying cluster charge hurricane.\n\nBasically turns each and every shot into a cluster grenade *and* if you want you can just ram the entire missile into enemies for nice single target damage.\n\nMust say though most looking forwards to mortar rounds because I saw someone use it and it looked like it'll be real fun.",
-            "Rock",
-            "> ## TYPOS\n>\n> Probably added more than we fixed lol\n\nGSG devs are my favourite, lol\n\n\n\nAlso,\n> Glyphid Acid Spitter: Changed the Acid Spitter's projectile DoT damage type from Generic to Poison (the projectile impact damage remains Kinetic)\n\nI had no idea until these patch notes that the Acid Spitter applied a DoT damage\n\n\n\nEDIT:  Best thing about the patch was coffee for breakfast, it's the ideal choice for sipping while reading through all the notes.",
             "This is by far the best season yet. Great mission, great random event, overall good new modifiers and enemies, good QoL all around. Still hoping one day they add the option to mute the game when tabbed.",
             "A banana and some mixed veggies. Gotta give myself a good boost for a day in the mines",
             "Season 5 goes hard, feel free to play it",
             "I was with a group earlier & we found a jetboot crate on a drillevator mission. Unfortunately when it came time to head out, we couldn't equip the jetboot v2s to escape & almost wiped. Was there something I missed?",
-            "The new mission is crazy fun! \n\nalways singing \"it raining bugs, Hallelujah!\" on the way down"
+            "The new mission is crazy fun! \n\nalways singing \"it raining bugs, Hallelujah!\" on the way down",
+            "In my first deep scan mission, moments after activating the drillevator we got two bulk detonators. Killing them before they reached us wasn't too much of a problem, but when they exploded they rained bomblets down on us which killed three. I only survived because I was under the gunner shield *and* had max health, and I still nearly died.\n\nBulks seem pretty hard to deal with when you can't get any horizontal distance from their explosion.",
+            "Haven't had a chance to try it out yet, nor anytime soon, so I've got a question. How does Engi's turrets interact with the drillevator? I'm trying to avoid youtube because I want to go in blind. Thanks.",
+            "Anyone else feel that the drillevator is a bit too small and cramped?",
+            "Made myself a really nice sandwich this morning",
+            "Looks like Mission Control is back to repeating voicelines. Was doing the dive and he kept telling us to connect the pipeline to the pumpjack even as we were escaping"
         ]
     },
-    "Weekly Deep Dives Thread - 20th June 2024": {
-        "title": "Weekly Deep Dives Thread - 20th June 2024",
-        "score": 32,
-        "url": "https://www.reddit.com/r/DeepRockGalactic/comments/1dk97j8/weekly_deep_dives_thread_20th_june_2024/",
-        "content": "\nPlease use this thread to discuss the deep dives of the week.\n___\n**Deep Dive | Gargantuan Trail | Azure Weald**\n\n|**Stage**|**Primary**|**Secondary**|**Anomaly**|**Warning**|\n|:-|:-|:-|:-|:-|\n| 1 | Mule x3 | Morkite Well x1 | None | None |\n| 2 | Escort Duty | Morkite Well x1 | None | Duck and Cover |\n| 3 | Industrial Sabotage | Dreadnought x1 (T) | None | Duck and Cover |\n\n**Elite Deep Dive | Fearful Haunt | Fungus Bogs**\n\n|**Stage**|**Primary**|**Secondary**|**Anomaly**|**Warning**|\n|:-|:-|:-|:-|:-|\n| 1 | Dreadnought x2 (D+H) | Egg x2 | None | Regenerative Bugs |\n| 2 | Aquarq x7 | Crystal Scan x2 | None | None |\n| 3 | Escort Duty | Morkite x150 | None | Parasites |\n___\nOther resources:\n\n* See last week's thread [here](https://www.reddit.com/r/DeepRockGalactic/comments/1deypv9/weekly_deep_dives_thread_13th_june_2024/)\n* Watch the GSG team undertake the dives on their [Twitch channel](https://www.twitch.tv/ghostship_games)\n  * Deep Dive: Thursday @ 11am UTC\n  * Elite Deep Dive: Friday @ 11am UTC\n* Get weekly deep dive info and more in JSON format from [DRG API](https://drgapi.com/)\n* Post weekly deep dive info and more in your Discord server with [Bosco](https://discord.com/api/oauth2/authorize?client_id=1097476432579539026&permissions=2147485696&scope=bot)",
-        "num_comments": 21,
+    "Weekly Deep Dives Thread - 27th June 2024": {
+        "title": "Weekly Deep Dives Thread - 27th June 2024",
+        "score": 30,
+        "url": "https://www.reddit.com/r/DeepRockGalactic/comments/1dpovpn/weekly_deep_dives_thread_27th_june_2024/",
+        "content": "\nPlease use this thread to discuss the deep dives of the week.\n___\n**Deep Dive | High Outpost | Dense Biozone**\n\n|**Stage**|**Primary**|**Secondary**|**Anomaly**|**Warning**|\n|:-|:-|:-|:-|:-|\n| 1 | Egg x4 | Morkite Well x1 | None | Duck and Cover |\n| 2 | Aquarq x7 | Black Box | Critical Weakness | Low Oxygen |\n| 3 | Morkite x250 | Crystal Scan x2 | None | None |\n\n**Elite Deep Dive | Dirty Reserve | Crystalline Caverns**\n\n|**Stage**|**Primary**|**Secondary**|**Anomaly**|**Warning**|\n|:-|:-|:-|:-|:-|\n| 1 | Egg x4 | Mule x2 | None | None |\n| 2 | Aquarq x7 | Dreadnought x1 (H) | Rich Atmosphere | Elite Threat |\n| 3 | Morkite x200 | Mule x2 | None | Shield Disruption |\n___\nOther resources:\n\n* See last week's thread [here](https://www.reddit.com/r/DeepRockGalactic/comments/1dk97j8/weekly_deep_dives_thread_20th_june_2024/)\n* Watch the GSG team undertake the dives on their [Twitch channel](https://www.twitch.tv/ghostship_games)\n  * Deep Dive: Thursday @ 11am UTC\n  * Elite Deep Dive: Friday @ 11am UTC\n* Get weekly deep dive info and more in JSON format from [DRG API](https://drgapi.com/)\n* Post weekly deep dive info and more in your Discord server with [Bosco](https://discord.com/api/oauth2/authorize?client_id=1097476432579539026&permissions=2147485696&scope=bot)",
+        "num_comments": 15,
         "comments": [
-            "One more week for consoles till the update. Deep dives are different again:\n\n**Deep Dive | Dry Cellar | Fungus Bogs**\n\n1. Dreadnaught x2 (H+D), Egg x2 \\[Lethal Enemies\\]\n2. Morkite x225, Egg x2 \\[Low Oxygen\\]\n3. Aquarq x7, Morkite x150\n\n**Elite Deep Dive | Rocky Break | Hollow Bough**\n\n1. Mule x3, Dreadnaught x1 (H) \\[Swarmageddon\\] \\[Volatile Guts\\] >!Jet Boot Crate right in front of DN egg!< \n2. Morkite x200, Black Box x1 \\[Exploder Infestation\\] >!Very cramped cave + exploders = BEWARE. Black box in particular is in a gank. RIP solo scouts.!<\n3. Onsite Refining, Dreadnaught x1 (H)  \\[Cave Leech Cluster\\]",
-            "I assume there is a separate set of Deep Dives for consoles this week since the DLC has not yet launched there?",
-            "Last mission of the EDD makes me wonder if they ever plan on letting Bosco help more on escort missions. My build was very kite-reliant (I mean I was a scout) and I went in blind, but ended up losing the dozer at about 70% through the Heartstone.  \n  \nFirst mission was pretty straight forward.  \nSecond has a dead end area where you'll need one of aquarqs from, but super simple if you have a driller. Soloing as a scout I had to rely heavily on Bosco. Getting one of these off the bat otherwise may be wise.  \nThird is not horrible up until the end, but is kind of a standard 1-stop escort mission with easy to reach shale. \n\n  \nTons of nitra I never got to in the 3rd stage.  \n  \nIn a normal group I don't see this being that bad, but if you're solo you'll definitely need to kill things asap. Again, a fairly typical haz 5+ escort...\n\nI don't like escort so am unlikely to try soloing again, but may end up joining a group of randoms at some point.",
-            "This week's normal Deep Dive really loved ranged enemies, and missions that take a long time.\n\n* **First Stage** - Big nice open cave. Nothing too advanced. All three Mini-mules are fairly easy to reach, so is the Morkite Geyser. Plenty of Nitra thanks to the Mini-mules and a single leech in the roof. \n\n* **Second Stage** - So many ranged enemies, thanks to the new Duck and Cover warning. The mission itself otherwise ain't too much trouble, with the Morkite Geyser being in an in-between cave.\n\n* **Third Stage** - Duck and Cover makes it's foul return. The area around the Caretaker is spacious, so minimal terraforming is needed. The Twin's cocoon is right above said Caretaker. Plenty of Nitra available once more. \n\nI played Gunner together with an Engineer and Driller, on Steam.",
-            "Failed the EDD on the first try with the dozer at 90% complete... It was sad. Two people in the group were clearly unaware of the new rock prison wave and how much damage it does to the dozer. Me and the other guy franticly typed in chat trying to get them to walk away from her, but she lost both her sides that wave.\n\n  \nPlease make sure your team knows the new rock mechanic in escort duty does A LOT OF DAMAGE to the dozer.",
-            "For the last stage of the Deep Dive, do the data vault first. Once the data vault is defeated, immediately start the boss battle with the dreadnoughts. The explosion from the data vault should drain most of their health.\n\nOverall, a very fun, if hectic, deep dive.",
-            "i've been waiting for this, thanks for the speedy heads up",
-            "Never understood why people hated Duck and Cover so much until I played this one",
-            "It's really satisfying to pop the egg right as caretaker is about to die, his death explosion kills the dreadnaughts for you.",
-            "Interesting deep dive to get back into deep dives on\n\nStage 1 wasn't really memorable. As of writing this message I am currently on stage 2 with a Driller build that is very lacking in range. The bramble mortar guy over the oil refill zone is interesting. It's my first time seeing it and my first time playing duck and cover, seeing so many acid spitters at once was pretty new. I've been down a couple of times but Dotty is doing alright. Will write more when it's over one way or another.\n\nI broke through the Heartstone and then got sniped by four tri jaws at the same time and lost. RIP, was asking for it with a flamethrower and full auto subata build lol. No range at all\n\nEdit: came back later with Gunner and won, saw stage 3 is Industrial Sabotage with Duck and Cover, decided I'm good. A cosmetic OC isn't worth that lol. It'd probably be a beard anyway"
+            "Did the EDD with a team of random dwarfs and Dark Morkite buff, in 24 minutes. We weren't even trying to go fast, lol. I'm sure it could be done in under 20 easy, maybe under 15.",
+            "EDD rates in my top 10 easiest EDDs ever and I've been playing since S2. Sub 25 with randos who were obsessed with grabbing every nitra vein. Sub 15 feels very doable with a coordinated team, I might even put a sub 10 on the books if you were really on top of your game e.g. team suicides and scout drop pod clipping to skip extractions.",
+            "Can we get this pinned, /u/GSG_Jacob?",
+            "Commenting to bump. Love you Deep Dive Thread guy!",
+            "I mostly play solo (and I'm not that good, play on Haz 3 or 4 usually), I failed the EDD on the second stage because it turned out I wasn't built to quickly beat the hive guard with the engineer build I had going (was trying something new), ended up getting massively overrun.\n\nBut ended up clearing the whole EDD with my DOT Driller (Disperer Compound Sludge Pump with Radioactive Microwave Gun), it's not the best at mactera and other things that keep their distance, but it's just about a king of crowds and can melt tough enemies on the ground too. It was really fun!",
+            "I did my first EDD today with these ones.\n\ngod damn that second mission was hard, me (engineer) and my scout friend were trying for like 3 hours to get it. we decided it would be best to kill the dread first and oh boy it had to be the dread that spawns waves of garbo before you can kill it lol. that ontop of fast enemies that hurt you a lot was... a lot to deal with. also insane amounts of \"special\" grunts (armoured, slasher)",
+            "Thanks for Scouting the mission for the rest of us",
+            "Ya well I'm not quite that good... how about you carry me through it so I can get the achievement lol",
+            "in my first stage one, one of our \"elite\" spawns was a bet-c. she used up all our iron wills lol",
+            "Yea the dread and waves were tough for us too without a driller to clear the area. We took over an hour for the whole dive."
         ]
     },
-    "I- uh... yay?": {
-        "title": "I- uh... yay?",
-        "score": 6125,
-        "url": "https://i.redd.it/56oq4h5s7y7d1.png",
+    "If any of the Dwarvelopers see this..": {
+        "title": "If any of the Dwarvelopers see this..",
+        "score": 1149,
+        "url": "https://i.redd.it/7trrcnaxqg9d1.jpeg",
+        "content": "I love season 5!! It is extremely well done, I have seen all of it (enemies, events, etc.) And the ONLY gripe I have is the caves not spawning enough Nitra to keep up with Max5 difficulty.. \n\nWe are getting swarmed faster then we can find Nitra and typically can't get to it fast enough without worrying about being downed so fast from Vulnerability II.. \n\nThrew a x3 Dreadnaught Double XP with Swarmageddon on Max5 right out the window after successfully combating an Omen and the first 2 dreads due to no ammo, everybody used their iron will to res one another and then go on a desperate search for Nitra to no avail :(\n\nIf at all possible, a Nitra spawn increase and/or discounted resupply pod price for max5 would be awesome (maybe 60 or 50?) Otherwise it just seems too difficult to keep up with the enemy spawns and health damage required to kill them when you got a team of 4 :(\n\nBut if this is the way you intended it to be, very well...\n\n\n\nWith love, LT LowBalls\n\nRock and Stone!!!\n",
+        "num_comments": 184,
+        "comments": [
+            "It might be more interesting if management sent in an extra resupply container every once in a while, but had bad aim, so you have to make it to the ammo drop point.\n\nIt would break up the normal routine of ammo resupply,  and force you to run over to pick it up, instead of only calling it in a convenient spot.",
+            "I think focusing to build and play for extreme ammo economy could be a cool challenge",
+            "I... Don't have that issue. I've never ran out of ammo (or occasionally) and beaten max difficulty couple of times. But perhaps this is because I am a scout main and prioritize nitra at the beginning.",
+            "Gamers trying to comprehend the idea that hard difficulty can be challenging while still being fair and enjoyable to play: (impossible challenge)\n\nWith OP on this one, and literally anyone that have actually played max haz5+",
+            "I've never seen leadstorm as ammo efficient, unlike aoe AC or Hurricane",
+            "Meh people will tell you its supposed to be like that and to just play regular haz 5 on missions in hazardous biomes and/or with warnings/anomalies\n\nPersonally what I do with my pals is focus on a good crowd clearing/ammo efficient build, they only activate \"more bugs II\" cuz otherwise its unplayable. Unfortunately that doesnt gel well with Elimination or Industrial Sabotage missions, nor random boss encounters",
+            "Gotta agree with you here OP, getting screwed over by not having enough nitra really sucks",
+            "Maybe if devs could implement extra nitra for money paid modifier or something, it could be a good solution. I'd washer a guess people play haz 5+ not for goldor something else anyway, so this could solve this issue perhaps. It'll be even better if that modifier would have tiers. Or just spawn more nitra depending on extra modifiers or something.\n\nNot that I have a horse in this race though, I've yet to become good enough to deal with Haz 5 consistently lol",
+            "would be awsome for S6, if minerals could spawn deep in walls. Then make so scout can detect them somehow and make drillers good at collecting minerals too",
+            "So i've been reading through here a bit and my first idea is: make it a perk to mine % more nitra or minerals in general\n\nThat way you have to build and sacrifice something for it, i think that would be fair and balanced."
+        ]
+    },
+    "Inspired by true events": {
+        "title": "Inspired by true events",
+        "score": 839,
+        "url": "https://i.redd.it/3xe0n6z5je9d1.jpeg",
         "content": "",
-        "num_comments": 215,
+        "num_comments": 34,
         "comments": [
-            "Devs that create a problem but fix it during the same day ? Exactly why GSG are the best.",
-            "What of instead of developers we had... freakelopers",
-            "GSG proving again why they're the best >!**UwU**!<",
-            " \n:3",
-            "ROCK AND STOWONE :3",
-            "The PathOwOgen consumes all",
-            ">UwU\n\n*Ruin, has come to our family...*",
-            "It's so funny to go from playing the balance dumpster fire that is Helldivers 2 where the devs have no idea what they are doing and then jump back into DRG where the devs fix major issues within a few hours.",
-            "I will not die on hotfix!!",
-            "Rock and stone? More like Cock and Moan UwU"
+            "I can't count how many times I've taken the core stone to Molly. It's cool how it sends the pod, but the deviation has confused me.",
+            "It's alright, dude. It's your first one. You make a mistake, you learn from it, you know what to do next time.",
+            "i'll take \"people who dont listen to mission control\" for 300 alex",
+            "Ive seen players celebrate with a loud rock n stone and turn around and walk away, leaving the core laying on the ground lol. Maybe the core pod could make a beeping sound or something for all the attention deficit dwarves.",
+            "So real, this literally happened to me today.",
+            "I don't play this game with volume, did my first core stone yesterday, couldn't put it in Molly, read mission control say to put it in the retrievel pod, put it in the retrievel pod.\n\nOP dumb",
+            "I have played at least 25 missions and I still haven't seen a single core stone. I think I'm just horribly Unlucky",
+            "What even gives with core stones?\nPlague hearts fit right in, no problem ",
+            "It's probally like this beacuse in the second season assignment after finishing one of missions, the mission control tells you that the core stones are worning out pretty quickly and they probally sending the retrieval pod beacuse it's much faster than waiting for it until the mission end and the drop pod will arrive.",
+            "Better than \"oooh shiny purple rock\" to \"i have endangered our very lives.\""
         ]
     },
-    "\"Nest Destruction\" Mission Concept": {
-        "title": "\"Nest Destruction\" Mission Concept",
-        "score": 2300,
-        "url": "https://www.reddit.com/gallery/1dldhg5",
+    "Make it make sense GSG": {
+        "title": "Make it make sense GSG",
+        "score": 2135,
+        "url": "https://i.redd.it/qhbs7s7nrc9d1.png",
         "content": "",
-        "num_comments": 82,
+        "num_comments": 68,
         "comments": [
-            "If this doesn't please the art director, I don't know what will.",
-            "I just want a mission where the goal is to burn like 2500 glyphids. That\u2019s it. Elimination, but normal enemies",
-            "Story: DRG needs to learn more about the core of hoxxes IV, but theres too many bugs in the way. so, you destroy one of their massive nests so they can set up a research station. once you do so, you go back home for some beers. get in, kill bugs, plant the station, get out. Plain and simple.",
-            "I like the idea of killing 1000+ glypyds, buy what is the thing dropping in after the giant wave?",
-            "Fund it.",
-            "Really cool idea, sometimes you just need like a 10 minute swarm to cull through",
-            "The bearded walrus with a mohawk will save us all and deliver us to *Yippee*!",
-            "Awesome art direction",
-            "How about a mission where we have to set up some devices to make the Ghost Bulk Detonator vulnerable, then we fight it like a dreadnought fight at the end",
-            "I accept this"
-        ]
-    },
-    "We're rich": {
-        "title": "We're rich",
-        "score": 212,
-        "url": "https://i.redd.it/a3f7o0pgx28d1.jpeg",
-        "content": "",
-        "num_comments": 9,
-        "comments": [
-            "We're rich!",
-            "Imagine what it would look like with Golden Bugs and Sugar Blood (or whatever its called)\n\nSadly, double anomalies aren't a thing",
-            "We're rich!",
-            "We're rich!",
-            "We're rich!",
-            "We\u2019re riiiIIIIIII-",
-            "Mushroom",
-            "READY TO BLOW!",
-            "I long for a swarmageddon golden bugs deep scan"
+            "Why is the same OC counted as a Clean for the GK2 but a Balanced for the Bulldog?",
+            "Above one is for the GK2 which is full auto, while the bottom one is for the bulldog which is slow semi auto. The former youre spraying enemies down anyway so the increased sample size ensures you deal more damage most of the time for a given enemy. This is technically the case for the ladder (with a lower minimum), but since youre only shooting 1-4 bullets at a slower rate you might actually be affected by a less than 100% damage roll (i.e. I thought this gun could one shot acid spitters!)",
+            "Random is a vibe not a concept",
+            "Those dice are Wrong!  Opposite sides are supposed to add up to 7, so 1 would never be adjacent to 6, nor would 2 be adjacent to 5.",
+            "Subata shoots a lot more bullets, making each bullet matter less, so the higher damage on average usually evens out to higher than 100. \n\nOn the bulldog, every shot matters considering the higher burst, so a bad shot actually makes quite a difference.",
+            "I think it's because of the greater difference/range the Bulldog has",
+            "These OCs are boring. I remember a wise man said that they should inflict random statuses instead, especially for subata, it needs more",
+            "110% damage for the full auto 137% damage for the semi auto seems like a fair trade to miss breakpoints on a trijaw that is about to wipe your team.",
+            "There is also incoherence with stuff like the overdrive for the laser. It is a clean OC, the downsides only happen if you choose to use the alternative way of firing which is enabled by the oc. You can just decide to not use it, there will be no drawbacks. It is clean.\n\nSame for the brand new flamethrower OC.",
+            "The range of damage, both up and down, is significantly more for the Bulldog, making it more balanced and less clean, thats all there really is to it"
         ]
     }
 }

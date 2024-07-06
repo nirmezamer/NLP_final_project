@@ -1,21 +1,48 @@
 {
     "Announcement - \"chrultrabook\" posts, AKA regarding attempting to put Windows or another OS onto your Chromebook, will no longer be allowed.": {
         "title": "Announcement - \"chrultrabook\" posts, AKA regarding attempting to put Windows or another OS onto your Chromebook, will no longer be allowed.",
-        "score": 71,
+        "score": 70,
         "url": "https://www.reddit.com/r/chromeos/comments/1b8swz1/announcement_chrultrabook_posts_aka_regarding/",
         "content": "Hey there!\n\nIn short, as of today, this subreddit will be removing and redirecting posts that seek advice on replacing the operating system on your Chromebook. \n\nIn the past these posts were allowed with a disclaimer that better support would likely be found elsewhere, such as r/chultrabook and their associated communities. However that subreddit is now archived and they now only provide support on [their forum](https://forum.chrultrabook.com/).\n\nSince then there has been a rise in posts like this here, and we're simply not equipped to provide meaningful support. We've received lots of feedback over the past few months and the general consensus was that everyone is better served if these posts are now permanently directed elsewhere.\n\nTo be clear, we are not discouraging anyone from attempting this process; it's still cool, (potentially) fun and can unlock more utility from your device! The only change is that posts seeking support for this will be removed.\n\nThanks for understanding!\n\n---\n\n####**Helpful Links**\n\n* [Chrultrabook Forum](https://forum.chrultrabook.com/) -- the only place where support will be given for help with chrultrabook projects.\n* [Chrultrabook Docs](https://chrultrabook.github.io/docs/)\n* r/chrultrabook -- archived, but still contains some helpful information.\n* [mrchromebox.tech](https://mrchromebox.tech) -- for all your firmware-related needs.",
         "num_comments": 81,
         "comments": [
             "But I just bought a $149 Chromebook to run high-end, graphics-intensive, Windows-only games. Whatever shall I do?",
-            "Excellent move. Thank you",
             "Yes, I never understood those posts. Just buy a Windows PC in the first place.",
-            "Thank you",
             "About time. Thanks for this.",
             "Thank you! I was getting tired of these posts. It sort of makes the OS look bad like everyone is just trying to change it for some reason. Even though 90 percent of people are perfectly happy with their Chromebooks.",
-            "Great move",
             "Thank. God. Those posts were driving me insane.",
             "so how to remove chrome os and install windows? *waiting for this post to be deleted ...*",
-            "Thank you for this move. I think the whole point comes down to this \"Since then there has been a rise in posts like this here, and we're simply not equipped to provide meaningful support.\"\n\nWe do great helping with chromeos that's what we do let's stick to that."
+            "Can this be added to the rules so people can see it please? This post will be lost within days.\n\n(Probably under a ton of people asking how to install Windows)",
+            "Big thumbs up!  Excellent decision.",
+            "THANK YOU!!\n\nThis isn't a hacking sub.",
+            "You need to download more RAM. Look up \"NGGYU\", he'll help you."
+        ]
+    },
+    "Acer Chromebook Plus - better display and sound?": {
+        "title": "Acer Chromebook Plus - better display and sound?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/chromeos/comments/1drehph/acer_chromebook_plus_better_display_and_sound/",
+        "content": "Hi all, I purchased my first Chromebook from Costco to test it out. I\u2019ve always have MacBooks and I really just need surfing and video streaming(Netflix, hbo, etc) so I figured it was time to save money and try it. \n\nI do like it, but I\u2019m wondering if there are *chromebooks that offer better(louder) sound and screen resolution?* I have 90 days to return and if there are options for ~$400 or less that exist, I\u2019d love to get that instead. I\u2019m looking through specs and I don\u2019t see any sound specs but I\u2019m not particularly familiar with that spec in general.\n\nI purchased the [Acer Chromebook Plus 14\u201d Touchscreen Laptop \u2013Intel Core i3-N305.](https://www.costco.com/Acer-Chromebook-Plus-14%E2%80%9D-Touchscreen-Laptop-%E2%80%93Intel-Core-i3-N305---Protective-Sleeve-Included.product.1815945.html?sh=true&nf=true)\n\nAny guidance on what to look at or recommendations would be welcome! Thank you!",
+        "num_comments": 0,
+        "comments": []
+    },
+    "Chrome not syncing passwords": {
+        "title": "Chrome not syncing passwords",
+        "score": 1,
+        "url": "https://www.reddit.com/r/chromeos/comments/1dref3g/chrome_not_syncing_passwords/",
+        "content": "This is probably the number one reason to ditch Chrome completely and never look back. Such a stupid horrible feature.",
+        "num_comments": 0,
+        "comments": []
+    },
+    "What does this mean?": {
+        "title": "What does this mean?",
+        "score": 0,
+        "url": "https://www.reddit.com/r/chromeos/comments/1draau9/what_does_this_mean/",
+        "content": "https://preview.redd.it/cqzdd7lm9i9d1.png?width=914&format=png&auto=webp&s=21bd04b0f109197b2a072985e3374abd2bf88ca5\n\nThis is what I got after running  \"sudo apt-get install --install-recommends winehq-devel\". What does this mean?",
+        "num_comments": 2,
+        "comments": [
+            "It means that double posting does not improve answers.",
+            "You made a change to your apt sources, which you didn't include. It's incorrect, or your DNS is having an issue."
         ]
     },
     "Minimum brightness is still too bright.": {
@@ -23,42 +50,10 @@
         "score": 1,
         "url": "https://www.reddit.com/r/chromeos/comments/1dr5p8a/minimum_brightness_is_still_too_bright/",
         "content": "When i set screen brightness to the lowest value its still too bright for my eyes to not burn out of my skull at 3am. i cant find any way to lower it further in the settings menu. How can i further decrease the brightness?",
-        "num_comments": 0,
-        "comments": []
-    },
-    "How to correctly enable zRam without using the disk?": {
-        "title": "How to correctly enable zRam without using the disk?",
-        "score": 1,
-        "url": "https://www.reddit.com/r/chromeos/comments/1dr50rf/how_to_correctly_enable_zram_without_using_the/",
-        "content": "Hi there!\n\nI use zRam on a different Linux system. I could disable the swap in order to never write anything on the disk and zRam is there to do what it usually does.\n\nI've seen a lot of posts saying that the command to enable it is \"swap enable some\\_number\\_here\", but as I could see from chrome://sys-internals, this actually enables the normal swap.\n\nExample: \"swap enable 2000\" in crosh enabled almost 2GB of swap on my disk. What I want to do is to really use zRam that, as I can see, is barely used while my slow disk keeps on being used.\n\nSince I barely have 4GB of RAM and my CPU is a slow Mediatek, my system lags or freezes a lot. I know I can powerwash, but I did this a lot already and it's not an option. I also am not sure if the system is TRIMming from time to time as I couldn't find any clear documentation.",
-        "num_comments": 4,
+        "num_comments": 2,
         "comments": [
-            "For most mediatek or low RAM with emmc  crap one can't do magic and make it performant. IIRC ChromeOS has zRAM or equivalent.",
-            "If you received android 11 time ago, disable Android, restart the Chromebook and enable it again",
-            "The \"normal swap\" on ChromeOS is zram.  \nThe disk is not used.",
-            "Oh, I do have Android 11.  \nI didn't know I could remove all the Android part. I think I'll remove it completely and leave it as it is if I can gain any performance. I just need a couple of webapps from Chrome after all."
-        ]
-    },
-    "battery drains within 3 hours": {
-        "title": "battery drains within 3 hours",
-        "score": 0,
-        "url": "https://www.reddit.com/r/chromeos/comments/1dr425s/battery_drains_within_3_hours/",
-        "content": "Hello everyone : ) so I have been having this problem with my Chromebook (Lenovo IdeaPad Flex 4i I believe) where it will always die within 3 hours even when fully charged and it is driving me insane. For full disclosure, I keep a *lot* of tabs open every day and have my brightness on full blast. I know that both of those are bad for battery longevity, but I just need to know if those are the main problems, or if those are not the underlying source. below is a battery test I ran on crosh because I saw somewhere on Google to do it. Thank you for reading my woes and hopefully helping me out : )))\n\ncrosh> battery\\_test  \nNo test length specified. Defaulting to 300 seconds.  \nBattery is discharging (92.99% left)  \nBattery health: 96.82%  \nPlease wait...  \nBattery discharged 3.30% in 300 second(s).",
-        "num_comments": 1,
-        "comments": [
-            "See settings> about ChromeOS> (diagnostics) for *number of cycles* of battery."
-        ]
-    },
-    "Can\u2019t connect to wifi issue.": {
-        "title": "Can\u2019t connect to wifi issue.",
-        "score": 1,
-        "url": "https://i.redd.it/0cj7xoofpf9d1.jpeg",
-        "content": "When I try to log into this computer it just pops up with this. And when I connect to wifi nothing appears so I can\u2019t connect to anything. How do I fix this?",
-        "num_comments": 3,
-        "comments": [
-            "- get WiFi\n\nOr\n\n- fix hardware",
-            "sorry but how can i fix the hardware",
-            "Search this sub for WiFi. \nCan you test with a *USB WiFi dongle*? Usually for $10 in eBay or Amazon etc."
+            "Click bottom RH side of screen, click > to the right of briightness, which says \"show display settings\" then click dark theme.",
+            "1. To open Quick Settings, at the bottom right, select the time.\n2. Select Settings.\n3. In the 'Device' section, select**Displays**.\n4. Under 'Night Light', turn on**Night Light**.\n5. Under 'Colour temperature', adjust the colour.\n\nTry this"
         ]
     }
 }

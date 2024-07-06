@@ -1,80 +1,85 @@
 {
     "For those who are looking for more Tomb Raider content, I highly suggest checking out the novels and comics! [(RE)REDUX Post, contains canon and non-canon content]": {
         "title": "For those who are looking for more Tomb Raider content, I highly suggest checking out the novels and comics! [(RE)REDUX Post, contains canon and non-canon content]",
-        "score": 128,
+        "score": 131,
         "url": "https://tombraider.fandom.com/wiki/The_Amulet_of_Power",
         "content": "",
         "num_comments": 19,
         "comments": [
-            "Thank You!",
-            "This post will be replacing the pinned [Legend of Lara Croft Netflix anime](https://www.reddit.com/r/TombRaider/comments/16tq3ol/tomb_raider_the_legend_of_lara_croft_official/) announcement teaser post Friday night.\n\nThis is an update on the original post which did not have the Frozen Omen comic or the J.R Milward AOD novel included.",
             "Might check out Omnibus 1 and 2, are there digital versions available?",
             "I've been doing exactly this! I just got a few issues of the top cow comics a few weeks ago. The comics can redue her to an object at times, but I really enjoy seeing classic Lara get some fleshed-out characterization.",
             "Question is the novels based on angel of darkness cannon?",
             "I remember reading translated version of Amulet of Power. It was entertaining.",
-            "Rough chronology of the three main eras. Main games in bold, comics and books in italics.\n\n\n**Original**\n\n* **Tomb Raider**\n* Unfinished Business\n* **Tomb Raider II**\n* Golden Mask\n* **III: Adventures of Lara Croft**\n* The Lost Artefact\n* The Times Bonus Level\n* **The Last Revelation**\n* **Chronicles [Present]**\n* *The Amulet of Power*\n* **The Angel of Darkness**\n* *The\u00a0Lost\u00a0Cult*\n* *The Man of Bronze*\n\n\n\n**Remake**\n\n* **Anniversary**\n* **Legend**\n* **Underworld**\n* Beneath\u00a0the Ashes\n* Lara's Shadow\n* The Guardian of Light\n* The Temple of Osiris\n* *The\u00a0Frozen\u00a0Omen*\n* *The Blade of Gwynnever*\n\n\n**Survivor**\n\n* *The Beginning*\n* **Tomb Raider**\n* *The Ten Thousand Immortals*\n* *Season of the Witch [1-6]*\n* *Secrets\u00a0and Lies [7-12]*\n* *Queen of Serpents [13-18]*\n* **Rise of the Tomb Raider**\n* *Spore [1-6]*\n* *Choice and Sacrifice [7-12]*\n* *Survivor's Crusade [13-16]*\n* *Inferno [17-20]*\n* *Path to the Apocalypse*\n* **Shadow of the Tomb Raider**",
-            "Interesting. Thanks \ud83d\udc4d\ud83c\udffb",
-            "Just reading Abnett's The Ten Thousand Immortals now and giggling over his including [Sinister/Dexter](https://i.imgur.com/MVm6sFK.jpeg) from his 2000AD comics as Fife's bodyguards.  Bit like Croup and Vandemar constantly reappearing in Gaiman and Pratchett's works.",
-            "The books are all incredible! The lost cult got hard to read at times but they\u2019re all very engaging"
+            "The books are all incredible! The lost cult got hard to read at times but theyre all very engaging",
+            "I wish the Path of the Apocalypse had been a full novel. The writing and characterization was wonderful.",
+            "There should be on Dark Horses websiteif not youll have to check Amazon or EBay for them with new or used, or even some othersites.",
+            "But it was a full novel?",
+            "Thank you for posting this u/TheLostLuminary",
+            "It was technically a novella. Either way, I meant a novel of the full game."
         ]
     },
-    "Was reminded of something while playing this level...": {
-        "title": "Was reminded of something while playing this level...",
-        "score": 58,
-        "url": "https://v.redd.it/78uchf5c328d1",
-        "content": "",
-        "num_comments": 13,
+    "[MEGATHREAD] Problems with Epic Store version of the Tomb Raider games.": {
+        "title": "[MEGATHREAD] Problems with Epic Store version of the Tomb Raider games.",
+        "score": 69,
+        "url": "https://www.reddit.com/r/TombRaider/comments/rtwaw2/megathread_problems_with_epic_store_version_of/",
+        "content": "For those who are having problems with the Epic Games version of the Tomb Raider games I have created this megathread for people to post their problems here.\n\nPlease list any errors, glitches, bugs, etc. in the comments, and I will make sure to ask our community ambassador to forward this megathread to the community managers!\n\n**Edit: The Community Managers have been notified through our Community Ambassador!**\n\n[Link to our 25th anniversary links and megathread hub](https://www.reddit.com/r/TombRaider/comments/ryb69y/tomb_raider_25th_anniversary_links_hub/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)\n\n&#x200B;\n\nPotential crash solution found by  /u/Ill-Working-8122\n\n\"Launch the Registry Editor (open the Start screen/Start menu, type regedit and press Enter)\n\nNavigate to HKEY\\_CURRENT\\_USER\\\\Software\\\\Crystal Dynamics\\\\Tomb Raider\\\\Graphics\n\nDouble click on the name RenderAPI.\n\nChange the RenderAPI value from 0 to 9.\n\nClick OK and then close the editor. \" \n\n**Disclaimer: this may not work for everyone.**",
+        "num_comments": 198,
         "comments": [
-            "Haha \ud83d\ude05 Good old Snakeeater \ud83d\udc0dit is about to be remastered as well btw \ud83d\ude01",
-            "It\u2019s funny because the long ladder climb in Snake Eater made me think \u201creminds me of that offshore rig of TR2.. At least there\u2019s good music here\u201d :)",
-            "Well done OP \ud83d\udc4f",
-            "Brilliant!",
-            "I alway laugh at tjis part! The original too long climbing up!",
-            "Here's the challenge, can you climb the ladder, kill the guard, grab the key, and get back up the ladder before the song ends?",
-            "I always think of the super mario 64 staircase to bowser when climbing this ladder",
-            "I love how the music just abruptly cuts off one you reach the ledge.",
-            "Love me some snake eater \u2764\ufe0f",
-            "Haha nice"
+            "some elements of the HUD appear off screen, such as hints. i've seen in other threads that if u have steam u can solve it by downgrading the version, but that's not possible in epic games :/ i hope they solve this quickly",
+            "hud texts offscreen in tomb raider goty. Like the hints that would appear on the upper left side of the screen is off screen and idk how to fix it. can somebody please help me. thanks.",
+            "Anyone else having problems with Tomb of the Lost Adventurer specifically. The plane that you parkour on is incredibly buggy",
+            "Feel free to share even the slightest problem!",
+            "I can't run Shadows Of The Tomb Raider at all, when I click \"Launch\" it says \"Running\" but after a few seconds it returns to \"Launch\".\n\nSOLVED: I found someone who had the same issue but with Rocket League, to fix this, you head to your Files, Documents, and find the Shadow Of The Tomb Raider folder either in the Documents folder or the \"My Games\" inside Documents, then delete the Cache, if there is no cache just delete the whole thing like I did.",
+            "Please continue to share issues that you have had with the Epic Games Store versions, our Community Ambassador /u/OrangeJr36 has informed the Community Managers about the megathread.\n\nUpdate 10/24/2022, I will continue to keep this Megathread up in our Tomb Raider links hub for whoever needs to report any issues.",
+            "Cant see my achievements and please to tell the developers to enable the xp based achievements system for three games , weird thing is steam has it but not epic.",
+            "My epic games version of shadow of the tomb raider does not unlock the rise outfits. I played rise on epic but shadow seem to not find the savefile (on my pc it is in documents). I tried to reinstall rise to see if there was a problem with the square account link, but both games are connected (on my square account though they do not appear on the game list).",
+            "I have TR13 and RotTR on Steam (not currently installed) and SotTR on Epic (currently installed). I have the Leather Jacket outfit unlocked in Shadow, which is supposed to be a Rise reward? But none of the others. Do I need to link Steam and Epic accs to access all of the outfits in Shadow?",
+            "Rise of the Tomb raider would not launch when Fraps (v3.5.99) was running in the background."
         ]
     },
-    "Lara \ud83e\udef6\ud83d\ude3b": {
-        "title": "Lara \ud83e\udef6\ud83d\ude3b",
-        "score": 16,
-        "url": "https://i.redd.it/jc4dhs3dx38d1.jpeg",
-        "content": "Is there a mechanism that when a certain number of damage is taken, the appearance and details of the blood change? I liked her like that ",
-        "num_comments": 0,
-        "comments": []
-    },
-    "The Tomb Raider randomizer mod now supports the Remastered Trilogy!!!": {
-        "title": "The Tomb Raider randomizer mod now supports the Remastered Trilogy!!!",
-        "score": 11,
-        "url": "https://github.com/LostArtefacts/TR-Rando/blob/master/USING.md#tr-i-iii-remastered",
-        "content": "",
-        "num_comments": 4,
-        "comments": [
-            "Nice, this will definitely keep interest in the game for much longer! And it's only been made in 4 months since release.",
-            "This is Major!!",
-            "This on PlayStation as well?",
-            "Unfortunately, no, it's pc only"
-        ]
-    },
-    "Rolling out! [Art by diabolumberto ]": {
-        "title": "Rolling out! [Art by diabolumberto ]",
-        "score": 175,
-        "url": "https://i.redd.it/pltoglc5ex7d1.jpeg",
-        "content": "Artist link:\nhttps://www.deviantart.com/diabolumberto",
+    "Which version do you guys prefer.": {
+        "title": "Which version do you guys prefer.",
+        "score": 25,
+        "url": "https://v.redd.it/g3a5rumogh9d1",
+        "content": "Even me as a huge aod fan must admit that the vanilla version of the game has a really slow and sluggish feel to it. Even the developers at Core Design admitted to slowing down her running speed by almost 30% to make the game feel longer cause they had to cut content out. So playing it with a few fan patches which increase her speed is mandatory to me. Which version do you guys prefer the vanilla version with original controls or the patched version with the fixed movement speed and controls?",
         "num_comments": 11,
         "comments": [
-            "As a Transformers fan seeing that title, I'm now imagining Lara as an Autobot lol\n\nLara looks awesome here - her Nevada outfit is still one of her all time best.",
-            "Awesome art!! Also love how detailed the ATV is!!",
-            "Awesome",
-            "I haven't even seen the film, but Lara here makes me think of Sarah Connors in Terminator 2.\n\nIt's a great piece of fan art.",
-            "Amazing! \ud83e\udd29",
-            "I think Lara would be like Arcee if she was an Autobot.",
-            "Tomb Raider x Transformers crossover comic would be awesome.\n\nMaybe an alt universe where she is caving for a lost relic and instead finds the Ark buried after centuries. Accidentally activates something and some of the \"dead\" Transformers start to wake up.\n\nLara vs Ravage chase!\n\nTeam her up with Hound, I say.",
-            "Agreed. The ATV looks great!",
-            "Yeah\n\nNow I wanna see a TF show or game where Arcee is voiced by one of Lara\u2019s VAs like Keeley Hawes.",
-            "Ooooh, YES!\n\nI would love a Hound and Lara team up!"
+            "Core said that? Man that sucks as the reason.\n\nI kind of enjoy watching how she runs in the vanilla version but playing through the first time, getting lost and having long loading screens I grew to hate it ",
+            "Damn I cant believe Core admitted that ",
+            "Its been so long since I played Angel of Darkness, but watching that vanilla version brings back painful memories. The patched version looks like it would play so much better.",
+            "Good thing is with these mods you can also skip those long loading screens as seen in this video",
+            "Nothing looks wrong with the original imo",
+            "Exactly. It could be also because of the bad framerate of my mac as Im playing the game on a emulated windows pc",
+            "I honestly hated it:// I loved the game but it was soo exhausting to get her running again.",
+            "She runs in slow mo and she always stops and starts walking again when she hits a wall. Also to get her running again takes literally 1 minute",
+            "Yeah but it's always been like that. All up to this game",
+            "Now come on now Even in the first 5 games lara moves faster than in aod"
+        ]
+    },
+    "Moment before disaster ": {
+        "title": "Moment before disaster ",
+        "score": 19,
+        "url": "https://i.redd.it/9xdqexh2ch9d1.jpeg",
+        "content": "",
+        "num_comments": 1,
+        "comments": [
+            "Not the kind of train Lara had in mind \n\n(sorry I couldnt help it)"
+        ]
+    },
+    "Finally got Rise": {
+        "title": "Finally got Rise",
+        "score": 7,
+        "url": "https://www.reddit.com/r/TombRaider/comments/1dra3w0/finally_got_rise/",
+        "content": "Hey everybody ive played and finished TR2013 and i loved it. I am looking forward to what Rise has to offer. Anything i should be aware of before i start playing thx",
+        "num_comments": 7,
+        "comments": [
+            "Dont rush it. Its amazing. Im on my fourth play through!!",
+            "Epic platform the most buggiest out of the releases, hope you are not on it.  \nALSO IF PC and if you have lag or anything then change directX to a different beast.  \nalso, you can sprint now",
+            "Rise is my favourite of the trilogy",
+            "Just have fun and explore!!",
+            "It's an amazing game. If you got the complete edition you will be on a journey. Have fun!!",
+            "Ive got it on steam",
+            "very very good situation, whole ton of steam achievements are coming!   \nalso if you want to do coop with your friend, you both must right click on the game on library, select properties, betas and then pick build813 and play that version of the game.   \nneat and various side content here in the game "
         ]
     }
 }

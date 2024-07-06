@@ -1,7 +1,7 @@
 {
     "Dev Brief #201 | Elsenborn Ridge": {
         "title": "Dev Brief #201 | Elsenborn Ridge",
-        "score": 252,
+        "score": 250,
         "url": "https://www.reddit.com/r/HellLetLoose/comments/1d9hlu7/dev_brief_201_elsenborn_ridge/",
         "content": "https://preview.redd.it/jqxb07q6ux4d1.png?width=1920&format=png&auto=webp&s=ce7e37e366d497e48343578582a7251fc2806304\n\nHello everyone,\n\nToday we commemorate the 80th anniversary of the D-Day Normandy beach landings \u2013 one of the most decisive and critical moments in 20th century history. Through sheer ambition and bravery, the Allies placed an immense, immovable force in occupied France. What makes D-Day Normandy Beach Landings impressive is that they were the largest seaborne-based land invasions of history combining various nations coming together under the Allied banner, and that they kept it secret during planning.\n\nIn commemoration, we\u2019re going to use today as an opportunity to reveal the next Hell Let Loose map, set in the Ardennes winter months of 1944 \u2013 Elsenborn Ridge. \n\nThis initial look will also expand on the changeable weather conditions teased in the 2024 roadmap. \n\nWe want to show that Elsenborn Ridge is a work in progress, currently planned to ship later this year. We will open Elsenborn Ridge for public testing as development ensues in the months ahead. We can\u2019t wait for you to try it and look forward to reading your feedback! \n\nThe team is really excited to finally reveal what we\u2019ve been working on. Please read below for some developer insight into Elsenborn Ridge and its dynamic snow. \n\n# Elsenborn Ridge \n\nhttps://preview.redd.it/y1xrtz89ux4d1.png?width=4550&format=png&auto=webp&s=8bf159cf1d532d6ae66b068618c1851a4628be07\n\n# Dynamic Snow\n\nhttps://i.redd.it/jkx0d6seux4d1.gif\n\n>It was decided early on that we needed a dynamic snow/blizzard scenario for Elsenborn Ridge, so the Technical Art team started prototyping some ideas to support this. The new tech allows us to blend between different intensities of weather, allowing us to go from gentle snowfall as can be seen currently in Foy to a heavy blizzard.\n\n>To transition the weather states, we take the current values and blend them over a transition time to new settings that we pull from a preset data asset containing all the VFX elements for each setting.\n\n>In addition to the above, the Technical Art team have been improving the occlusion system for rain and snow whereby render targets will be used to occlude rain and snow instead of having to manually check each level for mesh distance fields on buildings, in turn, this makes the possibility of adding differing weather scenarios a lot more flexible in the future.\u00a0\n\n>The dynamic blizzard VFX tech is still in development and the Technical Art team are working to fine-tune, polish and optimise for when we are ready to ship Elsenborn Ridge.\n\n>While the work has been mainly based around snow, we added the functionality to do the same for rain as well, however, these will require further development.\n\n>**Technical Art - Expression Games**\n\n# Historical Overview\n\nhttps://preview.redd.it/vouqnnabux4d1.png?width=4550&format=png&auto=webp&s=aa778e1372b640b8febe8c19d48dc8f6c114bb03\n\n>The Battle of Elsenborn Ridge is a less-documented, but important battle nonetheless set in the B\u00fcllingen region in the Ardennes. 43 miles away from Foy, the Elsenborn Ridge is but one of many examples of how far the Battle of the Bulge was spread out in 1944.\n\n>Set during the winter months of 1944, the 99th U.S. Division who had been stationed at Wirtzfeld were under heavy suppression from the 6th Panzer Army composed of the 12th SS Panzer Division, 12th Volksgrenadier and 277th Volksgrenadier to the east, who had finally broken their lines and forced a retreat to the Elsenborn Ridge.\u00a0\n\n>The U.S. were forced to abandon their supplies en-route to the ridge, and settle in for weeks of bombardment from Wirtzfeld. Having retreated to the ridge and established a network where they had become heavily dug in with makeshift trenches, foxholes, camps and artillery gun positions.\n\n>Taking place between 16th-26th\u00a0 December, 1944 winter had fully taken hold in Belgium, the thick snow had settled, the roads were slippery and slushy, combined with the constant fog/blizzards made it impossible for the U.S. bombers and the Luftwaffe alike to battle from the skies without succumbing to the elements.\n\n>**Carl Rutter, Senior Level Designer - Expression Games**\n\n# Map Rationale\n\nhttps://preview.redd.it/n6quyj3dux4d1.png?width=4550&format=png&auto=webp&s=59c1b1bd7875875f417c8fb84114668207b6405a\n\n>As with any Hell Let Loose map, we had considered which maps were already available to players, this allowed us to decide on which kind of thematic map that we wanted to create next. We had decided as a team that the map could be:\n\n>A map that is different to Foy in aesthetics, but fits in with the existing biome\n\n>A map that has a much more interesting topography to avoid the repetition of dull, flat terrain that exists in other territories\n\n>A challenge to create a map that\u2019s based on controlling land, rather than buildings\n\n>An opportunity to design a map without the safety net of large structures and historical landmarks in mind, while retaining visual interest\n\n>A map that works for all playstyles, but will be more suitable for vehicles/armour\n\n>Because the Elsenborn Ridge itself is a forested region where the U.S. dug in with defensive positions rather than a historical landmark, this gave us a lot of space to choose from when designing the initial concept. We chose the absolute edge of Wirtzfeld over Rocherath-Krinkelt because it has a much better road network for vehicles, and to minimize the need to create another village.\n\n>**Carl Rutter, Senior Level Designer - Expression Games**\n\nhttps://preview.redd.it/k6yj0ybiux4d1.png?width=4550&format=png&auto=webp&s=5a02c557adb334a736a8858c1f2c82ab7395255a\n\n# \ud83c\udfae PS5 & Xbox D-Day Map rotation [LIVE]\n\n  \n**Warfare/Offensive**\n\n* carentan\\_warfare\n* stmariedumont\\_off\\_us \n* utahbeach\\_offensive\\_ger\n* omahabeach\\_warfare\\_night \n* stmereeglise\\_warfare\n* purpleheartlane\\_warfare\\_night\n* carentan\\_offensive\\_ger \n* omahabeach\\_offensive\\_us \n* stmariedumont\\_off\\_ger\n* utahbeach\\_warfare \n* stmereeglise\\_offensive\\_ger \n* purpleheartlane\\_offensive\\_us \n* carentan\\_warfare\\_night\n* omahabeach\\_offensive\\_ger \n* utahbeach\\_offensive\\_us \n* stmariedumont\\_warfare \n* stmereeglise\\_warfare\\_night \n* carentan\\_offensive\\_us\n* purpleheartlane\\_warfare\n* utahbeach\\_warfare\\_night  \n* stmereeglise\\_offensive\\_us \n* stmariedumont\\_warfare\\_night \n* omahabeach\\_warfare\n* purpleheartlane\\_offensive\\_ger\n\n# Road to D-Day 2024 - Presented by BR1 Gaming\n\n  \nCharity: Wounded Warrior Project \ud83d\udc49\u00a0[https://www.woundedwarriorproject.org/](https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fwww.woundedwarriorproject.org%2F%0A)  \n  \n\ud83d\udcc6 Saturday, June 8, 2024  \n\n\n* 5:00pm EST Omaha Beach - Warfare Mode \n* 70:00pm EST Utah Beach - Warfare Mode \n\nWebsite:\u00a0[https://www.br1gaming.com/road-to-d-day](https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fwww.br1gaming.com%2Froad-to-d-day%0A)\n\nhttps://preview.redd.it/req9yzjkux4d1.png?width=688&format=png&auto=webp&s=44e6033d9977ed7a7a91b0beae37ced101d63d63\n\n>BR1 invites the Hell Let Loose community to join in a charity event to commemorate the 80th anniversary of the WW2 Invasion of Normandy. We invite players to make a minimum donation of $5 dollars to participate. We encourage everyone to give as they can, and will even accept larger donations from our fellow gaming communities. All Donations will benefit the Wounded Warrior Project.  \n  \nThis is our 4th annual Road to D-Day event -- in the previous years we have raised over $6,600 for the WWP, and so we have set our sites a bit higher this year for a single year goal of $3000.  \n  \nBR1 is a gaming community founded by Veterans and is dedicated to service and leadership. We welcome mature players interested in joining a fun and engaging community that promotes respect and congeniality, both internally and externally. One of our founding principals is providing social support for our Veteran members, as well as guidance toward professional help, when needed. This makes our partnership with Wounded Warrior Project a natural conclusion. WWP provides too many services to Vets and their families to try to list here, and their work speaks for itself. BR1 is proud to be a partner with WWP and by hosting our annual RtDD event, do our small part to help our Veterans.\n\nTrailer: [https://youtu.be/Cldz\\_Tu\\_Iwo](https://youtu.be/Cldz_Tu_Iwo)\n\n# Community Content\n\n  \nCheck out some fun and informative videos from our War Correspondents to help you on the frontlines!  \n  \n**SoulSniper's Ultimate Artillery Guide**  \n[https://youtu.be/2mv0l1qiLL4](https://youtu.be/2mv0l1qiLL4)\n\n**Everything you need to know about Resources and Nodes from Gebatron**  \n[https://youtu.be/1AYxz9ksI2M](https://youtu.be/1AYxz9ksI2M)  \n  \n**A wonderful display of tank power from TheFreshBakesGoods**  \n[https://youtu.be/dzsLAcsY3aA](https://youtu.be/dzsLAcsY3aA)\n\nThank you for reading! Next up for Hell Let Loose is Update 15.1 - we will be hosting a PTE for this in the weeks ahead.  \n  \nHave a great day.",
         "num_comments": 158,
@@ -11,85 +11,76 @@
             "Looks cool, hope the dynamic weather will make it to the old maps too.",
             "a new stalingrad map with this weather state. You can do it!",
             "Tbh I want more eastern front maps, stalingrad is so fun and a nice change of the usual Normandy open grassy fields and hedgerows but this game seems largely focused on west front",
-            "Love all the people complaining in the comments because it\u2019s another American map. I\u2019m happy for anything! Can\u2019t wait!\n\nI don\u2019t like, however, that they\u2019re blatantly deviating from accuracy as far as landmarks are concerned. Not a fan of that",
-            "I\u2019m happy for all new content. Looking forward to more!",
+            "Love all the people complaining in the comments because its another American map. Im happy for anything! Cant wait!\n\nI dont like, however, that theyre blatantly deviating from accuracy as far as landmarks are concerned. Not a fan of that",
+            "Im happy for all new content. Looking forward to more!",
             "While I'd rather have a new Russian map, not going to lie I am pretty excited for a map makes us feel the hell in tough snow weather. Dynamic snow and fog can cause terrifying moments that suits the game's style.",
-            "\ud83e\udea6RIP the forever ago promised 4th Russian map \u2620\ufe0f",
-            "As other have said, I'm glad to see new maps being produced at regular intervals.\n\nBut I'm really struggling to be excited about another US v Germany map.\n\nWhy bother having the Soviets and British in the game if you won't make maps for them?\n\nIt's not a Normandy map I suppose so that's something..."
+            "RIP the forever ago promised 4th Russian map ",
+            "Id much rather Caen, Juno Beach, Tobruk, Dunkirk, Arnhem, Stalingrad factories, Berlin etc\n\nPlease no more US maps for the love of god."
+        ]
+    },
+    "We couldn\u2019t stop a recon tank from running around and killing us, so I took one for the team.": {
+        "title": "We couldn\u2019t stop a recon tank from running around and killing us, so I took one for the team.",
+        "score": 73,
+        "url": "https://v.redd.it/b41z99yoni9d1",
+        "content": "",
+        "num_comments": 8,
+        "comments": [
+            "Medal of Honor right there",
+            "THIS IS THE MOVE .. done it multiple times .  rank crew never expects it most of the time",
+            "Hope we can use lunge mines when we get Pacific maps",
+            "Godspeed soldier",
+            "Thats how its done!",
+            "I likkkeeee",
+            "A worthy sacrifice."
         ]
     },
     "Spatial awarness.": {
         "title": "Spatial awarness.",
-        "score": 262,
+        "score": 429,
         "url": "https://v.redd.it/543v1opqhe9d1",
         "content": "",
-        "num_comments": 19,
+        "num_comments": 39,
         "comments": [
-            "You cut the video because he killed you, didn\u2019t he?",
             "You shouldn't play with your food",
+            "You cut the video because he killed you, didnt he?",
             "Bad recon! Bad boy recon!",
-            "Talking about awareness yet you\u2019re standing up in the middle of a field!",
-            "Time for the shovel",
+            "Talking about awareness yet youre standing up in the middle of a field!",
             "Ah classic. Sniper, who has to see and hear everything, sees and hears nothing even next to him",
+            "I bet he got you",
             ">Video of machine gunner in the middle of nowhere by himself doing nothing useful for the team\n\nHaha what a dumb sniper!",
-            "The one thing for me is hes one of those snipers who just go at it alone and ignore their spotter",
+            "I mean it's a sniper.",
             "I am sure I have been there before.",
-            "10/10 Perfect cut lmao"
+            " Nobody got you the way I doooooo, whatever demons youre fightin throughhh "
         ]
     },
     "Eye balls were touching the screen": {
         "title": "Eye balls were touching the screen",
-        "score": 51,
+        "score": 101,
         "url": "https://v.redd.it/gwzh92hx3f9d1",
         "content": "",
-        "num_comments": 8,
+        "num_comments": 15,
         "comments": [
             "Only true veterans rub their eyes on the screen to see the enemy better. \n\nNo pain, no gain, and no aim.",
-            "I\u2019ll fry my lenses before I let y\u2019all see me first",
+            "Ill fry my lenses before I let yall see me first",
             "Too bad there's no audio.",
             "I forgot how do I breathe/zoom in",
-            "Audio wasn\u2019t invented until 1953",
-            "On console tap the right bumper. On PC? Idk, I\u2019m not a dork",
-            "Is the Xbox one the same as ps? Also do I mean the one above the trigger",
-            "Yes probably the same. And yes right above the trigger, either tap it or hold it depending on your in-game settings idk which one is default but you can change it. Gotta be standing still while aiming too, moving will kick you out of it."
+            "balls were touching the screen",
+            "Audio wasnt invented until 1953",
+            "Damn idk why the PS app does that sometimes. Takes away my sweet headshot sound",
+            "On console tap the right bumper. On PC? Idk, Im not a dork",
+            "Yeah, we want that clank sound, hahaha",
+            "Is the Xbox one the same as ps? Also do I mean the one above the trigger"
         ]
     },
-    "Try a start a space program ": {
-        "title": "Try a start a space program ",
-        "score": 133,
-        "url": "https://v.redd.it/7d1dc5ej9d9d1",
+    "Sometimes your tank crew gets lucky. ": {
+        "title": "Sometimes your tank crew gets lucky. ",
+        "score": 36,
+        "url": "https://v.redd.it/lti6712aeg9d1",
         "content": "",
-        "num_comments": 13,
+        "num_comments": 2,
         "comments": [
-            "First test flight seemed to be a success",
-            "Hey nazi\u2026.dont go with the Russians\u2026.why don\u2019t you come to America and we\u2019ll give you a nice job\u2026\u2026building rockets and such\u2026..",
-            "Did you do this in a pub game? I saw someone blast off into the sky like this and was told by people in game it was probably a graphical glitch on my side. Haha",
-            "You're rewriting history. This is how Germany wins the space race before it even started.",
-            "3-2-1 we have lift off.",
-            "Wish you could scene your own severed limbs flying away from you \ud83d\ude02",
-            "If you go any higher you\u2019ll have to fight the nazi zombies that are on the moon",
-            "Historically correct",
-            "Yeah I did, it was in one of the HQ spawns. Me and my buddy was building nodes and got bored",
-            "This is just the average German scientist in America after the war"
-        ]
-    },
-    "What a surprise ": {
-        "title": "What a surprise ",
-        "score": 408,
-        "url": "https://v.redd.it/wguj1qm01b9d1",
-        "content": "Right. First of all. Having unit and leader chat screaming through my headset makes it hard to hear the environment sometimes. No I'm not changing it as I'm a casual who's deaf in one ear. \n\nRequested a supply drop to set up a garrison to move across from another front. Eventually got to the supply drop and it was conveniently right on the enemy garrison table. \ud83e\udee1 lucky ay. \ud83d\ude2d\ud83e\udd23\n\nUltimately it lead to winning the game and taking out multiple enemy garrisons in the process. ",
-        "num_comments": 21,
-        "comments": [
-            "![gif](giphy|l36kU80xPf0ojG0Erg)",
-            "Sorry I\u2019m a noob, how did you destroy that Garry so fast? Was the vid sped up because when I try it takes like 10 years to hold and destroy a Garry",
-            "I highly respect the stick, my nerves would have gotten the best of me.",
-            "The timing! Wow",
-            "Well done. Replacing the enemy garrison with your own garrison feels like conquering territory.",
-            "Lol love it.",
-            "Garrison placements are becoming formulaic. It's worse in skirmish \ud83d\ude2e\u200d\ud83d\udca8",
-            "like that you also use the carbine.  i love it for close to medium range firefights . my go to setup when im a SL",
-            "I've had the recently, enemy and our team dropped supplies in the same area. He build their garrison on one sode of the road, ours another. Turned to face and shot them dead \ud83d\ude02",
-            "I had the same thing happened to me! Was patiently waiting for the supply drop to land when I begins hearing enemy radio just behind the bush im hiding in \ud83d\ude02"
+            "There was this one match during Driel where me and crew constantly picked light tank and spread absolute havoc amongst the Germans. Their Tigers and Panthers were too fat and slow for our lighting fast and map breaking maneuvers.",
+            "stewy strok"
         ]
     }
 }

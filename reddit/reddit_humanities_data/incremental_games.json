@@ -1,77 +1,77 @@
 {
     "Feedback Friday": {
         "title": "Feedback Friday",
-        "score": 12,
+        "score": 11,
         "url": "https://www.reddit.com/r/incremental_games/comments/1dqam4v/feedback_friday/",
         "content": "This thread is for people to post their works in progress, and for others to give (constructive) criticism and feedback.\n\nExplain if you want feedback on your game as a whole, a specific feature, or even on an idea you have for the future. Please keep discussion of each game to a single thread, in order to keep things focused.\n\nIf you have something to post, please remember to comment on other people's stuff as well, and also remember to include a link to whatever you have so far. :)\n\n[All previous Feedback Fridays](https://www.reddit.com/r/incremental_games/search?q=flair%3A%27FBFriday%27&restrict_sr=on&sort=new&t=all)\n\n[All previous Help Finding Games and Other questions](https://www.reddit.com/r/incremental_games/search?q=flair%3A%27Help%27+author%3AAutoModerator&restrict_sr=on&sort=new&t=all)\n\n[All previous Mind Dump Mondays](https://www.reddit.com/r/incremental_games/search?q=flair%3A%27MDMonday%27&restrict_sr=on&sort=new&t=all)",
         "num_comments": 20,
         "comments": [
-            "[removed]",
-            "Hey everyone! \n\nI'm currently in playtesting for my factory game with a bunch of incremental aspects to both the production buildings and the transportation system... It's essentially an incremental game but with 2D layout problems, and 3D graphics. You plant crops, combine them using buildings, and transport them with vehicles, each of which have incremental upgrades to increase their throughout. \n\n#### Playtesting Access\n\nJoin the [Discord](https://discord.gg/AXkPDcwXbd) and follow the quick bot command instructions to get a playtest key! \n\n#### Status\n\nThe game is still a little on the earlier side. There may be some rough edges, but the first ~2 hours of core gameplay are ready for play. That being said, I've also had many testers put over 10 hours into it, reoptimizing their layouts, etc.\n\nThere is a feedback button within the game to report any in game issues or thoughts. I'd also love to hear any other feedback in Discord etc as well!\n\n#### Other Links\n- [Steam Page](https://store.steampowered.com/app/2954590?utm_source=Reddit&utm_campaign=incremental_games_ff)\n- [Trailer on YouTube](https://www.youtube.com/watch?v=o3Or1c3m1v8)\n- [Discord](https://discord.gg/AutVxXjPn4)",
-            "\nhttps://store.steampowered.com/app/2868380/Feed_Da_King/\n\nHello all, several months ago I asked people what gave their favorite incremental game the sauce. Armed with this information over the last couple months I have completed my first incremental game. Feed Da King, an idle clicker game that features moments of active and passive play, with a dynamic window system that allows you to toggle the game on top of other applications and adjust it to your preference. Workers throw crops into your picnic basket. You can click or automate to throw the food from the basket into Da King's mouth. When Da King eats, he will throw a coin into your piggy bank, and his belly will increase, granting you rewards along the way. Use different coins for various upgrades and to add more workers. The only limitations are either your time or your rig. I have 25 Steam bypass codes ready for whomever wants to do some in depth beta testing. This Reddit is the reason I decided to create this game, a great community. I\u2019m currently camping but refuse to miss feedback Friday, so if you\u2019re interested in a beta code please send a message and I\u2019ll get you one asap, thank you!",
-            "I'm currently working on a game inspired by Idle Slayer and Idle RPGs.\n\n[screenshot](https://imgur.com/a/rJlEnRF)\n\nIt's currently pretty short and you can exhaust the \"content\" in an hour or so -- but hopefully you'll see stuff and balance get added each week in these posts and you can see some of the scale forever systems that exist already.\n\nIt has the auto scrolling feel, inventory, equipment, crafting, talents, skilling, unlocks etc.\n\nNo game name currently (probably the hardest part) but I have a solid direction I want to go in and am excited for it.\n\nAs I've never finished a game or made one public I'm looking for any and all feedback whether it is UI, UX or a vibe check... with the understanding that almost all the numbers are VERY rough and I'm working on implementing features before dealing with pacing.\n\nIt's playable in browser on itch:\n\n[Unnamed Idle RPG Prototype by born weird (itch.io)](https://born-weird.itch.io/idle-prototype) v 0.03\n\nDiscord: [https://discord.gg/Rr23zKK6Sr](https://discord.gg/Rr23zKK6Sr)",
-            "[https://play.google.com/store/apps/details?id=com.shackstudios.idlepotatopower](https://play.google.com/store/apps/details?id=com.shackstudios.idlepotatopower)\n\n(no forced ads or IAP!)\n\n\n\nI've been reworking my sci-fi game about potato energy extraction. The flow is quite different now and there are more mechanics. I'm still experimenting with mechanics and would love some feedback.\n\nIf you've played before, the save data will act funky by giving you a big boost for some generators (since I reordered many things). I kept it in for those that want to keep their earnings, but if you want to experience the new version as intended, you have to delete the data (on Android long press the app icon --> app info --> clear data). \n\nAny constructive feedback is highly appreciated! Thanks!",
-            "Hello Friends, \n\nI posted my incremental game ([Gaiadon by nadukkon (itch.io)](https://nadukkon.itch.io/gaiadon-eternal-quest)) here a few weeks ago, based on the feedback I made quite a few changes and a few updates later I am back here for more feedback with a lot of new updates.\n\nThere is a demo available on steam, but until the game is released on steam, its free on itch.\n\nItch.io: [Gaiadon by nadukkon (itch.io)](https://nadukkon.itch.io/gaiadon-eternal-quest)\n\nSteam: [Gaiadon: Eternal Quest on Steam (steampowered.com)](https://store.steampowered.com/app/3000030/Gaiadon_Eternal_Quest/)\n\nLatest update video: [Gaiadon - Transcendence update (0.8a) (youtube.com)](https://www.youtube.com/watch?v=sGeNxQPlO1U)",
-            "[https://imgur.com/a/nOgFlp0](https://imgur.com/a/nOgFlp0) Here's the fix for the follower interval. I feel like this is a much more intuitive UI",
-            "About an hour in and a few things that caught my attention, I'll start with the negative: \n\n\u2022 Generic, boring font for tutorial boxes. Blue highlights are very hard to read.   \n\u2022 No music - I had to put on my own music to set the vibe of the game.  \n\u2022 Choppy camera movement, maybe it's just that I don't have a monster of a machine, but on wider viewing angles the game lags some. \n\nThings I enjoyed:\n\n\u2022 The UI looks very clean, easy to read.   \n\u2022 Loots of content! If I craved farming games right now, I can see myself playing this for hours.\n\nFor a feature recommendation:\n\nI'd love to see an early more trucks building, as I noticed this being a bottlecap even super early in the game even with truck upgrades.",
             "when i click play on itchio it opens a new window and its a 404",
-            "Initial impressions:\n\nI spent two minutes trying to figure out how to make abilities activate. I would suggest either making that tutorial message pop up on game start, or adding some kind of glow or shake effect to make the help buttons at the top of the screen clearer. Actually in general, it might be a good idea to make a sound cue for new tutorial messages.\n\nBullet feels almost completely pointless, when Raze simply erases any enemies on the screen. I'd suggest reducing its cooldown, as 'equivalent to one sword strike to every enemy once every ten seconds' doesn't feel like a big deal given Raze's damage output.\n\nSpeaking of enemies, the groupings are very sparse. It can make it feel like I have to wait to get good value out of my spells, since using them might only hit one enemy. Consider reducing the maximum distance between enemy groupings, or possibly even removing the option of one-enemy groups.\n\nHaving music muted by default is a good QOL feature, but I genuinely didn't realise the game had the \\*option\\* of music for some time. Not sure what can be done about that though.\n\nSlice currently does absolutely nothing. Not sure if this isn't fully implemented or the range is too low to hit even the closest enemy. (Which made me feel pretty stupid for putting a talent point into it...)\n\nI was excited to get to equipment crafting, but making it cost time shards was a real disappointment. Spending 400 gold to unlock it (which is a lot given the drop rates for enemies in this game), only to be told I need 500 of a different currency to do anything with it, was what made me stop the game right there. Eight minutes of idling for a single piece of equipment?\n\nArtstyle and animation is definitely the game's strong point right now. Attack animations look punchy and clear, and the effects on the spells are very satisfying. Looking forward to seeing how this grows!"
+            "For the Equipment screen, maybe add a Max buy option as well (buy as many as player has the money for).",
+            "UI looks great! I wish I had more control over the enemies though, like choose which kind of level you want to try to crack.",
+            "Strange, are you using IOS/Mac? I think Godot currently has a bit of an incompatibility towards that which is what I'm using.",
+            "Thank you for the feedback!\n\nI agree with basically everything you said, thank you very much for taking the time to comment here.",
+            "Thank you! I think I'll hide the atoms stuff a bit in the beginning and then introduce it with a quick pop up.\n\nI'll rework the scrollbar soon. I'm breaking my head over how to  display what the potato is set to in that icon but also keep the roman numbers quite large. But anyhow, first step will be to show as many as possible and give them a quick move animation.",
+            "alright, thanks for the feedback",
+            "Thanks!  \nI'd really appreciate if you could drop a review on my game too! :)",
+            "Lol, I went looking earlier but I don't see yours posted anywhere? Is yours the one that's deleted? ",
+            "About an hour in and a few things that caught my attention, I'll start with the negative: \n\n Generic, boring font for tutorial boxes. Blue highlights are very hard to read.   \n No music - I had to put on my own music to set the vibe of the game.  \n Choppy camera movement, maybe it's just that I don't have a monster of a machine, but on wider viewing angles the game lags some. \n\nThings I enjoyed:\n\n The UI looks very clean, easy to read.   \n Loots of content! If I craved farming games right now, I can see myself playing this for hours.\n\nFor a feature recommendation:\n\nI'd love to see an early more trucks building, as I noticed this being a bottlecap even super early in the game even with truck upgrades."
         ]
     },
     "What games are you playing this week? Game recommendation thread": {
         "title": "What games are you playing this week? Game recommendation thread",
-        "score": 35,
+        "score": 36,
         "url": "https://www.reddit.com/r/incremental_games/comments/1dn6hdd/what_games_are_you_playing_this_week_game/",
         "content": "This thread is meant for discussing any incremental games you might be playing and your progress in it so far. \n\nExplain briefly why you think the game is awesome, and get extra hugs from Shino for including a link. You can use the comment chains to discuss your feedback on the recommended games.\n\nTell us about the new untapped dopamine sources you've unearthed this week!\n\n[Previous recommendation threads](https://www.reddit.com/r/incremental_games/search?q=flair%3A%27Request%27+author%3AAutoModerator&restrict_sr=on&sort=new&t=all)",
         "num_comments": 104,
         "comments": [
             "I'm AFK Skilling in OSRS watching numbers go up && getting a double dose coming in from Bloobs on Steam now they've dropped their demo.",
             "Monday morning and no more browser Game left in my Backlog. What to play?",
-            "Unnamed space idle.   \nweb: [https://rankith.itch.io/unnamed-space-idle-prototype](https://rankith.itch.io/unnamed-space-idle-prototype)  \nsteam: [https://store.steampowered.com/app/2471100/Unnamed\\_Space\\_Idle/](https://store.steampowered.com/app/2471100/Unnamed_Space_Idle/)  \n  \nI like progress number every day.",
             "WAMI always running. Milky Way idle for now. Trying out tap wizard 2.",
             "Still grinding my playthrough of NGU idle. Also really enjoying Unamed Space Idle",
             "A friend recommended me recently Magic Research 2, very fun and lot of stuff",
-            "Playing xiuzhen idle",
-            "[Idle Wizard](https://store.steampowered.com/app/992070/Idle_Wizard/) is one of my forever games. I'm making great progress through the newest content: quasi realms.\n\n[Hammer Crest Idle](https://woetnie.itch.io/hammer-crest-idle) - A Melvor clone. There's a lot of stuff to do, but it doesn't seem very well balanced.\n\n[Dreamweaver Damsels](https://koistergames.itch.io/dreamweaver-damsels) - pretty short, only took a couple of days after figuring out how to optimize the odds.\n\n[Magic Research 2](https://store.steampowered.com/app/2864890/Magic_Research_2/) has most of my attention right now. If you liked the first then it's more of the same. Both games are worth the modest price tag.\n\nNot exactly incremental but [Rune Factory 4](https://store.steampowered.com/app/1580240/Rune_Factory_4_Special/) - continuing my quest to build an indestructible butterfly monster.",
             "is there any good incrementals with big numbers like antimatter dimensions or incremental mass rewritten \nI am about to finish shark incremental and I need more",
-            "Started Trimps and Gnorp Apologue. Really enjoying Trimps so far, Gnorp is cool as well but I feel like it\u2018s a little too complicated for me, all those synergies and mechanics are overwhelming."
+            "Started Trimps and Gnorp Apologue. Really enjoying Trimps so far, Gnorp is cool as well but I feel like its a little too complicated for me, all those synergies and mechanics are overwhelming.",
+            "Started playing Kittens game this week and I'm really into it. It's more involved than most idle games, and it's more about management and strategy than just seeing number go up, that's what I'm liking about it so far as I've played a fair share of incremental games but this is the most involved I've seen so far. Might be picking WAMI or ITRTG back again as a second more idle game.",
+            "I've just installed Idle Mastermind by the people who made Idle Apocalypse, and it seems good so far.",
+            "Super addicted to idle wizard rn"
+        ]
+    },
+    "Tech tree help please. Idle dyson swarm.": {
+        "title": "Tech tree help please. Idle dyson swarm.",
+        "score": 2,
+        "url": "https://www.reddit.com/r/incremental_games/comments/1dr7xy6/tech_tree_help_please_idle_dyson_swarm/",
+        "content": "So I've made it to the end stretch as far as I can but even still I can nog figure out what the deal is with the bottom part of the tech tree. I believe Shell Worlds is where you start thst branch off but it won't ever let me onvest my skill points into that. ",
+        "num_comments": 0,
+        "comments": []
+    },
+    "Immortality Idle seems to have had an update also I think I am going to win finally": {
+        "title": "Immortality Idle seems to have had an update also I think I am going to win finally",
+        "score": 4,
+        "url": "https://www.reddit.com/r/incremental_games/comments/1dr353d/immortality_idle_seems_to_have_had_an_update_also/",
+        "content": "https://preview.redd.it/0qze2cnwvf9d1.png?width=1746&format=png&auto=webp&s=8ca4c25bc91d9d81cde30b04d1f8b70887c12a0a\n\nLooks awesome took me aback. I am not sure if the update flair is right I am a fan of it not a dev.  \n[https://immortalityidle.github.io/](https://immortalityidle.github.io/)",
+        "num_comments": 1,
+        "comments": [
+            "Your layout is atrocious"
         ]
     },
     "Are litRPG books popular?": {
         "title": "Are litRPG books popular?",
-        "score": 33,
+        "score": 38,
         "url": "https://www.reddit.com/r/incremental_games/comments/1dqn66x/are_litrpg_books_popular/",
         "content": "I was reading a popular new book on RoyalRoad Called The Stubborn Skill Grinder in a time Loop and made me think about this sub.  Do many of you read these types of books?\n\nhttps://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop",
-        "num_comments": 46,
+        "num_comments": 51,
         "comments": [
-            "I read quite a few on that site and have become hooked to LitRPGs since finding it.  I prefer Isekai style and specifically ones where the MC still has to work their way through their new life.\n\nCouple of favourites are Bog Standard and Mirror World.\n\nAlso enjoyed Deadworld which put an interesting spin on the Isekai theme and is complete.\n\nDepending on the way the story is written there can be an incremental aspect to some stories, numbers do go up of course in some stories.  Other stories may not feature any levelling at all depending on the author. However I'd argue the dopamine hit comes from the reading of a story you enjoy rather than watching numbers go up :D\n\nAlas I haven't spoken to anyone else who seems to enjoy this genre sadly.",
-            "I almost exclusively read GameLit/LitRPG/Progression Fantasy, mostly because I get a lot of ARCs from publishers of the genre. They are all terms for essentially the same genre though there are a lot out there that will describe nuance between the three terms....",
             "Didn't know this was a thing but I immersed myself in the Idling to Rule the Gods Lore so I'll probs really like this.",
+            "I almost exclusively read GameLit/LitRPG/Progression Fantasy, mostly because I get a lot of ARCs from publishers of the genre. They are all terms for essentially the same genre though there are a lot out there that will describe nuance between the three terms....",
             "Yeah, it's big 'numbers go up' feelings. So, very popular.",
-            "I've read a lot, and I've also read a lot of trash. Some books scratch the itch I'm looking for like the one you mentioned, it's my favorite atm. Others...well, like someone else said it starts to come off as wish fulfillment (or the author purposefully drags it on with filler to squeeze money out of it). I like skill grinding especially non-combat skills like alchemy or farming, it's pretty tough to find good books though.",
-            "The reason I started writing one is bc of incremental games so probably \ud83e\udee3",
-            "The few I attempted were worse than average fanfic and obvious author wish fulfillment.",
             "I thought this was /r/ProgressionFantasy for a moment. come over, we have cookies and novel recommendations.",
+            "I've read a lot, and I've also read a lot of trash. Some books scratch the itch I'm looking for like the one you mentioned, it's my favorite atm. Others...well, like someone else said it starts to come off as wish fulfillment (or the author purposefully drags it on with filler to squeeze money out of it). I like skill grinding especially non-combat skills like alchemy or farming, it's pretty tough to find good books though.",
+            "The reason I started writing one is bc of incremental games so probably ",
+            "The few I attempted were worse than average fanfic and obvious author wish fulfillment.",
+            "Yes I read lots of them. There are several indie publishers that focus on them such as Aethon and Portal books.",
             "Personally I discovered Dungeon crawler Carl audiobooks recently, went through all books in a week or two and I thought I loved the genre. Then I listened to a few more litrpg samples and short books and realised that DCC is probably the pinnacle of litrpg and the rest were just weird  nerdy stories with computer gaming tropes which I did not really enjoy.",
-            "Similar Books on RR I've read, enjoyed, and would recommend:\n\nMother of Learning [https://www.royalroad.com/fiction/21220/mother-of-learning](https://www.royalroad.com/fiction/21220/mother-of-learning)\n\nThe Perfect Run [https://www.royalroad.com/fiction/36735/the-perfect-run](https://www.royalroad.com/fiction/36735/the-perfect-run)\n\n#1 and #2 on all of RR and for good reasons. They're awesome.  \n\n\nA lonely Dungeon [https://www.royalroad.com/fiction/37231/a-lonely-dungeon](https://www.royalroad.com/fiction/37231/a-lonely-dungeon)\n\n(relatively) short. Pretty cool.\n\n  \nAnd then not quite the same genre, but I also highly recommend\n\nWorm [https://parahumans.wordpress.com/](https://parahumans.wordpress.com/)\n\nHPMOR [https://hpmor.com/](https://hpmor.com/)\n\nLuminosity [https://luminous.elcenia.com/](https://luminous.elcenia.com/)"
-        ]
-    },
-    "Immortality Idle seems to have had an update also I think I am going to win finally": {
-        "title": "Immortality Idle seems to have had an update also I think I am going to win finally",
-        "score": 3,
-        "url": "https://www.reddit.com/r/incremental_games/comments/1dr353d/immortality_idle_seems_to_have_had_an_update_also/",
-        "content": "https://preview.redd.it/0qze2cnwvf9d1.png?width=1746&format=png&auto=webp&s=8ca4c25bc91d9d81cde30b04d1f8b70887c12a0a\n\nLooks awesome took me aback. I am not sure if the update flair is right I am a fan of it not a dev.  \n[https://immortalityidle.github.io/](https://immortalityidle.github.io/)",
-        "num_comments": 0,
-        "comments": []
-    },
-    "Progress Knight Quest Save": {
-        "title": "Progress Knight Quest Save",
-        "score": 1,
-        "url": "https://www.reddit.com/r/incremental_games/comments/1dr6cop/progress_knight_quest_save/",
-        "content": "If you have played the game can i get your save you can go to setting and click save pls.",
-        "num_comments": 1,
-        "comments": [
-            "if you have a save put it here"
+            "Extremely popular among ranobe readers."
         ]
     }
 }

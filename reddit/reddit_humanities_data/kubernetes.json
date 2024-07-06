@@ -1,32 +1,50 @@
 {
     "Monthly: Who is hiring?": {
         "title": "Monthly: Who is hiring?",
-        "score": 16,
+        "score": 15,
         "url": "https://www.reddit.com/r/kubernetes/comments/1d5jmht/monthly_who_is_hiring/",
         "content": "This monthly post can be used to share Kubernetes-related job openings within **your** company. Please include:\n\n* Name of the company\n* Location requirements (or lack thereof)\n* At least one of: a link to a job posting/application page or contact details         \n\nIf you are interested in a job, please contact the poster directly. \n\nCommon reasons for comment removal:\n\n* Not meeting the above requirements\n* Recruiter post / recruiter listings\n* Negative, inflammatory, or abrasive tone",
         "num_comments": 5,
         "comments": [
-            "# [Hiring] Looking for a Solution Architect at a non-profit news-room (6 month contract, Full-remote, European time-zone prefered)\n\n\ud83d\ude80 Join Our Team! OCCRP Seeks a Solution Architect \ud83d\ude80\n\nAre you a tech expert passionate about investigative journalism? We are one of the world's largest investigative journalism organizations, and are looking for an experienced Solution Architect to lead the design of cutting-edge investigative tools. This is a unique opportunity to contribute to impactful projects that expose crime and corruption globally.\n\n\ud83c\udf0d About Us:\n\n* Nonprofit, mission-driven newsroom with hubs in Amsterdam, DC, and Sarajevo\n* Focused on investigations, infrastructure, innovation, and impact\n\n\ud83c\udfaf Role Overview:\n\n* Lead design and architecture of new investigative products\n* Advise product teams on technical challenges\n* Promote innovation and mentor team members\n\n\ud83d\udee0\ufe0f Requirements:\n\n* 8+ years in senior development roles, 3+ years in system architecture\n* Expertise in AI, cloud computing, cybersecurity, and database management\n* Strong communication and problem-solving skills\n\nCompensation: $85-$125k annual equivalent. Fully remote (can be from any country, but we prefer near to a european timezone).\n\nSend me a message here, or reach out on linkedin if you think you might be able to help!\n\n[https://www.linkedin.com/in/mjnightingale/](https://www.linkedin.com/in/mjnightingale/)",
-            "Spectro Cloud is hiring for a senior product manager working with our awesome product Palette - for k8s management.\n\nLocation Canada and Europe \n\nJob is posted on careers.spectrocloud.com or you can contact me.\n\nWe\u2019re growing fast and having fun \ud83e\udd29 but we need more skilled K8s PMs to help us grow.",
-            "Company: ngrok\n\nRoles: Senior or Staff Software Engineer\n\nLocation: SF or NY\n\nJob descriptions: [https://boards.greenhouse.io/ngrokinc/jobs/5196577004](https://boards.greenhouse.io/ngrokinc/jobs/5196577004)\n\n[https://boards.greenhouse.io/ngrokinc/jobs/5193291004](https://boards.greenhouse.io/ngrokinc/jobs/5193291004)",
             "Pretty funny, I applied one week ago I think but haven't got any response. I still think I would suits to your needs, feel free to reach me if you want to discuss. I sent you a linkedin invite",
-            "Hi! Thanks for getting back to me. Let me know your name by DM and I will get back to you. If you sent me a direct email I'll get back to you. If you just emailed jobs@ then it can take 2 weeks for the email to get to me as our HR team are not the fastest."
+            "Hi! Thanks for getting back to me. Let me know your name by DM and I will get back to you. If you sent me a direct email I'll get back to you. If you just emailed jobs@ then it can take 2 weeks for the email to get to me as our HR team are not the fastest.",
+            "Spectro Cloud is hiring for a senior product manager working with our awesome product Palette - for k8s management.\n\nLocation Canada and Europe \n\nJob is posted on careers.spectrocloud.com or you can contact me.\n\nWere growing fast and having fun  but we need more skilled K8s PMs to help us grow.",
+            "Company: ngrok\n\nRoles: Senior or Staff Software Engineer\n\nLocation: SF or NY\n\nJob descriptions: [https://boards.greenhouse.io/ngrokinc/jobs/5196577004](https://boards.greenhouse.io/ngrokinc/jobs/5196577004)\n\n[https://boards.greenhouse.io/ngrokinc/jobs/5193291004](https://boards.greenhouse.io/ngrokinc/jobs/5193291004)",
+            "# [Hiring] Looking for a Solution Architect at a non-profit news-room (6 month contract, Full-remote, European time-zone prefered)\n\n Join Our Team! OCCRP Seeks a Solution Architect \n\nAre you a tech expert passionate about investigative journalism? We are one of the world's largest investigative journalism organizations, and are looking for an experienced Solution Architect to lead the design of cutting-edge investigative tools. This is a unique opportunity to contribute to impactful projects that expose crime and corruption globally.\n\n About Us:\n\n* Nonprofit, mission-driven newsroom with hubs in Amsterdam, DC, and Sarajevo\n* Focused on investigations, infrastructure, innovation, and impact\n\n Role Overview:\n\n* Lead design and architecture of new investigative products\n* Advise product teams on technical challenges\n* Promote innovation and mentor team members\n\n Requirements:\n\n* 8+ years in senior development roles, 3+ years in system architecture\n* Expertise in AI, cloud computing, cybersecurity, and database management\n* Strong communication and problem-solving skills\n\nCompensation: $85-$125k annual equivalent. Fully remote (can be from any country, but we prefer near to a european timezone).\n\nSend me a message here, or reach out on linkedin if you think you might be able to help!\n\n[https://www.linkedin.com/in/mjnightingale/](https://www.linkedin.com/in/mjnightingale/)"
         ]
     },
     "Weekly: Share your victories thread": {
         "title": "Weekly: Share your victories thread",
-        "score": 4,
+        "score": 3,
         "url": "https://www.reddit.com/r/kubernetes/comments/1dqg0vo/weekly_share_your_victories_thread/",
         "content": "Got something working? Figure something out? Make progress that you are excited about? Share here!",
         "num_comments": 6,
         "comments": [
             "I didn't get fired this week either!",
-            "This week we implemented [KEDA](https://keda.sh/) in our development cluster. We configured the developer environments to be scaled down to zero replicas when there's no load on them which saves us a lot of cost.\n\nI was looking forward to implementing KEDA and it has been exaclty as satisfying as I hoped to see it in action.",
-            "The product is finally features stable and customer stopped complaining for 2 weeks in a row. Loving this cdk8s+yup+bun pipeline that we can trigger from github actions (3 minutes) or from some dev computers (30sec). Loving the beefy netcup servers/prices where we have our lower environments running (dev/acc/uat/pre). On another note: learning on frontend dev with elysiajs/eden+tanstack/router/query+prisma/yup and loving the simplicity and type safety.",
-            "Our setup has cluster autoscaler. It worked as it was supposed to. It added a new worker node when existing nodes had no capacity. It also shut down one of the nodes when the traffic to the application Pods reduced. In doing so, it removed critical Pods from the infrastructure that were required for running the applications (cert-manager, external-dns, kubeplus multi-tenancy operator, ingresscontroller). Learned that when using cluster autoscaler, we need to annotate key Pods with \"cluster-autoscaler.kubernetes.io/safe-to-evict\": \"false\" annotation.",
             "Used entirety of last week figuring out why my eks cluster was failing load test even though cluster autoscaler and HPA are working perfectly,found out few days ago it was just my PC not being able to handle that much clients for testing,felt so stupid lol",
-            "It\u2019s super cool, especially when you use it together with memory trigger."
+            "Its super cool, especially when you use it together with memory trigger.",
+            "The product is finally features stable and customer stopped complaining for 2 weeks in a row. Loving this cdk8s+yup+bun pipeline that we can trigger from github actions (3 minutes) or from some dev computers (30sec). Loving the beefy netcup servers/prices where we have our lower environments running (dev/acc/uat/pre). On another note: learning on frontend dev with elysiajs/eden+tanstack/router/query+prisma/yup and loving the simplicity and type safety.",
+            "This week we implemented [KEDA](https://keda.sh/) in our development cluster. We configured the developer environments to be scaled down to zero replicas when there's no load on them which saves us a lot of cost.\n\nI was looking forward to implementing KEDA and it has been exaclty as satisfying as I hoped to see it in action.",
+            "Our setup has cluster autoscaler. It worked as it was supposed to. It added a new worker node when existing nodes had no capacity. It also shut down one of the nodes when the traffic to the application Pods reduced. In doing so, it removed critical Pods from the infrastructure that were required for running the applications (cert-manager, external-dns, kubeplus multi-tenancy operator, ingresscontroller). Learned that when using cluster autoscaler, we need to annotate key Pods with \"cluster-autoscaler.kubernetes.io/safe-to-evict\": \"false\" annotation."
         ]
+    },
+    "KubeVirt: Changing How You View VMs": {
+        "title": "KubeVirt: Changing How You View VMs",
+        "score": 3,
+        "url": "https://youtu.be/MYqarfqiXok?si=A7FoV2YaYAvw0AOt",
+        "content": "",
+        "num_comments": 1,
+        "comments": [
+            "Virtual Mania: KubeVirt is here to shake things up in the VM world!"
+        ]
+    },
+    "I have an issue exposing 80, 443 to host with minikube and ingress": {
+        "title": "I have an issue exposing 80, 443 to host with minikube and ingress",
+        "score": 1,
+        "url": "https://www.reddit.com/r/kubernetes/comments/1drd47s/i_have_an_issue_exposing_80_443_to_host_with/",
+        "content": "*I have installed minikube on Ubuntu with following steps.*\n\n*- Installed Docker*  \n*- Installed Kubectl Kubeadm etc*  \n*- Installed CRI-Dockerd*  \n*- Started Minikube as root with driver=none because its a Virtual Server and i dont want a vm in a vm in a.....  so Minikube controls the local docker. That worked in the past but since i rebuild everything it dosnt work.*\n\n*Then i enabled ingress,  BUT Ingress is not bind to minikube ip :80 / :443 and so the server has no open ports 80, 443. Usualy if no service is setup and only ingress is running i get the 404 nginx default error. But even this is not showing.*\n\n*Whats the issue im missing to get this up and running again .*",
+        "num_comments": 0,
+        "comments": []
     },
     "Can someone share process to become KCSP(Kubernetes Certified Service Provider) tips and process.": {
         "title": "Can someone share process to become KCSP(Kubernetes Certified Service Provider) tips and process.",
@@ -38,27 +56,6 @@
             "You probably have to contact someone using the form/contact info on that page.",
             "!remindme 1 day",
             "I will be messaging you in 1 day on [**2024-06-30 02:44:22 UTC**](http://www.wolframalpha.com/input/?i=2024-06-30%2002:44:22%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/kubernetes/comments/1dqyqd5/can_someone_share_process_to_become/las0gto/?context=3)\n\n[**CLICK THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Fkubernetes%2Fcomments%2F1dqyqd5%2Fcan_someone_share_process_to_become%2Flas0gto%2F%5D%0A%0ARemindMe%21%202024-06-30%2002%3A44%3A22%20UTC) to send a PM to also be reminded and to reduce spam.\n\n^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%201dqyqd5)\n\n*****\n\n|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|\n|-|-|-|-|"
-        ]
-    },
-    "MountVolume.SetUp failed for volume \"pvc\" : mount failed: exit status 32\n": {
-        "title": "MountVolume.SetUp failed for volume \"pvc\" : mount failed: exit status 32\n",
-        "score": 3,
-        "url": "https://www.reddit.com/r/kubernetes/comments/1dqxscz/mountvolumesetup_failed_for_volume_pvc_mount/",
-        "content": "```\nkubectl describe pvc vm -n infra\n\nName:          vm\nNamespace:     infra\nStorageClass:  zfs\nStatus:        Bound\nVolume:        pvc-fef74304-dda9-4448-9e43-ba5783e3fa59\nLabels:        app.kubernetes.io/instance=vm\n               app.kubernetes.io/managed-by=Helm\n               app.kubernetes.io/name=vm\n               app.kubernetes.io/version=1.16.0\n               helm.sh/chart=vm-0.1.0\nAnnotations:   meta.helm.sh/release-name: vm\n               meta.helm.sh/release-namespace: infra\n               pv.kubernetes.io/bind-completed: yes\n               pv.kubernetes.io/bound-by-controller: yes\n               volume.beta.kubernetes.io/storage-provisioner: pv.kubernetes.io/zfs\n               volume.kubernetes.io/storage-provisioner: pv.kubernetes.io/zfs\nFinalizers:    [kubernetes.io/pvc-protection]\nCapacity:      5Gi\nAccess Modes:  RWO,ROX,RWX\nVolumeMode:    Filesystem\nUsed By:       vm-555f58c8fb-7mvsd\nEvents:\n  Type    Reason                 Age    From                                                                                                   Message\n  ----    ------                 ----   ----                                                                                                   -------\n  Normal  Provisioning           5m36s  pv.kubernetes.io/zfs_kubernetes-zfs-provisioner-7dbdd7dc75-fbb66_5796bda4-879e-4b56-a7a3-aa3d582162da  External provisioner is provisioning volume for claim \"infra/vm\"\n  Normal  ExternalProvisioning   5m36s  persistentvolume-controller                                                                            Waiting for a volume to be created either by the external provisioner 'pv.kubernetes.io/zfs' or manually by the system administrator. If volume creation is delayed, please verify that the provisioner is running and correctly registered.\n  Normal  ProvisioningSucceeded  5m30s  pv.kubernetes.io/zfs_kubernetes-zfs-provisioner-7dbdd7dc75-fbb66_5796bda4-879e-4b56-a7a3-aa3d582162da  Successfully provisioned volume pvc-fef74304-dda9-4448-9e43-ba5783e3fa59\n```\n\n```\nkubectl describe pod vm-555f58c8fb-7mvsd -n infra\n\nEvents:\n  Type     Reason       Age                   From               Message\n  ----     ------       ----                  ----               -------\n  Normal   Scheduled    6m33s                 default-scheduler  Successfully assigned infra/vv-555f58c8fb-7mvsd to node-3\n  Warning  FailedMount  20s (x11 over 6m32s)  kubelet            MountVolume.SetUp failed for volume \"pvc-fef74304-dda9-4448-9e43-ba5783e3fa59\" : mount failed: exit status 32\nMounting command: mount\nMounting arguments: -t nfs storage1.domain:/tank0/kubernetes/pvc-fef74304-dda9-4448-9e43-ba5783e3fa59 /var/lib/kubelet/pods/ea4899a1-8d07-4440-b42f-21c8e91a3933/volumes/kubernetes.io~nfs/pvc-fef74304-dda9-4448-9e43-ba5783e3fa59\nOutput: mount: /var/lib/kubelet/pods/ea4899a1-8d07-4440-b42f-21c8e91a3933/volumes/kubernetes.io~nfs/pvc-fef74304-dda9-4448-9e43-ba5783e3fa59: bad option; for several filesystems (e.g. nfs, cifs) you might need a /sbin/mount.<type> helper program.\n       dmesg(1) may have more information after failed mount system call.\n```\n\nCan anyone give me some suggestions what could be the problem? I have very limited access.",
-        "num_comments": 2,
-        "comments": [
-            "You are missing the client on the node. It is on the error message it can't find the type mount. Probably you need nfs-utils installed on each node. The command was mount -t nfs, since it doesn't have a mount.nfs it can't mount it.",
-            "Someone has deleted the volume created earlier,  cross check the volume.  If it is not there,  delete and create the pvc again"
-        ]
-    },
-    "Backstage on Kubernetes - Piotr's TechBlog": {
-        "title": "Backstage on Kubernetes - Piotr's TechBlog",
-        "score": 9,
-        "url": "https://piotrminkowski.com/2024/06/28/backstage-on-kubernetes",
-        "content": "",
-        "num_comments": 1,
-        "comments": [
-            "Holy, disarray."
         ]
     }
 }

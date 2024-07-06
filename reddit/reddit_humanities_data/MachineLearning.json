@@ -1,87 +1,82 @@
 {
     "[D] Simple Questions Thread": {
         "title": "[D] Simple Questions Thread",
-        "score": 13,
+        "score": 17,
         "url": "https://www.reddit.com/r/MachineLearning/comments/1dh9f6b/d_simple_questions_thread/",
         "content": "Please post your questions here instead of creating a new thread. Encourage others who create new posts for questions to post here instead!\n\nThread will stay alive until next one so keep posting after the date in the title.\n\nThanks to everyone for answering questions in the previous thread!",
-        "num_comments": 50,
+        "num_comments": 101,
         "comments": [
             "Hi everyone, I have a question about decoders. For LMs, the text generation stops when some special token, e.g., <EOS>, is generated. How does the generation stop for transformer decoders that don't generate discrete tokens via softmax? One of the approaches I know is to set a predefined length, but is there a more dynamic way of doing so? Thanks!",
-            "wouldn't [TOVA](https://arxiv.org/pdf/2401.06104) give better performance in [Based](https://arxiv.org/pdf/2402.18668) than sliding window, especially for long contexts? if i understood correctly other efficient alternatives to attention struggle to recall details like names or prompt format and Based is supposed to fix this, and TOVA would help paying attention not to the recent tokens but to the most important",
+            "To all people in this sub who are Machine Learning Engineer's, what are you doing daily as part of your job, projects that you're working on and skills that you have/need to learn to complete the said project. Will be super helpful if answered cuz I just started learning ML and lost figuring out what to learn and from where to learn.",
             "is it possible for an llm to adjust its own weights on the fly based on my replies? afaik there are several RL techniques but can they adjust weights *on the fly* based *only on replies*, like trying to act more like when i praise it and less like when i scold it? do it work with rnn-like models like mamba, rwkv and based or it will probably ruin the current state?",
-            "Hello,\n\nI am a college student and wrote a paper with some colleagues about ML, using different image recognition models to solve a specific problems. The results were not as good as expected (we think we know the reason why) but we think we have a nice work finished. We would like to get feedback from other people and have it posted somewhere so that we can reference it.\n\nDo you think it's a good idea for us to publish our paper in arXiv? What are other alternatives?\n\nWe also don't really have in mind publishing it to any journal because we doubt our work is worth it to be in any journal. What are your opinions on that?\n\nThanks!",
             "I'm working on my first computer vision project, which involves annotating charts for their underlying data-table. I'd like to fine-tune an existing model I've found, but all resources for doing so primarily share code, without logic or details about dataset generation, required dataset size, best practices for dealing with common failure cases, learning rate (this is covered a bit though), epochs, etc. What are good resources for learning about all of these very specific decisions, or any other good in depth nitty-gritty resources for similar topics in deep learning in general?",
-            "How come they use a negative sign in front of the cost function's derivative at the end but a positive sign in the beginning? It's from CS229 at Stanford.\n\n[https://ibb.co/PN7X1fw](https://ibb.co/PN7X1fw)",
-            "I'm looking for deep learning, or machine learning more generally, or artificial intelligence more generally, courses or lectures or books, that have a lot of theoretical and practical mathematics but also practical coding! Text form works, I prefer video form, but ideally if it has both text and video form!\n\nI love Stanford CS229: Machine Learning and other Stanford courses but that has basically just the theory mathematics part. https://www.youtube.com/playlist?list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy\n\nI love Karpathy's neural networks zero to hero but that's mostly coding and not much mathematics and it's mostly deep learning and not rest of machine learning. https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ\n\nAndrew Ng\u2019s Machine Learning courses seem to have a lot of code but not really much theory and mathematics. \n\nDive into deep learning seems to cover a lot with mathematics and code but I wish it was in video form too! https://www.d2l.ai/chapter_preface/index.html\n\nAnd lots of these don't cover neurosymbolic methods or other methods in AI, which I dont really need in one place with all of the others, but it would be great bonus!",
-            "Hello all,\n\nHas anyone had an issue with a CNN model learning from the background of the images in the dataset and how to combat that? My entire dataset has very distinctive white rollers in the background and when I visualise the decision making using LIME it tells me the model was almost entirely relying on the rollers in the background. I then preprocessed the the image to make the entire background a black mask with an RGB value of (0, 0, 0), yet the model still uses the background to make decisions, according to LIME! I don't get how a CNN is pulling features out of an entirely black featureless background, and also don't get why the model is almost 100% accurate in its predictions too.\n\nSo, has anyone experienced similar/ know a way forward with such a dataset? Can anyone shed light on how the model is so accurate when LIME says its almost entirely using the black featureless background?\n\nPulling my hair out, so any help or guidance is appreciated! :)",
-            "I am a beginner in NLP/ML, but I would like to understand how I could make it possible.\n\nSo basically, there is an existing NLP on Huggingface that does text generation in my language very well [https://github.com/MinSiThu/MyanmarGPT](https://github.com/MinSiThu/MyanmarGPT)  \nBut when asked in other languages like English, it fails to give weird answers unfortunately.\n\nHow can I go about training a model specialized for translation between English-Burmese and Burmese-English based on the existing models?\n\nI can set up and use the GPUs in my university for that.",
-            "Hi, so I'm working on a project in which I want to calculate the cosine similarity between a query vector and corresponding document vectors ( around a billion of them ) and then threshold them to get the most relevant documents.  The number of relevant documents isn't bounded so kNN isn't very relevant other than for initial pruning. Here, the speed is of the essence so the scale is a problem. I initially looked into FAISS but is there any other thing that I can look at that would be faster than FAISS? Also, should I instead turn to some other programming language altogether to get the additional boost in performance? Note that finally I'm supposed to deploy it on gcp."
+            "Hi, so I'm working on a project in which I want to calculate the cosine similarity between a query vector and corresponding document vectors ( around a billion of them ) and then threshold them to get the most relevant documents.  The number of relevant documents isn't bounded so kNN isn't very relevant other than for initial pruning. Here, the speed is of the essence so the scale is a problem. I initially looked into FAISS but is there any other thing that I can look at that would be faster than FAISS? Also, should I instead turn to some other programming language altogether to get the additional boost in performance? Note that finally I'm supposed to deploy it on gcp.",
+            "**When authors use the term \"ill conditioned\" for machine learning problems what do they mean?**\n\nI have read some papers about optimization techniques for machine learning and sometimes people just use the term \"ill conditioned\" but don't say what they mean by it. I know conditioning for matrices but those authors talk about \"ill conditioned objectives\" or optimization techniques that \"deal with ill conditioning\". What do they mean by that?",
+            "Is anyone here trying to get Austrian Visa for ICML? I'm applying from NYC and can try for group door-step appointment if there are few. Otherwise its inordinately expensive.",
+            "other things being equal, what will have better performance: a model like based (an rnn-like model + small sliding window attention), or like mamba2-hybrid (an rnn-like model + full context attention) + TOVA with the same size as based-like's window?",
+            "Looking for an advance Machine Learning book.\n\nHi everyone, recently i had finish Bishop Deep Learning book and i found it interested. I want to read more about advance topic in machine learning (especially multimodal field). Can anyone suggest me some books to read ? (like same type Bishop book, i really love it).",
+            "Hello Everyone\n\nCan someone tell me if I can use EncoderDecoder Model such as T5 for pretraining using Causal Language Model? I want to pretrain it for Next word prediction"
         ]
     },
-    "[D] Academic ML Labs: How many GPUS ?": {
-        "title": "[D] Academic ML Labs: How many GPUS ?",
-        "score": 33,
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1dlsogx/d_academic_ml_labs_how_many_gpus/",
-        "content": "Following a [recent post](https://www.reddit.com/r/singularity/comments/1coq6tn/ai_godmother_standfords_nlp_lab_has_only_64_gpus/), I was wondering how other labs are doing in this regard.\n\nDuring my PhD (top-5 program),  compute was a major bottleneck  (it could be significantly shorter if we had more high-capacity GPUs). We currently have \\*no\\* H100.\n\nHow many GPUs does your lab have? Are you getting extra compute credits from Amazon/ NVIDIA through hardware grants?\n\n  \nthanks\n\n",
-        "num_comments": 49,
+    "[D] \"Grok\" means way too many different things": {
+        "title": "[D] \"Grok\" means way too many different things",
+        "score": 132,
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1dqpyb3/d_grok_means_way_too_many_different_things/",
+        "content": "I am tired of seeing this word everywhere and it has a different meaning in the same field everytime. First for me was when Elon Musk was introducing and hyping up Twitter's new (not new now but was then) \"Grok AI\", then I read more papers and I found a pretty big bombshell discovery that apparently everyone on Earth had known about besides me for awhile which was that after a certain point overfit models begin to be able to generalize, which destroys so many preconceived notions I had and things I learned in school and beyond. But this phenomenon is also known as \"Grok\", and then there was this big new \"GrokFast\" paper which was based on this definition of Grok, and there's \"Groq\" not to be confused with these other two \"Grok\" and not to even mention Elon Musk makes his AI outfit named \"xAI\" which mechanistic interpretability people were already using that term as a shortening of \"explainable AI\", it's too much for me",
+        "num_comments": 85,
         "comments": [
-            "atm, princeton PLI and harvard kempner have the largest clusters, 300 and 400 H100s respectively. stanford nlp has 64 a100s; not sure about other groups at stanford.",
-            "Not a ML lab but my research is in CV. Back in 2019 when I started I had access to one 2080 Ti.\n\nAt some point in 2020 bought a laptop with an RTX 2070.\n\nLater, in 2021 got access to a server with a V100 and an RTX 8000. \n\nIn 2022 got access to a 3090.\n\nIn 2023, got access to a group of servers from another lab that had 12x 2080Tis, 5x 3090s, and 8x A100s. \n\nThat same year I got a compute grant to use an A100 for 3 months. \n\nRecently school bought a server with 8x H100s that they let us try for a month. \n\nAsides from that, throughout 2021-2023, we had access to rent GPUs per hour from a local academic provider.\n\nMost of these are shared, except the original 2080 and 3090.",
-            "None. No credits either. I managed to get my internship company to help me with some cloud credits since the university wasn't helping.",
-            "I'd wager to say the vast majority of ML do not have access to a single H100 xD",
-            "Sounds like your lab should embrace Edge AI ^(please ^we ^^need ^^^help)",
-            "EU lab here, we have roughly 16 lab-exclusive A100s and access to quite a few more GPUs via a few different additional clusters. For those scale is hard to guess, since they have many users, but it's roughly 120k GPU hours/cluster/year. Anything beyond 80G GPU mem is a bottleneck, though, I think we have access to around 5 H100s in total.",
-            "No H100, but 16 A100s and around 84 other GPUs (RTX 3090, TITAN, Quadro RTX, ...). I consider myself lucky because in Europe some universities / research labs offer almost no compute.",
-            "Graduated at the end of 2022. I think I had access to close to 30 gpu servers (just for my lab). Each server had 4 GPU cards of varying quality as they were acquired over the years. Unfortunately, I don't remember what the best cards were that we had towards the end. It was still a struggle at times competing with other PhD students in the lab at times, but overall it was a privilege to have so much compute handy.\u00a0",
-            "My university offers a cluster with 52 GPU nodes, each having 4 H100 GPUs. The resources are of course shared across all departments and some other institutions can access it too. Nevertheless, even students are granted some hours on the cluster each month. If you need more computing time you need to apply for a dedicated compute project of different scales.\n\nI really like the system and access to it has been a game changer for me.",
-            "Students in EU don't even imagine having access to enterprise computational power other than free TPU credits from Google and similar offerings. Except for maybe ETH Zurich, since that university is funded by billionaires from the WWII era"
+            "The act of grokking was introduced in Heinlein's Stranger in a Strange Land. All other uses are categorical errors.",
+            "Just go read stranger in a strange land and you'll understand why they chose \"grok\" in those papers.",
+            "To be fair the problem seems to be Musk (the grokking paper came before Twitter's Grok and xai for explainable AI came before his xAI)",
+            "(no one tell OP how overloaded the term \"bias\" is)",
+            "As far as I know the only meaning of grok is \"understand.\" Product names don't matter",
+            "you will be pleased to meet its friends Kernel and Normal",
+            "STEM people in general (and CS people in particular, and AI/ML people in ssuper particular) love to show off how \"clever\" they are with acronyms or overloading already well-defined terms (especially from other fields). It's frankly annoying and causes unnecessary confusion.",
+            "It comes from a sci-fi novel and was intentionally an uwu/vague/philosophical notion. Then it was picked up by hacker culture, where we were just having fun and didn't really need to give a damn about exact definitions. It's not supposed to be a powerfully technical term.",
+            "grok means to grasp intuitively, and has so for decades",
+            "It's a stupid term that doesn't add to our understanding"
         ]
     },
-    "[D] Memory mechanism for Transformers": {
-        "title": "[D] Memory mechanism for Transformers",
-        "score": 13,
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1dlb0wj/d_memory_mechanism_for_transformers/",
-        "content": "Hey folks! I am wondering what interesting work has been done to add a short term memory mechanism to transformers? Does someone know what the important work in this area is?",
-        "num_comments": 11,
+    "[D] Why do DINO models use augmentations for the teacher encoder?": {
+        "title": "[D] Why do DINO models use augmentations for the teacher encoder?",
+        "score": 7,
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1dr6aad/d_why_do_dino_models_use_augmentations_for_the/",
+        "content": "As in title - DINO and DINOv2 use augmentations for inputs that go into the teacher networks. Why is this? Doesn't it make more sense to generate teacher representations from the \"cleanest\" possible version of the data? Would really appreciate getting to hear what the intuition is behind what they did.",
+        "num_comments": 5,
         "comments": [
-            "There's like a hundred papers on memory-augmented transformers but none of them are seeing any practical use. \n\nEverybody's using regular old attention or sometimes one of the long-context variants.",
-            "Check out Facts as Experts (https://arxiv.org/abs/2007.00849), which augments the transformer with a key-value lookup where the key are the contextual entity mention embeddings. It's bit of a pain to setup and train but may be interesting to you.",
-            "Memory Augmented Transformers could be a great resource for exploring this topic.",
-            "can't remember what it's called, but saw a cool one that basically added an RNN state for a running memory",
-            "!remindme 2 days",
-            "Important? Almost nobody on(at least publicly available) does anything beside KV cache.\n\nTheoretically  Memorizing Transformers, RMT.\n\nPractically there was landmark attention(eg https://huggingface.co/eugenepentland/WizardLM-7B-Landmark) but it never gained traction\n\nThere also was some papers about kv cache compression, but in practice most important stuff which is actually done in practice is kv cache quantization which means bigger context which means bigger memory",
-            "I bet someone combined transformers with neural turing machines",
-            "I should also add that I am interested in memory for transformers for the purpose of reasoning, in particular not interested in methods that try to simply extend context size.",
-            "Out those hundreds of papers, what is a sampling that gives good coverage of the different approaches?",
-            "They are interconnected and most of such works view themselves as \"larger context\" even though its no longer just bigger number of Qs, Ks, Vs.\n\nYou can also check benchmarks like babilong as its designed for long context and reasoning. Its as if simple reasoning and haystack search had a baby.\n\nThough authors are RMT guys, they only test activation beacon from non standard attention(also finetuned mamba was the best model) and nobody but them tried it. They also refer to longbench paper.\n\nActivation beacon paper does cite other works. \n\nArxiv also has google scholar link in the bottom so you can do research and find other papers who cite papers."
+            "You don't wanna get a hidden representation of certain aspects of the training data, such as orientation, size, whathaveyou. That means that your decoder should produce the correct output, no matter if your input is flipped, rotated, zoomed in, whatever. That is why  you augment, to get rotation, mirroring, etc. represented in the hidden state.\n\nDisclaimer: This is to the best of my knowledge.",
+            "sure that makes sense for what the student gets but why the teacher?",
+            "As far as I understand it, DINO (as well as SimCLR, BYOL, SimSiam...) learn augmentation-invariance through contrastive learning / self distillation etc. \nThe idea is that the network encodes the features of the data unaffected by augmentations. So, even if you augment the images passed to the teacher model, the properties you want to encode are still there.\n\nOn the other hand, augmenting the teacher images makes for more diverse \"target\" encodings for the student model.",
+            "Could you clarify what you mean by \"augmentation for inputs into the teacher network\"? From what I recall, the student and teach models both receive the same inputs (a quick glance at the official implementation confirms).  \nIs the question: why doesn't the teacher receive inputs without augmentation while the student receives augmented inputs?    \nIf so, it's to align the prediction task, since augmentation can lead to token misalignment (due to scale and rotation) and could obscure the classes (with color shifts - e.g. the \"firetruck\" embedding may be weaker with a hue shift toward green). Since DINO uses patch-based self-supervision, the embeddings have a direct spatial relationship in the loss function (flipped images would make that impossible).  \nIn general, the teacher model will be more capable of predicting the outputs (since it's bigger), which would mean giving the student a much harder task than the teacher originally had during training (this is why the teacher output have a temperature too). The goal is not to produce the best possible model with distillation, but is to produce a model similar to the teacher. \n\nAlso, augmentation is mainly used to \"artificially\" increase the dataset size and remove biases in the collection process (e.g. perfectly horizontally aligned subjects with good color correction). Ideally the model would only see each image once during training, and the images would be varied enough so that augmentation would not be necessary."
         ]
     },
-    "[P] AgileRL - evolutionary RLOps for state-of-the-art deep reinforcement learning": {
-        "title": "[P] AgileRL - evolutionary RLOps for state-of-the-art deep reinforcement learning",
-        "score": 13,
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1dla20p/p_agilerl_evolutionary_rlops_for_stateoftheart/",
-        "content": "Hi, I've posted before about our evolutionary hyperparameter optimization for reinforcement learning achieving SOTA results, but I'd like to share that our open-source framework has now had its v1.0.0 release!  \nPlease check it out! [https://github.com/AgileRL/AgileRL](https://github.com/AgileRL/AgileRL)\n\nThis library is initially focused on reducing the time taken for training models and hyperparameter optimization by pioneering\u00a0evolutionary HPO techniques\u00a0for reinforcement learning. Evolutionary HPO has been shown to drastically reduce overall training times by automatically converging on optimal hyperparameters, without requiring numerous training runs.\n\nWe are constantly adding more algorithms and features. AgileRL already includes state-of-the-art evolvable\u00a0on-policy,\u00a0off-policy,\u00a0offline,\u00a0multi-agent\u00a0and\u00a0contextual multi-armed bandit\u00a0reinforcement learning algorithms with\u00a0distributed training.\n\nI'd love to get your feedback!",
+    "[D] Anyone see any real usage of Kolmogorov-Arnold Networks in the wild?": {
+        "title": "[D] Anyone see any real usage of Kolmogorov-Arnold Networks in the wild?",
+        "score": 47,
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1dqr9gh/d_anyone_see_any_real_usage_of_kolmogorovarnold/",
+        "content": "KANs were all the hype everywhere (including Reddit), and so many people had so much to say about it, although not all good. It's been around 3 months now. Has anyone seen anything to either corroborate or contradict the \"believers\"? Personally, I have not seen the adoption of KANs anywhere noteworthy. Would like to hear from the community.",
+        "num_comments": 22,
+        "comments": [
+            "No, I think the problem with Kolmogorov Arnold its not locally smooth like NN",
+            "Can someone ELI20 KANs? I just haven't a chance to read up on it at all.",
+            "The KAN hype is really bizarre because the main point seems to be that they are supposedly better than MLPs, but MLPs never \"worked\" for regression. There is a reason why MLPs were seldomly used in the early 2000s, they just don't work. Then doing better than MLPs is not really that impressive.",
+            "People have unrealistic expectations where they expect AI to bootstrap itself to the moon by next Tuesday because its all moving so fast!\n\nIn reality it takes time for ideas to spread and be adopted, even if they work. And KANs havent even been proven to work yet.",
+            "and the concept is not a entirely new one, with similar approaches in the 80s. It is worth revisiting, but its not like we will get a better architecture overnight",
+            "You can think about it as development of trainable ReLU. Replace ReLU with spline - nonlinear approximator with a lot of parameters. Because spline have built-in multiplications we don't need matrix multiplication after spline layer. Instead it's simple row sum. Effectively matrix merged into nonlinear layer. Relation to Kolmogorov-Arnold representation is tangential. Kolmogorov-Arnold theorem saying about representing any continious function  as composition and sum of single variable functions. But composing functions in theorem are *very* bad. Like Banach-Tarski bad (not literally but you get the idea). Not like nice, smooth splines at all.",
+            "Huh? MLPs are widely used and are sort of the default neural network. Transformers are just MLPs + attention layers.",
+            "They are used in there not because they are good at regression, but they are easy to use as a module that provides non-linearity in end-to-end deep learning stuff. A lot of papers in the 2000s benchmarked various models for regression, and MLPs were  never really particularly good at it.",
+            "Pretty much all neural architecture are small variations on MLPs. I would even call attention as basically 3 MLPS except even less than that.",
+            "Can you elaborate on what for regression means?"
+        ]
+    },
+    "[D] When using embedding models \u2026.": {
+        "title": "[D] When using embedding models \u2026.",
+        "score": 2,
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1dr86u3/d_when_using_embedding_models/",
+        "content": "When using embedding models to incorporate new, extensive data into LLMs like GPT-4, is manual data preparation (cleaning, classification, etc.) necessary, or do these models handle it automatically?\n",
         "num_comments": 1,
         "comments": [
-            "Really cool work! What kind of architecture mutations are currently supported? In the [documentation](https://docs.agilerl.com/en/latest/off_policy/index.html#mutation), I see a generic keyword for architecture mutations next to new layer and activation layer mutations. Do you see any scope to include hierarchical architecture mutations like the ones proposed in the deepmind paper [https://arxiv.org/abs/1711.00436](Hierarchical Representations for Efficient Architecture Search)?"
-        ]
-    },
-    "[Project] Training loss is not decreasing  ": {
-        "title": "[Project] Training loss is not decreasing  ",
-        "score": 0,
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1dlpqsd/project_training_loss_is_not_decreasing/",
-        "content": "I am using this git repo: [https://github.com/ZhaoJ9014/face.evoLVe](https://github.com/ZhaoJ9014/face.evoLVe) to train Arcface model. **Datasets: MS-Celeb-1M and my own private dataset. Backbone: IR\\_50. Loss: Focal loss. Steps per epoch: 686. Learning rate: 0.001.** But the training loss is not decreasing after 125 epochs. I have used gradient clipping to see if it solves the problem. Experimented with batch size. Have tried LR 0.1, 0.001, 0.00001, 0.3. But no solution. What alternative repo can I use to train Arcface?",
-        "num_comments": 9,
-        "comments": [
-            "You can try to do a lr sweep to see which lr is best/working",
-            "How many steps per epoch? What's your learning rate?\u00a0",
-            "So far I have tried 0.1, 0.001, 0.00001, 0.3. None of them decreasing the loss.",
-            "steps:686(with private dataset), learning rate: 0.001",
-            "Try lowering the learning rate to .000001 that seems way too high\u00a0",
-            "Okay. I will see what happens.",
-            "Even after 6 epochs the loss seems to be constant in range.",
-            "I think you actually want to do the opposite. According to the docs and the default configuration the LR automatically decays every 30 epochs by 10e-4. If your LR was too big this would mostly be self-correcting and you\u2019d see it start working in your way to 125. Try running it full default first - start the LR at 0.1",
-            "I have run it with the default LR value. The problem remains."
+            "It's really hard to tell nowadays with these large and powerful models being close-sourced.\n\nPersonally, it seems like the trend is thinking how can we include instructions or few-shot demonstrations better rather than how can we pre-process the input data itself.\n\nI guess you could call the former pre-processing as well though."
         ]
     }
 }

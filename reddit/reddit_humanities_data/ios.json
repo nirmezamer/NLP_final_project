@@ -1,62 +1,72 @@
 {
     "Show your Homescreen/Lockscren /Control Settings iOS Thread": {
         "title": "Show your Homescreen/Lockscren /Control Settings iOS Thread",
-        "score": 0,
-        "url": "https://www.reddit.com/r/ios/comments/1dl2amt/show_your_homescreenlockscren_control_settings/",
+        "score": 3,
+        "url": "https://www.reddit.com/r/ios/comments/1dqhyab/show_your_homescreenlockscren_control_settings/",
         "content": "Welcome to the weekly Show your Homescreen/Lockscren /Control Settings iOS support thread for /r/iOS. [Join our partnered Discord server!](https://discord.gg/iphone)\n\n**Note: Comments are sorted by /new for your convenience.**",
-        "num_comments": 3,
-        "comments": [
-            "https://preview.redd.it/9j37sc4x0x7d1.jpeg?width=1290&format=pjpg&auto=webp&s=b3f67c9a0ec1d6437280bf7d39039f5ebc941756",
-            "https://preview.redd.it/umqbff3p1x7d1.png?width=1242&format=png&auto=webp&s=f5f03cd46567287e832f7172dcfddd7f0686dddb",
-            "[My DnD setup](https://i.imgur.com/HFVwYXP.jpeg)"
-        ]
+        "num_comments": 0,
+        "comments": []
     },
     "Weekly iOS Battery Support Megathread": {
         "title": "Weekly iOS Battery Support Megathread",
-        "score": 5,
-        "url": "https://www.reddit.com/r/ios/comments/1dh3jff/weekly_ios_battery_support_megathread/",
+        "score": 1,
+        "url": "https://www.reddit.com/r/ios/comments/1dmi0g8/weekly_ios_battery_support_megathread/",
         "content": " \n\n**General advice for those concerned about their battery from the Support FAQ Wiki:**\n\n**Battery health**\n\nBattery health depends on usage and a variety of other factors. It is normal to see a decrease in battery health by 7-10% per year, resulting in a battery health of 80-85% after 2 years. This number can fluctuate, remain the same, or decrease quickly over a small period and should not cause undue concern.\n\nApple recommend battery replacement when your device falls below 80% battery health if you notice reduced battery life. If it falls below 80% within the first year you may be eligable for a free battery replacement. It fails after your warranty, it's a $69-$89 USD replacement cost for a battery. Contact Apple Support [here](https://getsupport.apple.com/solutions).\n\nYou can find more information about battery health and performance from Apple [here](https://support.apple.com/en-gb/HT208387).\n\nYou can check the cycles count with [Coconut Battery for Mac](https://coconut-flavour.com/coconutbattery/) or [iCopyBot for Windows](https://www.icopybot.com/download.htm).\n\n\u200b\n\n**Battery life**\n\nIssues relating to battery life can be categorised in three ways:\n\n1. Normal battery life that is to be expected due to use\n2. Reduced battery life caused by a recent update, iOS indexing, an iOS bug, or a third-party application\n3. Reduced battery life, or other abnormalities such as overheating or sudden power-off, caused by device or battery aging\n\nIf you experience issues with your battery:\n\n1. Check your battery health. If it is below 80% or you are experiencing issues you suspect are related to device or battery age, see [Apple Support](https://support.apple.com/).\n2. If you have a new or recently updated/restored device, wait a number of days for background process to complete. If you continue to have issues, wait for a further iOS update. If you are on iOS Beta, you can expect to have a decreased battery life.\n3. Review the advice below on [maximising battery life](https://www.apple.com/uk/batteries/maximizing-performance)\n4. Consider restoring your device.\n5. If issues persist, contact [Apple Support](https://support.apple.com/).\n\n\u200b\n\n[Maximising battery life](https://www.apple.com/uk/batteries/maximizing-performance) \\- the amount of time your device runs before it needs to be recharged.\n\n* Use low power mode (This reduces mail fetch, turns off background app refresh and increases the auto lock timer)\n* Remove apps from background app refresh\n* Ensure auto lock is on\n* Turn off auto brightness and manually reduce brightness\n* Use dark mode if your device has an OLED display\n* Clearing background apps from the app switcher does not improve battery life\n\n\u200b\n\n[Maximising battery lifespan](https://www.apple.com/uk/batteries/maximizing-performance/) \\- the amount of time your battery lasts until it needs to be replaced.\n\n* Avoid extreme temperatures\n* If you notice that your iPhone gets hot when charging, remove it from its case\n* Store your iPhone in a cool place, switched off, and half-charged if not using it for long periods - and charge it every 6 months when in storage",
         "num_comments": 6,
         "comments": [
-            "https://preview.redd.it/wi2ikhmhix6d1.jpeg?width=945&format=pjpg&auto=webp&s=938a5866058fb9697312f9d6bcd3bbc8d750edac\n\nis this normal? My Active Screen Time is estimated 6hrs and yet the battery is 39% percent already. Last charged to 100% on June 15 (10:10 PM), then it is already 39% on June 16 (8:24 PM). iOs is 17.3.1, and I activated this new device on June 15.\n\nFeatures are off such as Always on Display and other settings like Background App Refresh, Location Services, and even limit it to 60 hz. I only do social media scrolling, safari browsing searching about this issue, and exploring settings.",
-            "I\u2019ve disabled Find My and location services. Why does it continue to drain my battery when my phone is on standby?\n\nhttps://i.imgur.com/KTbncaR.jpeg",
-            "Tips to save battery and fix the issue with the clock not working.\n\nTurn off: \n1)Auto brightness (this feature uses ALL the time the sensors of the device resulting to all time active sensors, even when the screen is off and this drains the battery faster)\n2)True tone (optional), (same as auto brightness it just uses the sensors but only when the screen is active)\n3)System services (location services), turn ALL off except these 3 ones 1) Emergency Calls - SOS, 2) Find iPhone, 3) Mobile-Wireless Networks (optional, i suggest leaving it on if you have airtags). ALL the other turn them off they are just DRAINING battery, and Important locations and delete the history too (optional), because this records all your locations and saves them there wherever you go, and lastly on the \"Product Improvement\" section turn all 3 off, and one optional setting to turn on, is Status Icon that whenever a service uses the location services you will see an indicator at top left or dynamic island.\nIf you dont care about location services just turn them off, and of course check which apps use your location.\n4)Siri And Search, all the toggles that are on turn them OFF, and if you scroll down you will see all the apps and if you press them there are a bunch of turned on toggles that i HIGHLY suggest you turn them all of them for all the apps. Just unnecessary battery draining.\n5)Analytics and improvements, no need to explain why this has to be turned off, battery draining sending diagnostics to apple, turn it off. \n6)Background refresh: Just turn it off, it runs apps on the background using your battery.\n7)Apps Detection (the section below the location services), no just no, who wants their activity to be watched? Turn off the asking so all the requests will be automatic denied and turn off the access on the apps that you have let (OPTIONAL)\n8)Movement and sport: It tracks your every movement and this is battery draining (optional but i have it off)\n9)Sensor data and use in research: just battery draining , turn it off. \n10)Airplay and handoff, if you dont have other iPhone to your iCloud or apple vision pro or homepod turn all the toggles off, now about the auto airplay, if you have tv or device with airplay leave it to question, otherwise turn it off. \n11)Standby (optional), it just heats up your phone while charging and this will cause faster wear to your battery. \n12)AOD (Always On Display), if you dont use it turn it off.\n13)Keybord Haptics, (optional) yes it may feel good but it will drain your battery faster. Same with haptics. \n14)Mail Push: if you dont use mail just do these: Settings > Mail > Accounts > New Data > Push=OFF > Transfer=Manually > iCloud and all other options set to Manually. \n15)Optimized Charging (not 80% limit), this thing to work need GPS services. It needs 1) Important Locations 2)System Customization. The batteries are SMARTER than us. Battery wont overcharge. And by default your device will automatically will slow down its charging after it reaches to 80% and after it reaches 100% it wont take any power, and no using high wattage wont ruin your battery because the battery draw how much power it needs, the thing that are the battery worse enemy is high temperatures (More than 35\u00b0 Celsius) and this also lowers the bh. \n16) Charge it without case\n17)Do not use it while it charges if its possible\n18)Avoid MagSafe Charging especially with Case On. \n19)Attention Aware Features, it uses the sensors while you use the iPhone, which will drain your battery\n20)Auto-Lock, set it to 30 seconds, if its not convinient set it to 1 min, avoid leaving your screen too much time on, and also avoid, high times until auto lock or never to auto lock.\n\nThings to turn ON: \n1)Dark Mode (FOR OLED PANELS for iPhone 12 and later models, and XS and XS MAX too.) \nLow power mode when the battery is low. \n\nHow to fix clock issue: \nTurn off attention Aware Features, because if you put your iPhone with the screen down, the sensors will think that your device is in dark place and with that way the clock alarm will either not play or play at low volumes. And even if the screen is looking up if the room is dark its the same. \n\nFor iOS 17.",
-            "Disabling Bluetooth fixed it"
+            "Battery health from 100% to 94% in 27 days ? 14 pro",
+            "That's not good. Brand new iPhone? If so, then take it back to Apple!",
+            "Ive recently noticed that the battery on my iPhone 15 Pro is draining significantly overnight. It goes from 80% to 65%, and it seems like the Find My app is the culprit.\n\nIve tried several solutions that Ive seen here on Reddit, like disabling background app refresh, turning off Find My, uninstalling the app, and even disabling Always on Display (AoD), but none have worked.\n\nIs anyone else experiencing this issue? If so, have you found a solution?\n\nFor context, I have a couple of AirTags connected, second-generation AirPods Pro, and a Watch Series 9 that I wear to monitor my sleep. I expect some battery drain due to these devices, but not this much."
         ]
     },
-    "Apple Intelligence Features Not Coming to Europe at Launch Due to DMA": {
-        "title": "Apple Intelligence Features Not Coming to Europe at Launch Due to DMA",
-        "score": 456,
-        "url": "https://www.macrumors.com/2024/06/21/apple-intelligence-europe-delay/",
-        "content": "",
-        "num_comments": 235,
+    "This new update to maps was announced in 2022 & they said it would slowly roll out.": {
+        "title": "This new update to maps was announced in 2022 & they said it would slowly roll out.",
+        "score": 56,
+        "url": "https://www.reddit.com/gallery/1dr98wi",
+        "content": "Anyone actually have this yet?",
+        "num_comments": 14,
         "comments": [
-            "Basically all the exciting features\u2026",
-            "At least we can make our icons ugly",
-            "How is iPhone Mirroring mixed together with Apple Intelligence? That's really the main feature I was looking forward to",
-            "So is the UK getting it? The article mentions European customers but also the EU\u2026.",
-            "Could somebody explain to me how iPhone mirroring has _anything_ to do with the DMA? That doesn't make the tiniest bit of sense to me",
-            "Post is misleading. The article states European Union. Non member ~~EU~~ countries aren\u2019t included.",
-            "Apple is seemingly trying to guilt the EU here but it\u2019s kinda smells like bogus. Not having iPhone Mirror or screen sharing improvements feels very suspicious as for the others, Apple Intelligence is only for US English at launch. Sure, you can (and many do) set your iPhone to US English while in the EU but the absolute majority doesn\u2019t. \n\nSo it was features not coming to most anyways and now they are trying to shift the blame to the EU. Easy to see through and quite silly if you ask me.",
-            "so next beta, on monday, which will already have the iphone mirroring working, does this mean they will have different betas for EU developers?\n\nThere were already limited incentives for developers to adopt the new features of IOS 18 due to the significantly reduced device compatibility list. Removing support for 27 countries further diminishes its appeal, making it unlikely that developers will put in the resources to build upon this just for the USA market and for such a limited number of devices, so everybody will be affected by this, not just EU users.",
-            "Europe or European Union? (Genuine question as I\u2019m in Europe but not EU)",
-            "Due to DMA? Due to the fact Apple cannot manage this properly. Current AppStore thing from Apple do not comply with the DMA, and they know it. This seems just punishment and laziness."
+            "When I drive in parts of my city the perspective switches to 3d, and all the 3d buildings cover up the road and I cant see where the hell I am",
+            "Yes it works in munich for example",
+            "Are you referring to the 3d bits? It seems to be in select areas. Theres a bit in Miami Beach.",
+            "It works in Philly, but not all over the city.",
+            "Ive used it so far in DC, LA, and SF. It was amazing from when I used it. Lane guidance is top notch and the maps also look super beautiful.",
+            "Yep, I think its mainly for landmarks.\n\nTry it out for London: The London Eye, Buckingham Palace, Piccadilly Circus, Shakespeares Globe and the Tate Modern, St Pauls Cathedral.",
+            "Still 2 years and no update in Europe Czech Republic. What a shame",
+            "I love that 3D. I wish I can change it to default.",
+            "Its worth pointing out that its expanding further from city centers. Theres a shocking amount of New England that has the road/highway lanes last time I was up there, not even near major cities. Same around Baltimore/washington.",
+            "Yes we all have it if you have Apple Maps. Its just available in select cities:\n(I just loaded up that casino theatre and Fenway park on Boston, both have 3D models)\nAtlanta, GA\nBerlin, Germany\nBoston, MA\nChicago, IL\nHamburg, Germany\nLas Vegas, NV\nLondon, United Kingdom\nLos Angeles, CA\nMelbourne, Australia\nMiami, FL\nMontral, Canada\nMunich, Germany\nNew York, NY\nParis, France\nPhiladelphia, PA\nSan Diego, CA\nSan Francisco Bay Area, CA\nSeattle, WA\nSydney, Australia\nToronto, Canada\nVancouver, Canada\nWashington, DC"
         ]
     },
-    "Option to add a number row on top of the keyboard": {
-        "title": "Option to add a number row on top of the keyboard",
-        "score": 2,
-        "url": "https://www.reddit.com/r/ios/comments/1dlunr5/option_to_add_a_number_row_on_top_of_the_keyboard/",
-        "content": "Hello everyone,\n\nIt is all in the title, and I know what everybody -including Apple- thinks : \u00ab\u00a0we don\u2019t always type digits, so why bother add a number row for such a rare use ?\u00a0\u00bb\n\nBut hear me out \ud83d\ude01\n\nLet\u2019s consider the Arabic language. There are more or less 7 letters that cannot be pronounced in latin letters. \nNow let\u2019s consider Arab countries: most of these got English and/or French as one of their official languages.\nHence they do not use the Arabic keyboard on daily basis. I know because I come from one of these countries.\nSo in order for one to be able to type in its dialect while using the English/French keyboard, we tend to replace these unpronounceable letters in digits, which make digits a part of almost every single word in a sentence.\n\nI am not asking for sticking the number row and forcing it on everyone. I just find it fair to give the end-user the option to enable or disable it. \nAnd it is not a lot of work to implement, because the iOS SDK has such feature already available for app developers (Waze, for instance, has a number row added to the keyboard to make it easier to type addresses). \n\nTo give some order of importance to this feature request, below some countries that I can think of, that would be interested in such a thing: \nTunisia \ud83c\uddf9\ud83c\uddf3, Algeria \ud83c\udde9\ud83c\uddff, Morocco \ud83c\uddf2\ud83c\udde6, Egypt \ud83c\uddea\ud83c\uddec, Lebanon \ud83c\uddf1\ud83c\udde7 \u2026\n\nIf you also think that feature request is legit, an upvote would be more than appreciated.\n\nThanks \ud83d\ude01",
-        "num_comments": 0,
-        "comments": []
+    "Always love to see some wackiness in these early beta iOS versions \ud83d\ude02\ud83d\ude02 ": {
+        "title": "Always love to see some wackiness in these early beta iOS versions \ud83d\ude02\ud83d\ude02 ",
+        "score": 19,
+        "url": "https://i.redd.it/qsa9tq8p1h9d1.jpeg",
+        "content": "",
+        "num_comments": 3,
+        "comments": [
+            "Thats just the translation key. They didnt put any actual texts so it defaults to that.",
+            "r/iosbeta",
+            "r/softwaregore"
+        ]
     },
-    "Is there a way to see when an app was re-downloaded most recently?": {
-        "title": "Is there a way to see when an app was re-downloaded most recently?",
-        "score": 1,
-        "url": "https://www.reddit.com/r/ios/comments/1dlvig9/is_there_a_way_to_see_when_an_app_was/",
-        "content": "I\u2019m not talking about the purchase history, but instead if an app was deleted and then redownloaded, is there a way to see the most recent download date?",
-        "num_comments": 0,
-        "comments": []
+    "Why does my maps take up 16GB? I\u2019ve got no map downloaded": {
+        "title": "Why does my maps take up 16GB? I\u2019ve got no map downloaded",
+        "score": 48,
+        "url": "https://i.redd.it/jo25uikxsd9d1.jpeg",
+        "content": "",
+        "num_comments": 23,
+        "comments": [
+            "Its a glitch that does not have a fix. The only way to fix it is to reset your phone. This happened to a couple users in my organization. We have to wipe the phone every time.",
+            "iOS cache creep. Cache builds up whenever you use an app yet iOS is never advanced enough to allow clearing.",
+            "do you use carplay? I have the same issue. found no solution",
+            "Happened with Google Drive on mine. Over 16gb of data for some reason. Just tap on the app, tap offload and then reinstall it. I did it on mine, and Google Drive is now down to 5gb of data.",
+            "bro just delete and re-download isnt it that simple ?",
+            "Just delete the app and reinstall it",
+            "Lol, delete the app and use google maps. Its better and quick imo",
+            "They wouldn't let you clear cache so app will run smoothly.",
+            "Did you download maps for offline use ?",
+            "Yet another reason we need a clear cache option. \n\nBut Apple being shits, wont do it."
+        ]
     }
 }

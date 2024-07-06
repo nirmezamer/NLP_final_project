@@ -2,73 +2,88 @@
     "Weekly Case & Parts Recommendation Thread (Start here if you are new! Help here if you can!)": {
         "title": "Weekly Case & Parts Recommendation Thread (Start here if you are new! Help here if you can!)",
         "score": 1,
-        "url": "https://www.reddit.com/r/sffpc/comments/1dl7hl6/weekly_case_parts_recommendation_thread_start/",
+        "url": "https://www.reddit.com/r/sffpc/comments/1dqn51a/weekly_case_parts_recommendation_thread_start/",
         "content": "New to SFFPCs? [Beginners Guide, FAQ and Starter Cases](https://sff.media/dokuwiki/start:beginnerfaq)\n\nIf you're new to SFFPCs or PC building in general, take a look at this article written by [u/ermac-318](https://www.reddit.com/u/ermac-318/) for some answers to your questions, as well as recommendations for some easy cases to start with.\n\n[SFF Cases and Parts List](https://docs.google.com/spreadsheets/d/1AddRvGWJ_f4B6UC7_IftDiVudVc8CJ8sxLUqlxVsCz4/edit?usp=sharing)\n\nIf you're looking for a case or parts to go in your SFFPC, the above spreadsheet maintained by [u/prayogahs](https://www.reddit.com/u/prayogahs/) and [u/ermac-318](https://www.reddit.com/u/ermac-318/) has data on cases, motherboards, GPUs, CPU coolers, RAM and PSUs.\n\nSet filters to find parts for yourself\n\nIn the toolbar of the sheet, go to Data -> Filter views for some quick filters, or select Create new temporary filter view to create a custom one. You can also copy the sheet out into a spreadsheet of your own and make your own notes.\n\nAsk for help here\n\nOnce you have an idea of the case or parts you are considering, make a comment in this thread detailing your requirements and what cases or parts you are eyeing so far, and discuss what you like or do not like about them.\n\n[Join our Discord Server](https://discord.gg/sffpc)",
-        "num_comments": 2,
+        "num_comments": 3,
         "comments": [
-            "Is it worth it to build a new rig now or if not, how long until new mobos and cpus come out?",
-            "new intel cpus should be around october, ryzen 9000 cpus might release even this summer, and nvidia gpus release end of Q3/Q4 p sure"
+            "Finally taking the plunge on an SFF build in the Ncase M2 after seeing the optimum video on it. I have a GPU and storage to reuse, but will be upgrading from AM4 to either LGA1851 or AM5 depending on reviews/pricing later this year. Not sure if I should be getting an AIO and some case fan(s) ahead of time or if I should wait until I have a mobo picked out and some more build guides for the case go up.\n\nIs there a particular AIO that people recommend for SFF builds? I know the asetek units all perform about the same, but I'm curious if a particular brand has more flexible tubing or some other quality that's desirable for SFF builds. My default assumption was to just grab an Artic LF 280mm and be done with it.",
+            "I ordered the M2 but I'm personally waiting to buy any other parts until I receive it, personally. I've only seen a couple videos on the case and there appear to be some fit issues for some cables, which if they're resolved may open up the motherboard options.",
+            "Fair enough. I'll probably grab a PSU ahead of time still but hold off on anything else for now. Thanks."
         ]
     },
-    "Final Pelican Threadripper + 4090 build update": {
-        "title": "Final Pelican Threadripper + 4090 build update",
-        "score": 802,
-        "url": "https://v.redd.it/3lutk8bhjz7d1",
+    "3.8L DIY Case (Build in Progress)": {
+        "title": "3.8L DIY Case (Build in Progress)",
+        "score": 68,
+        "url": "https://www.reddit.com/gallery/1dr5xu9",
         "content": "",
-        "num_comments": 84,
-        "comments": [
-            "This post has been flaired as a Prototype, Concept, or Custom case. The staff of SFFPC have not verified this user as a vendor. Please limit discussion to feedback only and do not make new post with updates more frequently than once every 72 hours. Pricing, sales, and availability discussion will be removed.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/sffpc) if you have any questions or concerns.*",
-            "TSA definitely going to give you some special attention with that...",
-            "System specs for anyone wondering:\n\nThreadripper 3960x\nRtx4090\n1/2TB ram\n3x 2tb M2 SSD\n1300W Psu\nDual 360 rads\n\nI know some people won\u2019t consider this a SFFPC however given how much performance I have squeezed into a carry on case, I think it deserved the SFFPC title.",
-            "That is badass!",
-            "Here is the Fusion Project file: [https://drive.google.com/file/d/1uJbojHx1f8QNV5Ou116Mw8p8kbnFyvEE/view?usp=sharing](https://drive.google.com/file/d/1uJbojHx1f8QNV5Ou116Mw8p8kbnFyvEE/view?usp=sharing)\n\nI have been building shit all my life and this was VERY HARD, don't attempt unless you are confident in what you are doing.\n\nhttps://preview.redd.it/r06j1ipjoz7d1.png?width=1194&format=png&auto=webp&s=77feb32096963e9a991cc0454f6722f330a0d0f4\n\nAlso this build will only work with the following hardware:\n\nFLT 240 pump res combo  \nHeatkiller 360s Radiators  \n15mm slim fans  \nMSI Meg ai1300p PSU (IT's the absolute largest and most powerful power supply you can fit in a Pelican 1535 with an ATX/EATX mobo\n\n3d parts are 3d printed  \n2d parts are laser cut from carbon fiber and aluminum",
-            "IDC, I will never trust a quick disconnect.",
-            "That is honestly sexy, no other way to describe it. Hopefully you have better luck with quick connects than I did, mine got stuck after a few months and would leak through when I disconnected them",
-            "I mean, it's pretty cool, but it's definitely not sff.",
-            "Sexay\ud83d\ude01\ud83e\udd19",
-            "Bro...it's nuts!"
-        ]
-    },
-    "Formd T1 V2.5": {
-        "title": "Formd T1 V2.5",
-        "score": 64,
-        "url": "https://www.reddit.com/gallery/1dlptn4",
-        "content": "CPU- 7800x3D\nCPU COOLER- Axp-90 47mm Full copper (Noctua fan on its way)\nGPU- 4080 Super MSI Expert\nMOBO- B650E-I Strix\nRAM- Teamgroup 64 Gb Ddr5 6000mhz\nSTORAGE- P3 Plus 2Tb\nPSU- SF750 Platinum\nCASE- Formd T1 V2.5 Gunmetal\n",
-        "num_comments": 4,
-        "comments": [
-            "Love the aesthetics here with the Lian-Li fans and that FE-style MSI card.",
-            "\ud83d\udc4c",
-            "This looks really great! Such a gorgeous case.",
-            "Caught my eye as well. Beautiful together!"
-        ]
-    },
-    "3D Printer saves the day (or build)": {
-        "title": "3D Printer saves the day (or build)",
-        "score": 8,
-        "url": "https://www.reddit.com/gallery/1dluod2",
-        "content": "After a small miscalculation on upgrading 3060Ti on my media/2nd PC i had to think something. I was already looking at other GPUs and Cases. Somehow i forgot i just got a 3D printer.\n\nAfter realizing that and researching for only like 5mins I already found some mods which cost me less than 1.50\u20ac, proceeded to print and i'm happy! It's not the most beautiful and practical but at least it works.\n\nLast part is atm still printing :) \n\nNext time I'll measure twice build once... ",
-        "num_comments": 2,
-        "comments": [
-            "Hiya! Remember, you can also post your build on the SFFPC Discord server in the completed-builds channel! We have revised our system, and now the highest voted build post each month will be recognized as the SFFPC Build of the Month! Use this link to join our Discord! https://discord.gg/sffpc\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/sffpc) if you have any questions or concerns.*",
-            "https://preview.redd.it/w718xilcj48d1.png?width=1440&format=pjpg&auto=webp&s=46ebe4150c0b9fbc73233ca8fe155059d0ad9cc2\n\nNow it's ready!"
-        ]
-    },
-    "I did a thing to my Dan A4 SFX": {
-        "title": "I did a thing to my Dan A4 SFX",
-        "score": 119,
-        "url": "https://www.reddit.com/gallery/1dlcqt6",
-        "content": "All credit to the absolute genius u/ecorz31 for this beautiful mod!",
         "num_comments": 9,
         "comments": [
-            "[Original post for all mod details and instructions](https://www.reddit.com/r/sffpc/comments/i88ulb/3d_printed_cpu_spacer_for_dan_a4_sfx_v4_to_give/)\n\nI got this 3D printed in PLA-CF. Colour is Burgundy Red. \n\nWidens the case by 16mm, so cooler compatibility increases to ~63mm.",
-            "That looks exceptional for a 3D printed mod, and it's leagues better than cutting a hole or strapping a mess onto a very good looking case. The pop of color and industrial aesthetic of the A4 makes it look like something Dieter Rams would design. Do you know if the shallow detent intentional?",
-            "So want that for the opposite side to make 3-slot cards viable :'(",
-            "It's such a perfect fit that it looks like it came from factory as is. I really wasn't expecting it to look this good either. I went through many colours before finalising this one lol. \n\nWhat do you mean by \"shallow detent\"? I'm totally lost....",
-            "Check it here:\n\nhttps://www.printables.com/model/143899-dan-a4-sfx-v4-cpu-gpu-spacer-16mm-for-coolers-up-t/files\n\nIt can be done for GPU side as well, don't know if it's wide enough for you.",
-            "Maybe not 3 slots but here are mods for a 2.5 slot GPU\n\nhttps://www.thingiverse.com/thing:4656140\nhttps://www.printables.com/model/539536-dan-a4-sfx-pcie-moverholder\nhttps://www.printables.com/model/381078-dan-a4-sfx-vertical-stand-for-17mm-gpu-panel-space",
-            "Maybe it's the pictures, but the color band looks like it's recessed 1-2mm from the panels.",
-            "Ooooh!!! \ud83e\udd29 Thank you!",
-            "Ah yes, the top rear corner of my case was slightly misaligned from factory, you only notice it an angle from rear. It always looked slightly lifted even before I had the 3D extension.\n\nAlso, I haven't screwed in my side panel at the bottom. Which makes it fall off by like half a millimeter when the case is upright."
+            "Crazy no one thought abt this before. I'm guessing you're planning to add a GaN psu next from HDplex?",
+            "Ive done this for testing. Super easy. Good job with the raiser.",
+            "\"Every PC build start on top of it's own motherboard box. But only legendary builds are ending up inside.\"",
+            "Love how OP clarifies that the HDPlex GAN and a power switch are the only missing parts worth mentioning XD",
+            "This looks like a time bomb.",
+            "Is there a fire hazard?",
+            "You are a mad man XD\n\n  \nGreat idea btw!",
+            "Ha-ha",
+            "Hiya! Remember, you can also post your build on the SFFPC Discord server in the completed-builds channel! We have revised our system, and now the highest voted build post each month will be recognized as the SFFPC Build of the Month! Use this link to join our Discord! https://discord.gg/sffpc\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/sffpc) if you have any questions or concerns.*"
+        ]
+    },
+    "sixge k2s build complete": {
+        "title": "sixge k2s build complete",
+        "score": 72,
+        "url": "https://www.reddit.com/gallery/1dr4fim",
+        "content": "3050 performance is not as bad as I thought. \nIf it's an FHD environment, it's enough. \n\n\uc544 \ubc30\uace0\ud30c\n\ub5a1\ud280\uc21c \uc0ac\ub7ec \uac00\uc57c\uc9c0\n",
+        "num_comments": 18,
+        "comments": [
+            "Im proud of you for not putting a coke can or banana in any of your pics. Great build. Interesting putting mesh over the cpu fan. Well done.",
+            "I have the same mobo with a 13900K. Are you experiencing any static/coil whine from the motherboard? I want to do an RMA but its a process.",
+            "Are those on the back wifi antennas ??? Ive been looking for some really low profile ones for my sff build for a while now but Ive heard if you get the wrong ones you can damage the wifi card so I didnt want to go for some offbrand amazone ones, any suggestions?",
+            "are those circular polarised fpv antennae? I'd be really curious about their performance",
+            "Thank you for your advice.",
+            "In fact, this product is an antenna product used in drone aircraft toys.",
+            "You will get the answer if you look it up with a drone antenna.",
+            "Both Bluetooth and Wi-Fi work well.",
+            "That's awesome to hear, are those antennae designed for 2.4ghz or 5.8?",
+            "Link to the antennas?"
+        ]
+    },
+    "So stoked to finally be a part of the SFF community! First ITX build :)": {
+        "title": "So stoked to finally be a part of the SFF community! First ITX build :)",
+        "score": 159,
+        "url": "https://www.reddit.com/gallery/1dqwr9u",
+        "content": "A lil late to the Terra since Fractal just dropped the 2 new cases but I love the jade color with wooden accent!\n\n7800X3D // 4070\n",
+        "num_comments": 25,
+        "comments": [
+            "Very tidy build. Welcome to the ~~cult~~ club",
+            "Why is the psu fan intaking off the backplate of the gpu?",
+            "We're all stoked for you too! Enjoy the desk space :)",
+            "Nice! Similar to mine :-)",
+            "This looks real good. Great job on your cable management. I HAVE to get custom cables now for mine ",
+            "that's a dope build, clean! what cpu cooler and fan are you using?",
+            "These photos look profesional, really impressive.",
+            "Asus is making bank on their proart cards just by how sff friendly they are",
+            "tyty LOL it was less intimidating than i thought",
+            "now that i think about it i should probably flip my psu back to normal as its not a blower style gpu the temps are fine though after testing"
+        ]
+    },
+    "The smallest build I\u2019ve done!": {
+        "title": "The smallest build I\u2019ve done!",
+        "score": 202,
+        "url": "https://www.reddit.com/gallery/1dqrjtj",
+        "content": "Just completed my first ITX build in the Formd T1 v2.5.\n\nComponents:\n\nCase: FormD T1 v2.5\n\nCPU: 7800x3D\n\nMemory: 64GB Corsair Vengeance\n\nPSU: EVGA Supernova 850GM\n\nCooler: Thermalright AXP90-X47 Full copper\n\nFans: 2x Noctura 120x25, 1 Noctura 90x15\n\nGPU: MSI 4080 Gaming X slim\n\nStorage: 2TB Samsung 980 NVMe\n1TB Samsung 970 NVMe\n",
+        "num_comments": 25,
+        "comments": [
+            "If you don't mind me asking how much did the build cost?",
+            "nice! did you make the Noctua themed cables or buy them somewhere?",
+            "Would the AXP90-X53 fit with this same config?",
+            "temps on cpu? nice build tho",
+            "Looks great! Are you using different case feet, it appears a bit taller than the stock feet?",
+            "Is it the 2.5 version ? Is it quality ?",
+            "Hey, i wanna buy t1 too but i have a little concern about it. Which color shows more dust on the surface? Is anyone has idea?",
+            "The cables look a bit too loose, it would look way better if you used zip ties. Otherwise cable management is good. Just not enough space for a perfect cable management. The case is beautiful but I really cannot say the same about the colour. This is only my own preference, nothing more.",
+            "is that the biggest cooler that can fit in that case?",
+            "For the specs I'd say short of if not more 2k freedom eagles."
         ]
     }
 }

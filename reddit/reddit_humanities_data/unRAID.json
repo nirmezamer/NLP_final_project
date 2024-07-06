@@ -1,89 +1,77 @@
 {
-    "Unraid 6.12.10 Now Available": {
-        "title": "Unraid 6.12.10 Now Available",
-        "score": 150,
-        "url": "https://docs.unraid.net/unraid-os/release-notes/6.12.10/",
-        "content": "This release reverts to an earlier version of the Linux kernel to resolve two issues being reported in 6.12.9. It also includes a 'curl' security update and corner case bug fix.\n\nNote: Unraid OS v6.12.x and all earlier versions are not vulnerable to the xz backdoor CVE-2024-3094.",
-        "num_comments": 123,
+    "Unraid 7 Public Beta Sneak Peek": {
+        "title": "Unraid 7 Public Beta Sneak Peek",
+        "score": 66,
+        "url": "https://www.youtube.com/watch?v=f2VwlAw5xXU",
+        "content": "",
+        "num_comments": 27,
         "comments": [
-            "Just did the update from 6.12.9. No problem.",
-            "https://forums.unraid.net/topic/160471-unraid-os-version-61210-available/",
-            "Upgraded from 6.12.4 without issue.",
-            "Works well for me. I was having some UI weirdness with 6.12.9. This is much better.",
-            "This fixed some weirdness I had after the 6.12.9 upgrade where Plex library scans would result in movies and tv episodes disappearing and new stuff wouldn't show up even doing the \"Plex dance\" to try and get them to show. After updating Unraid to 6.12.10 and running another scan, 50 \"new\" movies came back.",
-            "Lol. So many drama queens in this thread. Upgrade asap on patch releases, use caution on major releases.",
-            "Split level manual no longer works with this upgrade",
-            "Does anyone knows if it fix the macvlan related kernel panics ? Thx\nI'll upgrade in any cases btw",
-            "It seems like there's a lot of confusion on the versioning terminology. As u/Solverz said: [semantic versioning ](https://www.geeksforgeeks.org/introduction-semantic-versioning/)structures updates as Major.Minor.Patch.\n\n  \nMajor updates are for breaking changes. Minor updates are for new features/changes that are backwards compatible. And patches are for fixes and stuff that is also backwards compatible with that major version.\n\n  \nSo appropriately this is a *patch* update which should have the lowest \"risk\" of breaking anything out of the version types. Annoying that I just upgraded from 6.12.8 the other day, yeah, because I would have otherwise skipped a rollback but I appreciate the prompt fixes.",
-            "Worth doing the update if on 6.12.8?"
+            "Always happy when things move forward but for the average user not using ZFS I don't see much benefit here. I'll be hanging back for a while until things are completely stable.",
+            "For Plex, does anyone know on UnRAID 7 Beta how I need to configure it to use my Intel ARC card? I set the device to \"/dev/dri\" and it still uses my iGPU instead of the Intel ARC card. Not sure why Plex doesn't see the GPU. My Windows 11 VM sees it just fine though",
+            "Docker engine v25 plz, no idea why its taking this long when stable was released 6 months ago.",
+            "Did you already pass it to the vm when trying to access it from Plex?\n\nAlso there is a setting to choose which card to use in Plex settings.",
+            "Safe to assume you haven't watched the video then? :P",
+            "Not everyone wants to run an beta version",
+            "Sure once I update I'll swap the cards, configure Plex of course and provide feedback.  I should be able to get to this over the weekend.",
+            "Noooo seriously?  I've got an ARC 310 on the way to replace my Quadro P400.",
+            "Is there much of a benefit to using ZFS as the file system of array drives? I thought the main benefits of ZFS were from creating pools?",
+            "You'll need to add it to your docker parameters if your using it for plex, but a quick Google and 2 lines of code are all you need."
         ]
     },
-    "Unraid April Digest": {
-        "title": "Unraid April Digest",
-        "score": 30,
-        "url": "https://newsletter.unraid.net/p/unraid-april-digest-014e",
-        "content": "All Things Unraid for April 2024",
-        "num_comments": 32,
+    "Unraid 7 Public Beta is now available": {
+        "title": "Unraid 7 Public Beta is now available",
+        "score": 117,
+        "url": "https://unraid.net/blog/unraid-7-beta",
+        "content": "",
+        "num_comments": 73,
         "comments": [
-            "Anyone have thoughts on the integrated proxy manager? I'm new to unraid and just got Nginx working, would be curious to see if the integrated one is worth the switch.",
-            "Looking forward to first party support for backing up VMs.\n\nIt would also be nice if they improved the GUI so that it doesn't override custom changes in the VM XML.",
-            "When will 6.13 come? They said soon this month. Its almost end of the month.",
-            "Today watched May Digest, so many improvements will be in Unraid 7 for ZFS when I decided to use only xfs for array and btrfs for cache \ud83e\udd23",
-            "I wonder if it will be similar to Synology's which was pretty barebones.\n\nI ended up going with traefik on my unRAID and have it all integrated with my other containers, LetsEncrypt, and Cloudflare subdomains.",
-            "I can\u2019t get Nginx working. Hopefully the integrated one works for me. I\u2019m going to set up OPNsense and run ACME and HAproxy that way but if the integrated one works I\u2019ll try that",
-            "I have a good feeling about next week.",
-            "HAProxy kinda sucks compared to Nginx Proxy Manager. What couldn't you get working?",
-            "any updates? its june already?",
-            "What about next week? Still good feelings?"
+            "Never have I been so excited for something that I refuse to try, before at least a couple of months have passed",
+            "Is it weird the feature I was most eagerly awaiting was the hardware database mentioned in the video months ago. Id love to get failure rates and brand stats on hard drives and SSDs",
+            "\"Unraid array now optional\" huzzah!",
+            "Unraid arrays are optional now. I can now use my ZFS pool without keeping some random USB drive connected to act as an array device. Lol",
+            "I bought a second license for exactly this! *hard nips* LETS GOOOOO!",
+            "I am on an test licence. Does anybody know if i get 7 if i buy now?\n\nDoes anyone know when 7 is expected to be fully released?",
+            "Is there auto snapshots or do we still need to use spacesinvader script?",
+            "Awesome !! Proxmox with good Nas",
+            "What's the hesitancy with updating? Can't you easily make a backup and restore if something goes wrong",
+            "Yes I will finally do my first upgrade. I need to add a 9500 card this weekend and it will be a perfect time to try it out"
         ]
     },
-    "Unraid vs Windows Server": {
-        "title": "Unraid vs Windows Server",
-        "score": 3,
-        "url": "https://www.reddit.com/r/unRAID/comments/1dls829/unraid_vs_windows_server/",
-        "content": "I have an Unraid server with 4 20tb drives and a 2TB cache drive, 16gb of memory, i9-9900k.\n\nPlanning on installing a 10G nic in the unraid server and create a peer to peer network with my workstation- TR 7090. ",
-        "num_comments": 7,
+    "CCTV Options on unRAID; docker/VM, passing through a hard drive?": {
+        "title": "CCTV Options on unRAID; docker/VM, passing through a hard drive?",
+        "score": 6,
+        "url": "https://www.reddit.com/r/unRAID/comments/1dr8ejy/cctv_options_on_unraid_dockervm_passing_through_a/",
+        "content": "I currently have a CCTV DVR that has several cameras connected via BNC, however it has finally given up the ghost and died.  I have recovered and checked the HDD is still good.\n\nNow I could buy a new DVR and just swap it out; but this seems like a good time to maybe upgrade to something more modern and install IP CCTV cameras.\n\nHas anyone any suggestions on using unRAID as a CCTV recorder? I want to reuse my surveillance  HDD, so is there a way I can pass through the drive to a VM?  Or would I need to set it up as its own pool then record over the network to it?\n\nOr is there a docker specifically for this?",
+        "num_comments": 10,
         "comments": [
-            "Don't go with Windows server. Aside from licensing, it's very unlikely to be the best choice for you. The thing that makes Windows good are the domain services. If you have AD DS setup, then yeah, use Windows Server for your file server. \n\nSince I'm guessing that's not the case, you should probably be looking at TrueNAS or Unraid. Or, if you want to dive deeper, setting up shares on a headless Linux distro (Debian, Ubuntu, etc), setting up Proxmox, etc.",
-            "Forgot to mention, I\u2019m looking for some guidance. If I go with the 10g nic< should I do rj45 or melanocyte connection. I will be using the unraid server for production type work",
-            "What are you doing, videos? Might want to consider bigger or array cache drives... That way you can use the full 10g, otherwise you'll fill up your cache and the spinning drives will max out super fast.",
-            "RJ45 is good for 30m with cat5e/cat6 as long as you have a decent cable. \nHowever. It's best to buy a network card with SFP+ as you can change the connection type as you please. Plenty of second hand network cards available",
-            "Honestly, you\u2019re using spinning drives. Unless you\u2019re pulling to/from the nvme drive at max capacity that 10g isn\u2019t going to help you any. But to keep things simpler, heat way down, I went with the qnap Qhora 322 router as an all-in-one and kept it rj45.  I\u2019d definitely jump for more than 1g but going for 10g, at least in my case, doesn\u2019t serve any purpose when I\u2019m WAY limited by IO of the drives.",
-            "Thanks for info.  If I went with a sub $300 setup - 10t nic with sfp+, do you have any recommendations/. I have a threadripper TRX50 motherboard that has 2.5 and 10G networking. Does it make sense to go with SFP_",
-            "Oh, if you have it built in then you're fine. \nI was only recommending SFP+ if you needed to buy an add in card. \nJust use what you have unless you need to do over 30m cable run off course, then you will need fibre."
+            "There several ways you can make this work using unRAID. I use Frigate NVR which runs in a Docker container on unRAID.",
+            "I'd highly recommend Frigate. \nIt has a little bit of a learning curve, and does have a focus around Machine Learning detections, but you can just use it to record without detections and it's rock solid for that.",
+            "Frigate every day of the week. Inside unraid as a docker container for sure",
+            "I run Scrypted (in a container), and just have a single 2tb ssd in its own pool dedicated to NVR storage, works great and I have all the cams uploading to Apple HomeKit for offsite backup.",
+            "Do you use scrypted as the NVR? How does it compare to frigate?",
+            "I do use Scrypted as the nvr, never used frigate sorry. Scrypted does work great tho and handles what I need.",
+            "Thanks for the info. Does it work for people detection using a Google coral. Is there an app for live viewing and notifications etc?",
+            "Yes to both.",
+            "Awesome thanks",
+            "So I'm not 100% reliant on UnRAID I've got a two level setup.\n\n1. Amcrest NVR with all IP camera's hooked into that recording 24x7\n2. Frigate as a docker container on unraid using a Coral for AI detection. With frigate subscribed to the cameras via the NVR's RTSP feeds.\n\nRedundancy is king."
         ]
     },
-    "Turning old PC into server (noob here)": {
-        "title": "Turning old PC into server (noob here)",
+    "Change Device 1 from internal SSD to USB stick?": {
+        "title": "Change Device 1 from internal SSD to USB stick?",
         "score": 2,
-        "url": "https://www.reddit.com/r/unRAID/comments/1dltrqu/turning_old_pc_into_server_noob_here/",
-        "content": "Hi everyone,\n\nI want to turn my old PC into a server for Plex, storage and a Minecraft (private) server. The parts I already own are:\n\n* Intel Core i7 4790K\n* MSI Z87-G45 Gaming motherboard\n* Kingston HyperX Fury 2x8GB DDR3 1866 MHz\n* 16 TB Seagate Ironwolf PRO ST16000NT001\n* 2x8 TB Seagate Ironwolf NAS ST8000VN004\n* 3 TB Seagate Barracuda ST3000DM001\n* GPU ASUS R9 290X 4GB (if needed)\n* Corsair Carbide Series 200R case\n\nWhat I plan to buy:\n\n* Samsung 970 Evo plus (to use with an ASUS Hyper M.2 expansion card) (BIOS flashed to work with NVME)\n* PSU (haven't decided yet probably a Seasonic \\~500W)\n* Noctua NH-L9i CPU cooler\n\nDoes this setup make sense? How would you configure the harddrives? I need one HDD for parity and backup, right? I've never build a server before so any suggestions are very welcome. ",
-        "num_comments": 5,
-        "comments": [
-            "Yes, you need one HDD for parity, but not backup. Backup should be somewhere else. You must choose 16tb as parity because other disks cannot be larger than your parity disk.",
-            "Yes those parts are all fine. I'd suggest reading some Unraid guides or the many videos for installing fresh, esp from SpaceInvaderOne channel, just to get an idea.\n\nUnraid uses the largest drive as parity - the thing is any extra space on it will go to waste.\n\ne.g. if you want to use your current drives you must use the 16TB one as parity but then 8TB of it goes to waste. If you happen to buy another 16TB drive (maybe a refurb one on sale) then you can use that as a data drive, have it fully protected as well. \n\nMake sure your motherboard and case have enough SATA ports and slots to fit all the drives you need.",
-            "Thanks for the feedback. Does that leave the other 3 HDDs for storage then?",
-            "Thanks for the comment and suggestion. I'll definitely be expanding with a 16 TB drive at some point but that will also mean a new case. Checking out SpaceInvaderOne right now and it's just what I need!",
-            "Yes"
-        ]
+        "url": "https://www.reddit.com/r/unRAID/comments/1drb2tw/change_device_1_from_internal_ssd_to_usb_stick/",
+        "content": "Hello everyone,  \n\n\nI paused my unraid project for a while and stareted my miniPC now again with the first goal a better device/space management.  \nMy MiniPC has a 32 SSD in it and it is the \"device 1\" and the dockers are installed there. So after a few apps, the free space on the ssd vanished rapidly... My plan was to add a usb stick (256gb) and install the apps there.  \n  \n When I insert the usb-stick it is no problem to use it as \"device 2\" (1st screenshot), but when I try to use it as \"device 1\" I get an error with the meta data from the ssd...\n\nWhat am I doing from? Is it even possible to do what I'm planing?\n\nThanks for your help in advance :-)\n\nhttps://preview.redd.it/x5bqc538gi9d1.png?width=1597&format=png&auto=webp&s=7c199b8aa56a8ecbb247834912377caa45a64cdc\n\nhttps://preview.redd.it/mqqrjhz8gi9d1.png?width=1614&format=png&auto=webp&s=4ecf178195cdb30a89a1b3c2617ad79befdaf89d\n\n",
+        "num_comments": 0,
+        "comments": []
     },
-    "Where is unRaid 7/6.13?  ": {
-        "title": "Where is unRaid 7/6.13?  ",
-        "score": 29,
-        "url": "https://www.reddit.com/r/unRAID/comments/1dlcjh9/where_is_unraid_7613/",
-        "content": "Does anyone know what is going on with the release of unRaid 7/6.13?  u/unraidOfficial ?\n\nThere hasn't been much talk since the April Digest thread about when this release is coming out (which turned out to not be the case).   There was no May Digest thread, even though June is 3/4s over now.\n\nI hope the silence is just them being heads down trying to iron out all the bugs, but I worry that something else might be happening.   I've seen this happen when a merger or sale occurs and the company goes silent until it's announced.\n\nI just want Intel Arc support!   ZFS stuff would be cool too, I guess.",
-        "num_comments": 95,
+    "UnRaid drives setup recommendation": {
+        "title": "UnRaid drives setup recommendation",
+        "score": 3,
+        "url": "https://www.reddit.com/r/unRAID/comments/1dr85bf/unraid_drives_setup_recommendation/",
+        "content": "Hello,   \nNew to UnRaid - please help with hard drives allocation (Pools / Array / Cache?)\n\n  \nI'm retiring my HP MicroServer Gen8 (8 GiB DDR3 Single-bit ECC) Windows Server. Physically, I can stick in 5xSata drives and 1x M.2 SSD through M.2 PCIe NVMe Adapter. I currently have UnRaid Basic licence but I'm ok with upgrading to get update to 7 and more drives in the future if and when I decide to upgrade the hardware.  \n\nMy planned usage:   \n- storage and repository of photos and videos (action cameras)- for future editing  \n- family photos (immich / photoPrism - not sure as yet)  \n- local backups of google drive (2tb) and family OneDrive   \n- media files storage (mainly music for Serato access)  \n- other media, old downloaded movies, etc  \n- other Docker apps (not sure yet what I may need, want to test)\n\n  \nAt my disposal I currently have:  \n- 2x Seagate Enterprise Capacity v7 ST12000NM0127 - 12 TB  \n- 3x Seagate ST4000VN008 - IronWolf 4TB  \n- 2x Western Digital Red NAS \\[WD30EFRX\\] - 3TB  \n- 1x WD Blue SN570 M.2 NVMe SSD\n\nI also have 3x Seagate Ent Cap v4 SAS drives but since I don't have HBA nor space in the current box - wont be used. If I find a need (e.g. not enough CPU power)  I might be upgrading hardware in the future. \n\nPlease advice what would be the best drive allocation?   \nThanks in advance.",
+        "num_comments": 1,
         "comments": [
-            "I want VM snapshots",
-            "Of course they could have a public roadmap, but I'm fine for them being silent as long: 1. Security problems are taken care ASAP and 2. The overall quality of releases is good.\n\nThe only wish I have is if they could release the latest stable [kernel](https://kernel.org/) once in a while that is not bound to a fixed/frozen release, so that people can at least use newer hardware on the spot.",
-            "Unraid 7 has been teased by spaceinvader one over the last while. And has been in closed beta for a while now. \n\nI have no issue with the wait. It'll be the same people who are rushing the release that will complain about it being rushed when it has bugs",
-            "Two weeks. (TM)",
-            "They won\u2019t admit it, but they\u2019ve been dropping the ball for a while now on communication. \n\nThe marketplace Unraid operates in is getting more contested and Unraid needs to do better, much better. \n\n-TrueNAS scale, a free and open source platform, is switching to docker at its core. \n\n-CasaOS is getting traction and attention, and is again, free and open source. \n\n-HexOS, which is apparently made by some ex Unraid devs, partially funded by Linus from LinusTechTips fame is working to have a low barrier to entry middleware based upon TrueNAS.\n\nUnraid is the \u201cpremium\u201d product from a price perspective but is let down by a poor community management team, which is sad to see happen to an app built on the considerable effort of it\u2019s community developers.",
-            "As far as I know, they don't commit to release dates. It'll be out when it's ready.",
-            "I'd rather Unraid wait until it's ready than push it out in a rush and end up causing issues. There are a lot of ZFS changes coming, so not really a surprise they are taking their time.",
-            "What I need is a NAS that will support \"Intel ARC A380\", I don't care who they are at this point. I bought the parts for a DIY NAS so I can move my Plex server over to it, so I can do transcoding on the fly.",
-            "Where are the promised 'faster updates and new features' ??\n\nThey doubled the price, got millions in sales, and its been complete silence. \n\nthe last interview with the founders promised only ZFS features. I don't want ZFS, its completely pointless for home users. I want them to fix the slow speeds, fix bugs and keep it simple.",
-            "It's kinda comical how many times they've said beta is \"coming soon\" at this point"
+            "12tb parity drive,\n12tb and 3x4tb data drives,\nNAS drives as a mirrored cache,\nSsd for docker AppData"
         ]
     }
 }

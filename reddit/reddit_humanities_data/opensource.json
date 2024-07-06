@@ -4,27 +4,49 @@
         "score": 3,
         "url": "https://opensource.org/blog/open-source-ai-definition-weekly-update-june-24",
         "content": "",
-        "num_comments": 0,
+        "num_comments": 1,
         "comments": []
     },
     "Recommend Open-source eBook Reader for Windows.": {
         "title": "Recommend Open-source eBook Reader for Windows.",
-        "score": 5,
+        "score": 12,
         "url": "https://www.reddit.com/r/opensource/comments/1dr2qb2/recommend_opensource_ebook_reader_for_windows/",
         "content": "I was searching for a good FOSS ebook reader for windows to read epub, mobi files but couldn't find any.  \nI love foliate but it's not available for windows.  \nRecommend something like foliate for windows.",
-        "num_comments": 6,
+        "num_comments": 11,
         "comments": [
-            "https://librumreader.com",
-            "calibre - https://calibre-ebook.com/",
+            "You mean the best cross-platform document reader? That would be Okular.Its the VLC for documents.",
+            "Sumatra is not FOSS, but it is free and very good.",
+            "You are correct. I don't understand why you're getting downvoted. Reddit folks are dumb.",
+            "Thorium is open-source!",
             "My favourite is [Koodo Reader](https://www.koodoreader.com).",
             "[Sumatra](https://www.sumatrapdfreader.org/free-pdf-reader)",
-            "Thorium is open-source!",
-            "You are correct. I don't understand why you're getting downvoted. Reddit folks are dumb."
+            "https://librumreader.com",
+            "[Calibre](https://calibre-ebook.com/)",
+            "calibre - https://calibre-ebook.com/"
         ]
+    },
+    "Do what you want with put pixel - A graphics library that's too simple": {
+        "title": "Do what you want with put pixel - A graphics library that's too simple",
+        "score": 1,
+        "url": "https://www.reddit.com/r/opensource/comments/1drdp68/do_what_you_want_with_put_pixel_a_graphics/",
+        "content": "I wanted something like HTML Canvas outside the browser. I wanted a simple buffer with just three features.\n\n1. Get a flat RGB buffer\n2. A put pixel function which can put color pixels in the buffer\n3. Save the buffer to a file so that I can see the buffer.\n\nThe target audience are students or people who just want to play graphics algorithms and do not want anything complex.\n\nHere is the repo: [https://github.com/coderarjob/ppm-graphics](https://github.com/coderarjob/ppm-graphics)\n\nYou would be amazed  what you can do with just these basic features. Enjoy.",
+        "num_comments": 2,
+        "comments": [
+            "Ive mostly coded web and back end stuff. This looks like a good gateway to get into graphics and make some backgrounds or animations.\n\nI dont have a clue how to start. I cant tell what the code is going to draw. Do you start with an idea and try to implement it, or just fiddle with variables? Any tips?",
+            "You can just draw a square to begin with. The included 'Basic' example does exactly that:\n\n[https://github.com/coderarjob/ppm-graphics/blob/master/examples/basic.rs](https://github.com/coderarjob/ppm-graphics/blob/master/examples/basic.rs)\n\nRun it using \\`cargo run --example basic\\`"
+        ]
+    },
+    "Ctrl+ shift + I not working": {
+        "title": "Ctrl+ shift + I not working",
+        "score": 1,
+        "url": "https://github.com/llaske/sugarizer",
+        "content": " In sugarizer of sugar labs , it opens an electron application but i can't seem to inspect it using Ctrl + shift + I or f12 can someone help me",
+        "num_comments": 0,
+        "comments": []
     },
     "OpenLoco version 24.06 released": {
         "title": "OpenLoco version 24.06 released",
-        "score": 24,
+        "score": 26,
         "url": "https://openloco.io/news/2024/06/openloco-v24.06.html",
         "content": "",
         "num_comments": 3,
@@ -33,21 +55,5 @@
             "Looking forward to the release that has 100% FOSS code.",
             "No https://openloco.io/about/"
         ]
-    },
-    "Any open source audio/vocal separator": {
-        "title": "Any open source audio/vocal separator",
-        "score": 2,
-        "url": "https://www.reddit.com/r/opensource/comments/1dqz4t7/any_open_source_audiovocal_separator/",
-        "content": "Bonus points if it is written in python or nodejs(ik highly unlikely) but still ",
-        "num_comments": 0,
-        "comments": []
-    },
-    "ejabberd 24.06 / ProcessOne \u2013 Erlang Jabber/XMPP/Matrix Server \u2013 Communication": {
-        "title": "ejabberd 24.06 / ProcessOne \u2013 Erlang Jabber/XMPP/Matrix Server \u2013 Communication",
-        "score": 1,
-        "url": "https://www.process-one.net/blog/ejabberd-24-06/",
-        "content": "",
-        "num_comments": 0,
-        "comments": []
     }
 }

@@ -1,84 +1,91 @@
 {
     "Reminder: Please do not submit tech support or build questions to /r/hardware": {
         "title": "Reminder: Please do not submit tech support or build questions to /r/hardware",
-        "score": 243,
+        "score": 246,
         "url": "https://www.reddit.com/r/hardware/comments/3n9tky/reminder_please_do_not_submit_tech_support_or/",
         "content": "For the newer members in our community, please take a moment to review our rules in the sidebar. If you are looking for tech support, want help building a computer, or have questions about what you should buy please don't post here. Instead try /r/buildapc or /r/techsupport, subreddits dedicated to building and supporting computers, or consider if another of our related subreddits might be a better fit:\n\n* /r/AMD (/r/AMDHelp for support)\n* /r/battlestations\n* /r/buildapc\n* /r/buildapcsales\n* /r/computing\n* /r/datacenter\n* /r/hardwareswap\n* /r/intel\n* /r/mechanicalkeyboards\n* /r/monitors\n* /r/nvidia\n* /r/programming\n* /r/suggestalaptop\n* /r/tech\n* /r/techsupport\n\nEDIT: And for a full list of rules, click here: https://www.reddit.com/r/hardware/about/rules\n\nThanks from the /r/Hardware Mod Team!",
         "num_comments": 19,
         "comments": [
-            "Lots of those subreddits aren't appropriate places for questions and help either.\n\n* /r/programming \n* /r/datacenter\n* /r/battlestations is for pictures of PC setups.\n* /r/buildapcsales is for links to good deals on PC components and peripherals.\n* /r/tech is for news articles and \"informative [...] self-posts\" about technological advancements\n* /r/hardwareswap is an informal marketplace for used hardware\n",
-            "/r/AMD does not accept techsupport questions. Use /r/AMDHelp for that.",
-            "Hmm, some of those subreddits refer to r/hardware though for tech support lol",
             "Are all new posts blocked pending moderator approval? Sorting the subreddit by \"new\" puts a 15-hour-old thread above a 12-hour old thread.",
-            "Where should we go for random product recommendations? Just small random things like mice, keyboard, sound cards, general hardware.. etc. \n\n/r/buildapc ??\n",
-            "/r/pcsupport is also an option for tech support. ",
-            "This post isn't just referring to questions and help.\n\n>or consider if another of our related subreddits might be a better fit:\n\nThis covers the subreddits you're talking about.",
-            "Mods here are informing noobs to not post tech support questions....\n\n...advices to post in other subreddits that also don't want tech support questions.\n\nNice job mods.",
             "Added to the list, thanks!",
-            "Which ones? We'll contact them."
+            "Which ones? We'll contact them.",
+            "Nope, new posts should appear immediately.",
+            "/r/mousereview, /r/keyboards and /r/mechanicalkeyboards all have fairly active communities. For general computer suggestions /r/buildapc works too.",
+            "Yep, I just added it to the list in this thread not the sidebar.",
+            "Where? I don't see anything in their sidebar.",
+            "Lots of those subreddits aren't appropriate places for questions and help either.\n\n* /r/programming \n* /r/datacenter\n* /r/battlestations is for pictures of PC setups.\n* /r/buildapcsales is for links to good deals on PC components and peripherals.\n* /r/tech is for news articles and \"informative [...] self-posts\" about technological advancements\n* /r/hardwareswap is an informal marketplace for used hardware\n",
+            "Where should we go for random product recommendations? Just small random things like mice, keyboard, sound cards, general hardware.. etc. \n\n/r/buildapc ??\n",
+            "This post isn't just referring to questions and help.\n\n>or consider if another of our related subreddits might be a better fit:\n\nThis covers the subreddits you're talking about."
         ]
     },
-    "AI titans Microsoft and Nvidia reportedly had a standoff over Microsoft's use of B200 AI GPUs in its own server rooms": {
-        "title": "AI titans Microsoft and Nvidia reportedly had a standoff over Microsoft's use of B200 AI GPUs in its own server rooms",
-        "score": 202,
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-titans-microsoft-and-nvidia-reportedly-had-a-standoff-over-use-of-microsofts-b200-ai-gpus-in-its-own-server-rooms",
+    "Soon, QDEL Screens Could Perfect What OLED Couldn't": {
+        "title": "Soon, QDEL Screens Could Perfect What OLED Couldn't",
+        "score": 71,
+        "url": "https://www.howtogeek.com/soon-qdel-screens-could-perfect-what-oled-couldnt/",
         "content": "",
-        "num_comments": 55,
+        "num_comments": 31,
         "comments": [
-            ">Previously, the customer was responsible for buying and building appropriate server racks to house the hardware. Now, Nvidia is pushing customers to buy individual racks and even entire SuperPods \u2014 all coming direct from Nvidia. Nvidia claims this will boost GPU performance, and there's merit to such talk considering all the interlinks between the various GPUs, servers, racks, and even SuperPods. But there's also a lot of dollar bills changing hands when you're building data centers at scale.  \n>  \n>Nvidia's smaller customers might be ok with the company's offerings, but Microsoft wasn't. VP of Nvidia Andrew Bell reportedly asked Microsoft to buy a server rack design specifically for its new B200 GPUs that boasted a form factor a few inches different from Microsoft's existing server racks that are actively used in its data centers.  \n>  \n>Microsoft pushed back on Nvidia's recommendation, revealing that the new server racks would prevent Microsoft from easily switching between Nvidia's AI GPUs and competing offerings such as AMD's MI300X GPUs. Nvidia eventually backed down and allowed Microsoft to design its own custom server racks for its B200 AI GPUs, but it's probably not the last such disagreement we'll see between the two megacorps.",
-            "Nvidia being Nvidia as per the norm.",
-            "Big techs beefing with each other over AI is honestly very entertaining",
-            "Microsoft standing up against vendor lock-in?\n\nExcuse me while I care about literally anything else.",
-            "Nvidia is so cartoonishly evil (for lack of a letter word) that this is funny. I love it.",
-            "Lol Jensen thinks data center guys are like the gamers. Who would eat this shit up.\n\nGamers love Nvidia vendor lock ins. Data center guys aren't this stupid however. Particularly Microsoft, they invented the vendor lock in.",
-            "Will this AI diarrhea bubble pop already.",
-            "Like how? MS as an enterprise vendor bought 10 pallets full of those GPUs which are primarily used for ML purpose, then exchanged it for cash loaded onto the same pallets, then started using them for their intended purposes and nvidia started screaming \u201cyou can\u2019t do that\u201d",
-            "Let them bleed each other dry in legal fees for all I care. \nWould be ironic if Microsoft were to complain about anti-competitive behavior from Nvidia.",
-            "If you read the article, it says MSFT was not happy about the **form factor** of the racks. \nIt is 100% not intentional from nividia, that would want to be compatible to most current datacenter to sell more, more easily.\n\nThe entire B200 rack is vendor lockin already, they do not need the form factor to be as well."
+            "I expect display names to become more confusing. When these technologies reach consumer displays, OLED, QLED, QDEL, Mini-LED, Micro-LED, and Micro-OLED must be confusing to the average person.",
+            "by this \"soon\" microled will be shipping already",
+            "I just want miniLED brightness on full window sizes, that's all I need",
+            "Isnt Micro-LED set to be the solution to OLED?",
+            "First rgb oled will be released next year which is really nice.\nWill qdel compete with micro led?",
+            "Screen this, display that, my eye cant tell no difference.",
+            "Because Samsung took over the QLED term to intentionally confuse customers",
+            "They're intentionally confusing. Why do you think Samsung calls their LCDs QLED which is strangely close to QD-OLED \n\nQD-EL does make sense though. It's about the same as QD-OLED",
+            "2028+ minimum for final products going by optimistic timeframes from the original article.\n\nI.e no impact on current spending decisions.",
+            "Agreed, u/xen0us gave us a false headline"
         ]
     },
-    "HUB - When Are Next-Gen GPUs Launching? Buy Now or Wait? - June GPU Pricing Update": {
-        "title": "HUB - When Are Next-Gen GPUs Launching? Buy Now or Wait? - June GPU Pricing Update",
-        "score": 13,
-        "url": "https://youtu.be/ZnjO1spYcxg",
+    "Snapdragon 8 Gen 4: Adreno 830 GPU rumoured to launch with DLSS Frame Generation-like feature": {
+        "title": "Snapdragon 8 Gen 4: Adreno 830 GPU rumoured to launch with DLSS Frame Generation-like feature",
+        "score": 19,
+        "url": "https://www.notebookcheck.net/Snapdragon-8-Gen-4-Adreno-830-GPU-rumoured-to-launch-with-DLSS-Frame-Generation-like-feature.854000.0.html",
         "content": "",
-        "num_comments": 6,
+        "num_comments": 5,
         "comments": [
-            "High end gpu monopoly yay :))",
-            "My personal instinct is to wait for RDNA 4 at least.",
-            "new gpus can launch tomorrow and the 60 series still be a year or more away, people that have money to spend in a 90 series now have money to spend in another 90 series whenever it shows up\n\ntheres no real debate here, get one now if you need it, if you dont need it or dont care, then dont get one. Simple as that",
-            "Perhaps. Though I wager not many would have those cards other than those with more money than sense. The high middle is more than you will ever need.",
-            "Obviously you should wait for competing products if they are released in a similar timeframe. I would even wait for Battlemage. Would be nice if they all release in Q1/25.",
-            "Rumor has it we might see RDNA 4 around october.\n\nI'm not going for Battlemage, Arc is promising but it still needs at least another gen to cook if it's to be good for me."
+            "Between the new Oryon cores and Qualcomms excellence with Adreno I am far more excited about the 8 Gen 4 than I ever was about the X Elite. I think the fruits of the Nuvia team and their mobile division will shine here as opposed to the disappointed reaction from the X Elites Windows woes and good but not that impressive performance.",
+            "In my own testing my M1 Pro GPU is easily 10-20x faster than my S24U when running a bunch of different compute shaders. The M1 Pro GPU isn't even particularly fast.",
+            "Adreno 830 looks like it will be the biggest architectural overhaul of Adreno in a long time:\n\n- Slice GPU architecture.     \n- New memory compression algorithm.    \n- New Dynamic Wave Pairing technology.      \n- Addition of HGEMM.   \n- Improved FP32 performance.    \n\nSources: \n\nhttps://x.com/negativeonehero/status/1805561685119492561\n\nhttps://x.com/negativeonehero/status/1805561685119492561",
+            "Mobile GPU architectures continue their march in adopting desktop-class GPU features, but they are still far behind in the curve. Here's several tweets that explain the differences in depth:\n\n[https://x.com/SebAaltonen/status/1805616029332021721](https://x.com/SebAaltonen/status/1805616029332021721)\n\n[https://x.com/SebAaltonen/status/1805862452875104453](https://x.com/SebAaltonen/status/1805862452875104453)\n\n[https://x.com/SebAaltonen/status/1806221164345229373](https://x.com/SebAaltonen/status/1806221164345229373)\n\n[https://x.com/SebAaltonen/status/1806217804162445629](https://x.com/SebAaltonen/status/1806217804162445629)\n\n[https://x.com/SebAaltonen/status/1806234348955279786](https://x.com/SebAaltonen/status/1806234348955279786)\n\n[https://x.com/SebAaltonen/status/1806234702493241368](https://x.com/SebAaltonen/status/1806234702493241368)\n\n[https://x.com/SebAaltonen/status/1806244885684490526](https://x.com/SebAaltonen/status/1806244885684490526)"
         ]
     },
-    "[2kliksphilip] Snapdragon X Elite - Still Waiting for Benchmarks": {
-        "title": "[2kliksphilip] Snapdragon X Elite - Still Waiting for Benchmarks",
-        "score": 10,
-        "url": "https://www.youtube.com/watch?v=XuwFxIsuMpA",
+    "Chips and Cheese: \"Examining the Nintendo Switch (Tegra X1) Video Engine\"": {
+        "title": "Chips and Cheese: \"Examining the Nintendo Switch (Tegra X1) Video Engine\"",
+        "score": 90,
+        "url": "https://chipsandcheese.com/2024/06/28/examining-the-nintendo-switch-tegra-x1-video-engine/",
         "content": "",
-        "num_comments": 1,
+        "num_comments": 15,
         "comments": [
-            "The Hardware is ready, Software isn't. The GPU (drivers) has issues and the applications that use some GPU acceleration are not using it just yet.\n\nPricing wise that is up to OEMs, the QC chip itself is being sold to OEMs at 50% price of a comparable Intel Chip"
+            "Crazy to think that Nintendo went with a chip designed for smart tvs and auto entertainment systems, and even more crazy is that half the cores on the X1 are disabled because they could never get the big little working right on it.",
+            "This would have been cool 7 years ago",
+            "When the Switch becomes the top selling console of all time, would the Tegra X1 be the most sold chip in history in terms of units?\n\nIts on the switch, shield tv and Jetson Nano.",
+            "Nvidia also used the Tegra chips in their line of gaming tablets, so makes sense for Nintendo's gaming tablet to use :)",
+            "Retrospectives are still valuable tech journalism.",
+            "You mean NINE years ago when it was used on SHIELD TV, you know, the thing where the video engine is the titular feature.",
+            "Maxwell really was kind of a surprise generation at the time too.\n\nIt was a pretty big improvement in performance from Kepler to Maxwell, and both were on the same process node, so all the improvements were purely from architecture.",
+            "A deep dive into even wholly obsolete technology can still be very interesting, too. The techniques and mechanisms themselves are very cool to see explored. This article will also make a great point of comparison when the successor eventually releases, so if anything, it's a bit early. :)",
+            "> We haven't even touched chips that doesn't have a CPU yet.\n\nSome of those are easily selling in the billions or tens-of-billions even...",
+            "I remember when the 750Ti (the very first Maxwell card released before the 900 series) came out  and all the reviewers were boggled at the performance of this tiny card. It heralded the start of Nvidia's efficiency dominance for the next decade.  Before this AMD was typically the *more* efficient choice."
         ]
     },
-    "AMD Ryzen AI 9 365 Zen5 APU tested ahead of launch: IPC uplift measured": {
-        "title": "AMD Ryzen AI 9 365 Zen5 APU tested ahead of launch: IPC uplift measured",
-        "score": 84,
-        "url": "https://videocardz.com/newz/amd-ryzen-ai-9-365-zen5-apu-tested-ahead-of-launch-ipc-uplift-measured",
+    "PC World Tested: Don't buy a Snapdragon X Elite laptop for PC gaming": {
+        "title": "PC World Tested: Don't buy a Snapdragon X Elite laptop for PC gaming",
+        "score": 430,
+        "url": "https://www.pcworld.com/article/2378322/qualcomm-adreno-x1-vs-intel-arc-real-world-performance-in-7-games.html",
         "content": "",
-        "num_comments": 84,
+        "num_comments": 160,
         "comments": [
-            "Link to the source by David Huang: [Detailed look (Chinese)](https://blog.hjc.im/zen5-preliminary-review.html) He discusses the uArch that AMD barely went over during Computex compared to Intel, and cache/memory latency etc.",
-            "10% in SPECint. 15% in Geekbench 6.",
-            "What a horrible name for a CPU",
-            "No idea how this performs in terms of power efficiency but it appears that Intel might have a fairly decisve lead in multithreaded and roughly equal in single threaded applications (this is just speculation though). \n\nThe gains intel achieved on their little cores this general are fantastic. Each little skymont core will be equal to or faster than the Zen5c cores while probably taking up less area. And Intels big cores are on par or better than AMDs. So looking pretty solid for intel right now.",
-            "8 ipc throughout L2 is really impressive, is there a caveat?",
-            "The overall picture for Zen 5 is not great. It appears to be doubling down on HT at just the wrong time, at the cost of ST performance. Somehow AMD has managed to jack up its public image and deploy Bulldozer 2.0 in the same month. My god. My tendies!",
-            "Remember, this is not the 370 HX (higher tier APU)",
-            "In the blog there are some bombshells: \"Compared with the full version of Zen 5 for desktop/server, its maximum frequency is reduced from 5.7 GHz to 5.1 GHz, SIMD throughput is halved, and the corresponding L1 vector load bandwidth is also halved\"",
-            "Maybe hotchip for amd?",
-            ">10% in SPEC.\n\nPutting 10% SPECint on the IPC claim chart would've been too lame so the marketing team replaced it with Far Cry 6.\n\nThe most negative part of Huang's review is that he couldn't get the 54W TDP laptop to hold single-thread turbo in SPEC tests at stock clocks and had to downclock to 4.8GHz."
+            "Was anyone seriously even considering that?",
+            "Love the dont play league just because you liked arcane energy",
+            "Motoring World Tested: Don't buy a moped for performance 4x4 offroading",
+            "The vanguard press we need",
+            "The niche for this product seems to be for people that want to run Office and webapps. Basically a thin client at thick prices for thick people.",
+            "Between this sub being filled with commenters just destroying the surfaces and the surface subreddit worshipping them Im actually getting a pretty decent idea of what this device is capable of",
+            "We are never kicking x86 for video games. Were gonna stay here forever",
+            "The results are impressive for a first gen product (I know they had a couple cpus earlier, but those were more like beefed up phone cpus, this is the first time they went all in)",
+            "Dont by any non-gaming machine/laptop for gaming. Lol",
+            "Really? No we know it, thank you GiJose"
         ]
     }
 }

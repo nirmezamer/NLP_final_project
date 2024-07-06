@@ -6,90 +6,81 @@
         "content": "This is a thread to get answers for all your questions about *NIX desktop configuration! Feel free to share your setups here and ask for advice. In short, you can make any on-topic comment, in any format you like. We hope this gives new users a chance to get some help with any problems they're having and more experienced users a chance to show off their knowledge by helping those in need.\n\nNot sure how to get started? Consider reading [our wiki](https://www.reddit.com/r/unixporn/wiki/index/)!",
         "num_comments": 11,
         "comments": [
-            "hi i am new to arch and ricing  \ni recently saw this awesome setup [https://github.com/nabakdev/dotfiles](https://github.com/nabakdev/dotfiles)  \nbut when i install the packages and do the git clone as said in the readme but i am not seeing any changes in my pc,so how should i go about installing these",
-            "\nHello guys I'm looking for a lightweight window manager for my newly installed mx Linux. I'm new to window managers and don't know much about them, but I want to try one I have an old PC so I can't have a window manager that is bloated with futures that I won't even use. \nCould you guys recommend something lightweight? \n\nThanks\u2026.",
             "# can anyone please give me the link of the first post in the banner of this subreddit? I wanna check out that setup and hopefully learn a few things.",
-            "As my username suggests im into the older boxy ThinkPads and was wondering how ricing would differ in older systems that are still running dual core cpus with integrated Intel graphics, would Wayland/Hyperland ( I haven't read too much on it I will research more on these later ) work well on these devices? Looking at the showcases theyre all really dope and cool and I would very much like to setup my own, is there any language prerequisites I should learn to build things like those? I'm specifically referring to [u/Rifqi2007](https://www.reddit.com/u/Rifqi2007) recent showcase along with his YouTube video. I'm moving into Linux just from windows and I've only experimented with debian installations on firmware bootloaders I side loaded off a Chromebook ( not the VM ). I've used kde plasma but that's about the experience I have. Sorry if the post seems weird but it feels so free that it's rather confusing where to start with as a newcomer, so sorry for anything weird I said and thanks in advance.",
             "lont know if this is tlhe right Reddit forum but... Does anyone know how to install dotfiles for sketchy bar?, Ive tried to follow the tutorials but I got lost...",
             "It looks to me like they forgot to include a command to move the dotfiles from the temp directory created with the git clone command. So I'd say to run the git clone command again, then use mv or rsync to get the files from the dotfiles-tmp directory to your home directory. Then reload/refresh your WM, and that should do it.",
             "A window manager it's just that, a window manager. Even the most \"bloated\" window manager uses a negligible amount of ram. High ram usage comes form using other programs. My recommendation is **bspwm for a tiling window manager** or **awsomewm if you want to have the option to switch between floating and tiling along with the other layouts**. As for a wayland windows manager (or compositor) I wouldn't know as I am on X11.",
             "well, if you know some C language, u might want to take a look on dwm (Xorg), very minimal and there is no configuration file, if u want to change something u need to recompile the program... there is also dwl (dwm for wayland).",
-            "[https://www.reddit.com/r/unixporn/comments/hpakeu/awesome\\_afternoon\\_in\\_a\\_perfect\\_world/](https://www.reddit.com/r/unixporn/comments/hpakeu/awesome_afternoon_in_a_perfect_world/)",
+            "\nHello guys I'm looking for a lightweight window manager for my newly installed mx Linux. I'm new to window managers and don't know much about them, but I want to try one I have an old PC so I can't have a window manager that is bloated with futures that I won't even use. \nCould you guys recommend something lightweight? \n\nThanks.",
+            "Hi,\nI recently tried i3 and was comfortable with it. But, the complexity/inability to save and restore workspaces pushed me back. \n\nDo you recommend any other wm (or any specific config:plugin) that would help me in save and restore the workspaces during restarts?\n\nThanks",
+            "hi i am new to arch and ricing  \ni recently saw this awesome setup [https://github.com/nabakdev/dotfiles](https://github.com/nabakdev/dotfiles)  \nbut when i install the packages and do the git clone as said in the readme but i am not seeing any changes in my pc,so how should i go about installing these",
+            "As my username suggests im into the older boxy ThinkPads and was wondering how ricing would differ in older systems that are still running dual core cpus with integrated Intel graphics, would Wayland/Hyperland ( I haven't read too much on it I will research more on these later ) work well on these devices? Looking at the showcases theyre all really dope and cool and I would very much like to setup my own, is there any language prerequisites I should learn to build things like those? I'm specifically referring to [u/Rifqi2007](https://www.reddit.com/u/Rifqi2007) recent showcase along with his YouTube video. I'm moving into Linux just from windows and I've only experimented with debian installations on firmware bootloaders I side loaded off a Chromebook ( not the VM ). I've used kde plasma but that's about the experience I have. Sorry if the post seems weird but it feels so free that it's rather confusing where to start with as a newcomer, so sorry for anything weird I said and thanks in advance.",
             "[https://www.reddit.com/r/unixporn/comments/hpakeu/awesome\\_afternoon\\_in\\_a\\_perfect\\_world/](https://www.reddit.com/r/unixporn/comments/hpakeu/awesome_afternoon_in_a_perfect_world/)"
         ]
     },
-    "[KDE6] OpenSuse Everforest !": {
-        "title": "[KDE6] OpenSuse Everforest !",
-        "score": 160,
-        "url": "https://www.reddit.com/gallery/1dqugs4",
-        "content": "",
-        "num_comments": 17,
-        "comments": [
-            "Distro : Opensuse\n\nWM : Kronhkite\n\nBar : Normal Plasma Panel\n\nIcons : Gruvbox material\n\nCursor : Everforest light\n\nColorscheme : [Everforest](https://github.com/Serge2702/KDE-Everforest) (altered)",
-            "Where tf do y\u2019all find these hard ass backgrounds \nSick setup man \ud83d\udc4d\ud83c\udffb",
-            "that is a very nice color scheme!",
-            "Nice Everforest theme!",
-            "This looks cool, nice work mate \ud83d\udc4f\ud83c\udffb\ud83d\udcaf",
-            "Very nice",
-            "possible to get wallpaper link and bar config?",
-            "Everforest user myself. Gotta say this is so clean and solid! Can't really believe it was all done on a KDE.\n\nAlso, how did you setup Spotify? That's a really solid player theme I wanna have for myself",
-            "Nice rice , what is this wm I never heard of it",
-            "Firefox theme ??"
-        ]
-    },
-    "[berry] yeah": {
-        "title": "[berry] yeah",
-        "score": 34,
-        "url": "https://i.redd.it/ukwobrwxnf9d1.png",
+    "[i3] My first RICE!! Catppuccin Theme :)": {
+        "title": "[i3] My first RICE!! Catppuccin Theme :)",
+        "score": 59,
+        "url": "https://www.reddit.com/gallery/1dr8j4h",
         "content": "",
         "num_comments": 11,
         "comments": [
-            "Great wallpaper.link?",
-            "nice\n\nwhich OS ?",
-            "Chic\u00e3o \u2764\ufe0f",
-            "yo, where can i get info about the wm? i love minimalism. what you used as bar?",
-            "yo, where can i get info about the wm? i love minimalism. what you used as bar?",
-            "This blud really use kernel",
-            "Is that LFS?",
-            "+",
-            "Came here to say this. \\^",
-            "https://berrywm.org/"
-        ]
-    },
-    "[yabai] just got my first macbook": {
-        "title": "[yabai] just got my first macbook",
-        "score": 66,
-        "url": "https://i.redd.it/l3o5vtimde9d1.png",
-        "content": "",
-        "num_comments": 9,
-        "comments": [
-            "I did the same thing on my work computer.\n\nNow I have one git repo that can configure litteraly every computer in life.\n\nNo regrets",
-            "You can find all my configs [here](https://github.com/qazer2687/dotfiles). I'd appreciate a star if you like it! (;",
-            "Why Nixos logo if not nixos?",
-            "This looks cool, nice work mate \ud83d\udc4f\ud83c\udffb\ud83d\udcaf",
-            "What is that workspace switcher? Need it",
-            "Can you back to the original mac DE",
-            "whats the font in vscodium? can you share the link",
-            "If that's neofetch, you can do \\`neofetch --ascii\\_distro NixOS\\`",
-            "you can change the distro icon to a custom or one of predetermined icons"
-        ]
-    },
-    "[Hyprland] Gruvbox Material is the best": {
-        "title": "[Hyprland] Gruvbox Material is the best",
-        "score": 63,
-        "url": "https://www.reddit.com/gallery/1dquqfp",
-        "content": "",
-        "num_comments": 9,
-        "comments": [
-            "Terminal: Alacritty\n\nBar: Waybar\n\nApplication Launcher: Wofi\n\nSidebar and Dashboard: AGS\n\nBrowser: LibreWolf with my [custom theme](https://github.com/RemyIsCool/AnimatedFox)\n\nSystem Monitor: btop\n\nEditor: Neovim\n\nFont: JetBrains Mono\n\nGTK Theme and Icons:[ Gruvbox Material GTK](https://github.com/TheGreatMcPain/gruvbox-material-gtk)\n\n[Wallpaper](https://gruvbox-wallpapers.pages.dev/wallpapers/irl/forest-2.jpg)\n\n[Dotfiles](https://github.com/RemyIsCool/arch-dotfiles)",
-            "Man that's awesome. This is art.",
-            "Clean AF !",
-            "That looks cool, nice work mate \ud83d\udc4d \ud83d\udcaf",
-            "Hey this looks like my vibe. I am new to ricing Linux. Do you know of any good tutorials to learn this?",
-            "Thank you!",
+            "Abe Bhai Jake lecture dekh le ya kya kar raha, phale jee/neet karle phir Linux ke rabbit hole me jaio(meri tarha)...nice rice btw, I am also working on my first rice, will post it soon",
+            "Great rice! I love Catppuccin too! \nTry customizing your firefox though, the rest looks really cool!",
+            "I think he saw physics wallah in your browser",
+            "How are you getting the lsp definitions on right in neovim",
+            "Isn't that default? I didn't change anything just the keybind",
+            "The irony is... Main lecture pause karke ye reply de raha hun, thanks for the advice though. I believe you mean good but I am not targeting neither jee or neet and I am looking forward to your rice! Fyi I'll do something with mathematics idk what, as of right now I'm only studying boards level phy/chem and no bio.\n\nAnyway the real question is, how did you know I am from India. \nHow did you know I am in the age of JEE/NEET preparation?\nHOW DID YOU KNOW THAT MY LECTURE WAS RIGHT NOW? AND ALSO THAT IT'S ONLINE.. HOW DID YOU KNOW THAT?",
             "Thanks!",
-            "Thank you :)",
-            "Docs and other's configs"
+            "Aah yeah makes sense",
+            "Additional Note: I made this rice almost 3 weeks ago and posted it in r/LinuxPorn\n\n[https://www.reddit.com/r/LinuxPorn/comments/1da8x57/i3\\_my\\_first\\_rice\\_catppuccin\\_theme/](https://www.reddit.com/r/LinuxPorn/comments/1da8x57/i3_my_first_rice_catppuccin_theme/)",
+            "OS: Arch  \nWM: i3  \nBar: Polybar (by adi1090x)  \nShell: Bash\n\nDotfiles: [https://github.com/AnkushRoy-code/dotfiles.git](https://github.com/AnkushRoy-code/dotfiles.git)  \nNeovim Config: [https://github.com/AnkushRoy-code/neovim-cpp-config.git](https://github.com/AnkushRoy-code/neovim-cpp-config.git)  \nThe CLI tools I use are based on this blog post: [https://www.josean.com/posts/7-amazing-cli-tools](https://www.josean.com/posts/7-amazing-cli-tools)\n\nI also have a catppuccin themed Login Manager (SDDM) that looks nothing different then their github: [https://github.com/catppuccin/sddm.git](https://github.com/catppuccin/sddm.git)  \nI didn't share screenshot of this because IDK how to.\n\nThe programs running are:\n\n2nd Page: Neovim, neofetch, tree, ls  \n3rd Page: [fzf-git.sh](http://fzf-git.sh), fzf,  yazi  \n4th Page: cmatrix, [pipes.sh](http://pipes.sh), btop  \n5th Page: firefox, thunar"
+        ]
+    },
+    "[Hyprland] Sunflower": {
+        "title": "[Hyprland] Sunflower",
+        "score": 31,
+        "url": "https://www.reddit.com/gallery/1drbkou",
+        "content": "",
+        "num_comments": 13,
+        "comments": [
+            "it cute and all but my eye will kill me",
+            "That's a nice light theme rice here",
+            "That's pretty rad. I am interested in what Firefox extensions you are using - namely whatever formats your tabs.",
+            "It's so cozy and nice",
+            "How did you get the lined paper look in your terminal",
+            "This is gonna blow up.",
+            "Sunflower flourishes well under well-drained moist, lime soil. It prefers good sunlight. Domesticated varieties bear single large flowerhead (Pseudanthium) at the top. Unlike its domestic cultivar type, wild sunflower plant exhibits multiple branches with each branch carrying its own individual flower-head. The sunflower head consists of two types of flowers. While its perimeter consists of sterile, large, yellow petals (ray flowers), the central disk is made up of numerous tiny fertile flowers arranged in concentric whorls, which subsequently convert into achenes (edible seeds).",
+            "cute",
+            "",
+            ""
+        ]
+    },
+    "[OC] Firefox 128 will allow the main browser content background to be transparent": {
+        "title": "[OC] Firefox 128 will allow the main browser content background to be transparent",
+        "score": 13,
+        "url": "https://www.reddit.com/gallery/1dqws4b",
+        "content": "",
+        "num_comments": 0,
+        "comments": []
+    },
+    "[KDE6] OpenSuse Everforest !": {
+        "title": "[KDE6] OpenSuse Everforest !",
+        "score": 288,
+        "url": "https://www.reddit.com/gallery/1dqugs4",
+        "content": "",
+        "num_comments": 24,
+        "comments": [
+            "Where tf do yall find these hard ass backgrounds \nSick setup man ",
+            "that is a very nice color scheme!",
+            "This looks cool, nice work mate ",
+            "possible to get wallpaper link and bar config?",
+            "Everforest user myself. Gotta say this is so clean and solid! Can't really believe it was all done on a KDE.\n\nAlso, how did you setup Spotify? That's a really solid player theme I wanna have for myself",
+            "Wallpaper?  \nAnd where to get that image in neofetch?",
+            "Holy bro this is amazing, Im saving this for inspiration, also dotfiles possible?",
+            "This is amazing. Can i Get Wallpaper link please. Your wallpaper is so cool.",
+            "Nice rice , what is this wm I never heard of it",
+            "Looks amazing, especially in love with Floorp customization"
         ]
     }
 }

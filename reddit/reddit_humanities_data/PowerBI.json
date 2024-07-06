@@ -1,0 +1,77 @@
+{
+    "Exploring Microsoft Fabric? Join fellow Fabricators and ask questions @ /r/MicrosoftFabric": {
+        "title": "Exploring Microsoft Fabric? Join fellow Fabricators and ask questions @ /r/MicrosoftFabric",
+        "score": 4,
+        "url": "https://reddit.com/r/MicrosoftFabric",
+        "content": "",
+        "num_comments": 0,
+        "comments": []
+    },
+    "Power BI June 2024 Feature Summary": {
+        "title": "Power BI June 2024 Feature Summary",
+        "score": 32,
+        "url": "https://www.reddit.com/r/PowerBI/comments/1deabxv/power_bi_june_2024_feature_summary/",
+        "content": "Welcome to the June 2024 update. Here are a few, select highlights of the many we have for Power BI. You can now download large semantic models, Power BI enhanced report format (PBIR), and Subfolder support in Power BI Report Builder.  There is much more to explore, please continue to read on!\n\nhttps://powerbi.microsoft.com/en-us/blog/power-bi-june-2024-feature-summary/\n\nWhat's your favorite feature this month? ",
+        "num_comments": 33,
+        "comments": [
+            "Good update on PBIR, but was looking out for more core visual updates and conditional formatting options ",
+            "The ability to download large storage models is a nice addition! Now if I could also download models with incremental refresh, I'd be all set!",
+            "Anyone else lose the refresh pop up when refreshing data? The loading data, loading content to model, etc pop up?",
+            "I'm really hoping the visual calculations update comes thru for me. I keep running into weird UTZ calculations publishing from desktop to the app.powerbi.com service",
+            "As of this update, I can no longer deselect a selected object on my canvas by clicking the wallpaper area.",
+            "# \n\nDid they break certificate trust again? I'm getting this bad boy again - \"SSL Provider, error: 0 - Certificate chain issued by an authority that is not trusted\", and it's a MASSIVE disruption to the business. Is anyone else encountering this on Desktop?",
+            "It seems that only bookmarks that are not grouped are appearing in the pbir \n\nI can see the groups as well, but it only gives me a bookmark and name that appears under the group. I can't see any properties of the individual bookmarks that are grouped.",
+            "Did anyone else experience an issue with bookmarks associated to a button not working when it came to clearing slicers? I'm not sure if this is associated to this update but it started in June. The Business Unit had Clear All buttons (mainly in reports built out in 2020/2021) that would clear out slicers that existed in a conditional bookmark. For whatever reason that Clear All Button stopped working for those slicers. That being said it still does work for the filters on this visual & page within the Browser UI but not for the conditional hide/show slicers within the report itself. Browser being used is Microsoft Edge. Yes Business opened a ticket.",
+            "Also models that were modified with xmla endpoints",
+            "Big in the pro dev space though. New .PBIR files"
+        ]
+    },
+    "Power BI really needs an auto-formatter for DAX": {
+        "title": "Power BI really needs an auto-formatter for DAX",
+        "score": 26,
+        "url": "https://www.reddit.com/r/PowerBI/comments/1drbknr/power_bi_really_needs_an_autoformatter_for_dax/",
+        "content": "Other Microsoft programs, such as VSCode, has this type of functionality baked in.\n\nWhile I try to maintain good formatting, and there\u2019s obviously web tools that achive a similar result, it should really be native functionality in my opinion.",
+        "num_comments": 13,
+        "comments": [
+            "Yeah I dont use PBI that much anymore but the Dax formula bar I hated so much. It was tiny and no way to format things",
+            "Theres a website for you to paste your code into and it spits out the formatted version",
+            "I wish a switch function would automatically change the format if two different types were used , like # and %",
+            "Tabular editor has had this feature for years. You can also bulk format measures in a dataset.",
+            "Im a dumbass. Thanks Microsoft! I had no idea this got introduced, despite trying to stay up to date with the blogposts, etc.\n\nI knew about the new DAX query view, but havent really use it as old habits die hard I guess.",
+            "Lol have never noticed it. Thanks",
+            "Is it available for those on 2022 version? We got version control at our company",
+            "I had no idea either. Nice!",
+            "Which is true, and I made reference to it in my original post, but there is some potential concerns about using such websites if your operating in a critically sensitive environment, etc.\n\nI use it sometimes at my current job, but I suspect it will not be permitted at my next one (as the environment I am applying for is a bit more sensitive).",
+            "You can do that now, all you need to do is to select Dynamic in the format settings and then write a separate DAX for formatting rules (using SWITCH or IF functions)."
+        ]
+    },
+    "POwer BI Dashboard Design using dynamic image URLs": {
+        "title": "POwer BI Dashboard Design using dynamic image URLs",
+        "score": 172,
+        "url": "https://i.redd.it/hb937qeudd9d1.gif",
+        "content": "",
+        "num_comments": 28,
+        "comments": [
+            "Are you able to share this? I really like your filters",
+            "I need to create a star rating for the rating of 4.8. I havent figured out how to have partial stars",
+            "Are you currently working on Football Manager?",
+            "Truly inspiring design! Saving this one for later  Well done!",
+            "How are you doing the area drop down? That looks slick",
+            "Can you share this?\nI have so many questions!!!",
+            "damn thats one clean dashboard",
+            "This looks really nice, but the stock hover-icons on each object (for showing filters applied, and erasing slicer selections, etc) let it down a bit. \n\nI'd probably disable them all on a page this heavily skinned, and ensure the functionality can be achieved some other way. But I think you can change how they're formatted if you want to keep them?",
+            "Is there a reason you opted to make the top 2 visuals aligned and the same size but didn't follow that pattern with the bottom 2?",
+            "Bravo ! This looks slick !"
+        ]
+    },
+    "Reporting": {
+        "title": "Reporting",
+        "score": 2,
+        "url": "https://www.reddit.com/r/PowerBI/comments/1drd368/reporting/",
+        "content": "Is it faster for my report if I add fields to a table and summarize them or will it be faster if I create a measure summarizing the field I want?",
+        "num_comments": 1,
+        "comments": [
+            "Measure always"
+        ]
+    }
+}

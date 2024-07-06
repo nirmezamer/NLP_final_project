@@ -13,7 +13,7 @@
     },
     "Pi-hole Core v5.18 released to fix an Authenticated Arbitrary File Read with root privileges vulnerability": {
         "title": "Pi-hole Core v5.18 released to fix an Authenticated Arbitrary File Read with root privileges vulnerability",
-        "score": 82,
+        "score": 85,
         "url": "https://pi-hole.net/blog/2024/03/27/pi-hole-core-v5-18-released-to-fix-an-authenticated-arbitrary-file-read-with-root-privileges-vulnerability/",
         "content": "",
         "num_comments": 8,
@@ -21,53 +21,49 @@
             "v5.18.1 released to allow proper comparison.",
             "Docker image: `2024.03.1` (containing Pi-hole core v5.18.1)",
             "Hello pihole team, for a dumbass like me, can you explain in simple words what it does and how you fixed it?",
-            "good job\ud83e\udd18\ud83c\udffb",
-            "I'm having an issue updating from 5.17.3 to this latest one.\n\nI keep getting this error:\n\n> [i] Checking for updates...\nerror: inflate: data stream error (invalid code lengths set)\nfatal: packed object 974bba4a45427e628165e6e229984b810dcec2de (stored in .git/objects/pack/pack-89c2de7ea253cd07c1244f247d3ae4e7766bf986.pack) is corrupt\nfatal: the remote end hung up unexpectedly\n\nand then nothing updates. Any help?",
             "Small note, on my pi-hole web interface it does not show me that an update is available. does this take some time or?",
+            "The remote update check does not happen immediately, you'll eventually see the notice but it could take up to 24 hours. You can update at any time and you will get the newest version.",
+            "I'm having an issue updating from 5.17.3 to this latest one.\n\nI keep getting this error:\n\n> [i] Checking for updates...\nerror: inflate: data stream error (invalid code lengths set)\nfatal: packed object 974bba4a45427e628165e6e229984b810dcec2de (stored in .git/objects/pack/pack-89c2de7ea253cd07c1244f247d3ae4e7766bf986.pack) is corrupt\nfatal: the remote end hung up unexpectedly\n\nand then nothing updates. Any help?",
             "You could add a `file:///` in as an ad list and Pi-hole would read the contents of the file. If the contents were not domains then the non-used lines were printed to the terminal to show a sample of what lines were not being used, exposing the contents of the file. Now any files being used for lists need to be world-readable so sensitive files can not be accessed.\n\nYou would need admin access to exploit this, you'd have to be able to add a local file as an adlist and then view the output from `gravity` but it was not a good situation. It also only really became an issue when we added in the process to display a sample of unused lines from list sources. \n\nPossible solution was to remove the display of unused lines but that would remove what some users found to be a good thing, the better solution was to just limit what can be seen by Pi-hole/FTL.",
-            "The remote update check does not happen immediately, you'll eventually see the notice but it could take up to 24 hours. You can update at any time and you will get the newest version."
+            "good job"
+        ]
+    },
+    "Pihole with Unifi Dream Machine Pro": {
+        "title": "Pihole with Unifi Dream Machine Pro",
+        "score": 0,
+        "url": "https://www.reddit.com/r/pihole/comments/1drc8kw/pihole_with_unifi_dream_machine_pro/",
+        "content": "Hey all, looking for some help here....\n\n  \nI've just upgraded my network by adding a DreamMachine Pro....and its caused issues with my PiHole and I've had to disable it till I can figure this out...\n\n  \nMy setup WAS:  \nCenturyLink C4000X fiber modem which was set to use the PiHole's IP as the DNS server  \nThis connected to a switch which then had teh PiHole on it, and the rest fo my house\n\nNew Setup added teh Unifi Dream Machine between the modem and the switch, and that caused the PiHole to stop resolving. I tried a few different settings on the UDM to point its DCHP settings to use the PiHole but nothign worked. \n\n  \nHoping someone can shed some light on how i shoudl configure this :( ",
+        "num_comments": 8,
+        "comments": [
+            "Is the modem also a router or just a modem?",
+            "I did that, and it seemed to only work for some of my devices....not sure what was going on but like my ipad wouldn't get any internet via the wifi.....all 1 network and 1 vlan so confused...rolled it back to normal and its all working now",
+            "Its one of those all in ones that my ISP requires me to have.",
+            "PiHole is probably misconfigured then, thats all I had to do on my network.  Wipe your PiHole install and start over",
+            "It might help if you provide a network diagram including IPs and VLANs. There's not really any information in this post for anyone to give you good advice.\n\nI'm going to assume your PiHole is using a static IP of a network that isn't associated with a network in your UDMP. Your previous router probably used a different cidr range and your pihole is probably using a static IP on that range.\n\nIf I am correct, set the static to IP for your pihole to fall within range (but out of the DHCP range) of the network it should be part of. You can find this information in the unifi network application.",
+            "In UniFi go to Settings>Networks>click your network>DHCP>DHCP name server to manual and put in IP of your PiHole.  This will ensure all devices get assigned your PiHole IP as their DNS server.",
+            "This is what you do. I included screenshots. Works like a charm. \n\nhttps://www.reddit.com/r/pihole/comments/n3c7vr/for_anyone_using_a_unifi_udm_or_udm_pro_i_found_a/",
+            "I have all the devices in a single network, single VLAN, this is an as 'out of the box' basic setup as you can get =/ I do plan on separating out to have 2 networks so that i can put all my smart home devices on a 2nd wifi network but i haven't gotten that setup yet\n\n  \nPiHole (and everythign else) are on the same network, IP range it lists is [192.168.1.6](http://192.168.1.6) to 254, the piHole is on a fixed IP of .61"
+        ]
+    },
+    "PiHole on Docker - Can't access from other devices in the network": {
+        "title": "PiHole on Docker - Can't access from other devices in the network",
+        "score": 0,
+        "url": "https://www.reddit.com/r/pihole/comments/1drb1v5/pihole_on_docker_cant_access_from_other_devices/",
+        "content": "First time using Pihole and Docker today I managed to set it up *somehow* on my Win11 computer.\n\nAs of right now I can access the web interface of Pihole and can connect to the DNS server using my local ip address ([192.168.188.50](https://192.168.188.50) or [127.0.0.1](https://127.0.0.1)) on the host PC.\n\nHowever I can't seem to connect to the DNS from other devices. I put [192.168.188.50](https://192.168.188.50) as the DNS on my phone and ads are not being blocked there.\n\nAny tips appreciated",
+        "num_comments": 1,
+        "comments": [
+            "> However I can't seem to connect to the DNS from other devices. I put 192.168.188.50 as the DNS on my phone and ads are not being blocked there.\n\n\"Ads not being blocked\" doesnt mean anything really. Does the device use Pihole yes or no? When you open the querylog in the Pihole interface, do you see queries coming in from that device?\n\nYou should provide a lot more details of your setup. I would also suggest you read the documentation and the sticky FAQ thread here."
         ]
     },
     "Pegboard and older tech = stats screen": {
         "title": "Pegboard and older tech = stats screen",
-        "score": 25,
+        "score": 24,
         "url": "https://www.reddit.com/r/pihole/comments/1dqhp3h/pegboard_and_older_tech_stats_screen/",
         "content": "[Stats](https://preview.redd.it/5qicv6mjva9d1.jpg?width=4080&format=pjpg&auto=webp&s=dbfda9201090f7ee51537031d8f53ef68f423e5c)\n\nUsing an old Lenovo Yagobook Win 11 tablet, some Skadis pegboard realestate and a fullscreen Chrome window, here's a nice Pi-Hole stats monitor. It also shows a screensaver clock but this will be a nice addition.",
         "num_comments": 2,
         "comments": [
             "I'm a sucker for repurposing old tablets into displays for things like this around the house.  Looks great!",
-            "That\u2019s clever!"
-        ]
-    },
-    "Chrome/Brave Font Issue - What could be causing this?": {
-        "title": "Chrome/Brave Font Issue - What could be causing this?",
-        "score": 9,
-        "url": "https://i.redd.it/g66tb6fjtb9d1.png",
-        "content": "",
-        "num_comments": 8,
-        "comments": [
-            "You need to add \"fonts.gstatic.com\" to your whitelist",
-            "You need to provide more information.\n\nWhat is the Operating System? Browser version? Do you see any error or warning message related to fonts in your browser's Console (developer tools)?\n\n**EDIT:**\n\nOne more question: Do you have the font *\"Source Sans Pro\"* locally installed in your machine? If you do, that's probably an issue with your local font. Uninstalling the font should fix the issue.",
-            "When I load the page via Firefox, Edge or Safari it looks fine but in Chrome/Brave it comes up like this. Multiple instances too. Thoughts?",
-            "If you open it up in Chrome on another computer, does it also do that? And have you tried deleting the browser cache?",
-            "You not using Firefox causes this.",
-            "This is the issue. I\u2019m not sure why some blocklists include this.\u00a0",
-            "The web interface fonts are served from Pi-hole itself.",
-            "The computer i'm accessing the console through is not going through PiHole though..."
-        ]
-    },
-    "Will pi-hole work across the whole network if it's only hooked up to an AP within the network? ": {
-        "title": "Will pi-hole work across the whole network if it's only hooked up to an AP within the network? ",
-        "score": 0,
-        "url": "https://www.reddit.com/r/pihole/comments/1dqytc7/will_pihole_work_across_the_whole_network_if_its/",
-        "content": "Hi, so I set up a pi-hole yesterday but I only hooked it up to the access point within my home office but not on the router that feeds all the APs around the house. Can I still use pi-hole as my DNS server across all the other APs and the main router or is it limited to just this one AP I have it hooked up to? \n\nMy limited knowledge on networking tells me that the answer is yes, but I needed to know for sure. ",
-        "num_comments": 5,
-        "comments": [
-            "Should be able to, just be aware all of your networks DNS traffic will then be routed through that AP.  Traffic is lightweight so that generally isn't an issue as much as reliability (if it's wifi connected).",
-            "Either the PC or the router gets configured with the DNS server address, or both.  So, whoever uses the DNS server address uses the pihole and it's features.  The AP itself isn't handing out the DNS server, unless you specified that somewhere, but they don't usually do that.  APs just provide access to the network.  But the router will hand out the DNS server address, and you can still specify on the machine a DNS server to use or bu default it will generally use what is configured on the router.",
-            "Can the devices on all of your networks ping the Pi-Hole and port 53 hasn't been blocked? If so, it should still work if the Pi-Hole is set as their DNS.",
-            "So it would be more suitable if the pi-hole was hooked up to the house's main router right? The same router feeding all the other APs?",
-            "Yes, though it shouldn't necessarily be a requirement.  Usually an AP provides a wifi layer to your home LAN, so it can be connected directly to the router, or through an access point and still receive DHCP from the same central router.\n\nWhat is important is that you configure the DNS server address that your router hands out to the rest of the client on your network to be the local address of the pihole.  That way everyone is directly to that machine.  If you do a wifi DNS server, whenever that wifi has issues all of your network might experience DNS issues.  So yes ideally using a wired connection is recommended."
+            "Thats clever!"
         ]
     }
 }

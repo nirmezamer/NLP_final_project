@@ -1,77 +1,79 @@
 {
     "I just got my device what should i do?": {
         "title": "I just got my device what should i do?",
-        "score": 762,
+        "score": 761,
         "url": "https://www.reddit.com/r/LenovoLegion/comments/w2e94l/i_just_got_my_device_what_should_i_do/",
         "content": "**Welcome!**, and congratulations on your new gaming laptop! Make sure to keep the box and papers that came with your laptop intact, just in case you need to return it later.\n\n*To ensure a smooth start with your new device, we recommend following these steps:*\n\n1. Fully charge and drain your laptop battery on first use to re-calibrate it.\n2. Run Windows Update to install necessary security updates and drivers. This can take anywhere from a few minutes to an hour.\n3. Once Windows Update is complete, visit the Nvidia website to download the recommended driver for your graphics card. Ask for a recommendation in our Discord server's questions channel if you need help.\n4. After the download, execute the .exe and select \"custom\" install. Then, choose \"clean install\" to ensure everything installs correctly.\n5. Restart your device to complete the installation.\n6. Configure Windows settings to your preference, and consider removing McAfee if it came pre-installed.\n7. Open the Windows Store and check for updates. Once the updates are complete, open Lenovo Vantage.\n8. When opening Vantage, it will prompt you to continue the installation. Proceed with the installation.\n9. For now, we recommend leaving Lenovo Vantage settings on stock and trying out the different power modes using the FN+Q shortcut.\n10. Finally, it's a good idea to check your laptop physically and run a benchmark/stress test. Notebookcheck.net has a helpful guide on how to do this: [**https://www.notebookcheck.net/Guide-How-to-check-a-new-laptop-for-issues.232476.0.html**](https://www.notebookcheck.net/Guide-How-to-check-a-new-laptop-for-issues.232476.0.html)\n\nPlease note that while we normally suggest updating drivers through the Lenovo support site, we recommend testing your device for a week before updating.\n\nWe hope you enjoy your new Legion device, and don't hesitate to ask for help or advice in our community!",
         "num_comments": 195,
         "comments": [
             "Enable Battery Conservation in Vantage if ya are going to keep it plugged most of the time",
-            "Lenovo Legion Toolkit (Free)\n\nUninstall Vantage and get Lenovo Legion Toolkit. A light weight and more intuitive program that IMO is more powerful than Vantage. The dev has seriously been crushing it with the latest updates. My favorite addition he added is customizable actions that will run when the laptop either gets plugged in/unplugged, for example, when my laptop gets unplugged, it automatically goes into the (blue) quiet mode and trackpad enabled and inversely, the laptop will go into balanced mode and trackpad disabled when the laptop gets plugged back in.\n\nhttps://github.com/BartoszCichecki/LenovoLegionToolkit\n\nLegion Fan Control (Free)\n\nAlso, download Legion Fan Control to be able to setup customizable fan curves (if interested)\n\nhttps://www.legionfancontrol.com\n\nMicrosoft Power Toys (Free)\n\nAlso, download Microsoft Power Toys, a small program that has many features and  adds a lot of functionality to your computer and is free. My 2 most used are PT Awake and PT Run. If you have a Mac this is basically \u201cCaffeine/Amphetamine\u201d and \u201cAlfred\u201d.\n\nhttps://docs.microsoft.com/en-us/windows/powertoys/",
-            "Take a photo, upload it to social media tagging u/LenovoLegion \u270c\ud83c\udffc\ud83d\ude01",
+            "Take a photo, upload it to social media tagging u/LenovoLegion ",
             "I heard that McAfee is just bloatware. I see it is pre-installed. Should I really uninstall it? Sorry coming from a Mac so not too familiar.",
-            "1) Disable windows fast startup if you want to not have annoying AF stutters every 5-60 minutes. Seriously. You have no idea how much trouble this caused. I had given up and committed to never buying Lenovo again until I randomly came across a solution. It\u2019s not Lenovo specific. It\u2019s just a terrible feature.\n\n2) Get rid of the battery and performance killer that is ICUE. You can keep your RGB profiles. Here\u2019s a vid. https://youtu.be/UTX-KpQqD-4. Or switch to OpenRGB, but the video instructions is the lightest weight alternative. Bonus: no more rave lights on startup/shut down - keep your profile throughout!\n\n3) See other top comment about getting rid of the Vantage bloatware and also do that.",
             "Getting mine delivered tomorrow thus is super helpful thanks.",
             "Imagine not just installing games and playing them.",
             "I didn't fully charge and drain my battery upon first start-up, is it worth doing it now over a month later? I'm new to gaming laptops.",
-            "Not Legion specific but if you have 2 SSD drives you can set the page file on the \"Non Windows\" drive and speed up the boot process.  Its not by much but its noticable.  \n\nTo get to the \"Virtual Memory\" (Page File Settings) right click \"This Computer\" and bring up properties and go to advanced system settings, or search for \"advance system settings\" go the the advanced tab, click on Performance Options> advance> Virtual Memory > Change > And then remove the paging file from the windows drive and put a system managed file on the other drive.\n\nAgain - no performance gain if you don't have 2 physical drives.  You can always delete the paging file but windows can start having strange issues at times even if you have a ton of ram.",
-            "My system is win11 and the driver stated in the OP isn't showing for me.\n\nIf anyone else has had this, does anyone know which option will be best?\n\nThank you"
+            "i always do a image after i setup my new laptop with all apps and configuration perfectly so i can restore in minutes, i recommend acronis trueimage",
+            "Does anyone have an alternative for a smaller charger? Im keeping my 300 watt at home but I want to get something smaller for when Im at school and on travel.",
+            "About the ram, is there a way to verify if I got the slower ram or faster ram without open the hood ? \nIf I got slower ram, would it be okay ?\nI want to upgrade to 32g (=200$ ADATA brand) but I dont have the budget yet.",
+            "These are great tips! I'm expecting a legion 5 pro (from yesterday's posted Walmart deal) in a few days so, having setup info to look over before that happens is badass"
         ]
     },
     "This might be the coolest looking BIOS I\u2019ve ever seen": {
         "title": "This might be the coolest looking BIOS I\u2019ve ever seen",
-        "score": 3,
+        "score": 76,
         "url": "https://i.redd.it/u99w8lai0h9d1.jpeg",
         "content": "My laptop (Lenovo Legion 5 pro 16ACH6H) had some heating issues so I wanted to factory reset my pc using a usb recover key. This is the first time l've entered the bios in this laptop, and I was surprised to see this. The only bios l've entered into before this are from hp and dell, and they looked like they were made in the 90s.",
-        "num_comments": 1,
+        "num_comments": 21,
         "comments": [
-            "Agreed. What a funny feeling seeing this clean UI. I might have to enter the bios myself!"
+            "Agreed. What a funny feeling seeing this clean UI. I might have to enter the bios myself!",
+            "We have same machine and I dont remember entering BIOS yet. This is my sign",
+            "The mux switch or graphics device in the bottom right corner, is most useless feature in entire computing history. In Linux the dynamic graphics will consume exactly as much battery as discrete graphics, because nvidia driver and GSP firmware have been broken for 1.5 years, there are countless topics about this.",
+            "how do you enter bios?",
+            "i have an ideapad gaming 3 gen 6, i gotta say im Jealous cuz when i open my bios i get a white background with small text and brightness set to 110%",
+            "Oh wow thats the exact same spec as my legion laptop. For the heating issue after getting a laptop stand my temps dropped alot",
+            "My lenovo legion (rtx 2070 i7 8gen) Still have 90s looking bios how can i change it?",
+            "And it works very well too!",
+            "Lol amusement aside, I'm confused as to why your first thought is a factory reset when you're overheating",
+            "Yeah my Pro 5s BIOS definitely looks much better than the other laptop I have. While I dont know if its changed since then, my thinkpad P1 gen2 still gives you an old gray and blue screen that has to be navigated via arrow keys."
         ]
     },
-    "got my first gaming laptop please suggest what should i do first and benchmarks ": {
-        "title": "got my first gaming laptop please suggest what should i do first and benchmarks ",
-        "score": 41,
-        "url": "https://i.redd.it/gjco4980hb9d1.jpeg",
-        "content": "rtx 4060 legion 5 pro i7 14750hx",
-        "num_comments": 102,
+    "Legion 7 skin wrap": {
+        "title": "Legion 7 skin wrap",
+        "score": 25,
+        "url": "https://www.reddit.com/gallery/1dr8rvv",
+        "content": "",
+        "num_comments": 21,
         "comments": [
-            "First you should update windows and drivers, second thing is to play elden ring",
-            "Firstly, congrats on your new laptop.\n\nThere are many youtube videos for what to do after you buy a new laptop search there.\n\nFor benchmarking try using passmark performance test it gives you an idea of how your laptop competes against similar speced machines. Finally isn't your laptop processor i7 14650hx? you mentioned it has 14750hx.",
-            "I have the same laptop, of the same specifications, I got for 1.55L enjoythis beast buddy, for the first time using the laptop, don't just install game and play, firstly charge the laptop to 100 then drain it till 0, it will make the battery to go to the optimal state, 2nd play games only on AC charger, otherwise battery health will be degraded too much",
-            "delete the bloatware (mcafee *cough cough*)",
-            "Congratulations!!",
-            "Congrats!\nAlso following the thread as I\u2019m curious too :)",
-            "Run llama3",
-            "I suggest buying a cooling pad",
-            "-Use vantage to run full diagnosis and updates\n-Uninstall anti-virus and bloatware. Bloatware: Vantage tool adds a lot of stuff so either uninstall them one by one and/or go to \"run apps on startup\" settings and uncheck.\n-set battery charging limit (first do a full cycle of 100%->0% )\n\n-Undervolt (if you know/want to boost power and lower temps):\nSet bios undervolting protection to off\nInstall XTU or throttlestop\nReplace vantage with toolkit if you wanna",
-            "What price did you get it at?"
+            "The skin is amazing. Just wondering where did you get this skin it covers the keyboard as well. I haven't seen many laptop skins covering the keyboard area.",
+            "Hey could you share where you got the skin? I havent seen anything like this one before",
+            "Where did you buy it?",
+            "If I had 13 years I'd get it. It looks nice to my inner child",
+            "Holy cow! That is one of the best looking skins I ever saw on a laptop.",
+            "Now this one looks cool, can I get the link for this skin",
+            "Op can you just please tell us which country youre from and from where youve bought it, PLZ!",
+            "I wouldn't do this on a gaming laptop, it affects your cooling when over heating is already a huge problem on the bare gaming laptop",
+            "Thanks! Glad you like it also. I get it here on my country I found a shop that makes custom skins for phone,tablets and laptops short speaking for almost all of the gadgets.",
+            "Got it on a shop here on my country, they do a lot of custom skin wrapping for different kind of gadgets."
         ]
     },
-    "Question about Lenovo legion tablet y700 2023": {
-        "title": "Question about Lenovo legion tablet y700 2023",
+    "I joined the crew. ": {
+        "title": "I joined the crew. ",
+        "score": 7,
+        "url": "https://i.redd.it/bbnzsli1th9d1.jpeg",
+        "content": "Legion Pro7 with RTX 4080 as my private laptop.\nThe white Legion 7 with RTX 4070 for work.\n( I only run Unreal Engine and did a few Vray renderings on it, and I'm super happy).  GPU temp during unreal engine and rendering is around 69\u00b0 Celsius. Same temperature for my private 4080 when I play RDR2 for several hours.  I sadly experienced one Bluescreen already and a few times rdr2 crashed. Not sure why. Any ideas?",
+        "num_comments": 3,
+        "comments": [
+            "I want the money to rain in my yard as in yours",
+            "Oh I only purchased one and the other one is from my employer. It's my first Laptop since 2014. ;)",
+            "Love my pro 7 4080 too, what stand you using?"
+        ]
+    },
+    "Any issues with AMD cpus on linux?": {
+        "title": "Any issues with AMD cpus on linux?",
         "score": 1,
-        "url": "https://www.reddit.com/r/LenovoLegion/comments/1dr6du6/question_about_lenovo_legion_tablet_y700_2023/",
-        "content": "I've got my legion tablet y700 2023 from AliExpress.. it's came with bootloader already unlocked and a crappy fake  global custom ROM..so i flash the latest official global stable Rom by RSA everything is fine the tablet is super smooth.. just I would like to relock the bootloader.. it's safe to do it? and how I should proceed .. since on developer options menu the OEM Lock/unlock Is grayed out ",
+        "url": "https://www.reddit.com/r/LenovoLegion/comments/1drcqrg/any_issues_with_amd_cpus_on_linux/",
+        "content": "I'm thinking of buying a Legion 5 with choices in both intel and amd and on windows+amdcpu I've seen people get problems related to sleep and a ryzenmaster something driver crashing. Are there any major issues on Linux related to amd cpus that i should be aware about?",
         "num_comments": 0,
         "comments": []
-    },
-    "Is this legit legion keyboard?": {
-        "title": "Is this legit legion keyboard?",
-        "score": 31,
-        "url": "https://i.redd.it/uq0yjmhzfa9d1.jpeg",
-        "content": "",
-        "num_comments": 35,
-        "comments": [
-            "Standard Legion keyboard for the UK Region.\n\nWhat makes you think it isn't legit?",
-            "Tf is a \u201clegit keyboard\u201d supposed to look like? It\u2019s a keyboard",
-            "It\u2019s\u2026. a keyboard. I can tell you that.\n\nJokes aside, yes it\u2019s legit. But what would be \u201cnot legit\u201d in your case?",
-            "No copilot key no legit",
-            "I\u2019ve just realized that if I ever work overseas I will have to bring my own keyboard",
-            "Yeah it's legit, that's ISO layout.",
-            "That's ISO layout, so yeah it's legit",
-            "Doesn't look any weird. It's just the uk keyboard. @ and \" are each in other's place and \u00a3 is on button 3.",
-            "Blud posted the same thing on the Gaming Laptops subreddit saying is this keyboard normal. \nYeah duh it sure is normal",
-            "Looks exactly like mine. Uk stupid question tho im happy to answer"
-        ]
     }
 }

@@ -1,0 +1,62 @@
+{
+    "/r/SuggestALaptop's Official Discord - feel free to join and ask questions!": {
+        "title": "/r/SuggestALaptop's Official Discord - feel free to join and ask questions!",
+        "score": 148,
+        "url": "https://discord.gg/MvkJvre",
+        "content": "",
+        "num_comments": 82,
+        "comments": [
+            "How do i get the verify button? It doesn't apper.",
+            "It is normal that there isn't a place to chat?",
+            "Any recommendations for laptops mainly for online college courses? Preferably touch screen as well.",
+            "I found a lenovo gaming laptop with a 3060 GPU and a Amd ryzen 5 5600h CPU,fpr 899,but it comes with only 8 gb of ram.Is it worth buying it and if so how simple is it to upgrade it to 16 gb of ram?",
+            "Im looking for a laptop in the $500-$700 range that could work for writing/light work as well as playing games like League of Legends and the Sims 4. Ive looked at some gaming laptops but wasnt sure what to go with or if I even need one?",
+            "Hello, seeing if anyone can help with my issue. I have a G15 rog strix Asus. One day the bios setup popped up and i had entered a administrator password. After it kept asking for password to enter my computer. Then I tried clearing password by entering old password and leaving new password blank. Now every time I start up it asks for password. Unfortunately none of the previous passwords work. And it started to not power on anymore. The charging light turned on briefly with the enter password window but it shut off by itself and won't turn on at all anymore. If you or anyone knows a solution, i'd greatly appreciate the help!",
+            "My laptop is suddenly too slow after i uninstalled realtek and audio drives, then i installed realtek again because my headset has no audio but it was working in other devices, it told me to restart just like usual, when the restart starts happening, it was suddenly unusually incredibly slow, so low in fact that i tried to shut it down and power on it again but i couldnt do it on the windows menu so i used my power button, how to solve this issue?",
+            "Im looking for a premium laptop.  Would you recommend the LG gram 17 or XPS 17 if money wasnt an issue",
+            "Just got a COVID scholarship that I don't really need. Any recommendations for a 2in1 for computer science? Is the HP envy x360 still an awesome deal? My budget is around $800.",
+            "Any go to older laptops that get resold used for a good value price around 100 euro? looking to use it for university/programing and would like it not to be bulky"
+        ]
+    },
+    "Help me fix this ": {
+        "title": "Help me fix this ",
+        "score": 6,
+        "url": "https://v.redd.it/qli8yalp4h9d1",
+        "content": "It happens when laptop is at sleep whole charging! Honestly worried about my screen \ud83e\udd72\ud83e\udd72",
+        "num_comments": 2,
+        "comments": [
+            "Ok I'll try that once thanks for the advice",
+            "If it only happens when it goes to sleep while charging, try going into your power options and setting it to hibernate rather than sleep\n\nSounds to me like there might be something fucky going on with the S3 sleep state, hibernate won't fix the problem but it should make it so this doesn't happen anymore\n\nYou could try a bios update too, could be a bug in the firmware causing this"
+        ]
+    },
+    "I want to buy a good 2-in-1 laptop": {
+        "title": "I want to buy a good 2-in-1 laptop",
+        "score": 2,
+        "url": "https://www.reddit.com/r/laptops/comments/1drcz8q/i_want_to_buy_a_good_2in1_laptop/",
+        "content": "Hello. \n\nI want to buy a 2-in-1 laptop. I don't know which one is good. Any suggestions? ",
+        "num_comments": 3,
+        "comments": [
+            "Yoga 9i, specter, lg gram, asus z13 or x13 are the best.",
+            "Dell latitude 7330",
+            "None"
+        ]
+    },
+    "Laptop does not display on its own monitor but does on external monitor ": {
+        "title": "Laptop does not display on its own monitor but does on external monitor ",
+        "score": 2,
+        "url": "https://www.reddit.com/r/laptops/comments/1drcfhb/laptop_does_not_display_on_its_own_monitor_but/",
+        "content": "I have a dell e6540 the problem I'm having is that it does not display after cold boot it does display to an external monitor I have tried to update the graphics drivers it works then the same cold boot problem happens the next day last night I used a restore point to fix it I have seen that the laptops display driver gets removed whenever it's cold booted what should be (it has no display today aswell) the fix for this \nThe self screen test works fine and the laptop boots fine fast boots disabled",
+        "num_comments": 0,
+        "comments": []
+    },
+    "can someone please help me? ": {
+        "title": "can someone please help me? ",
+        "score": 2,
+        "url": "https://i.redd.it/9f9h7655qi9d1.jpeg",
+        "content": "r/laptop \nr/pc\nI was trying to upgrade my pc, but i don't know what component is what, can somebody please help me? (English isn't my first lenguage, sorry if im not very good at it ",
+        "num_comments": 1,
+        "comments": [
+            "https://i.imgur.com/f4dp5g1.jpeg\nClick the link!\n\n1. CMOS battery\n2. RAM\n3. Main battery\n4. 2242 M.2 ssd\n5. Wifi card\n6. The top black pipe is your heatsink underneath it lies the CPU\n\nThe only two things really upgradable in your laptop would be the SSD which is the fourth one and the ram which is the second one. (Also it kind of depends on your model whether you can upgrade or not)\n\nI would recommend cleaning your CPU fan, and reapplying thermal paste underneath the heat sink on top of your CPU. \n\nThe SSD here is not the regular one, it's kind of like a normal SSD only half the size, I doubt it differs performance wise, although the additional screw bracket suggests that it can accommodate both the types but I still suggest you switch it with the variant that is already slotted in.\n\nIf you are extremely new to this I would suggest you go to an authorised technician.\n\nYou could ask them for parts or you could buy them yourself.\n\nIt would help if you could provide the model number and the model name of your laptop. \n\nHappy upgrading!"
+        ]
+    }
+}

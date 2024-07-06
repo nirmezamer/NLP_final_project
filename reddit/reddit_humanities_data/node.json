@@ -1,52 +1,68 @@
 {
-    "Levelling up as a nodejs developer.": {
-        "title": "Levelling up as a nodejs developer.",
-        "score": 8,
-        "url": "https://www.reddit.com/r/node/comments/1dlsczi/levelling_up_as_a_nodejs_developer/",
-        "content": "I want to apply Jobs for junior or mid level Nodejs developer. I want to know what concepts/projects should I delve into to up my skillset. \nI'm a fresh grad and I've made a few projects where I've implemented Restful Apis, Authentication(JWT), Resource based access Control, integrating cloudinary for file storage and abit of work related to Google ads API as well.\n\nWheee should I go from here, bcz I feel like this is pretty basic stuff and I want to know more of the core NodeJs stuff. Any resources, concepts would be welcome for me.",
-        "num_comments": 1,
+    "No framework for deep understanding? must know things for jr node.js dev": {
+        "title": "No framework for deep understanding? must know things for jr node.js dev",
+        "score": 10,
+        "url": "https://www.reddit.com/r/node/comments/1dr75g5/no_framework_for_deep_understanding_must_know/",
+        "content": "Hi. I'm new to Node.js and express. What do you think about going without using a framework for a while to get a better understanding? Express is very lightweight, very simple. I had friends who said you should learn a framework that is not simpler. Which framework would be better to learn?   \nI like the backend more. If I move forward with node.js, at some point I will have to get involved with the frontend and go full stack, right?  \nAnd the last question: What are the things that a jr node.js backend developer should definitely know?  \n",
+        "num_comments": 9,
         "comments": [
-            "Work on setting up background workers, try stuff like BullMQ, AWS SQS, RabbitMQ, etc.  \nTry out some frameworks like NestJS, Next/Nuxt and then try to build your own. You will gain so much by trying to build your own framework on top of Express with DI, Error Handling, CLI, layers etc  \nDig deeper into JavaScript, read \"You don't know JS\" if you haven't already. Look into the more advanced Node APIs, learn how to work with streams.  \nTry some ORMs out, check MikroORM and the powerful patterns it's based on.  \nWork with a few common third-party service APIs that are very popular on modern projects like Stripe, Paypal, Shopify, Mailchimp.  \nLearn more about networks, how SSL works, how proxy servers work.  \nCheckout Cloudflare Workers and build something with hono.  \nRead up more on OOP, SOLID principles and functional concepts to get the grip of both paradigms."
+            "You don't have to ever go to frontend if you don't want to. You don't have to do low level stuff without frameworks if you don't want to, but having some good knowledge of the theory will help you.",
+            "Arm level coding is fun... Backs away with very friendly grin on face waving head up and down and left and right... Just don't hurt my children, ok ?",
+            "I absolutely recommend learning vanilla node first. You dont need to be an expert, but, you should know the basics.",
+            "Learn vanilla and then definitely learn express js. You will see how frameworks work in general.",
+            "Learn vanilla. No Frameworks. If you can vanilla, frameworks are easier to learn. \n\nFor a beginner in Node i would recommend to learn:\n- Native Promises (how to promisify somerhing)\n- Async/await (easier way to make promises)\n- Event loop\n\nThose 3 can be done in parallel, because they are linked together. Sometimes it needs a little time to fully understand these. I had some junior dev that took over a year to completely understand Promises and the Event loop. It is not intuitiv for a beginner, so don't worry and try to ask as many times as you need. \n\n\nAfter thar learn:\n- Streams\n- Eventhandler\n- AbortionController\n\nThe rest can be learned by experimenting with those mentioned above.\n\nYou can learn this by making your own little express like framework. Try to understand the underlying concepts and how they could be implemented.\n\nFull stack is not a must, but will often be prefered. It doesn't hurt to learn FE related things. Even here you should start with the basics.",
+            "To extend on this, fundamental and core concepts and terminology you should learn, this is not necessarily an exhaustive list:\n\n* declaration vs assignment\n* var/let/const - the differences, when and why to use which (or to not)\n* function signatures, declaration, invocation (understand what each one is, what the difference is)\n* primitive types\n* parameters vs arguments\n* object references\n* scope & closures\n* \"this\" context\n* arrow functions vs regular functions, anonymous/named functions, IIFE\n* order of boolean expression evaluation\n* callbacks (function arguments passed by reference)\n\nIt's crucial you understand the fundamentals in order to be able to ask clear technical questions as well as understand the answers given to you, because technical terms have very specific meanings and refer to specific things.",
+            "RemindMe! -7 day",
+            "Nest.js + angular",
+            "I will be messaging you in 7 days on [**2024-07-06 11:02:27 UTC**](http://www.wolframalpha.com/input/?i=2024-07-06%2011:02:27%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/node/comments/1dr75g5/no_framework_for_deep_understanding_must_know/latdsf8/?context=3)\n\n[**CLICK THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Fnode%2Fcomments%2F1dr75g5%2Fno_framework_for_deep_understanding_must_know%2Flatdsf8%2F%5D%0A%0ARemindMe%21%202024-07-06%2011%3A02%3A27%20UTC) to send a PM to also be reminded and to reduce spam.\n\n^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%201dr75g5)\n\n*****\n\n|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|\n|-|-|-|-|"
         ]
     },
-    "Roast my resume": {
-        "title": "Roast my resume",
+    "Exploring Advanced Backend Development in Node.js: Seeking Advice and Insights": {
+        "title": "Exploring Advanced Backend Development in Node.js: Seeking Advice and Insights",
+        "score": 3,
+        "url": "https://www.reddit.com/r/node/comments/1dr7j62/exploring_advanced_backend_development_in_nodejs/",
+        "content": "Hey everyone! \ud83d\udc4b I'm diving into building a robust event management website using Node.js, Express.js, GraphQL, MongoDB, MySQL, [Socket.io](http://Socket.io) for real-time chat, and a message broker. My goal is to implement features like event creation, management, booking tracking, revenue generation, and more.\n\nI'm new to microservices and API gateway architectures and would love to hear your advice on:\n\n* Essential functionalities to include for a comprehensive backend.\n* Best practices for microservices and API gateway integration.\n* Any resources or tutorials you recommend for mastering these concepts?\n\nLooking forward to your insights and suggestions! Thanks in advance!",
+        "num_comments": 4,
+        "comments": [
+            "- Forget about micro-service, it is only for huge applications. It got hype, but most of the time the only thing it brings is complexity\n- Why using two types of DB? I'd say to use only one (and personally in your context I go for SQL )\n- Do not hesitate to add a framework and ORM to ease the development and give you structure especially if you are new. ( nestJS & TypeORM/Prisma for example )",
+            "I know intermediate level sql queries, but planning to use mongodb for storing user info and rest data is stored in the SQL.",
+            "I know express, complete newbie in nestJs.",
+            "Why mongo and mysql?"
+        ]
+    },
+    "Build your CRUD backend in 20min with Eicrud + MongoDB": {
+        "title": "Build your CRUD backend in 20min with Eicrud + MongoDB",
         "score": 2,
-        "url": "https://i.redd.it/vmkv0vt8c48d1.png",
+        "url": "https://github.com/eicrud/eicrud-tutorial",
         "content": "",
-        "num_comments": 3,
+        "num_comments": 2,
         "comments": [
-            "Bullets should be accomplishments for the business, not tasks that you've done. How'd you help your company with your rest API? Links to real things (sites, projects, repos) help your case.",
-            "Good observation. Most companies hire people to implement their project, but they don't mention the business impact of that solution.",
-            "In fact I wanted to talk about accomplishments but didn't know how, can you give me an example on how to reformulate some of my experience bullets?"
+            "[Eicrud ](https://github.com/eicrud/eicrud)is a CRUD/Authorization framework based on NestJS. I made this tutorial to demonstrate how it can save you tons of time when building your applications. The process is streamlined with terminal commands to make your life easier."
         ]
     },
-    "Vscode Terminal BLUE DOT": {
-        "title": "Vscode Terminal BLUE DOT",
-        "score": 1,
-        "url": "https://i.redd.it/0cwlv4m0748d1.png",
-        "content": "I am concerned about the \"Blue dot\" \ud83d\udd35 appears in the terminal window. I want to know how to enable and disable it in the vs code settings? I have encircled with  red highlight in the image. Please tell me about this.",
+    "Blog post about a POC I did to dynamically derive asynchronous domain models": {
+        "title": "Blog post about a POC I did to dynamically derive asynchronous domain models",
+        "score": 3,
+        "url": "https://conner.dev/blog/async-tree-traversals",
+        "content": "",
         "num_comments": 1,
         "comments": [
-            "A blue dot means that command was successful. A red dot means they there was an error."
+            "All of the source code can be found here: [https://github.com/creativecreature/poc](https://github.com/creativecreature/poc)"
         ]
     },
-    "Fetch with timeouts and intercepts": {
-        "title": "Fetch with timeouts and intercepts",
-        "score": 1,
-        "url": "https://www.reddit.com/r/node/comments/1dluamj/fetch_with_timeouts_and_intercepts/",
-        "content": "I wanted fetch with timeouts and intercepts, so I made a new library. This is something that can replace all calls to fetch in a web app/server - it just calls the original fetch method under the hood.\n\nYou can also add interceptors and timeouts - either on a per-request basis or to the entire instance. You can also create a new instance, and optionally extend the options on the original instance. Timeouts also work with an existing abort signal!\n\nOh, and it's tiny - under 1kb gzipped for the minified output.\n\nhttps://github.com/nvitaterna/grabd\n\nhttps://www.npmjs.com/package/@nvitaterna/grabd\n\nOne quirk is that interceptors either need to return request arguments, or the response, or throw an error. This is to ensure the each interceptor has the same input/output. The code needs a cleanup and tests aren't 100% there... And I still need to make some improvements:\n\n* being able to set *any* fetch option as a default on an instance\n* improve request/response interceptor interface based on feedback\n\nPlease give me any and all feedback and/or criticism, suggestions on what to improve, etc.",
-        "num_comments": 0,
-        "comments": []
-    },
-    "What tech-stack would you suggest for an LMS like Coursera?": {
-        "title": "What tech-stack would you suggest for an LMS like Coursera?",
-        "score": 1,
-        "url": "https://www.reddit.com/r/node/comments/1dlsj4v/what_techstack_would_you_suggest_for_an_lms_like/",
-        "content": "I'd like to hire a node.js developer for the backend of a project which is similar to a mash up of Coursera dn Duolingo. I would like to know your opinion on what tech-stack (with the node as backend development) is good to keep the project scalable?",
-        "num_comments": 1,
+    "Review my project": {
+        "title": "Review my project",
+        "score": 4,
+        "url": "https://www.reddit.com/r/node/comments/1dqxude/review_my_project/",
+        "content": "Hey everyone, I am definitely not comfortable doing this. I made the first fullstack app that I actually feel somewhat comfortable sharing. I would appreciate review of the node backend code.\n\nPS: The backend is hosted on render which has a 3 min cold start so please be patient as it starts up\n\nLive - https://waera-task-management.vercel.app\n\nCode - https://github.com/whoisrobb/waera-task-management\n\nSome features are not implemented yet but the core features are. I am a beginner never had any professional experience so I know I have definitely messed up lots of places but this is what I'm here for. Been told my backend code is \"tutorial code\" and I agree, would appreciate pointers on how to write professional code. I've been pushing asking for a review for weeks feeling I had complete all the features and cleaning up the code and ui but perfectionism is the death of progress",
+        "num_comments": 6,
         "comments": [
-            "Any modern tech stack would work. Since this is a node sub and depends on your budget, hire a fullstack node react developer"
+            "Looks pretty great, both the code and the website! Way better than most code on GitHub.",
+            "This doesn't even look half bad, at least looking from an UI/UX perspective! Congratulations!\n\nHaven't had time to look at the code though.",
+            "Where is validation code ?",
+            "You're using ts for nothing",
+            "A tip to keep the render server going, just set up a cron job to ping an endpoint on your backend every 10 mins and itll stop the server going inactive. Im doing this during development stage to save it going inactive and cold starting",
+            "Hey, so I noticed you have a login feature, but the routes seem unprotected? As in, the server doesn't really verify that params.userId is the user you're logged in as, right? (I couldn't find it from a cursory look on my phone.)"
         ]
     }
 }

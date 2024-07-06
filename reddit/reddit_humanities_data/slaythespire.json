@@ -1,21 +1,21 @@
 {
     "Frequently Asked Questions - Read Before Posting!": {
         "title": "Frequently Asked Questions - Read Before Posting!",
-        "score": 929,
+        "score": 925,
         "url": "https://www.reddit.com/r/slaythespire/comments/fu0xwq/frequently_asked_questions_read_before_posting/",
         "content": "This thread is aimed at answering common beginner questions about the game. However, it is not intended to teach in-depth strategies. \n\nIf you have a simple (1-2 sentence) question that's not answered below, leave a comment and I or another community member should be able to help. If your question is more complicated, feel free to make your own post about it.\n\n**General:**\n\n**1.** Are there any official mobile ports?\n\n* Yes! There is both an [IOS port](https://apps.apple.com/us/app/slay-the-spire/id1491530147) and an [Android port](https://play.google.com/store/apps/details?id=com.humble.SlayTheSpire).\n\n**2.** Why does Slay The Spire keep crashing on my IOS device?\n\n* Make sure Low Power Mode is turned off when you launch the game. You can re-enable it once you start playing.\n\n**3.** Do the Android and IOS versions have the same content as the PC version?\n\n* Android and IOS are both up to date with the current PC version of the game.\n\n**4.** Are there any card/relic tier lists or decklists?\n\n* No. Decklists and following an archetype is not encouraged, since what card/relic is \"the best\" depends heavily on what your deck currently has and what enemies you're going to be facing in the near future.  \n\n**5.** How do I unlock the characters?\n\n* The Silent is unlocked by completing a run with the Ironclad, and the Defect is unlocked by completing a run with the Silent. You do not need to win these runs, just complete them. The Watcher is unlocked by winning a run with any character while the Defect is unlocked.\n\n\n**6.** Will there be any more new characters or card changes? Does the card [\"Foreign Influence\"](https://slay-the-spire.fandom.com/wiki/Foreign_Influence) mean there's going to be a 5th character with the yellow color?\n\n* Unfortunately, the devs have said they [aren't planning on making any more new characters](https://www.reddit.com/r/slaythespire/comments/kcleuy/v22_hot_fix/gfsdodp/), and on Discord, they stated that [they can't majorly change cards anymore due to localization.](https://i.imgur.com/w1YfU1u.png) They also confirmed that the yellow string [is not referencing another character.](https://imgur.com/Wym6Cv0)\n\n**7.** Is the final boss based on what deck I've built?\n\n* No. Just like the map layout, store contents, and enemies you face, the final boss is determined when the run is first generated.\n\n**8.** Is there anything beyond Act 3?\n\n* Spoilers: >!An optional Act 4 can be unlocked with the [Keys](https://slay-the-spire.fandom.com/wiki/Keys).!<\n\n\n**9.** Do I get anything for winning?\n\n* When you defeat the Act 3 boss with a character, you unlock Ascension levels with them. These are incrementally challenging versions of the game, providing scaling difficulty for those who want more of a challenge. Spoilers: >!If you beat the Act 4 boss with a character on any Ascension level, you unlock Beta Art for that character's cards. If you defeat the Act 4 boss with all characters, you unlock Beta Art for Colorless and Curse cards as well.!<\n\n**10.** Do I keep anything in-between runs?\n\n* No. However, your points are retained, and at certain point levels, you'll unlock new cards and relics that can show up in future runs.\n\n**Strategy:**\n\n**1.** How do I get good at each character then?\n\n* In general, simply playing the game and learning what works in what situations is the best way to learn, However, a few general tips would be: \n\n> 1. Don't try to force an archetype (like a deck of all poison cards). These can be effective, but skipping good cards in the hopes of getting more archetypal cards will hurt your chance of winning.\n>2. Think ahead to what elites and bosses you'll be fighting this act. Many of them require your deck to have different capabilities (such as [Reptomancer](https://slay-the-spire.fandom.com/wiki/Reptomancer) requiring you to have AOE damage, and [Giant Head](https://slay-the-spire.fandom.com/wiki/Giant_Head) requiring you to have scaling damage.\n>3. Always try to have a well rounded deck. Don't go all-out in getting defensive cards and neglect offensive cards (and vice-versa). If you can, try to have a mix of Burst, Scaling, and AOE damage, so you can deal with the various enemy types you'll run across.\n\nA very helpful post by user /u/screwyioux with more detail on how to learn strategy and why certain choices matter can be found [here](https://www.reddit.com/r/slaythespire/comments/ev8mhx/slay_the_spire_high_ascension_guide/). I highly recommend taking a look if you feel like you're stuck losing and want to improve your play.\n\n**2.** Scaling? AOE? Burst?\n\n* \"Scaling Damage\" refers to sources of damage that continue to get stronger the more you use them in combat, such as [Claw](https://slay-the-spire.fandom.com/wiki/Claw) or [Poison](https://slay-the-spire.fandom.com/wiki/Poison). \"AOE (Area Of Effect)\" refers to cards that deal damage to multiple (or all) enemies at once, like [Whirlwind](https://slay-the-spire.fandom.com/wiki/Whirlwind). \"Burst\" refers to being able to deal a lot of damage all at once, like having several [Backstabs](https://slay-the-spire.fandom.com/wiki/Backstab).\n\n\n**3.** Is [Snecko Eye](https://slay-the-spire.fandom.com/wiki/Snecko_Eye) good or bad?\n\n* Snecko Eye is very good, unless the majority of cards in your deck are very low cost. The +2 draw alone makes the relic worthwhile, and the effect that randomizes card costs will on average lower the cost of cards in your hand. Snecko also gets dramatically better the more card draw and high cost cards you have in your deck. Content creator [Jorbs](https://www.youtube.com/channel/UCpjr4aOTbpvat8Y77e8dd_Q) has [an in-depth video](https://www.youtube.com/watch?v=ScSRbp9bfAA) discussing the value of Snecko Eye.\n\n**4.** Why do I see so many posts about [Corruption](https://slay-the-spire.fandom.com/wiki/Corruption) and [Dead Branch](https://slay-the-spire.fandom.com/wiki/Dead_Branch)?\n\n* Corruption is a very strong card on its own, since being able to play all your defensive cards for free can let you end hallway (and possibly even boss) fights quickly and efficiently. Dead Branch makes this even better, since it'll often generate more block or helpful cards that snowball you to victory.\n\n**Other:**\n\n**1.** \"Deck\" Vs. \"Draw & Discard Pile\"?\n\n* Your \"Deck\" is the cards that you start each combat with. Your Draw Pile & Discard Pile are a temporary version of your Deck that's used in combat, and all changes to it last for that combat only. Most enemies that debuff you in combat (like the [Sentries](https://slay-the-spire.fandom.com/wiki/Sentry)) will affect your Draw Pile. Most cards that permanently affect your run (such as [Lesson Learned](https://slay-the-spire.fandom.com/wiki/Lesson_Learned)) effect your Deck.\n\n**2.** Why didn't Fairy In A Bottle/Lizard Tail revive me?\n\n* You probably have [Mark Of The Bloom](https://slay-the-spire.fandom.com/wiki/Mark_of_the_Bloom), which prevents all healing.\n\n**3.** What do the subreddit user flairs mean? How do I get one?\n\n* Check [this post](https://www.reddit.com/r/slaythespire/comments/km48fd/new_flairs_added_for_achievements_including/) for an explanation on all the user flairs, and how you can assign one to your account.",
         "num_comments": 1598,
         "comments": [
             "Do you guys consistently defeat the heart? I've fought it three times and failed it every time. \nAlso is it acceptable to the community to reset a fight when you misplayed or about to lose?",
             "Sorry for the noob question but strategy point 1 says to plan ahead for elites. How do you tell what elites are coming up?",
-            "If you're coming to ask about the mobile release:\n\nBoth versions are finally available! [The IOS version can be found here,](https://apps.apple.com/us/app/slay-the-spire/id1491530147) and [the Android version can be found here](https://play.google.com/store/apps/details?id=com.humble.SlayTheSpire).\n\nIf your game keeps crashing when you try to launch it on IOS, make sure Low Power Mode is disabled.",
             "A breakthrough for me in skill level for this game was to think about how I would handle each elite in Act 1 and to pick a path that hits as many elites as possible. Collecting relics makes winning easier. I still default to my comfortable strategies but having a plan for the elites has helped me hit higher ascension levels on each character. For eg, Ironclad I almost always go for a Perfected Strike deck, and Silent is either poison or shiv. For Watcher I go high draw cards with Mantra, and Defect I go either Orbs or Claw, whichever I am given. Just hit Ascension 10 on all characters relatively easily but I can feel I've just scratched the surface of this game. Incredible game, can't believe I only discovered it this year.",
             "Having your card costs be randomized adds a weirdly fun aspect to the game in my opinion, I personally really like having to adapt on the fly and not knowing what the next card will cost... Maybe I'm just a masochist",
             "I think you should add that the non-PC ports are outsourced to another company to address the constant badgering for updates on those.",
-            "Is there a list of like \u201clittle known facts\u201d? What I mean is, I\u2019ll watch a streamer they\u2019ll say, \u201cYour odds of getting a fight in a ? room increases by 10% each time there isn\u2019t a fight.\u201d Baalorlord mentions these types of things all the time.",
+            "Is there a list of like little known facts? What I mean is, Ill watch a streamer theyll say, Your odds of getting a fight in a ? room increases by 10% each time there isnt a fight. Baalorlord mentions these types of things all the time.",
             "Petition to add how Mark of the Bloom prevents revival to this guide.",
-            "Question for someone 50 hours in. \n\nThe Act 3 boss I lose to EVERYTIME and Its always the time slug. Out of probably 25 deaths to him, I\u2019ve never encountered a different Act 3 boss. Am I doing something wrong lol",
-            "Not sure if this is the right thread:\n\n\nThis game is so fun and amazing. I had put it down for a while after beating the 3rd act with the soldier, and I was stuck on the poisoner for like 30 runs.\n\n\nI changed to the Orbs guy, and cleared Act 3 on my first run if playing him! It was so enticing and felt clever to cycle orbs (I had no idea what I was doing til act 2), stack lightning damage, and just so rewarding to blow up that giant head elite thing with using the card that does damage based of my 15 channel Lightning in a combat. This game is amazing. Thank you donut boss for being easy to kill for once"
+            "Question for someone 50 hours in. \n\nThe Act 3 boss I lose to EVERYTIME and Its always the time slug. Out of probably 25 deaths to him, Ive never encountered a different Act 3 boss. Am I doing something wrong lol",
+            "I'm pretty new, and something I've noticed is that I never really feel like my decks for the non-Defect characters ever quite achieve that \"aha!\" moment that I have with the Defect, where I hit critical mass and start to dominate encounters. Mummified Hand with a power build is such a clear and simple progression that I always fall back to it when I play the Defect.\n\nIn particular, I'm interested in the Silent, because I've never thought I was making a truly well-tuned deck with her, and I'm not sure what I'm missing. I tend to go for Shiv + Poison builds because those seem clearest to me, but I saw a video on here where they were doing a Calculated Gamble build that cycled the hand a lot to generate a lot of resources. I always avoided those kinds of cards because it seemed bad to rely on cards I can't play normally, but it's got me curious. What's the line of progression like in that sort of deck?",
+            "If you clear Act 3 but fail Act 4 do you still unlock the next Ascension level?"
         ]
     },
     "Official Steam page for Slay the Spire 2": {
@@ -25,70 +25,68 @@
         "content": "",
         "num_comments": 246,
         "comments": [
-            "OMG",
             "Guys I'm still not good at the first one!",
             "We can finally have the boss gauntlet where we fight the corrupted organs, working our way up to eventually fight the corrupted brain",
             "That bird is hitting for 6x5 damage on floor 6. Must be Byrd's big cousin.",
             "Where is Defect?? WHERE IS CLAW???",
             "Every card in StS 2 is a block card, since if I'm playing StS2, I'm not taking damage in StS 1.",
-            "Guys...if slay the spire 2 is so great...why isn't there a third\n\n\n\nOn a more srs note, I wonder how they'll change up the formula. Anyone see the hellraiser rare power on ironclad? Also summoner class is dope, maybe like a fleshed out version of defect orbs/downfall torchheads",
             "the new art style is interesting. \n\nIt's a lot grittier(maybe... dirtier even?) for the characters, monsters, and card art.",
-            "i think im most excited for the rebuilt game, and more modding support. i hear that they got a lot of tech debt that made it hard to make new things, and making mods for sts is quite hard tbh",
-            "April fools was 9 days ago !???????"
+            "April fools was 9 days ago !???????",
+            "Interesting. I was expecting a new IP but I'm curious how they will innovate on the original game. Gives me a Hades --> Hades 2 kinda vibe but I'm very excited nonetheless.",
+            "The defect looking bug in the art is throwing me off? Is our friend the enemy now?",
+            "The symbiote screenshot has something that says you can enchant an attack with corrupted which sounds like there will be specific card enhancements like in monster train. I dig it!\n\nI wonder if corrupted makes it a free attack but it exhausts?"
+        ]
+    },
+    "Day #6 of drawing badly until StS2 comes out": {
+        "title": "Day #6 of drawing badly until StS2 comes out",
+        "score": 256,
+        "url": "https://i.redd.it/2c1mq5gpqh9d1.png",
+        "content": "",
+        "num_comments": 17,
+        "comments": [
+            "Penguin these are great! Really love the creativity of including the player",
+            "You draw so badly that you make the Ironclad look like he has only one eye! Impressive work!",
+            "I can't wait for day #9 when penguin enters a shop with 1 gold less than needed to buy a membership card",
+            "Cant wait for these series to end",
+            "ironclad going \"hiyah\" like Fox whenever he strikes is now canon",
+            "Fun fact: \"full of lice\" is, in fact, the etymological origin of \"lousy\".",
+            "What POS would have the Ironclad saying the same line as the worthless thieves?!",
+            "So you could say their ironclad is... Defective?",
+            "Don't slander this masterpiece like that.",
+            "Let me try again: I hope youll continue them after StS2 comes out"
         ]
     },
     "Dude will you STOP!?": {
         "title": "Dude will you STOP!?",
-        "score": 68,
+        "score": 238,
         "url": "https://i.redd.it/s7awi6oz0g9d1.jpeg",
         "content": "Man if I have a buck everytime this happens I\u2019m gonna be rich. Can\u2019t I just sell this huh you damn merchant!",
-        "num_comments": 7,
+        "num_comments": 19,
         "comments": [
-            "The Spire\u2019s telling you to count your blessings",
+            "The Spires telling you to count your blessings",
             "i found i got a lot better at the game when i realized that potions are supposed to be used *frequently*. Use it to save a bit of hp, even like 5-6 most of the time is good enough for smaller potions like this. You dont need to use them as a silver bullet, you get enough that you can chuck them at floor fights sometimes just to make it a bit easier and save hp for elites and bosses",
-            "Honestly really wish we could sell potions much rather a card than that potion",
             "this is not the 'Bottled Apotheosis' I was asking for",
-            "Learning to use potions at opportune moments (i.e. proactively getting momentum in a potentially tough fight rather than reactively saving yourself in a hard fight) is one of those lessons you eventually learn. Especially important once you're at full slots.\n\nOf course, I forget that I've learned it all the time. \ud83d\ude05 I've held two potions with two alchemize+ in deck for several floors just today.",
+            "Learning to use potions at opportune moments (i.e. proactively getting momentum in a potentially tough fight rather than reactively saving yourself in a hard fight) is one of those lessons you eventually learn. Especially important once you're at full slots.\n\nOf course, I forget that I've learned it all the time.  I've held two potions with two alchemize+ in deck for several floors just today.",
+            "Honestly really wish we could sell potions much rather a card than that potion",
+            "I've had so many runs where I get the [[White Beast Statue]] and then forget to drink a potion every fight to free up an inventory slot.\n\nIt doesn't matter if the next potion I get is worse than the one it's replacing, the advantage gained from drinking every potion I get is almost always a greater overall boost to the run than having just the right potion in one single tough fight.",
             "this game makes that even easier to realize when it gives you that one relic that heals you for using them",
-            "I've had so many runs where I get the [[White Beast Statue]] and then forget to drink a potion every fight to free up an inventory slot.\n\nIt doesn't matter if the next potion I get is worse than the one it's replacing, the advantage gained from drinking every potion I get is almost always a greater overall boost to the run than having just the right potion in one single tough fight."
+            "So is the relic giving one energy but can't pick up any potion worth it ?",
+            "I've had decks with 3-4 alchemize and ways of using remote 5-6 times and it honestly overwhelms me so much. I'm almost thinking more than 2 is to many but I will continue to take and use as many as possible.",
+            "This is where I get confused with the intangible one. Should I use it to save myself from 21 damage or wait 3 more floors until the elite fight? Hell usually I hold it till ACT 3 or 4 boss/elites."
         ]
     },
-    "Defect's perfect pandora boss swap seed for Android and Switch": {
-        "title": "Defect's perfect pandora boss swap seed for Android and Switch",
-        "score": 157,
-        "url": "https://i.redd.it/v7uf5olibd9d1.jpeg",
-        "content": "I tested all defect's seed from Gamerpuppy's spread sheet and here is the results.\n.\n2E8K0MGP3HC7C - 8 Hearsinks\nG3I864Z0KNM - 8 Turbo\nX67GY7RY9D6 - 8 Fission\n21VYBJJ7DIK1 - 8 Sweeping beam\n8T8DIW5AUY4V - 8 Blizzard\nHCBGJK85K7CP - 8 Creative Ai (This seed can beat A20H without taking damage if you do pandora glitch)\nHJX8CG8C86Y4 - 8 Cold snap\nILJLGADS9FNS - 8 FTL\nLKH4YCF6NL4W - 8 Equilibrium\nMTFAUPIR3BFW - 8 Chill\nVLP60AR6ZLLF - 8 Compile driver\n13TXPGCGAJCCX - 8 Multi-cast\n14TIHY2CCCNPY - 8 Cold snap\n189J43D0QHW6G - 8 Barrage\n1CX3R2BAB0VTU - 8 Scrape\n1ITC1AK94C21W - 8 Rip and Tear\n1JVS2APB1AGAI - 8 Reprogram\n1K2JBK9YT71MS - 8 Force field\n1KTZFY9QQBQDC - 8 Biased cognition\n1W5ZKBSKK4MTZ - 8 Barrage\n2E1WV67EZ4XFX - 8 Heatsinks\n2PV1F41NEW4EC - 8 Tempest\n2UFANSM3JXZ3H - 8 Defragment\n3CPEGINZIWR80 - 8 Rainbow\n3DFACMVL5BCEZ - 8 Scrape\n3E59GI5YYE3I3 - 8 Blizzard\n3P7BY25ERSPCV - 8 Consume\n3ZDKMT20HIBY2 - 8 Machine learning\n45T7DMWPVKUIG - 8 Darkness\n48P1RIR78SAY7 - 8 Skim\n4D4613RGKDC9F - 8 Recycle\n4ELPU33WCT0YU - 8 White noise\n4JKL8RNAK7ZKZ - 8 Creative Ai\n4L6IDAZTYP06A - 8 Aggregate\n4PWP6ZVS11XY2 - 8 Hello World\n4R934V3SD30SJ - 8 Auto- shields\n4TJP9ZGJH2BV8 - 8 Machine learning\n4W01BY7XN8K9A - 8 Hello World\n4XJ3EAI8CY2DL - 8 Rebound\n4YEAYR6R7LG5D - 8 Fission\n550V6BQS879MR - 8 Leap\n55ATH6N2QKXYE - 8 Heatsinks\n\n.\nUnfortunately,there is no 8 claw pandora seed in spreadsheet.You can use these seeds on Silent and can get a pandora's box with 8 same cards and 2 different cards.",
-        "num_comments": 13,
+    "15 claw start seed for IOS": {
+        "title": "15 claw start seed for IOS",
+        "score": 24,
+        "url": "https://i.redd.it/aw8k82m36i9d1.jpeg",
+        "content": "Set up:\n\nPlay Custom mode\nSelect Defect, Hoarder and Specialised modes.\nEnjoy claws!",
+        "num_comments": 5,
         "comments": [
-            "All we need now is Mummy Hand and we are cooking !",
-            "No 8 claw Pandora seed \ud83d\ude22. The devs must have known it would be too powerful...",
-            "What is the Pandora Glitch? Also thank you for doing this, most of the seed i tried there is almost never a Pandora Box",
-            "U the real goat",
-            "What the hell. How can one person find all of these? What are the odds for a Pandora's box getting 8 of the same cards? Is it a glitch?",
-            "Mummy Hand and Bird Urn",
-            "32FH4R71NLZ-Here ya go. Enjoy.",
-            "Something that you quit and reenter game after open a pandora's box, the game registered you having the box but didn't register the card you got. So you end up with 2 cards in your deck lightning and double cast.",
-            "Not a glitch, just unlikely. My understanding is that people find them by having a computer crunch through billions of seeds and check.",
-            "Is that mobile?"
-        ]
-    },
-    "Am I crazy to think that white elephant with sacred bark could be the choice here, rather than apotheosis?": {
-        "title": "Am I crazy to think that white elephant with sacred bark could be the choice here, rather than apotheosis?",
-        "score": 108,
-        "url": "https://www.reddit.com/gallery/1dqtc7l",
-        "content": "",
-        "num_comments": 35,
-        "comments": [
-            "even if it\u2019s not objectively better i\u2019d take it for the fun",
-            "I like white beast. Great relic, and has such great synergy with your boss relic.",
-            "Wow this shop has INSANE choices. \n\nDolly\u2019s on a glacier. \n\nApo. \n\nAggregate (great since you\u2019re without an energy relic and have holo)\n\nWhite beast is also very good with bark\u2026\n\nI think I\u2019m taking aggregate apo. Realistically the only cards that want upgrades badly are buffer, hologram, and skim. Sunder, zap, dualcast also like an upgrade. So normally I wouldn\u2019t be high on apo. But if you buy agg, that also badly wants an upgrade in a 3 energy deck. \n\nI would apo agg and upgrade apo ASAP. But I\u2019d absolutely be second guessing that choice the whole run.",
-            "honestly with your current load-out there's a large number of winning choices here. beast is probably one of them. \n\npersonally, I'd go for mirror (defrag+) card remove (strike). Depends a little on the map, though.",
-            "\u201cElephant\u201d is new\n\nI\u2019ve only ever seen it as some sort of bison/ram creature but it\u2019s interesting how people see it (rhino, wolf, etc)",
-            "I am 100.0% confident you mentioned Sacred Bark and Apotheosis in your post.\n\n\n\n--------------------------------------------------\n\n* [Sacred Bark](https://slay-the-spire.fandom.com/wiki/Sacred_Bark) Boss Relic\n\n Double the effectiveness of potions.\n\n* [Apotheosis](https://slay-the-spire.fandom.com/wiki/Apotheosis) Colorless Rare Skill\n\n     2(1) Energy | Upgrade ALL of your cards for the rest of combat. Exhaust.\n\n\n\n\n\n\n\n--------------------------------------------------\n\n^^^I ^^^am ^^^a ^^^bot ^^^response, ^^^but ^^^I ^^^am ^^^using ^^^my ^^^creator's ^^^account. ^^^Please ^^^reply ^^^to ^^^me ^^^if ^^^I ^^^got ^^^something ^^^wrong ^^^so ^^^he ^^^can ^^^fix ^^^it.\n\n[Source Code](https://github.com/TrippW/STS-Crawler)",
-            "i'd do mirror defrag+, aggregate, remove =0g\n\nstatue is less valuable when we have meat",
-            "I'm eyeing up that War paint. 2 defend upgrades for 165g, shut up and take my money!",
-            "You are not crazy. Relics are all about synergy",
-            "I'd disagree, but wouldn't say you where crazy. You probably need 3 or 4 extra potions to break even, and potions are pretty good for you. Realistically that's like 8 fights since you get a potion about half the time anyway.\n\n\n\u00a0 The apotheosis is stronger if you can realistically upgrade it, and you can also buy an energy card at the same time. But if you are pathing into 3 elites right now, maybe you are correct, since you can use this to spam potions at them.\u00a0"
+            "Works for android too, Thanks!!",
+            "What do you mean 15?",
+            "478GR0BMWRR1X",
+            "You get 15 claws!",
+            "I am 100.0% confident you mentioned Claw in your post.\n\n\n\n--------------------------------------------------\n\n* [Claw](https://slay-the-spire.fandom.com/wiki/Claw) Defect Common Attack\n\n     0 Energy | Deal 3(5) damage.\nIncrease the damage of ALL Claw cards by 2 this combat.\n\n\n\n\n\n\n\n--------------------------------------------------\n\n^^^I ^^^am ^^^a ^^^bot ^^^response, ^^^but ^^^I ^^^am ^^^using ^^^my ^^^creator's ^^^account. ^^^Please ^^^reply ^^^to ^^^me ^^^if ^^^I ^^^got ^^^something ^^^wrong ^^^so ^^^he ^^^can ^^^fix ^^^it.\n\n[Source Code](https://github.com/TrippW/STS-Crawler)"
         ]
     }
 }

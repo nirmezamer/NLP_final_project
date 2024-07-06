@@ -1,26 +1,26 @@
 {
     "Basic Authentication is being retired in Exchange Online on October 1st \u2013 email clients and scripts might stop working": {
         "title": "Basic Authentication is being retired in Exchange Online on October 1st \u2013 email clients and scripts might stop working",
-        "score": 94,
+        "score": 95,
         "url": "https://www.reddit.com/r/Office365/comments/x75q9s/basic_authentication_is_being_retired_in_exchange/",
         "content": "Microsoft published the timeline and steps to take to finalize the retirement of basic authentication in Exchange Online:\n\n[Basic Authentication Deprecation in Exchange Online \u2013 September 2022 Update](https://techcommunity.microsoft.com/t5/exchange-team-blog/basic-authentication-deprecation-in-exchange-online-september/ba-p/3609437)\n\nYou might need to take action to avoid disruption of access. A very short summary:\n\n-\tAll previous opt-outs and re-entablements of basic authentication are not valid anymore\n-\tIf you want to keep using basic auth in Exchange Online after October 1st, you must explicitly opt-out in September\n-\tBasic auth is getting disabled for any protocols not opted-out during September, starting October 1st\n-\tAll opt-outs (or later re-enablements) expire early January 2023\n\nIf you are still using basic authentication for any of affected protocols, you must take action in September and finish your migration to modern authentication by early January 2023.",
         "num_comments": 75,
         "comments": [
-            "It's somewhat comical to read because they're being professional but they're also bluntly reminding readers that:\n\n*\"Despite multiple blog posts, Message Center posts, interruptions of service, and coverage via tweets, videos, conference presentations and more, some customers are still unaware this change is coming.\"*\n\n...and before this they stated the process was started *\"nearly 3 years ago\".*",
-            "Before everyone starts screaming in agony ... \"What about the MFP's? Think about the MFP'S!!\"... fear not. From the article:\n\n>We will\u00a0not\u00a0be disabling or changing any settings for SMTP AUTH.\n\nBasic Auth for SMTP will not be deprecated (at this time), although you should already be taking the steps outlined in this article for your SMTP sending email devices ...\n\nhttps://docs.microsoft.com/en-us/exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365\n\nAlso from the article...\n>Starting October 1st, we will start to randomly select tenants and disable basic authentication access for MAPI, RPC, Offline Address Book (OAB), Exchange Web Services (EWS), POP, IMAP, Exchange ActiveSync (EAS), and Remote PowerShell. \n\nJust my opinion, if you're programmatically accessing any of those services? Then you're using a machine that can support modern auth. You just need to get your bosses off your back about Karen in HR for 5 minutes so you can research how to do it for your particular scenario.",
-            "Waiting for all the \u201cbut I wasn\u2019t told\u201d posts here 1st of October.",
-            "For real this time?",
-            "Just to be sure :\n\n&#x200B;\n\nI have logs in the Sign-in logs on some users, in Azure, and so I have the **\\[User sign-ins (interactive)\\]** and **\\[User sign-ins (non-interactive)\\]** tab.\n\n&#x200B;\n\n[https://i.imgur.com/CySmhpc.png](https://i.imgur.com/CySmhpc.png)\n\n&#x200B;\n\nHowever, when I select the 12 protocols (see image above) and I select 7 days for example, I have nothing in the \"interactive\" tab. On the other hand in the tab \"Non-interactive\", I have nothing either with these 12 protocols, but if I check **\"Other clients\"**, then I have connections !\n\n&#x200B;\n\n*(On applications such as \"Office 365 Exchange Online\" or \"Skype for Business Online\" for example).*\n\n&#x200B;\n\nAre the \"Other clients\" connections as \"Non-interactive\" concerned by Exchange Basic Auth deprecation ?\n\nHow can I resolve these connections without knowing which protocol is used, why it is not written EWS/POP/IMAP/EAS... ?\n\n&#x200B;\n\nI really need help... Thank you !",
+            "Waiting for all the but I wasnt told posts here 1st of October.",
             "So I understand that this will break apps and what not that are using Basic Authentication.  The issue I'm coming across is I now have 5-6 end users that are using 365 desktop apps that are fully updated and it's now prompting them for their password nonstop but not taking it in  a standard Windows Security prompt rather than the MFA looking prompt.  I've tried everything to get it to prompt for the proper MFA prompt (new profile, reinstalling Office, removing credentials from Credential Manager, etc) and nothing has worked beyond creating an entirely new Windows profile.  Then it instantly works.  Anyone have a fix/workaround for this?",
             "I'm going to make billions of dollars with my new basic auth email service.\n\nBILLIONS. OF. DOLLARS.",
             "Feels like this has been delayed 3x",
             "At the risk of asking a dumb question, does this mean that when I go to the M365 Portal > Settings > Org Settings > Modern Authentication (under Services), that all the check boxes under \"Allow access to basic authentication protocols\" should be unchecked?\n\nBecause I just took a peek in my tenant and all those box are still checked. So does that mean I still have Basic authentication enabled?",
-            "You can [find an app in this reddit post to scan your tenant for basic authentication devices](https://www.reddit.com/r/Office365/comments/v3z5q9/microsoft_will_stop_basic_authentication_on/) and a short summary of the [steps to postpone the turn off to December](https://betterlicenses.com/blog/how-to-migrate-basic-auth-to-modern-auth-microsoft-365#second_life)\n\nAlso please keep in mind that one of the most common devices still connecting through legacy clients is the iPhone/iPad through the nativa email app, Apple launched an update to fix this automatically on iOS 15.6 [provided tenant admins do a couple of steps](https://betterlicenses.com/blog/how-to-migrate-basic-authentication-devices-users-to-modern-authentication#move_iphone)."
+            "On Iphones this is easily fixed by Removing the account and readding it by using the sign in button instead of manually adding the credentials.   \nOtherwise let them install the outlook app.",
+            "Can you advise if multifactor authentication will be forced when migrating to modern auth for office 365? We are using IMAP with four O365  mailboxes and we just converted to modern auth, however there is a concern that MFA will be forced at the account level for SMTP and IMAP. Thank you. Andrew",
+            "Hi- I'm trying to figure out if users will be able to use other authenticator apps going forward",
+            "Well wtf do i do now?",
+            "I have a number of customers whose imap integration broke today. They were already configured for OAUTH!"
         ]
     },
     "Exchange Online email applications stopped signing in, or keep asking for passwords? Start here.": {
         "title": "Exchange Online email applications stopped signing in, or keep asking for passwords? Start here.",
-        "score": 83,
+        "score": 82,
         "url": "https://techcommunity.microsoft.com/t5/exchange-team-blog/exchange-online-email-applications-stopped-signing-in-or-keep/ba-p/3641943",
         "content": "",
         "num_comments": 24,
@@ -28,50 +28,43 @@
             "Absolutely ZERO excuse for having this problem. NO LESS THAN TWELVE alerts have been posted in the EAC regarding this over the past TWO YEARS.\n\nIf your company is affected by this, YOU ARE AN IMPOSTER ADMIN.",
             "I have a user that had their motherboard replaced. Since the replacement their outlook kept asking to login. I've deleted their mail profile and upon rebuilding the profile the prompt for MFA doesn't appear this the account setup fails. Any idea as to the fix for this? I've reinstalled office 365, modified the registry to bypass cached auto discover entries, built a new windows profile on the same machine all without resolving the issue. You can see the setup flash quickly for the MFA window but then it fails to complete. Also, revoked allMFA sessions and reregistered MFA. Office.com login works without issue. Logging in as the same user on a different laptop also works. Anyone else ever experience this? Ty in advance!",
             "I'm leaning to think this sub isn't meant for people that will be able to process that article.\n\nBut yeah.",
-            "Can I ask a wrinkle on this?\n\nI had an iOS device out of compliance, and it made me remove the email from [mail.app](https://mail.app) and re-add it using the company portal tool.\n\nWhereupon Office 365 and Outlook can access the account on this device, but the portal adds [mail.app](https://mail.app) and the internal calendar automatically, and neither of these work (the password is just repeatedly rejected). \n\nThe user's mailbox permits ActiveSync, OWA for devices, OWA, IMAP, POP3, and MAPI. All the email apps that are possible in the Admin portal are selected.\n\nThe user is also working correctly on the desktop and on Android (albeit on Android the app is Outlook).\n\nI heard some things about this being related to activesync but also that this is supposed to be fixed. Would anyone take pity on a poor soul and have any advice about how to get built-in mail and calendar on the iPhone working again?",
             "Damn, good luck explaining how you missed this one.",
             "You are getting fired and it's your fault",
-            "This is lame.",
-            "[Web app which scans the tenant](https://www.reddit.com/r/Office365/comments/v3z5q9/microsoft_will_stop_basic_authentication_on/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) and shows how many basic authentication devices are still logging in including for iPhones if they are running the iOS version which automatically exchanges credentials for an OAuth token (modern auth), might be helpful.",
             "I've had this issue this week.  Every time I sign in I check Keep Me Signed In.",
-            "Monday is gonna be fun in a few subs lol. If they haven't been paying attention to this then they probably won't even notice a problem until they get in the office on Monday."
+            "Monday is gonna be fun in a few subs lol. If they haven't been paying attention to this then they probably won't even notice a problem until they get in the office on Monday.",
+            "Imposter admin here. Apps team wouldn't do shit to move their stuff, I'm taking Monday off. Hope they have a good day with the documentation I sent over months ago.",
+            "Mostly but in my case we have an old pbx that uses basic auth to deposit voicemails. They've been aware but they're getting push back saying there's no budget for the upgrade. I called in for Monday because I know this will someone be blamed on me.",
+            "so kind of you to admonish him when having a problem.\n\nlet me know when you are down so i can come and kick you as you seem to think that is what is the appropriate response."
         ]
     },
-    "Increase in URL reputation quarantines": {
-        "title": "Increase in URL reputation quarantines",
-        "score": 4,
-        "url": "https://www.reddit.com/r/Office365/comments/1dlakrk/increase_in_url_reputation_quarantines/",
-        "content": "Is anyone else seeing an increase in the number of lefit emails being quaratined by Microsoft's URL detonation reputation? I've had multiple this week and there does not seem to be a rhyme or reason.",
-        "num_comments": 7,
-        "comments": [
-            "there is a current service advisory advising this is happening.  Someone made an oopsie at MS it seems. Yet again.",
-            "I\u2019m grateful. The only ppl that need to email my users already do! \ud83d\ude02",
-            "I have a friend who I just spoke to tonight, their outbound email is failing to be delivered due to what sounds like a bad URL in their signature block, is this what we are talking about here, or is there another issue?",
-            "Thank you. I missed that update. Looks like it was issued after my clients started having issues and I checked.",
-            "Got a link to that?",
-            "Sounds like what we are talking about.",
-            "You're welcome!\n\nHave a great rest of your day and weekend"
-        ]
+    "I have not been charged": {
+        "title": "I have not been charged",
+        "score": 1,
+        "url": "https://www.reddit.com/r/Office365/comments/1dr9zwq/i_have_not_been_charged/",
+        "content": "Hi, I started 1 month Business Premium trial on  8th of May, on 8th of June I received an email that my subscription was renewed, yet I have not been charged to this date. Is this normal? I have Annual subscription with monthly fees. I have nothing listed on Billing -> Payment methods, but my VISA card is listed on Billing accounts -> Billing profile.",
+        "num_comments": 0,
+        "comments": []
     },
-    "FIX: Office365 Not Installing / Uninstalling [ Error Code: 30175-45 (8) ]  [ Error Code: 0-2031 (17002) ]": {
-        "title": "FIX: Office365 Not Installing / Uninstalling [ Error Code: 30175-45 (8) ]  [ Error Code: 0-2031 (17002) ]",
-        "score": 4,
-        "url": "https://www.reddit.com/r/Office365/comments/1dl9alz/fix_office365_not_installing_uninstalling_error/",
-        "content": "Hello everyone!   \nMaking this post to hopefully help those in need it with this problem in the future.  \n  \nI currently work for an IT MSP, and recently ran into a client who had issues not being able to open Office 365 desktop apps. They would either crash or just not open at all. After trying to reinstall, I ran into an error where it would not let me reinstall at all.  Error Code: 30175-45 (8).  I tried everything. Most recommendations was to install Office through offline packages and PowerShell. Did not work either with same error code being thrown.  \n\n\n**HERE IS THE FIX:**  \n  \nOffice would not reinstall, because there were corrupted files / registry keys getting in the way. So,  \n- Use Revo Uninstall to uninstall Office, but make sure you choose Advanced Clean. And get rid of ALL the registry keys and files associated with Office. ALL of them. Then restart PC.  \n- Once back in, download SARA (Microsoft Support and Recovery Assistant) and select Office, and \"having trouble uninstalling Office\"  \n- Once that is finished, restart PC again, and install Office via OfficeSetup.exe   \n\n\nAfter manyyy hours, this fix finally worked. I quite literally tried everything else before this. ",
-        "num_comments": 2,
-        "comments": [
-            "just the sara is usually good enough in this case, happens when users power off a machine/crash it during a c2r office update usually",
-            "No using SARA to try and fix it would tell me \u201cuser doesn\u2019t have active license\u201d , even though we can verify license through admin portal.. believe me this was the only fix"
-        ]
-    },
-    "Delete is not available": {
-        "title": "Delete is not available",
+    "Upload spreadsheet and tell ai to read certain columns, and make a summary of these to insert in a new column": {
+        "title": "Upload spreadsheet and tell ai to read certain columns, and make a summary of these to insert in a new column",
         "score": 2,
-        "url": "https://www.reddit.com/r/Office365/comments/1dle6he/delete_is_not_available/",
-        "content": "I have an Excel file that I downloaded that I cannot delete. When hovering over the ellipsis \"Delete\" is greyed out and when I put my cursor over it I get the message \"Delete is not available.\" This is within my browser and the file is not open. All of my other spreadsheets can be deleted, even if they are open in another window. Can anyone advise on how I can remove this file or what the likely problem is?",
-        "num_comments": 1,
+        "url": "https://www.reddit.com/r/Office365/comments/1dr4x3n/upload_spreadsheet_and_tell_ai_to_read_certain/",
+        "content": "Hi there,\n\nJust want to know if this is possible. Like, here is a spreadsheet,each row is a recipie, column a is ingredients,column b are cooking instructions. Create a short summary for eqch recipe and write it into column c.\n\nIf this is possible,please guide me in the right direction how to achive this on the power platform",
+        "num_comments": 0,
+        "comments": []
+    },
+    "Powershell command to list risky users and sign ins. ": {
+        "title": "Powershell command to list risky users and sign ins. ",
+        "score": 5,
+        "url": "https://www.reddit.com/r/Office365/comments/1dqzrga/powershell_command_to_list_risky_users_and_sign/",
+        "content": "Is it possible to run a powershell command to check if their are any risky users, risky sign ins, etc? \n\nI'd like to be able to set this on a schedule ans email if there is anything. ",
+        "num_comments": 5,
         "comments": [
-            "Make sure the worksheet is not protected maybe. It's on the Review tab."
+            "My global admin role by default is emailed a weekly entra digest, which shows a summary of risky users and sign-ins, and then links to the relevant page.\nHopefully you can find the page that configures recipients, and add additional users to be emailed.",
+            "First you will need to define what risky means.",
+            "Yes these. But we don't have a P2 license. With my license I can view them.",
+            "start here: https://github.com/AzureAD/IdentityProtectionTools",
+            "Presumably, OP is referring to risk based conditional access policies available to Entra ID P2 subscribers. \n\nhttps://learn.microsoft.com/en-us/entra/identity/authentication/tutorial-risk-based-sspr-mfa"
         ]
     }
 }

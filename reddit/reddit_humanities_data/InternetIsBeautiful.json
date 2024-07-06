@@ -1,10 +1,23 @@
 {
+    "Remember that search engine for forum threads? It's now free": {
+        "title": "Remember that search engine for forum threads? It's now free",
+        "score": 15,
+        "url": "https://forumscout.app/search",
+        "content": "",
+        "num_comments": 4,
+        "comments": [
+            "does it bypass all the shit websites without forums that say stuff like \"top ten tips for how to beat the goblin boss in xxxx game\" e.t.c? coolbeans",
+            "Looks awesome. Will try it out!",
+            "Yeah, unless that post is shared on a forum, then it might get picked up. The search will only return results from forums and discussion boards, not review sites or blogs etc.",
+            "About 2 months ago I posted about a search engine I made that only returns results from forums.\n\nI got quite a lot of pushback because I limited access to filters and only gave users a small number of daily searches.\n\nIt's now completely free, including all filters and unlimited searches.\n\nI've added a few new features too and would love your feedback on the search quality.\n\nIf you have any suggestions or ways I could make it better, please let me know."
+        ]
+    },
     "Color Picker that lets you describe colors with natural language": {
         "title": "Color Picker that lets you describe colors with natural language",
-        "score": 101,
+        "score": 122,
         "url": "https://text2color.com/picker.html",
         "content": "",
-        "num_comments": 34,
+        "num_comments": 44,
         "comments": [
             "My favorite color is #ffcc00 because it's a yellow that's bright but warm. Typed in \"bright but warm yellow\" and got #ffcc00. I'm convinced.",
             "Would be cool if it also worked the other way around, so you could type a hex code and it would generate a description of the color.",
@@ -13,14 +26,33 @@
             "It appears to have problems with fuzzy quantifiers:  \"bluish brown\", \"greenish brown\", \"brownish green\", \"brownish blue\"",
             "prostitute got #FF69B4 which to my eye is Barbie pink.",
             "I did \"Waluigi's Hat\" and got a pretty nice purple #6C478E. Yeah, this is pretty awesome.",
-            "Try \"Trump\".",
             "I tried \"dog weiner\" but I'm mostly colorblind and it just looks like some weird yellow. \nAlso, I did not have a dog nearby to compare it to.",
-            "Nice, I could use this for paint! Perfect balance of gray and blue got me #90A0B2"
+            "Nice, I could use this for paint! Perfect balance of gray and blue got me #90A0B2",
+            "Navy red actually gives you maroon."
+        ]
+    },
+    "Online compass, bubble level and Qibla finder": {
+        "title": "Online compass, bubble level and Qibla finder",
+        "score": 2,
+        "url": "https://onlinecompass.io/",
+        "content": "",
+        "num_comments": 0,
+        "comments": []
+    },
+    "The list of lists of books of lists": {
+        "title": "The list of lists of books of lists",
+        "score": 1,
+        "url": "https://www.solist.blog/the-list-of-lists-of-books-of-lists/",
+        "content": "",
+        "num_comments": 2,
+        "comments": [
+            "Couldn't afford to hire an artist for the illustration?",
+            "Oh, indeed. Only time and bytes of information at my disposal."
         ]
     },
     "Liquid Layers": {
         "title": "Liquid Layers",
-        "score": 178,
+        "score": 177,
         "url": "https://grantkot.com/ll/",
         "content": "",
         "num_comments": 28,
@@ -28,56 +60,13 @@
             "Hi, thanks for sharing this! I made this demo, and wanted to share some keyboard shortcuts that might not be apparent.  \n1-4 keys you can emit material, D key will delete around the mouse, A and R keys will attract and repel. Scrolling controls the \"brush\" size. And you can move the window around and the liquid will slosh around in it.",
             "This is an excellent 2D fluid simulation, running really well. And quite in the spirit of this sub, good stuff.",
             "Thanks, just wasted 30 minute on this.",
-            "Extremely fun!!!",
+            "Good Times :D\n\nnice find, thank you!",
             "I was on iPad when I see this, it looks cool on it.",
             "It's a beautiful reminder that even the simplest things, like liquid layers, can be fascinating when viewed through the right lens. Now, if only we could turn our morning coffee into a similar visual spectacle!",
             "Wow that's really well done and running smoothly",
-            "Good Times :D\n\nnice find, thank you!",
-            "Awesome",
-            "Super fun!"
-        ]
-    },
-    "onemillioncheckboxes.com: a webpage with one million checkboxes. Checking a box checks it for everyone, in real time.": {
-        "title": "onemillioncheckboxes.com: a webpage with one million checkboxes. Checking a box checks it for everyone, in real time.",
-        "score": 3312,
-        "url": "https://onemillioncheckboxes.com",
-        "content": "",
-        "num_comments": 375,
-        "comments": [
-            "hi this is my website and i thought like 50 people would use it and now the whole internet has found it, i'm sorry that my site is dying i'm spinning up new servers as fast as i can lmao",
-            "Actual internet is beautiful site!!!",
-            "Hugged to death. Sure all my refreshing will help",
-            "It kept me busy for 15 sec. Thx",
-            "I\u2019ve clicked 2,000\u2026. I feel like this is a bad site for compulsive people lol\n\nEdit: 5,500 now\u2026 I need to stop",
-            "If I\u2019ve learned anything from r/place it\u2019s that the Germans are coming.",
-            "This page checks all the boxes for me.",
-            "I spent far too long defending a 3x3 grid.",
-            "I have written \u201canus\u201d in unchecked boxes good luck finding it",
-            "I have ADHD and now temporarily hate you. No idea why it counts coloured checkboxes separately but just went on a hunt for them"
-        ]
-    },
-    "LeoLabs - Low Earth Orbit Visualizer to see all the objects currently in orbit": {
-        "title": "LeoLabs - Low Earth Orbit Visualizer to see all the objects currently in orbit",
-        "score": 27,
-        "url": "https://platform.leolabs.space/visualizations/leo#view=originCountry",
-        "content": "",
-        "num_comments": 4,
-        "comments": [
-            "Filthy.",
-            "Wow, that's a lot of stuff \ud83d\ude05\nlooks great!!",
-            "i got dizzy from vertigo just opening it\n\n10/10 would not open it again lol\n\npretty cool tho",
-            "Love it. Very cool, and scary and the same time haha"
-        ]
-    },
-    "Lateral Science: someone's collection of writing about crazy old scientific experiments": {
-        "title": "Lateral Science: someone's collection of writing about crazy old scientific experiments",
-        "score": 44,
-        "url": "http://www.lateralscience.co.uk/",
-        "content": "",
-        "num_comments": 2,
-        "comments": [
-            "It deserves a visit. Thanks!",
-            "[Galvanic Experiments on the Dead Body of a Criminal.](https://www.lateralscience.co.uk/ymboa/ymboa.html#:~:text=Galvanic%20Experiments%20on%20the%20Dead%20Body%20of%20a%20Criminal)\n\nThe following interesting experiments, illustrative of the amazing powers of Galvanic operations, will be highly acceptable to the reader. \n\nThe subject of these experiments was a middle sized, athletic, and extreme- ly muscular man, about thirty years of age. He was a murderer, and after hanging nearly an hour, under- went the experiments about to be detailed.\n\nExperiment I. A large incision was made into the nape of the neck, close below the occiput. The pos- terior half of the atlas vertebra was then removed by bone forceps, when the spinal marrow was brought into view. A profuse flow of liquid blood gushed from the wound, inundating the floor. A considerable incision was at the same time made in the left hip, through the great gutteal musele, so as to bring the sciatic nerve into sight, and a small ent was made in the heel; the pointed rod connected with one end of the battery was now placed in contact with the spi- nal marrow, while the other rod was applied to the selatic nerve. Every musele of the body was imme- diately agitated with convulsive movements resem- bling a violent shuddering from the cold; the left side was most powerfully convulsed at each renewal of the electric contact. On moving the second rod from the hip to the heel, the knee being previously bent, the leg was thrown out with such violence as nearly to overturn one of the assistants, who in vain attempt- ed to prevent its extension.\n\nExperiment 2. The left phrenic nerve was now made bare at the outer edge of the sternnthyroidhus musele, from three to four inches above the clavicle, the cutaneous incision having been made by the side of the sternocleido mastoidens. Since this nerve is distributed to the diaphragm, and since it commo- nicates with the heart through the eighth pair, It"
+            "was something meant to happen?",
+            "I had wayyy too much fun with \"emit\" and making a bunch of red and watching it's effect on all the layers up to blue.\n\nSo if I ran this long enough would the colors ever completely separate on their own?",
+            "this is so cool! id love a feature where you can swirl the colors :3\n\nits very realistic! nice job!"
         ]
     }
 }
