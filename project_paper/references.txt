@@ -1,0 +1,8 @@
+AI-Generated Text Detection and Classification Based on BERT Deep Learning Algorithm - https://paperswithcode.com/paper/ai-generated-text-detection-and
+
+GPT-generated Text Detection: Benchmark Dataset and Tensor-based Detection Method - https://dl.acm.org/doi/abs/10.1145/3589335.3651513
+
+Intrinsic Dimension Estimation for Robust Detection of AI-Generated Texts - https://papers.neurips.cc/paper_files/paper/2023/file/7baa48bc166aa2013d78cbdc15010530-Paper-Conference.pdf
+
+{add the links for the APIs from the introduction}
+
