@@ -52,7 +52,13 @@ def analyize_data(dataset, path, show=False):
     plt.title('number of unique words Distribution by Class')
     plt.xlabel('n_unique_words')
     plt.ylabel('Frequency')
-    plt.xlim(right=900)
+    if path == 'analysis/newspaper':
+        x_lim = 700
+    if path == 'analysis/reddit':
+        x_lim = 100
+    if path == 'analysis/wikipedia':
+        x_lim = 300
+    plt.xlim(right=x_lim)
     plt.legend()
     plt.savefig(f'{path}_unique_words.png')
     if show:
@@ -63,7 +69,13 @@ def analyize_data(dataset, path, show=False):
     plt.title('number of characters Distribution by Class')
     plt.xlabel('n_characters')
     plt.ylabel('Frequency')
-    plt.xlim(right=10000)
+    if path == 'analysis/newspaper':
+        x_lim = 5000
+    if path == 'analysis/reddit':
+        x_lim = 1000
+    if path == 'analysis/wikipedia':
+        x_lim = 2000
+    plt.xlim(right=x_lim)
     plt.legend()
     plt.savefig(f'{path}_characters.png')
     if show:
@@ -86,7 +98,13 @@ def analyize_data(dataset, path, show=False):
     plt.title('Number of Sentences Distribution by Class')
     plt.xlabel('n_sentences')
     plt.ylabel('Frequency')
-    plt.xlim(right=80)
+    if path == 'analysis/newspaper':
+        x_lim = 80
+    if path == 'analysis/reddit':
+        x_lim = 10
+    if path == 'analysis/wikipedia':
+        x_lim = 20
+    plt.xlim(right=x_lim)
     plt.legend()
     plt.savefig(f'{path}_sentences.png')
     if show:
