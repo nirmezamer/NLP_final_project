@@ -144,17 +144,6 @@ news_sites = {
         'https://www.npr.org/sections/arts',
         'https://www.npr.org/sections/education',
     ],
-    'al_jazeera': [
-        'https://www.aljazeera.com',
-        'https://www.aljazeera.com/news',
-        'https://www.aljazeera.com/economy',
-        'https://www.aljazeera.com/technology',
-        'https://www.aljazeera.com/science-and-health',
-        'https://www.aljazeera.com/arts-and-culture',
-        'https://www.aljazeera.com/sports',
-        'https://www.aljazeera.com/features',
-        'https://www.aljazeera.com/opinions',
-    ],
     'bloomberg': [
         'https://www.bloomberg.com',
         'https://www.bloomberg.com/markets',
@@ -199,7 +188,7 @@ max_articles_per_site = 10  # Adjust this to limit articles per site (optional)
 
 async def scrape_articles_async(url, session, progress_bar):
     try:
-        article = Article(url, fetch_images=False)  # Avoid image downloads
+        article = newspaper.Article(url, fetch_images=False)  # Avoid image downloads
         async with session.get(url) as response:
             if response.status == 200:
                 article.download_html(response.text)
@@ -216,7 +205,7 @@ async def scrape_articles_async(url, session, progress_bar):
                     progress_bar.update(1)
             else:
                 print(f"Error getting article: {url} - Status code: {response.status}")
-    except (aiohttp.ClientError, newspaper3k.ArticleException) as e:
+    except (aiohttp.ClientError, newspaper.newspaper3k.ArticleException) as e:
         print(f"Error processing article: {url} - {e}")
     await asyncio.sleep(random.randint(1, 2))  # Introduce random delay between requests
 

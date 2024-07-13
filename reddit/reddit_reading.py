@@ -1,6 +1,5 @@
 import json
 import praw
-import random
 import os
 import shutil
 import google.generativeai as genai
@@ -242,8 +241,6 @@ def generate_reddit_data_set():
         
     return data_set
         
-import re
-
 def score_comment(comment):
     score = 100
 
@@ -296,5 +293,3 @@ if __name__ == "__main__":
     data = generate_reddit_data_set()
     print(len(data))
 
-    # generate_many_humanities_reddit_json()
-    # clean_up_jsons()

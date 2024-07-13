@@ -10,16 +10,16 @@ from wordcloud import WordCloud
 from tqdm import tqdm
 from nltk import ngrams
 from string import punctuation
-from nltk.sentiment.vader import SentimentIntensityAnalyzer
-from textblob import TextBlob
+# from nltk.sentiment.vader import SentimentIntensityAnalyzer
+# from textblob import TextBlob
 import gc
-import os
+# import os
 
 nltk.download('punkt')
 nltk.download('vader_lexicon')
 # data_jasons = {"reddit": "example_reddit_data_set.json", "wikipedia": "wikipedia_data_set.json", "news": "wikipedia_data_set.json"}
 # data_jasons = {"reddit": "reddit/example_reddit_data_set.json"}
-data_jasons = {"wikipedia": "modified_file.json"}
+data_jasons = {"newspaper": "newspaper/newspapers_data.json"}
 dataset = read_data(data_jasons)
 
 def data_to_pd(dataset):
@@ -120,16 +120,16 @@ for label in df['label'].unique():
         plt.ylabel('Frequency')
         plt.show()
 
-sia = SentimentIntensityAnalyzer()
-tqdm.pandas(desc="Calculating Sentiment Scores")
-df['sentiment_score'] = df['data'].progress_apply(lambda x: sia.polarity_scores(str(x))['compound'])
+# sia = SentimentIntensityAnalyzer()
+# tqdm.pandas(desc="Calculating Sentiment Scores")
+# df['sentiment_score'] = df['data'].progress_apply(lambda x: sia.polarity_scores(str(x))['compound'])
 
-plt.figure(figsize=(10, 6))
-plt.hist([df[df['generated'] == 0]['sentiment_score'], df[df['generated'] == 1]['sentiment_score']], bins=100, alpha=0.5, label=['Human', 'AI'])
-plt.title('sentiment_score Distribution by Class')
-plt.xlabel('sentiment_score')
-plt.ylabel('Frequency')
-# plt.xlim(right=1,left=0)
-plt.ylim(top=6000)
-plt.legend()
-plt.show()
+# plt.figure(figsize=(10, 6))
+# plt.hist([df[df['generated'] == 0]['sentiment_score'], df[df['generated'] == 1]['sentiment_score']], bins=100, alpha=0.5, label=['Human', 'AI'])
+# plt.title('sentiment_score Distribution by Class')
+# plt.xlabel('sentiment_score')
+# plt.ylabel('Frequency')
+# # plt.xlim(right=1,left=0)
+# plt.ylim(top=6000)
+# plt.legend()
+# plt.show()
