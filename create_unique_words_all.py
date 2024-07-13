@@ -35,8 +35,8 @@ def data_to_pd(dataset):
     return df
 
 def create_unique_words_all():
-    plt.figure(figsize=(16, 6))
-    plt.suptitle('Number of unique words distribution by class')
+    plt.figure(figsize=(6, 8))
+    plt.suptitle('Number of unique words distribution by class', fontsize=15)
     for i, key in enumerate(list(data_jasons.keys())):
         dataset = {}
         dataset[key] = data_jasons[key]
@@ -55,7 +55,8 @@ def create_unique_words_all():
         # Display the first few rows of the DataFrame
 
 
-        plt.subplot(1, 3, i+1)
+        plt.subplot(3, 1, i+1)
+        plt.subplots_adjust(hspace=0.6)
         plt.hist([df[df['label'] == 0]['unique_words'], df[df['label'] == 1]['unique_words']], bins=100, alpha=0.5, label=['Human', 'AI'])
         plt.title(f'{key.capitalize()}')
         plt.xlabel('Number of unique words')
@@ -72,7 +73,7 @@ def create_unique_words_all():
         plt.xlim(right=x_lim)
         plt.ylim(top=y_lim)
         plt.xticks(range(0, x_lim+1, int(x_lim/10)))
-        plt.yticks(range(0, y_lim+1, int(y_lim/10)))
+        plt.yticks(range(0, y_lim+1, int(y_lim/5)))
         plt.legend()
         plt.grid(True)
     plt.savefig(f'analysis/All_datasets_unique_words.png')
@@ -157,6 +158,6 @@ def create_wordcloud_all():
 
 
 if __name__ == '__main__':
-    # create_unique_words_all()
+    create_unique_words_all()
     # create_2_grams_all()
-    create_wordcloud_all()
+    # create_wordcloud_all()
