@@ -246,10 +246,11 @@ INPUT ./2_grams.png
 INPUT ./2_grams.png
 INPUT ./2_grams.png
 INPUT ./2_grams.png
-INPUT ./unique_words.png
-INPUT ./unique_words.png
-INPUT ./unique_words.png
-INPUT ./unique_words.png
+INPUT ./All_word_clouds.png
+INPUT ./All_word_clouds.png
+INPUT ./All_word_clouds.png
+INPUT ./All_word_clouds.png
+INPUT ./All_word_clouds.png
 INPUT ./accuracy.png
 INPUT ./accuracy.png
 INPUT ./accuracy.png
