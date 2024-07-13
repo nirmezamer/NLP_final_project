@@ -240,7 +240,7 @@ if __name__ == "__main__":
     asyncio.run(main())
 
 # Save the articles to a JSON file (optional)
-output_file = 'articles.json'
+output_file = 'articles_2.json'
 with open(output_file, 'w', encoding='utf-8') as f:
     json.dump(articles, f, ensure_ascii=False, indent=4)
 

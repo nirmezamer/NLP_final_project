@@ -1,0 +1,20 @@
+\begin{thebibliography}{2}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Hao~Wang and Li(2024)]{BERT}
+Jiasnwei~Li Hao~Wang and Zhengyu Li.
+\newblock Ai-generated text detection and classification based on bert deep learning algorithm.
+\newblock \emph{arXiv preprint arXiv:2405.16422v1}, May 2024.
+\newblock URL \url{https://arxiv.org/abs/2405.16422v1}.
+
+\bibitem[Zubair~Qazi and Papalexakis(2024)]{GRiD}
+William~Shiao Zubair~Qazi and Evangelos~E. Papalexakis.
+\newblock Gpt-generated text detection: Benchmark dataset and tensor-based detection method.
+\newblock \emph{arXiv preprint arXiv:2403.07321}, March 2024.
+\newblock URL \url{https://arxiv.org/abs/2403.07321}.
+
+\end{thebibliography}
