@@ -1,22 +1,23 @@
 # Fdb version 4
-["bibtex Final_Paper"] 1720891401.81599 "Final_Paper.aux" "Final_Paper.bbl" "Final_Paper" 1720891411.53361 0
+["bibtex Final_Paper"] 1720891472.55304 "Final_Paper.aux" "Final_Paper.bbl" "Final_Paper" 1720891479.89025 0
   "./custom.bib" 1720888518 592 69268bc58e1e0cf46ed8e2514ffbddf8 ""
-  "Final_Paper.aux" 1720891409 6587 891c56c9f1127b3f6f5078b4921e66cc "pdflatex"
+  "Final_Paper.aux" 1720891477 6587 0f3c09f29627d8cd11c3b10a7c550057 "pdflatex"
   "c:/texlive/2023/texmf-dist/bibtex/bst/natbib/plainnat.bst" 1704726300 26816 ffe5423d2019860bad9f54bc402fac15 ""
   (generated)
   "Final_Paper.bbl"
   "Final_Paper.blg"
   (rewritten before read)
-["pdflatex"] 1720891403.01788 "c:/Users/YuvalMor/Desktop/University/1st simester 4th Year/NLP/Final Project/NLP_final_project/project_paper/Final_Paper.tex" "Final_Paper.pdf" "Final_Paper" 1720891411.53483 0
+["pdflatex"] 1720891473.38542 "c:/Users/YuvalMor/Desktop/University/1st simester 4th Year/NLP/Final Project/NLP_final_project/project_paper/Final_Paper.tex" "Final_Paper.pdf" "Final_Paper" 1720891479.89124 0
   "2_grams.png" 1720889784 122614 d8483a1903eb408b055fff7c99923c4f ""
+  "All_datasets_unique_words.png" 1720891431 59692 98e950b6fbef743bb476a5758b90211e ""
   "All_word_clouds.png" 1720891337 2228601 c4c19f7f0b8ce754f9427f30f818bf20 ""
-  "Final_Paper.aux" 1720891409 6587 891c56c9f1127b3f6f5078b4921e66cc "pdflatex"
-  "Final_Paper.bbl" 1720891402 881 6de99b4e7838008d5fc47dd69d526ec4 "bibtex Final_Paper"
-  "Final_Paper.out" 1720891405 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "Final_Paper.tex" 1720891393 22838 23bd0aed5511551ec37bd10f32f30049 ""
+  "Final_Paper.aux" 1720891477 6587 0f3c09f29627d8cd11c3b10a7c550057 "pdflatex"
+  "Final_Paper.bbl" 1720891473 881 6de99b4e7838008d5fc47dd69d526ec4 "bibtex Final_Paper"
+  "Final_Paper.out" 1720891474 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "Final_Paper.tex" 1720891464 22851 fce1d556c62b25623a4aba6dd31ea671 ""
   "accuracy.png" 1720886198 61472 bd5fecb2e2781841c560452efb560df5 ""
   "acl2023.sty" 1720857618 11534 0cc89fa8e5891a5b6a48f16ecda8a85c ""
-  "c:/Users/YuvalMor/Desktop/University/1st simester 4th Year/NLP/Final Project/NLP_final_project/project_paper/Final_Paper.tex" 1720891393 22838 23bd0aed5511551ec37bd10f32f30049 ""
+  "c:/Users/YuvalMor/Desktop/University/1st simester 4th Year/NLP/Final Project/NLP_final_project/project_paper/Final_Paper.tex" 1720891464 22851 fce1d556c62b25623a4aba6dd31ea671 ""
   "c:/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc" 1704713052 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "c:/texlive/2023/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-0.enc" 1704715426 7631 5169ff1acd97ff1c4ab83563c99f96f4 ""
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1704714077 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -133,7 +134,6 @@
   "c:/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1704730750 8218726 62c335f3e131bc144826bf5fc0f8ec80 ""
   "c:/texlive/2023/texmf.cnf" 1704730566 713 e69b156964470283e0530f5060668171 ""
   "overview_diagram.png" 1720871258 145994 b2c72f07ddf436ab5050b7d9001edc72 ""
-  "unique_words.png" 1720886843 242902 3adcad4f4c6f565ee7f53bb72a059fe6 ""
   (generated)
   "Final_Paper.aux"
   "Final_Paper.log"
