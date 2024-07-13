@@ -118,7 +118,45 @@ def create_2_grams_all():
             plt.ylabel('Frequency', fontsize=15)
     plt.savefig(f'analysis/All_2_grams.png')
     
+def create_wordcloud_all():
+    plt.figure(figsize=(25, 20))
+    plt.suptitle(f'Word Clouds for all datasets\n {{Dataset}} : {{Class}}', fontsize=30)
+    for i, key in enumerate(list(data_jasons.keys())):
+        dataset = {}
+        dataset[key] = data_jasons[key]
+        dataset = read_data(dataset)
+
+
+        df = data_to_pd(dataset)
+
+
+        tqdm.pandas(desc="Tokenizing Text")
+        df['tokens'] = df['data'].progress_apply(lambda x: word_tokenize(str(x)))
+        df['characters'] = df['data'].progress_apply(lambda x: len(str(x)))
+        df['words'] = df['tokens'].progress_apply(lambda tokens: len(tokens))
+        df['unique_words'] = df['tokens'].progress_apply(lambda x: len(set(x)))
+        df['sentences'] = df['data'].progress_apply(lambda x: len(sent_tokenize(str(x))))
+        # Display the first few rows of the DataFrame
+
+        gc.collect()
+        # font_path = 'C:/Windows/Fonts/Arial.ttf'
+        # if not os.path.exists(font_path):
+        #     raise FileNotFoundError(f"Font file not found at {font_path}")
+        
+        label_to_text = {0: 'Human', 1: 'AI'}
+        for label in [0, 1]:
+            wordcloud = WordCloud(width=800, height=400, background_color='white').generate(' '.join(df[df['label'] == label]['data']))
+            plt.subplot(3, 2, i*2 + label + 1)
+            plt.imshow(wordcloud, interpolation='bilinear')
+            plt.title(f'{key.capitalize()} : {label_to_text[label]}', fontsize=30)
+            plt.axis('off')
+    
+    plt.savefig(f'analysis/All_word_clouds.png')
+
+
+
 
 if __name__ == '__main__':
     # create_unique_words_all()
-    create_2_grams_all()
+    # create_2_grams_all()
+    create_wordcloud_all()
