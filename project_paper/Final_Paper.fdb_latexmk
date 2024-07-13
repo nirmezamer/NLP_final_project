@@ -1,19 +1,19 @@
 # Fdb version 4
-["bibtex Final_Paper"] 1720883375.09818 "Final_Paper.aux" "Final_Paper.bbl" "Final_Paper" 1720883562.72455 0
+["bibtex Final_Paper"] 1720883375.09818 "Final_Paper.aux" "Final_Paper.bbl" "Final_Paper" 1720884578.69833 0
   "./custom.bib" 1720875253 3361 4d0edf6d3477e55c947830f7143599af ""
-  "Final_Paper.aux" 1720883561 5952 424c39b217496301fac5ac83208ea59e "pdflatex"
+  "Final_Paper.aux" 1720884577 5952 424c39b217496301fac5ac83208ea59e "pdflatex"
   "c:/texlive/2023/texmf-dist/bibtex/bst/natbib/plainnat.bst" 1704726300 26816 ffe5423d2019860bad9f54bc402fac15 ""
   (generated)
   "Final_Paper.bbl"
   "Final_Paper.blg"
   (rewritten before read)
-["pdflatex"] 1720883559.98638 "c:/Users/YuvalMor/Desktop/University/1st simester 4th Year/NLP/Final Project/NLP_final_project/project_paper/Final_Paper.tex" "Final_Paper.pdf" "Final_Paper" 1720883562.72504 0
-  "Final_Paper.aux" 1720883561 5952 424c39b217496301fac5ac83208ea59e "pdflatex"
+["pdflatex"] 1720884575.769 "c:/Users/YuvalMor/Desktop/University/1st simester 4th Year/NLP/Final Project/NLP_final_project/project_paper/Final_Paper.tex" "Final_Paper.pdf" "Final_Paper" 1720884578.69897 0
+  "Final_Paper.aux" 1720884577 5952 424c39b217496301fac5ac83208ea59e "pdflatex"
   "Final_Paper.bbl" 1720883375 881 6de99b4e7838008d5fc47dd69d526ec4 "bibtex Final_Paper"
-  "Final_Paper.out" 1720883560 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "Final_Paper.tex" 1720883559 21382 47c606afe73a3a58441aeba8fe7678be ""
+  "Final_Paper.out" 1720884576 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "Final_Paper.tex" 1720884574 21382 6ca47e3e16c548598a05a703039118f1 ""
   "acl2023.sty" 1720857618 11534 0cc89fa8e5891a5b6a48f16ecda8a85c ""
-  "c:/Users/YuvalMor/Desktop/University/1st simester 4th Year/NLP/Final Project/NLP_final_project/project_paper/Final_Paper.tex" 1720883559 21382 47c606afe73a3a58441aeba8fe7678be ""
+  "c:/Users/YuvalMor/Desktop/University/1st simester 4th Year/NLP/Final Project/NLP_final_project/project_paper/Final_Paper.tex" 1720884574 21382 6ca47e3e16c548598a05a703039118f1 ""
   "c:/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc" 1704713052 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "c:/texlive/2023/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-0.enc" 1704715426 7631 5169ff1acd97ff1c4ab83563c99f96f4 ""
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1704714077 3524 cb3e574dea2d1052e39280babc910dc8 ""

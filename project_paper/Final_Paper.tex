@@ -113,7 +113,7 @@ In accordance with the aforementioned descriptions, three distinct techniques an
 \subsection{Model}
 To further evaluate the usability of our dataset, we employed a BERT classifier, a transformer model developed and pre-trained by Google. This model is specifically designed for natural language processing tasks and provides a robust framework for text classification.
 Our dataset consists of two columns: "data" and "label". The "data" column includes the textual data, while the "label" column contains binary labels indicating the origin of the text (0 for human-generated and 1 for AI-generated). To adapt BERT for our classification task, we added a fully connected layer with a single output neuron. By applying the sigmoid activation function to this output, we obtained the probability of each text being human or AI-generated.
-We utilized the Binary Cross Entropy Loss (BCELoss) as our loss function, which is suitable for binary classification tasks. The model was trained for 20 epochs with a batch size of 32.
+We utilized the Binary Cross Entropy Loss (BCELoss) as our loss function, which is suitable for binary classification tasks. The model was trained for 15 epochs with a batch size of 32.
 The code can be found in the following link:\\\url{https://github.com/nirmezamer/NLP_final_project.git}
 
 \section{Experiments}
