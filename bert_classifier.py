@@ -44,9 +44,12 @@ def tokenize_data(texts, labels, max_length=128):
 
 def trainer(epochs_num, model, criterion, device, optimizer, train_dataloader,val_dataloader ):
     for epoch in tqdm(range(epochs_num)):
+        batch_number = 0
         model.train()
         train_accuracy = 0
         for batch in train_dataloader:
+            batch_number += 1
+            print(f"Batch number: {batch_number}")
             batch = tuple(t.to(device) for t in batch)
             inputs = {'input_ids': batch[0],
                     'attention_mask': batch[1],
