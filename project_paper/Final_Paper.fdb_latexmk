@@ -1,19 +1,23 @@
 # Fdb version 4
-["bibtex Final_Paper"] 1720879386.59268 "Final_Paper.aux" "Final_Paper.bbl" "Final_Paper" 1720879450.19398 0
-  "./custom.bib" 1720875253 3361 4d0edf6d3477e55c947830f7143599af ""
-  "Final_Paper.aux" 1720879448 3939 cde010edf2b6b650957cedd4c6f6b65f "pdflatex"
+["bibtex Final_Paper"] 1720891534.22127 "Final_Paper.aux" "Final_Paper.bbl" "Final_Paper" 1720891540.73094 0
+  "./custom.bib" 1720888518 592 69268bc58e1e0cf46ed8e2514ffbddf8 ""
+  "Final_Paper.aux" 1720891539 6497 529d81b769c2a6c0cc587f7c993d461a "pdflatex"
   "c:/texlive/2023/texmf-dist/bibtex/bst/natbib/plainnat.bst" 1704726300 26816 ffe5423d2019860bad9f54bc402fac15 ""
   (generated)
   "Final_Paper.bbl"
   "Final_Paper.blg"
   (rewritten before read)
-["pdflatex"] 1720879446.03138 "c:/Users/YuvalMor/Desktop/University/1st simester 4th Year/NLP/Final Project/NLP_final_project/project_paper/Final_Paper.tex" "Final_Paper.pdf" "Final_Paper" 1720879450.19562 0
-  "Final_Paper.aux" 1720879448 3939 cde010edf2b6b650957cedd4c6f6b65f "pdflatex"
-  "Final_Paper.bbl" 1720879387 881 6de99b4e7838008d5fc47dd69d526ec4 "bibtex Final_Paper"
-  "Final_Paper.out" 1720879447 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "Final_Paper.tex" 1720879443 14070 a5e6b3ec7bf208a3e6a9fcc0a4bd6e2f ""
+["pdflatex"] 1720891534.99975 "c:/Users/YuvalMor/Desktop/University/1st simester 4th Year/NLP/Final Project/NLP_final_project/project_paper/Final_Paper.tex" "Final_Paper.pdf" "Final_Paper" 1720891540.73161 0
+  "2_grams.png" 1720889784 122614 d8483a1903eb408b055fff7c99923c4f ""
+  "All_datasets_unique_words.png" 1720891431 59692 98e950b6fbef743bb476a5758b90211e ""
+  "All_word_clouds.png" 1720891337 2228601 c4c19f7f0b8ce754f9427f30f818bf20 ""
+  "Final_Paper.aux" 1720891539 6497 529d81b769c2a6c0cc587f7c993d461a "pdflatex"
+  "Final_Paper.bbl" 1720891534 881 6de99b4e7838008d5fc47dd69d526ec4 "bibtex Final_Paper"
+  "Final_Paper.out" 1720891536 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "Final_Paper.tex" 1720891526 22750 c3ec1c1a52716ef1905136b0ddb3eb22 ""
+  "accuracy.png" 1720886198 61472 bd5fecb2e2781841c560452efb560df5 ""
   "acl2023.sty" 1720857618 11534 0cc89fa8e5891a5b6a48f16ecda8a85c ""
-  "c:/Users/YuvalMor/Desktop/University/1st simester 4th Year/NLP/Final Project/NLP_final_project/project_paper/Final_Paper.tex" 1720879443 14070 a5e6b3ec7bf208a3e6a9fcc0a4bd6e2f ""
+  "c:/Users/YuvalMor/Desktop/University/1st simester 4th Year/NLP/Final Project/NLP_final_project/project_paper/Final_Paper.tex" 1720891526 22750 c3ec1c1a52716ef1905136b0ddb3eb22 ""
   "c:/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc" 1704713052 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "c:/texlive/2023/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-0.enc" 1704715426 7631 5169ff1acd97ff1c4ab83563c99f96f4 ""
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1704714077 3524 cb3e574dea2d1052e39280babc910dc8 ""

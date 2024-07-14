@@ -107,17 +107,68 @@ This process proved successful, where the final dataset we created was in the fo
 Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.
 The website has a free API, which was used to extract articles from Wikipedia. Only articles which has an attribute of "summary" were extracted - a total of 4000 articles. Half of the articles comprised the human generated part of the dataset. In addition, only the titles of the other half were inserted into an hand-crafted prompt, which in turn was fed to the Gemini model, to generate 2000 AI generated wikipedia style summaries. Many expirments were made in order to craft the most suitable prompt, and also to determine the best approach. At first the prompt didn't include a specific title, and the request was to generate a random article summary in a Wikipedia style. That attempt didn't work because the model repeated itself quite a lot. The second attempt was to give the model the title and body of the article (without the summary), and ask it to generate the summary. That attempt worked too well, generating a summary which is very similiar to the real summary - probably because the model was trained on that data. The final attempt was to give the model the title of the article, and it worked quite well. The code can be easily scaled up to generate more summaries, both human and AI generated - limited by the number of articles in the English Wikipedia, which is around 6 million.
 \subsubsection{Newspaper}
-First, we used the Newspaper3k API to obtain articles published recently on the BBC website. An attempt was made to obtain articles from various different news sites (CNN, Fox News, NYT…) but most sites blocked the API calls after a small amount of tries, requiring a payment for extensive API usage. We then crafted another prompt and sent it to Gemini, including the original article (title and content). The prompt included a request to recreate the article, keeping the generated content closely aligned with the given text, while emphasizing to the model to "write originally and use its own words". As opposed to Wikipedia, the model was not trained on the BBC articles, so the generated articles were more diverse and less similar to the original articles. During testing, we noticed that some of the articles extracted by the API were extremely short and unsuitable for inclusion in the dataset. By setting a minimum length requirement, we filtered out these shorter articles, which yielded better results. A total of 300 articles were collected, half of which were used to create the AI generated part of the dataset, and the other half were used as the human generated part.
-\section{Document Body}
+First, we used the Newspaper3k API to obtain articles published recently on the BBC website. An attempt was made to obtain articles from various different news sites (CNN, Fox News, NYT…) but most sites blocked the API calls after a small amount of tries, requiring a payment for extensive API usage. We then crafted another prompt and sent it to Gemini, including the original article (title and content). The prompt included a request to recreate the article, keeping the generated content closely aligned with the given text, while emphasizing to the model to "write originally and use its own words". As opposed to Wikipedia, the model was not trained on the BBC articles, so the generated articles were more diverse and less similar to the original articles. Some of the articles extracted by the API were extremely short (breaking news headlines) and unsuitable for inclusion in the dataset. By setting a length requirement, these shorter articles were filtered, which yielded better results. A total of 300 articles were collected, half were used to create the AI generated part of the dataset, and the other half were used as the human generated.
+\subsubsection{Conclusion of the Data Collection}
+In accordance with the aforementioned descriptions, three distinct techniques and methods were employed for generating the AI texts. This multifaceted approach not only enhances data diversity but also elevates the overall quality of the dataset. The resulting dataset comprises 18,000 labeled samples, evenly split between human-generated and AI-generated texts. This balanced and diverse dataset is suitable for training models to differentiate between human and AI-generated texts. The dataset's diversity is further exemplified by the various sources from which the data was collected, as well as the different text styles, formats, and lengths.
+\subsection{Model}
+To further evaluate the usability of our dataset, we employed a BERT classifier, a transformer model developed and pre-trained by Google. This model is specifically designed for natural language processing tasks and provides a robust framework for text classification.
+Our dataset consists of two columns: "data" and "label". The "data" column includes the textual data, while the "label" column contains binary labels indicating the origin of the text (0 for human-generated and 1 for AI-generated). To adapt BERT for our classification task, we added a fully connected layer with a single output neuron. By applying the sigmoid activation function to this output, we obtained the probability of each text being human or AI-generated.
+We utilized the Binary Cross Entropy Loss (BCELoss) as our loss function, which is suitable for binary classification tasks. The model was trained for 15 epochs with a batch size of 32, using the AdamW optimizer with a learning rate of 2e-5. The training and validation accuracy were monitored to evaluate the model's performance. The training was conducted on Google Colab\footnote{\url{https://colab.research.google.com/}}, using the T4 GPU provided by Google.\\\\
+All of the code, including relevant graphs and documentation can be found in our Github repository\footnote{\url{https://github.com/nirmezamer/NLP_final_project.git}}.
+
+\section{Experiments}
+\subsection{Dataset Analysis}
+In our analysis, we utilized several classic techniques to examine and compare AI-generated and human-generated texts across different datasets. We began by visualizing the distribution of the number of words, characters, unique words, and sentences using histograms. These visualizations reveal a clear distinction between human and AI-generated texts.\\
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=\linewidth]{All_datasets_unique_words.png}
+  \caption{Histograms of unique words in human and AI-generated texts}
+  \label{fig:unique_words}
+\end{figure}
+
+As seen in figure \ref{fig:unique_words}, the histograms of unique words in human and AI-generated texts (more histograms can be found in the Github repository) demonstrate notable differences.
+In the Wikipedia and newspaper datasets, human-generated texts exhibit a broader distribution in terms of the number of words, characters, unique words, and sentences compared to AI-generated texts. This indicates that human writing in these contexts tends to vary more in length and complexity. Conversely, in the Reddit comments dataset, AI-generated texts show a wider distribution than human-generated texts. This can be attributed to the informal and typically shorter nature of Reddit comments, which contrasts with the more formal and extended format of Wikipedia and newspaper articles.
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=\linewidth]{2_grams.png}
+  \caption{2-gram analysis of human and AI-generated texts}
+  \label{fig:n-grams}
+\end{figure}
+Furthermore, we analyzed the most frequent n-grams (combinations of words) within the datasets, as seen in figure \ref{fig:n-grams} (more n-grams analysis can be found in the Github repository). This analysis highlights significant differences between human and AI-generated n-grams. Human-generated texts tend to have n-grams that are used more frequently than those in AI-generated texts. This suggests that human writing often relies on common phrases and constructs, while AI-generated texts may exhibit a more diverse range of expressions. The n-gram analysis thus provides insights into the distinctive patterns of language use between human and AI texts.
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=\linewidth]{All_word_clouds.png}
+  \caption{Word clouds of human and AI-generated texts}
+  \label{fig:word_clouds}
+\end{figure}
+The word clouds generated from the datasets further illustrate these differences, as shown in figure \ref{fig:word_clouds}. In word clouds, the size of a word corresponds to its frequency in the text. Human-generated texts typically result in larger word clouds, reflecting a higher repetition of certain words or phrases. On the other hand, AI-generated texts produce more diverse word clouds, indicating a broader vocabulary and varied word usage. This diversity in AI-generated word clouds underscores the algorithmic attempts to create varied and less repetitive content.
+
+Overall, our analysis reveals that human-generated texts are more varied and nuanced, especially in formal contexts like Wikipedia and newspapers. In contrast, AI-generated texts, while potentially more diverse in vocabulary, tend to be more consistent in length and structure, particularly in informal contexts like Reddit comments. These findings highlight the intrinsic differences in content generation between humans and AI, offering valuable insights for understanding and improving AI text generation technologies.
+\\
+\\
+\subsection{Model Evaluation}
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=\linewidth]{accuracy.png}
+  \caption{Training and validation accuracy over 15 epochs}
+  \label{fig:example}
+\end{figure}
+
+The accompanying graph illustrates the training and validation accuracy over the epochs.
+From the graph, it is evident that the model effectively distinguishes between human and AI-generated texts. The training accuracy rapidly increases, approaching near-perfect performance within a few epochs. However, the validation accuracy exhibits a different trend, initially improving but then fluctuating and showing signs of decline as the epochs progress. This divergence between training and validation accuracy indicates overfitting, a common issue when the model learns to perform exceptionally well on the training data but fails to generalize to unseen data.
+The overfitting observed here is likely due to the relatively small size of our dataset. With limited data, the model can easily memorize the training examples, leading to high training accuracy but poor generalization. This emphasizes the need for larger and more diverse datasets to train models that can generalize well to new, unseen texts.
+In conclusion, while the BERT classifier demonstrates high performance on the training data, the validation results highlight the importance of addressing overfitting. This analysis underscores the dataset's utility in distinguishing between human and AI-generated texts but also points to the need for further data augmentation and regularization techniques to improve generalization.
+
+\section{Discussion and Conclusion}
+In our comprehensive study, we focused on the ability to answer the question of the origin of a given text. Ultimately, a deep learning model will answer this question by receiving a text as input and providing a classification response as output. The classification question is difficult and perhaps impossible for humans due to the rapid development of LLMs, this research demonstrates a pipeline which can be used to train a model to solve this problem. By creating a diverse, large, and balanced dataset, high performance and very high accuracy rates can be achieved.
+The essence of the research is to create a dataset that is as close as possible to the real world, where the texts generated by the LLM are indistinguishable from the human-generated texts. Further improvement of the dataset can be achived by utilizing more sources and domains, using multiple LLMs to generate the AI texts and even applying a sort of a MixUp augmentation technique, where a random human text is mixed with a random AI text. This will increase the diversity of the dataset.
+Over time, of course, LLMs will improve significantly and rapidly, making the classification question of whether a text was created by a human or an LLM even more challenging. However, our research provides hope and indicates a close connection between the construction of the dataset intended for training the model and the ability of a deep learning model to notice differences, even those not visible to the eye, between different types of texts.
 
 \bibliography{custom}
 \bibliographystyle{plainnat}
 
-\appendix
-
-\section{Example Appendix}
-\label{sec:appendix}
-
-This is a section in the appendix.
 
 \end{document}
